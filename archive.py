@@ -168,7 +168,7 @@ DEFAULT_DELAY_MEDIA    = 0.3
 DEFAULT_DELAY_AVATAR_RANGE = (0.05, 0.25)
 
 # 索引/渲染
-TEXT_MAX = 500
+TEXT_MAX = 10000
 
 # 媒体短响应阈值（小于这个字节数视为限速 / 截断）
 MEDIA_MIN_SIZE = 500
@@ -930,7 +930,7 @@ _IMG_BASENAME_OLD_RE = re.compile(
 _IMG_URL_BASENAME_RE = re.compile(
     r"pbs\.twimg\.com/media/([A-Za-z0-9_\-]+?)(?:\.(?:jpg|png|gif|webp|jpeg))?$",
 )
-_VIDEO_KEY_RE  = re.compile(r"(?:amplify_video|ext_tw_video)[/_](\d+)|tweet_video[/_]([A-Za-z0-9]+)")
+_VIDEO_KEY_RE  = re.compile(r"(?:amplify_video|ext_tw_video)[/_](\d+)|tweet_video[/_]([A-Za-z0-9_-]+)")
 _AVATAR_PID_RE = re.compile(r"^avatar_(\d+)\.(?:jpg|png|gif|webp|jpeg)$", re.IGNORECASE)
 _PROFILE_URL_PID_RE = re.compile(r"/profile_images/(\d+)/")
 _TIMESTAMP_PREFIX_RE = re.compile(r"^(\d{14})_")
@@ -1074,6 +1074,26 @@ def build_video_candidate_urls(video_url: str, snapshot_timestamp: str) -> list[
         add(f"https://web.archive.org/web/{snapshot_timestamp}im_/{video_url}")
         add(f"https://web.archive.org/web/{snapshot_timestamp}if_/{video_url}")
         add(f"https://web.archive.org/web/{snapshot_timestamp}/{video_url}")
+    return out
+
+
+# 全站共享头像池（home 仓库 GitHub Pages，走 CDN）。
+# 下头像前先查这里，命中则秒取，未命中(404)自动回退 Wayback。
+# 设环境变量 AVATAR_POOL_BASE="" 可关闭此优化。
+AVATAR_POOL_BASE = os.environ.get(
+    "AVATAR_POOL_BASE",
+    "https://twitterarchiver.github.io/home/avatars",
+).rstrip("/")
+
+
+def build_avatar_pool_urls(pid: str, ext: str) -> list[str]:
+    """全站共享头像池候选（作为最优先候选，未命中会自动回退到 Wayback）。"""
+    if not pid or not AVATAR_POOL_BASE:
+        return []
+    out = [f"{AVATAR_POOL_BASE}/avatar_{pid}{ext}"]
+    # 池子若统一用 .jpg 存，补一个 .jpg 兜底
+    if ext.lower() != ".jpg":
+        out.append(f"{AVATAR_POOL_BASE}/avatar_{pid}.jpg")
     return out
 
 
@@ -1957,10 +1977,12 @@ def _download_one_avatar(item: dict, snapshot_ts: str, media_index: MediaIndex,
         set_status(KIND_AVATAR, url, STATUS_DONE)
         return True, f"复用本地（按 {hit} 命中）"
 
-    candidates = build_avatar_candidate_urls(url, snapshot_ts)
     ext = ext_from_url(url)
     fname = f"avatar_{pid}{ext}"
     fpath = os.path.join(AVATAR_DIR, fname)
+
+    # 先查共享头像池（CDN，快），未命中(404)自动回退原站/Wayback
+    candidates = build_avatar_pool_urls(pid, ext) + build_avatar_candidate_urls(url, snapshot_ts)
 
     try:
         size, _used = download_with_candidates(candidates, fpath, log=safe_print,
@@ -2540,9 +2562,8 @@ def _bi_build_video_index() -> dict:
         key=lambda f: (0 if "_video_twimg_com_" in f else 1, f),
     )
     for fname in fnames:
-        m = re.search(r"(?:amplify_video|ext_tw_video|tweet_video)[/_](\d+)", fname)
-        if m:
-            key = m.group(1)
+        key = extract_video_media_key(fname)
+        if key:
             if key not in index:
                 index[key] = f"../video/{fname}"
     return index
@@ -2799,12 +2820,8 @@ def _bi_media_lookup_for_json(json_data: dict):
             key = None
             for v in media.get("variants", []) or []:
                 if v.get("content_type") == "video/mp4":
-                    url = v.get("url", "")
-                    m = re.search(
-                        r"(?:amplify_video|ext_tw_video|tweet_video)[/_](\d+)", url,
-                    )
-                    if m:
-                        key = m.group(1)
+                    key = extract_video_media_key(v.get("url", ""))
+                    if key:
                         break
             if not key:
                 m = re.search(r"(\d+)$", mkey)
@@ -2910,12 +2927,8 @@ def _bi_extract_from_json(json_data: dict, tweet_id_index: dict | None = None) -
             key = None
             for v in media.get("variants", []) or []:
                 if v.get("content_type") == "video/mp4":
-                    url = v.get("url", "")
-                    m = re.search(
-                        r"(?:amplify_video|ext_tw_video|tweet_video)[/_](\d+)", url,
-                    )
-                    if m:
-                        key = m.group(1)
+                    key = extract_video_media_key(v.get("url", ""))
+                    if key:
                         break
             if not key:
                 m = re.search(r"(\d+)$", mkey)
