@@ -82,18 +82,34 @@ python ../../archive.py build-index
 
 ---
 
-### 私密账号流程（X 数据导出包）
+### 私密账号流程（download_archive.py 的 dump）
 
-适用于自己账号的完整导出包（X 官方导出的 ZIP 文件）：
+适用于 Wayback 上没有存档的账号（私密/锁推），数据来自 `download_archive.py` 抓取的 dump：
 
 ```bash
 # 在账号目录下
-python ../../archive.py convert /path/to/twitter-{USERNAME}-export/
+python ../../archive.py convert /path/to/dump_dir/
 
-# 之后正常跑媒体下载和索引
-python ../../archive.py fetch-media
+# 从 json/ 渲染出 HTML（伪 wayback 风格，供 build-index 使用）
+python ../../archive.py render-html
+
+# 建索引
 python ../../archive.py build-index
 ```
+
+dump 目录需要有这样的结构：
+
+```
+dump_dir/
+  {USER}_archive_assets/
+    snapshots.json      # {user, snapshots:[{timestamp, original_url, json_filename}]}
+    media_index.json    # 原始 URL → 本地 hash 文件的映射
+    json/{ts}_{tid}.json
+    media/{hash}.{ext}
+```
+
+> `convert` 接收的是 **download_archive.py 的 dump**，不是 X 官方的数据导出 ZIP。
+> 找不到 `snapshots.json` 会直接报错退出。
 
 ---
 
@@ -263,10 +279,11 @@ python archive.py dedup [--execute]
 ### `convert`
 
 ```bash
-python archive.py convert /path/to/twitter-export/
+python archive.py convert /path/to/dump_dir/
 ```
 
-将 X 官方数据导出包（私密账号或自己账号）转换为本项目格式，生成 `json/` 目录下的推文 JSON 和对应 HTML。
+将 `download_archive.py` 产出的 dump 转换为本项目格式，写入 `json/` 与 `image/` `video/` `avatar/`。
+需要 dump 内含 `snapshots.json` 与 `media_index.json`，否则报错退出。转换后接 `render-html` 生成 HTML。
 
 ---
 
