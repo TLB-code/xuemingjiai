@@ -1,0 +1,181 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Dec 09 20:54:50 +0000 2021",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/i/web/status/1…",
+        "expanded_url": "https://twitter.com/i/web/status/1469047912810557440",
+        "indices": [
+          117,
+          140
+        ],
+        "url": "https://t.co/X9j3r1ea1U"
+      }
+    ],
+    "user_mentions": []
+  },
+  "extended_tweet": {
+    "display_text_range": [
+      0,
+      142
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/saNhT8Hp62",
+          "expanded_url": "https://twitter.com/zouzoudamowang/status/1469047912810557440/photo/1",
+          "id": 1469046420942430211,
+          "id_str": "1469046420942430211",
+          "indices": [
+            143,
+            166
+          ],
+          "media_url": "http://pbs.twimg.com/media/FGMZ777VIAM_mTQ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FGMZ777VIAM_mTQ.jpg",
+          "sizes": {
+            "large": {
+              "h": 1020,
+              "resize": "fit",
+              "w": 1334
+            },
+            "medium": {
+              "h": 918,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 520,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/saNhT8Hp62"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/saNhT8Hp62",
+          "expanded_url": "https://twitter.com/zouzoudamowang/status/1469047912810557440/photo/1",
+          "id": 1469046420942430211,
+          "id_str": "1469046420942430211",
+          "indices": [
+            143,
+            166
+          ],
+          "media_url": "http://pbs.twimg.com/media/FGMZ777VIAM_mTQ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FGMZ777VIAM_mTQ.jpg",
+          "sizes": {
+            "large": {
+              "h": 1020,
+              "resize": "fit",
+              "w": 1334
+            },
+            "medium": {
+              "h": 918,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 520,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/saNhT8Hp62"
+        }
+      ]
+    },
+    "full_text": "所以说奏奏大小姐为什么不发文援记录呢?咱说一下自己的想法。\n新鲜感是一个很重要的东西，本大小姐致力于想象力的创新，希望能让加我的小可爱们抱着一颗对美好事物的幻想这样的心态过来，而不是千篇一律的不变。\n有趣的灵魂万里挑一，屑到极点便是萌\n千言万语汇成一句话，请使出浑身解数吸引我的注意力 https://t.co/saNhT8Hp62"
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "filter_level": "low",
+  "geo": null,
+  "id": 1469047912810557440,
+  "id_str": "1469047912810557440",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "zh",
+  "place": null,
+  "possibly_sensitive": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "text": "所以说奏奏大小姐为什么不发文援记录呢?咱说一下自己的想法。\n新鲜感是一个很重要的东西，本大小姐致力于想象力的创新，希望能让加我的小可爱们抱着一颗对美好事物的幻想这样的心态过来，而不是千篇一律的不变。\n有趣的灵魂万里挑一，屑到极点便… https://t.co/X9j3r1ea1U",
+  "timestamp_ms": "1639083290661",
+  "truncated": true,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Sat Mar 06 03:19:25 +0000 2021",
+    "default_profile": true,
+    "default_profile_image": false,
+    "description": "继承了Stella小姐意志的奏奏大小姐♥\n脑子里有着各种奇奇怪怪的想法🖤\n专业洗脑开发强行更改你的XP，文援界的XP改造导师♥\n一名桀骜不驯的文援姬，腹黑傲娇可爱的外表下隐藏着天使与恶魔的双面心脏♥🖤\n最最亲爱喜欢的主人@sanswwww\n女仆@yuexiaS\n@qunxingdiyu\n咨询qq2832149687",
+    "favourites_count": 103,
+    "follow_request_sent": null,
+    "followers_count": 20452,
+    "following": null,
+    "friends_count": 90,
+    "geo_enabled": false,
+    "id": 1368038404554821633,
+    "id_str": "1368038404554821633",
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 50,
+    "location": null,
+    "name": "奏奏大魔王♥🖤💚",
+    "notifications": null,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1368038404554821633/1638481429",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1469037729958612992/667NM6b9_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1469037729958612992/667NM6b9_normal.jpg",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "zouzoudamowang",
+    "statuses_count": 294,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": null,
+    "utc_offset": null,
+    "verified": false,
+    "withheld_in_countries": []
+  }
+}

@@ -1,0 +1,454 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Jul 28 13:22:37 +0000 2022",
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          136,
+          139
+        ],
+        "text": "文援"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 1368038404554821633,
+        "id_str": "1368038404554821633",
+        "indices": [
+          3,
+          18
+        ],
+        "name": "奏奏大魔王♥🖤💚",
+        "screen_name": "zouzoudamowang"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "filter_level": "low",
+  "geo": null,
+  "id": 1552645705726316546,
+  "id_str": "1552645705726316546",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "zh",
+  "place": null,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jul 11 20:04:46 +0000 2022",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/i/web/status/1…",
+          "expanded_url": "https://twitter.com/i/web/status/1546586316241903617",
+          "indices": [
+            117,
+            140
+          ],
+          "url": "https://t.co/wysqLHMQFN"
+        }
+      ],
+      "user_mentions": []
+    },
+    "extended_tweet": {
+      "display_text_range": [
+        0,
+        140
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              116,
+              119
+            ],
+            "text": "文援"
+          },
+          {
+            "indices": [
+              120,
+              124
+            ],
+            "text": "性幻想"
+          },
+          {
+            "indices": [
+              125,
+              132
+            ],
+            "text": "奇怪的性幻想"
+          },
+          {
+            "indices": [
+              133,
+              136
+            ],
+            "text": "炼铜"
+          },
+          {
+            "indices": [
+              137,
+              140
+            ],
+            "text": "幼女"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/E0cTwCev3N",
+            "expanded_url": "https://twitter.com/zouzoudamowang/status/1546586316241903617/photo/1",
+            "id": 1546586304472707077,
+            "id_str": "1546586304472707077",
+            "indices": [
+              141,
+              164
+            ],
+            "media_url": "http://pbs.twimg.com/media/FXaUDLyUcAUHnvJ.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FXaUDLyUcAUHnvJ.jpg",
+            "sizes": {
+              "large": {
+                "h": 2048,
+                "resize": "fit",
+                "w": 945
+              },
+              "medium": {
+                "h": 1200,
+                "resize": "fit",
+                "w": 554
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 314
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/E0cTwCev3N"
+          },
+          {
+            "display_url": "pic.twitter.com/E0cTwCev3N",
+            "expanded_url": "https://twitter.com/zouzoudamowang/status/1546586316241903617/photo/1",
+            "id": 1546586304447541248,
+            "id_str": "1546586304447541248",
+            "indices": [
+              141,
+              164
+            ],
+            "media_url": "http://pbs.twimg.com/media/FXaUDLsUcAAr-jT.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FXaUDLsUcAAr-jT.jpg",
+            "sizes": {
+              "large": {
+                "h": 2048,
+                "resize": "fit",
+                "w": 945
+              },
+              "medium": {
+                "h": 1200,
+                "resize": "fit",
+                "w": 554
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 314
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/E0cTwCev3N"
+          },
+          {
+            "display_url": "pic.twitter.com/E0cTwCev3N",
+            "expanded_url": "https://twitter.com/zouzoudamowang/status/1546586316241903617/photo/1",
+            "id": 1546586304468488194,
+            "id_str": "1546586304468488194",
+            "indices": [
+              141,
+              164
+            ],
+            "media_url": "http://pbs.twimg.com/media/FXaUDLxUEAIJxKn.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FXaUDLxUEAIJxKn.jpg",
+            "sizes": {
+              "large": {
+                "h": 2048,
+                "resize": "fit",
+                "w": 945
+              },
+              "medium": {
+                "h": 1200,
+                "resize": "fit",
+                "w": 554
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 314
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/E0cTwCev3N"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/E0cTwCev3N",
+            "expanded_url": "https://twitter.com/zouzoudamowang/status/1546586316241903617/photo/1",
+            "id": 1546586304472707077,
+            "id_str": "1546586304472707077",
+            "indices": [
+              141,
+              164
+            ],
+            "media_url": "http://pbs.twimg.com/media/FXaUDLyUcAUHnvJ.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FXaUDLyUcAUHnvJ.jpg",
+            "sizes": {
+              "large": {
+                "h": 2048,
+                "resize": "fit",
+                "w": 945
+              },
+              "medium": {
+                "h": 1200,
+                "resize": "fit",
+                "w": 554
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 314
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/E0cTwCev3N"
+          },
+          {
+            "display_url": "pic.twitter.com/E0cTwCev3N",
+            "expanded_url": "https://twitter.com/zouzoudamowang/status/1546586316241903617/photo/1",
+            "id": 1546586304447541248,
+            "id_str": "1546586304447541248",
+            "indices": [
+              141,
+              164
+            ],
+            "media_url": "http://pbs.twimg.com/media/FXaUDLsUcAAr-jT.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FXaUDLsUcAAr-jT.jpg",
+            "sizes": {
+              "large": {
+                "h": 2048,
+                "resize": "fit",
+                "w": 945
+              },
+              "medium": {
+                "h": 1200,
+                "resize": "fit",
+                "w": 554
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 314
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/E0cTwCev3N"
+          },
+          {
+            "display_url": "pic.twitter.com/E0cTwCev3N",
+            "expanded_url": "https://twitter.com/zouzoudamowang/status/1546586316241903617/photo/1",
+            "id": 1546586304468488194,
+            "id_str": "1546586304468488194",
+            "indices": [
+              141,
+              164
+            ],
+            "media_url": "http://pbs.twimg.com/media/FXaUDLxUEAIJxKn.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FXaUDLxUEAIJxKn.jpg",
+            "sizes": {
+              "large": {
+                "h": 2048,
+                "resize": "fit",
+                "w": 945
+              },
+              "medium": {
+                "h": 1200,
+                "resize": "fit",
+                "w": 554
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 314
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/E0cTwCev3N"
+          }
+        ]
+      },
+      "full_text": "夏日限定玩法(3)\n神奇的草元素！\n没错～你没看错，作为一个从来不发原神相关类型的推主，这次也忍不住真香了！\n草神的人设太吸引奏奏啦(才不是炼铜癖呢)所以这次会化身成为虽然还没出现在正式服的小草王萝莉，和各位旅行者度过炎炎夏日呢💚\n#文援 #性幻想 #奇怪的性幻想 #炼铜 #幼女 https://t.co/E0cTwCev3N"
+    },
+    "favorite_count": 12,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 1546586316241903617,
+    "id_str": "1546586316241903617",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "zh",
+    "place": null,
+    "possibly_sensitive": false,
+    "quote_count": 0,
+    "reply_count": 3,
+    "retweet_count": 4,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "夏日限定玩法(3)\n神奇的草元素！\n没错～你没看错，作为一个从来不发原神相关类型的推主，这次也忍不住真香了！\n草神的人设太吸引奏奏啦(才不是炼铜癖呢)所以这次会化身成为虽然还没出现在正式服的小草王萝莉，和各位旅行者度过炎炎夏日呢💚… https://t.co/wysqLHMQFN",
+    "truncated": true,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Sat Mar 06 03:19:25 +0000 2021",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "这里是从小恶魔学院满分毕业的天才美少女奏奏大小姐♥\n最喜欢把可爱的处男耍的团团转，变成女孩子的玩物舔狗工具人atm提款机🖤\n会温柔的对待妄想得到爱情的白痴绿奴💚\n老婆@Cetmd4zRo0PhCsk\n家人@qunxingdiyu\n@Sirin429\n@baitai77777\n咨询qq2438028521",
+      "favourites_count": 539,
+      "follow_request_sent": null,
+      "followers_count": 27907,
+      "following": null,
+      "friends_count": 161,
+      "geo_enabled": false,
+      "id": 1368038404554821633,
+      "id_str": "1368038404554821633",
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 70,
+      "location": null,
+      "name": "奏奏大魔王♥🖤💚",
+      "notifications": null,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1368038404554821633/1643830498",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1547703317676978177/4mOeiNYn_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1547703317676978177/4mOeiNYn_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "zouzoudamowang",
+      "statuses_count": 831,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": false,
+      "withheld_in_countries": []
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "RT @zouzoudamowang: 夏日限定玩法(3)\n神奇的草元素！\n没错～你没看错，作为一个从来不发原神相关类型的推主，这次也忍不住真香了！\n草神的人设太吸引奏奏啦(才不是炼铜癖呢)所以这次会化身成为虽然还没出现在正式服的小草王萝莉，和各位旅行者度过炎炎夏日呢💚\n#文援…",
+  "timestamp_ms": "1659014557664",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Sat Mar 06 03:19:25 +0000 2021",
+    "default_profile": true,
+    "default_profile_image": false,
+    "description": "这里是从小恶魔学院满分毕业的天才美少女奏奏大小姐♥\n最喜欢把可爱的处男耍的团团转，变成女孩子的玩物舔狗工具人atm提款机🖤\n会温柔的对待妄想得到爱情的白痴绿奴💚\n老婆@Cetmd4zRo0PhCsk\n家人@qunxingdiyu\n@Sirin429\n@baitai77777\n咨询qq2438028521",
+    "favourites_count": 539,
+    "follow_request_sent": null,
+    "followers_count": 27907,
+    "following": null,
+    "friends_count": 161,
+    "geo_enabled": false,
+    "id": 1368038404554821633,
+    "id_str": "1368038404554821633",
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 70,
+    "location": null,
+    "name": "奏奏大魔王♥🖤💚",
+    "notifications": null,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1368038404554821633/1643830498",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1547703317676978177/4mOeiNYn_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1547703317676978177/4mOeiNYn_normal.jpg",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "zouzoudamowang",
+    "statuses_count": 832,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": null,
+    "utc_offset": null,
+    "verified": false,
+    "withheld_in_countries": []
+  }
+}

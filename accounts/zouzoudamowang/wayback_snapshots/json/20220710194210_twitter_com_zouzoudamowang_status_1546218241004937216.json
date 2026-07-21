@@ -1,0 +1,461 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Jul 10 19:42:10 +0000 2022",
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          136,
+          139
+        ],
+        "text": "文援"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 1368038404554821633,
+        "id_str": "1368038404554821633",
+        "indices": [
+          3,
+          18
+        ],
+        "name": "奏奏大魔王♥🖤💚",
+        "screen_name": "zouzoudamowang"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "filter_level": "low",
+  "geo": null,
+  "id": 1546218241004937216,
+  "id_str": "1546218241004937216",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "zh",
+  "place": null,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Jul 10 17:44:37 +0000 2022",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/i/web/status/1…",
+          "expanded_url": "https://twitter.com/i/web/status/1546188657563803649",
+          "indices": [
+            117,
+            140
+          ],
+          "url": "https://t.co/qcYY98U8n2"
+        }
+      ],
+      "user_mentions": []
+    },
+    "extended_tweet": {
+      "display_text_range": [
+        0,
+        142
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              116,
+              119
+            ],
+            "text": "文援"
+          },
+          {
+            "indices": [
+              120,
+              123
+            ],
+            "text": "纯爱"
+          },
+          {
+            "indices": [
+              124,
+              127
+            ],
+            "text": "调教"
+          },
+          {
+            "indices": [
+              128,
+              131
+            ],
+            "text": "猫娘"
+          },
+          {
+            "indices": [
+              132,
+              137
+            ],
+            "text": "射精管理"
+          },
+          {
+            "indices": [
+              138,
+              142
+            ],
+            "text": "性幻想"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/e3BdVApHCd",
+            "expanded_url": "https://twitter.com/zouzoudamowang/status/1546188657563803649/photo/1",
+            "id": 1546188645475880961,
+            "id_str": "1546188645475880961",
+            "indices": [
+              143,
+              166
+            ],
+            "media_url": "http://pbs.twimg.com/media/FXUqYYlVEAEJZIu.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FXUqYYlVEAEJZIu.jpg",
+            "sizes": {
+              "large": {
+                "h": 2048,
+                "resize": "fit",
+                "w": 945
+              },
+              "medium": {
+                "h": 1200,
+                "resize": "fit",
+                "w": 554
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 314
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/e3BdVApHCd"
+          },
+          {
+            "display_url": "pic.twitter.com/e3BdVApHCd",
+            "expanded_url": "https://twitter.com/zouzoudamowang/status/1546188657563803649/photo/1",
+            "id": 1546188645626810368,
+            "id_str": "1546188645626810368",
+            "indices": [
+              143,
+              166
+            ],
+            "media_url": "http://pbs.twimg.com/media/FXUqYZJUEAA18B8.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FXUqYZJUEAA18B8.jpg",
+            "sizes": {
+              "large": {
+                "h": 2048,
+                "resize": "fit",
+                "w": 945
+              },
+              "medium": {
+                "h": 1200,
+                "resize": "fit",
+                "w": 554
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 314
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/e3BdVApHCd"
+          },
+          {
+            "display_url": "pic.twitter.com/e3BdVApHCd",
+            "expanded_url": "https://twitter.com/zouzoudamowang/status/1546188657563803649/photo/1",
+            "id": 1546188645467426817,
+            "id_str": "1546188645467426817",
+            "indices": [
+              143,
+              166
+            ],
+            "media_url": "http://pbs.twimg.com/media/FXUqYYjUEAEJ2Vg.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FXUqYYjUEAEJ2Vg.jpg",
+            "sizes": {
+              "large": {
+                "h": 2048,
+                "resize": "fit",
+                "w": 945
+              },
+              "medium": {
+                "h": 1200,
+                "resize": "fit",
+                "w": 554
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 314
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/e3BdVApHCd"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/e3BdVApHCd",
+            "expanded_url": "https://twitter.com/zouzoudamowang/status/1546188657563803649/photo/1",
+            "id": 1546188645475880961,
+            "id_str": "1546188645475880961",
+            "indices": [
+              143,
+              166
+            ],
+            "media_url": "http://pbs.twimg.com/media/FXUqYYlVEAEJZIu.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FXUqYYlVEAEJZIu.jpg",
+            "sizes": {
+              "large": {
+                "h": 2048,
+                "resize": "fit",
+                "w": 945
+              },
+              "medium": {
+                "h": 1200,
+                "resize": "fit",
+                "w": 554
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 314
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/e3BdVApHCd"
+          },
+          {
+            "display_url": "pic.twitter.com/e3BdVApHCd",
+            "expanded_url": "https://twitter.com/zouzoudamowang/status/1546188657563803649/photo/1",
+            "id": 1546188645626810368,
+            "id_str": "1546188645626810368",
+            "indices": [
+              143,
+              166
+            ],
+            "media_url": "http://pbs.twimg.com/media/FXUqYZJUEAA18B8.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FXUqYZJUEAA18B8.jpg",
+            "sizes": {
+              "large": {
+                "h": 2048,
+                "resize": "fit",
+                "w": 945
+              },
+              "medium": {
+                "h": 1200,
+                "resize": "fit",
+                "w": 554
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 314
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/e3BdVApHCd"
+          },
+          {
+            "display_url": "pic.twitter.com/e3BdVApHCd",
+            "expanded_url": "https://twitter.com/zouzoudamowang/status/1546188657563803649/photo/1",
+            "id": 1546188645467426817,
+            "id_str": "1546188645467426817",
+            "indices": [
+              143,
+              166
+            ],
+            "media_url": "http://pbs.twimg.com/media/FXUqYYjUEAEJ2Vg.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FXUqYYjUEAEJ2Vg.jpg",
+            "sizes": {
+              "large": {
+                "h": 2048,
+                "resize": "fit",
+                "w": 945
+              },
+              "medium": {
+                "h": 1200,
+                "resize": "fit",
+                "w": 554
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 314
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/e3BdVApHCd"
+          }
+        ]
+      },
+      "full_text": "夏日限定玩法(1)\n可爱的银发猫娘♥\n你喜欢猫吗？我觉得大部分人都很喜欢猫吧～那么如果是猫娘呢?\n自从艹猫等猫猫拟人化作品游戏从雨后春笋钻出来，在现在圈子里似乎都能接受猫娘这样的设定了呢，那么夏日限定玩法的第一个就是和猫娘有关哦💚\n#文援 #纯爱 #调教 #猫娘 #射精管理 #性幻想 https://t.co/e3BdVApHCd"
+    },
+    "favorite_count": 7,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 1546188657563803649,
+    "id_str": "1546188657563803649",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "zh",
+    "place": null,
+    "possibly_sensitive": false,
+    "quote_count": 0,
+    "reply_count": 1,
+    "retweet_count": 2,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "夏日限定玩法(1)\n可爱的银发猫娘♥\n你喜欢猫吗？我觉得大部分人都很喜欢猫吧～那么如果是猫娘呢?\n自从艹猫等猫猫拟人化作品游戏从雨后春笋钻出来，在现在圈子里似乎都能接受猫娘这样的设定了呢，那么夏日限定玩法的第一个就是和猫娘有关哦💚… https://t.co/qcYY98U8n2",
+    "truncated": true,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Sat Mar 06 03:19:25 +0000 2021",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "这里是从小恶魔学院满分毕业的天才美少女奏奏大小姐♥\n最喜欢把可爱的处男耍的团团转，变成女孩子的玩物舔狗工具人atm提款机🖤\n会温柔的对待妄想得到爱情的白痴绿奴💚\n家养小凤@xiaofengzouzou\n家人@qunxingdiyu\n@Sirin429\n@baitai77777\n咨询qq2438028521",
+      "favourites_count": 478,
+      "follow_request_sent": null,
+      "followers_count": 27824,
+      "following": null,
+      "friends_count": 151,
+      "geo_enabled": false,
+      "id": 1368038404554821633,
+      "id_str": "1368038404554821633",
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 68,
+      "location": null,
+      "name": "奏奏大魔王♥🖤💚",
+      "notifications": null,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1368038404554821633/1643830498",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1544662117977976832/LMPK4ftV_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1544662117977976832/LMPK4ftV_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "zouzoudamowang",
+      "statuses_count": 756,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": false,
+      "withheld_in_countries": []
+    }
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "text": "RT @zouzoudamowang: 夏日限定玩法(1)\n可爱的银发猫娘♥\n你喜欢猫吗？我觉得大部分人都很喜欢猫吧～那么如果是猫娘呢?\n自从艹猫等猫猫拟人化作品游戏从雨后春笋钻出来，在现在圈子里似乎都能接受猫娘这样的设定了呢，那么夏日限定玩法的第一个就是和猫娘有关哦💚\n#文援…",
+  "timestamp_ms": "1657482130658",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Sat Mar 06 03:19:25 +0000 2021",
+    "default_profile": true,
+    "default_profile_image": false,
+    "description": "这里是从小恶魔学院满分毕业的天才美少女奏奏大小姐♥\n最喜欢把可爱的处男耍的团团转，变成女孩子的玩物舔狗工具人atm提款机🖤\n会温柔的对待妄想得到爱情的白痴绿奴💚\n家养小凤@xiaofengzouzou\n家人@qunxingdiyu\n@Sirin429\n@baitai77777\n咨询qq2438028521",
+    "favourites_count": 478,
+    "follow_request_sent": null,
+    "followers_count": 27824,
+    "following": null,
+    "friends_count": 151,
+    "geo_enabled": false,
+    "id": 1368038404554821633,
+    "id_str": "1368038404554821633",
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 68,
+    "location": null,
+    "name": "奏奏大魔王♥🖤💚",
+    "notifications": null,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1368038404554821633/1643830498",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1544662117977976832/LMPK4ftV_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1544662117977976832/LMPK4ftV_normal.jpg",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "zouzoudamowang",
+    "statuses_count": 757,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": null,
+    "utc_offset": null,
+    "verified": false,
+    "withheld_in_countries": []
+  }
+}
