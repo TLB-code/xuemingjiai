@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "1468331979892752384",
+    "text": "因为自己不够优秀才会去羡慕嫉妒比自己优秀的人。",
+    "created_at": "2021-12-07T21:29:58Z",
+    "author_id": "1368038404554821633",
+    "conversation_id": "1468331979892752384"
+  },
+  "includes": {
+    "users": [
+      {
+        "id": "1368038404554821633",
+        "name": "奏奏大魔王♥🖤💚",
+        "username": "zouzoudamowang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1466523291674636289/b4I2xSAH_bigger.jpg"
+      }
+    ],
+    "media": []
+  },
+  "_legacy_html": {
+    "capture_timestamp": "20211207213037",
+    "original_url": "https://twitter.com/zouzoudamowang/status/1468331979892752384",
+    "parser": "old-dom"
+  }
+}

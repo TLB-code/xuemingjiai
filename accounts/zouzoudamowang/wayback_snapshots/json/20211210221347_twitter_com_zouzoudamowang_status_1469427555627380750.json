@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "1469427555627380750",
+    "text": "喜欢我emo吗？",
+    "created_at": "2021-12-10T22:03:24Z",
+    "author_id": "1368038404554821633",
+    "conversation_id": "1469424980685635585"
+  },
+  "includes": {
+    "users": [
+      {
+        "id": "1368038404554821633",
+        "name": "奏奏大魔王♥🖤💚",
+        "username": "zouzoudamowang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1469412841790660613/iuUJnV3i_bigger.jpg"
+      }
+    ],
+    "media": []
+  },
+  "_legacy_html": {
+    "capture_timestamp": "20211210221347",
+    "original_url": "https://twitter.com/zouzoudamowang/status/1469427555627380750",
+    "parser": "old-dom"
+  }
+}

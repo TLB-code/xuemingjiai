@@ -1,0 +1,48 @@
+{
+  "data": {
+    "id": "1547709575545044997",
+    "text": "夏日限定玩法(6)\n黑暗游戏\n提起黑暗游戏，想到什么了吗？没错，就是游戏王哒哟！这是一位客人给奏奏提供的想法，感觉很不错～加入了一些自己的设定让这个主题变得更加有趣。\nps:因为奏奏刚入坑，对很多卡组不熟悉，所以这个限定玩法不会涉及核心玩法，想要认真打牌的可以等奏奏熟悉！\n#文援 #性幻想",
+    "created_at": "2022-07-14T22:28:12.000Z",
+    "author_id": "1368038404554821633",
+    "conversation_id": "1547709575545044997",
+    "attachments": {
+      "media_keys": [
+        "legacy_1547709575545044997_1",
+        "legacy_1547709575545044997_2",
+        "legacy_1547709575545044997_3"
+      ]
+    }
+  },
+  "includes": {
+    "users": [
+      {
+        "id": "1368038404554821633",
+        "name": "奏奏大魔王♥🖤💚",
+        "username": "zouzoudamowang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1547703317676978177/4mOeiNYn_400x400.jpg"
+      }
+    ],
+    "media": [
+      {
+        "media_key": "legacy_1547709575545044997_1",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FXqRpTsVUAAh96A"
+      },
+      {
+        "media_key": "legacy_1547709575545044997_2",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FXqRpTxVEAMJ31m"
+      },
+      {
+        "media_key": "legacy_1547709575545044997_3",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FXqRpToUcAIeYG4"
+      }
+    ]
+  },
+  "_legacy_html": {
+    "capture_timestamp": "20220714233205",
+    "original_url": "https://twitter.com/zouzoudamowang/status/1547709575545044997",
+    "parser": "modern-dom"
+  }
+}

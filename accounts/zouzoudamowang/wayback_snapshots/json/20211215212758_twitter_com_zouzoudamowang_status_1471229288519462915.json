@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "1471229288519462915",
+    "text": "有理有据令人信服。",
+    "created_at": "2021-12-15T21:22:51Z",
+    "author_id": "1368038404554821633",
+    "conversation_id": "1471221196310315009"
+  },
+  "includes": {
+    "users": [
+      {
+        "id": "1368038404554821633",
+        "name": "奏奏大魔王♥🖤💚",
+        "username": "zouzoudamowang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1469432198650466306/_fUFIp_E_bigger.jpg"
+      }
+    ],
+    "media": []
+  },
+  "_legacy_html": {
+    "capture_timestamp": "20211215212758",
+    "original_url": "https://twitter.com/zouzoudamowang/status/1471229288519462915",
+    "parser": "old-dom"
+  }
+}

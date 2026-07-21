@@ -1,0 +1,36 @@
+{
+  "data": {
+    "id": "1466521248993722368",
+    "text": "这不是一条色推！\n而是一条很严肃的正经推！\n虽然还是和色推脱不了干系！\n在这里感谢白白(他不想被艾特出来)愿意为了纪念本大小姐的文援生涯，决定给本大小姐包办做一款属于奏奏大小姐专属的rpg小黄油。\n做好以后会发出来在推特供大家游玩，安卓和苹果都可以，会采取动态密码的方式防止被随意盗用。pic.twitter.com/vvvOYshBJa",
+    "created_at": "2021-12-02T21:34:47Z",
+    "author_id": "1368038404554821633",
+    "conversation_id": "1466521248993722368",
+    "attachments": {
+      "media_keys": [
+        "legacy_1466521248993722368_1"
+      ]
+    }
+  },
+  "includes": {
+    "users": [
+      {
+        "id": "1368038404554821633",
+        "name": "奏奏大魔王🖤",
+        "username": "zouzoudamowang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1465077480789016577/GLGRSyfs_bigger.jpg"
+      }
+    ],
+    "media": [
+      {
+        "media_key": "legacy_1466521248993722368_1",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FFogaLPagAAXTq3.jpg"
+      }
+    ]
+  },
+  "_legacy_html": {
+    "capture_timestamp": "20211202213459",
+    "original_url": "https://twitter.com/zouzoudamowang/status/1466521248993722368",
+    "parser": "old-dom"
+  }
+}

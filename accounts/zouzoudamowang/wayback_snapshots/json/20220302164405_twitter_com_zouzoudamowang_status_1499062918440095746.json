@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "1499062918440095746",
+    "text": "这就是汉字博大精深的时候啦，人格否定这个词语可以用在挺多性癖上的x",
+    "created_at": "2022-03-02T16:43:45Z",
+    "author_id": "1368038404554821633",
+    "conversation_id": "1499049246711975937"
+  },
+  "includes": {
+    "users": [
+      {
+        "id": "1368038404554821633",
+        "name": "奏奏大魔王♥🖤💚",
+        "username": "zouzoudamowang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1498006692260319235/cgUY3-u2_bigger.jpg"
+      }
+    ],
+    "media": []
+  },
+  "_legacy_html": {
+    "capture_timestamp": "20220302164405",
+    "original_url": "https://twitter.com/zouzoudamowang/status/1499062918440095746",
+    "parser": "old-dom"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "1439685467247497222",
+    "text": "每到深夜都会多愁善感，人越害怕什么就会使劲去想办法蒙蔽遮掩那个害怕的事物和想法...\n不敢继续去想了，时间如果能倒流或者暂停该多好呢，可是未来又那么充满诱惑，人的一生还是太短暂了，多么想做这漫长宇宙演变史的见证人呀。",
+    "created_at": "2021-09-19T20:18:58Z",
+    "author_id": "1368038404554821633",
+    "conversation_id": "1439685467247497222"
+  },
+  "includes": {
+    "users": [
+      {
+        "id": "1368038404554821633",
+        "name": "奏奏大魔王🖤",
+        "username": "zouzoudamowang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1423608199958077440/a2OGKHi__bigger.jpg"
+      }
+    ],
+    "media": []
+  },
+  "_legacy_html": {
+    "capture_timestamp": "20210920220001",
+    "original_url": "https://twitter.com/zouzoudamowang/status/1439685467247497222",
+    "parser": "old-dom"
+  }
+}

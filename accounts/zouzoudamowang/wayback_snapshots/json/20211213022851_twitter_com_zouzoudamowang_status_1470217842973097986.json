@@ -1,0 +1,48 @@
+{
+  "data": {
+    "id": "1470217842973097986",
+    "text": "看最近好像很多人都在发起悬赏，本大小姐也来一个玩玩?\n奖品嘛，特别奖:获得本大小姐的隐私照一张。(一名)\n一等奖:200r现金红包加一次自定义文爱。(一名)\n秀儿奖:关注转发评论三连随机抽取一名幸运儿送出神秘奖品，悬赏的内容看图吧。pic.twitter.com/2UUOVS4UsQ",
+    "created_at": "2021-12-13T02:23:43Z",
+    "author_id": "1368038404554821633",
+    "conversation_id": "1470217842973097986",
+    "attachments": {
+      "media_keys": [
+        "legacy_1470217842973097986_1",
+        "legacy_1470217842973097986_2",
+        "legacy_1470217842973097986_3"
+      ]
+    }
+  },
+  "includes": {
+    "users": [
+      {
+        "id": "1368038404554821633",
+        "name": "奏奏大魔王♥🖤💚",
+        "username": "zouzoudamowang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1469432198650466306/_fUFIp_E_bigger.jpg"
+      }
+    ],
+    "media": [
+      {
+        "media_key": "legacy_1470217842973097986_1",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FGdDT5yVgAAUlpz.jpg"
+      },
+      {
+        "media_key": "legacy_1470217842973097986_2",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FGdDT5xVgAErzTL.jpg"
+      },
+      {
+        "media_key": "legacy_1470217842973097986_3",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FGdDU8qUYAAZ0nZ.jpg"
+      }
+    ]
+  },
+  "_legacy_html": {
+    "capture_timestamp": "20211213022851",
+    "original_url": "https://twitter.com/zouzoudamowang/status/1470217842973097986",
+    "parser": "old-dom"
+  }
+}

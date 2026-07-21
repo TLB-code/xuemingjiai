@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "1470187620852695041",
+    "text": "呐，我说，能不能把你借给我?\n不不不，我不是说的钱，不是那种没用的东西。\n我的意思，是想要你的人生，想要你作为“人”这一辈子的经历，回忆，我想要取代你，成为你，你能把你的人生送给我吗？",
+    "created_at": "2021-12-13T00:23:38Z",
+    "author_id": "1368038404554821633",
+    "conversation_id": "1470187620852695041"
+  },
+  "includes": {
+    "users": [
+      {
+        "id": "1368038404554821633",
+        "name": "奏奏大魔王♥🖤💚",
+        "username": "zouzoudamowang",
+        "profile_image_url": "https://web.archive.org/web/20211213002849im_/https://pbs.twimg.com/profile_images/1469432198650466306/_fUFIp_E_bigger.jpg"
+      }
+    ],
+    "media": []
+  },
+  "_legacy_html": {
+    "capture_timestamp": "20211213002849",
+    "original_url": "https://twitter.com/zouzoudamowang/status/1470187620852695041",
+    "parser": "old-dom"
+  }
+}

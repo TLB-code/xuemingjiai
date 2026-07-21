@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "1464354594276839427",
+    "text": "人总是在不知不觉变成自己最讨厌的人的样子，归根结底自己作。",
+    "created_at": "2021-11-26T22:05:16Z",
+    "author_id": "1368038404554821633",
+    "conversation_id": "1464354594276839427"
+  },
+  "includes": {
+    "users": [
+      {
+        "id": "1368038404554821633",
+        "name": "奏奏大魔王🖤",
+        "username": "zouzoudamowang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1464349440139882498/tMFfpVHi_bigger.jpg"
+      }
+    ],
+    "media": []
+  },
+  "_legacy_html": {
+    "capture_timestamp": "20211127174234",
+    "original_url": "https://twitter.com/zouzoudamowang/status/1464354594276839427",
+    "parser": "old-dom"
+  }
+}

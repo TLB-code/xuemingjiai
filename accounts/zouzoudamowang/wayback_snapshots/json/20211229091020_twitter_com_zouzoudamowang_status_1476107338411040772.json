@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "1476107338411040772",
+    "text": "别用非正常思维去看待，现实里这样子就等于是破坏人生。",
+    "created_at": "2021-12-29T08:26:28Z",
+    "author_id": "1368038404554821633",
+    "conversation_id": "1475991197995106305"
+  },
+  "includes": {
+    "users": [
+      {
+        "id": "1368038404554821633",
+        "name": "奏奏大魔王♥🖤💚",
+        "username": "zouzoudamowang",
+        "profile_image_url": "https://web.archive.org/web/20211229091020im_/https://pbs.twimg.com/profile_images/1475353491711627266/6q5--LlL_bigger.jpg"
+      }
+    ],
+    "media": []
+  },
+  "_legacy_html": {
+    "capture_timestamp": "20211229091020",
+    "original_url": "https://twitter.com/zouzoudamowang/status/1476107338411040772",
+    "parser": "old-dom"
+  }
+}

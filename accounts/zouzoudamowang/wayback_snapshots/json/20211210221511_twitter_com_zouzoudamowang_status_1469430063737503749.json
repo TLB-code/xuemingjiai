@@ -1,0 +1,36 @@
+{
+  "data": {
+    "id": "1469430063737503749",
+    "text": "我绝不承认我会emo，因为我在emo的时候就喜欢听很多逆境重生的歌曲，每次发泄完自己的情绪我就会感觉自己充满了力量，我就是这个世界的主宰。\n奏奏大小姐绝不可能也绝不会败下阵来，我只想把强势的一面展示给你们，软萌的一面留给我自己欣赏就好了。\n你问我是什么控，那我就回答你:奏奏控。pic.twitter.com/S5Fhk6x3nl",
+    "created_at": "2021-12-10T22:13:22Z",
+    "author_id": "1368038404554821633",
+    "conversation_id": "1469430063737503749",
+    "attachments": {
+      "media_keys": [
+        "legacy_1469430063737503749_1"
+      ]
+    }
+  },
+  "includes": {
+    "users": [
+      {
+        "id": "1368038404554821633",
+        "name": "奏奏大魔王♥🖤💚",
+        "username": "zouzoudamowang",
+        "profile_image_url": "https://web.archive.org/web/20211210221511im_/https://pbs.twimg.com/profile_images/1469412841790660613/iuUJnV3i_bigger.jpg"
+      }
+    ],
+    "media": [
+      {
+        "media_key": "legacy_1469430063737503749_1",
+        "type": "photo",
+        "url": "https://web.archive.org/web/20211210221511im_/https://pbs.twimg.com/media/FGR2du-VgAgDYSd.jpg"
+      }
+    ]
+  },
+  "_legacy_html": {
+    "capture_timestamp": "20211210221511",
+    "original_url": "https://twitter.com/zouzoudamowang/status/1469430063737503749",
+    "parser": "old-dom"
+  }
+}

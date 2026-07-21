@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "1466521859046842374",
+    "text": "每过一段时间会发个推文记录进度，目前本大小姐在和画师商量建模，游戏封面的问题。\n初步的想法是，游戏中扮演奏奏大小姐，对奏奏大小姐曾经的狗狗和现在的狗狗，进行一系列调教的玩法，因为是纪念 所以可能会出现某些人的名字(网名)算是本大小姐送给你们的礼物吧，毕竟曾经相处过不是嘛。",
+    "created_at": "2021-12-02T21:37:12Z",
+    "author_id": "1368038404554821633",
+    "conversation_id": "1466521248993722368"
+  },
+  "includes": {
+    "users": [
+      {
+        "id": "1368038404554821633",
+        "name": "奏奏大魔王🖤",
+        "username": "zouzoudamowang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1465077480789016577/GLGRSyfs_bigger.jpg"
+      }
+    ],
+    "media": []
+  },
+  "_legacy_html": {
+    "capture_timestamp": "20211202213727",
+    "original_url": "https://twitter.com/zouzoudamowang/status/1466521859046842374",
+    "parser": "old-dom"
+  }
+}

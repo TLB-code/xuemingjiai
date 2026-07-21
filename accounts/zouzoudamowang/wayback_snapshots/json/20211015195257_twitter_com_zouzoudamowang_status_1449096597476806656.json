@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "1449096597476806656",
+    "text": "世界上哪有长长久久，有的只有自作自受。\n谢谢之前陪伴我的人呀，回过神来在想找到你们却很难了，祝一切安好，也许会看见我这条推文的吧，萍水相逢，祝君安好。",
+    "created_at": "2021-10-15T19:35:26Z",
+    "author_id": "1368038404554821633",
+    "conversation_id": "1449096597476806656"
+  },
+  "includes": {
+    "users": [
+      {
+        "id": "1368038404554821633",
+        "name": "奏奏大魔王🖤",
+        "username": "zouzoudamowang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1423608199958077440/a2OGKHi__bigger.jpg"
+      }
+    ],
+    "media": []
+  },
+  "_legacy_html": {
+    "capture_timestamp": "20211015195257",
+    "original_url": "https://twitter.com/zouzoudamowang/status/1449096597476806656",
+    "parser": "old-dom"
+  }
+}

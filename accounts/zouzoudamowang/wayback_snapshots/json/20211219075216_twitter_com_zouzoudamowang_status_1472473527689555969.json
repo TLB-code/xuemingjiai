@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "1472473527689555969",
+    "text": "哪个傻逼做的事情?",
+    "created_at": "2021-12-19T07:47:00Z",
+    "author_id": "1368038404554821633",
+    "conversation_id": "1472434568607059974"
+  },
+  "includes": {
+    "users": [
+      {
+        "id": "1368038404554821633",
+        "name": "奏奏大魔王♥🖤💚",
+        "username": "zouzoudamowang",
+        "profile_image_url": "https://web.archive.org/web/20211219075216im_/https://pbs.twimg.com/profile_images/1469432198650466306/_fUFIp_E_bigger.jpg"
+      }
+    ],
+    "media": []
+  },
+  "_legacy_html": {
+    "capture_timestamp": "20211219075216",
+    "original_url": "https://twitter.com/zouzoudamowang/status/1472473527689555969",
+    "parser": "old-dom"
+  }
+}

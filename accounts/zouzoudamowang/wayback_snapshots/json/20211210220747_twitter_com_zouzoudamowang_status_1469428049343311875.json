@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "1469428049343311875",
+    "text": "emo不好吗，大家一起emo，世界就能变得更加美好",
+    "created_at": "2021-12-10T22:05:22Z",
+    "author_id": "1368038404554821633",
+    "conversation_id": "1469424980685635585"
+  },
+  "includes": {
+    "users": [
+      {
+        "id": "1368038404554821633",
+        "name": "奏奏大魔王♥🖤💚",
+        "username": "zouzoudamowang",
+        "profile_image_url": "https://web.archive.org/web/20211210220747im_/https://pbs.twimg.com/profile_images/1469412841790660613/iuUJnV3i_bigger.jpg"
+      }
+    ],
+    "media": []
+  },
+  "_legacy_html": {
+    "capture_timestamp": "20211210220747",
+    "original_url": "https://twitter.com/zouzoudamowang/status/1469428049343311875",
+    "parser": "old-dom"
+  }
+}

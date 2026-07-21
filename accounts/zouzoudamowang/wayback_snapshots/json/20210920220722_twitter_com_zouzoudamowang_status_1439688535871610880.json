@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "1439688535871610880",
+    "text": "和心情不好也有关系",
+    "created_at": "2021-09-19T20:31:09Z",
+    "author_id": "1368038404554821633",
+    "conversation_id": "1439687802988363781"
+  },
+  "includes": {
+    "users": [
+      {
+        "id": "1368038404554821633",
+        "name": "奏奏大魔王🖤",
+        "username": "zouzoudamowang",
+        "profile_image_url": "https://web.archive.org/web/20210920220722im_/https://pbs.twimg.com/profile_images/1423608199958077440/a2OGKHi__bigger.jpg"
+      }
+    ],
+    "media": []
+  },
+  "_legacy_html": {
+    "capture_timestamp": "20210920220722",
+    "original_url": "https://twitter.com/zouzoudamowang/status/1439688535871610880",
+    "parser": "old-dom"
+  }
+}

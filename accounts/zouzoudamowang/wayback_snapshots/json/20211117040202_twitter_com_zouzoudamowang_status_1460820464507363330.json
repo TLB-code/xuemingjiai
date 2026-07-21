@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "1460820464507363330",
+    "text": "不理你",
+    "created_at": "2021-11-17T04:01:54Z",
+    "author_id": "1368038404554821633",
+    "conversation_id": "1460733533517869058"
+  },
+  "includes": {
+    "users": [
+      {
+        "id": "1368038404554821633",
+        "name": "奏奏大魔王🖤",
+        "username": "zouzoudamowang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1460476811457228800/8zDfdSv9_bigger.jpg"
+      }
+    ],
+    "media": []
+  },
+  "_legacy_html": {
+    "capture_timestamp": "20211117040202",
+    "original_url": "https://twitter.com/zouzoudamowang/status/1460820464507363330",
+    "parser": "old-dom"
+  }
+}

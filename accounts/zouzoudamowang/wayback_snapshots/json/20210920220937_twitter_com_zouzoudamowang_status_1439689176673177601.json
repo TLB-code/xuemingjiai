@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "1439689176673177601",
+    "text": "所以说强制嘛",
+    "created_at": "2021-09-19T20:33:42Z",
+    "author_id": "1368038404554821633",
+    "conversation_id": "1439687802988363781"
+  },
+  "includes": {
+    "users": [
+      {
+        "id": "1368038404554821633",
+        "name": "奏奏大魔王🖤",
+        "username": "zouzoudamowang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1423608199958077440/a2OGKHi__bigger.jpg"
+      }
+    ],
+    "media": []
+  },
+  "_legacy_html": {
+    "capture_timestamp": "20210920220937",
+    "original_url": "https://twitter.com/zouzoudamowang/status/1439689176673177601",
+    "parser": "old-dom"
+  }
+}

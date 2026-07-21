@@ -1,0 +1,25 @@
+{
+  "data": {
+    "id": "1471241818394480644",
+    "text": "好耶",
+    "created_at": "2021-12-15T22:12:38Z",
+    "author_id": "1368038404554821633",
+    "conversation_id": "1471239675830743040"
+  },
+  "includes": {
+    "users": [
+      {
+        "id": "1368038404554821633",
+        "name": "奏奏大魔王♥🖤💚",
+        "username": "zouzoudamowang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1469432198650466306/_fUFIp_E_bigger.jpg"
+      }
+    ],
+    "media": []
+  },
+  "_legacy_html": {
+    "capture_timestamp": "20211215221751",
+    "original_url": "https://twitter.com/zouzoudamowang/status/1471241818394480644",
+    "parser": "old-dom"
+  }
+}
