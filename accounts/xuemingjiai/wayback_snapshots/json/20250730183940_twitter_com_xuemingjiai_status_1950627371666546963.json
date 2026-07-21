@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1950627371666546963",
+    "created_at": "2025-07-30T18:39:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T19:39:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950627371666546963"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1696056509023625217",
+          "start": 3,
+          "username": "CuteLingli"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950627371666546963",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950146882887700935",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CuteLingli: 回来啦~各位一直偷窥和意淫人家推文的哥哥，千万不要变成截图里的样子哦❤️\n只能因为上贡购买自慰才能舒服什么的，会很糟糕吧。\n不给玲璃上贡就没有办法高潮🖤脑子被摧毁，彻底掉进上贡和自毁地深渊。\n果然还是简单的对着推文意淫更安全吧~千万不要轻易白给送…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1950627371666546963].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1950627371666546963",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1950627371666546963"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1359,
+        "media_key": "3_1950146879121174528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxBQQRXasAArqD0.jpg",
+        "width": 458
+      },
+      {
+        "height": 1884,
+        "media_key": "3_1950146880069128195",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxBQQU5bUAMos4p.jpg",
+        "width": 471
+      },
+      {
+        "height": 1520,
+        "media_key": "3_1950146880341757954",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxBQQV6bUAIgMN8.jpg",
+        "width": 1040
+      },
+      {
+        "height": 1216,
+        "media_key": "3_1950146879683244032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxBQQTdbMAAAcC8.jpg",
+        "width": 832
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950146879121174528",
+            "3_1950146880069128195",
+            "3_1950146880341757954",
+            "3_1950146879683244032"
+          ]
+        },
+        "author_id": "1696056509023625217",
+        "conversation_id": "1950146882887700935",
+        "created_at": "2025-07-29T10:50:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T11:50:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950146882887700935"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7uOLosjzCg",
+              "end": 151,
+              "expanded_url": "https://x.com/CuteLingli/status/1950146882887700935/photo/1",
+              "media_key": "3_1950146879121174528",
+              "start": 128,
+              "url": "https://t.co/7uOLosjzCg"
+            },
+            {
+              "display_url": "pic.x.com/7uOLosjzCg",
+              "end": 151,
+              "expanded_url": "https://x.com/CuteLingli/status/1950146882887700935/photo/1",
+              "media_key": "3_1950146880069128195",
+              "start": 128,
+              "url": "https://t.co/7uOLosjzCg"
+            },
+            {
+              "display_url": "pic.x.com/7uOLosjzCg",
+              "end": 151,
+              "expanded_url": "https://x.com/CuteLingli/status/1950146882887700935/photo/1",
+              "media_key": "3_1950146880341757954",
+              "start": 128,
+              "url": "https://t.co/7uOLosjzCg"
+            },
+            {
+              "display_url": "pic.x.com/7uOLosjzCg",
+              "end": 151,
+              "expanded_url": "https://x.com/CuteLingli/status/1950146882887700935/photo/1",
+              "media_key": "3_1950146879683244032",
+              "start": 128,
+              "url": "https://t.co/7uOLosjzCg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950146882887700935",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1571,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "回来啦~各位一直偷窥和意淫人家推文的哥哥，千万不要变成截图里的样子哦❤️\n只能因为上贡购买自慰才能舒服什么的，会很糟糕吧。\n不给玲璃上贡就没有办法高潮🖤脑子被摧毁，彻底掉进上贡和自毁地深渊。\n果然还是简单的对着推文意淫更安全吧~千万不要轻易白给送死哦❤️ https://t.co/7uOLosjzCg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n你也会因为窥视我的美貌而心甘情愿沦为钱包被我使用的对吗？\n钱包报名入口：3971546171\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 67,
+                "username": "oricz233"
+              },
+              {
+                "end": 96,
+                "start": 87,
+                "username": "moelipoi"
+              },
+              {
+                "end": 114,
+                "start": 103,
+                "username": "cutelingli"
+              },
+              {
+                "end": 136,
+                "start": 121,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 148,
+                "start": 141,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍大规模同化魔法展开中",
+        "pinned_tweet_id": "1945511067926536238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945176725190488064/8VBohPRs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7778,
+          "following_count": 328,
+          "like_count": 590,
+          "listed_count": 33,
+          "media_count": 716,
+          "tweet_count": 2196
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-28T07:06:06.000Z",
+        "description": "温柔向压榨系。请不要踏入陷阱~否则脑子和钱包都会的变得一塌糊涂。我很懒，所以不涉三。不想送死别来加我~ 门牌🚪3875489005，门槛会增加好感，不过请随意，我只是想单纯地想要你的钱~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "afdian.com/a/cutelingli",
+                "end": 23,
+                "expanded_url": "https://afdian.com/a/cutelingli",
+                "start": 0,
+                "url": "https://t.co/Di7OiY89Hx"
+              }
+            ]
+          }
+        },
+        "id": "1696056509023625217",
+        "location": "你的心里❤️",
+        "name": "玲璃",
+        "pinned_tweet_id": "1936593684994429229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936595198689095680/b1T5cEFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2412,
+          "following_count": 167,
+          "like_count": 301,
+          "listed_count": 6,
+          "media_count": 122,
+          "tweet_count": 456
+        },
+        "url": "https://t.co/Di7OiY89Hx",
+        "username": "CuteLingli",
+        "verified": false
+      }
+    ]
+  }
+}

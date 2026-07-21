@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1836396440916299776"
+      ],
+      "media_source_tweet_id": [
+        "1836396490056700196"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "1836526765096997123",
+    "created_at": "2024-09-18T22:04:36.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-18T23:04:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1836526765096997123"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1823064639661637632",
+          "start": 3,
+          "username": "qikirakira"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5k7xvkxj7y",
+          "end": 78,
+          "expanded_url": "https://twitter.com/qikirakira/status/1836396490056700196/photo/1",
+          "media_key": "3_1836396440916299776",
+          "start": 55,
+          "url": "https://t.co/5k7xvKxJ7Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1836526765096997123",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1836396490056700196",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qikirakira: 收到了0.01元，所以稍微改了一下图呢，还请某些客人不要捣乱，上贡💸请私信吧 https://t.co/5k7xvKxJ7Y"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1836526765096997123].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1836526765096997123",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1836526765096997123"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 899,
+        "media_key": "3_1836396440916299776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GXww1VebkAACPIr.jpg",
+        "width": 590
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1836396440916299776"
+          ]
+        },
+        "author_id": "1823064639661637632",
+        "conversation_id": "1836396490056700196",
+        "created_at": "2024-09-18T13:26:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-18T14:26:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1836396490056700196"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5k7xvkxj7y",
+              "end": 62,
+              "expanded_url": "https://twitter.com/qikirakira/status/1836396490056700196/photo/1",
+              "media_key": "3_1836396440916299776",
+              "start": 39,
+              "url": "https://t.co/5k7xvKxJ7Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836396490056700196",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "收到了0.01元，所以稍微改了一下图呢，还请某些客人不要捣乱，上贡💸请私信吧 https://t.co/5k7xvKxJ7Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "超绝可爱💖\n她就是出道即巅峰的可爱纯真小天使新人偶像魔女小姐💖\n任何人都会被她散发出的魅力所捕获，对这样的魔女小姐不能心怀任何涩涩的念想哦，不然就会变得非常糟糕...踏入无法挣脱的陷阱和牢笼里呢💘\n魔女小姐无论说什么做什么都是正确的哦，身为她的粉丝，只需要无条件用各种方式支持她就好了～\nqq2829556413",
+        "id": "1374389254726455305",
+        "name": "电波系新人偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1804570562511126828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836438377702600704/CAqVvsCj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5314,
+          "following_count": 186,
+          "like_count": 149,
+          "listed_count": 23,
+          "tweet_count": 1051
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-12T18:31:06.000Z",
+        "description": "这里是写手以及温柔的绿茶妹妹——祇🍵\n希望能得到大家的支持💸\n同时给予无条件支持祇的粉丝一些爽到两眼翻白，颅内高潮的服务🖤\n欢迎私信获取联系方式，主动陷入无法挣脱的名为背德感的陷阱与牢笼中^^💘",
+        "id": "1823064639661637632",
+        "name": "祇",
+        "pinned_tweet_id": "1836396490056700196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836374665708867586/Q7zf9GIs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 9,
+          "like_count": 7,
+          "listed_count": 0,
+          "tweet_count": 10
+        },
+        "username": "qikirakira",
+        "verified": false
+      }
+    ]
+  }
+}

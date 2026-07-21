@@ -1,0 +1,177 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1807019264282657051",
+    "created_at": "2024-06-29T11:52:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-29T12:52:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1807019264282657051"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1279044831658995713",
+          "start": 3,
+          "username": "WYJ_ms"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1807019264282657051",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1806598671871410301",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @WYJ_ms: 啊啦~明明就是低劣下贱的贱畜~怎么又有什么放不开的呢~？你的脑子里先前没少幻想过在被妾身羞辱辱骂的场景用来自慰吧~？嗯哼~❤？在这里有必要在妾身面前在乎你的所谓的尊严？或者说你更喜欢~被妾身的脚无情的踩碎你那所谓自尊的遮羞布~？真恶心白痴贱狗的死精给我清…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1807019264282657051].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1807019264282657051",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1807019264282657051"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1806595919229620224"
+          ]
+        },
+        "author_id": "1279044831658995713",
+        "conversation_id": "1806598671871410301",
+        "created_at": "2024-06-28T08:01:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-28T09:01:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1806598671871410301"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 135,
+              "start": 132,
+              "tag": "文媛"
+            },
+            {
+              "end": 139,
+              "start": 136,
+              "tag": "调教"
+            },
+            {
+              "end": 143,
+              "start": 140,
+              "tag": "羞辱"
+            },
+            {
+              "end": 147,
+              "start": 144,
+              "tag": "榨金"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/kR44pgYbZs",
+              "end": 171,
+              "expanded_url": "https://twitter.com/WYJ_ms/status/1806598671871410301/photo/1",
+              "media_key": "3_1806595919229620224",
+              "start": 148,
+              "url": "https://t.co/kR44pgYbZs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806598671871410301",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 2997,
+          "like_count": 51,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "啊啦~明明就是低劣下贱的贱畜~怎么又有什么放不开的呢~？你的脑子里先前没少幻想过在被妾身羞辱辱骂的场景用来自慰吧~？嗯哼~❤？在这里有必要在妾身面前在乎你的所谓的尊严？或者说你更喜欢~被妾身的脚无情的踩碎你那所谓自尊的遮羞布~？真恶心白痴贱狗的死精给我清理干净！\n#文媛 #调教 #羞辱 #榨金 https://t.co/kR44pgYbZs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "超绝可爱💖\n她就是出道即巅峰的可爱纯真小天使新人偶像魔女小姐💖\n任何人都会被她散发出的魅力所捕获，对这样的魔女小姐不能心怀任何涩涩的念想哦，不然就会变得非常糟糕...踏入无法挣脱的陷阱和牢笼里呢💘\n魔女小姐无论说什么做什么都是正确的哦，身为她的粉丝，只需要无条件用各种方式支持她就好了～\nqq2829556413",
+        "id": "1374389254726455305",
+        "name": "电波系新人偶像💖魔女小姐参上（小恶魔属性爆表）",
+        "pinned_tweet_id": "1804570562511126828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795799880021295104/Tsd4XdC9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4889,
+          "following_count": 173,
+          "like_count": 148,
+          "listed_count": 22,
+          "tweet_count": 993
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-03T13:30:39.000Z",
+        "description": "这里是沉迷摸鱼的屑鲨鲨~门牌2759410250 ，啊嘞～白痴丧志下贱的小贱狗绿王八雌堕母畜们还要继续躲在手机后面看着妾身的推文卑微的撸吗?#文援备用号3081799275  门槛是10元哦以后统一变成40r30分钟了哦♡让鲨鲨当m的话是要加钱哦～",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 86,
+                "start": 70,
+                "tag": "文援备用号3081799275"
+              }
+            ]
+          }
+        },
+        "id": "1279044831658995713",
+        "location": "快来找鲨鲨下单单",
+        "name": "🖤可爱高冷集齐一身的🖤喵鲨sam🖤",
+        "pinned_tweet_id": "1806598671871410301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1477332188924616704/bbmzPCs4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7536,
+          "following_count": 1,
+          "like_count": 0,
+          "listed_count": 38,
+          "tweet_count": 1110
+        },
+        "username": "WYJ_ms",
+        "verified": false
+      }
+    ]
+  }
+}

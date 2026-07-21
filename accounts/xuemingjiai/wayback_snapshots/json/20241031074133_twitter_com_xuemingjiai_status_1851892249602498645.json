@@ -1,0 +1,127 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1851892249602498645",
+    "created_at": "2024-10-31T07:41:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-31T08:41:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1851892249602498645"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1374389254726455305",
+          "start": 3,
+          "username": "xuemingjiai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1851892249602498645",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "1849486239885574367",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xuemingjiai: 有这么一则传闻～\n其实魔女大人的偶像生涯当中，有一位关系很好的闺蜜，另一位的身份也是偶像～她们会在演出结束后偶尔一起给粉丝们“开小灶”\n而今天，这个传闻成真了，因为....\n【绿茶美少女偶像魔女小姐与黑心涩情偶像璃酱的联动演出！】\n这个消息瞬间…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1851892249602498645].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1851892249602498645",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1851892249602498645"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1849486236953784320"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "1849486239885574367",
+        "created_at": "2024-10-24T16:20:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-24T17:20:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1849486239885574367"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d8GY4MFwRU",
+              "end": 167,
+              "expanded_url": "https://x.com/xuemingjiai/status/1849486239885574367/photo/1",
+              "media_key": "3_1849486236953784320",
+              "start": 144,
+              "url": "https://t.co/d8GY4MFwRU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1849486239885574367",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 11801,
+          "like_count": 68,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "有这么一则传闻～\n其实魔女大人的偶像生涯当中，有一位关系很好的闺蜜，另一位的身份也是偶像～她们会在演出结束后偶尔一起给粉丝们“开小灶”\n而今天，这个传闻成真了，因为....\n【绿茶美少女偶像魔女小姐与黑心涩情偶像璃酱的联动演出！】\n这个消息瞬间占据了各大主流媒体的头条，毕竟这可是官宣💜 https://t.co/d8GY4MFwRU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "超绝可爱💖\n她就是出道即巅峰的可爱纯真小天使新人偶像魔女小姐💖\n对这样的魔女小姐不能心怀任何涩涩的念想哦，不然就会变得非常糟糕...踏入无法挣脱的陷阱和牢笼里呢💘\n魔女小姐无论说什么做什么都是正确的哦，身为她的粉丝，只需要无条件用各种方式支持她就好了～\nqq2829556413",
+        "id": "1374389254726455305",
+        "name": "电波系新人偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851527988380315648/MjAgrWHr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5721,
+          "following_count": 216,
+          "like_count": 181,
+          "listed_count": 23,
+          "tweet_count": 1242
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

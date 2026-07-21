@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1988173239059898369",
+        "3_1988173237906460672"
+      ],
+      "media_source_tweet_id": [
+        "1988173241874268336",
+        "1988173241874268336"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "1991253166642336245",
+    "created_at": "2025-11-19T21:12:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T22:12:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991253166642336245"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1219094177931317248",
+          "start": 3,
+          "username": "LiuliDreamm"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XmdsyBeZt4",
+          "end": 74,
+          "expanded_url": "https://x.com/LiuliDreamm/status/1988173241874268336/photo/1",
+          "media_key": "3_1988173239059898369",
+          "start": 51,
+          "url": "https://t.co/XmdsyBeZt4"
+        },
+        {
+          "display_url": "pic.x.com/XmdsyBeZt4",
+          "end": 74,
+          "expanded_url": "https://x.com/LiuliDreamm/status/1988173241874268336/photo/1",
+          "media_key": "3_1988173237906460672",
+          "start": 51,
+          "url": "https://t.co/XmdsyBeZt4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991253166642336245",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988173241874268336",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LiuliDreamm: 迟到的11月快乐～\n看到琉璃的所有人～\n希望你们11月都要快乐呦♡ https://t.co/XmdsyBeZt4"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1991253166642336245].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1991253166642336245",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1991253166642336245"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1988173239059898369",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5dpBvIaYAE-B-a.jpg",
+        "width": 895
+      },
+      {
+        "height": 1389,
+        "media_key": "3_1988173237906460672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5dpBq1aUAAIiR8.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988173239059898369",
+            "3_1988173237906460672"
+          ]
+        },
+        "author_id": "1219094177931317248",
+        "conversation_id": "1988173241874268336",
+        "created_at": "2025-11-11T09:13:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T10:13:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988173241874268336"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XmdsyBeZt4",
+              "end": 57,
+              "expanded_url": "https://x.com/LiuliDreamm/status/1988173241874268336/photo/1",
+              "media_key": "3_1988173239059898369",
+              "start": 34,
+              "url": "https://t.co/XmdsyBeZt4"
+            },
+            {
+              "display_url": "pic.x.com/XmdsyBeZt4",
+              "end": 57,
+              "expanded_url": "https://x.com/LiuliDreamm/status/1988173241874268336/photo/1",
+              "media_key": "3_1988173237906460672",
+              "start": 34,
+              "url": "https://t.co/XmdsyBeZt4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988173241874268336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1354,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "迟到的11月快乐～\n看到琉璃的所有人～\n希望你们11月都要快乐呦♡ https://t.co/XmdsyBeZt4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n最最最最喜欢钱包们啦!\n天天挨骂真的不会腻嘛～\n擅长用爱意和温柔的语气俘虏钱包～\n联系方式→242184780←\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 77,
+                "username": "oricz233"
+              },
+              {
+                "end": 106,
+                "start": 97,
+                "username": "moelipoi"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "cutelingli"
+              },
+              {
+                "end": 146,
+                "start": 131,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 158,
+                "start": 151,
+                "username": "1xian1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍对钱包们最温柔最有好感版",
+        "pinned_tweet_id": "1976743806063063398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969152325731168256/ozl0k8K4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7930,
+          "following_count": 327,
+          "like_count": 638,
+          "listed_count": 35,
+          "media_count": 753,
+          "tweet_count": 2309
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-20T03:08:05.000Z",
+        "description": "希望你们追随我的原因，是源于我的人格魅力，而不是因我而起的欲望。\n可以随时找琉璃闲聊谈心。\n至于ATM君们~请直接给琉璃白给上贡~\n万一没了防走丢二号机@liulidemeng\n\n♡门牌2271099092♡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 76,
+                "username": "liulidemeng"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "afdian.com/a/liulidream",
+                "end": 23,
+                "expanded_url": "http://afdian.com/a/liulidream",
+                "start": 0,
+                "url": "https://t.co/MvcWdxVqmc"
+              }
+            ]
+          }
+        },
+        "id": "1219094177931317248",
+        "location": "最美好的记忆里",
+        "name": "琉璃",
+        "pinned_tweet_id": "1896084745261584610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947559304653115393/ux8L0jqu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5473,
+          "following_count": 100,
+          "like_count": 130,
+          "listed_count": 22,
+          "media_count": 418,
+          "tweet_count": 889
+        },
+        "url": "https://t.co/MvcWdxVqmc",
+        "username": "LiuliDreamm",
+        "verified": false
+      }
+    ]
+  }
+}

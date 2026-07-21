@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1955813497268580803",
+    "created_at": "2025-08-14T02:07:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-14T03:07:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955813497268580803"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 21,
+          "start": 14,
+          "tag": "魔女观察日记"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1553997956679798784",
+          "start": 3,
+          "username": "xy2333_1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955813497268580803",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950461956747296943",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xy2333_1: #魔女观察日记\n2.0 日常篇 债务part 1.0\n\n自从完全输给奏奏被剥夺下面的所有权后，债务就再也无法清零了喵…… 奏奏会用各种“小伎俩”强行增加，然后让hhxk“被迫”，“自愿”接受呜…… 每次快要还完就会被加一个0，或是锁住欠款不让还………"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1955813497268580803].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1955813497268580803",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1955813497268580803"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1894,
+        "media_key": "3_1950461952422969344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxFuz84WAAAdeCb.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1427,
+        "media_key": "3_1950461952406196224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxFuz80WEAAmnd2.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1085,
+        "media_key": "3_1950461952427241472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxFuz85XMAAG_29.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1417,
+        "media_key": "3_1950461952431378433",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxFuz86WUAEXCuC.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950461952422969344",
+            "3_1950461952406196224",
+            "3_1950461952427241472",
+            "3_1950461952431378433"
+          ]
+        },
+        "author_id": "1553997956679798784",
+        "conversation_id": "1950461956747296943",
+        "created_at": "2025-07-30T07:42:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T08:42:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950461956747296943"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "魔女观察日记"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MxmhkmUP0E",
+              "end": 179,
+              "expanded_url": "https://x.com/xy2333_1/status/1950461956747296943/photo/1",
+              "media_key": "3_1950461952422969344",
+              "start": 156,
+              "url": "https://t.co/MxmhkmUP0E"
+            },
+            {
+              "display_url": "pic.x.com/MxmhkmUP0E",
+              "end": 179,
+              "expanded_url": "https://x.com/xy2333_1/status/1950461956747296943/photo/1",
+              "media_key": "3_1950461952406196224",
+              "start": 156,
+              "url": "https://t.co/MxmhkmUP0E"
+            },
+            {
+              "display_url": "pic.x.com/MxmhkmUP0E",
+              "end": 179,
+              "expanded_url": "https://x.com/xy2333_1/status/1950461956747296943/photo/1",
+              "media_key": "3_1950461952427241472",
+              "start": 156,
+              "url": "https://t.co/MxmhkmUP0E"
+            },
+            {
+              "display_url": "pic.x.com/MxmhkmUP0E",
+              "end": 179,
+              "expanded_url": "https://x.com/xy2333_1/status/1950461956747296943/photo/1",
+              "media_key": "3_1950461952431378433",
+              "start": 156,
+              "url": "https://t.co/MxmhkmUP0E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950461956747296943",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 389,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "#魔女观察日记\n2.0 日常篇 债务part 1.0\n\n自从完全输给奏奏被剥夺下面的所有权后，债务就再也无法清零了喵…… 奏奏会用各种“小伎俩”强行增加，然后让hhxk“被迫”，“自愿”接受呜…… 每次快要还完就会被加一个0，或是锁住欠款不让还…… 啊啊好喜欢被魔女公主强行负债呜（爱心眼，小腹上亮着奇怪纹路） https://t.co/MxmhkmUP0E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n我是一名钱包刽子手。\n如果你也想被我杀死的话→\n242184780←\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 55,
+                "username": "oricz233"
+              },
+              {
+                "end": 84,
+                "start": 75,
+                "username": "moelipoi"
+              },
+              {
+                "end": 102,
+                "start": 91,
+                "username": "cutelingli"
+              },
+              {
+                "end": 124,
+                "start": 109,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 136,
+                "start": 129,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍魔女讨伐组织高级顾问～",
+        "pinned_tweet_id": "1945511067926536238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952517800502652928/-lp8k7Gh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7887,
+          "following_count": 332,
+          "like_count": 620,
+          "listed_count": 34,
+          "media_count": 722,
+          "tweet_count": 2219
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-01T06:56:09.000Z",
+        "description": "你好，你现在看见的是奏奏公主最忠诚的舔狗钱包提款机虫虫之一，奏奏公主是世界最会使用我们的公主殿下，没有任何男性能抵抗住她的诱惑，请你握住下面，“勃起”然后点击@xuemingjiai 去关注，去白给，去送死，成为奏奏公主的众多钱包之一🤍",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 79,
+                "username": "xuemingjiai"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/xuemingjiai",
+                "end": 23,
+                "expanded_url": "http://x.com/xuemingjiai",
+                "start": 0,
+                "url": "https://t.co/odLtt4ApqH"
+              }
+            ]
+          }
+        },
+        "id": "1553997956679798784",
+        "location": "奏奏大人的丝足下",
+        "name": "hhxk233～ 魔女奏奏公主的舔狗钱包足虫114514号",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955378308087992320/-yrdGbPl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 271,
+          "like_count": 153,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 72
+        },
+        "url": "https://t.co/odLtt4ApqH",
+        "username": "xy2333_1",
+        "verified": false
+      }
+    ]
+  }
+}

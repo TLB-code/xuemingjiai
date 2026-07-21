@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1937147474524967344",
+    "created_at": "2025-06-23T13:55:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-23T14:55:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937147474524967344"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1837733655617097728",
+          "start": 3,
+          "username": "RdReddust"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937147474524967344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936714298115699084",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RdReddust: 脑瘫的软屌丧志母猪本身就是毫无价值的废物🖤 要是不懂得主动犯贱发骚，还不懂犯贱把肥屄和钱包一起献给咱来使用💜活着只是浪费空气\n对于那些想要成为吸臭丧志家畜的脑瘫母猪专门推出了“淫猪改造”特“贡”服务哦～🤎 保证蜕变成对咱唯一有用的只会跪舔臭脚的脑瘫…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1937147474524967344].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1937147474524967344",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1937147474524967344"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1936714204058193920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuCXTrRXkAAmIbl.jpg",
+        "width": 915
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936714204058193920"
+          ]
+        },
+        "author_id": "1837733655617097728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1936714298115699084",
+        "created_at": "2025-06-22T09:14:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T10:13:44.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936714209590423646",
+          "1936714298115699084"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UHmGxlwUU9",
+              "end": 167,
+              "expanded_url": "https://x.com/RdReddust/status/1936714298115699084/photo/1",
+              "media_key": "3_1936714204058193920",
+              "start": 144,
+              "url": "https://t.co/UHmGxlwUU9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936714298115699084",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 5593,
+          "like_count": 81,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "脑瘫的软屌丧志母猪本身就是毫无价值的废物🖤 要是不懂得主动犯贱发骚，还不懂犯贱把肥屄和钱包一起献给咱来使用💜活着只是浪费空气\n对于那些想要成为吸臭丧志家畜的脑瘫母猪专门推出了“淫猪改造”特“贡”服务哦～🤎 保证蜕变成对咱唯一有用的只会跪舔臭脚的脑瘫家畜🖤转发点赞会有上门特“贡”服务哦💜 https://t.co/UHmGxlwUU9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n你也会因为窥视我的美貌而心甘情愿沦为钱包被我使用的对吗？\n钱包报名入口：2829556413和3971546171\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 78,
+                "username": "oricz233"
+              },
+              {
+                "end": 107,
+                "start": 98,
+                "username": "moelipoi"
+              },
+              {
+                "end": 125,
+                "start": 114,
+                "username": "cutelingli"
+              },
+              {
+                "end": 147,
+                "start": 132,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 159,
+                "start": 152,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍驯化公用钱包👛中",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931064828044713984/9qwnduVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7275,
+          "following_count": 311,
+          "like_count": 376,
+          "listed_count": 32,
+          "media_count": 700,
+          "tweet_count": 2137
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-22T06:00:29.000Z",
+        "description": "这里是专收看着羞辱文就硬得发抖的ATM奴、贡奴和傻狗的男爹红酱～。因为过于了解那些看一张色图和配文就忍不住意淫的杂鱼🖤所以就出道钓鱼来了🖤傻逼atm奴/臭脚控/贱狗大胆私信哦🖤，吐出你的红包和脑子🖤 只要发情就不准跑了哦～🩷🩷🩷 门槛随机看心情私信掉落~ https://t.co/PsQX0e96hb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ctt.ac/72I7t",
+                "end": 151,
+                "expanded_url": "https://ctt.ac/72I7t",
+                "start": 128,
+                "url": "https://t.co/PsQX0e96hb"
+              }
+            ]
+          }
+        },
+        "id": "1837733655617097728",
+        "name": "Misstress 红",
+        "pinned_tweet_id": "1936714298115699084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934093624628707328/uMcETvIR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 189,
+          "like_count": 101,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 45
+        },
+        "username": "RdReddust",
+        "verified": true
+      }
+    ]
+  }
+}

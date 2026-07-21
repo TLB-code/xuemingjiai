@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1936436748269371681",
+    "created_at": "2025-06-21T14:51:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-21T15:51:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936436748269371681"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1702305176701341696",
+          "start": 3,
+          "username": "xiyan123466"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936436748269371681",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929582403627921658",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiyan123466: 绿帽贱狗还在脑子里规划和女友老婆那不可能实现的未来💚\n然而，不知道的是!她此时正躺在陌生男人的床上～做着让你想想都会勃起的私密下贱姿势～只是为了迎合比你强壮鸡巴比你大的绿爹💚\n早泄小鸡巴废物绿狗，就适合给绿爹养女人～废物冤种💚傻逼绿奴💚白痴绿帽…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1936436748269371681].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1936436748269371681",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1936436748269371681"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 600,
+        "media_key": "3_1929580751269572608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gsc_eEzasAAAckp.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1929580751269572608"
+          ]
+        },
+        "author_id": "1702305176701341696",
+        "conversation_id": "1929582403627921658",
+        "created_at": "2025-06-02T16:54:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T17:54:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929582403627921658"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 130,
+              "start": 127,
+              "tag": "绿帽"
+            },
+            {
+              "end": 134,
+              "start": 131,
+              "tag": "媚黑"
+            },
+            {
+              "end": 138,
+              "start": 135,
+              "tag": "绿奴"
+            },
+            {
+              "end": 142,
+              "start": 139,
+              "tag": "调教"
+            },
+            {
+              "end": 146,
+              "start": 143,
+              "tag": "羞辱"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/b6Syj5zwvB",
+              "end": 170,
+              "expanded_url": "https://x.com/xiyan123466/status/1929582403627921658/photo/1",
+              "media_key": "3_1929580751269572608",
+              "start": 147,
+              "url": "https://t.co/b6Syj5zwvB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929582403627921658",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 5791,
+          "like_count": 75,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "绿帽贱狗还在脑子里规划和女友老婆那不可能实现的未来💚\n然而，不知道的是!她此时正躺在陌生男人的床上～做着让你想想都会勃起的私密下贱姿势～只是为了迎合比你强壮鸡巴比你大的绿爹💚\n早泄小鸡巴废物绿狗，就适合给绿爹养女人～废物冤种💚傻逼绿奴💚白痴绿帽贱王八💚\n#绿帽 #媚黑 #绿奴 #调教 #羞辱 https://t.co/b6Syj5zwvB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n你也会因为窥视我的美貌而心甘情愿沦为钱包被我使用的对吗？\n钱包报名入口：3971546171\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 67,
+                "username": "oricz233"
+              },
+              {
+                "end": 96,
+                "start": 87,
+                "username": "moelipoi"
+              },
+              {
+                "end": 114,
+                "start": 103,
+                "username": "cutelingli"
+              },
+              {
+                "end": 136,
+                "start": 121,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 148,
+                "start": 141,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍驯化公用钱包👛中",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931064828044713984/9qwnduVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7259,
+          "following_count": 310,
+          "like_count": 375,
+          "listed_count": 32,
+          "media_count": 696,
+          "tweet_count": 2116
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-14T12:57:28.000Z",
+        "description": "这里是腹黑傲娇的涩情大小姐～入圈四年多～擅长各种文援和剧情 调教 羞辱 胁迫 绿茶 寸止 剧情 绿帽 媚黑 压榨 胁迫 等等女s玩法都可以♥媚黑只是云玩!现实没接触过哈🖤\n接文字 文图 收奴 闲聊 树洞欢迎加QQ咨询下单\n基本上全天都在加Q都会秒回复的♥\n下单加QQ 755166590",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xixiyan123456",
+                "end": 23,
+                "expanded_url": "http://t.me/xixiyan123456",
+                "start": 0,
+                "url": "https://t.co/DNJLMhF9XQ"
+              }
+            ]
+          }
+        },
+        "id": "1702305176701341696",
+        "location": "想tg玩的  记得先加QQ找我",
+        "name": "文援姬♥夕颜香香",
+        "pinned_tweet_id": "1875472376638665051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917955734232571904/gDn0kvCo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8019,
+          "following_count": 126,
+          "like_count": 482,
+          "listed_count": 37,
+          "media_count": 477,
+          "tweet_count": 5829
+        },
+        "url": "https://t.co/DNJLMhF9XQ",
+        "username": "xiyan123466",
+        "verified": false
+      }
+    ]
+  }
+}

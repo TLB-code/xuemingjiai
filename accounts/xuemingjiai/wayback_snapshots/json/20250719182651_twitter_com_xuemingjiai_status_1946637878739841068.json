@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1946637878739841068",
+    "created_at": "2025-07-19T18:26:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-19T19:26:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946637878739841068"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 17,
+          "tag": "魔女公主的日常"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1374389254726455305",
+          "start": 3,
+          "username": "xuemingjiai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946637878739841068",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946637386613715365",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xuemingjiai: #魔女公主的日常\n对7.19日的叠叠乐进行一个小小的总结～\n在众多钱包的努力犯贱下，昨天的叠叠的次数金额到达50哦\n在此，着重表扬492 133 904 747 243 462 1077 207 以上编号的钱包，其中不乏有重复送死白给刷叠叠的“…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1946637376018583552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwPYYTgWEAA3KqH.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1946637383442612224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwPYYvKXwAApHsa.jpg",
+        "width": 1401
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "1946637878739841068",
+        "created_at": "2025-07-19T18:26:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T19:26:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946637878739841068"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 17,
+              "tag": "魔女公主的日常"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1374389254726455305",
+              "start": 3,
+              "username": "xuemingjiai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946637878739841068",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946637386613715365",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xuemingjiai: #魔女公主的日常\n对7.19日的叠叠乐进行一个小小的总结～\n在众多钱包的努力犯贱下，昨天的叠叠的次数金额到达50哦\n在此，着重表扬492 133 904 747 243 462 1077 207 以上编号的钱包，其中不乏有重复送死白给刷叠叠的“…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946637376018583552",
+            "3_1946637383442612224"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1946637386613715365",
+        "created_at": "2025-07-19T18:24:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T19:24:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946637386613715365"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "魔女公主的日常"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3RABtAEdWV",
+              "end": 187,
+              "expanded_url": "https://x.com/xuemingjiai/status/1946637386613715365/photo/1",
+              "media_key": "3_1946637376018583552",
+              "start": 164,
+              "url": "https://t.co/3RABtAEdWV"
+            },
+            {
+              "display_url": "pic.x.com/3RABtAEdWV",
+              "end": 187,
+              "expanded_url": "https://x.com/xuemingjiai/status/1946637386613715365/photo/1",
+              "media_key": "3_1946637383442612224",
+              "start": 164,
+              "url": "https://t.co/3RABtAEdWV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946637386613715365",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#魔女公主的日常\n对7.19日的叠叠乐进行一个小小的总结～\n在众多钱包的努力犯贱下，昨天的叠叠的次数金额到达50哦\n在此，着重表扬492 133 904 747 243 462 1077 207 以上编号的钱包，其中不乏有重复送死白给刷叠叠的“优质”钱包，请再接再厉哦～\n也请各位野生钱包向它们，学习～被本公主支配～吸取养分🤍 https://t.co/3RABtAEdWV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n你也会因为窥视我的美貌而心甘情愿沦为钱包被我使用的对吗？\n钱包报名入口：3971546171\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 67,
+                "username": "oricz233"
+              },
+              {
+                "end": 96,
+                "start": 87,
+                "username": "moelipoi"
+              },
+              {
+                "end": 114,
+                "start": 103,
+                "username": "cutelingli"
+              },
+              {
+                "end": 136,
+                "start": 121,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 148,
+                "start": 141,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍大规模同化魔法展开中",
+        "pinned_tweet_id": "1945511067926536238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945176725190488064/8VBohPRs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7530,
+          "following_count": 322,
+          "like_count": 473,
+          "listed_count": 33,
+          "media_count": 708,
+          "tweet_count": 2176
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

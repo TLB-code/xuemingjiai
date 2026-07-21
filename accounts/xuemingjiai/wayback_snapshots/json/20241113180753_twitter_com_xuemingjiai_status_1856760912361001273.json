@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1856760904047878144"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "1851563784554627239",
+    "created_at": "2024-11-13T18:07:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-13T19:07:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1856760912361001273"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/99MImxdYTl",
+          "end": 173,
+          "expanded_url": "https://x.com/xuemingjiai/status/1856760912361001273/photo/1",
+          "media_key": "3_1856760904047878144",
+          "start": 150,
+          "url": "https://t.co/99MImxdYTl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1856760912361001273",
+    "in_reply_to_user_id": "1374389254726455305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1856022909854330964",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "宝箱...嘿嘿!我要开宝箱～\n看起来就很豪华的宝箱里面肯定能开出价值不菲的东西!\n里面肯定藏着稀有的魔法道具!卷轴!甚至是稀有装备!一下子就可以帮助我还清债务，肯定是这样没错。\n嘿咻...我开!\n哇..金色传说！！！\n嗯..？？？等等。。。\n这些黏糊糊的东西是什么，好恶心...不要过来啊！！！！！ https://t.co/99MImxdYTl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_1856760904047878144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GcSKNGabYAAgp4h.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1856760904047878144"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "1851563784554627239",
+        "created_at": "2024-11-13T18:07:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-13T19:07:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1856760912361001273"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/99MImxdYTl",
+              "end": 173,
+              "expanded_url": "https://x.com/xuemingjiai/status/1856760912361001273/photo/1",
+              "media_key": "3_1856760904047878144",
+              "start": 150,
+              "url": "https://t.co/99MImxdYTl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856760912361001273",
+        "in_reply_to_user_id": "1374389254726455305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1856022909854330964",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "宝箱...嘿嘿!我要开宝箱～\n看起来就很豪华的宝箱里面肯定能开出价值不菲的东西!\n里面肯定藏着稀有的魔法道具!卷轴!甚至是稀有装备!一下子就可以帮助我还清债务，肯定是这样没错。\n嘿咻...我开!\n哇..金色传说！！！\n嗯..？？？等等。。。\n这些黏糊糊的东西是什么，好恶心...不要过来啊！！！！！ https://t.co/99MImxdYTl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1856022907601989632"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "1851563784554627239",
+        "created_at": "2024-11-11T17:15:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-11T18:15:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1856022909854330964"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1856022909854330964",
+        "in_reply_to_user_id": "1374389254726455305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2031,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1856021920183136451",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "之前的债务是1370金币～上一期投票有232票，1370-235=1135，由于小男娘背叛了莉莉娅～债务翻倍，变成了2270枚金币💜\n重生之后在莉莉娅姐姐的帮助下击退了魅魔，现在又面临着新的选择，大家会怎么选择呢？\n本期根据投票数继续增加小男娘的债务～请好好的为莉莉娅姐姐负债到死吧～\n请做出你的选择💜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "超绝可爱💖\n她就是出道即巅峰的可爱纯真小天使新人偶像魔女小姐💖\n对这样的魔女小姐不能心怀任何涩涩的念想哦，不然就会变得非常糟糕...踏入无法挣脱的陷阱和牢笼里呢💘\n魔女小姐无论说什么做什么都是正确的哦，身为她的粉丝，只需要无条件用各种方式支持她就好了～\nqq2829556413，碎碎念小号@oricz233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 154,
+                "start": 145,
+                "username": "oricz233"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "name": "电波系新人偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854618482215911424/R3TTJuCj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5881,
+          "following_count": 230,
+          "like_count": 189,
+          "listed_count": 24,
+          "tweet_count": 1339
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

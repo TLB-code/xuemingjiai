@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1914743894224593239",
+    "created_at": "2025-04-22T18:11:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-22T19:11:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914743894224593239"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1752181716028936192",
+          "start": 3,
+          "username": "geye_zm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914743894224593239",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914538452131127667",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @geye_zm: 呵…被修女姐姐这副圣洁的外表骗到了吧❤️被修女姐姐的白丝磨得下体肿大了呢～感受到了吗？我的体温透过丝袜传递给你❤️你的鼻息都打在我的私处了❤️真是个下流的男人呢…❤️看你被我玩得像条发情的狗一样❤️连呼吸都不会了❤️这就是你的下场❤️永远只配跪在地上闻…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1914743894224593239].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1914743894224593239",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1914743894224593239"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_1914536175253250050",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpHMgfua4AIHKSz.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1914536175253250050"
+          ]
+        },
+        "author_id": "1752181716028936192",
+        "conversation_id": "1914538452131127667",
+        "created_at": "2025-04-22T04:35:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T05:35:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914538452131127667"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 146,
+              "start": 143,
+              "tag": "白丝"
+            },
+            {
+              "end": 150,
+              "start": 147,
+              "tag": "坐脸"
+            },
+            {
+              "end": 153,
+              "start": 151,
+              "tag": "文"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1FLNGPotfy",
+              "end": 177,
+              "expanded_url": "https://x.com/geye_zm/status/1914538452131127667/photo/1",
+              "media_key": "3_1914536175253250050",
+              "start": 154,
+              "url": "https://t.co/1FLNGPotfy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914538452131127667",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 2411,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "呵…被修女姐姐这副圣洁的外表骗到了吧❤️被修女姐姐的白丝磨得下体肿大了呢～感受到了吗？我的体温透过丝袜传递给你❤️你的鼻息都打在我的私处了❤️真是个下流的男人呢…❤️看你被我玩得像条发情的狗一样❤️连呼吸都不会了❤️这就是你的下场❤️永远只配跪在地上闻姐姐的骚味❤️\n❤️傻屄废物❤️\n#白丝 #坐脸 #文 https://t.co/1FLNGPotfy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "您好～这里是一直致力于为小雏男哥哥们提供“舒适”“安全”“极致射金体验”的纯真妹系小天使魔女妹妹💚\n想更加了解请翻看推文～\nqq2829556413，病毒小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858\n女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 79,
+                "username": "oricz233"
+              },
+              {
+                "end": 108,
+                "start": 99,
+                "username": "moelipoi"
+              },
+              {
+                "end": 126,
+                "start": 115,
+                "username": "cutelingli"
+              },
+              {
+                "end": 148,
+                "start": 133,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 159,
+                "start": 152,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系天使偶像魔女小姐💖女仆限定版♪",
+        "pinned_tweet_id": "1912930515570835816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909108552796651520/gRlgoaOf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6733,
+          "following_count": 274,
+          "like_count": 305,
+          "listed_count": 29,
+          "media_count": 577,
+          "tweet_count": 1595
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-30T04:07:37.000Z",
+        "description": "这里是葛叶真明，游戏创作者，虽然写的内容都是dom的但其实自己是sub，创作各类文游，内容涵盖寸止，窒息，辱骂等，想转型做文援所以会经常性发一些推文刺激小狗发情❤️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+Zqurf7RUye42M…",
+                "end": 23,
+                "expanded_url": "https://t.me/+Zqurf7RUye42MzM1",
+                "start": 0,
+                "url": "https://t.co/MW0XxdoPce"
+              }
+            ]
+          }
+        },
+        "id": "1752181716028936192",
+        "location": "游戏作者",
+        "name": "葛叶真明（互推）",
+        "pinned_tweet_id": "1910297462692282831",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1752270803544997888/TU1H8vb-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7137,
+          "following_count": 127,
+          "like_count": 56,
+          "listed_count": 15,
+          "media_count": 41,
+          "tweet_count": 378
+        },
+        "url": "https://t.co/MW0XxdoPce",
+        "username": "geye_zm",
+        "verified": false
+      }
+    ]
+  }
+}

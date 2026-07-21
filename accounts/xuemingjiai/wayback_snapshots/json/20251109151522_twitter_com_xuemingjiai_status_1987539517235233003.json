@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1987539517235233003",
+    "created_at": "2025-11-09T15:15:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T16:15:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987539517235233003"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1984115707815325698",
+          "start": 3,
+          "username": "jingli1840489"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987539517235233003",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987364339821789288",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jingli1840489: 新人文媛镜璃回来啦！可以是温柔妈咪~可以是可爱妹妹/知心姐姐~也可以是可怕残忍压榨主使用钱包哦🖤目前主要玩法：剧情/文爱/黑心/绿茶/洗脑/榨金等💕门牌号：q2749521274，致力于让每位朋友都开开心心舒舒服服的喔，爱你们呀❤️ htt…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1987539517235233003].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1987539517235233003",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1987539517235233003"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 545,
+        "media_key": "3_1987364321413001216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5SJUiEbcAAiP6a.jpg",
+        "width": 592
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987364321413001216"
+          ]
+        },
+        "author_id": "1984115707815325698",
+        "conversation_id": "1987364339821789288",
+        "created_at": "2025-11-09T03:39:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T04:39:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987364339821789288"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q27T8blTrP",
+              "end": 140,
+              "expanded_url": "https://x.com/jingli1840489/status/1987364339821789288/photo/1",
+              "media_key": "3_1987364321413001216",
+              "start": 117,
+              "url": "https://t.co/Q27T8blTrP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987364339821789288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 112,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "新人文媛镜璃回来啦！可以是温柔妈咪~可以是可爱妹妹/知心姐姐~也可以是可怕残忍压榨主使用钱包哦🖤目前主要玩法：剧情/文爱/黑心/绿茶/洗脑/榨金等💕门牌号：q2749521274，致力于让每位朋友都开开心心舒舒服服的喔，爱你们呀❤️ https://t.co/Q27T8blTrP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n最最最最喜欢钱包们啦!\n天天挨骂真的不会腻嘛～\n擅长用爱意和温柔的语气俘虏钱包～\n联系方式→3971546171←\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 78,
+                "username": "oricz233"
+              },
+              {
+                "end": 107,
+                "start": 98,
+                "username": "moelipoi"
+              },
+              {
+                "end": 125,
+                "start": 114,
+                "username": "cutelingli"
+              },
+              {
+                "end": 147,
+                "start": 132,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 159,
+                "start": 152,
+                "username": "1xian1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARosxSy"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍对钱包们最温柔最有好感版",
+        "pinned_tweet_id": "1976743806063063398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969152325731168256/ozl0k8K4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7855,
+          "following_count": 325,
+          "like_count": 644,
+          "listed_count": 36,
+          "media_count": 747,
+          "tweet_count": 2284
+        },
+        "url": "https://t.co/le8ARosxSy",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-31T04:31:00.000Z",
+        "description": "新人文媛镜璃回来啦！可以是温柔妈咪~可以是可爱妹妹/知心姐姐~也可以是可怕残忍压榨主使用钱包哦🖤\n目前主要玩法：剧情文爱/黑心/绿茶/洗脑/榨金等💕\n门牌号：q2749521274，致力于让每位朋友都开开心心舒舒服服的喔❤️全天营业，深夜常驻，欢迎前来光顾哦~\n最可爱的奏奏：@xuemingjiai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 150,
+                "start": 138,
+                "username": "xuemingjiai"
+              }
+            ]
+          }
+        },
+        "id": "1984115707815325698",
+        "location": "镜璃的温暖小床~深夜也欢迎打扰哦~",
+        "name": "是镜璃喔~",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985515782550536192/bMHPg-lN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 7,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 7
+        },
+        "username": "jingli1840489",
+        "verified": false
+      }
+    ]
+  }
+}

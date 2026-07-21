@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1935650655915352064"
+      ],
+      "media_source_tweet_id": [
+        "1935650722475053450"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "1935700691814924680",
+    "created_at": "2025-06-19T14:06:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-19T15:06:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935700691814924680"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1537049790009188353",
+          "start": 3,
+          "username": "afuluodite122"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/M1MeNgpytv",
+          "end": 108,
+          "expanded_url": "https://x.com/afuluodite122/status/1935650722475053450/video/1",
+          "media_key": "7_1935650655915352064",
+          "start": 85,
+          "url": "https://t.co/M1MeNgpytv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935700691814924680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935650722475053450",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @afuluodite122: 看什么呢？脑瘫贱母蛆💜一脚给你骚屄踹烂哦🖤不会以为没有说你吧～作为脑瘫发骚成瘾的弱智屄脑雌蛆💚也是要被清理🧠撅尻排干人格的哟❤️… https://t.co/M1MeNgpytv"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1935700691814924680].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1935700691814924680",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1935700691814924680"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14583,
+        "height": 1080,
+        "media_key": "7_1935650655915352064",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1935650655915352064/pu/img/XO_Rpr6kEhTYLj7F.jpg",
+        "public_metrics": {
+          "view_count": 239
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1935650655915352064/pu/vid/avc1/480x270/EnGEboLxAi-q362s.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1935650655915352064/pu/vid/avc1/640x360/uvzZZQr7wf1v_3hT.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1935650655915352064/pu/vid/avc1/1280x720/ZoqJ7XUgL2nw0Lq3.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1935650655915352064/pu/pl/RB1eOsAMb6pUlpeu.m3u8?tag=12"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1935650655915352064"
+          ]
+        },
+        "author_id": "1537049790009188353",
+        "conversation_id": "1935650722475053450",
+        "created_at": "2025-06-19T10:47:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T11:47:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935650722475053450"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M1MeNgpytv",
+              "end": 88,
+              "expanded_url": "https://x.com/afuluodite122/status/1935650722475053450/video/1",
+              "media_key": "7_1935650655915352064",
+              "start": 65,
+              "url": "https://t.co/M1MeNgpytv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935650722475053450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 151,
+                "start": 148,
+                "tag": "文援"
+              },
+              {
+                "end": 155,
+                "start": 152,
+                "tag": "文爱"
+              },
+              {
+                "end": 159,
+                "start": 156,
+                "tag": "调教"
+              },
+              {
+                "end": 163,
+                "start": 160,
+                "tag": "抖s"
+              },
+              {
+                "end": 167,
+                "start": 164,
+                "tag": "足臭"
+              },
+              {
+                "end": 171,
+                "start": 168,
+                "tag": "踢逼"
+              }
+            ]
+          },
+          "text": "看什么呢？脑瘫贱母蛆💜一脚给你骚屄踹烂哦🖤不会以为没有说你吧～作为脑瘫发骚成瘾的弱智屄脑雌蛆💚也是要被清理🧠撅尻排干人格的哟❤️\n还站着？给你骚屄一脚💢给我大腿颤抖立即下跪磕头尿失禁喷屄水🖤酸闷湿热粘腻油丝臭脚踩住脑袋～酸臭足蒸脚印印上🧠脚趾抓脸彻底闷死盖死💙自觉上贡一切成为弱智酸丝吸臭奴隶💔\n#文援 #文爱 #调教 #抖s #足臭 #踢逼"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 498,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "看什么呢？脑瘫贱母蛆💜一脚给你骚屄踹烂哦🖤不会以为没有说你吧～作为脑瘫发骚成瘾的弱智屄脑雌蛆💚也是要被清理🧠撅尻排干人格的哟❤️ https://t.co/M1MeNgpytv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n你也会因为窥视我的美貌而心甘情愿沦为钱包被我使用的对吗？\n钱包报名入口：3971546171\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 67,
+                "username": "oricz233"
+              },
+              {
+                "end": 96,
+                "start": 87,
+                "username": "moelipoi"
+              },
+              {
+                "end": 114,
+                "start": 103,
+                "username": "cutelingli"
+              },
+              {
+                "end": 136,
+                "start": 121,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 148,
+                "start": 141,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍驯化公用钱包👛中",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931064828044713984/9qwnduVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7252,
+          "following_count": 310,
+          "like_count": 371,
+          "listed_count": 32,
+          "media_count": 692,
+          "tweet_count": 2103
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-15T12:30:09.000Z",
+        "description": "ちょうきょう剧情向文援🖤是温柔的人哦……温柔的碾死你❤️超超超擅长剧情向服务～会用不同的方式进行处刑💚但只要是你喜欢的，那就都可以～✨所以，请让我好好的满足一下你吧💜/🚪10不抵/私信掉落门槛💘/全性癖精通w文爱剧情、语c点菜～点子很多❤️可以带着想法来帮你制作针对你的服务❤️",
+        "id": "1537049790009188353",
+        "location": "锦帐春宵恋不休💞",
+        "name": "💜玲琳💀",
+        "pinned_tweet_id": "1930571666935234745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931735628565377024/HQBAqJgf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1825,
+          "following_count": 105,
+          "like_count": 71,
+          "listed_count": 10,
+          "media_count": 76,
+          "tweet_count": 232
+        },
+        "username": "afuluodite122",
+        "verified": false
+      }
+    ]
+  }
+}

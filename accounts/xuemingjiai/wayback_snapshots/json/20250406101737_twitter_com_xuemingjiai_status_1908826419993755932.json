@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1908826416529240064"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "1908821483654435017",
+    "created_at": "2025-04-06T10:17:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-06T11:17:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908826419993755932"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ncaQIssn6W",
+          "end": 168,
+          "expanded_url": "https://x.com/xuemingjiai/status/1908826419993755932/photo/1",
+          "media_key": "3_1908826416529240064",
+          "start": 145,
+          "url": "https://t.co/ncaQIssn6W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908826419993755932",
+    "in_reply_to_user_id": "1374389254726455305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908825798540501356",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "啊啊啊啊…输了…彻底输了…\n把那张自己最喜欢、一看就绝对发情、丢掉脑子的“控制图”，连同满满的射金，一起献给了魔女主人♡♡♡\n好爽…\n那种被宰杀的快感好舒服...\n以后魔女主人只要拿出那张“控制图”，杂鱼小雏男们就会像被按下了开关一样，瞬间进入发情状态，彻底丧失对自己的掌控权～乖乖受死♡ https://t.co/ncaQIssn6W"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1908826416529240064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gn2Dgy8bcAAM300.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1908825795092697088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gn2C8n6aUAAaIh_.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1908826416529240064"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "1908821483654435017",
+        "created_at": "2025-04-06T10:17:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T11:17:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908826419993755932"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ncaQIssn6W",
+              "end": 168,
+              "expanded_url": "https://x.com/xuemingjiai/status/1908826419993755932/photo/1",
+              "media_key": "3_1908826416529240064",
+              "start": 145,
+              "url": "https://t.co/ncaQIssn6W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908826419993755932",
+        "in_reply_to_user_id": "1374389254726455305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908825798540501356",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "啊啊啊啊…输了…彻底输了…\n把那张自己最喜欢、一看就绝对发情、丢掉脑子的“控制图”，连同满满的射金，一起献给了魔女主人♡♡♡\n好爽…\n那种被宰杀的快感好舒服...\n以后魔女主人只要拿出那张“控制图”，杂鱼小雏男们就会像被按下了开关一样，瞬间进入发情状态，彻底丧失对自己的掌控权～乖乖受死♡ https://t.co/ncaQIssn6W"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1908825795092697088"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "1908821483654435017",
+        "created_at": "2025-04-06T10:15:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T11:15:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908825798540501356"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/74ObGACmAU",
+              "end": 168,
+              "expanded_url": "https://x.com/xuemingjiai/status/1908825798540501356/photo/1",
+              "media_key": "3_1908825795092697088",
+              "start": 145,
+              "url": "https://t.co/74ObGACmAU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908825798540501356",
+        "in_reply_to_user_id": "1374389254726455305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908825145348903291",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "怎么回事呢？\n明明刚开始只是想要舒服一下，现在已经快要忍不住对着魔女小姐彻底上交一切了哦...\n来，再想象一下吧!\n把那张让你一看就发狂的“控制图”，连同你的脑子和钱包一起献给魔女小姐\n🖤\n在那一刻就彻底失去了对自己的掌控权，你的弱点、你的人生、你的一切，都将被魔女大人牢牢掌握在手中💚～ https://t.co/74ObGACmAU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "您好～这里是出道以来一直致力于为小雏男哥哥们提供“舒适”“安全”“极致射金体验”的纯真妹系小天使魔女妹妹💚\n想了解我请翻看我的推文～\nqq2829556413，碎碎念小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 85,
+                "username": "oricz233"
+              },
+              {
+                "end": 114,
+                "start": 105,
+                "username": "moelipoi"
+              },
+              {
+                "end": 132,
+                "start": 121,
+                "username": "cutelingli"
+              },
+              {
+                "end": 154,
+                "start": 139,
+                "username": "chessy80978858"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系天使偶像魔女小姐💖女仆限定版♪",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907689949878693889/HrJZStFZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6640,
+          "following_count": 267,
+          "like_count": 305,
+          "listed_count": 28,
+          "media_count": 564,
+          "tweet_count": 1537
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "2072587251708817757",
+    "created_at": "2026-07-02T07:44:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T08:44:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072587251708817757"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1739976691970412544",
+          "start": 3,
+          "username": "SakiHana_effigy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072587251708817757",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072335745420038195",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SakiHana_effigy: M男真是可悲又可笑的生物，\n就连动物在闻到同类尸体的气味后都知道要远远躲开远离危险吧？\n可你们这些傻逼在看到贡狗同类被拽着屌子榨出所有价值，一脚踢出狗精之后，居然会又害怕又期待地围到本小姐身边偷看？看来贡瘾已经把你的大脑弄坏了，乖乖爬过…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072335742907686912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMJqYONboAAU_tn.jpg",
+        "width": 1037
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "2072587251708817757",
+        "created_at": "2026-07-02T07:44:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T08:44:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072587251708817757"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1739976691970412544",
+              "start": 3,
+              "username": "SakiHana_effigy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072587251708817757",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072335745420038195",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SakiHana_effigy: M男真是可悲又可笑的生物，\n就连动物在闻到同类尸体的气味后都知道要远远躲开远离危险吧？\n可你们这些傻逼在看到贡狗同类被拽着屌子榨出所有价值，一脚踢出狗精之后，居然会又害怕又期待地围到本小姐身边偷看？看来贡瘾已经把你的大脑弄坏了，乖乖爬过…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072335742907686912"
+          ]
+        },
+        "author_id": "1739976691970412544",
+        "conversation_id": "2072335745420038195",
+        "created_at": "2026-07-01T15:05:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T16:05:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072335745420038195"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 140,
+              "start": 137,
+              "tag": "贡奴"
+            },
+            {
+              "end": 144,
+              "start": 141,
+              "tag": "文援"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TUi9Xkhlk9",
+              "end": 168,
+              "expanded_url": "https://x.com/SakiHana_effigy/status/2072335745420038195/photo/1",
+              "media_key": "3_2072335742907686912",
+              "start": 145,
+              "url": "https://t.co/TUi9Xkhlk9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072335745420038195",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 463,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "M男真是可悲又可笑的生物，\n就连动物在闻到同类尸体的气味后都知道要远远躲开远离危险吧？\n可你们这些傻逼在看到贡狗同类被拽着屌子榨出所有价值，一脚踢出狗精之后，居然会又害怕又期待地围到本小姐身边偷看？看来贡瘾已经把你的大脑弄坏了，乖乖爬过来接受被黑丝足底毁灭人生的命运吧。\n #贡奴 #文援 https://t.co/TUi9Xkhlk9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "你也觉得你面前的这只魔女可爱过头了吧？\n对的!她和别人不一样!\n邂逅方式→2829556413←↓\n242184780\n涩气内容@oricz233\n星辰魔女镜璃\n@jingli1840489\n桃心魔女奈奈\n@blakexiaonai\n 黑白魔女花卷\n@miaomiaomyoez2\n好老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 64,
+                "username": "oricz233"
+              },
+              {
+                "end": 95,
+                "start": 81,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 116,
+                "start": 103,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 140,
+                "start": 125,
+                "username": "miaomiaomyoez2"
+              },
+              {
+                "end": 159,
+                "start": 144,
+                "username": "chessy80978858"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "超可爱超绿茶超撩人的精灵魔女-奏奏💚",
+        "pinned_tweet_id": "2065914875877228650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068510619113066496/EjupQRp9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9203,
+          "following_count": 412,
+          "like_count": 668,
+          "listed_count": 39,
+          "media_count": 838,
+          "tweet_count": 2251
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-27T11:49:17.000Z",
+        "description": "诞生于纯粹恶意的人偶，各位称呼我咲花即可。\n门牌1377762595，🚪20，同行可免，私信看到感兴趣的会回复，锁奴贡奴招收中～\n超级超级好的小夜: @Sama184396",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 75,
+                "username": "Sama184396"
+              }
+            ]
+          }
+        },
+        "id": "1739976691970412544",
+        "name": "咲花✨",
+        "pinned_tweet_id": "2046235460335444305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045219683532763136/muJtJPoK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 662,
+          "following_count": 50,
+          "like_count": 211,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 90
+        },
+        "url": "",
+        "username": "SakiHana_effigy",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,520 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1931945329915813924",
+    "created_at": "2025-06-09T09:03:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-09T10:03:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932000679750746566"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1437341340375805954",
+          "start": 0,
+          "username": "caiyanyu123"
+        },
+        {
+          "end": 23,
+          "id": "1148204500223610880",
+          "start": 13,
+          "username": "sanwwww04"
+        },
+        {
+          "end": 36,
+          "id": "1910603191638777859",
+          "start": 24,
+          "username": "Nacht442223"
+        },
+        {
+          "end": 47,
+          "id": "1799111704443564032",
+          "start": 37,
+          "username": "Mina08113"
+        },
+        {
+          "end": 58,
+          "id": "1739806410630946816",
+          "start": 48,
+          "username": "shengzus1"
+        },
+        {
+          "end": 69,
+          "id": "1813517072133206016",
+          "start": 59,
+          "username": "CaFE_0721"
+        },
+        {
+          "end": 83,
+          "id": "1525455384290689026",
+          "start": 70,
+          "username": "Badgirl_Amie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932000679750746566",
+    "in_reply_to_user_id": "1437341340375805954",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931945329915813924",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@caiyanyu123 @sanwwww04 @Nacht442223 @Mina08113 @shengzus1 @CaFE_0721 @Badgirl_Amie 尊嘟假嘟还有我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "1931945329915813924",
+        "created_at": "2025-06-09T09:03:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T10:03:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932000679750746566"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1437341340375805954",
+              "start": 0,
+              "username": "caiyanyu123"
+            },
+            {
+              "end": 23,
+              "id": "1148204500223610880",
+              "start": 13,
+              "username": "sanwwww04"
+            },
+            {
+              "end": 36,
+              "id": "1910603191638777859",
+              "start": 24,
+              "username": "Nacht442223"
+            },
+            {
+              "end": 47,
+              "id": "1799111704443564032",
+              "start": 37,
+              "username": "Mina08113"
+            },
+            {
+              "end": 58,
+              "id": "1739806410630946816",
+              "start": 48,
+              "username": "shengzus1"
+            },
+            {
+              "end": 69,
+              "id": "1813517072133206016",
+              "start": 59,
+              "username": "CaFE_0721"
+            },
+            {
+              "end": 83,
+              "id": "1525455384290689026",
+              "start": 70,
+              "username": "Badgirl_Amie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932000679750746566",
+        "in_reply_to_user_id": "1437341340375805954",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931945329915813924",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@caiyanyu123 @sanwwww04 @Nacht442223 @Mina08113 @shengzus1 @CaFE_0721 @Badgirl_Amie 尊嘟假嘟还有我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437341340375805954",
+        "conversation_id": "1931945329915813924",
+        "created_at": "2025-06-09T05:23:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T06:23:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931945329915813924"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 58,
+              "id": "1148204500223610880",
+              "start": 48,
+              "username": "sanwwww04"
+            },
+            {
+              "end": 71,
+              "id": "1910603191638777859",
+              "start": 59,
+              "username": "Nacht442223"
+            },
+            {
+              "end": 82,
+              "id": "1799111704443564032",
+              "start": 72,
+              "username": "Mina08113"
+            },
+            {
+              "end": 93,
+              "id": "1739806410630946816",
+              "start": 83,
+              "username": "shengzus1"
+            },
+            {
+              "end": 104,
+              "id": "1813517072133206016",
+              "start": 94,
+              "username": "CaFE_0721"
+            },
+            {
+              "end": 117,
+              "id": "1374389254726455305",
+              "start": 105,
+              "username": "xuemingjiai"
+            },
+            {
+              "end": 131,
+              "id": "1525455384290689026",
+              "start": 118,
+              "username": "Badgirl_Amie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931945329915813924",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1680,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "如果我写压榨的话那么一定是我觉得很涩所以想要玩了，都是你们的压榨推文害我有了这种想法包括但不限于@sanwwww04 @Nacht442223 @Mina08113 @shengzus1 @CaFE_0721 @xuemingjiai @Badgirl_Amie \n太坏了..♡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n你也会因为窥视我的美貌而心甘情愿沦为钱包被我使用的对吗？\n钱包报名入口：242184780\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 66,
+                "username": "oricz233"
+              },
+              {
+                "end": 95,
+                "start": 86,
+                "username": "moelipoi"
+              },
+              {
+                "end": 113,
+                "start": 102,
+                "username": "cutelingli"
+              },
+              {
+                "end": 135,
+                "start": 120,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 147,
+                "start": 140,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍驯化公用钱包👛中",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931064828044713984/9qwnduVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7156,
+          "following_count": 300,
+          "like_count": 344,
+          "listed_count": 33,
+          "media_count": 662,
+          "tweet_count": 1973
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-13T09:04:22.000Z",
+        "description": "ovo\n媚黑仅赛博xp 可能会随缘写一些推...吧?\n聊天不涉三 最喜欢的主人 @xiaoyaoaaaa06 老婆@secretb96367646\n小狗@Z04xiaomugou",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 40,
+                "username": "xiaoyaoaaaa06"
+              },
+              {
+                "end": 73,
+                "start": 57,
+                "username": "secretb96367646"
+              },
+              {
+                "end": 89,
+                "start": 76,
+                "username": "Z04xiaomugou"
+              }
+            ]
+          }
+        },
+        "id": "1437341340375805954",
+        "location": "没什么好位置，都被厉害的文援用完啦!",
+        "name": "超笨的眠眠大人",
+        "pinned_tweet_id": "1882260577558700439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882234542704263168/oO062oeB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1450,
+          "following_count": 327,
+          "like_count": 172,
+          "listed_count": 6,
+          "media_count": 41,
+          "tweet_count": 86
+        },
+        "username": "caiyanyu123",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-08T12:17:40.000Z",
+        "description": "自由散漫信仰充沛充满批判思维的天然腹黑毒舌 残暴农场主 清水暴躁日常小号@sans1517 爱玩弄感情的无趣的人 最近的人设是黑心小圣女 亲友@tattoo0305",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 36,
+                "username": "sans1517"
+              },
+              {
+                "end": 82,
+                "start": 71,
+                "username": "tattoo0305"
+              }
+            ]
+          }
+        },
+        "id": "1148204500223610880",
+        "location": "血色教堂",
+        "name": "法兰西美少女",
+        "pinned_tweet_id": "1702926288032546949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914775986283196418/6MumW7pC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19190,
+          "following_count": 280,
+          "like_count": 4508,
+          "listed_count": 43,
+          "media_count": 1066,
+          "tweet_count": 3583
+        },
+        "username": "sanwwww04",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-11T07:58:01.000Z",
+        "description": "我是来文█的，请不要再█钱了...呜呜♡\n🐧:2140877891 （6.6🚪 过了有赏💜）\n温柔系.♡\n喜欢有礼貌的可爱乖宝宝～\n聊天也可以w\n有礼貌可以██哦♡\n嘻嘻～其实不会接单 可能也就足底洗█榨█、角色扮演、无脑白█、毁号吸号这样的♡\n随心玩🖤\n互推互fo的宝宝私信加q都可以💜",
+        "id": "1910603191638777859",
+        "location": "足底吸█榨█犯 距离1.1km",
+        "name": "Nacht ゛",
+        "pinned_tweet_id": "1925162388724338875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930530339023441920/HGcWhRI4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 781,
+          "following_count": 19,
+          "like_count": 155,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 228
+        },
+        "username": "Nacht442223",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-07T16:10:39.000Z",
+        "description": "这里糸奈，温柔压榨系|findom（高一在读）QQ3428539300🚪20r\n心象世界@Lust_Siyuan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 44,
+                "username": "Lust_Siyuan"
+              }
+            ]
+          }
+        },
+        "id": "1799111704443564032",
+        "location": "奈宏爱玩狗",
+        "name": "糸奈Sama",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910347659392516096/SYVyvAr3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5713,
+          "following_count": 1080,
+          "like_count": 6281,
+          "listed_count": 21,
+          "media_count": 21,
+          "tweet_count": 1079
+        },
+        "username": "Mina08113",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-27T00:32:36.000Z",
+        "description": "黑心伪娘🖤‖高贵玉足🦶‖洗脑压榨🧠‖清空钱包👛‖被玉子大人高贵的脚踩住脑子上贡是你的荣幸~（防走丢: @yuzijiangs1）可以叫我玉子／玉玉／小玉  妈咪:@Yuuu_gao 置顶关评论推广",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 51,
+                "username": "yuzijiangs1"
+              },
+              {
+                "end": 90,
+                "start": 81,
+                "username": "Yuuu_gao"
+              }
+            ]
+          }
+        },
+        "id": "1739806410630946816",
+        "location": "San Francisco, CA",
+        "name": "⁺✞玉皇大帝✞⁺",
+        "pinned_tweet_id": "1930908440018190453",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807067141696585728/RU6M-mwW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5184,
+          "following_count": 8,
+          "like_count": 519,
+          "listed_count": 20,
+          "media_count": 110,
+          "tweet_count": 283
+        },
+        "username": "shengzus1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-17T10:12:27.000Z",
+        "description": "这里是莉音呢🖤\n欢迎光临♡文爱娼♡SM皆可♡发情无下限❤️如果是雌杀肉棒大人♡会自觉雌伏叩首♡母畜媚眸上翻地舔舐屁穴毒龙献媚泌卵接受配种❤️…\n但阳痿早泄雌堕淫肉只配戴锁的废物小包茎♡淫贱自毁雌畜母人孕袋痴女婊子什么的💚也欢迎来磕头送死🖤\n一只小狐狸@shigongyuyue\n♡私信概率掉落🚪♡\n爱你哦♡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 125,
+                "username": "shigongyuyue"
+              }
+            ]
+          }
+        },
+        "id": "1813517072133206016",
+        "location": "甜蜜湿热爱巢♡",
+        "name": "莉音CaFE（互♫）",
+        "pinned_tweet_id": "1876104360733954533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858665481114382336/AWX40Q7T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5841,
+          "following_count": 427,
+          "like_count": 244,
+          "listed_count": 23,
+          "media_count": 108,
+          "tweet_count": 960
+        },
+        "username": "CaFE_0721",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-14T12:38:09.000Z",
+        "description": "保养大脑/无底线/掏空钱包/高贵拜金💲会用下流色情的淫语~勾引傻逼处男清空钱包呢🖤大号:2702601883~被提款都是你们这群冤种的义务🖤",
+        "id": "1525455384290689026",
+        "name": "艾米🖤",
+        "pinned_tweet_id": "1774440847599378563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1746620454444658688/DJax-Vzv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12349,
+          "following_count": 127,
+          "like_count": 142,
+          "listed_count": 36,
+          "media_count": 230,
+          "tweet_count": 401
+        },
+        "username": "Badgirl_Amie",
+        "verified": false
+      }
+    ]
+  }
+}

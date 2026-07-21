@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "2051964307609669729",
+    "created_at": "2026-05-06T09:56:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T10:56:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051964307609669729"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1724420825632108544",
+          "start": 3,
+          "username": "banpingCO2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051964307609669729",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034130116465377415",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @banpingCO2: 接下来暮春会更新三篇接受等级逐级递增的记录哦🖤这期是1/3♡是接受能力相对低的粗口调教记录\n用臭脚羞辱侵犯大脑改变认知最终沦为傻逼倒贴吐币机兼美少女恶劣臭汗清洁器的洗脑记录🖤\n是常规粗口+臭脚虐待调教+洗脑控制+人权管控剥夺+认知管理身体改造🖤…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2051964307609669729].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2051964307609669729",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2051964307609669729"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1138,
+        "media_key": "3_2034130086941655040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDquiWsXgAAqq_N.jpg",
+        "width": 540
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2034130093581254656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDquivbXwAA3myJ.jpg",
+        "width": 937
+      },
+      {
+        "height": 2141,
+        "media_key": "3_2034130105572679680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDqujcGWYAAYFGG.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1793,
+        "media_key": "3_2034130113684508672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDquj6UXEAAfxJq.jpg",
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034130086941655040",
+            "3_2034130093581254656",
+            "3_2034130105572679680",
+            "3_2034130113684508672"
+          ]
+        },
+        "author_id": "1724420825632108544",
+        "conversation_id": "2034130116465377415",
+        "created_at": "2026-03-18T04:49:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T05:49:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034130116465377415"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 127,
+              "start": 124,
+              "tag": "男M"
+            },
+            {
+              "end": 131,
+              "start": 128,
+              "tag": "女S"
+            },
+            {
+              "end": 134,
+              "start": 132,
+              "tag": "贡"
+            },
+            {
+              "end": 139,
+              "start": 135,
+              "tag": "ATM"
+            },
+            {
+              "end": 143,
+              "start": 140,
+              "tag": "洗脑"
+            },
+            {
+              "end": 147,
+              "start": 144,
+              "tag": "臭脚"
+            },
+            {
+              "end": 151,
+              "start": 148,
+              "tag": "足控"
+            },
+            {
+              "end": 155,
+              "start": 152,
+              "tag": "SM"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HqrAooBUAr",
+              "end": 179,
+              "expanded_url": "https://x.com/banpingCO2/status/2034130116465377415/photo/1",
+              "media_key": "3_2034130086941655040",
+              "start": 156,
+              "url": "https://t.co/HqrAooBUAr"
+            },
+            {
+              "display_url": "pic.x.com/HqrAooBUAr",
+              "end": 179,
+              "expanded_url": "https://x.com/banpingCO2/status/2034130116465377415/photo/1",
+              "media_key": "3_2034130093581254656",
+              "start": 156,
+              "url": "https://t.co/HqrAooBUAr"
+            },
+            {
+              "display_url": "pic.x.com/HqrAooBUAr",
+              "end": 179,
+              "expanded_url": "https://x.com/banpingCO2/status/2034130116465377415/photo/1",
+              "media_key": "3_2034130105572679680",
+              "start": 156,
+              "url": "https://t.co/HqrAooBUAr"
+            },
+            {
+              "display_url": "pic.x.com/HqrAooBUAr",
+              "end": 179,
+              "expanded_url": "https://x.com/banpingCO2/status/2034130116465377415/photo/1",
+              "media_key": "3_2034130113684508672",
+              "start": 156,
+              "url": "https://t.co/HqrAooBUAr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034130116465377415",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 28386,
+          "like_count": 159,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "接下来暮春会更新三篇接受等级逐级递增的记录哦🖤这期是1/3♡是接受能力相对低的粗口调教记录\n用臭脚羞辱侵犯大脑改变认知最终沦为傻逼倒贴吐币机兼美少女恶劣臭汗清洁器的洗脑记录🖤\n是常规粗口+臭脚虐待调教+洗脑控制+人权管控剥夺+认知管理身体改造🖤\n #男M #女S #贡 #ATM #洗脑 #臭脚 #足控 #SM https://t.co/HqrAooBUAr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会魅惑并享用钱包的公主殿下🤍\n最最最最喜欢钱包们啦～\n联系方式→2829556413←\n病毒小号@oricz233\n现任魔女学园院长!\n星辰魔女镜璃\n@jingli1840489\n桃心魔女奈奈\n@blakexiaonai\n 黑白魔女花卷\n@miaomiaomi17630\n好老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 52,
+                "username": "oricz233"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 114,
+                "start": 101,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 139,
+                "start": 123,
+                "username": "miaomiaomi17630"
+              },
+              {
+                "end": 158,
+                "start": 143,
+                "username": "chessy80978858"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "魅惑系魔女族公主-奏💜魔女学园院长版～",
+        "pinned_tweet_id": "2013314916120416537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018477066753306624/36q-3UGh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8784,
+          "following_count": 360,
+          "like_count": 633,
+          "listed_count": 37,
+          "media_count": 826,
+          "tweet_count": 2184
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-14T13:35:49.000Z",
+        "description": "这里是最擅长暴虐傻逼抖M的暮春酱哦🖤极度拜金同时也热衷于剥夺性无能小处男做爱的想法🖤带着自己圆鼓鼓的钱包来3698871591被暮春酱爆耍到脑髓外泄吧💔接长期，收ATM哦",
+        "id": "1724420825632108544",
+        "location": "脑弱处男生活费提取中心♡",
+        "name": "🖤暮春（黑心限定）💔",
+        "pinned_tweet_id": "1779160364480909766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778740475786096640/g4A2onoj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2513,
+          "following_count": 19,
+          "like_count": 36,
+          "listed_count": 5,
+          "media_count": 41,
+          "tweet_count": 88
+        },
+        "username": "banpingCO2",
+        "verified": false
+      }
+    ]
+  }
+}

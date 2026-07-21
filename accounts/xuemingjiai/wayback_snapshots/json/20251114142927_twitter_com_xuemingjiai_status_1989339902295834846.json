@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1989339902295834846",
+    "created_at": "2025-11-14T14:29:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T15:29:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989339902295834846"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1618704467242672128",
+          "start": 3,
+          "username": "shuishuishui_0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989339902295834846",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988824008763326753",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shuishuishui_0: “亲爱的～这周的女友费呢🖤人家现在连开房的钱都快没有了诶🖤”\n\n手指轻轻的抚摸着你的被锁的涨大的卵蛋，指甲叩击着困住你的贞操锁，没一会儿孔洞内就渗出了透明的液体\n\n“看我花着你的钱跟黑爹做爱，看我被大鸡吧肏得不成样子，这种事情你这个小水管…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1989339902295834846].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1989339902295834846",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1989339902295834846"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1124,
+        "media_key": "3_1988824000253030400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5m45BfacAApfYX.jpg",
+        "width": 903
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988824000253030400"
+          ]
+        },
+        "author_id": "1618704467242672128",
+        "conversation_id": "1988824008763326753",
+        "created_at": "2025-11-13T04:19:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T05:19:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988824008763326753"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 132,
+              "start": 129,
+              "tag": "文援"
+            },
+            {
+              "end": 136,
+              "start": 133,
+              "tag": "媚黑"
+            },
+            {
+              "end": 140,
+              "start": 137,
+              "tag": "m男"
+            },
+            {
+              "end": 145,
+              "start": 141,
+              "tag": "贞操锁"
+            },
+            {
+              "end": 149,
+              "start": 146,
+              "tag": "压榨"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rEduxrKnHL",
+              "end": 173,
+              "expanded_url": "https://x.com/shuishuishui_0/status/1988824008763326753/photo/1",
+              "media_key": "3_1988824000253030400",
+              "start": 150,
+              "url": "https://t.co/rEduxrKnHL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988824008763326753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 4004,
+          "like_count": 165,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "“亲爱的～这周的女友费呢🖤人家现在连开房的钱都快没有了诶🖤”\n\n手指轻轻的抚摸着你的被锁的涨大的卵蛋，指甲叩击着困住你的贞操锁，没一会儿孔洞内就渗出了透明的液体\n\n“看我花着你的钱跟黑爹做爱，看我被大鸡吧肏得不成样子，这种事情你这个小水管最兴奋了对吧🖤”\n\n#文援 #媚黑 #m男 #贞操锁 #压榨 https://t.co/rEduxrKnHL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n最最最最喜欢钱包们啦!\n天天挨骂真的不会腻嘛～\n擅长用爱意和温柔的语气俘虏钱包～\n联系方式→3971546171←\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 78,
+                "username": "oricz233"
+              },
+              {
+                "end": 107,
+                "start": 98,
+                "username": "moelipoi"
+              },
+              {
+                "end": 125,
+                "start": 114,
+                "username": "cutelingli"
+              },
+              {
+                "end": 147,
+                "start": 132,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 159,
+                "start": 152,
+                "username": "1xian1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARosxSy"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍对钱包们最温柔最有好感版",
+        "pinned_tweet_id": "1976743806063063398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969152325731168256/ozl0k8K4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7879,
+          "following_count": 324,
+          "like_count": 644,
+          "listed_count": 35,
+          "media_count": 748,
+          "tweet_count": 2290
+        },
+        "url": "https://t.co/le8ARosxSy",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-26T20:16:46.000Z",
+        "description": "我说你这是已经第几次点开本小姐的主页了呢🖤这么期待被我玩弄的话～就来找雨露小姐自毁吧🖤🖤🖤🐧：2700776581",
+        "id": "1618704467242672128",
+        "name": "雨露🖤【文援互推✨】（不涉三）",
+        "pinned_tweet_id": "1775187842576372208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726554310140682240/ru0O-Pb6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3277,
+          "following_count": 35,
+          "like_count": 458,
+          "listed_count": 9,
+          "media_count": 75,
+          "tweet_count": 873
+        },
+        "username": "shuishuishui_0",
+        "verified": false
+      }
+    ]
+  }
+}

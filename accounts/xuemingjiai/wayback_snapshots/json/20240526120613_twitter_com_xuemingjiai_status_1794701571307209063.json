@@ -1,0 +1,169 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "id": "1129067985451118593",
+          "name": "Physical Education"
+        }
+      }
+    ],
+    "conversation_id": "1794701571307209063",
+    "created_at": "2024-05-26T12:06:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-26T13:06:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1794701571307209063"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1772824817647165440",
+          "start": 3,
+          "username": "kekemiao1234"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1794701571307209063",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1794674460727083307",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kekemiao1234: 老师～这么急着叫人家过来～\n难道是杂鱼肉棒又犯贱了吗💜\n嘛～说什么“私下辅导”～\n老师的小动作都被看见了哦❤️\n一直在偷窥人家的胸部和脚～\n肉棒也硬起来顶着裤子呢💚\n还特地挑在上完体育课的时候～\n很想把脸贴上闷了一天的臭脚吧🖤\n爬过来～\n踩烂…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1794701571307209063].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1794701571307209063",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1794701571307209063"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1794674451843575809"
+          ]
+        },
+        "author_id": "1772824817647165440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1129067985451118593",
+              "name": "Physical Education"
+            }
+          }
+        ],
+        "conversation_id": "1794674460727083307",
+        "created_at": "2024-05-26T10:18:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-26T11:18:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1794674460727083307"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/fFlEVDMSV9",
+              "end": 153,
+              "expanded_url": "https://twitter.com/kekemiao1234/status/1794674460727083307/photo/1",
+              "media_key": "3_1794674451843575809",
+              "start": 130,
+              "url": "https://t.co/fFlEVDMSV9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794674460727083307",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "老师～这么急着叫人家过来～\n难道是杂鱼肉棒又犯贱了吗💜\n嘛～说什么“私下辅导”～\n老师的小动作都被看见了哦❤️\n一直在偷窥人家的胸部和脚～\n肉棒也硬起来顶着裤子呢💚\n还特地挑在上完体育课的时候～\n很想把脸贴上闷了一天的臭脚吧🖤\n爬过来～\n踩烂脸面🖤熏爆大脑🖤 https://t.co/fFlEVDMSV9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "就如同推特名一样\n是传说中的网络美少女，在异世界中是名副其实的“魔女”💜\n对人类世界充满好奇，会用自己的一些方式来洗脑一些小雏男以满足自己的恶趣味，非常拜金💚征集人型钱包中..\n门牌是2829556413和2438028521（备用）\n请来送死~♡\n不涉三哦",
+        "id": "1374389254726455305",
+        "name": "请叫我魔女小姐💜（白纸计划上线中）",
+        "pinned_tweet_id": "1791781042321571928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790638369040711680/qE_AOavg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4822,
+          "following_count": 161,
+          "like_count": 141,
+          "listed_count": 22,
+          "tweet_count": 955
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-27T03:16:02.000Z",
+        "description": "门牌3689271536，不涉三",
+        "id": "1772824817647165440",
+        "name": "可可",
+        "pinned_tweet_id": "1783511650995466731",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772824946496131072/DV1K64Wc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 745,
+          "following_count": 18,
+          "like_count": 14,
+          "listed_count": 1,
+          "tweet_count": 129
+        },
+        "username": "kekemiao1234",
+        "verified": false
+      }
+    ]
+  }
+}

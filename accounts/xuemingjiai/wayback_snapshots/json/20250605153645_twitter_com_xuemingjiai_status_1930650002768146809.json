@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1930650002768146809",
+    "created_at": "2025-06-05T15:36:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-05T16:36:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930650002768146809"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1409902807965122565",
+          "start": 3,
+          "username": "qinli2333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930650002768146809",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930645535788355858",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qinli2333: ❤️你在求饶吗❤️不行哦～学长现在是我的犯人～交代清楚狗卵藏着多少精液前绝不放过你呢❤️憋了半天才脸红诶～看来学长没少偷我臭鞋训练肺活量吧❤️噗～看你扭屁股乱蹭的婊子贱样❤️放心好了～再怎么动贱蛆都会被紧紧踩住～还是说你怕被捂死选择和脚趾做爱❤️趁…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1930650002768146809].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1930650002768146809",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1930650002768146809"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1930645532416040960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GssH4fraYAAPIGJ.jpg",
+        "width": 849
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930645532416040960"
+          ]
+        },
+        "author_id": "1409902807965122565",
+        "conversation_id": "1930645535788355858",
+        "created_at": "2025-06-05T15:19:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T16:19:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930645535788355858"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 141,
+              "start": 138,
+              "tag": "文援"
+            },
+            {
+              "end": 145,
+              "start": 142,
+              "tag": "文爱"
+            },
+            {
+              "end": 149,
+              "start": 146,
+              "tag": "榨精"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z6j1G5pWhD",
+              "end": 173,
+              "expanded_url": "https://x.com/qinli2333/status/1930645535788355858/photo/1",
+              "media_key": "3_1930645532416040960",
+              "start": 150,
+              "url": "https://t.co/Z6j1G5pWhD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930645535788355858",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "❤️你在求饶吗❤️不行哦～学长现在是我的犯人～交代清楚狗卵藏着多少精液前绝不放过你呢❤️憋了半天才脸红诶～看来学长没少偷我臭鞋训练肺活量吧❤️噗～看你扭屁股乱蹭的婊子贱样❤️放心好了～再怎么动贱蛆都会被紧紧踩住～还是说你怕被捂死选择和脚趾做爱❤️趁窒息前赶快尿精吧～学长❤️\n#文援 #文爱 #榨精 https://t.co/Z6j1G5pWhD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "集美貌，智慧，强大于一身的魔女族公主现身人世～区区人类，跪下向我表示臣服吧💜\n被我支配 控制 吸脑 成为奴仆💜\n挑战qq2829556413，里世界小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858\n女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 76,
+                "username": "oricz233"
+              },
+              {
+                "end": 105,
+                "start": 96,
+                "username": "moelipoi"
+              },
+              {
+                "end": 123,
+                "start": 112,
+                "username": "cutelingli"
+              },
+              {
+                "end": 145,
+                "start": 130,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 156,
+                "start": 149,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏💜散播同化病毒中～",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926028406774247424/hWplRg7q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7121,
+          "following_count": 297,
+          "like_count": 339,
+          "listed_count": 33,
+          "media_count": 648,
+          "tweet_count": 1918
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-29T15:53:29.000Z",
+        "description": "这里是文媛姬祁里～一个拥有灵魂的人偶，欢迎大家找咱来玩，唉嘿☆～门牌:2548742177，价格是40r/0.5h  75r/1h祁里欢迎私信聊天哦～对啦，咱是不涉三的谢谢理解♡ \n妹妹@Sakura9OwO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 93,
+                "username": "Sakura9OwO"
+              }
+            ]
+          }
+        },
+        "id": "1409902807965122565",
+        "name": "祁☆里（困～）",
+        "pinned_tweet_id": "1930645535788355858",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558068077488926720/Xp3IrbCM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10639,
+          "following_count": 98,
+          "like_count": 1064,
+          "listed_count": 57,
+          "media_count": 373,
+          "tweet_count": 3945
+        },
+        "username": "qinli2333",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1932009059458363648",
+    "created_at": "2025-06-09T09:37:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-09T10:37:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932009059458363648"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 134,
+          "start": 130,
+          "tag": "文援姬"
+        },
+        {
+          "end": 138,
+          "start": 135,
+          "tag": "调教"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1702305176701341696",
+          "start": 3,
+          "username": "xiyan123466"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932009059458363648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931910841273901333",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiyan123466: 每天对着主人的推文涩图犯贱撸小鸡巴～一天不撸就会死掉的杂鱼🖤还喜欢被主人走了一天酸臭丝袜脚踩脸踢裆～被一脸嫌弃的羞辱调教吐口水～真是脑子都坏掉的傻逼贱畜🖤生下来就是个女人当狗的废物～短小杂鱼小鸡巴是迟早冲废在主人脚下的玩具🖤\n#文援姬 #调教…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1932009059458363648].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1932009059458363648",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1932009059458363648"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1931910813599825921",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs-GpjZagAEoYXJ.jpg",
+        "width": 780
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1931910813599825921"
+          ]
+        },
+        "author_id": "1702305176701341696",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1931910841273901333",
+        "created_at": "2025-06-09T03:06:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T04:06:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931910841273901333"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 117,
+              "start": 113,
+              "tag": "文援姬"
+            },
+            {
+              "end": 121,
+              "start": 118,
+              "tag": "调教"
+            },
+            {
+              "end": 125,
+              "start": 122,
+              "tag": "羞辱"
+            },
+            {
+              "end": 129,
+              "start": 126,
+              "tag": "胁迫"
+            },
+            {
+              "end": 133,
+              "start": 130,
+              "tag": "辱骂"
+            },
+            {
+              "end": 137,
+              "start": 134,
+              "tag": "绿帽"
+            },
+            {
+              "end": 141,
+              "start": 138,
+              "tag": "压榨"
+            },
+            {
+              "end": 145,
+              "start": 142,
+              "tag": "寸止"
+            },
+            {
+              "end": 149,
+              "start": 146,
+              "tag": "榨金"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qvl7dSh8GO",
+              "end": 173,
+              "expanded_url": "https://x.com/xiyan123466/status/1931910841273901333/photo/1",
+              "media_key": "3_1931910813599825921",
+              "start": 150,
+              "url": "https://t.co/Qvl7dSh8GO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931910841273901333",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 765,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "每天对着主人的推文涩图犯贱撸小鸡巴～一天不撸就会死掉的杂鱼🖤还喜欢被主人走了一天酸臭丝袜脚踩脸踢裆～被一脸嫌弃的羞辱调教吐口水～真是脑子都坏掉的傻逼贱畜🖤生下来就是个女人当狗的废物～短小杂鱼小鸡巴是迟早冲废在主人脚下的玩具🖤\n#文援姬 #调教 #羞辱 #胁迫 #辱骂 #绿帽 #压榨 #寸止 #榨金 https://t.co/Qvl7dSh8GO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n你也会因为窥视我的美貌而心甘情愿沦为钱包被我使用的对吗？\n钱包报名入口：242184780\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 66,
+                "username": "oricz233"
+              },
+              {
+                "end": 95,
+                "start": 86,
+                "username": "moelipoi"
+              },
+              {
+                "end": 113,
+                "start": 102,
+                "username": "cutelingli"
+              },
+              {
+                "end": 135,
+                "start": 120,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 147,
+                "start": 140,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍驯化公用钱包👛中",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931064828044713984/9qwnduVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7157,
+          "following_count": 302,
+          "like_count": 346,
+          "listed_count": 33,
+          "media_count": 664,
+          "tweet_count": 1979
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-14T12:57:28.000Z",
+        "description": "这里是腹黑傲娇的涩情大小姐～入圈四年多～擅长各种文援和剧情 调教 羞辱 胁迫 绿茶 寸止 剧情 绿帽 媚黑 压榨 胁迫 等等女s玩法都可以♥媚黑只是云玩!现实没接触过哈🖤\n接文字 文图 收奴 闲聊 树洞欢迎加QQ咨询下单\n基本上全天都在加Q都会秒回复的♥\n下面有tg在那边玩也先找QQ\n接单QQ 3140617087",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xixiyan123456",
+                "end": 23,
+                "expanded_url": "http://t.me/xixiyan123456",
+                "start": 0,
+                "url": "https://t.co/DNJLMhF9XQ"
+              }
+            ]
+          }
+        },
+        "id": "1702305176701341696",
+        "location": "想tg玩的  记得先加QQ找我",
+        "name": "夕颜香香",
+        "pinned_tweet_id": "1875472376638665051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917955734232571904/gDn0kvCo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7960,
+          "following_count": 128,
+          "like_count": 481,
+          "listed_count": 38,
+          "media_count": 476,
+          "tweet_count": 5734
+        },
+        "url": "https://t.co/DNJLMhF9XQ",
+        "username": "xiyan123466",
+        "verified": false
+      }
+    ]
+  }
+}

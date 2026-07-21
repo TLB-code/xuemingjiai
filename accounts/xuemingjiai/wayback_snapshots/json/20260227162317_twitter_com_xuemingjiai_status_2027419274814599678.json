@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "2027419274814599678",
+    "created_at": "2026-02-27T16:23:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T17:23:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027419274814599678"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1374389254726455305",
+          "start": 3,
+          "username": "xuemingjiai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027419274814599678",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021762415655104909",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xuemingjiai: 嗯~今天要给各位小钱包们展示一只舔狗龟男提款机呢🤍\n之前他也上过本公主推特的啦~也是一只过一段时间就会自动复活被本公主无情吸金的白痴舔狗钱包~\n只不过被本公主开发得越来越贱了喔...包括但不限于上班期间被挑逗勃起禁止撸动只能白给~\n对着母猪女朋…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2027419274814599678].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2027419274814599678",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2027419274814599678"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2044,
+        "media_key": "3_2021762075618693120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA695WGb0AAax9n.jpg",
+        "width": 540
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2021762136616448000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA6985VbsAA6x7O.jpg",
+        "width": 433
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2021762237971804160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA6-Cy6bsAA2ohB.jpg",
+        "width": 473
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2021762322428260352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA6-Htia8AABzDb.jpg",
+        "width": 368
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021762075618693120",
+            "3_2021762136616448000",
+            "3_2021762237971804160",
+            "3_2021762322428260352"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2021762415655104909",
+        "created_at": "2026-02-12T01:44:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T02:44:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021762415655104909"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XQjZb4de48",
+              "end": 166,
+              "expanded_url": "https://x.com/xuemingjiai/status/2021762415655104909/photo/1",
+              "media_key": "3_2021762075618693120",
+              "start": 143,
+              "url": "https://t.co/XQjZb4de48"
+            },
+            {
+              "display_url": "pic.x.com/XQjZb4de48",
+              "end": 166,
+              "expanded_url": "https://x.com/xuemingjiai/status/2021762415655104909/photo/1",
+              "media_key": "3_2021762136616448000",
+              "start": 143,
+              "url": "https://t.co/XQjZb4de48"
+            },
+            {
+              "display_url": "pic.x.com/XQjZb4de48",
+              "end": 166,
+              "expanded_url": "https://x.com/xuemingjiai/status/2021762415655104909/photo/1",
+              "media_key": "3_2021762237971804160",
+              "start": 143,
+              "url": "https://t.co/XQjZb4de48"
+            },
+            {
+              "display_url": "pic.x.com/XQjZb4de48",
+              "end": 166,
+              "expanded_url": "https://x.com/xuemingjiai/status/2021762415655104909/photo/1",
+              "media_key": "3_2021762322428260352",
+              "start": 143,
+              "url": "https://t.co/XQjZb4de48"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021762415655104909",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 11672,
+          "like_count": 62,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "嗯~今天要给各位小钱包们展示一只舔狗龟男提款机呢🤍\n之前他也上过本公主推特的啦~也是一只过一段时间就会自动复活被本公主无情吸金的白痴舔狗钱包~\n只不过被本公主开发得越来越贱了喔...包括但不限于上班期间被挑逗勃起禁止撸动只能白给~\n对着母猪女朋友硬不起来看着本公主的足底强迫训练早泄♪ https://t.co/XQjZb4de48"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会魅惑并享用钱包的公主殿下🤍\n最最最最喜欢钱包们啦～\n联系方式→2829556413←\n病毒小号@oricz233\n现任魔女学园院长!\n星辰魔女镜璃\n@jingli1840489\n桃心魔女奈奈\n@blakexiaonai\n 黑白魔女花卷\n@miaomiaomi17630\n好老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 52,
+                "username": "oricz233"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 114,
+                "start": 101,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 139,
+                "start": 123,
+                "username": "miaomiaomi17630"
+              },
+              {
+                "end": 158,
+                "start": 143,
+                "username": "chessy80978858"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "魅惑系魔女族公主-奏💜魔女学园院长版～",
+        "pinned_tweet_id": "2013314916120416537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018477066753306624/36q-3UGh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8619,
+          "following_count": 369,
+          "like_count": 646,
+          "listed_count": 36,
+          "media_count": 817,
+          "tweet_count": 2175
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

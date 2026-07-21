@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1932069430735028225"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "1932069448942526771",
+    "created_at": "2025-06-09T13:37:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-09T14:37:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1932069448942526771"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 8,
+          "start": 0,
+          "tag": "魔女公主的日常"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/x0PUdbB6II",
+          "end": 166,
+          "expanded_url": "https://x.com/xuemingjiai/status/1932069448942526771/photo/1",
+          "media_key": "3_1932069430735028225",
+          "start": 143,
+          "url": "https://t.co/x0PUdbB6II"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932069448942526771",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#魔女公主的日常\n很多对钱包不太了解的人都会对钱包以及钱包使用者们有很严重的偏见，这是不对的\n他们不理解为什么钱包们会心甘情愿的把钱送给别人使用，这样的快感源自于什么？\n其实是个很简单的道理，因为钱包被这样对待会爽，它们不会在意世俗的眼光，我乐意当钱包，我乐意白给，我下贱，与你何干? https://t.co/x0PUdbB6II"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1932069430735028225",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtAW6SRaQAE5w8v.jpg",
+        "width": 1202
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932069430735028225"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "1932069448942526771",
+        "created_at": "2025-06-09T13:37:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T14:37:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932069448942526771"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "魔女公主的日常"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/x0PUdbB6II",
+              "end": 166,
+              "expanded_url": "https://x.com/xuemingjiai/status/1932069448942526771/photo/1",
+              "media_key": "3_1932069430735028225",
+              "start": 143,
+              "url": "https://t.co/x0PUdbB6II"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932069448942526771",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#魔女公主的日常\n很多对钱包不太了解的人都会对钱包以及钱包使用者们有很严重的偏见，这是不对的\n他们不理解为什么钱包们会心甘情愿的把钱送给别人使用，这样的快感源自于什么？\n其实是个很简单的道理，因为钱包被这样对待会爽，它们不会在意世俗的眼光，我乐意当钱包，我乐意白给，我下贱，与你何干? https://t.co/x0PUdbB6II"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n你也会因为窥视我的美貌而心甘情愿沦为钱包被我使用的对吗？\n钱包报名入口：242184780\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 66,
+                "username": "oricz233"
+              },
+              {
+                "end": 95,
+                "start": 86,
+                "username": "moelipoi"
+              },
+              {
+                "end": 113,
+                "start": 102,
+                "username": "cutelingli"
+              },
+              {
+                "end": 135,
+                "start": 120,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 147,
+                "start": 140,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍驯化公用钱包👛中",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931064828044713984/9qwnduVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7162,
+          "following_count": 303,
+          "like_count": 347,
+          "listed_count": 33,
+          "media_count": 666,
+          "tweet_count": 1988
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

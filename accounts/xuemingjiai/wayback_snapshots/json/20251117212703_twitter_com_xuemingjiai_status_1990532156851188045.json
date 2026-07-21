@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1990532156851188045",
+    "created_at": "2025-11-17T21:27:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T22:27:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990532156851188045"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1409902807965122565",
+          "start": 3,
+          "username": "qinli2333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990532156851188045",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990474552456224940",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qinli2333: 居然因为早泄这种理由被退回两次～看来必须要对你这只［劣质品］进行报废处理了🖤就用这只穿到发硬的丝袜～把你的幼儿龟头摩擦到再也不敢勃起为止吧🖤想靠淫水软化丝袜？噗～这样只会溶解的足臭细菌～从尿道进入身体加速去势啊🖤你这样的骚蛆连报废特价都卖不了～送回…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1990532156851188045].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1990532156851188045",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1990532156851188045"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 425,
+        "media_key": "3_1990474550170320896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5-WDrFbgAAadC5.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990474550170320896"
+          ]
+        },
+        "author_id": "1409902807965122565",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1990474552456224940",
+        "created_at": "2025-11-17T17:38:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T18:38:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990474552456224940"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 135,
+              "start": 132,
+              "tag": "文援"
+            },
+            {
+              "end": 139,
+              "start": 136,
+              "tag": "文爱"
+            },
+            {
+              "end": 143,
+              "start": 140,
+              "tag": "调教"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bBno5ujzSi",
+              "end": 167,
+              "expanded_url": "https://x.com/qinli2333/status/1990474552456224940/photo/1",
+              "media_key": "3_1990474550170320896",
+              "start": 144,
+              "url": "https://t.co/bBno5ujzSi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990474552456224940",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 346,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "居然因为早泄这种理由被退回两次～看来必须要对你这只［劣质品］进行报废处理了🖤就用这只穿到发硬的丝袜～把你的幼儿龟头摩擦到再也不敢勃起为止吧🖤想靠淫水软化丝袜？噗～这样只会溶解的足臭细菌～从尿道进入身体加速去势啊🖤你这样的骚蛆连报废特价都卖不了～送回养殖场淘汰吧🖤\n#文援 #文爱 #调教 https://t.co/bBno5ujzSi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n最最最最喜欢钱包们啦!\n天天挨骂真的不会腻嘛～\n擅长用爱意和温柔的语气俘虏钱包～\n联系方式→3971546171←\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 78,
+                "username": "oricz233"
+              },
+              {
+                "end": 107,
+                "start": 98,
+                "username": "moelipoi"
+              },
+              {
+                "end": 125,
+                "start": 114,
+                "username": "cutelingli"
+              },
+              {
+                "end": 147,
+                "start": 132,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 159,
+                "start": 152,
+                "username": "1xian1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARosxSy"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍对钱包们最温柔最有好感版",
+        "pinned_tweet_id": "1976743806063063398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969152325731168256/ozl0k8K4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7884,
+          "following_count": 326,
+          "like_count": 638,
+          "listed_count": 35,
+          "media_count": 752,
+          "tweet_count": 2300
+        },
+        "url": "https://t.co/le8ARosxSy",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-29T15:53:29.000Z",
+        "description": "这里是文媛姬祁里～一个拥有灵魂的人偶，欢迎大家找咱来玩，唉嘿☆～门牌:2548742177，价格是40r/0.5h  75r/1h祁里欢迎私信聊天哦～对啦，咱是不涉三的谢谢理解♡ \n妹妹@Sakura9OwO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 93,
+                "username": "Sakura9OwO"
+              }
+            ]
+          }
+        },
+        "id": "1409902807965122565",
+        "name": "祁☆里（困～）",
+        "pinned_tweet_id": "1990474552456224940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558068077488926720/Xp3IrbCM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11195,
+          "following_count": 101,
+          "like_count": 1087,
+          "listed_count": 58,
+          "media_count": 390,
+          "tweet_count": 4278
+        },
+        "username": "qinli2333",
+        "verified": false
+      }
+    ]
+  }
+}

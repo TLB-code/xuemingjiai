@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1992503788889133455",
+    "created_at": "2025-11-23T08:01:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T09:01:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992503788889133455"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1288837401335328768",
+          "start": 3,
+          "username": "YuSama_Uknwdy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992503788889133455",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 56
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992186404185813396",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YuSama_Uknwdy: 郭楠公蛆们别自己撸屌了哦~对着小妈的肥臀屄穴🖤开始撸搓自己早就前列腺溃烂的肉虫子吧🖤\n让自己的肉虫被小妈屁股坐在脸上💚让你的烂根贴上小妈的屁股被阴穴里的软肉随便夹一下就会漏泄出雏男死精水💚\n最后再让小妈掐着你的肉虫给你套上你专属的💚贞💚操💚…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1992503788889133455].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1992503788889133455",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1992503788889133455"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 37918,
+        "height": 960,
+        "media_key": "13_1992184800011227136",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1992184800011227136/img/_P4r6E-tSb6cIorm.jpg",
+        "public_metrics": {
+          "view_count": 2888
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1992184800011227136/vid/avc1/320x426/pMML267FXM6EMM-B.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1992184800011227136/vid/avc1/480x640/EICr8_LbH8Psa_zX.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1992184800011227136/vid/avc1/720x960/heOtXTiEjrHH-j7G.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1992184800011227136/pl/7woFqTMSrP2HlJDv.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1992184800011227136"
+          ]
+        },
+        "author_id": "1288837401335328768",
+        "conversation_id": "1992186404185813396",
+        "created_at": "2025-11-22T11:00:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T12:00:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992186404185813396"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 126,
+              "start": 123,
+              "tag": "早泄"
+            },
+            {
+              "end": 130,
+              "start": 127,
+              "tag": "女s"
+            },
+            {
+              "end": 134,
+              "start": 131,
+              "tag": "文媛"
+            },
+            {
+              "end": 138,
+              "start": 135,
+              "tag": "接单"
+            },
+            {
+              "end": 142,
+              "start": 139,
+              "tag": "羞辱"
+            },
+            {
+              "end": 146,
+              "start": 143,
+              "tag": "榨精"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zKsdEXgfLv",
+              "end": 170,
+              "expanded_url": "https://x.com/YuSama_Uknwdy/status/1992186404185813396/video/1",
+              "media_key": "13_1992184800011227136",
+              "start": 147,
+              "url": "https://t.co/zKsdEXgfLv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992186404185813396",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 77,
+          "impression_count": 8107,
+          "like_count": 287,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 56
+        },
+        "reply_settings": "everyone",
+        "text": "郭楠公蛆们别自己撸屌了哦~对着小妈的肥臀屄穴🖤开始撸搓自己早就前列腺溃烂的肉虫子吧🖤\n让自己的肉虫被小妈屁股坐在脸上💚让你的烂根贴上小妈的屁股被阴穴里的软肉随便夹一下就会漏泄出雏男死精水💚\n最后再让小妈掐着你的肉虫给你套上你专属的💚贞💚操💚锁💚\n#早泄 #女s #文媛 #接单 #羞辱 #榨精 https://t.co/zKsdEXgfLv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n最最最最喜欢钱包们啦!\n天天挨骂真的不会腻嘛～\n擅长用爱意和温柔的语气俘虏钱包～\n联系方式→242184780←\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 77,
+                "username": "oricz233"
+              },
+              {
+                "end": 106,
+                "start": 97,
+                "username": "moelipoi"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "cutelingli"
+              },
+              {
+                "end": 146,
+                "start": 131,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 158,
+                "start": 151,
+                "username": "1xian1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍对钱包们最温柔最有好感版",
+        "pinned_tweet_id": "1976743806063063398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991861278688821248/oCQEPeIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7953,
+          "following_count": 331,
+          "like_count": 640,
+          "listed_count": 36,
+          "media_count": 755,
+          "tweet_count": 2318
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-30T14:02:47.000Z",
+        "description": "超绝文媛🖤垃圾变态的傻逼们自觉翘着你的烂根来送死🖤 性癖全能的祖宗小妈会用你最喜欢的方式玩死你🖤丨语音验证20💚丨门槛20R可抵扣丨 傻逼不用再偷窥了赶紧夹着你的烂裆来敲门💚 门牌：3451423909",
+        "id": "1288837401335328768",
+        "name": "昱昱SexLove♪💘",
+        "pinned_tweet_id": "1921487172227473735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982520374400028672/0_gLnequ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17772,
+          "following_count": 255,
+          "like_count": 689,
+          "listed_count": 82,
+          "media_count": 186,
+          "tweet_count": 2607
+        },
+        "username": "YuSama_Uknwdy",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1788828912577118647",
+    "created_at": "2024-05-10T07:10:22.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-10T08:10:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1788828912577118647"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1772824817647165440",
+          "start": 3,
+          "username": "kekemiao1234"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1788828912577118647",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1786772561327763475",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kekemiao1234: 这是一则邀请函哦～\n看到这条消息的人，都是喜欢上贡吐钱的白痴小雏男呢\n黑心压榨🖤\n绿茶pua💚\n无脑白给♡\n是不是看见这些字就有反应了w\n你需要来【贡瘾治疗诊所】接受“治疗”哦\n放心～我有很丰富的经验呢\n你要做的就是无条件地服从～\n把身体和钱…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "1788828912577118647",
+        "created_at": "2024-05-10T07:10:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-10T08:10:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1788828912577118647"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1772824817647165440",
+              "start": 3,
+              "username": "kekemiao1234"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1788828912577118647",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "1786772561327763475",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kekemiao1234: 这是一则邀请函哦～\n看到这条消息的人，都是喜欢上贡吐钱的白痴小雏男呢\n黑心压榨🖤\n绿茶pua💚\n无脑白给♡\n是不是看见这些字就有反应了w\n你需要来【贡瘾治疗诊所】接受“治疗”哦\n放心～我有很丰富的经验呢\n你要做的就是无条件地服从～\n把身体和钱…"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1786772547419455488"
+          ]
+        },
+        "author_id": "1772824817647165440",
+        "conversation_id": "1786772561327763475",
+        "created_at": "2024-05-04T14:59:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-04T15:59:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1786772561327763475"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/1T4ONm72x5",
+              "end": 156,
+              "expanded_url": "https://twitter.com/kekemiao1234/status/1786772561327763475/photo/1",
+              "media_key": "3_1786772547419455488",
+              "start": 133,
+              "url": "https://t.co/1T4ONm72x5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1786772561327763475",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5297,
+          "like_count": 46,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "这是一则邀请函哦～\n看到这条消息的人，都是喜欢上贡吐钱的白痴小雏男呢\n黑心压榨🖤\n绿茶pua💚\n无脑白给♡\n是不是看见这些字就有反应了w\n你需要来【贡瘾治疗诊所】接受“治疗”哦\n放心～我有很丰富的经验呢\n你要做的就是无条件地服从～\n把身体和钱包都乖乖交给可可大人～ https://t.co/1T4ONm72x5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "就如同推特名一样\n是传说中的网络美少女，在异世界中是名副其实的“魔女”💜\n对人类世界充满好奇，会用自己的一些方式来洗脑一些小雏男以满足自己的恶趣味，非常拜金💚征集人型钱包中..\n门牌是2829556413和2438028521（备用）\n请来送死~♡\n不涉三哦",
+        "id": "1374389254726455305",
+        "name": "请叫我魔女小姐💜（五月全新企划筹备中）",
+        "pinned_tweet_id": "1744800330448277998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782753566605840384/iAni8jfi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4786,
+          "following_count": 154,
+          "like_count": 142,
+          "listed_count": 22,
+          "tweet_count": 916
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-27T03:16:02.000Z",
+        "description": "门牌3689271536，不涉三",
+        "id": "1772824817647165440",
+        "name": "可可",
+        "pinned_tweet_id": "1783511650995466731",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772824946496131072/DV1K64Wc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 696,
+          "following_count": 15,
+          "like_count": 14,
+          "listed_count": 1,
+          "tweet_count": 106
+        },
+        "username": "kekemiao1234",
+        "verified": false
+      }
+    ]
+  }
+}

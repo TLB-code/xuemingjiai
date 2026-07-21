@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1843795178299240512",
+    "created_at": "2024-10-08T23:26:41.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-09T00:26:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1843795178299240512"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1702305176701341696",
+          "start": 3,
+          "username": "xiyan123466"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1843795178299240512",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "1843502159801004298",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiyan123466: 傻逼贱狗哥哥真是废物哦♥\n每天挺着肉棒到处发情犯贱，其实就是早泄阳痿的杂鱼罢了～被我捏着小鸡巴羞辱调教，几下就忍不住流出水一样的精液，恶心死了🖤\n果然你这种贱狗哥哥，就该被超绝可爱的妹妹主人，玩成傻逼彻底榨死🖤\n不管是精液还是钱包，都在妹妹的压…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1843795178299240512].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1843795178299240512",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1843795178299240512"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1843501115603824640"
+          ]
+        },
+        "author_id": "1702305176701341696",
+        "conversation_id": "1843502159801004298",
+        "created_at": "2024-10-08T04:02:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-08T05:02:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1843502159801004298"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 140,
+              "start": 137,
+              "tag": "压榨"
+            },
+            {
+              "end": 144,
+              "start": 141,
+              "tag": "胁迫"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BGSwiwDSwd",
+              "end": 168,
+              "expanded_url": "https://x.com/xiyan123466/status/1843502159801004298/photo/1",
+              "media_key": "3_1843501115603824640",
+              "start": 145,
+              "url": "https://t.co/BGSwiwDSwd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1843502159801004298",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 2504,
+          "like_count": 51,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "傻逼贱狗哥哥真是废物哦♥\n每天挺着肉棒到处发情犯贱，其实就是早泄阳痿的杂鱼罢了～被我捏着小鸡巴羞辱调教，几下就忍不住流出水一样的精液，恶心死了🖤\n果然你这种贱狗哥哥，就该被超绝可爱的妹妹主人，玩成傻逼彻底榨死🖤\n不管是精液还是钱包，都在妹妹的压榨调教羞辱下 全部交出来吧🖤\n#压榨 #胁迫 https://t.co/BGSwiwDSwd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "超绝可爱💖\n她就是出道即巅峰的可爱纯真小天使新人偶像魔女小姐💖\n对这样的魔女小姐不能心怀任何涩涩的念想哦，不然就会变得非常糟糕...踏入无法挣脱的陷阱和牢笼里呢💘\n魔女小姐无论说什么做什么都是正确的哦，身为她的粉丝，只需要无条件用各种方式支持她就好了～\nqq2829556413",
+        "id": "1374389254726455305",
+        "name": "电波系新人偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1839039717712724125",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843378467058135041/nnEslYVD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5433,
+          "following_count": 205,
+          "like_count": 159,
+          "listed_count": 23,
+          "tweet_count": 1126
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-14T12:57:28.000Z",
+        "description": "这里是腹黑的小魔女香香大小姐♡ 成年了却只有小萝莉的身体♡ 紫水晶般闪耀的柔顺长发披在香肩♡ 红蓝的异瞳露出狡黠♡ 乳白的肌肤~精致的脸颊♡ 俏皮的鼻梁下弯弯的樱红嘴唇♡ 流露出腹黑的微笑♡身着哥特式萝莉裙♡ 白丝袜袜包裹住粉嫩的玉足♡随着准备调教戏耍犯贱的狗狗♥\n接各种s文字调教羞辱胁迫\nqq 3140617087",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xixiyan123456",
+                "end": 23,
+                "expanded_url": "http://t.me/xixiyan123456",
+                "start": 0,
+                "url": "https://t.co/DNJLMhF9XQ"
+              }
+            ]
+          }
+        },
+        "id": "1702305176701341696",
+        "location": "在QQ的 记得先加QQ找我",
+        "name": "小魔女文援🖤香香酱（文援互推私信）",
+        "pinned_tweet_id": "1818502376082555283",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843500785453449216/b_gTB4qi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3982,
+          "following_count": 99,
+          "like_count": 271,
+          "listed_count": 21,
+          "tweet_count": 2044
+        },
+        "url": "https://t.co/DNJLMhF9XQ",
+        "username": "xiyan123466",
+        "verified": false
+      }
+    ]
+  }
+}

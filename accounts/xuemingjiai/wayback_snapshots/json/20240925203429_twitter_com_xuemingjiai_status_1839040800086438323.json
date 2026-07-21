@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1839040797146230787"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "1839039717712724125",
+    "created_at": "2024-09-25T20:34:29.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-25T21:34:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1839040800086438323"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/k9c8u0vlr3",
+          "end": 168,
+          "expanded_url": "https://twitter.com/xuemingjiai/status/1839040800086438323/photo/1",
+          "media_key": "3_1839040797146230787",
+          "start": 145,
+          "url": "https://t.co/k9c8u0VLR3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1839040800086438323",
+    "in_reply_to_user_id": "1374389254726455305",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1839040551741489494",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "呼呼♪\n骂爽了吗？撸爽了吗～\n魔女小姐知道我的粉丝们很多都是乖孩子，平时可不敢说出这么粗俗的话来，但是没关系哦，魔女小姐只不过在教导你们获得新的快感呢～\n现在，握着肉棒回想一下这篇全新置顶的标题～提示，四字哦!\n——公开陷阱——\n那么，刚才那些做了坏事的小雏男粉丝，可以撸得更快一些了哦♪ https://t.co/k9c8u0VLR3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1839040797146230787",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GYWV3IFaMAM91IM.jpg",
+        "width": 796
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1839040797146230787"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "1839039717712724125",
+        "created_at": "2024-09-25T20:34:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-25T21:34:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1839040800086438323"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/k9c8u0vlr3",
+              "end": 168,
+              "expanded_url": "https://twitter.com/xuemingjiai/status/1839040800086438323/photo/1",
+              "media_key": "3_1839040797146230787",
+              "start": 145,
+              "url": "https://t.co/k9c8u0VLR3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839040800086438323",
+        "in_reply_to_user_id": "1374389254726455305",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1839040551741489494",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "呼呼♪\n骂爽了吗？撸爽了吗～\n魔女小姐知道我的粉丝们很多都是乖孩子，平时可不敢说出这么粗俗的话来，但是没关系哦，魔女小姐只不过在教导你们获得新的快感呢～\n现在，握着肉棒回想一下这篇全新置顶的标题～提示，四字哦!\n——公开陷阱——\n那么，刚才那些做了坏事的小雏男粉丝，可以撸得更快一些了哦♪ https://t.co/k9c8u0VLR3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1839040548403032064"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "1839039717712724125",
+        "created_at": "2024-09-25T20:33:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-25T21:33:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1839040551741489494"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1839040551741489494",
+        "in_reply_to_user_id": "1374389254726455305",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1839039990023819716",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是质疑投票，请所有想要“质疑”魔女小姐的小雏男挑选一种，然后进行投票，投票完成以后可以选择把相同选项的话发到这条推文下面，也可以直接发给魔女小姐哦♪\n作为“听话”的奖励，你可以握着肉棒慢慢撸动了，反正也不会有其他人知道不是吗♪\n在没有魔女小姐的允许之前，不可以擅自停下以及射精哦？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "超绝可爱💖\n她就是出道即巅峰的可爱纯真小天使新人偶像魔女小姐💖\n对这样的魔女小姐不能心怀任何涩涩的念想哦，不然就会变得非常糟糕...踏入无法挣脱的陷阱和牢笼里呢💘\n魔女小姐无论说什么做什么都是正确的哦，身为她的粉丝，只需要无条件用各种方式支持她就好了～\nqq2829556413",
+        "id": "1374389254726455305",
+        "name": "电波系新人偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1839039717712724125",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1838988880479162368/gYDpBM6v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5409,
+          "following_count": 198,
+          "like_count": 152,
+          "listed_count": 23,
+          "tweet_count": 1082
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

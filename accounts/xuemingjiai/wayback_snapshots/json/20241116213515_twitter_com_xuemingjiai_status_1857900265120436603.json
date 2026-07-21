@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1857900265120436603",
+    "created_at": "2024-11-16T21:35:15.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-16T22:35:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1857900265120436603"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1774950152643739648",
+          "start": 3,
+          "username": "qiranlove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1857900265120436603",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 72
+    },
+    "referenced_tweets": [
+      {
+        "id": "1857306511036313973",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qiranlove: 呼❤️亲爱的♡和人家做爱真的那么爽吗♡呼噗噗♡嗯~你的肉棒♡你的味道都是我的了呢♡亲爱的~呼……人家就这么当着亲爱的老婆的面堂而皇之的做爱♡影响是不是不太好啊❤️呼~唔…宝宝♡以后我喊你老公好不好♡（在并不宽敞的客厅之中，两具奢靡肉体碰撞在一起产生…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1857900265120436603].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1857900265120436603",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1857900265120436603"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1857306498793193472"
+          ]
+        },
+        "author_id": "1774950152643739648",
+        "conversation_id": "1857306511036313973",
+        "created_at": "2024-11-15T06:15:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-15T07:15:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1857306511036313973"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iNwJZ3obN7",
+              "end": 168,
+              "expanded_url": "https://x.com/qiranlove/status/1857306511036313973/photo/1",
+              "media_key": "3_1857306498793193472",
+              "start": 145,
+              "url": "https://t.co/iNwJZ3obN7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857306511036313973",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 473,
+                "start": 470,
+                "tag": "文媛"
+              },
+              {
+                "end": 477,
+                "start": 474,
+                "tag": "出轨"
+              }
+            ]
+          },
+          "text": "呼❤️亲爱的♡和人家做爱真的那么爽吗♡呼噗噗♡嗯~你的肉棒♡你的味道都是我的了呢♡亲爱的~呼……人家就这么当着亲爱的老婆的面堂而皇之的做爱♡影响是不是不太好啊❤️呼~唔…宝宝♡以后我喊你老公好不好♡（在并不宽敞的客厅之中，两具奢靡肉体碰撞在一起产生的声音与荡妇激烈的呻吟回响在整个房间，只是是不是还伴随着远处传来的少女低吟还水洼被扣弄的声音，一对淫荡凹凸有致的淫臀被人儿一手衬托着支撑肉体在下体里驰骋，饱满圆润的肥润时不时与人磨蹭碰撞在一起，纤细的藕臂延伸环绕着人儿脖颈纠缠缠绵在一起忘我的索取良久，唇分后展露在外的一对淫舌还拉扯着淫丝）嗯~呼♡呼♡齁！亲爱的♡人家的骚屄♡唔……是不是比那个废物早泄婊子的烂穴厉害多了♡夹的比她紧多了吧♡她的松垮骚屄操着一点感觉都没有~不过真的不用管她吗~（远处的废物早泄绿帽淫畜听着面前人的羞辱没有言语只是呻吟声越来越大指尖抚弄的速度还在继续加快呲射出稀少的淫液）不过他真听亲爱的话呢♡老老实实的在一旁扣着烂屄🖤不会忍不住跑过来和人家抢鸡巴~或者舔舐交合吧❤️宝宝你可要想着我♡好不好❤️呼♡mua❤️\n#文媛 #出轨"
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 54,
+          "impression_count": 18004,
+          "like_count": 194,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 72
+        },
+        "reply_settings": "everyone",
+        "text": "呼❤️亲爱的♡和人家做爱真的那么爽吗♡呼噗噗♡嗯~你的肉棒♡你的味道都是我的了呢♡亲爱的~呼……人家就这么当着亲爱的老婆的面堂而皇之的做爱♡影响是不是不太好啊❤️呼~唔…宝宝♡以后我喊你老公好不好♡（在并不宽敞的客厅之中，两具奢靡肉体碰撞在一起产生的声音与荡妇激烈的呻吟回响在整个房间，… https://t.co/iNwJZ3obN7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "超绝可爱💖\n她就是出道即巅峰的可爱纯真小天使新人偶像魔女小姐💖\n对这样的魔女小姐不能心怀任何涩涩的念想哦，不然就会变得非常糟糕...踏入无法挣脱的陷阱和牢笼里呢💘\n魔女小姐无论说什么做什么都是正确的哦，身为她的粉丝，只需要无条件用各种方式支持她就好了～\nqq2829556413，碎碎念小号@oricz233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 154,
+                "start": 145,
+                "username": "oricz233"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "name": "电波系新人偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854618482215911424/R3TTJuCj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5903,
+          "following_count": 233,
+          "like_count": 191,
+          "listed_count": 25,
+          "tweet_count": 1355
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-02T00:01:23.000Z",
+        "description": "肉畜母婊文援姬♡身心全部都堕落沦为丧志母畜的婊子人偶玩物♡见到主人肉屌瞬间丧志的反差雌犬♡擅长服侍野爹大人们，xp全能，无下限♡可以被尽情使用。无论是被巨根征服，还是榨干废物肉虫都不在话下的肉畜精壶♡\n收费60/h\nqq门牌号：3259563015\n 2010380292\n时间中午到凌晨五点\n电报：@qiranlove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 160,
+                "start": 150,
+                "username": "qiranlove"
+              }
+            ]
+          }
+        },
+        "id": "1774950152643739648",
+        "location": "野爹胯下♡",
+        "name": "人偶肉畜柒䰯（互）",
+        "pinned_tweet_id": "1796342708568826215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774950374518181888/CPCvm9hK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8663,
+          "following_count": 158,
+          "like_count": 1947,
+          "listed_count": 41,
+          "tweet_count": 1170
+        },
+        "username": "qiranlove",
+        "verified": true
+      }
+    ]
+  }
+}

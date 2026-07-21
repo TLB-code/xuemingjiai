@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1991676775739584724",
+    "created_at": "2025-11-23T15:57:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T16:57:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992623574981702028"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1948303977764073472",
+          "start": 0,
+          "username": "AliceProMax1227"
+        },
+        {
+          "end": 31,
+          "id": "1984115707815325698",
+          "start": 17,
+          "username": "jingli1840489"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992623574981702028",
+    "in_reply_to_user_id": "1948303977764073472",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992622185975001239",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AliceProMax1227 @jingli1840489 图片左下角"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "1991676775739584724",
+        "created_at": "2025-11-23T15:57:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T16:57:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992623574981702028"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1948303977764073472",
+              "start": 0,
+              "username": "AliceProMax1227"
+            },
+            {
+              "end": 31,
+              "id": "1984115707815325698",
+              "start": 17,
+              "username": "jingli1840489"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992623574981702028",
+        "in_reply_to_user_id": "1948303977764073472",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992622185975001239",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AliceProMax1227 @jingli1840489 图片左下角"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948303977764073472",
+        "conversation_id": "1991676775739584724",
+        "created_at": "2025-11-23T15:52:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T16:52:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992622185975001239"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1374389254726455305",
+              "start": 0,
+              "username": "xuemingjiai"
+            },
+            {
+              "end": 27,
+              "id": "1984115707815325698",
+              "start": 13,
+              "username": "jingli1840489"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992622185975001239",
+        "in_reply_to_user_id": "1374389254726455305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991676775739584724",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xuemingjiai @jingli1840489 喵喵？ALT是什么喵？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n最最最最喜欢钱包们啦!\n天天挨骂真的不会腻嘛～\n擅长用爱意和温柔的语气俘虏钱包～\n联系方式→242184780←\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 77,
+                "username": "oricz233"
+              },
+              {
+                "end": 106,
+                "start": 97,
+                "username": "moelipoi"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "cutelingli"
+              },
+              {
+                "end": 146,
+                "start": 131,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 158,
+                "start": 151,
+                "username": "1xian1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍对钱包们最温柔最有好感版",
+        "pinned_tweet_id": "1976743806063063398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991861278688821248/oCQEPeIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7959,
+          "following_count": 332,
+          "like_count": 640,
+          "listed_count": 36,
+          "media_count": 755,
+          "tweet_count": 2322
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-24T08:47:46.000Z",
+        "description": "是黑心的压榨主爱丽丝🖤欢迎各位狗狗、钱包、ATM的抖M上门找爱丽丝送死哦❤\n\n门牌是646165703～☆\n门槛20～\n（只是单纯的喜欢爱丽丝，不是语C，是皮下喵）\n\n姐姐@GaoGaoLove_～\n最可爱的奏奏！@xuemingjiai\n还有爱丽丝最喜欢的@youxiaoaix",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 86,
+                "username": "GaoGaoLove_"
+              },
+              {
+                "end": 119,
+                "start": 107,
+                "username": "xuemingjiai"
+              },
+              {
+                "end": 140,
+                "start": 129,
+                "username": "youxiaoaix"
+              }
+            ]
+          }
+        },
+        "id": "1948303977764073472",
+        "name": "可爱的爱丽丝❤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948305346533208065/EyIzPAAT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 493,
+          "following_count": 126,
+          "like_count": 1271,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 838
+        },
+        "username": "AliceProMax1227",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-31T04:31:00.000Z",
+        "description": "新人文媛镜璃回来啦！可以是温柔妈咪~可以是可爱妹妹/知心姐姐~也可以是可怕残忍压榨主使用钱包哦🖤\n目前主要玩法：剧情文爱/黑心/绿茶/洗脑/榨金等💕\n门牌号：q2749521274，致力于让每位朋友都开开心心舒舒服服的喔❤️全天营业，深夜常驻，欢迎前来光顾哦~\n最可爱的奏奏：@xuemingjiai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 150,
+                "start": 138,
+                "username": "xuemingjiai"
+              }
+            ]
+          }
+        },
+        "id": "1984115707815325698",
+        "location": "镜璃的温暖小床~深夜也欢迎打扰哦~",
+        "name": "是镜璃喔~",
+        "pinned_tweet_id": "1991096707346792478",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985515782550536192/bMHPg-lN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 21,
+          "like_count": 44,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 31
+        },
+        "username": "jingli1840489",
+        "verified": false
+      }
+    ]
+  }
+}

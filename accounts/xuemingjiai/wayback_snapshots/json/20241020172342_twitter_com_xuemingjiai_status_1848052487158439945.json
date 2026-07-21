@@ -1,0 +1,126 @@
+{
+  "data": {
+    "author_id": "1374389254726455305",
+    "conversation_id": "1848052487158439945",
+    "created_at": "2024-10-20T17:23:42.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-20T18:23:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1848052487158439945"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1777598492124532736",
+          "start": 3,
+          "username": "Qilicc"
+        }
+      ]
+    },
+    "id": "1848052487158439945",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "1847145982255157354",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @Qilicc: Hi~杂鱼哥哥♡又来读人家推文送死了嘛♡\n明知道读完了哥哥的杂鱼鸡鸡就会憋不住想找祈莉白给~不过哥哥就是这样忍受不住诱惑的败北杂鱼脚奴舔狗♡安安心心沦为祈莉妹妹养分吧♡哥哥~\n\n#文援 #羞辱 #调教 #文援姬 #绿茶 #压榨 https://t.co/…"
+  },
+  "includes": {
+    "tweets": [],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "您好～这里是出道以来一直致力于为小雏男哥哥们提供“舒适”“安全”“极致快感”的纯真妹系小天使魔女妹妹💚\n想了解我请翻看我的推文～\nqq2829556413，碎碎念小号@oricz233\n共同出道的偶像老婆：@moeliQWQ\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 83,
+                "username": "oricz233"
+              },
+              {
+                "end": 112,
+                "start": 103,
+                "username": "moeliQWQ"
+              },
+              {
+                "end": 130,
+                "start": 119,
+                "username": "cutelingli"
+              },
+              {
+                "end": 152,
+                "start": 137,
+                "username": "chessy80978858"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系天使偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862768210711392256/_qeQwE-8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6171,
+          "following_count": 238,
+          "like_count": 223,
+          "listed_count": 26,
+          "media_count": 511,
+          "tweet_count": 1393
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-09T07:25:06.000Z",
+        "description": "没有关注我的私信一律不回✉️\n私信我交流请友善一点可以发癫✉️\n请不要在私信对我发生殖器照✉️\n🚪10（不抵扣）⚠️新门牌:1725218154⚠️✉️点媒体查看我的推文✉️有Switch成分，文援/日常系/抑郁/缺爱/情绪差/含糖🍥入门闲聊免费.✉️请点点关注不要取关我. 妈咪@xuemingjiai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 140,
+                "username": "xuemingjiai"
+              }
+            ]
+          }
+        },
+        "id": "1777598492124532736",
+        "location": "Suzhou",
+        "name": "祈莉莉🍥",
+        "pinned_tweet_id": "1850881152502137211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860964148747866112/hiXrc-v4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1593,
+          "following_count": 32,
+          "like_count": 166,
+          "listed_count": 3,
+          "media_count": 30,
+          "tweet_count": 139
+        },
+        "username": "Qilicc",
+        "verified": false
+      }
+    ]
+  }
+}

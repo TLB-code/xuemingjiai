@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1887143288886669741",
+    "created_at": "2025-02-05T16:34:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-05T17:34:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887178107280630018"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1608424544196526084",
+          "start": 0,
+          "username": "xes8416"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887178107280630018",
+    "in_reply_to_user_id": "1608424544196526084",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887143288886669741",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xes8416 会的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "1887143288886669741",
+        "created_at": "2025-02-05T16:34:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-05T17:34:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887178107280630018"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1608424544196526084",
+              "start": 0,
+              "username": "xes8416"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887178107280630018",
+        "in_reply_to_user_id": "1608424544196526084",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887143288886669741",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xes8416 会的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608424544196526084",
+        "conversation_id": "1887143288886669741",
+        "created_at": "2025-02-05T14:16:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-05T15:16:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1887143288886669741"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1887143288886669741",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "希望不喜欢我的人都死掉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "您好～这里是出道以来一直致力于为小雏男哥哥们提供“舒适”“安全”“极致射金体验”的纯真妹系小天使魔女妹妹💚\n想了解我请翻看我的推文～\nqq2829556413，碎碎念小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 85,
+                "username": "oricz233"
+              },
+              {
+                "end": 114,
+                "start": 105,
+                "username": "moelipoi"
+              },
+              {
+                "end": 132,
+                "start": 121,
+                "username": "cutelingli"
+              },
+              {
+                "end": 154,
+                "start": 139,
+                "username": "chessy80978858"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系天使偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886796775446700032/CBetvufN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6416,
+          "following_count": 251,
+          "like_count": 290,
+          "listed_count": 29,
+          "media_count": 543,
+          "tweet_count": 1511
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-29T11:28:20.000Z",
+        "description": "轻口微m 随心写文\n想要被大家喜欢\n雷点是粗口及现实\n是男性\n蓝p：https://t.co/dRnuGJiUMH",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/60614286",
+                "end": 57,
+                "expanded_url": "https://www.pixiv.net/users/60614286",
+                "start": 34,
+                "url": "https://t.co/dRnuGJiUMH"
+              }
+            ]
+          }
+        },
+        "id": "1608424544196526084",
+        "name": "差异爱思",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860949545959776256/yZNN-z0A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 158,
+          "like_count": 4564,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 352
+        },
+        "username": "xes8416",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "2065482896916508740",
+    "created_at": "2026-06-12T17:14:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T18:14:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065482896916508740"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1998088471513337857",
+          "start": 3,
+          "username": "qinghexiao11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065482896916508740",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065299111453299011",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qinghexiao11: 上一条帖子发了之后发现忘了加alt，于是删了重发，流量并不乐观呢～♡\n苦恼之余，又觉得，大约这种碾死贡畜的记录压根不值得认真对待配上文案吧。\n\n所以希望能有更多无脑犯贱的贡畜来找青青哦，最好上来就贡，跳过引导直接无脑吐钱的那种。\n\n爱你们哦宝…"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "贡畜请自觉送死🖤",
+        "height": 2048,
+        "media_key": "3_2065299107389026304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKlqmILasAABpoC.jpg",
+        "width": 1229
+      },
+      {
+        "alt_text": "宝宝们请不要暴露自己的贡畜本性哦❤️",
+        "height": 2048,
+        "media_key": "3_2065299107263266816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKlqmHtbwAAd9DV.jpg",
+        "width": 617
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "2065482896916508740",
+        "created_at": "2026-06-12T17:14:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T18:14:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065482896916508740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1998088471513337857",
+              "start": 3,
+              "username": "qinghexiao11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065482896916508740",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065299111453299011",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qinghexiao11: 上一条帖子发了之后发现忘了加alt，于是删了重发，流量并不乐观呢～♡\n苦恼之余，又觉得，大约这种碾死贡畜的记录压根不值得认真对待配上文案吧。\n\n所以希望能有更多无脑犯贱的贡畜来找青青哦，最好上来就贡，跳过引导直接无脑吐钱的那种。\n\n爱你们哦宝…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065299107389026304",
+            "3_2065299107263266816"
+          ]
+        },
+        "author_id": "1998088471513337857",
+        "conversation_id": "2065299111453299011",
+        "created_at": "2026-06-12T05:04:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T06:04:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065299111453299011"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3Eyrfrtvyj",
+              "end": 148,
+              "expanded_url": "https://x.com/qinghexiao11/status/2065299111453299011/photo/1",
+              "media_key": "3_2065299107389026304",
+              "start": 125,
+              "url": "https://t.co/3Eyrfrtvyj"
+            },
+            {
+              "display_url": "pic.x.com/3Eyrfrtvyj",
+              "end": 148,
+              "expanded_url": "https://x.com/qinghexiao11/status/2065299111453299011/photo/1",
+              "media_key": "3_2065299107263266816",
+              "start": 125,
+              "url": "https://t.co/3Eyrfrtvyj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065299111453299011",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 297,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "上一条帖子发了之后发现忘了加alt，于是删了重发，流量并不乐观呢～♡\n苦恼之余，又觉得，大约这种碾死贡畜的记录压根不值得认真对待配上文案吧。\n\n所以希望能有更多无脑犯贱的贡畜来找青青哦，最好上来就贡，跳过引导直接无脑吐钱的那种。\n\n爱你们哦宝宝❤️ https://t.co/3Eyrfrtvyj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "你也觉得你面前的这只魔女可爱过头了吧？\n对的!她和别人不一样!\n邂逅方式→2829556413←\n超涩气小号@oricz233\n现任魔女学园院长\n星辰魔女镜璃\n@jingli1840489\n桃心魔女奈奈\n@blakexiaonai\n 黑白魔女花卷\n@miaomiaomyoez2\n好老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 54,
+                "username": "oricz233"
+              },
+              {
+                "end": 94,
+                "start": 80,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 115,
+                "start": 102,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 139,
+                "start": 124,
+                "username": "miaomiaomyoez2"
+              },
+              {
+                "end": 158,
+                "start": 143,
+                "username": "chessy80978858"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "超可爱超绿茶超撩人的精灵魔女-奏奏💚",
+        "pinned_tweet_id": "2013314916120416537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064079945459171328/WbF0iOyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8880,
+          "following_count": 371,
+          "like_count": 637,
+          "listed_count": 36,
+          "media_count": 830,
+          "tweet_count": 2213
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-08T17:53:14.000Z",
+        "description": "门牌号3698672502，🚪20r，送死52r，新人。\n大约是帮忙戒贡的，当然，对送死的不会有同情心，所以请谨慎。\n\n之前还吐槽“那些知道个贡圈就迫不及待来圈米的劣质s，但凡她们打字加个♡🖤❤️■我都当他们努力过了”。\n\n结果现在也编不出简介。\n索性：♡🖤❤️■，好了，就姑且当我努力过了吧。",
+        "id": "1998088471513337857",
+        "name": "青禾小",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064051709857427456/uP_xcVrI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 198,
+          "like_count": 13,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 46
+        },
+        "username": "qinghexiao11",
+        "verified": false
+      }
+    ]
+  }
+}

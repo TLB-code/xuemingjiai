@@ -1,0 +1,454 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992630249843261440",
+        "3_1992630249822334976",
+        "3_1992630250724012032"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1992629848616157249",
+    "created_at": "2025-11-23T16:24:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T17:24:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992630264842092606"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xuemingjiai/st…",
+          "end": 33,
+          "expanded_url": "https://x.com/xuemingjiai/status/1991196149336940670?s=20",
+          "start": 10,
+          "url": "https://t.co/lUgbidjzmg"
+        },
+        {
+          "display_url": "pic.x.com/MPX1LQt7GM",
+          "end": 177,
+          "expanded_url": "https://x.com/xuemingjiai/status/1992630264842092606/photo/1",
+          "media_key": "3_1992630249843261440",
+          "start": 154,
+          "url": "https://t.co/MPX1LQt7GM"
+        },
+        {
+          "display_url": "pic.x.com/MPX1LQt7GM",
+          "end": 177,
+          "expanded_url": "https://x.com/xuemingjiai/status/1992630264842092606/photo/1",
+          "media_key": "3_1992630249822334976",
+          "start": 154,
+          "url": "https://t.co/MPX1LQt7GM"
+        },
+        {
+          "display_url": "pic.x.com/MPX1LQt7GM",
+          "end": 177,
+          "expanded_url": "https://x.com/xuemingjiai/status/1992630264842092606/photo/1",
+          "media_key": "3_1992630250724012032",
+          "start": 154,
+          "url": "https://t.co/MPX1LQt7GM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992630264842092606",
+    "in_reply_to_user_id": "1374389254726455305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991196149336940670",
+        "type": "quoted"
+      },
+      {
+        "id": "1992630127671550059",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这是成为小冷的链接～https://t.co/lUgbidjzmg\n点进去就会无法回头哦？本公主期待着更多的小冷诞生～会加上本公主就开始白给～会对本公主的命令绝对服从～会因为被本公主无条件无责任使用而兴奋～会成为本公主众多工具人钱包之一～最后～出售这只很厉害的小冷发情犯贱全记录哦～qq找本公主购买就好了🤍 https://t.co/MPX1LQt7GM"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1992630264842092606].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1992630264842092606",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1992630264842092606"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1193,
+        "media_key": "3_1992630249843261440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6c-p6KbAAApUUB.jpg",
+        "width": 1920
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1992630249822334976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6c-p6FbsAABNKp.jpg",
+        "width": 380
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1992630250724012032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6c-p9caMAAB7uA.jpg",
+        "width": 317
+      },
+      {
+        "height": 2198,
+        "media_key": "3_1991196131431415808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6ImVOwaAAAwh8o.jpg",
+        "width": 540
+      },
+      {
+        "height": 4096,
+        "media_key": "3_1991196131435638785",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6ImVOxacAEP0jp.jpg",
+        "width": 805
+      },
+      {
+        "height": 2606,
+        "media_key": "3_1991196131427250179",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6ImVOvacAM6HxU.jpg",
+        "width": 540
+      },
+      {
+        "height": 2448,
+        "media_key": "3_1991196131427250178",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6ImVOvacAIn7n-.jpg",
+        "width": 540
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1992630004677771264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6c-bo2agAAezRC.jpg",
+        "width": 345
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1992630004686143488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6c-bo4aQAARGwp.jpg",
+        "width": 300
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1992630004564516864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6c-bobaYAA3D9n.jpg",
+        "width": 375
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1992630004681965568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6c-bo3agAAsesO.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991196131431415808",
+            "3_1991196131435638785",
+            "3_1991196131427250179",
+            "3_1991196131427250178"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "1991196149336940670",
+        "created_at": "2025-11-19T17:25:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T18:25:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991196149336940670"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xuemingjiai/st…",
+              "end": 104,
+              "expanded_url": "https://x.com/xuemingjiai/status/1990473531134730380?s=20",
+              "start": 81,
+              "url": "https://t.co/uoUkGOPz4H"
+            },
+            {
+              "display_url": "pic.x.com/DOpegIlx45",
+              "end": 179,
+              "expanded_url": "https://x.com/xuemingjiai/status/1991196149336940670/photo/1",
+              "media_key": "3_1991196131431415808",
+              "start": 156,
+              "url": "https://t.co/DOpegIlx45"
+            },
+            {
+              "display_url": "pic.x.com/DOpegIlx45",
+              "end": 179,
+              "expanded_url": "https://x.com/xuemingjiai/status/1991196149336940670/photo/1",
+              "media_key": "3_1991196131435638785",
+              "start": 156,
+              "url": "https://t.co/DOpegIlx45"
+            },
+            {
+              "display_url": "pic.x.com/DOpegIlx45",
+              "end": 179,
+              "expanded_url": "https://x.com/xuemingjiai/status/1991196149336940670/photo/1",
+              "media_key": "3_1991196131427250179",
+              "start": 156,
+              "url": "https://t.co/DOpegIlx45"
+            },
+            {
+              "display_url": "pic.x.com/DOpegIlx45",
+              "end": 179,
+              "expanded_url": "https://x.com/xuemingjiai/status/1991196149336940670/photo/1",
+              "media_key": "3_1991196131427250178",
+              "start": 156,
+              "url": "https://t.co/DOpegIlx45"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991196149336940670",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 7305,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990473531134730380",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "什么是小冷?\n是本公主在问卷里新增加的一个“同化”内容，目的就是剥夺小雏男们的思想～抹去你们的一切个性，把你们变成全心全意为了本公主服务的atm提款机“小冷”哦，https://t.co/uoUkGOPz4H\n点进去就能看见预设的内容了，想看更多内容就找本公主购买问卷 限时免门槛哦，同时放出一点小冷同化记录～ https://t.co/DOpegIlx45"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992630004677771264",
+            "3_1992630004686143488",
+            "3_1992630004564516864",
+            "3_1992630004681965568"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1992629848616157249",
+        "created_at": "2025-11-23T16:23:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T17:23:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992630127671550059"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uin7n8L2Dm",
+              "end": 162,
+              "expanded_url": "https://x.com/xuemingjiai/status/1992630127671550059/photo/1",
+              "media_key": "3_1992630004677771264",
+              "start": 139,
+              "url": "https://t.co/uin7n8L2Dm"
+            },
+            {
+              "display_url": "pic.x.com/uin7n8L2Dm",
+              "end": 162,
+              "expanded_url": "https://x.com/xuemingjiai/status/1992630127671550059/photo/1",
+              "media_key": "3_1992630004686143488",
+              "start": 139,
+              "url": "https://t.co/uin7n8L2Dm"
+            },
+            {
+              "display_url": "pic.x.com/uin7n8L2Dm",
+              "end": 162,
+              "expanded_url": "https://x.com/xuemingjiai/status/1992630127671550059/photo/1",
+              "media_key": "3_1992630004564516864",
+              "start": 139,
+              "url": "https://t.co/uin7n8L2Dm"
+            },
+            {
+              "display_url": "pic.x.com/uin7n8L2Dm",
+              "end": 162,
+              "expanded_url": "https://x.com/xuemingjiai/status/1992630127671550059/photo/1",
+              "media_key": "3_1992630004681965568",
+              "start": 139,
+              "url": "https://t.co/uin7n8L2Dm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992630127671550059",
+        "in_reply_to_user_id": "1374389254726455305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992629848616157249",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "成为小冷有很多好处呢，不管之前是谁对本公主来说都不重要～小冷就是小冷～不管哪一只都是足够听话对本公主百分之百忠诚的白痴母狗atm舔狗钱包🤍\n本公主不需要对小冷付出任何的感情，洗脑什么的早在成为小冷的那一瞬间就完成了，你看～像他一样无脑发情犯贱不是很幸福的事情吗？继续看下去哦～ https://t.co/uin7n8L2Dm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n最最最最喜欢钱包们啦!\n天天挨骂真的不会腻嘛～\n擅长用爱意和温柔的语气俘虏钱包～\n联系方式→242184780←\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 77,
+                "username": "oricz233"
+              },
+              {
+                "end": 106,
+                "start": 97,
+                "username": "moelipoi"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "cutelingli"
+              },
+              {
+                "end": 146,
+                "start": 131,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 158,
+                "start": 151,
+                "username": "1xian1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍对钱包们最温柔最有好感版",
+        "pinned_tweet_id": "1976743806063063398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991861278688821248/oCQEPeIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7959,
+          "following_count": 332,
+          "like_count": 640,
+          "listed_count": 36,
+          "media_count": 758,
+          "tweet_count": 2326
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

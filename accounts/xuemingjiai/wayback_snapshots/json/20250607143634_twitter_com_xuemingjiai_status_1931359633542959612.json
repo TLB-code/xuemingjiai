@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1931359633542959612",
+    "created_at": "2025-06-07T14:36:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-07T15:36:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931359633542959612"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1691526572493164544",
+          "start": 3,
+          "username": "Mian_SexLove"
+        },
+        {
+          "end": 46,
+          "id": "1374389254726455305",
+          "start": 34,
+          "username": "xuemingjiai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931359633542959612",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931010453825855982",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Mian_SexLove: 欢迎光临~\n这里是清眠sama和@xuemingjiai的贡瘾治疗咨询室♡\n对于很多贡奴来说，上贡其实是既幸福又苦恼的事情呢~\n每每发情时就会想要无脑白给…吐钱…\n却又在射精后回想起刚刚被当做『贡畜』『ATM』为了快感被轻而易举的提款榨干钱包…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1931359633542959612].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1931359633542959612",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1931359633542959612"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_1931010451560869888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsxTxlbaMAAENPc.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1931010451560869888"
+          ]
+        },
+        "author_id": "1691526572493164544",
+        "conversation_id": "1931010453825855982",
+        "created_at": "2025-06-06T15:29:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-06T16:29:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931010453825855982"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 28,
+              "id": "1374389254726455305",
+              "start": 16,
+              "username": "xuemingjiai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jS3cGLJHZL",
+              "end": 177,
+              "expanded_url": "https://x.com/Mian_SexLove/status/1931010453825855982/photo/1",
+              "media_key": "3_1931010451560869888",
+              "start": 154,
+              "url": "https://t.co/jS3cGLJHZL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931010453825855982",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 533,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "欢迎光临~\n这里是清眠sama和@xuemingjiai的贡瘾治疗咨询室♡\n对于很多贡奴来说，上贡其实是既幸福又苦恼的事情呢~\n每每发情时就会想要无脑白给…吐钱…\n却又在射精后回想起刚刚被当做『贡畜』『ATM』为了快感被轻而易举的提款榨干钱包是多么愚蠢的事\n不过没关系哦，我们会竭尽全力治好你的上贡性癖的🖤 https://t.co/jS3cGLJHZL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n你也会因为窥视我的美貌而心甘情愿沦为钱包被我使用的对吗？\n钱包报名入口：242184780\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 66,
+                "username": "oricz233"
+              },
+              {
+                "end": 95,
+                "start": 86,
+                "username": "moelipoi"
+              },
+              {
+                "end": 113,
+                "start": 102,
+                "username": "cutelingli"
+              },
+              {
+                "end": 135,
+                "start": 120,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 147,
+                "start": 140,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍瞄准钱包👛中",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931064828044713984/9qwnduVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7141,
+          "following_count": 297,
+          "like_count": 342,
+          "listed_count": 33,
+          "media_count": 656,
+          "tweet_count": 1950
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-15T19:05:45.000Z",
+        "description": "这里是眠眠～新人压榨向文援，是喜爱玩弄压榨抖m贱狗的纯真恶女，喜高压压榨，极限寸止，绿帽羞辱，媚黑洗脑，粗口辱骂，射精管理，强制榨精🖤 门牌号:3815883063",
+        "id": "1691526572493164544",
+        "location": "你的梦里♡",
+        "name": "清眠sama",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930897383824711680/He5c-sSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 22,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 13
+        },
+        "username": "Mian_SexLove",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1996052864586936320"
+      ],
+      "media_source_tweet_id": [
+        "1996055388912058693"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "1996272211334946864",
+    "created_at": "2025-12-03T17:35:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T18:35:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996272211334946864"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 90,
+          "start": 87,
+          "tag": "上贡"
+        },
+        {
+          "end": 94,
+          "start": 91,
+          "tag": "压榨"
+        },
+        {
+          "end": 98,
+          "start": 95,
+          "tag": "白给"
+        },
+        {
+          "end": 102,
+          "start": 99,
+          "tag": "色诱"
+        },
+        {
+          "end": 106,
+          "start": 103,
+          "tag": "贡奴"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1679430880975278081",
+          "start": 3,
+          "username": "CarolynGyl46130"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OBRgdcjCHH",
+          "end": 130,
+          "expanded_url": "https://x.com/CarolynGyl46130/status/1996055388912058693/photo/1",
+          "media_key": "3_1996052864586936320",
+          "start": 107,
+          "url": "https://t.co/OBRgdcjCHH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996272211334946864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996055388912058693",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CarolynGyl46130: 为了获得游戏和比赛的胜利...❤️女孩子常常会使用一些身体上的优势，去引诱，哄骗和索取男生哦~\n“给小早买那件内衣啦~前辈~❤️”\n#上贡 #压榨 #白给 #色诱 #贡奴 https://t.co/OBRgdcjCHH"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1996272211334946864].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1996272211334946864",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1996272211334946864"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1712,
+        "media_key": "3_1996052864586936320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7NngTqa8AAiH2p.jpg",
+        "width": 760
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996052864586936320"
+          ]
+        },
+        "author_id": "1679430880975278081",
+        "conversation_id": "1996055388912058693",
+        "created_at": "2025-12-03T03:14:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T04:14:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996055388912058693"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 69,
+              "start": 66,
+              "tag": "上贡"
+            },
+            {
+              "end": 73,
+              "start": 70,
+              "tag": "压榨"
+            },
+            {
+              "end": 77,
+              "start": 74,
+              "tag": "白给"
+            },
+            {
+              "end": 81,
+              "start": 78,
+              "tag": "色诱"
+            },
+            {
+              "end": 85,
+              "start": 82,
+              "tag": "贡奴"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OBRgdcjCHH",
+              "end": 109,
+              "expanded_url": "https://x.com/CarolynGyl46130/status/1996055388912058693/photo/1",
+              "media_key": "3_1996052864586936320",
+              "start": 86,
+              "url": "https://t.co/OBRgdcjCHH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996055388912058693",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 469,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "为了获得游戏和比赛的胜利...❤️女孩子常常会使用一些身体上的优势，去引诱，哄骗和索取男生哦~\n“给小早买那件内衣啦~前辈~❤️”\n#上贡 #压榨 #白给 #色诱 #贡奴 https://t.co/OBRgdcjCHH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n最最最最喜欢钱包们啦!\n天天挨骂真的不会腻嘛～\n擅长用爱意和温柔的语气俘虏钱包～\n联系方式→242184780←\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 77,
+                "username": "oricz233"
+              },
+              {
+                "end": 106,
+                "start": 97,
+                "username": "moelipoi"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "cutelingli"
+              },
+              {
+                "end": 146,
+                "start": 131,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 158,
+                "start": 151,
+                "username": "1xian1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍对钱包们最温柔最有好感版",
+        "pinned_tweet_id": "1976743806063063398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991861278688821248/oCQEPeIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8010,
+          "following_count": 348,
+          "like_count": 642,
+          "listed_count": 36,
+          "media_count": 762,
+          "tweet_count": 2359
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-13T10:01:47.000Z",
+        "description": "贪婪的后辈小恶魔，喜欢和各位前辈玩自己精心设计的游戏~\n目的是赚取足够的费用来挥霍\n可以请你输掉吗?前辈~🖤\n需要支付门槛30\n联系方式:qq264196928\nhttps://t.co/wila2eJKAl",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "afdian.com/a/Xiaoxiaozao",
+                "end": 104,
+                "expanded_url": "https://afdian.com/a/Xiaoxiaozao",
+                "start": 81,
+                "url": "https://t.co/wila2eJKAl"
+              }
+            ]
+          }
+        },
+        "id": "1679430880975278081",
+        "name": "小早",
+        "pinned_tweet_id": "1747821105816154459",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1747289710291296256/DAxZJycW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 576,
+          "following_count": 51,
+          "like_count": 118,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 61
+        },
+        "username": "CarolynGyl46130",
+        "verified": false
+      }
+    ]
+  }
+}

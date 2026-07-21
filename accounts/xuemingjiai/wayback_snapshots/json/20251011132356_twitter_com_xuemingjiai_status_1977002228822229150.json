@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1977002228822229150",
+    "created_at": "2025-10-11T13:23:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-11T14:23:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977002228822229150"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1816296832886263808",
+          "start": 3,
+          "username": "Lola_Financedom"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977002228822229150",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969339868972257413",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Lola_Financedom: ※回归后的一份自我介绍※\n\n这里是Lola~\n温柔治疗贡瘾的医师？\n黑心压榨钱包的恶女🖤\n哪一位才是真正的Lola老师呢~要取决于你自己呢w\n或者说，请控制住自己，尽量做出正确的选择~而不是忍不住主动踩进陷阱🖤\n至于能不能忍住…请被我当…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1977002228822229150].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1977002228822229150",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1977002228822229150"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1731,
+        "media_key": "3_1969339860680167424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1SAK1Xb0AAoplR.jpg",
+        "width": 835
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969339860680167424"
+          ]
+        },
+        "author_id": "1816296832886263808",
+        "conversation_id": "1969339868972257413",
+        "created_at": "2025-09-20T09:56:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T10:56:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969339868972257413"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/H6HcJIUNXb",
+              "end": 163,
+              "expanded_url": "https://x.com/Lola_Financedom/status/1969339868972257413/photo/1",
+              "media_key": "3_1969339860680167424",
+              "start": 140,
+              "url": "https://t.co/H6HcJIUNXb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969339868972257413",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 176,
+                "start": 169,
+                "tag": "findom"
+              },
+              {
+                "end": 182,
+                "start": 177,
+                "tag": "atm奴"
+              },
+              {
+                "end": 186,
+                "start": 183,
+                "tag": "贡奴"
+              },
+              {
+                "end": 192,
+                "start": 187,
+                "tag": "貢ぎマゾ"
+              },
+              {
+                "end": 197,
+                "start": 193,
+                "tag": "压榨奴"
+              }
+            ]
+          },
+          "text": "※回归后的一份自我介绍※\n\n这里是Lola~\n温柔治疗贡瘾的医师？\n黑心压榨钱包的恶女🖤\n哪一位才是真正的Lola老师呢~要取决于你自己呢w\n或者说，请控制住自己，尽量做出正确的选择~而不是忍不住主动踩进陷阱🖤\n至于能不能忍住…请被我当做转推工具“使用”后，私信领取问卷确认吧w\n\n门槛52r，赞赏码也请私信获取w\n引力圈付款请看简介~\n#findom #atm奴 #贡奴 #貢ぎマゾ #压榨奴"
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2452,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "※回归后的一份自我介绍※\n\n这里是Lola~\n温柔治疗贡瘾的医师？\n黑心压榨钱包的恶女🖤\n哪一位才是真正的Lola老师呢~要取决于你自己呢w\n或者说，请控制住自己，尽量做出正确的选择~而不是忍不住主动踩进陷阱🖤\n至于能不能忍住…请被我当做转推工具“使用”后，私信领取问卷确认吧w https://t.co/H6HcJIUNXb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n我是一名钱包刽子手。\n如果你也想被我杀死的话→\n2829556413←\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 56,
+                "username": "oricz233"
+              },
+              {
+                "end": 85,
+                "start": 76,
+                "username": "moelipoi"
+              },
+              {
+                "end": 103,
+                "start": 92,
+                "username": "cutelingli"
+              },
+              {
+                "end": 125,
+                "start": 110,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 137,
+                "start": 130,
+                "username": "1xian1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARosxSy"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍快被舔狗钱包舔废版～",
+        "pinned_tweet_id": "1976743806063063398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969152325731168256/ozl0k8K4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7735,
+          "following_count": 312,
+          "like_count": 637,
+          "listed_count": 34,
+          "media_count": 732,
+          "tweet_count": 2214
+        },
+        "url": "https://t.co/le8ARosxSy",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-25T02:18:14.000Z",
+        "description": "欢迎来到Lola的贡瘾诊疗室，请在排空大脑后，接受「诊疗」  门槛52r，付款方式还请私信获取w 🖤陷阱问卷发放中~请在转推喜欢的推文后私信领取w🖤https://t.co/MpOTPwQHNF",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "app.unifans.io/c/lola_findom",
+                "end": 97,
+                "expanded_url": "https://app.unifans.io/c/lola_findom",
+                "start": 74,
+                "url": "https://t.co/MpOTPwQHNF"
+              }
+            ]
+          }
+        },
+        "id": "1816296832886263808",
+        "name": "Lola_洛菈",
+        "pinned_tweet_id": "1969339868972257413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969340098312654848/y3fmtGfp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 12,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 13
+        },
+        "username": "Lola_Financedom",
+        "verified": true
+      }
+    ]
+  }
+}

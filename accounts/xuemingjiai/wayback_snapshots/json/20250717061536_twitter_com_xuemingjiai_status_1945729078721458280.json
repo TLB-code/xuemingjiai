@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1945729078721458280",
+    "created_at": "2025-07-17T06:15:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-17T07:15:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945729078721458280"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1395276094832402440",
+          "start": 3,
+          "username": "rbqrss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945729078721458280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945709984953811347",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rbqrss: 上当了喵！忘记保存之前的头像简介什么的了……不知道改什么好麻烦就这样吧w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "1945729078721458280",
+        "created_at": "2025-07-17T06:15:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T07:15:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945729078721458280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1395276094832402440",
+              "start": 3,
+              "username": "rbqrss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945729078721458280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945709984953811347",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rbqrss: 上当了喵！忘记保存之前的头像简介什么的了……不知道改什么好麻烦就这样吧w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1395276094832402440",
+        "conversation_id": "1945709984953811347",
+        "created_at": "2025-07-17T04:59:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T05:59:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945709984953811347"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xuemingjiai/st…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/xuemingjiai/status/1945511067926536238",
+              "start": 37,
+              "url": "https://t.co/92NyUYPRaK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945709984953811347",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945511067926536238",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "上当了喵！忘记保存之前的头像简介什么的了……不知道改什么好麻烦就这样吧w https://t.co/92NyUYPRaK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n你也会因为窥视我的美貌而心甘情愿沦为钱包被我使用的对吗？\n钱包报名入口：3971546171\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 67,
+                "username": "oricz233"
+              },
+              {
+                "end": 96,
+                "start": 87,
+                "username": "moelipoi"
+              },
+              {
+                "end": 114,
+                "start": 103,
+                "username": "cutelingli"
+              },
+              {
+                "end": 136,
+                "start": 121,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 148,
+                "start": 141,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍大规模同化魔法展开中",
+        "pinned_tweet_id": "1945511067926536238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945176725190488064/8VBohPRs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7414,
+          "following_count": 320,
+          "like_count": 421,
+          "listed_count": 33,
+          "media_count": 705,
+          "tweet_count": 2163
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-20T07:12:06.000Z",
+        "description": "你好，你现在看见的是奏奏公主最忠诚的舔狗钱包提款机虫虫之一，奏奏公主是世界最会使用我们的公主殿下，没有任何男性能抵抗住她的诱惑，请你握住下面，“勃起”然后点击@xuemingjiai 去关注，去白给，去送死，成为奏奏公主的众多钱包之一🤍",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 79,
+                "username": "xuemingjiai"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/xuemingjiai",
+                "end": 23,
+                "expanded_url": "http://x.com/xuemingjiai",
+                "start": 0,
+                "url": "https://t.co/NflLE21CDY"
+              }
+            ]
+          }
+        },
+        "id": "1395276094832402440",
+        "location": "奏奏大人的胸部",
+        "name": "魔女奏奏妈咪的乖巧无底线胸奴344号",
+        "pinned_tweet_id": "1907505160651420038",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945709537371021312/YPNqPbWO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 575,
+          "following_count": 305,
+          "like_count": 2543,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 238
+        },
+        "url": "https://t.co/NflLE21CDY",
+        "username": "rbqrss",
+        "verified": false
+      }
+    ]
+  }
+}

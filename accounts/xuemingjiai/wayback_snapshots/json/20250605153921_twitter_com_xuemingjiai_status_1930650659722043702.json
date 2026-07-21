@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1930650659722043702",
+    "created_at": "2025-06-05T15:39:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-05T16:39:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930650659722043702"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1312572317206159360",
+          "start": 3,
+          "username": "moelipoi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930650659722043702",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930588895881932972",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @moelipoi: 真不愧是男人胯下的公厕贱货！被操着后穴♡肉棒还在一抖一抖吐着死精♡ 被羞辱成这样兴奋得脑子一片空白～♡彻底雌堕成只知道哼唧求操的淫乱肉便器！♡ \n可怜的废物母狗早就被巨根洗脑得魂飞魄散，羞耻地感受着后穴的快感，彻底忘了自己曾经是男孩子～♡不知廉耻的在…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1930650659722043702].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1930650659722043702",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1930650659722043702"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1930588881281499136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsrUW9waQAANGCX.jpg",
+        "width": 1448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930588881281499136"
+          ]
+        },
+        "author_id": "1312572317206159360",
+        "conversation_id": "1930588895881932972",
+        "created_at": "2025-06-05T11:33:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T12:33:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930588895881932972"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1Dvfh319XZ",
+              "end": 165,
+              "expanded_url": "https://x.com/moelipoi/status/1930588895881932972/photo/1",
+              "media_key": "3_1930588881281499136",
+              "start": 142,
+              "url": "https://t.co/1Dvfh319XZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930588895881932972",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 560,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "真不愧是男人胯下的公厕贱货！被操着后穴♡肉棒还在一抖一抖吐着死精♡ 被羞辱成这样兴奋得脑子一片空白～♡彻底雌堕成只知道哼唧求操的淫乱肉便器！♡ \n可怜的废物母狗早就被巨根洗脑得魂飞魄散，羞耻地感受着后穴的快感，彻底忘了自己曾经是男孩子～♡不知廉耻的在巨根喷出大量浓精时一起流精高潮♡ https://t.co/1Dvfh319XZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "集美貌，智慧，强大于一身的魔女族公主现身人世～区区人类，跪下向我表示臣服吧💜\n被我支配 控制 吸脑 成为奴仆💜\n挑战qq2829556413，里世界小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858\n女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 76,
+                "username": "oricz233"
+              },
+              {
+                "end": 105,
+                "start": 96,
+                "username": "moelipoi"
+              },
+              {
+                "end": 123,
+                "start": 112,
+                "username": "cutelingli"
+              },
+              {
+                "end": 145,
+                "start": 130,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 156,
+                "start": 149,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏💜散播同化病毒中～",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926028406774247424/hWplRg7q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7120,
+          "following_count": 297,
+          "like_count": 339,
+          "listed_count": 33,
+          "media_count": 650,
+          "tweet_count": 1929
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-04T01:57:08.000Z",
+        "description": "贵安~💖这里是主擅长恋足气味调教洗脑的全能系腹黑JK绿茶偶像璃酱/花璃💛|性癖无雷点 任何剧情都可接受 | 句段均可♪|貢ぎ奴隷送死欢迎🖤|把脑子无意识的交给偶像温柔的美夜月鏡中吧?💙\n🚪:1912443435丨只接受图文♡可验证 先看置顶再敲门 海外支持爱发电\n单推偶像:@xuemingjiai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 137,
+                "username": "xuemingjiai"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/moeliqwq",
+                "end": 23,
+                "expanded_url": "http://t.me/moeliqwq",
+                "start": 0,
+                "url": "https://t.co/ttwGimBZ9H"
+              }
+            ]
+          }
+        },
+        "id": "1312572317206159360",
+        "location": "价格:40/0.5h 75/h 全天营业丨不接M单",
+        "name": "璃酱❀",
+        "pinned_tweet_id": "1911036147817681330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925517442706792448/LSzqOBm__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9048,
+          "following_count": 126,
+          "like_count": 292,
+          "listed_count": 11,
+          "media_count": 216,
+          "tweet_count": 1462
+        },
+        "url": "https://t.co/ttwGimBZ9H",
+        "username": "moelipoi",
+        "verified": true
+      }
+    ]
+  }
+}

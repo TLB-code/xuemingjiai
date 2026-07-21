@@ -1,0 +1,152 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1851527180016345320",
+    "created_at": "2024-10-30T07:30:54.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-30T08:30:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1851527180016345320"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "532280267",
+          "start": 3,
+          "username": "cmweidman"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1851527180016345320",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "1851421561745715292",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cmweidman: 哈♡…❤️是时候该照顾一下那些无脑吸臭的脑瘫们了呢♡💜可怜的蛆虫们💚等到你们把阴茎搓成阴蒂……❤️一闻到黏腻足臭就会无接触爆射的时候才有资格承认自己是个合格的足蛆哦💙💜💙💜现在只需要无脑接受祭月女爹的无情足奸并奉上自己省吃俭用剩下的上贡钱……就可以…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1851527180016345320].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1851527180016345320",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1851527180016345320"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1851420357347192832"
+          ]
+        },
+        "author_id": "532280267",
+        "conversation_id": "1851421561745715292",
+        "created_at": "2024-10-30T00:31:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-30T01:31:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1851421561745715292"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 142,
+              "start": 139,
+              "tag": "足奸"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MruMPPUuH1",
+              "end": 167,
+              "expanded_url": "https://x.com/cmweidman/status/1851421561745715292/photo/1",
+              "media_key": "3_1851420357347192832",
+              "start": 144,
+              "url": "https://t.co/MruMPPUuH1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1851421561745715292",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2192,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "哈♡…❤️是时候该照顾一下那些无脑吸臭的脑瘫们了呢♡💜可怜的蛆虫们💚等到你们把阴茎搓成阴蒂……❤️一闻到黏腻足臭就会无接触爆射的时候才有资格承认自己是个合格的足蛆哦💙💜💙💜现在只需要无脑接受祭月女爹的无情足奸并奉上自己省吃俭用剩下的上贡钱……就可以考虑一下让你提前净化哦🖤🖤🖤 #足奸… https://t.co/MruMPPUuH1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "超绝可爱💖\n她就是出道即巅峰的可爱纯真小天使新人偶像魔女小姐💖\n对这样的魔女小姐不能心怀任何涩涩的念想哦，不然就会变得非常糟糕...踏入无法挣脱的陷阱和牢笼里呢💘\n魔女小姐无论说什么做什么都是正确的哦，身为她的粉丝，只需要无条件用各种方式支持她就好了～\nqq2829556413",
+        "id": "1374389254726455305",
+        "name": "电波系新人偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1839039717712724125",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850198775832408064/VnoVKToR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5691,
+          "following_count": 215,
+          "like_count": 178,
+          "listed_count": 23,
+          "tweet_count": 1219
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2012-03-21T14:41:16.000Z",
+        "description": "【瞄准下面二维码截图直接加就可】\n祭月sama 🖤羞辱 🖤压榨 🖤献祭 🖤黑丝 🖤气味 🖤爆耍 🖤辱骂 🖤寸止 🖤丧脑 30r/0.5h，门牌【扫下方二维码】 随时有空，有空必回！（不涉三）想送死的就直接一点～🖤",
+        "id": "532280267",
+        "name": "祭月Sama（互推中🖤）",
+        "pinned_tweet_id": "1823002702127009907",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821887105301110784/Coum-iF__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3297,
+          "following_count": 30,
+          "like_count": 26,
+          "listed_count": 9,
+          "tweet_count": 101
+        },
+        "username": "cmweidman",
+        "verified": true
+      }
+    ]
+  }
+}

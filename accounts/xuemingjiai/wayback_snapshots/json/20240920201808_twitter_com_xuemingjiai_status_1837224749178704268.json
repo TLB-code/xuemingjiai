@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1837224749178704268",
+    "created_at": "2024-09-20T20:18:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-20T21:18:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1837224749178704268"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1238309529701384192",
+          "start": 3,
+          "username": "atmnmsl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837224749178704268",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837091261821636619",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @atmnmsl: 昨天说你是小狗不服气吗？\n早说玩你不跟玩狗一样，还嘴硬自己不是狗呢\n再不听话以后也别想看脚，好好想想白给废物只配看着什么意淫，操你妈\n赶紧爬过来挑一双当狗盆开饭\n不相信你能忍住看三秒不跪🖤晚跪还不如早跪~是不是呀~小狗狗\n跪好自觉找莓莓上贡饭盒使用费哦…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "1837224749178704268",
+        "created_at": "2024-09-20T20:18:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-20T21:18:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837224749178704268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1238309529701384192",
+              "start": 3,
+              "username": "atmnmsl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837224749178704268",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837091261821636619",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @atmnmsl: 昨天说你是小狗不服气吗？\n早说玩你不跟玩狗一样，还嘴硬自己不是狗呢\n再不听话以后也别想看脚，好好想想白给废物只配看着什么意淫，操你妈\n赶紧爬过来挑一双当狗盆开饭\n不相信你能忍住看三秒不跪🖤晚跪还不如早跪~是不是呀~小狗狗\n跪好自觉找莓莓上贡饭盒使用费哦…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1837091250396352515"
+          ]
+        },
+        "author_id": "1238309529701384192",
+        "conversation_id": "1837091261821636619",
+        "created_at": "2024-09-20T11:27:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-20T12:27:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1837091261821636619"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4gysea6iow",
+              "end": 168,
+              "expanded_url": "https://twitter.com/atmnmsl/status/1837091261821636619/photo/1",
+              "media_key": "3_1837091250396352515",
+              "start": 145,
+              "url": "https://t.co/4gYsEA6IOW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837091261821636619",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 823,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "昨天说你是小狗不服气吗？\n早说玩你不跟玩狗一样，还嘴硬自己不是狗呢\n再不听话以后也别想看脚，好好想想白给废物只配看着什么意淫，操你妈\n赶紧爬过来挑一双当狗盆开饭\n不相信你能忍住看三秒不跪🖤晚跪还不如早跪~是不是呀~小狗狗\n跪好自觉找莓莓上贡饭盒使用费哦\n夹好下面别他妈喷自己饭盒里惹大傻逼 https://t.co/4gYsEA6IOW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "超绝可爱💖\n她就是出道即巅峰的可爱纯真小天使新人偶像魔女小姐💖\n任何人都会被她散发出的魅力所捕获，对这样的魔女小姐不能心怀任何涩涩的念想哦，不然就会变得非常糟糕...踏入无法挣脱的陷阱和牢笼里呢💘\n魔女小姐无论说什么做什么都是正确的哦，身为她的粉丝，只需要无条件用各种方式支持她就好了～\nqq2829556413",
+        "id": "1374389254726455305",
+        "name": "电波系新人偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1804570562511126828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836438377702600704/CAqVvsCj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5373,
+          "following_count": 190,
+          "like_count": 150,
+          "listed_count": 23,
+          "tweet_count": 1064
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-13T03:43:02.000Z",
+        "description": "这个账号已经被草莓布丁病毒寄生，失去了原本的全部个人信息。如果你也想被草莓布丁女神寄生，来私信获取这种病毒吧！https://t.co/minRxRigI2黑心老婆:@meimiao199",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 83,
+                "username": "meimiao199"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/atmnmsl",
+                "end": 78,
+                "expanded_url": "http://t.me/atmnmsl",
+                "start": 55,
+                "url": "https://t.co/minRxRigI2"
+              }
+            ]
+          }
+        },
+        "id": "1238309529701384192",
+        "location": "Hino-shi, Tokyo",
+        "name": "草莓布丁（生化母体版）",
+        "pinned_tweet_id": "1772315064831459709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761432786412662784/aWwouj9W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5181,
+          "following_count": 2,
+          "like_count": 2696,
+          "listed_count": 16,
+          "tweet_count": 2104
+        },
+        "username": "atmnmsl",
+        "verified": false
+      }
+    ]
+  }
+}

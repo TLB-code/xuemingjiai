@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065914728913022976",
+        "3_2065914754594648064",
+        "3_2065914777973710848",
+        "3_2065914822240391168"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "2065914875877228650",
+    "created_at": "2026-06-13T21:51:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T22:51:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065914875877228650"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pWZcbQ2dpM",
+          "end": 168,
+          "expanded_url": "https://x.com/xuemingjiai/status/2065914875877228650/photo/1",
+          "media_key": "3_2065914728913022976",
+          "start": 145,
+          "url": "https://t.co/pWZcbQ2dpM"
+        },
+        {
+          "display_url": "pic.x.com/pWZcbQ2dpM",
+          "end": 168,
+          "expanded_url": "https://x.com/xuemingjiai/status/2065914875877228650/photo/1",
+          "media_key": "3_2065914754594648064",
+          "start": 145,
+          "url": "https://t.co/pWZcbQ2dpM"
+        },
+        {
+          "display_url": "pic.x.com/pWZcbQ2dpM",
+          "end": 168,
+          "expanded_url": "https://x.com/xuemingjiai/status/2065914875877228650/photo/1",
+          "media_key": "3_2065914777973710848",
+          "start": 145,
+          "url": "https://t.co/pWZcbQ2dpM"
+        },
+        {
+          "display_url": "pic.x.com/pWZcbQ2dpM",
+          "end": 168,
+          "expanded_url": "https://x.com/xuemingjiai/status/2065914875877228650/photo/1",
+          "media_key": "3_2065914822240391168",
+          "start": 145,
+          "url": "https://t.co/pWZcbQ2dpM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065914875877228650",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "大家好!\n如果刷到这条推文，先别急着划走!\n因为有很重要的事情想要告诉你，短暂的耽误你一小会时间可以吗～\n因为推文内容有限，所以奏奏把想说的内容都放在图片里啦。\n总之，就是奏奏正在做一个很厉害的多人联机贡系网游!\n虽说是贡系，但游戏内完全免费，上贡的都是游戏内的资源，想知道更多请看图片! https://t.co/pWZcbQ2dpM"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2065914875877228650].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2065914875877228650",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2065914875877228650"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2065914728913022976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKuagBEbsAAgRov.jpg",
+        "width": 717
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2065914754594648064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKuahgvaMAA1ijP.jpg",
+        "width": 796
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2065914777973710848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKuai31aYAAy4Ed.jpg",
+        "width": 775
+      },
+      {
+        "height": 2656,
+        "media_key": "3_2065914822240391168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKualcvaUAAUf1x.jpg",
+        "width": 1220
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "你也觉得你面前的这只魔女可爱过头了吧？\n对的!她和别人不一样!\n邂逅方式→2829556413←\n超涩气小号@oricz233\n现任魔女学园院长\n星辰魔女镜璃\n@jingli1840489\n桃心魔女奈奈\n@blakexiaonai\n 黑白魔女花卷\n@miaomiaomyoez2\n好老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 54,
+                "username": "oricz233"
+              },
+              {
+                "end": 94,
+                "start": 80,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 115,
+                "start": 102,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 139,
+                "start": 124,
+                "username": "miaomiaomyoez2"
+              },
+              {
+                "end": 158,
+                "start": 143,
+                "username": "chessy80978858"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "超可爱超绿茶超撩人的精灵魔女-奏奏💚",
+        "pinned_tweet_id": "2013314916120416537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064079945459171328/WbF0iOyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8884,
+          "following_count": 374,
+          "like_count": 650,
+          "listed_count": 35,
+          "media_count": 831,
+          "tweet_count": 2216
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

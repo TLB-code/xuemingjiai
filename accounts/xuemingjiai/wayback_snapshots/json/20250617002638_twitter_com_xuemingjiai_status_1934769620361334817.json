@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1934769620361334817",
+    "created_at": "2025-06-17T00:26:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-17T01:26:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934769620361334817"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 138,
+          "start": 135,
+          "tag": "文援"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1735851723044839424",
+          "start": 3,
+          "username": "KendallRat17471"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934769620361334817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 73
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934221378322043230",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KendallRat17471: 终于回来了呀～贱王八公狗💚怎么直勾勾盯着祖宗刚被男爹内射过的淫穴～露出一副蠢狗样啊？💚光是听着男爹鸡巴撞击祖宗淫臀的声音..狗鞭都他妈快爽到流精了～是你吧贱蛆公狗～💚等祖宗跟男爹做完爱～再用精臭避孕套遛你这条脑残绿奴狗杂种哦💚 #文援…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1934769620361334817].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1934769620361334817",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1934769620361334817"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1577,
+        "media_key": "3_1934221373569900544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gte8F2CaIAA3ec5.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934221373569900544"
+          ]
+        },
+        "author_id": "1735851723044839424",
+        "conversation_id": "1934221378322043230",
+        "created_at": "2025-06-15T12:08:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T13:08:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934221378322043230"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 117,
+              "start": 114,
+              "tag": "文援"
+            },
+            {
+              "end": 122,
+              "start": 118,
+              "tag": "ntr"
+            },
+            {
+              "end": 126,
+              "start": 123,
+              "tag": "绿帽"
+            },
+            {
+              "end": 130,
+              "start": 127,
+              "tag": "羞辱"
+            },
+            {
+              "end": 134,
+              "start": 131,
+              "tag": "上贡"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ghF7rNlaRa",
+              "end": 158,
+              "expanded_url": "https://x.com/KendallRat17471/status/1934221378322043230/photo/1",
+              "media_key": "3_1934221373569900544",
+              "start": 135,
+              "url": "https://t.co/ghF7rNlaRa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934221378322043230",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 44,
+          "impression_count": 10556,
+          "like_count": 257,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 73
+        },
+        "reply_settings": "everyone",
+        "text": "终于回来了呀～贱王八公狗💚怎么直勾勾盯着祖宗刚被男爹内射过的淫穴～露出一副蠢狗样啊？💚光是听着男爹鸡巴撞击祖宗淫臀的声音..狗鞭都他妈快爽到流精了～是你吧贱蛆公狗～💚等祖宗跟男爹做完爱～再用精臭避孕套遛你这条脑残绿奴狗杂种哦💚 #文援 #ntr #绿帽 #羞辱 #上贡 https://t.co/ghF7rNlaRa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n你也会因为窥视我的美貌而心甘情愿沦为钱包被我使用的对吗？\n钱包报名入口：3971546171\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 67,
+                "username": "oricz233"
+              },
+              {
+                "end": 96,
+                "start": 87,
+                "username": "moelipoi"
+              },
+              {
+                "end": 114,
+                "start": 103,
+                "username": "cutelingli"
+              },
+              {
+                "end": 136,
+                "start": 121,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 148,
+                "start": 141,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍驯化公用钱包👛中",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931064828044713984/9qwnduVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7216,
+          "following_count": 309,
+          "like_count": 364,
+          "listed_count": 33,
+          "media_count": 682,
+          "tweet_count": 2065
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-16T02:37:58.000Z",
+        "description": "这里是北北🖤～擅长调教羞辱/胁迫压榨/绿帽锁奴/角色扮演🖤～可s可m🖤详细见置顶菜单哦🖤其他服务加q详谈🖤门牌q3384273525～备用q3827887572（都加不上可以私聊我）💚营业时间10点到凌晨2点~宝宝:@X1ranS",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 108,
+                "username": "X1ranS"
+              }
+            ]
+          }
+        },
+        "id": "1735851723044839424",
+        "location": "全天接单中～接受无理由白给♡",
+        "name": "北北🖤（可互推）",
+        "pinned_tweet_id": "1929587569425309864",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876307151322480640/8zky_u5E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4192,
+          "following_count": 2065,
+          "like_count": 18,
+          "listed_count": 14,
+          "media_count": 69,
+          "tweet_count": 1985
+        },
+        "username": "KendallRat17471",
+        "verified": false
+      }
+    ]
+  }
+}

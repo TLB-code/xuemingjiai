@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1991861377708007619",
+    "created_at": "2025-11-21T13:28:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T14:28:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991861377708007619"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1984115707815325698",
+          "start": 3,
+          "username": "jingli1840489"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991861377708007619",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991845307903246847",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jingli1840489: 温柔妈咪的贴贴日常（1/1000）\n今天是和宝宝们的亲亲贴贴日常哦~温柔的妈咪和宝宝们相处得愉快❤️\n妈咪也很感激有可爱的宝宝们的陪伴，也希望可以一直相互陪伴下去哦❤️\n渴求温柔妈咪爱意的孩子们也欢迎前来拜访哦~❤️\n（下期会展出更多可爱的…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1991861377708007619].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1991861377708007619",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1991861377708007619"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 3133,
+        "media_key": "3_1991845231973793793",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6R0r2tagAEkkZA.jpg",
+        "width": 948
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1991845243592036352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6R0sh_a0AA5mBs.jpg",
+        "width": 752
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1991845278635454464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6R0ukia8AAf8bn.jpg",
+        "width": 902
+      },
+      {
+        "height": 3846,
+        "media_key": "3_1991845287447674880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6R0vFXawAAxTyF.jpg",
+        "width": 948
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991845231973793793",
+            "3_1991845243592036352",
+            "3_1991845278635454464",
+            "3_1991845287447674880"
+          ]
+        },
+        "author_id": "1984115707815325698",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1991845307903246847",
+        "created_at": "2025-11-21T12:25:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T13:25:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991845307903246847"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JW8qlNs0z9",
+              "end": 149,
+              "expanded_url": "https://x.com/jingli1840489/status/1991845307903246847/photo/1",
+              "media_key": "3_1991845231973793793",
+              "start": 126,
+              "url": "https://t.co/JW8qlNs0z9"
+            },
+            {
+              "display_url": "pic.x.com/JW8qlNs0z9",
+              "end": 149,
+              "expanded_url": "https://x.com/jingli1840489/status/1991845307903246847/photo/1",
+              "media_key": "3_1991845243592036352",
+              "start": 126,
+              "url": "https://t.co/JW8qlNs0z9"
+            },
+            {
+              "display_url": "pic.x.com/JW8qlNs0z9",
+              "end": 149,
+              "expanded_url": "https://x.com/jingli1840489/status/1991845307903246847/photo/1",
+              "media_key": "3_1991845278635454464",
+              "start": 126,
+              "url": "https://t.co/JW8qlNs0z9"
+            },
+            {
+              "display_url": "pic.x.com/JW8qlNs0z9",
+              "end": 149,
+              "expanded_url": "https://x.com/jingli1840489/status/1991845307903246847/photo/1",
+              "media_key": "3_1991845287447674880",
+              "start": 126,
+              "url": "https://t.co/JW8qlNs0z9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991845307903246847",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "温柔妈咪的贴贴日常（1/1000）\n今天是和宝宝们的亲亲贴贴日常哦~温柔的妈咪和宝宝们相处得愉快❤️\n妈咪也很感激有可爱的宝宝们的陪伴，也希望可以一直相互陪伴下去哦❤️\n渴求温柔妈咪爱意的孩子们也欢迎前来拜访哦~❤️\n（下期会展出更多可爱的宝宝们哦） https://t.co/JW8qlNs0z9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n最最最最喜欢钱包们啦!\n天天挨骂真的不会腻嘛～\n擅长用爱意和温柔的语气俘虏钱包～\n联系方式→3971546171←\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 78,
+                "username": "oricz233"
+              },
+              {
+                "end": 107,
+                "start": 98,
+                "username": "moelipoi"
+              },
+              {
+                "end": 125,
+                "start": 114,
+                "username": "cutelingli"
+              },
+              {
+                "end": 147,
+                "start": 132,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 159,
+                "start": 152,
+                "username": "1xian1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARosxSy"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍对钱包们最温柔最有好感版",
+        "pinned_tweet_id": "1976743806063063398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991861278688821248/oCQEPeIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7940,
+          "following_count": 329,
+          "like_count": 638,
+          "listed_count": 35,
+          "media_count": 755,
+          "tweet_count": 2316
+        },
+        "url": "https://t.co/le8ARosxSy",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-31T04:31:00.000Z",
+        "description": "新人文媛镜璃回来啦！可以是温柔妈咪~可以是可爱妹妹/知心姐姐~也可以是可怕残忍压榨主使用钱包哦🖤\n目前主要玩法：剧情文爱/黑心/绿茶/洗脑/榨金等💕\n门牌号：q2749521274，致力于让每位朋友都开开心心舒舒服服的喔❤️全天营业，深夜常驻，欢迎前来光顾哦~\n最可爱的奏奏：@xuemingjiai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 150,
+                "start": 138,
+                "username": "xuemingjiai"
+              }
+            ]
+          }
+        },
+        "id": "1984115707815325698",
+        "location": "镜璃的温暖小床~深夜也欢迎打扰哦~",
+        "name": "是镜璃喔~",
+        "pinned_tweet_id": "1991096707346792478",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985515782550536192/bMHPg-lN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 20,
+          "like_count": 38,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 26
+        },
+        "username": "jingli1840489",
+        "verified": false
+      }
+    ]
+  }
+}

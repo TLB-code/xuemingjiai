@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1856052501268836357",
+    "created_at": "2024-11-11T19:12:54.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-11T20:12:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1856052501268836357"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1852926328963522560",
+          "start": 3,
+          "username": "oricz233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1856052501268836357",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1856049572365422613",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oricz233: 那么，在看到自毁的话以及白袜足底兴奋的情况下握住肉棒，会非常想点击“yes”吧？\n在明明清楚的知道点击下去自己的人生都会被魔女小姐改变，支配，甚至说——摧毁，还是会去点，你这样的变态真是无药可救了呢!\n来自“自毁病毒”的第一条指令，很简单，盯着白袜足…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "1856052501268836357",
+        "created_at": "2024-11-11T19:12:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-11T20:12:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1856052501268836357"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1852926328963522560",
+              "start": 3,
+              "username": "oricz233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856052501268836357",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1856049572365422613",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @oricz233: 那么，在看到自毁的话以及白袜足底兴奋的情况下握住肉棒，会非常想点击“yes”吧？\n在明明清楚的知道点击下去自己的人生都会被魔女小姐改变，支配，甚至说——摧毁，还是会去点，你这样的变态真是无药可救了呢!\n来自“自毁病毒”的第一条指令，很简单，盯着白袜足…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852926328963522560",
+        "conversation_id": "1856049572365422613",
+        "created_at": "2024-11-11T19:01:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-11T20:01:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1856049572365422613"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xuemingjiai/st…",
+              "end": 172,
+              "expanded_url": "https://twitter.com/xuemingjiai/status/1856046224794890722",
+              "start": 149,
+              "url": "https://t.co/dDLrRREPCR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856049572365422613",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1856046224794890722",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那么，在看到自毁的话以及白袜足底兴奋的情况下握住肉棒，会非常想点击“yes”吧？\n在明明清楚的知道点击下去自己的人生都会被魔女小姐改变，支配，甚至说——摧毁，还是会去点，你这样的变态真是无药可救了呢!\n来自“自毁病毒”的第一条指令，很简单，盯着白袜足底，点击“yes”，然后用各种方式，射金20。 https://t.co/dDLrRREPCR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "超绝可爱💖\n她就是出道即巅峰的可爱纯真小天使新人偶像魔女小姐💖\n对这样的魔女小姐不能心怀任何涩涩的念想哦，不然就会变得非常糟糕...踏入无法挣脱的陷阱和牢笼里呢💘\n魔女小姐无论说什么做什么都是正确的哦，身为她的粉丝，只需要无条件用各种方式支持她就好了～\nqq2829556413，碎碎念小号@oricz233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 154,
+                "start": 145,
+                "username": "oricz233"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "name": "电波系新人偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854618482215911424/R3TTJuCj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5866,
+          "following_count": 228,
+          "like_count": 185,
+          "listed_count": 24,
+          "tweet_count": 1334
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-03T04:10:46.000Z",
+        "description": "嗯 如你所见这就是魔女小姐@xuemingjiai 的树洞发泄 特殊更新的多功能用小号哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 13,
+                "username": "xuemingjiai"
+              }
+            ]
+          }
+        },
+        "id": "1852926328963522560",
+        "name": "魔女小姐（多功能用小号）",
+        "pinned_tweet_id": "1853194086540509649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856048359049723904/djn9Tdoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 1,
+          "like_count": 0,
+          "listed_count": 0,
+          "tweet_count": 25
+        },
+        "username": "oricz233",
+        "verified": false
+      }
+    ]
+  }
+}

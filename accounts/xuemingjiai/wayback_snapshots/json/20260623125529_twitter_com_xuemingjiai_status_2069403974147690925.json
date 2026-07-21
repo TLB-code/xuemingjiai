@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "2069403974147690925",
+    "created_at": "2026-06-23T12:55:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T13:55:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069403974147690925"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1374389254726455305",
+          "start": 3,
+          "username": "xuemingjiai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069403974147690925",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068517095168688173",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xuemingjiai: 跟各位支持奏奏妈咪的宝宝们汇报下“奏游”最近几天的进展~\n新加入的勇者很多很多!\n连线游戏大厅新增了很多小游戏!\n世界频道增加发红包功能，变得热闹起来了w\n并且游戏里魅魔越来越多了...勇者们真的受得了吗？\n新来的宝宝们请看置顶推文了解详情。…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068516353355714560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLTYqfXakAAH6lA.jpg",
+        "width": 421
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2068516471307911168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLTYxWxaQAAOy8-.jpg",
+        "width": 882
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2068516471312171008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLTYxWybQAA3gWu.jpg",
+        "width": 882
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2068516864087719936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLTZIN_agAAumxm.jpg",
+        "width": 882
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "2069403974147690925",
+        "created_at": "2026-06-23T12:55:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T13:55:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069403974147690925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1374389254726455305",
+              "start": 3,
+              "username": "xuemingjiai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069403974147690925",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068517095168688173",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xuemingjiai: 跟各位支持奏奏妈咪的宝宝们汇报下“奏游”最近几天的进展~\n新加入的勇者很多很多!\n连线游戏大厅新增了很多小游戏!\n世界频道增加发红包功能，变得热闹起来了w\n并且游戏里魅魔越来越多了...勇者们真的受得了吗？\n新来的宝宝们请看置顶推文了解详情。…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068516353355714560",
+            "3_2068516471307911168",
+            "3_2068516471312171008",
+            "3_2068516864087719936"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2068517095168688173",
+        "created_at": "2026-06-21T02:11:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T03:11:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068517095168688173"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TfREOyw3Ee",
+              "end": 171,
+              "expanded_url": "https://x.com/xuemingjiai/status/2068517095168688173/photo/1",
+              "media_key": "3_2068516353355714560",
+              "start": 148,
+              "url": "https://t.co/TfREOyw3Ee"
+            },
+            {
+              "display_url": "pic.x.com/TfREOyw3Ee",
+              "end": 171,
+              "expanded_url": "https://x.com/xuemingjiai/status/2068517095168688173/photo/1",
+              "media_key": "3_2068516471307911168",
+              "start": 148,
+              "url": "https://t.co/TfREOyw3Ee"
+            },
+            {
+              "display_url": "pic.x.com/TfREOyw3Ee",
+              "end": 171,
+              "expanded_url": "https://x.com/xuemingjiai/status/2068517095168688173/photo/1",
+              "media_key": "3_2068516471312171008",
+              "start": 148,
+              "url": "https://t.co/TfREOyw3Ee"
+            },
+            {
+              "display_url": "pic.x.com/TfREOyw3Ee",
+              "end": 171,
+              "expanded_url": "https://x.com/xuemingjiai/status/2068517095168688173/photo/1",
+              "media_key": "3_2068516864087719936",
+              "start": 148,
+              "url": "https://t.co/TfREOyw3Ee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068517095168688173",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 6079,
+          "like_count": 59,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "跟各位支持奏奏妈咪的宝宝们汇报下“奏游”最近几天的进展~\n新加入的勇者很多很多!\n连线游戏大厅新增了很多小游戏!\n世界频道增加发红包功能，变得热闹起来了w\n并且游戏里魅魔越来越多了...勇者们真的受得了吗？\n新来的宝宝们请看置顶推文了解详情。\n同时欢迎更多的勇者或者魅魔们加入进来，加简介qq哦 https://t.co/TfREOyw3Ee"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "你也觉得你面前的这只魔女可爱过头了吧？\n对的!她和别人不一样!\n邂逅方式→2829556413←↓\n242184780\n涩气内容@oricz233\n星辰魔女镜璃\n@jingli1840489\n桃心魔女奈奈\n@blakexiaonai\n 黑白魔女花卷\n@miaomiaomyoez2\n好老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 64,
+                "username": "oricz233"
+              },
+              {
+                "end": 95,
+                "start": 81,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 116,
+                "start": 103,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 140,
+                "start": 125,
+                "username": "miaomiaomyoez2"
+              },
+              {
+                "end": 159,
+                "start": 144,
+                "username": "chessy80978858"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "超可爱超绿茶超撩人的精灵魔女-奏奏💚",
+        "pinned_tweet_id": "2065914875877228650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068510619113066496/EjupQRp9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9124,
+          "following_count": 388,
+          "like_count": 655,
+          "listed_count": 38,
+          "media_count": 833,
+          "tweet_count": 2236
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

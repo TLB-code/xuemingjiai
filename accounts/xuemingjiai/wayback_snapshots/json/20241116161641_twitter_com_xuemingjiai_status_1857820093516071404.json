@@ -1,0 +1,164 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1857777755242508437",
+    "created_at": "2024-11-16T16:16:41.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-16T17:16:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1857820093516071404"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1857239044385865728",
+          "start": 0,
+          "username": "Urarasuk1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1857820093516071404",
+    "in_reply_to_user_id": "1857239044385865728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1857777909123133614",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Urarasuk1 天籁喵！"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1857777909123133614].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1857777909123133614",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1857777909123133614"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "1857777755242508437",
+        "created_at": "2024-11-16T16:16:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-16T17:16:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1857820093516071404"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1857239044385865728",
+              "start": 0,
+              "username": "Urarasuk1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857820093516071404",
+        "in_reply_to_user_id": "1857239044385865728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1857777909123133614",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Urarasuk1 天籁喵！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "超绝可爱💖\n她就是出道即巅峰的可爱纯真小天使新人偶像魔女小姐💖\n对这样的魔女小姐不能心怀任何涩涩的念想哦，不然就会变得非常糟糕...踏入无法挣脱的陷阱和牢笼里呢💘\n魔女小姐无论说什么做什么都是正确的哦，身为她的粉丝，只需要无条件用各种方式支持她就好了～\nqq2829556413，碎碎念小号@oricz233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 154,
+                "start": 145,
+                "username": "oricz233"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "name": "电波系新人偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854618482215911424/R3TTJuCj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5898,
+          "following_count": 233,
+          "like_count": 190,
+          "listed_count": 25,
+          "tweet_count": 1351
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-15T01:47:57.000Z",
+        "description": "≧⁠Д⁠≦⁠ 🚪88",
+        "id": "1857239044385865728",
+        "name": "･⁠ ⁠〰⁠ ⁠･⁠ ⁠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1857239196836167680/HgbqfI70_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 14,
+          "like_count": 2,
+          "listed_count": 0,
+          "tweet_count": 7
+        },
+        "username": "Urarasuk1",
+        "verified": false
+      }
+    ]
+  }
+}

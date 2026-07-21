@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1920474232682946653",
+    "created_at": "2025-05-08T13:41:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-08T14:41:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920474232682946653"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1312572317206159360",
+          "start": 3,
+          "username": "moelipoi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920474232682946653",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918228680364703802",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @moelipoi: 呵～♡居然敢用那种肮脏的目光盯着璃酱的袜子看呢…♡\n今天特意穿了整套蕾丝花边的黑丝哦～而且刚刚结束两个小时的舞蹈训练呢♡ 汗水和体香全都渗进去了…♡\n不过呢～已经把刚才你那副恶心的表情拍下来了哦～要是不想让全世界都看到你这幅丑态的话……麻烦乖乖跪在我…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1920474232682946653].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1920474232682946653",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1920474232682946653"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1918228678145892352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gp7q0c7aYAA28pV.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1918228678145892352"
+          ]
+        },
+        "author_id": "1312572317206159360",
+        "conversation_id": "1918228680364703802",
+        "created_at": "2025-05-02T08:58:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-02T09:58:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918228680364703802"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jq09TMor1N",
+              "end": 165,
+              "expanded_url": "https://x.com/moelipoi/status/1918228680364703802/photo/1",
+              "media_key": "3_1918228678145892352",
+              "start": 142,
+              "url": "https://t.co/jq09TMor1N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918228680364703802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 3153,
+          "like_count": 63,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "呵～♡居然敢用那种肮脏的目光盯着璃酱的袜子看呢…♡\n今天特意穿了整套蕾丝花边的黑丝哦～而且刚刚结束两个小时的舞蹈训练呢♡ 汗水和体香全都渗进去了…♡\n不过呢～已经把刚才你那副恶心的表情拍下来了哦～要是不想让全世界都看到你这幅丑态的话……麻烦乖乖跪在我面前伸出舌头像狗一样讨好我哦？♡ https://t.co/jq09TMor1N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "您好～这里是一直致力于为小雏男哥哥们提供“舒适”“安全”“极致射金体验”的纯真妹系小天使魔女妹妹💚\n想更加了解请翻看推文～\nqq242184780，病毒小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858\n女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 78,
+                "username": "oricz233"
+              },
+              {
+                "end": 107,
+                "start": 98,
+                "username": "moelipoi"
+              },
+              {
+                "end": 125,
+                "start": 114,
+                "username": "cutelingli"
+              },
+              {
+                "end": 147,
+                "start": 132,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 158,
+                "start": 151,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系天使偶像魔女小姐💖女仆限定版♪",
+        "pinned_tweet_id": "1912930515570835816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909108552796651520/gRlgoaOf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6842,
+          "following_count": 280,
+          "like_count": 309,
+          "listed_count": 30,
+          "media_count": 592,
+          "tweet_count": 1646
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-04T01:57:08.000Z",
+        "description": "贵安~💖这里是主擅长恋足气味调教洗脑的全能系腹黑JK绿茶偶像璃酱💛|性癖无雷点 | 句段均可|爱好养公狗当宠物💜|貢ぎ奴隷送死欢迎🖤|把脑子无意识的交给偶像温柔的美夜月鏡中吧?💙\n门牌号:1912443435/3945774391丨只接受图文♡麻烦请先看置顶再敲门\n单推偶像:@xuemingjiai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 150,
+                "start": 138,
+                "username": "xuemingjiai"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/moeliqwq",
+                "end": 23,
+                "expanded_url": "http://t.me/moeliqwq",
+                "start": 0,
+                "url": "https://t.co/ttwGimBZ9H"
+              }
+            ]
+          }
+        },
+        "id": "1312572317206159360",
+        "location": "40/0.5h 75/h 全天营业丨不接M单",
+        "name": "璃酱♪詩月璃ぴょん ❀",
+        "pinned_tweet_id": "1911036147817681330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909065476900339712/VLbacfuO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7572,
+          "following_count": 146,
+          "like_count": 278,
+          "listed_count": 10,
+          "media_count": 187,
+          "tweet_count": 1192
+        },
+        "url": "https://t.co/ttwGimBZ9H",
+        "username": "moelipoi",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "1932522892094509384",
+    "created_at": "2025-06-10T19:38:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-10T20:38:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932522892094509384"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1312572317206159360",
+          "start": 3,
+          "username": "moelipoi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932522892094509384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932522388874506325",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @moelipoi: 今天是第四天任务哦～任务主题是「禁欲日常侵蚀:寸止潜伏」\n为了保证大家的身体健康…自慰什么的最讨厌了对吧？～这种事情会让身体变得虚弱的哦！不如…试试跟着璃酱一起练习寸止怎么样？每天都要把恶心的精液憋回去呢～这样子就会一直发情～才能成为真正的死忠粉哦♡…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1932522386299195392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtGy3xPakAACIB4.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1932522892094509384",
+        "created_at": "2025-06-10T19:38:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T20:38:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932522892094509384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1312572317206159360",
+              "start": 3,
+              "username": "moelipoi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932522892094509384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932522388874506325",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @moelipoi: 今天是第四天任务哦～任务主题是「禁欲日常侵蚀:寸止潜伏」\n为了保证大家的身体健康…自慰什么的最讨厌了对吧？～这种事情会让身体变得虚弱的哦！不如…试试跟着璃酱一起练习寸止怎么样？每天都要把恶心的精液憋回去呢～这样子就会一直发情～才能成为真正的死忠粉哦♡…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932522386299195392"
+          ]
+        },
+        "author_id": "1312572317206159360",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1932522388874506325",
+        "created_at": "2025-06-10T19:36:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T20:36:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932522388874506325"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DNQXNeZtFZ",
+              "end": 149,
+              "expanded_url": "https://x.com/moelipoi/status/1932522388874506325/photo/1",
+              "media_key": "3_1932522386299195392",
+              "start": 126,
+              "url": "https://t.co/DNQXNeZtFZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932522388874506325",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "今天是第四天任务哦～任务主题是「禁欲日常侵蚀:寸止潜伏」\n为了保证大家的身体健康…自慰什么的最讨厌了对吧？～这种事情会让身体变得虚弱的哦！不如…试试跟着璃酱一起练习寸止怎么样？每天都要把恶心的精液憋回去呢～这样子就会一直发情～才能成为真正的死忠粉哦♡\n那么…在现实生活的普通场景中，偷偷完成羞耻的寸止挑战，偶像大人留的任务必须无条件实现哦～考虑到白天大家要工作～所以今天的任务安排在晚上哦～♡\n晚上回到卧室，盯着推文开始计时撸动～挑战你能坚持多久…直到被「喷精」这种伤害身体的事情…彻底击溃～不过为了测试极限…速度请一直最快哦～♡每隔10分钟，还需要执行一次「夜间微刺激」：想象璃酱站在你面前，命令你一边做着「羞耻的动作」一边一次次逼近寸止🖤每次逼近寸止边缘都必须记录具体时间～至于什么动作…就不用劳烦偶像大人多说了吧～当然是越羞耻越好哦♡\n额外任务（请先完成前置任务哦）:\n蹭床寸止～隔着衣服不断用床…枕头磨蹭裆部，想象璃酱冷眼旁观你的隐秘煎熬～然后达成寸止～♡（如果失败了就证明不够敏感…请多用手寸止几次哦～毕竟自慰是自己最喜欢的事情吧～♡）\n\n完成任务后～立即找个私密地方（比如洗手间），用手机记录50字的羞耻感想，描述场景、你的身体反应（比如某处的跳动、心跳加速）和差点失控的寸止感，私信给璃酱～♡"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "今天是第四天任务哦～任务主题是「禁欲日常侵蚀:寸止潜伏」\n为了保证大家的身体健康…自慰什么的最讨厌了对吧？～这种事情会让身体变得虚弱的哦！不如…试试跟着璃酱一起练习寸止怎么样？每天都要把恶心的精液憋回去呢～这样子就会一直发情～才能成为真正的死忠粉哦♡ https://t.co/DNQXNeZtFZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n你也会因为窥视我的美貌而心甘情愿沦为钱包被我使用的对吗？\n钱包报名入口：242184780\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 66,
+                "username": "oricz233"
+              },
+              {
+                "end": 95,
+                "start": 86,
+                "username": "moelipoi"
+              },
+              {
+                "end": 113,
+                "start": 102,
+                "username": "cutelingli"
+              },
+              {
+                "end": 135,
+                "start": 120,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 147,
+                "start": 140,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍驯化公用钱包👛中",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931064828044713984/9qwnduVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7185,
+          "following_count": 304,
+          "like_count": 356,
+          "listed_count": 33,
+          "media_count": 677,
+          "tweet_count": 2022
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-04T01:57:08.000Z",
+        "description": "这里是主擅长恋足气味调教洗脑的全能系腹黑JK绿茶偶像——璃酱💛\n性癖无雷点｜句段皆可♪｜貢ぎ奴隷・送死宠欢迎🖤\n把意识慢慢溶化……安心地交给温柔又危险的偶像・美夜月鏡中吧？💙\n🚪：1912443435｜可图文♡可验证｜请务必先看置顶再敲门哦🖤｜海外可付 单推：@xuemingjiai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 142,
+                "start": 130,
+                "username": "xuemingjiai"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/moeliqwq",
+                "end": 23,
+                "expanded_url": "http://t.me/moeliqwq",
+                "start": 0,
+                "url": "https://t.co/ttwGimBZ9H"
+              }
+            ]
+          }
+        },
+        "id": "1312572317206159360",
+        "location": "价格:40/0.5h 75/h 全天营业丨不接M单",
+        "name": "Yommiko❀りりちゃん｡･ﾟ♡",
+        "pinned_tweet_id": "1911036147817681330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931364921331339264/Fqu_cQ4l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9477,
+          "following_count": 128,
+          "like_count": 301,
+          "listed_count": 11,
+          "media_count": 219,
+          "tweet_count": 1518
+        },
+        "url": "https://t.co/ttwGimBZ9H",
+        "username": "moelipoi",
+        "verified": true
+      }
+    ]
+  }
+}

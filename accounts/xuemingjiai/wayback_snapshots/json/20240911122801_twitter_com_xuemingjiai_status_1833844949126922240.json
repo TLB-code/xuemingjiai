@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1833792598936281468",
+    "created_at": "2024-09-11T12:28:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-11T13:28:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1833844949126922240"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1317722221784272897",
+          "start": 0,
+          "username": "leilan_wy_jy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1833844949126922240",
+    "in_reply_to_user_id": "1317722221784272897",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1833792598936281468",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@leilan_wy_jy 魔女小姐～开始接单💜\n简简单单平平无奇的发言，请您看见以后点进我的主页添加简介好友进行下单，这是一条注入魔力指令的“木马病毒魔法”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "1833792598936281468",
+        "created_at": "2024-09-11T12:28:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-11T13:28:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1833844949126922240"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1317722221784272897",
+              "start": 0,
+              "username": "leilan_wy_jy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833844949126922240",
+        "in_reply_to_user_id": "1317722221784272897",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1833792598936281468",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@leilan_wy_jy 魔女小姐～开始接单💜\n简简单单平平无奇的发言，请您看见以后点进我的主页添加简介好友进行下单，这是一条注入魔力指令的“木马病毒魔法”"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1830220462514995202"
+          ]
+        },
+        "author_id": "1317722221784272897",
+        "conversation_id": "1833792598936281468",
+        "created_at": "2024-09-11T09:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-11T10:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1833792598936281468"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 144,
+              "start": 141,
+              "tag": "文援"
+            },
+            {
+              "end": 149,
+              "start": 145,
+              "tag": "耒兰诏"
+            },
+            {
+              "end": 153,
+              "start": 150,
+              "tag": "文爱"
+            },
+            {
+              "end": 158,
+              "start": 154,
+              "tag": "文援姬"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/flawloxpwh",
+              "end": 182,
+              "expanded_url": "https://twitter.com/leilan_wy_jy/status/1833792598936281468/photo/1",
+              "media_key": "3_1830220462514995202",
+              "start": 159,
+              "url": "https://t.co/FLaWlOxpwh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833792598936281468",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 520,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "【耒兰的傍晚文援公告板】\n\"Kwa nchi yetu tutaunguza damu yoyote\nRudi kwa pambaja ya dunia\n为了家园燃尽最后的血\n回归大地下的深壑。\"\n——\n文援姬请回复自己的营业时间和价格！\n 客人请回复想要的剧情和出价(重要)！\n #文援 #耒兰诏 #文爱 #文援姬 https://t.co/FLaWlOxpwh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "超绝可爱💖\n她就是出道即巅峰的可爱纯真小天使新人偶像魔女小姐💖\n任何人都会被她散发出的魅力所捕获，对这样的魔女小姐不能心怀任何涩涩的念想哦，不然就会变得非常糟糕...踏入无法挣脱的陷阱和牢笼里呢💘\n魔女小姐无论说什么做什么都是正确的哦，身为她的粉丝，只需要无条件用各种方式支持她就好了～\nqq2829556413",
+        "id": "1374389254726455305",
+        "name": "电波系新人偶像💖魔女小姐参上（现充版）",
+        "pinned_tweet_id": "1804570562511126828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833843915985936384/Kp4jMBRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5284,
+          "following_count": 180,
+          "like_count": 146,
+          "listed_count": 23,
+          "tweet_count": 1028
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-18T07:00:50.000Z",
+        "description": "联系请私聊！\n可以帮文援姬按模板【免费推广】，\n没有次数限制但有频率限制，模板是主页置顶哦~\n设定是金毛双尾小个子狐娘！\n#耒兰访 #耒兰谊 尽力更新！\n想要我联系文援姬，也可以私信我。\n没有被投稿人转推的推文请小心。\n限制更少的（商业）推广在 @leilan_magazine",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 65,
+                "start": 61,
+                "tag": "耒兰访"
+              },
+              {
+                "end": 70,
+                "start": 66,
+                "tag": "耒兰谊"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 139,
+                "start": 123,
+                "username": "leilan_magazine"
+              }
+            ]
+          }
+        },
+        "id": "1317722221784272897",
+        "location": "离你不远。",
+        "name": "文援姬投稿推广~耒兰~leilan",
+        "pinned_tweet_id": "1740714095832396000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1540618453065019392/NEgQI_7o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10017,
+          "following_count": 711,
+          "like_count": 182,
+          "listed_count": 31,
+          "tweet_count": 2896
+        },
+        "username": "leilan_wy_jy",
+        "verified": true
+      }
+    ]
+  }
+}

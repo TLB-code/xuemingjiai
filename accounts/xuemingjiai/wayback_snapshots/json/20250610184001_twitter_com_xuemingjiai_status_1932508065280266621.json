@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1932508065280266621",
+    "created_at": "2025-06-10T18:40:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-10T19:40:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932508065280266621"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1682001685215055873",
+          "start": 3,
+          "username": "QingMian0819"
+        },
+        {
+          "end": 46,
+          "id": "1374389254726455305",
+          "start": 34,
+          "username": "xuemingjiai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932508065280266621",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932477831545827642",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @QingMian0819: 欢迎光临~\n这里是清眠sama和@xuemingjiai的贡瘾治疗咨询室♡\n对于很多贡奴来说，上贡其实是既幸福又苦恼的事情呢~\n每每发情时就会想要无脑白给…吐钱…\n却又在射精后回想起刚刚被当做『钱包』『ATM』为了快感被轻而易举的提款榨干钱包…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1932508065280266621].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1932508065280266621",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1932508065280266621"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_1932477829075382274",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtGKWMpbMAIr3DY.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932477829075382274"
+          ]
+        },
+        "author_id": "1682001685215055873",
+        "conversation_id": "1932477831545827642",
+        "created_at": "2025-06-10T16:39:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T17:39:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932477831545827642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 28,
+              "id": "1374389254726455305",
+              "start": 16,
+              "username": "xuemingjiai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7AL6f1kNpp",
+              "end": 177,
+              "expanded_url": "https://x.com/QingMian0819/status/1932477831545827642/photo/1",
+              "media_key": "3_1932477829075382274",
+              "start": 154,
+              "url": "https://t.co/7AL6f1kNpp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932477831545827642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 241,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "欢迎光临~\n这里是清眠sama和@xuemingjiai的贡瘾治疗咨询室♡\n对于很多贡奴来说，上贡其实是既幸福又苦恼的事情呢~\n每每发情时就会想要无脑白给…吐钱…\n却又在射精后回想起刚刚被当做『钱包』『ATM』为了快感被轻而易举的提款榨干钱包是多么愚蠢的事\n不过没关系哦，我们会竭尽全力治好你的上贡性癖的🖤 https://t.co/7AL6f1kNpp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n你也会因为窥视我的美貌而心甘情愿沦为钱包被我使用的对吗？\n钱包报名入口：242184780\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 66,
+                "username": "oricz233"
+              },
+              {
+                "end": 95,
+                "start": 86,
+                "username": "moelipoi"
+              },
+              {
+                "end": 113,
+                "start": 102,
+                "username": "cutelingli"
+              },
+              {
+                "end": 135,
+                "start": 120,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 147,
+                "start": 140,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍驯化公用钱包👛中",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931064828044713984/9qwnduVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7187,
+          "following_count": 304,
+          "like_count": 355,
+          "listed_count": 33,
+          "media_count": 677,
+          "tweet_count": 2021
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-20T12:17:19.000Z",
+        "description": "这里是清眠 新人恶役findom 只是在盯紧钱包想要把您榨干的纯真恶女 门牌号：3815883063 原号@Mian_SexLove 原号主@wan_kylea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 53,
+                "username": "Mian_SexLove"
+              },
+              {
+                "end": 80,
+                "start": 70,
+                "username": "wan_kylea"
+              }
+            ]
+          }
+        },
+        "id": "1682001685215055873",
+        "location": "你的梦里♡",
+        "name": "清眠sama",
+        "pinned_tweet_id": "1932278140896006269",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932278091138940928/zN_Z_FlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1852,
+          "following_count": 93,
+          "like_count": 234,
+          "listed_count": 5,
+          "media_count": 130,
+          "tweet_count": 475
+        },
+        "username": "QingMian0819",
+        "verified": false
+      }
+    ]
+  }
+}

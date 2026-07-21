@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1954520103481217024",
+        "3_1954520104127057920"
+      ],
+      "media_source_tweet_id": [
+        "1954520106513346999",
+        "1954520106513346999"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "1954756890090410411",
+    "created_at": "2025-08-11T04:08:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T05:08:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954756890090410411"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1696056509023625217",
+          "start": 3,
+          "username": "CuteLingli"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dH5K4jCtyO",
+          "end": 109,
+          "expanded_url": "https://x.com/CuteLingli/status/1954520106513346999/photo/1",
+          "media_key": "3_1954520103481217024",
+          "start": 86,
+          "url": "https://t.co/dH5K4jCtyO"
+        },
+        {
+          "display_url": "pic.x.com/dH5K4jCtyO",
+          "end": 109,
+          "expanded_url": "https://x.com/CuteLingli/status/1954520106513346999/photo/1",
+          "media_key": "3_1954520104127057920",
+          "start": 86,
+          "url": "https://t.co/dH5K4jCtyO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954756890090410411",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954520106513346999",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CuteLingli: 就算被要求把手拿开，却还是不争气地流出来了呢🖤\n明明是上贡了钱包换来的自慰机会，但最后只能没有尊严地流出来，但是，你还是很喜欢~\n对吗❤️ https://t.co/dH5K4jCtyO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1618,
+        "media_key": "3_1954520103481217024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx_ZrbpbkAAovI9.jpg",
+        "width": 944
+      },
+      {
+        "height": 1636,
+        "media_key": "3_1954520104127057920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx_ZreDaUAAmzHP.jpg",
+        "width": 938
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954520103481217024",
+            "3_1954520104127057920"
+          ],
+          "media_source_tweet_id": [
+            "1954520106513346999",
+            "1954520106513346999"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "1954756890090410411",
+        "created_at": "2025-08-11T04:08:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T05:08:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954756890090410411"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1696056509023625217",
+              "start": 3,
+              "username": "CuteLingli"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dH5K4jCtyO",
+              "end": 109,
+              "expanded_url": "https://x.com/CuteLingli/status/1954520106513346999/photo/1",
+              "media_key": "3_1954520103481217024",
+              "start": 86,
+              "url": "https://t.co/dH5K4jCtyO"
+            },
+            {
+              "display_url": "pic.x.com/dH5K4jCtyO",
+              "end": 109,
+              "expanded_url": "https://x.com/CuteLingli/status/1954520106513346999/photo/1",
+              "media_key": "3_1954520104127057920",
+              "start": 86,
+              "url": "https://t.co/dH5K4jCtyO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954756890090410411",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954520106513346999",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CuteLingli: 就算被要求把手拿开，却还是不争气地流出来了呢🖤\n明明是上贡了钱包换来的自慰机会，但最后只能没有尊严地流出来，但是，你还是很喜欢~\n对吗❤️ https://t.co/dH5K4jCtyO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954520103481217024",
+            "3_1954520104127057920"
+          ]
+        },
+        "author_id": "1696056509023625217",
+        "conversation_id": "1954520106513346999",
+        "created_at": "2025-08-10T12:28:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T13:28:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954520106513346999"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dH5K4jCtyO",
+              "end": 93,
+              "expanded_url": "https://x.com/CuteLingli/status/1954520106513346999/photo/1",
+              "media_key": "3_1954520103481217024",
+              "start": 70,
+              "url": "https://t.co/dH5K4jCtyO"
+            },
+            {
+              "display_url": "pic.x.com/dH5K4jCtyO",
+              "end": 93,
+              "expanded_url": "https://x.com/CuteLingli/status/1954520106513346999/photo/1",
+              "media_key": "3_1954520104127057920",
+              "start": 70,
+              "url": "https://t.co/dH5K4jCtyO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954520106513346999",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2578,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "就算被要求把手拿开，却还是不争气地流出来了呢🖤\n明明是上贡了钱包换来的自慰机会，但最后只能没有尊严地流出来，但是，你还是很喜欢~\n对吗❤️ https://t.co/dH5K4jCtyO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n我是一名钱包刽子手。\n如果你也想被我杀死的话→\n242184780←\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 55,
+                "username": "oricz233"
+              },
+              {
+                "end": 84,
+                "start": 75,
+                "username": "moelipoi"
+              },
+              {
+                "end": 102,
+                "start": 91,
+                "username": "cutelingli"
+              },
+              {
+                "end": 124,
+                "start": 109,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 136,
+                "start": 129,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍魔女讨伐组织高级顾问～",
+        "pinned_tweet_id": "1945511067926536238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952517800502652928/-lp8k7Gh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7862,
+          "following_count": 333,
+          "like_count": 613,
+          "listed_count": 34,
+          "media_count": 721,
+          "tweet_count": 2215
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-28T07:06:06.000Z",
+        "description": "温柔向压榨系。请不要踏入陷阱~否则脑子和钱包都会的变得一塌糊涂。我很懒，所以不涉三。不想送死别来加我~ 门牌🚪3875489005，门槛会增加好感，不过请随意，我只是想单纯地想要你的钱~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "afdian.com/a/cutelingli",
+                "end": 23,
+                "expanded_url": "https://afdian.com/a/cutelingli",
+                "start": 0,
+                "url": "https://t.co/Di7OiY89Hx"
+              }
+            ]
+          }
+        },
+        "id": "1696056509023625217",
+        "location": "你的心里❤️",
+        "name": "玲璃",
+        "pinned_tweet_id": "1936593684994429229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936595198689095680/b1T5cEFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2438,
+          "following_count": 166,
+          "like_count": 301,
+          "listed_count": 6,
+          "media_count": 123,
+          "tweet_count": 465
+        },
+        "url": "https://t.co/Di7OiY89Hx",
+        "username": "CuteLingli",
+        "verified": false
+      }
+    ]
+  }
+}

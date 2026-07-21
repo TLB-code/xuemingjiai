@@ -1,0 +1,170 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1801996323501338624"
+      ],
+      "media_source_tweet_id": [
+        "1801996352190369961"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "1802295054373208317",
+    "created_at": "2024-06-16T11:00:00.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-16T12:00:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1802295054373208317"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1737832071220113408",
+          "start": 3,
+          "username": "zcThtMgJUh78594"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/7DTX5aXoJ6",
+          "end": 90,
+          "expanded_url": "https://twitter.com/zcThtMgJUh78594/status/1801996352190369961/photo/1",
+          "media_key": "3_1801996323501338624",
+          "start": 67,
+          "url": "https://t.co/7DTX5aXoJ6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1802295054373208317",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1801996352190369961",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zcThtMgJUh78594: 新问卷\n银狼的寸止游戏，共101道\n努力还原了银狼，寸止很次数很多\n适合喜欢银狼和寸止狗狗 https://t.co/7DTX5aXoJ6"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1802295054373208317].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1802295054373208317",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1802295054373208317"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1756,
+        "media_key": "3_1801996323501338624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GQH6G9zbcAAHaNl.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1801996323501338624"
+          ]
+        },
+        "author_id": "1737832071220113408",
+        "conversation_id": "1801996352190369961",
+        "created_at": "2024-06-15T15:13:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-15T16:13:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1801996352190369961"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/7DTX5aXoJ6",
+              "end": 69,
+              "expanded_url": "https://twitter.com/zcThtMgJUh78594/status/1801996352190369961/photo/1",
+              "media_key": "3_1801996323501338624",
+              "start": 46,
+              "url": "https://t.co/7DTX5aXoJ6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801996352190369961",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 3616,
+          "like_count": 62,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "新问卷\n银狼的寸止游戏，共101道\n努力还原了银狼，寸止很次数很多\n适合喜欢银狼和寸止狗狗 https://t.co/7DTX5aXoJ6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "超绝可爱💖\n她就是出道即巅峰的可爱纯真小天使新人偶像魔女小姐💖\n任何人都会被她散发出的魅力所捕获，对这样的魔女小姐不能心怀任何涩涩的念想哦，不然就会变得非常糟糕...踏入无法挣脱的陷阱和牢笼里呢💘\n魔女小姐无论说什么做什么都是正确的哦，身为她的粉丝，只需要无条件用各种方式支持她就好了～\nqq2829556413",
+        "id": "1374389254726455305",
+        "name": "电波系新人偶像💖魔女小姐参上（正能量爆表～）",
+        "pinned_tweet_id": "1798490016685195398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795799880021295104/Tsd4XdC9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4868,
+          "following_count": 173,
+          "like_count": 148,
+          "listed_count": 22,
+          "tweet_count": 983
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-21T13:47:15.000Z",
+        "description": "是冷色调哦，欢迎喜欢发情的狗狗上门来玩哟，无脑发情的小狗最讨人喜欢了不是吗（笑）\n擅长洗脑陪伴❤️，寸止调教💜，NTR💚，黑心压榨🖤，树洞安抚🧡，希望狗狗们确保在发情状态下来敲门呢~  \n（门槛随意，30r/30分，不涉三）\n门牌号1596168331🎶",
+        "id": "1737832071220113408",
+        "name": "冷色调",
+        "pinned_tweet_id": "1801996352190369961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788560990831005696/1t7dMkmC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2002,
+          "following_count": 32,
+          "like_count": 212,
+          "listed_count": 3,
+          "tweet_count": 189
+        },
+        "username": "zcThtMgJUh78594",
+        "verified": false
+      }
+    ]
+  }
+}

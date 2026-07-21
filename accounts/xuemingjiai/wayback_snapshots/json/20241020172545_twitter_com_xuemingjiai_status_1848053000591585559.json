@@ -1,0 +1,126 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1848052997856858112"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "1848053000591585559",
+    "created_at": "2024-10-20T17:25:45.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-20T18:25:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1848053000591585559"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/q60lM28W3X",
+          "end": 167,
+          "expanded_url": "https://x.com/xuemingjiai/status/1848053000591585559/photo/1",
+          "media_key": "3_1848052997856858112",
+          "start": 144,
+          "url": "https://t.co/q60lM28W3X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1848053000591585559",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "（靴下蛆虫）\n这是一篇包含 暴力 贬低 男娘 无慈悲 狂气 绝对的冷酷 内容的推文，请酌情观看哦💜（以下内容仅为最近人设）\n“哈？你问为什么会出现这种情况？我怎么知道。觉得很失望？崇拜那么久的魔女大人是长得非常可爱的男娘就接受不了了？我觉得你还是先跪下来在跟我说话。”（对着裤裆踢过去） https://t.co/q60lM28W3X"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1848052997856858112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GaWaaP9akAAln09.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1848052997856858112"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "1848053000591585559",
+        "created_at": "2024-10-20T17:25:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-20T18:25:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1848053000591585559"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q60lM28W3X",
+              "end": 167,
+              "expanded_url": "https://x.com/xuemingjiai/status/1848053000591585559/photo/1",
+              "media_key": "3_1848052997856858112",
+              "start": 144,
+              "url": "https://t.co/q60lM28W3X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1848053000591585559",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "（靴下蛆虫）\n这是一篇包含 暴力 贬低 男娘 无慈悲 狂气 绝对的冷酷 内容的推文，请酌情观看哦💜（以下内容仅为最近人设）\n“哈？你问为什么会出现这种情况？我怎么知道。觉得很失望？崇拜那么久的魔女大人是长得非常可爱的男娘就接受不了了？我觉得你还是先跪下来在跟我说话。”（对着裤裆踢过去） https://t.co/q60lM28W3X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "超绝可爱💖\n她就是出道即巅峰的可爱纯真小天使新人偶像魔女小姐💖\n对这样的魔女小姐不能心怀任何涩涩的念想哦，不然就会变得非常糟糕...踏入无法挣脱的陷阱和牢笼里呢💘\n魔女小姐无论说什么做什么都是正确的哦，身为她的粉丝，只需要无条件用各种方式支持她就好了～（最近的人设为男娘）\nqq2829556413",
+        "id": "1374389254726455305",
+        "name": "电波系新人偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1839039717712724125",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846217275709575172/9f-gtjIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5658,
+          "following_count": 210,
+          "like_count": 168,
+          "listed_count": 23,
+          "tweet_count": 1187
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

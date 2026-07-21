@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1919766342577598747",
+    "created_at": "2025-05-06T14:48:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-06T15:48:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919766342577598747"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1374389254726455305",
+          "start": 3,
+          "username": "xuemingjiai"
+        },
+        {
+          "end": 25,
+          "id": "1209517407544446977",
+          "start": 18,
+          "username": "1Xian1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919766342577598747",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 31
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912930515570835816",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xuemingjiai: 是@1xian1 女仆xian给魔女大小姐制作的营业涩图哦～\n想更了解作为文援姬的魔女大人的话～\n那就“勃起”，这是命令🖤\n对于长期接受魔女大人涩推改造性癖的小雏男们是会看见命令以后身体条件反射执行命令的哦♪\n下一个命令是“不能触碰”，勃起却不…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1919766342577598747].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1919766342577598747",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1919766342577598747"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1912930511762395136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GowYKlGakAA97_A.jpg",
+        "width": 1456
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1912930511762395136"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "1912930515570835816",
+        "created_at": "2025-04-17T18:05:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-17T19:05:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912930515570835816"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1209517407544446977",
+              "start": 1,
+              "username": "1Xian1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wmLvQs9k8W",
+              "end": 174,
+              "expanded_url": "https://x.com/xuemingjiai/status/1912930515570835816/photo/1",
+              "media_key": "3_1912930511762395136",
+              "start": 151,
+              "url": "https://t.co/wmLvQs9k8W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912930515570835816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 29479,
+          "like_count": 158,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "是@1xian1 女仆xian给魔女大小姐制作的营业涩图哦～\n想更了解作为文援姬的魔女大人的话～\n那就“勃起”，这是命令🖤\n对于长期接受魔女大人涩推改造性癖的小雏男们是会看见命令以后身体条件反射执行命令的哦♪\n下一个命令是“不能触碰”，勃起却不能触碰的命令很有趣吧？\n开始发情啦，请继续阅读（送死）哦 https://t.co/wmLvQs9k8W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "您好～这里是一直致力于为小雏男哥哥们提供“舒适”“安全”“极致射金体验”的纯真妹系小天使魔女妹妹💚\n想更加了解请翻看推文～\nqq242184780，病毒小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858\n女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 78,
+                "username": "oricz233"
+              },
+              {
+                "end": 107,
+                "start": 98,
+                "username": "moelipoi"
+              },
+              {
+                "end": 125,
+                "start": 114,
+                "username": "cutelingli"
+              },
+              {
+                "end": 147,
+                "start": 132,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 158,
+                "start": 151,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系天使偶像魔女小姐💖女仆限定版♪",
+        "pinned_tweet_id": "1912930515570835816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909108552796651520/gRlgoaOf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6837,
+          "following_count": 278,
+          "like_count": 309,
+          "listed_count": 30,
+          "media_count": 589,
+          "tweet_count": 1634
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-24T16:53:23.000Z",
+        "description": "普普通通男孩子，做一些马赛克色图+文字。想找我玩直接私信就好～只要发私信一定会回复的哦，聊聊天也可以呀～",
+        "id": "1209517407544446977",
+        "location": "在你身边～",
+        "name": "xian",
+        "pinned_tweet_id": "1884977213650747495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1209517522329964546/cNcVReu2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 481,
+          "following_count": 762,
+          "like_count": 1323,
+          "listed_count": 4,
+          "media_count": 41,
+          "tweet_count": 659
+        },
+        "username": "1Xian1",
+        "verified": false
+      }
+    ]
+  }
+}

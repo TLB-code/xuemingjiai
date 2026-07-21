@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1950627589975920677",
+    "created_at": "2025-07-30T18:40:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T19:40:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950627589975920677"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 17,
+          "tag": "魔女公主的日常"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1374389254726455305",
+          "start": 3,
+          "username": "xuemingjiai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950627589975920677",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948106538234572974",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xuemingjiai: #魔女公主的日常\n本公主的舔狗有没有想过一个问题呢？\n为什么舔本公主会那么快乐那么幸福那么爽？\n是因为舔狗太下贱？\n其实不是...是因为舔其实是人类最原始的性冲动之一\n在本公主看来享受“舔”快感比享受做爱快感舒服多了，当然这个“舔”并不是字面意…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1950627589975920677].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1950627589975920677",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1950627589975920677"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1948106533771837440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwkQkioWgAAAehQ.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948106533771837440"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "1948106538234572974",
+        "created_at": "2025-07-23T19:42:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T20:42:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948106538234572974"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "魔女公主的日常"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WSSuX2pcOd",
+              "end": 165,
+              "expanded_url": "https://x.com/xuemingjiai/status/1948106538234572974/photo/1",
+              "media_key": "3_1948106533771837440",
+              "start": 142,
+              "url": "https://t.co/WSSuX2pcOd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948106538234572974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 7668,
+          "like_count": 57,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "#魔女公主的日常\n本公主的舔狗有没有想过一个问题呢？\n为什么舔本公主会那么快乐那么幸福那么爽？\n是因为舔狗太下贱？\n其实不是...是因为舔其实是人类最原始的性冲动之一\n在本公主看来享受“舔”快感比享受做爱快感舒服多了，当然这个“舔”并不是字面意思上的舔，而是不顾一切把脑子抛掉的舔🤍 https://t.co/WSSuX2pcOd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n你也会因为窥视我的美貌而心甘情愿沦为钱包被我使用的对吗？\n钱包报名入口：3971546171\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 67,
+                "username": "oricz233"
+              },
+              {
+                "end": 96,
+                "start": 87,
+                "username": "moelipoi"
+              },
+              {
+                "end": 114,
+                "start": 103,
+                "username": "cutelingli"
+              },
+              {
+                "end": 136,
+                "start": 121,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 148,
+                "start": 141,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍大规模同化魔法展开中",
+        "pinned_tweet_id": "1945511067926536238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945176725190488064/8VBohPRs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7778,
+          "following_count": 328,
+          "like_count": 590,
+          "listed_count": 33,
+          "media_count": 716,
+          "tweet_count": 2198
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

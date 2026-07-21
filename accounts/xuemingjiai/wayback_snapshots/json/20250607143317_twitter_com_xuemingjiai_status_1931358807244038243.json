@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1931358807244038243",
+    "created_at": "2025-06-07T14:33:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-07T15:33:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931358807244038243"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 17,
+          "tag": "魔女公主的日常"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1374389254726455305",
+          "start": 3,
+          "username": "xuemingjiai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931358807244038243",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 32
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930654557232844970",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xuemingjiai: #魔女公主的日常\n每天更新一个无条件压榨虫虫们的方式～今天各位贡瘾虫虫是和穿上兔女郎装的本公主进行赌博哦💜\n面对本公主引以为傲的巨乳和摇晃的黑丝玉足，贡瘾虫虫们的结局早已经注定～今天也是被魔女公主“逆强奸”的一天哦，点赞转发就会被本公主强制征收…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1930654552946302976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GssQFjxa4AAXtGX.jpg",
+        "width": 1293
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "1931358807244038243",
+        "created_at": "2025-06-07T14:33:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T15:33:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931358807244038243"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 17,
+              "tag": "魔女公主的日常"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1374389254726455305",
+              "start": 3,
+              "username": "xuemingjiai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931358807244038243",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930654557232844970",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xuemingjiai: #魔女公主的日常\n每天更新一个无条件压榨虫虫们的方式～今天各位贡瘾虫虫是和穿上兔女郎装的本公主进行赌博哦💜\n面对本公主引以为傲的巨乳和摇晃的黑丝玉足，贡瘾虫虫们的结局早已经注定～今天也是被魔女公主“逆强奸”的一天哦，点赞转发就会被本公主强制征收…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930654552946302976"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "1930654557232844970",
+        "created_at": "2025-06-05T15:54:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T16:54:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930654557232844970"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "魔女公主的日常"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/baAFvaC8ns",
+              "end": 165,
+              "expanded_url": "https://x.com/xuemingjiai/status/1930654557232844970/photo/1",
+              "media_key": "3_1930654552946302976",
+              "start": 142,
+              "url": "https://t.co/baAFvaC8ns"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930654557232844970",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 7087,
+          "like_count": 78,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "#魔女公主的日常\n每天更新一个无条件压榨虫虫们的方式～今天各位贡瘾虫虫是和穿上兔女郎装的本公主进行赌博哦💜\n面对本公主引以为傲的巨乳和摇晃的黑丝玉足，贡瘾虫虫们的结局早已经注定～今天也是被魔女公主“逆强奸”的一天哦，点赞转发就会被本公主强制征收30枚金币作为赌资，直接光速败北白给🖤 https://t.co/baAFvaC8ns"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n你也会因为窥视我的美貌而心甘情愿沦为钱包被我使用的对吗？\n钱包报名入口：242184780\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 66,
+                "username": "oricz233"
+              },
+              {
+                "end": 95,
+                "start": 86,
+                "username": "moelipoi"
+              },
+              {
+                "end": 113,
+                "start": 102,
+                "username": "cutelingli"
+              },
+              {
+                "end": 135,
+                "start": 120,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 147,
+                "start": 140,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍瞄准钱包👛中",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931064828044713984/9qwnduVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7141,
+          "following_count": 297,
+          "like_count": 342,
+          "listed_count": 33,
+          "media_count": 656,
+          "tweet_count": 1950
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

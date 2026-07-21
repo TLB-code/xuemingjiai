@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "2062996448493572567",
+    "created_at": "2026-06-08T19:59:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T20:59:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064074837988171788"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2002556387440930816",
+          "start": 0,
+          "username": "zxxx1060893"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064074837988171788",
+    "in_reply_to_user_id": "2002556387440930816",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063905814105248062",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zxxx1060893 尊嘟假嘟"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "2062996448493572567",
+        "created_at": "2026-06-08T19:59:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T20:59:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064074837988171788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2002556387440930816",
+              "start": 0,
+              "username": "zxxx1060893"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064074837988171788",
+        "in_reply_to_user_id": "2002556387440930816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063905814105248062",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zxxx1060893 尊嘟假嘟"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002556387440930816",
+        "conversation_id": "2062996448493572567",
+        "created_at": "2026-06-08T08:47:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T09:47:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063905814105248062"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1374389254726455305",
+              "start": 0,
+              "username": "xuemingjiai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063905814105248062",
+        "in_reply_to_user_id": "1374389254726455305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062996448493572567",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xuemingjiai 已深入学习"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会魅惑并享用钱包的公主殿下🤍\n精通各种处刑钱包的方法🖤\n联系方式→2829556413←\n病毒小号@oricz233\n现任魔女学园院长\n星辰魔女镜璃\n@jingli1840489\n桃心魔女奈奈\n@blakexiaonai\n 黑白魔女花卷\n@miaomiaomi17630\n好老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "oricz233"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 114,
+                "start": 101,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 139,
+                "start": 123,
+                "username": "miaomiaomi17630"
+              },
+              {
+                "end": 158,
+                "start": 143,
+                "username": "chessy80978858"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "全能魅惑系魔女族公主-奏💜魔女学园院长版～",
+        "pinned_tweet_id": "2013314916120416537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055327575581556736/-ZRgWKku_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8868,
+          "following_count": 366,
+          "like_count": 636,
+          "listed_count": 36,
+          "media_count": 828,
+          "tweet_count": 2207
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-21T01:47:08.000Z",
+        "description": "已经成功戒贡。提供一些戒贡方面的咨询，希望能帮助你摆脱上贡的泥潭。\n这方面会了解信息，视情况收取额外费用\n（戒贡收10米门槛可抵消捏，只是防止被忽悠打一大段话白嫖捏），最终目的依旧是监督你戒贡。\n欢迎来和我咨询，希望你的意志足够坚定 。\n是男孩子哦  qq：3665321533",
+        "id": "2002556387440930816",
+        "location": "0.2m以内",
+        "name": "nurl",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032862299757883394/aytP1NAZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 151,
+          "like_count": 373,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 61
+        },
+        "username": "zxxx1060893",
+        "verified": false
+      }
+    ]
+  }
+}

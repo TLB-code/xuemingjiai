@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1937147819858809030",
+    "created_at": "2025-06-23T13:56:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-23T14:56:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937147819858809030"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1752639090158403584",
+          "start": 3,
+          "username": "samayunyun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937147819858809030",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937051593398259976",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @samayunyun: 小鸡巴废屌就不要露出来丢人现眼了好吗 短小细小的连女爹中指长度都不如的烂屌🖕还是乖乖的待在贞操锁里 被束缚着 锁内才是你的归宿这根烂屌的栖息之地 剥夺自慰高潮射精权 狗精一直憋在里面 直到彻底把废精憋死灭绝🖤不想这样的话那就夹住锁屌跪着给女爹磕头…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1937147819858809030].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1937147819858809030",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1937147819858809030"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 876,
+        "media_key": "3_1937048688930512896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuHHhQhW4AA5EaT.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937048688930512896"
+          ]
+        },
+        "author_id": "1752639090158403584",
+        "conversation_id": "1937051593398259976",
+        "created_at": "2025-06-23T07:34:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T08:34:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937051593398259976"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nm72ImdSqY",
+              "end": 153,
+              "expanded_url": "https://x.com/samayunyun/status/1937051593398259976/photo/1",
+              "media_key": "3_1937048688930512896",
+              "start": 130,
+              "url": "https://t.co/nm72ImdSqY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937051593398259976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 184,
+                "start": 181,
+                "tag": "文媛"
+              },
+              {
+                "end": 188,
+                "start": 185,
+                "tag": "羞辱"
+              },
+              {
+                "end": 195,
+                "start": 189,
+                "tag": "贞操锁管理"
+              },
+              {
+                "end": 201,
+                "start": 196,
+                "tag": "禁止高潮"
+              },
+              {
+                "end": 205,
+                "start": 202,
+                "tag": "足控"
+              },
+              {
+                "end": 211,
+                "start": 206,
+                "tag": "全天营业"
+              }
+            ]
+          },
+          "text": "小鸡巴废屌就不要露出来丢人现眼了好吗 短小细小的连女爹中指长度都不如的烂屌🖕还是乖乖的待在贞操锁里 被束缚着 锁内才是你的归宿这根烂屌的栖息之地 剥夺自慰高潮射精权 狗精一直憋在里面 直到彻底把废精憋死灭绝🖤不想这样的话那就夹住锁屌跪着给女爹磕头磕到满意为止 女爹就大发慈悲的用闷了一整天的酸臭丝袜足底帮你这傻逼把两颗狗卵里的劣精踩出来哦 作为锁奴的高潮流精🖤\n#文媛 #羞辱 #贞操锁管理 #禁止高潮 #足控 #全天营业"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 1234,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "小鸡巴废屌就不要露出来丢人现眼了好吗 短小细小的连女爹中指长度都不如的烂屌🖕还是乖乖的待在贞操锁里 被束缚着 锁内才是你的归宿这根烂屌的栖息之地 剥夺自慰高潮射精权 狗精一直憋在里面 直到彻底把废精憋死灭绝🖤不想这样的话那就夹住锁屌跪着给女爹磕头磕到满意为止 https://t.co/nm72ImdSqY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n你也会因为窥视我的美貌而心甘情愿沦为钱包被我使用的对吗？\n钱包报名入口：2829556413和3971546171\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 78,
+                "username": "oricz233"
+              },
+              {
+                "end": 107,
+                "start": 98,
+                "username": "moelipoi"
+              },
+              {
+                "end": 125,
+                "start": 114,
+                "username": "cutelingli"
+              },
+              {
+                "end": 147,
+                "start": 132,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 159,
+                "start": 152,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍驯化公用钱包👛中",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931064828044713984/9qwnduVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7275,
+          "following_count": 311,
+          "like_count": 376,
+          "listed_count": 32,
+          "media_count": 700,
+          "tweet_count": 2145
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-31T10:25:04.000Z",
+        "description": "元气少女🩷 【犯贱的傻逼贱狗🖤】【 早泄阳痿小雏男💜】【 奉献女友的绿龟王八💚】 像这样天生的贱畜 生下来就是玩具泄欲工具 夹着烂屌爬过来 劣精榨出 脑髓吸干 成为安可无脑的贱奴 这就是你存在的意义🖤 门牌：3666266411",
+        "id": "1752639090158403584",
+        "name": "困安可💜",
+        "pinned_tweet_id": "1936767231574347926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932792562898907136/3dE2wh3d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 806,
+          "following_count": 26,
+          "like_count": 52,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 168
+        },
+        "username": "samayunyun",
+        "verified": true
+      }
+    ]
+  }
+}

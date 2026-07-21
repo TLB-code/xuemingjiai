@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1852074450587652583",
+    "created_at": "2024-10-31T19:45:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-31T20:45:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1852074450587652583"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1758101321637675008",
+          "start": 3,
+          "username": "xiyu3344"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1852074450587652583",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "1850451224635597133",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiyu3344: 怎么啦，sensei不是一直想要偷窥我的裙底了嘛？现在可以好好多看看哦~\n（鞋尖踩住硕大的龟头来回的摩擦，鞋底凹凸不平的纹路刺激着敏感的马眼不一会就射出浓厚的精液喷射在在鞋底来回的踩弄）\n要是被其他人发现就糟糕了哦~会不会被其他人发现呢？蹭现在像狗一…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1852074450587652583].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1852074450587652583",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1852074450587652583"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1850449881724231680"
+          ]
+        },
+        "author_id": "1758101321637675008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1850451224635597133",
+        "created_at": "2024-10-27T08:15:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-27T09:15:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1850451224635597133"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 140,
+              "start": 137,
+              "tag": "文媛"
+            },
+            {
+              "end": 144,
+              "start": 141,
+              "tag": "文爱"
+            },
+            {
+              "end": 148,
+              "start": 145,
+              "tag": "羞辱"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EeCiirOhlc",
+              "end": 172,
+              "expanded_url": "https://x.com/xiyu3344/status/1850451224635597133/photo/1",
+              "media_key": "3_1850449881724231680",
+              "start": 149,
+              "url": "https://t.co/EeCiirOhlc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1850451224635597133",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 4710,
+          "like_count": 68,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "怎么啦，sensei不是一直想要偷窥我的裙底了嘛？现在可以好好多看看哦~\n（鞋尖踩住硕大的龟头来回的摩擦，鞋底凹凸不平的纹路刺激着敏感的马眼不一会就射出浓厚的精液喷射在在鞋底来回的踩弄）\n要是被其他人发现就糟糕了哦~会不会被其他人发现呢？蹭现在像狗一样钻入我的裙底躲着吧~\n#文媛 #文爱 #羞辱 https://t.co/EeCiirOhlc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "超绝可爱💖\n她就是出道即巅峰的可爱纯真小天使新人偶像魔女小姐💖\n对这样的魔女小姐不能心怀任何涩涩的念想哦，不然就会变得非常糟糕...踏入无法挣脱的陷阱和牢笼里呢💘\n魔女小姐无论说什么做什么都是正确的哦，身为她的粉丝，只需要无条件用各种方式支持她就好了～\nqq2829556413",
+        "id": "1374389254726455305",
+        "name": "电波系新人偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852048735020421125/2lLNSdIh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5740,
+          "following_count": 216,
+          "like_count": 181,
+          "listed_count": 23,
+          "tweet_count": 1253
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-15T12:10:08.000Z",
+        "description": "这里是溪雨，用花言巧语迷惑你的心智~满足你千奇百怪的小心思~喜欢有礼貌的客人乐于玩弄调教发情的小狗狗~不用害羞哦~倾诉你的想法吧~\n各种各样的玩法play还是不同的角色扮演，奇怪色情的脑洞设定都可以满足哩\n文媛服务35/半h 定制文50/千字 p站同名 门牌3670720039 ～tg@xiyu3738",
+        "id": "1758101321637675008",
+        "name": "溪雨",
+        "pinned_tweet_id": "1814497655575179343",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841766872712155137/pfcXUJGA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1072,
+          "following_count": 19,
+          "like_count": 70,
+          "listed_count": 4,
+          "tweet_count": 388
+        },
+        "username": "xiyu3344",
+        "verified": false
+      }
+    ]
+  }
+}

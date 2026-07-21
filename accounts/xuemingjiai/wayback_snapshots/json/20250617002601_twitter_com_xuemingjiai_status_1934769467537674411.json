@@ -1,0 +1,409 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Egg",
+          "id": "842476826526019586",
+          "name": "Egg recipes"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Egg",
+          "id": "842476826526019586",
+          "name": "Egg recipes"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1585790663575994368",
+          "name": "Magical girl"
+        }
+      }
+    ],
+    "conversation_id": "1934769467537674411",
+    "created_at": "2025-06-17T00:26:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-17T01:26:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934769467537674411"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1388652214395150339",
+          "start": 3,
+          "username": "shigongyuyue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934769467537674411",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934522169650004091",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shigongyuyue: 〖这才第几发啊..你就不行了？〗\n枫糖骑在怪人胯上，软糯肉尻起伏间传出肉体与水渍碰撞时的黏腻淫靡声浪\n散落一地的套套以及交合处早已被肏成白浆泡沫的精液无不说明怪人已射了多次\n湿热穴肉再次缠紧，强烈吸力完全不给躲藏在卵蛋内的精液留下丝毫喘息空间…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1934769467537674411].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1934769467537674411",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1934769467537674411"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1697,
+        "media_key": "3_1934522161366274048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtjNp_5bkAAqCIA.jpg",
+        "width": 1034
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934522161366274048"
+          ]
+        },
+        "author_id": "1388652214395150339",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Egg",
+              "id": "842476826526019586",
+              "name": "Egg recipes"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Egg",
+              "id": "842476826526019586",
+              "name": "Egg recipes"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585790663575994368",
+              "name": "Magical girl"
+            }
+          }
+        ],
+        "conversation_id": "1934522169650004091",
+        "created_at": "2025-06-16T08:03:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T09:03:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934522169650004091"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 142,
+              "start": 139,
+              "tag": "文爱"
+            },
+            {
+              "end": 146,
+              "start": 143,
+              "tag": "文援"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NxImZunhEC",
+              "end": 170,
+              "expanded_url": "https://x.com/shigongyuyue/status/1934522169650004091/photo/1",
+              "media_key": "3_1934522161366274048",
+              "start": 147,
+              "url": "https://t.co/NxImZunhEC"
+            },
+            {
+              "display_url": "x.com/shigongyuyue/s…",
+              "end": 194,
+              "expanded_url": "https://twitter.com/shigongyuyue/status/1933760406969069851",
+              "start": 171,
+              "url": "https://t.co/g0VKuKxMbX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934522169650004091",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3046,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933760406969069851",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "〖这才第几发啊..你就不行了？〗\n枫糖骑在怪人胯上，软糯肉尻起伏间传出肉体与水渍碰撞时的黏腻淫靡声浪\n散落一地的套套以及交合处早已被肏成白浆泡沫的精液无不说明怪人已射了多次\n湿热穴肉再次缠紧，强烈吸力完全不给躲藏在卵蛋内的精液留下丝毫喘息空间\n〖虐待肉棒..好像也很有趣呢♡〗\n#文爱 #文援 https://t.co/NxImZunhEC https://t.co/g0VKuKxMbX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n你也会因为窥视我的美貌而心甘情愿沦为钱包被我使用的对吗？\n钱包报名入口：3971546171\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 67,
+                "username": "oricz233"
+              },
+              {
+                "end": 96,
+                "start": 87,
+                "username": "moelipoi"
+              },
+              {
+                "end": 114,
+                "start": 103,
+                "username": "cutelingli"
+              },
+              {
+                "end": 136,
+                "start": 121,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 148,
+                "start": 141,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍驯化公用钱包👛中",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931064828044713984/9qwnduVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7216,
+          "following_count": 309,
+          "like_count": 364,
+          "listed_count": 33,
+          "media_count": 682,
+          "tweet_count": 2062
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-02T00:31:15.000Z",
+        "description": "在下乃是狐族妖仙——时宫羽月大人 ，虽然外表是娇柔可爱的男娘~实则隐藏着超厉害的猎雌肉根~♡欢迎前来祭拜或发起挑战哦~♡超超超喜欢的姐姐大人@CaFE_0721 ⛩️2783735641 （*？？？）电报:https://t.co/jiSCpbOaEE（35/0.5h 60/1h）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 70,
+                "username": "CaFE_0721"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/shigongyuyue",
+                "end": 126,
+                "expanded_url": "http://t.me/shigongyuyue",
+                "start": 103,
+                "url": "https://t.co/jiSCpbOaEE"
+              }
+            ]
+          }
+        },
+        "id": "1388652214395150339",
+        "location": "狐狸神社",
+        "name": "时宫羽月（不可观测の狐仙）",
+        "pinned_tweet_id": "1934522169650004091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877395017360355331/SpDVwxah_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4634,
+          "following_count": 2609,
+          "like_count": 15485,
+          "listed_count": 22,
+          "media_count": 880,
+          "tweet_count": 7724
+        },
+        "username": "shigongyuyue",
+        "verified": false
+      }
+    ]
+  }
+}

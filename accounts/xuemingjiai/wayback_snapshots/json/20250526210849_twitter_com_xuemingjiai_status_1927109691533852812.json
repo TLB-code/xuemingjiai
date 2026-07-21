@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1927109691533852812",
+    "created_at": "2025-05-26T21:08:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-26T22:08:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927109691533852812"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 17,
+          "tag": "魔女公主的小课堂"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1374389254726455305",
+          "start": 3,
+          "username": "xuemingjiai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927109691533852812",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927108974295314589",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xuemingjiai: #魔女公主的小课堂\n其实贡奴都有一个特性啊～那就是会给自己的纵欲找理由，会对自己上贡的对象“无底线纵容”💚\n说白了就是只要足够“傻逼”足够“舔”，就能自我脑补白给到兴奋了呢，还会一次比一次下贱，阈值就是在不断“脑弱”“自毁”中提升的啊...\n没…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1927108971216662528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr53ZijWcAAXOeD.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "1927109691533852812",
+        "created_at": "2025-05-26T21:08:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T22:08:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927109691533852812"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 17,
+              "tag": "魔女公主的小课堂"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1374389254726455305",
+              "start": 3,
+              "username": "xuemingjiai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927109691533852812",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927108974295314589",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xuemingjiai: #魔女公主的小课堂\n其实贡奴都有一个特性啊～那就是会给自己的纵欲找理由，会对自己上贡的对象“无底线纵容”💚\n说白了就是只要足够“傻逼”足够“舔”，就能自我脑补白给到兴奋了呢，还会一次比一次下贱，阈值就是在不断“脑弱”“自毁”中提升的啊...\n没…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1927108971216662528"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "1927108974295314589",
+        "created_at": "2025-05-26T21:05:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T22:05:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927108974295314589"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 0,
+              "tag": "魔女公主的小课堂"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/slo6lEZCVL",
+              "end": 171,
+              "expanded_url": "https://x.com/xuemingjiai/status/1927108974295314589/photo/1",
+              "media_key": "3_1927108971216662528",
+              "start": 148,
+              "url": "https://t.co/slo6lEZCVL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927108974295314589",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#魔女公主的小课堂\n其实贡奴都有一个特性啊～那就是会给自己的纵欲找理由，会对自己上贡的对象“无底线纵容”💚\n说白了就是只要足够“傻逼”足够“舔”，就能自我脑补白给到兴奋了呢，还会一次比一次下贱，阈值就是在不断“脑弱”“自毁”中提升的啊...\n没关系，贡奴生下来就是被吃干抹净的，不需要同情你们🖤 https://t.co/slo6lEZCVL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "集美貌，智慧，强大于一身的魔女族公主现身人世～区区人类，跪下向我表示臣服吧💜\n被我支配 控制 吸脑 成为奴仆💜\n挑战qq242184780，里世界小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858\n女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "oricz233"
+              },
+              {
+                "end": 104,
+                "start": 95,
+                "username": "moelipoi"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "cutelingli"
+              },
+              {
+                "end": 144,
+                "start": 129,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 155,
+                "start": 148,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏💜强势登场人间",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926028406774247424/hWplRg7q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7009,
+          "following_count": 289,
+          "like_count": 322,
+          "listed_count": 32,
+          "media_count": 620,
+          "tweet_count": 1855
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

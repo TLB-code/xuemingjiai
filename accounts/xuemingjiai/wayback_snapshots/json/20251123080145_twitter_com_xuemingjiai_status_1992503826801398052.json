@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1992503826801398052",
+    "created_at": "2025-11-23T08:01:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T09:01:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992503826801398052"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 125,
+          "start": 122,
+          "tag": "文援"
+        },
+        {
+          "end": 130,
+          "start": 126,
+          "tag": "文援姬"
+        },
+        {
+          "end": 134,
+          "start": 131,
+          "tag": "抖m"
+        },
+        {
+          "end": 138,
+          "start": 135,
+          "tag": "调教"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1618704467242672128",
+          "start": 3,
+          "username": "shuishuishui_0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992503826801398052",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992276547634634985",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shuishuishui_0: 我说你这幅抖m的样子是真贱呀🖤\n\n不过也不能完全怪你\n\n毕竟长了那么一根垃圾的小鸡吧，除了会犯贱一无是处呢对吧🖤\n\n快点撸吧贱狗～把精液全部射到餐巾纸上团成团丢掉呢\n\n劣质基因要好好的接受调教才行呢🖤\n\n#文援 #文援姬 #抖m #调教…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1992503826801398052].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1992503826801398052",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1992503826801398052"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1992276539753558016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6X89RZa8AATndu.jpg",
+        "width": 993
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992276539753558016"
+          ]
+        },
+        "author_id": "1618704467242672128",
+        "conversation_id": "1992276547634634985",
+        "created_at": "2025-11-22T16:58:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T17:58:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992276547634634985"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 105,
+              "start": 102,
+              "tag": "文援"
+            },
+            {
+              "end": 110,
+              "start": 106,
+              "tag": "文援姬"
+            },
+            {
+              "end": 114,
+              "start": 111,
+              "tag": "抖m"
+            },
+            {
+              "end": 118,
+              "start": 115,
+              "tag": "调教"
+            },
+            {
+              "end": 122,
+              "start": 119,
+              "tag": "寸止"
+            },
+            {
+              "end": 126,
+              "start": 123,
+              "tag": "压榨"
+            },
+            {
+              "end": 130,
+              "start": 127,
+              "tag": "上贡"
+            },
+            {
+              "end": 134,
+              "start": 131,
+              "tag": "绿奴"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/op6laahbBe",
+              "end": 158,
+              "expanded_url": "https://x.com/shuishuishui_0/status/1992276547634634985/photo/1",
+              "media_key": "3_1992276539753558016",
+              "start": 135,
+              "url": "https://t.co/op6laahbBe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992276547634634985",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 804,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "我说你这幅抖m的样子是真贱呀🖤\n\n不过也不能完全怪你\n\n毕竟长了那么一根垃圾的小鸡吧，除了会犯贱一无是处呢对吧🖤\n\n快点撸吧贱狗～把精液全部射到餐巾纸上团成团丢掉呢\n\n劣质基因要好好的接受调教才行呢🖤\n\n#文援 #文援姬 #抖m #调教 #寸止 #压榨 #上贡 #绿奴 https://t.co/op6laahbBe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n最最最最喜欢钱包们啦!\n天天挨骂真的不会腻嘛～\n擅长用爱意和温柔的语气俘虏钱包～\n联系方式→242184780←\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 77,
+                "username": "oricz233"
+              },
+              {
+                "end": 106,
+                "start": 97,
+                "username": "moelipoi"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "cutelingli"
+              },
+              {
+                "end": 146,
+                "start": 131,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 158,
+                "start": 151,
+                "username": "1xian1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍对钱包们最温柔最有好感版",
+        "pinned_tweet_id": "1976743806063063398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991861278688821248/oCQEPeIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7953,
+          "following_count": 331,
+          "like_count": 640,
+          "listed_count": 36,
+          "media_count": 755,
+          "tweet_count": 2319
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-26T20:16:46.000Z",
+        "description": "我说你这是已经第几次点开本小姐的主页了呢🖤这么期待被我玩弄的话～就来找雨露小姐自毁吧🖤🖤🖤🐧：2700776581",
+        "id": "1618704467242672128",
+        "name": "雨露🖤【文援互推✨】（不涉三）",
+        "pinned_tweet_id": "1775187842576372208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726554310140682240/ru0O-Pb6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3409,
+          "following_count": 37,
+          "like_count": 501,
+          "listed_count": 10,
+          "media_count": 80,
+          "tweet_count": 923
+        },
+        "username": "shuishuishui_0",
+        "verified": false
+      }
+    ]
+  }
+}

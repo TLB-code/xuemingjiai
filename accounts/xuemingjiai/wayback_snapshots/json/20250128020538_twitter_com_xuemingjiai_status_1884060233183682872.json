@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1884060233183682872",
+    "created_at": "2025-01-28T02:05:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-28T03:05:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884060233183682872"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 72,
+          "start": 69,
+          "tag": "文爱"
+        },
+        {
+          "end": 76,
+          "start": 73,
+          "tag": "剧情"
+        },
+        {
+          "end": 80,
+          "start": 77,
+          "tag": "反差"
+        },
+        {
+          "end": 119,
+          "start": 113,
+          "tag": "pixiv"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1877411604473720833",
+          "start": 3,
+          "username": "Xiaomiansleepy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884060233183682872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883226013506924865",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Xiaomiansleepy: 在这个位面中，小眠需要全裸去上课！学校里的男男女女都是裸体！在这个学校，小眠会发生什么故事呢~\n\n#文爱 #剧情 #反差 \n05——全裸上课日，乖乖女的本性再也藏不住了 | 小眠睡不醒 #pixiv https://t.co/TqC1rM…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1884060233183682872].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1884060233183682872",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1884060233183682872"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1883225440455987200"
+          ]
+        },
+        "author_id": "1877411604473720833",
+        "conversation_id": "1883226013506924865",
+        "created_at": "2025-01-25T18:50:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T19:50:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883226013506924865"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 52,
+              "start": 49,
+              "tag": "文爱"
+            },
+            {
+              "end": 56,
+              "start": 53,
+              "tag": "剧情"
+            },
+            {
+              "end": 60,
+              "start": 57,
+              "tag": "反差"
+            },
+            {
+              "end": 99,
+              "start": 93,
+              "tag": "pixiv"
+            }
+          ],
+          "urls": [
+            {
+              "description": "05——全裸上课日，乖乖女的本性再也藏不住了 by 小眠睡不醒",
+              "display_url": "pixiv.net/novel/show.php…",
+              "end": 123,
+              "expanded_url": "https://www.pixiv.net/novel/show.php?id=23892367",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1883226014991732736/tczx45ce?format=png&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1883226014991732736/tczx45ce?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 100,
+              "status": 200,
+              "title": "[R-18] 05——全裸上课日，乖乖女的本性再也藏不住了",
+              "unwound_url": "https://www.pixiv.net/novel/show.php?id=23892367",
+              "url": "https://t.co/TqC1rM4m06"
+            },
+            {
+              "display_url": "pic.x.com/gMunvhjXgt",
+              "end": 147,
+              "expanded_url": "https://x.com/Xiaomiansleepy/status/1883226013506924865/photo/1",
+              "media_key": "3_1883225440455987200",
+              "start": 124,
+              "url": "https://t.co/gMunvhjXgt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883226013506924865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 1723,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "在这个位面中，小眠需要全裸去上课！学校里的男男女女都是裸体！在这个学校，小眠会发生什么故事呢~\n\n#文爱 #剧情 #反差 \n05——全裸上课日，乖乖女的本性再也藏不住了 | 小眠睡不醒 #pixiv https://t.co/TqC1rM4m06 https://t.co/gMunvhjXgt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "您好～这里是出道以来一直致力于为小雏男哥哥们提供“舒适”“安全”“极致快感”的纯真妹系小天使魔女妹妹💚\n想了解我请翻看我的推文～\nqq2829556413，碎碎念小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 83,
+                "username": "oricz233"
+              },
+              {
+                "end": 112,
+                "start": 103,
+                "username": "moelipoi"
+              },
+              {
+                "end": 130,
+                "start": 119,
+                "username": "cutelingli"
+              },
+              {
+                "end": 152,
+                "start": 137,
+                "username": "chessy80978858"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系天使偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878142670054604800/aZFysFDs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6353,
+          "following_count": 252,
+          "like_count": 287,
+          "listed_count": 29,
+          "media_count": 537,
+          "tweet_count": 1489
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-09T17:46:29.000Z",
+        "description": "Switch文援，营业内容可以看简介，同人文会更在P站。有可抵扣的门槛，过门请私信。门牌：3843573562\n\n愿世界所有的美好都与你不期而遇。\nP站：https://t.co/XmB37Ut5RA\nTG群：https://t.co/w5IG5wrxQm",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/83977436",
+                "end": 100,
+                "expanded_url": "https://www.pixiv.net/users/83977436",
+                "start": 77,
+                "url": "https://t.co/XmB37Ut5RA"
+              },
+              {
+                "display_url": "t.me/+q9uhOcliYndkN…",
+                "end": 128,
+                "expanded_url": "https://t.me/+q9uhOcliYndkNGQ1",
+                "start": 105,
+                "url": "https://t.co/w5IG5wrxQm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/83977436",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/83977436",
+                "start": 0,
+                "url": "https://t.co/XmB37Ut5RA"
+              }
+            ]
+          }
+        },
+        "id": "1877411604473720833",
+        "name": "小眠睡不醒",
+        "pinned_tweet_id": "1877639041048305799",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877411700930183168/9tP4QMpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 12,
+          "like_count": 33,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 40
+        },
+        "url": "https://t.co/XmB37Ut5RA",
+        "username": "Xiaomiansleepy",
+        "verified": false
+      }
+    ]
+  }
+}

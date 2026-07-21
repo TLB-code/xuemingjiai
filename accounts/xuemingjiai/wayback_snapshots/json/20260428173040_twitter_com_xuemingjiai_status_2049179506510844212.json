@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044795062413041664"
+      ],
+      "media_source_tweet_id": [
+        "2044795073809068146"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "2049179506510844212",
+    "created_at": "2026-04-28T17:30:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T18:30:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049179506510844212"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2041869183911075840",
+          "start": 3,
+          "username": "xuexue1314520_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9TE0ZTEwdh",
+          "end": 76,
+          "expanded_url": "https://x.com/xuexue1314520_/status/2044795073809068146/photo/1",
+          "media_key": "3_2044795062413041664",
+          "start": 53,
+          "url": "https://t.co/9TE0ZTEwdh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049179506510844212",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044795073809068146",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xuexue1314520_: 嗨嗨嗨🖤这边是雪雪ゆき\n非常擅长爆耍各位💜傻■💜脚■💜钱■💜脑■ https://t.co/9TE0ZTEwdh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1258,
+        "media_key": "3_2044795062413041664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGCSRoWaIAAbQ75.jpg",
+        "width": 726
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044795062413041664"
+          ],
+          "media_source_tweet_id": [
+            "2044795073809068146"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "2049179506510844212",
+        "created_at": "2026-04-28T17:30:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T18:30:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049179506510844212"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2041869183911075840",
+              "start": 3,
+              "username": "xuexue1314520_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9TE0ZTEwdh",
+              "end": 76,
+              "expanded_url": "https://x.com/xuexue1314520_/status/2044795073809068146/photo/1",
+              "media_key": "3_2044795062413041664",
+              "start": 53,
+              "url": "https://t.co/9TE0ZTEwdh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049179506510844212",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044795073809068146",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xuexue1314520_: 嗨嗨嗨🖤这边是雪雪ゆき\n非常擅长爆耍各位💜傻■💜脚■💜钱■💜脑■ https://t.co/9TE0ZTEwdh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044795062413041664"
+          ]
+        },
+        "author_id": "2041869183911075840",
+        "conversation_id": "2044795073809068146",
+        "created_at": "2026-04-16T15:08:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T16:08:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044795073809068146"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9TE0ZTEwdh",
+              "end": 56,
+              "expanded_url": "https://x.com/xuexue1314520_/status/2044795073809068146/photo/1",
+              "media_key": "3_2044795062413041664",
+              "start": 33,
+              "url": "https://t.co/9TE0ZTEwdh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044795073809068146",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 8346,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "嗨嗨嗨🖤这边是雪雪ゆき\n非常擅长爆耍各位💜傻■💜脚■💜钱■💜脑■ https://t.co/9TE0ZTEwdh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会魅惑并享用钱包的公主殿下🤍\n最最最最喜欢钱包们啦～\n联系方式→2829556413←\n病毒小号@oricz233\n现任魔女学园院长!\n星辰魔女镜璃\n@jingli1840489\n桃心魔女奈奈\n@blakexiaonai\n 黑白魔女花卷\n@miaomiaomi17630\n好老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 52,
+                "username": "oricz233"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 114,
+                "start": 101,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 139,
+                "start": 123,
+                "username": "miaomiaomi17630"
+              },
+              {
+                "end": 158,
+                "start": 143,
+                "username": "chessy80978858"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "魅惑系魔女族公主-奏💜魔女学园院长版～",
+        "pinned_tweet_id": "2013314916120416537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018477066753306624/36q-3UGh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8768,
+          "following_count": 361,
+          "like_count": 634,
+          "listed_count": 37,
+          "media_count": 825,
+          "tweet_count": 2193
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-08T13:22:16.000Z",
+        "description": "halo~这边雪雪哦🖤皮下男娘丨高压黑心恶劣文媛🖤\n擅长：棉袜丝足洗脑🖤绿毁雌堕王八💚驯化压榨傻逼💜\nQQ：2641718377无门槛欢迎咨询送死🖤",
+        "id": "2041869183911075840",
+        "name": "雪雪ゆき❄️",
+        "pinned_tweet_id": "2044795073809068146",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044583831181967360/nq8c5za3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 15,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 15
+        },
+        "username": "xuexue1314520_",
+        "verified": false
+      }
+    ]
+  }
+}

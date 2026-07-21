@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "2063626890070626458",
+    "created_at": "2026-06-07T14:19:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T15:19:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063626890070626458"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1697774222704103424",
+          "start": 3,
+          "username": "irellsama1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063626890070626458",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 34
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062880380752191865",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @irellsama1: 废物老师？！在战斗员的脚下就无脑喷精了？比之前做爱的时候射的还多呀🖤\n啧，原来是一条废物绿奴呢🖤想象着人家被爱尔主人玩弄又硬起来了❤️\n傻逼绿王八，是不是很想侵犯我啊❤️不可以～🖤爱尔主人只给废物老师开房了战斗员的脚的使用权限🖤\n加油❤️早泄肉棒…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2063626890070626458].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2063626890070626458",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2063626890070626458"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1169,
+        "media_key": "3_2062880370723577856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKDSxH8a4AAp9au.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062880370723577856"
+          ]
+        },
+        "author_id": "1697774222704103424",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2062880380752191865",
+        "created_at": "2026-06-05T12:53:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T13:53:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062880380752191865"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/15t6pxCsRM",
+              "end": 153,
+              "expanded_url": "https://x.com/irellsama1/status/2062880380752191865/photo/1",
+              "media_key": "3_2062880370723577856",
+              "start": 130,
+              "url": "https://t.co/15t6pxCsRM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062880380752191865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "废物老师？！在战斗员的脚下就无脑喷精了？比之前做爱的时候射的还多呀🖤\n啧，原来是一条废物绿奴呢🖤想象着人家被爱尔主人玩弄又硬起来了❤️\n傻逼绿王八，是不是很想侵犯我啊❤️不可以～🖤爱尔主人只给废物老师开房了战斗员的脚的使用权限🖤\n加油❤️早泄肉棒❤️加油❤️\n还想要射精的话就去把其他学生也献给爱尔主人哦🖤这样你这个绿王八也会爽到不行吧～"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 6758,
+          "like_count": 216,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "废物老师？！在战斗员的脚下就无脑喷精了？比之前做爱的时候射的还多呀🖤\n啧，原来是一条废物绿奴呢🖤想象着人家被爱尔主人玩弄又硬起来了❤️\n傻逼绿王八，是不是很想侵犯我啊❤️不可以～🖤爱尔主人只给废物老师开房了战斗员的脚的使用权限🖤\n加油❤️早泄肉棒❤️加油❤️ https://t.co/15t6pxCsRM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会魅惑并享用钱包的公主殿下🤍\n精通各种处刑钱包的方法🖤\n联系方式→2829556413←\n病毒小号@oricz233\n现任魔女学园院长\n星辰魔女镜璃\n@jingli1840489\n桃心魔女奈奈\n@blakexiaonai\n 黑白魔女花卷\n@miaomiaomi17630\n好老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "oricz233"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 114,
+                "start": 101,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 139,
+                "start": 123,
+                "username": "miaomiaomi17630"
+              },
+              {
+                "end": 158,
+                "start": 143,
+                "username": "chessy80978858"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "全能魅惑系魔女族公主-奏💜魔女学园院长版～",
+        "pinned_tweet_id": "2013314916120416537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055327575581556736/-ZRgWKku_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8862,
+          "following_count": 367,
+          "like_count": 636,
+          "listed_count": 36,
+          "media_count": 827,
+          "tweet_count": 2204
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-02T00:51:47.000Z",
+        "description": "就转生成为邪恶女首领好了🖤这里是邪恶组织“堕星”的女首领爱尔，年上系/幻想系/母系🖤主营媚足洗脑和羞辱，早泄改造，贡奴🖤和长剧情。偏爱恶堕，改造和洗脑。\n小狗老婆：@UcCnt92kbW93060\n不涉三/营业时间：全天到凌晨两点\n（35r/30min，60r/60min）\n🚪 3997409248 见顶置哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 82,
+                "username": "UcCnt92kbW93060"
+              }
+            ]
+          }
+        },
+        "id": "1697774222704103424",
+        "name": "爱尔irell（转生邪恶女首领版）",
+        "pinned_tweet_id": "2045341516970053856",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043534663298527232/83Ba6fXd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1029,
+          "following_count": 151,
+          "like_count": 121,
+          "listed_count": 2,
+          "media_count": 16,
+          "tweet_count": 198
+        },
+        "username": "irellsama1",
+        "verified": true
+      }
+    ]
+  }
+}

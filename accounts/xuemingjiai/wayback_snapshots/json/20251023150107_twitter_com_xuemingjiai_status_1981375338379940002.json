@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1981375338379940002",
+    "created_at": "2025-10-23T15:01:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-23T16:01:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981375338379940002"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "3303126949",
+          "start": 3,
+          "username": "atiur2016"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981375338379940002",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981369070739214446",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @atiur2016: “被寸止到受不了了～要漏了～”\n\n“钱包真的要被榨干了～”\n\n“求求帮我开锁吧 忍耐不下去了～”\n\n真的有好好寸止吗🖤\n\n真的不能再更进一步了吗🖤\n\n真的有忍到极限吗🖤\n\n把自己更逼入绝境一点吧～\n\n这还远远不够吧～自己带上项圈🖤\n\n勒紧自己的脖子…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1981375338379940002].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1981375338379940002",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1981375338379940002"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1974,
+        "media_key": "3_1981369067924500480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G388q2aWMAAZe8v.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981369067924500480"
+          ]
+        },
+        "author_id": "3303126949",
+        "conversation_id": "1981369070739214446",
+        "created_at": "2025-10-23T14:36:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T15:36:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981369070739214446"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/R9fcnXcsIc",
+              "end": 165,
+              "expanded_url": "https://x.com/atiur2016/status/1981369070739214446/photo/1",
+              "media_key": "3_1981369067924500480",
+              "start": 142,
+              "url": "https://t.co/R9fcnXcsIc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981369070739214446",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "“被寸止到受不了了～要漏了～”\n\n“钱包真的要被榨干了～”\n\n“求求帮我开锁吧 忍耐不下去了～”\n\n真的有好好寸止吗🖤\n\n真的不能再更进一步了吗🖤\n\n真的有忍到极限吗🖤\n\n把自己更逼入绝境一点吧～\n\n这还远远不够吧～自己带上项圈🖤\n\n勒紧自己的脖子🖤\n\n扭曲堕落成只属于我的玩物吧～ https://t.co/R9fcnXcsIc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n最最最最喜欢钱包们啦!\n天天挨骂真的不会腻嘛～\n擅长用爱意和温柔的语气俘虏钱包～\n联系方式→3971546171←\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 78,
+                "username": "oricz233"
+              },
+              {
+                "end": 107,
+                "start": 98,
+                "username": "moelipoi"
+              },
+              {
+                "end": 125,
+                "start": 114,
+                "username": "cutelingli"
+              },
+              {
+                "end": 147,
+                "start": 132,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 159,
+                "start": 152,
+                "username": "1xian1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARosxSy"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍对钱包们最温柔最有好感版",
+        "pinned_tweet_id": "1976743806063063398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969152325731168256/ozl0k8K4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7862,
+          "following_count": 331,
+          "like_count": 645,
+          "listed_count": 35,
+          "media_count": 746,
+          "tweet_count": 2270
+        },
+        "url": "https://t.co/le8ARosxSy",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2015-08-01T06:07:19.000Z",
+        "description": "是重新复活的新人文援哦 \n设定是以玩弄他人的快感和钱包为食的s系吸血鬼（雌堕中） \n擅长压榨/寸止/胁迫/射精管理/恋足/剧情向\n如果您也想被我吸干 就请踏入陷阱吧🖤\n 🚪:3361785498  60/1h\n营业时间晚上10点-凌晨1点",
+        "id": "3303126949",
+        "location": "布置陷阱中～",
+        "name": "依云～新人文媛营业中",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980200281682882561/NwB1MgUd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 7,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 6
+        },
+        "username": "atiur2016",
+        "verified": false
+      }
+    ]
+  }
+}

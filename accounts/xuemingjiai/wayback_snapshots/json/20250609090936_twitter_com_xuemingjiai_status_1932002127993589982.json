@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1932002125288185856"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "1931999724036616299",
+    "created_at": "2025-06-09T09:09:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-09T10:09:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932002127993589982"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1317722221784272897",
+          "start": 0,
+          "username": "leilan_wy_jy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OQog4f001Y",
+          "end": 179,
+          "expanded_url": "https://x.com/xuemingjiai/status/1932002127993589982/photo/1",
+          "media_key": "3_1932002125288185856",
+          "start": 156,
+          "url": "https://t.co/OQog4f001Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932002127993589982",
+    "in_reply_to_user_id": "1317722221784272897",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931999724036616299",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@leilan_wy_jy 高傲，黑心，天生的上位者，下贱的人类虫虫们看见就应该崇拜的存在～说的就是本公主哦♪\n化身成电子魅魔，在网络中播种让人类虫虫们毫无反抗能力，心甘情愿沦为家畜的魔法💜\n全能系文援姬，详情去看置顶和过往推文，营业时间基本上是通宵，那么，虫虫～既然看见这条推文就强制勃起，来找本公主送死哦💜 https://t.co/OQog4f001Y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1824,
+        "media_key": "3_1932002125288185856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs_Zsl8aIAA4EUt.jpg",
+        "width": 1248
+      },
+      {
+        "height": 695,
+        "media_key": "3_1919411235336097792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqMeWVwaEAAcui8.jpg",
+        "width": 1217
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932002125288185856"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "1931999724036616299",
+        "created_at": "2025-06-09T09:09:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T10:09:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932002127993589982"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1317722221784272897",
+              "start": 0,
+              "username": "leilan_wy_jy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OQog4f001Y",
+              "end": 179,
+              "expanded_url": "https://x.com/xuemingjiai/status/1932002127993589982/photo/1",
+              "media_key": "3_1932002125288185856",
+              "start": 156,
+              "url": "https://t.co/OQog4f001Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932002127993589982",
+        "in_reply_to_user_id": "1317722221784272897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931999724036616299",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@leilan_wy_jy 高傲，黑心，天生的上位者，下贱的人类虫虫们看见就应该崇拜的存在～说的就是本公主哦♪\n化身成电子魅魔，在网络中播种让人类虫虫们毫无反抗能力，心甘情愿沦为家畜的魔法💜\n全能系文援姬，详情去看置顶和过往推文，营业时间基本上是通宵，那么，虫虫～既然看见这条推文就强制勃起，来找本公主送死哦💜 https://t.co/OQog4f001Y"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1919411235336097792"
+          ]
+        },
+        "author_id": "1317722221784272897",
+        "conversation_id": "1931999724036616299",
+        "created_at": "2025-06-09T09:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T10:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931999724036616299"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 114,
+              "start": 111,
+              "tag": "文援"
+            },
+            {
+              "end": 119,
+              "start": 115,
+              "tag": "耒兰诏"
+            },
+            {
+              "end": 123,
+              "start": 120,
+              "tag": "文爱"
+            },
+            {
+              "end": 128,
+              "start": 124,
+              "tag": "文援姬"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ElPRVdxx6I",
+              "end": 152,
+              "expanded_url": "https://x.com/leilan_wy_jy/status/1931999724036616299/photo/1",
+              "media_key": "3_1919411235336097792",
+              "start": 129,
+              "url": "https://t.co/ElPRVdxx6I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931999724036616299",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "【耒兰的傍晚文援公告板】\nGet in the line, to dream alive\nIn our souls, do we know?\n——\n文援姬请回复自己的营业时间和价格！\n客人请回复想要的剧情和出价(重要)！\n#文援 #耒兰诏 #文爱 #文援姬 https://t.co/ElPRVdxx6I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n你也会因为窥视我的美貌而心甘情愿沦为钱包被我使用的对吗？\n钱包报名入口：242184780\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 66,
+                "username": "oricz233"
+              },
+              {
+                "end": 95,
+                "start": 86,
+                "username": "moelipoi"
+              },
+              {
+                "end": 113,
+                "start": 102,
+                "username": "cutelingli"
+              },
+              {
+                "end": 135,
+                "start": 120,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 147,
+                "start": 140,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍驯化公用钱包👛中",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931064828044713984/9qwnduVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7156,
+          "following_count": 300,
+          "like_count": 344,
+          "listed_count": 33,
+          "media_count": 663,
+          "tweet_count": 1976
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-18T07:00:50.000Z",
+        "description": "联系请私聊！\n可以帮文援姬按模板【免费推广】，\n没有次数限制但有频率限制，模板是主页置顶哦~\n设定是金毛双尾小个子狐娘！\n#耒兰访 #耒兰谊 尽力更新！\n想要我联系文援姬，也可以私信我。\n没有被投稿人转推的推文请小心。\n限制更少的（商业）推广在 @leilan_magazine",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 65,
+                "start": 61,
+                "tag": "耒兰访"
+              },
+              {
+                "end": 70,
+                "start": 66,
+                "tag": "耒兰谊"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 139,
+                "start": 123,
+                "username": "leilan_magazine"
+              }
+            ]
+          }
+        },
+        "id": "1317722221784272897",
+        "location": "离你不远。",
+        "name": "文援姬投稿推广~耒兰~leilan",
+        "pinned_tweet_id": "1740714095832396000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1540618453065019392/NEgQI_7o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12342,
+          "following_count": 681,
+          "like_count": 187,
+          "listed_count": 34,
+          "media_count": 4216,
+          "tweet_count": 4635
+        },
+        "username": "leilan_wy_jy",
+        "verified": true
+      }
+    ]
+  }
+}

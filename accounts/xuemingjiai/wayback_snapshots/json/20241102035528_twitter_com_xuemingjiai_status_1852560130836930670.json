@@ -1,0 +1,152 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1852560130836930670",
+    "created_at": "2024-11-02T03:55:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-02T04:55:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1852560130836930670"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1843593591463260160",
+          "start": 3,
+          "username": "YongyeBai18048"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1852560130836930670",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1852268716886839676",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YongyeBai18048: 问人家是不是喜欢长裙？不是啦，只不过觉得长裙子可以这样翻过来抱住大姐姐的丑逼脸而已♡还可以贴上人家喜欢的女孩子照片♡这样人家肏你的垃圾小穴的时候会觉得更刺激一些呢♡\n不过，请提前和男友君约定好接你的时间哦，闷死在裙子里人家可不会负责的♡…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1852560130836930670].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1852560130836930670",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1852560130836930670"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1852267668415680513"
+          ]
+        },
+        "author_id": "1843593591463260160",
+        "conversation_id": "1852268716886839676",
+        "created_at": "2024-11-01T08:37:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-01T09:37:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1852268716886839676"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 122,
+              "start": 119,
+              "tag": "文媛"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wSGFCDJhGR",
+              "end": 146,
+              "expanded_url": "https://x.com/YongyeBai18048/status/1852268716886839676/photo/1",
+              "media_key": "3_1852267668415680513",
+              "start": 123,
+              "url": "https://t.co/wSGFCDJhGR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852268716886839676",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 454,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "问人家是不是喜欢长裙？不是啦，只不过觉得长裙子可以这样翻过来抱住大姐姐的丑逼脸而已♡还可以贴上人家喜欢的女孩子照片♡这样人家肏你的垃圾小穴的时候会觉得更刺激一些呢♡\n不过，请提前和男友君约定好接你的时间哦，闷死在裙子里人家可不会负责的♡\n#文媛 https://t.co/wSGFCDJhGR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "超绝可爱💖\n她就是出道即巅峰的可爱纯真小天使新人偶像魔女小姐💖\n对这样的魔女小姐不能心怀任何涩涩的念想哦，不然就会变得非常糟糕...踏入无法挣脱的陷阱和牢笼里呢💘\n魔女小姐无论说什么做什么都是正确的哦，身为她的粉丝，只需要无条件用各种方式支持她就好了～\nqq2829556413",
+        "id": "1374389254726455305",
+        "name": "电波系新人偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852048735020421125/2lLNSdIh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5746,
+          "following_count": 216,
+          "like_count": 181,
+          "listed_count": 23,
+          "tweet_count": 1260
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-08T10:05:48.000Z",
+        "description": "诶多～请问您身上存在多少价值呢？",
+        "id": "1843593591463260160",
+        "name": "永夜白",
+        "pinned_tweet_id": "1847934897815466110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843593719167295488/bpvP3d6w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 11,
+          "like_count": 10,
+          "listed_count": 0,
+          "tweet_count": 40
+        },
+        "username": "YongyeBai18048",
+        "verified": false
+      }
+    ]
+  }
+}

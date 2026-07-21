@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1868625994313322496"
+      ],
+      "media_source_tweet_id": [
+        "1868626002345402545"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1868702755696918617",
+    "created_at": "2024-12-16T17:00:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-16T18:00:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1868702755696918617"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1546004457322082305",
+          "start": 3,
+          "username": "moeliQwQ"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BJZUuYWKBO",
+          "end": 128,
+          "expanded_url": "https://x.com/moeliQwQ/status/1868626002345402545/photo/1",
+          "media_key": "3_1868625994313322496",
+          "start": 105,
+          "url": "https://t.co/BJZUuYWKBO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868702755696918617",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "1868626002345402545",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @moeliQwQ: 哦？这位客人，想通过心理催眠治疗自己的败北癖？噗嗤~真是奇怪的要求呢，不过璃酱可以满足你哦（只不过…🖤）\n那么，跟着我的话语，看着我的眼睛，注意哦…小雏男想要的，催…眠…治…疗🖤… https://t.co/BJZUuYWKBO"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1868702755696918617].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1868702755696918617",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1868702755696918617"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1868625994313322496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ge6xcQEbUAAI_87.jpg",
+        "width": 809
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1868625994313322496"
+          ]
+        },
+        "author_id": "1546004457322082305",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1868626002345402545",
+        "created_at": "2024-12-16T11:55:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-16T12:55:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1868626002345402545"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BJZUuYWKBO",
+              "end": 114,
+              "expanded_url": "https://x.com/moeliQwQ/status/1868626002345402545/photo/1",
+              "media_key": "3_1868625994313322496",
+              "start": 91,
+              "url": "https://t.co/BJZUuYWKBO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868626002345402545",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "哦？这位客人，想通过心理催眠治疗自己的败北癖？噗嗤~真是奇怪的要求呢，不过璃酱可以满足你哦（只不过…🖤）\n那么，跟着我的话语，看着我的眼睛，注意哦…小雏男想要的，催…眠…治…疗🖤\n跟着我的节奏，首先…接着…最后…倒计时，3，2，1🖤怎么样？嗯哼，已经不会思考了呢，这么快就掉进陷阱，彻底失去思考能力了吗？很好哦~现在，就这样继续服从我的声音，失去意识，把一切都好好献给主人吧🖤再也逃不掉了呢，废物…"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 667,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "哦？这位客人，想通过心理催眠治疗自己的败北癖？噗嗤~真是奇怪的要求呢，不过璃酱可以满足你哦（只不过…🖤）\n那么，跟着我的话语，看着我的眼睛，注意哦…小雏男想要的，催…眠…治…疗🖤… https://t.co/BJZUuYWKBO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "您好～这里是出道以来一直致力于为小雏男哥哥们提供“舒适”“安全”“极致快感”的纯真妹系小天使魔女妹妹💚\n想了解我请翻看我的推文～\nqq2829556413，碎碎念小号@oricz233\n共同出道的偶像老婆：@moeliQWQ\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 83,
+                "username": "oricz233"
+              },
+              {
+                "end": 112,
+                "start": 103,
+                "username": "moeliQWQ"
+              },
+              {
+                "end": 130,
+                "start": 119,
+                "username": "cutelingli"
+              },
+              {
+                "end": 152,
+                "start": 137,
+                "username": "chessy80978858"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系天使偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868371538053091328/WDeV3GGD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6206,
+          "following_count": 241,
+          "like_count": 249,
+          "listed_count": 26,
+          "media_count": 516,
+          "tweet_count": 1410
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-10T05:32:51.000Z",
+        "description": "这里是超绝可爱偶像璃喵喵~♡⁠点击媒体看所有推文哦~♡⁠爱好是将粉丝们踩在足底洗脑~♡⁠「榨精魅魔♡⁠拜金偶像♡⁠萝莉小鬼♡⁠绿茶公主♡⁠」xp无下限~人设可谈 经验丰富可长可段~支持长期单♡⁠门牌号：1912443435 欢迎下单~♡⁠不涉三 里世界：@Urarasuk1 单推偶像：@xuemingjiai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 137,
+                "start": 127,
+                "username": "Urarasuk1"
+              },
+              {
+                "end": 155,
+                "start": 143,
+                "username": "xuemingjiai"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/moeliqwq",
+                "end": 23,
+                "expanded_url": "http://t.me/moeliqwq",
+                "start": 0,
+                "url": "https://t.co/MUfid2947d"
+              }
+            ]
+          }
+        },
+        "id": "1546004457322082305",
+        "location": "营业时间：日常晚上六点到凌晨一点 周末全天营业",
+        "name": "璃酱 🖤 さき（欢迎互推喵~超绝赞营业中）",
+        "pinned_tweet_id": "1847115416512184503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868238194208313344/Qc0L1oQt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3687,
+          "following_count": 142,
+          "like_count": 518,
+          "listed_count": 11,
+          "media_count": 177,
+          "tweet_count": 757
+        },
+        "url": "https://t.co/MUfid2947d",
+        "username": "moeliQwQ",
+        "verified": true
+      }
+    ]
+  }
+}

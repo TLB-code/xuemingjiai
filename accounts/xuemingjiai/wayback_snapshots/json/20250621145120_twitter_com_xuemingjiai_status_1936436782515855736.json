@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1936436782515855736",
+    "created_at": "2025-06-21T14:51:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-21T15:51:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936436782515855736"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1131829997335863296",
+          "start": 3,
+          "username": "952909762mao"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co",
+          "end": 139,
+          "start": 126,
+          "url": "https://t.co/"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936436782515855736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935994785925673374",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @952909762mao: 又到周末了，辛苦上班的笨笨们周末能好好休息了吗？努力上班赚钱真了不起，虽然吃得苦中苦并不能成为人上人，但是能把赚来的钱交给好吃懒做混吃等死的本小姐是非常了不起的√所以快来上贡吧~本小姐会收下你们的钱治愈你们的疲惫哦 https://t.co/…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1935993714746204160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt4IBrbWIAAaQeZ.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "1936436782515855736",
+        "created_at": "2025-06-21T14:51:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T15:51:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936436782515855736"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1131829997335863296",
+              "start": 3,
+              "username": "952909762mao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co",
+              "end": 139,
+              "start": 126,
+              "url": "https://t.co/"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936436782515855736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935994785925673374",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @952909762mao: 又到周末了，辛苦上班的笨笨们周末能好好休息了吗？努力上班赚钱真了不起，虽然吃得苦中苦并不能成为人上人，但是能把赚来的钱交给好吃懒做混吃等死的本小姐是非常了不起的√所以快来上贡吧~本小姐会收下你们的钱治愈你们的疲惫哦 https://t.co/…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935993714746204160"
+          ]
+        },
+        "author_id": "1131829997335863296",
+        "conversation_id": "1935994785925673374",
+        "created_at": "2025-06-20T09:35:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T10:35:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935994785925673374"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/N3dmvhdCz0",
+              "end": 131,
+              "expanded_url": "https://x.com/952909762mao/status/1935994785925673374/photo/1",
+              "media_key": "3_1935993714746204160",
+              "start": 108,
+              "url": "https://t.co/N3dmvhdCz0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935994785925673374",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 245,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "又到周末了，辛苦上班的笨笨们周末能好好休息了吗？努力上班赚钱真了不起，虽然吃得苦中苦并不能成为人上人，但是能把赚来的钱交给好吃懒做混吃等死的本小姐是非常了不起的√所以快来上贡吧~本小姐会收下你们的钱治愈你们的疲惫哦 https://t.co/N3dmvhdCz0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n你也会因为窥视我的美貌而心甘情愿沦为钱包被我使用的对吗？\n钱包报名入口：3971546171\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 67,
+                "username": "oricz233"
+              },
+              {
+                "end": 96,
+                "start": 87,
+                "username": "moelipoi"
+              },
+              {
+                "end": 114,
+                "start": 103,
+                "username": "cutelingli"
+              },
+              {
+                "end": 136,
+                "start": 121,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 148,
+                "start": 141,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍驯化公用钱包👛中",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931064828044713984/9qwnduVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7259,
+          "following_count": 310,
+          "like_count": 375,
+          "listed_count": 32,
+          "media_count": 696,
+          "tweet_count": 2117
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-24T07:51:14.000Z",
+        "description": "可爱的黑心小男娘\n在线招收想要吐钱的傻逼贡奴\n🚪门槛费：20 加了好友请主动说明来意 \n门槛不付试图蒙混过关的脑瘫请麻烦死远一点谢谢\n推置顶有二维码 如果看不见希望你们把眼睛捐献给有需要的人呢\n清水良民推主 不搞黄色\nQQ952909762",
+        "id": "1131829997335863296",
+        "name": "古屋敷由良",
+        "pinned_tweet_id": "1771788955731517942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896435593334374400/g9-bSQq1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1714,
+          "following_count": 194,
+          "like_count": 460,
+          "listed_count": 9,
+          "media_count": 255,
+          "tweet_count": 1780
+        },
+        "username": "952909762mao",
+        "verified": false
+      }
+    ]
+  }
+}

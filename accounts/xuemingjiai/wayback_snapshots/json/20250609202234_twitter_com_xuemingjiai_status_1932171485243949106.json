@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1932171485243949106",
+    "created_at": "2025-06-09T20:22:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-09T21:22:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932171485243949106"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "879412678724247553",
+          "start": 3,
+          "username": "Charlotte_Lucif"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932171485243949106",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909978492974035404",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Charlotte_Lucif: 说一下我的营业时间通常是我睡醒到半夜(大部分都是晚上之后)\n内容有P图 各种S向 榨金 贡号 毁号 曝光 30min/40 门槛在个人简介\n大概就这样 然后可以把你仅剩的理智抛弃来我这里犯贱吐钱 当然你想偷偷吐钱我也可以呢\nQQ:340…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1932171485243949106].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1932171485243949106",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1932171485243949106"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 990,
+        "media_key": "3_1909975514900742144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoGYnH9aQAA4sgg.jpg",
+        "width": 700
+      },
+      {
+        "height": 481,
+        "media_key": "3_1909975511302115328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoGYm6jbkAAaXkz.jpg",
+        "width": 420
+      },
+      {
+        "height": 1190,
+        "media_key": "3_1909975511411138560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoGYm69bIAAWCVX.jpg",
+        "width": 1190
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1909975514900742144",
+            "3_1909975511302115328",
+            "3_1909975511411138560"
+          ]
+        },
+        "author_id": "879412678724247553",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1909978492974035404",
+        "created_at": "2025-04-09T14:35:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-09T15:23:43.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909975518411431963",
+          "1909978492974035404"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 156,
+              "start": 153,
+              "tag": "贡奴"
+            },
+            {
+              "end": 160,
+              "start": 157,
+              "tag": "上贡"
+            },
+            {
+              "end": 164,
+              "start": 161,
+              "tag": "压榨"
+            },
+            {
+              "end": 168,
+              "start": 165,
+              "tag": "榨金"
+            },
+            {
+              "end": 172,
+              "start": 169,
+              "tag": "贡号"
+            }
+          ],
+          "urls": [
+            {
+              "description": "台日混血是S 有門檻30 88 199@Charlotte_Lucif 推特 進群 t.me/fallen_luciferOvO",
+              "display_url": "t.me/LuciferOvO",
+              "end": 151,
+              "expanded_url": "http://t.me/LuciferOvO",
+              "images": [
+                {
+                  "height": 320,
+                  "url": "https://pbs.twimg.com/news_img/1930337339861241856/JnXVPApL?format=jpg&name=orig",
+                  "width": 320
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1930337339861241856/JnXVPApL?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 128,
+              "status": 200,
+              "title": "🇹🇼🇯🇵✡️𝓓𝓸𝓷𝓴😈𝓛𝓾𝓬𝓲𝓯𝓮𝓻✡️ (接單中可以看我推特/群組)",
+              "unwound_url": "https://t.me/LuciferOvO",
+              "url": "https://t.co/NERZDVCqMK"
+            },
+            {
+              "display_url": "pic.x.com/lbrJMAi725",
+              "end": 196,
+              "expanded_url": "https://x.com/Charlotte_Lucif/status/1909978492974035404/photo/1",
+              "media_key": "3_1909975514900742144",
+              "start": 173,
+              "url": "https://t.co/lbrJMAi725"
+            },
+            {
+              "display_url": "pic.x.com/lbrJMAi725",
+              "end": 196,
+              "expanded_url": "https://x.com/Charlotte_Lucif/status/1909978492974035404/photo/1",
+              "media_key": "3_1909975511302115328",
+              "start": 173,
+              "url": "https://t.co/lbrJMAi725"
+            },
+            {
+              "display_url": "pic.x.com/lbrJMAi725",
+              "end": 196,
+              "expanded_url": "https://x.com/Charlotte_Lucif/status/1909978492974035404/photo/1",
+              "media_key": "3_1909975511411138560",
+              "start": 173,
+              "url": "https://t.co/lbrJMAi725"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909978492974035404",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 57702,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "说一下我的营业时间通常是我睡醒到半夜(大部分都是晚上之后)\n内容有P图 各种S向 榨金 贡号 毁号 曝光 30min/40 门槛在个人简介\n大概就这样 然后可以把你仅剩的理智抛弃来我这里犯贱吐钱 当然你想偷偷吐钱我也可以呢\nQQ:340902561 TG https://t.co/NERZDVCqMK \n#贡奴 #上贡 #压榨 #榨金 #贡号 https://t.co/lbrJMAi725"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n你也会因为窥视我的美貌而心甘情愿沦为钱包被我使用的对吗？\n钱包报名入口：242184780\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 66,
+                "username": "oricz233"
+              },
+              {
+                "end": 95,
+                "start": 86,
+                "username": "moelipoi"
+              },
+              {
+                "end": 113,
+                "start": 102,
+                "username": "cutelingli"
+              },
+              {
+                "end": 135,
+                "start": 120,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 147,
+                "start": 140,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍驯化公用钱包👛中",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931064828044713984/9qwnduVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7172,
+          "following_count": 305,
+          "like_count": 353,
+          "listed_count": 33,
+          "media_count": 673,
+          "tweet_count": 2009
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-26T18:54:56.000Z",
+        "description": "🇹🇼+🇯🇵|99|中性|双極性障害など|DM⭕|全性愛|無言フォロー|INFP-T|𝓭𝓪𝓼 𝓼𝓮𝓲𝓷 𝔃𝓾𝓶 𝓽𝓸𝓭𝓮|\n門檻30 88 199|Loser DM me 10$|\nENG/한국어/日本語/中文 OK|\nFindom 2DFD $end ↓",
+        "entities": {
+          "description": {
+            "cashtags": [
+              {
+                "end": 125,
+                "start": 121,
+                "tag": "end"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "paypal.me/luciferouo",
+                "end": 23,
+                "expanded_url": "http://paypal.me/luciferouo",
+                "start": 0,
+                "url": "https://t.co/1pGfGeX01H"
+              }
+            ]
+          }
+        },
+        "id": "879412678724247553",
+        "name": "✡️𝓓𝓸𝓷𝓴😈𝓛𝓾𝓬𝓲𝓯𝓮𝓻✡️(ねる/𝓝𝓮𝓻𝓾)",
+        "pinned_tweet_id": "1909978492974035404",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904503172477186048/gOmhXN_7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12928,
+          "following_count": 888,
+          "like_count": 10097,
+          "listed_count": 56,
+          "media_count": 206,
+          "tweet_count": 3736
+        },
+        "url": "https://t.co/1pGfGeX01H",
+        "username": "Charlotte_Lucif",
+        "verified": true
+      }
+    ]
+  }
+}

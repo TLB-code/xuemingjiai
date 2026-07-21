@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1932422682227978256",
+    "created_at": "2025-06-10T13:00:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-10T14:00:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932422682227978256"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 137,
+          "start": 134,
+          "tag": "文援"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1702305176701341696",
+          "start": 3,
+          "username": "xiyan123466"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932422682227978256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922069989164536238",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiyan123466: 下贱的公狗每天除了讨好跪舔主人的玉足～被踩在脚下当贱狗调教～这辈子都是不能见光的傻逼～只能撸着小鸡巴对着主人意淫犯贱～就连想要对着主人射精都需要祈求才能获得🖤被我一脸调笑的踩在脚下～扼住要射精的马眼～想要射精那就让主人看看你的诚意🖤\n#文援 #…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1932422682227978256].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1932422682227978256",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1932422682227978256"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 879,
+        "media_key": "3_1922068630570979328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqyPPGca0AAby7T.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1922068630570979328"
+          ]
+        },
+        "author_id": "1702305176701341696",
+        "conversation_id": "1922069989164536238",
+        "created_at": "2025-05-12T23:22:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T00:22:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1922069989164536238"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 120,
+              "start": 117,
+              "tag": "文援"
+            },
+            {
+              "end": 124,
+              "start": 121,
+              "tag": "调教"
+            },
+            {
+              "end": 128,
+              "start": 125,
+              "tag": "压榨"
+            },
+            {
+              "end": 132,
+              "start": 129,
+              "tag": "胁迫"
+            },
+            {
+              "end": 136,
+              "start": 133,
+              "tag": "绿帽"
+            },
+            {
+              "end": 140,
+              "start": 137,
+              "tag": "绿茶"
+            },
+            {
+              "end": 144,
+              "start": 141,
+              "tag": "媚黑"
+            },
+            {
+              "end": 149,
+              "start": 145,
+              "tag": "BBC"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KYetljCEb9",
+              "end": 173,
+              "expanded_url": "https://x.com/xiyan123466/status/1922069989164536238/photo/1",
+              "media_key": "3_1922068630570979328",
+              "start": 150,
+              "url": "https://t.co/KYetljCEb9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922069989164536238",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 3176,
+          "like_count": 54,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "下贱的公狗每天除了讨好跪舔主人的玉足～被踩在脚下当贱狗调教～这辈子都是不能见光的傻逼～只能撸着小鸡巴对着主人意淫犯贱～就连想要对着主人射精都需要祈求才能获得🖤被我一脸调笑的踩在脚下～扼住要射精的马眼～想要射精那就让主人看看你的诚意🖤\n#文援 #调教 #压榨 #胁迫 #绿帽 #绿茶 #媚黑 #BBC https://t.co/KYetljCEb9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n你也会因为窥视我的美貌而心甘情愿沦为钱包被我使用的对吗？\n钱包报名入口：242184780\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 66,
+                "username": "oricz233"
+              },
+              {
+                "end": 95,
+                "start": 86,
+                "username": "moelipoi"
+              },
+              {
+                "end": 113,
+                "start": 102,
+                "username": "cutelingli"
+              },
+              {
+                "end": 135,
+                "start": 120,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 147,
+                "start": 140,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍驯化公用钱包👛中",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931064828044713984/9qwnduVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7184,
+          "following_count": 304,
+          "like_count": 354,
+          "listed_count": 33,
+          "media_count": 674,
+          "tweet_count": 2017
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-14T12:57:28.000Z",
+        "description": "这里是腹黑傲娇的涩情大小姐～入圈四年多～擅长各种文援和剧情 调教 羞辱 胁迫 绿茶 寸止 剧情 绿帽 媚黑 压榨 胁迫 等等女s玩法都可以♥媚黑只是云玩!现实没接触过哈🖤\n接文字 文图 收奴 闲聊 树洞欢迎加QQ咨询下单\n基本上全天都在加Q都会秒回复的♥\n下单 私信 一下",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xixiyan123456",
+                "end": 23,
+                "expanded_url": "http://t.me/xixiyan123456",
+                "start": 0,
+                "url": "https://t.co/DNJLMhF9XQ"
+              }
+            ]
+          }
+        },
+        "id": "1702305176701341696",
+        "location": "想tg玩的  记得先加QQ找我",
+        "name": "夕颜香香",
+        "pinned_tweet_id": "1875472376638665051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917955734232571904/gDn0kvCo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7959,
+          "following_count": 128,
+          "like_count": 481,
+          "listed_count": 38,
+          "media_count": 475,
+          "tweet_count": 5758
+        },
+        "url": "https://t.co/DNJLMhF9XQ",
+        "username": "xiyan123466",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1853196418720371158",
+    "created_at": "2024-11-03T22:03:51.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-03T23:03:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1853196418720371158"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1852926328963522560",
+          "start": 3,
+          "username": "oricz233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1853196418720371158",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1853194086540509649",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oricz233: 我真的觉得自己很有趣很可爱，你们都应该来看看!!\n讲道理除了我还有谁会把所有的心思都放在推特的图文上啊，这种费劲不讨好的行为在文援圈出现只能说用爱发电啦。\n性癖是性癖，我觉得推文就是用来发泄欲望的，肯定怎么爽怎么来了，但也不要因为我的推文看起来黑心残…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1853196418720371158].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1853196418720371158",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1853196418720371158"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1853194083667480576"
+          ]
+        },
+        "author_id": "1852926328963522560",
+        "conversation_id": "1853194086540509649",
+        "created_at": "2024-11-03T21:54:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-03T22:54:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1853194086540509649"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j87HsXXE39",
+              "end": 166,
+              "expanded_url": "https://x.com/oricz233/status/1853194086540509649/photo/1",
+              "media_key": "3_1853194083667480576",
+              "start": 143,
+              "url": "https://t.co/j87HsXXE39"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853194086540509649",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我真的觉得自己很有趣很可爱，你们都应该来看看!!\n讲道理除了我还有谁会把所有的心思都放在推特的图文上啊，这种费劲不讨好的行为在文援圈出现只能说用爱发电啦。\n性癖是性癖，我觉得推文就是用来发泄欲望的，肯定怎么爽怎么来了，但也不要因为我的推文看起来黑心残虐了一点就觉得我很凶吧！天理难容喵 https://t.co/j87HsXXE39"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "超绝可爱💖\n她就是出道即巅峰的可爱纯真小天使新人偶像魔女小姐💖\n对这样的魔女小姐不能心怀任何涩涩的念想哦，不然就会变得非常糟糕...踏入无法挣脱的陷阱和牢笼里呢💘\n魔女小姐无论说什么做什么都是正确的哦，身为她的粉丝，只需要无条件用各种方式支持她就好了～\nqq2829556413",
+        "id": "1374389254726455305",
+        "name": "电波系新人偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852908791496683520/hJ-EmF1L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5772,
+          "following_count": 224,
+          "like_count": 182,
+          "listed_count": 23,
+          "tweet_count": 1276
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-03T04:10:46.000Z",
+        "description": "嗯 如你所见这就是魔女小姐@xuemingjiai 的树洞发泄用小号哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 13,
+                "username": "xuemingjiai"
+              }
+            ]
+          }
+        },
+        "id": "1852926328963522560",
+        "name": "魔女小姐（碎碎念发泄用小号）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852927586944557056/y5IpRR0a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 1,
+          "like_count": 0,
+          "listed_count": 0,
+          "tweet_count": 5
+        },
+        "username": "oricz233",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1931663603654184960"
+      ],
+      "media_source_tweet_id": [
+        "1931663648138895869"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "1931771568201547846",
+    "created_at": "2025-06-08T17:53:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-08T18:53:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931771568201547846"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1240949973056811009",
+          "start": 3,
+          "username": "Idol_Taoxin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/c1ylrz7NXR",
+          "end": 111,
+          "expanded_url": "https://x.com/Idol_Taoxin/status/1931663648138895869/video/1",
+          "media_key": "7_1931663603654184960",
+          "start": 88,
+          "url": "https://t.co/c1ylrz7NXR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931771568201547846",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931663648138895869",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @Idol_Taoxin: 明明只是一只供主人提款取乐的贱畜公狗🖤还妄想着让主人对你上心记住你么？你对主人唯一的作用就是~闲下来无趣的时候把你当做提款机一样榨取余额🖤… https://t.co/c1ylrz7NXR"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1931771568201547846].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1931771568201547846",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1931771568201547846"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9600,
+        "height": 800,
+        "media_key": "7_1931663603654184960",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1931663603654184960/pu/img/0NneBquTi2GXkTQ_.jpg",
+        "public_metrics": {
+          "view_count": 709
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1931663603654184960/pu/vid/avc1/320x320/Qby5pVoWGCZxfkyl.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1931663603654184960/pu/vid/avc1/540x540/q9zJW8sDc4BjcnNe.mp4?tag=12"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1931663603654184960/pu/vid/avc1/720x720/vou1-cXskruvMkHs.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1931663603654184960/pu/pl/EY0IPsmSKGUdKROj.m3u8?tag=12"
+          }
+        ],
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1931663603654184960"
+          ]
+        },
+        "author_id": "1240949973056811009",
+        "conversation_id": "1931663648138895869",
+        "created_at": "2025-06-08T10:44:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T11:44:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931663648138895869"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c1ylrz7NXR",
+              "end": 93,
+              "expanded_url": "https://x.com/Idol_Taoxin/status/1931663648138895869/video/1",
+              "media_key": "7_1931663603654184960",
+              "start": 70,
+              "url": "https://t.co/c1ylrz7NXR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931663648138895869",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 154,
+                "start": 149,
+                "tag": "黑心压榨"
+              },
+              {
+                "end": 159,
+                "start": 155,
+                "tag": "提款机"
+              },
+              {
+                "end": 163,
+                "start": 160,
+                "tag": "羞辱"
+              },
+              {
+                "end": 167,
+                "start": 164,
+                "tag": "贡奴"
+              },
+              {
+                "end": 171,
+                "start": 168,
+                "tag": "吐金"
+              },
+              {
+                "end": 177,
+                "start": 172,
+                "tag": "ATM奴"
+              }
+            ]
+          },
+          "text": "明明只是一只供主人提款取乐的贱畜公狗🖤还妄想着让主人对你上心记住你么？你对主人唯一的作用就是~闲下来无趣的时候把你当做提款机一样榨取余额🖤\n当然，说是提款机其实也不对，银行里的提款机还要先存款才能提款~而你这只无脑甩屌贡畜ATM完全不需要存款就能一个劲的吐钱🖤而主人唯一需要做的就是张张嘴说🖤吐🖤\n#黑心压榨 #提款机 #羞辱 #贡奴 #吐金 #ATM奴"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 2326,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "reply_settings": "following",
+        "text": "明明只是一只供主人提款取乐的贱畜公狗🖤还妄想着让主人对你上心记住你么？你对主人唯一的作用就是~闲下来无趣的时候把你当做提款机一样榨取余额🖤 https://t.co/c1ylrz7NXR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n你也会因为窥视我的美貌而心甘情愿沦为钱包被我使用的对吗？\n钱包报名入口：242184780\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 66,
+                "username": "oricz233"
+              },
+              {
+                "end": 95,
+                "start": 86,
+                "username": "moelipoi"
+              },
+              {
+                "end": 113,
+                "start": 102,
+                "username": "cutelingli"
+              },
+              {
+                "end": 135,
+                "start": 120,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 147,
+                "start": 140,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍瞄准钱包👛中",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931064828044713984/9qwnduVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7155,
+          "following_count": 297,
+          "like_count": 343,
+          "listed_count": 33,
+          "media_count": 660,
+          "tweet_count": 1961
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-20T10:35:14.000Z",
+        "description": "这里是贱狗最爱的世界第一全能百变偶像桃心💜你想要的一切这里都有哦❤️白痴们准备好把你们的💰全都上贡给你们深爱着的偶像了么🖤主营PUA上贡🏧反差绿帽🖤吸号贡号💚不涉三，🚪52，无脑贡狗翻十倍🖤不够傻逼的别来🖤门牌2650209312 tg：https://t.co/t46nKtajlw 互推先互关，谢谢",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Idol_taoxin",
+                "end": 142,
+                "expanded_url": "http://t.me/Idol_taoxin",
+                "start": 119,
+                "url": "https://t.co/t46nKtajlw"
+              }
+            ]
+          }
+        },
+        "id": "1240949973056811009",
+        "name": "拜金偶像🖤桃心💜（互推私）",
+        "pinned_tweet_id": "1885975097233572173",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880060079937884160/-6fiC4Iw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14412,
+          "following_count": 331,
+          "like_count": 9040,
+          "listed_count": 76,
+          "media_count": 491,
+          "tweet_count": 5028
+        },
+        "username": "Idol_Taoxin",
+        "verified": true
+      }
+    ]
+  }
+}

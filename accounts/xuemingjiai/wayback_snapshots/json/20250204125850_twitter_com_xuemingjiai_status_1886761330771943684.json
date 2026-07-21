@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1886761330771943684",
+    "created_at": "2025-02-04T12:58:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-04T13:58:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886761330771943684"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 24,
+          "start": 17,
+          "tag": "里山茶的日常"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1316096588381515781",
+          "start": 3,
+          "username": "nianshancha"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886761330771943684",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886456084308922798",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nianshancha: #里山茶的日常\n \n给大家介绍一下\n这是一只～\n从“浅尝”开始 便被小山茶「推入深渊」\n\n又“相信”自己的「自控力」\n来和山茶玩【翻倍游戏】\n\n最终达成【无可救药】的▇▇🖤\n\n不过安心啦～\n山茶小姐不会抛弃你的哦\n毕竟 【交出一切】\n才是「恋爱…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1886761330771943684].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1886761330771943684",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1886761330771943684"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886456075513421826",
+            "3_1886456075509227520",
+            "3_1886456075521810434"
+          ]
+        },
+        "author_id": "1316096588381515781",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1886456084308922798",
+        "created_at": "2025-02-03T16:45:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T17:45:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886456084308922798"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "里山茶的日常"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2LH78jy54B",
+              "end": 178,
+              "expanded_url": "https://x.com/nianshancha/status/1886456084308922798/photo/1",
+              "media_key": "3_1886456075513421826",
+              "start": 155,
+              "url": "https://t.co/2LH78jy54B"
+            },
+            {
+              "display_url": "pic.x.com/2LH78jy54B",
+              "end": 178,
+              "expanded_url": "https://x.com/nianshancha/status/1886456084308922798/photo/1",
+              "media_key": "3_1886456075509227520",
+              "start": 155,
+              "url": "https://t.co/2LH78jy54B"
+            },
+            {
+              "display_url": "pic.x.com/2LH78jy54B",
+              "end": 178,
+              "expanded_url": "https://x.com/nianshancha/status/1886456084308922798/photo/1",
+              "media_key": "3_1886456075521810434",
+              "start": 155,
+              "url": "https://t.co/2LH78jy54B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886456084308922798",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1032,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "#里山茶的日常\n \n给大家介绍一下\n这是一只～\n从“浅尝”开始 便被小山茶「推入深渊」\n\n又“相信”自己的「自控力」\n来和山茶玩【翻倍游戏】\n\n最终达成【无可救药】的▇▇🖤\n\n不过安心啦～\n山茶小姐不会抛弃你的哦\n毕竟 【交出一切】\n才是「恋爱」的开始🎵\n\n所以啊～\n来「死一次」吧\n为了 最爱的山茶主人❤️ https://t.co/2LH78jy54B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "您好～这里是出道以来一直致力于为小雏男哥哥们提供“舒适”“安全”“极致快感”的纯真妹系小天使魔女妹妹💚\n想了解我请翻看我的推文～\nqq2829556413，碎碎念小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 83,
+                "username": "oricz233"
+              },
+              {
+                "end": 112,
+                "start": 103,
+                "username": "moelipoi"
+              },
+              {
+                "end": 130,
+                "start": 119,
+                "username": "cutelingli"
+              },
+              {
+                "end": 152,
+                "start": 137,
+                "username": "chessy80978858"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系天使偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884590550818701312/2kXuiPB8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6406,
+          "following_count": 251,
+          "like_count": 290,
+          "listed_count": 29,
+          "media_count": 538,
+          "tweet_count": 1504
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-13T19:20:59.000Z",
+        "description": "这里是山茶哦～知道嘛知道嘛 山茶的花语是“理想的爱♡”哦 渴望名为“喜欢”的药的话就来向咱示爱 随后溺死在咱的甜言中吧～ 门槛20/30/60 没有区别的…也许？ 🚪3396356798  敲门前请先看置顶了解我哦❤️",
+        "id": "1316096588381515781",
+        "location": "映你眼眸的深处",
+        "name": "小山茶",
+        "pinned_tweet_id": "1867920156279890406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865023421559771136/Nk7qzNwn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1197,
+          "following_count": 11,
+          "like_count": 2,
+          "listed_count": 5,
+          "media_count": 21,
+          "tweet_count": 26
+        },
+        "username": "nianshancha",
+        "verified": false
+      }
+    ]
+  }
+}

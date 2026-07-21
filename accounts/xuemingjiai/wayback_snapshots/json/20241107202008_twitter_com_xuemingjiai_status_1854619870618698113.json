@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1854619870618698113",
+    "created_at": "2024-11-07T20:20:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-07T21:20:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1854619870618698113"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1852926328963522560",
+          "start": 3,
+          "username": "oricz233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1854619870618698113",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1854619515310756344",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oricz233: 魔物塔明天不出意外也是一次大更新，更新完以后开始2-3天一更吧，也更更别的推文，晚安～\n等等w，我没说你可以去睡觉吧？\n首先，看见白丝连裤袜裆部和白丝小脚就条件反射勃起的杂鱼先点赞，然后，从现在开始，在你下一次有困意要睡觉的时候来看这个推文，盯着涩图…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1854619870618698113].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1854619870618698113",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1854619870618698113"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1854619512529993729"
+          ]
+        },
+        "author_id": "1852926328963522560",
+        "conversation_id": "1854619515310756344",
+        "created_at": "2024-11-07T20:18:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-07T21:18:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1854619515310756344"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GTpQlpUNRT",
+              "end": 167,
+              "expanded_url": "https://x.com/oricz233/status/1854619515310756344/photo/1",
+              "media_key": "3_1854619512529993729",
+              "start": 144,
+              "url": "https://t.co/GTpQlpUNRT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854619515310756344",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "魔物塔明天不出意外也是一次大更新，更新完以后开始2-3天一更吧，也更更别的推文，晚安～\n等等w，我没说你可以去睡觉吧？\n首先，看见白丝连裤袜裆部和白丝小脚就条件反射勃起的杂鱼先点赞，然后，从现在开始，在你下一次有困意要睡觉的时候来看这个推文，盯着涩图，强制剥夺睡眠一个小时，延迟睡眠吧。 https://t.co/GTpQlpUNRT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "超绝可爱💖\n她就是出道即巅峰的可爱纯真小天使新人偶像魔女小姐💖\n对这样的魔女小姐不能心怀任何涩涩的念想哦，不然就会变得非常糟糕...踏入无法挣脱的陷阱和牢笼里呢💘\n魔女小姐无论说什么做什么都是正确的哦，身为她的粉丝，只需要无条件用各种方式支持她就好了～\nqq2829556413，碎碎念小号@oricz233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 154,
+                "start": 145,
+                "username": "oricz233"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "name": "电波系新人偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854618482215911424/R3TTJuCj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5824,
+          "following_count": 224,
+          "like_count": 185,
+          "listed_count": 24,
+          "tweet_count": 1302
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-03T04:10:46.000Z",
+        "description": "嗯 如你所见这就是魔女小姐@xuemingjiai 的树洞发泄用小号哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 13,
+                "username": "xuemingjiai"
+              }
+            ]
+          }
+        },
+        "id": "1852926328963522560",
+        "name": "魔女小姐（碎碎念发泄用小号）",
+        "pinned_tweet_id": "1853194086540509649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852927586944557056/y5IpRR0a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 1,
+          "like_count": 0,
+          "listed_count": 0,
+          "tweet_count": 17
+        },
+        "username": "oricz233",
+        "verified": false
+      }
+    ]
+  }
+}

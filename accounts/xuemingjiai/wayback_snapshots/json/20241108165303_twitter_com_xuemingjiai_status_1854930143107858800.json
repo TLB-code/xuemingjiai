@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1854930143107858800",
+    "created_at": "2024-11-08T16:53:03.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-08T17:53:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1854930143107858800"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1409902807965122565",
+          "start": 3,
+          "username": "qinli2333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1854930143107858800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 45
+    },
+    "referenced_tweets": [
+      {
+        "id": "1852401530277659012",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qinli2333: 别装啦师兄～哪有陪练只会输的啊❤️我早就发现喽～你不躲我就算了～❤️这根一踢就会变硬的小鸡巴是怎么回事吖～🖤看这根狗屌好像很喜欢被人家用酸汗臭脚欺负呢～❤️抖m师兄不会也很舒服吧～噗❤️不如当我的脚奴如何～我会用脚底❤️好好满足～师兄不能做爱的废屌…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1854930143107858800].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1854930143107858800",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1854930143107858800"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1852401526746062848"
+          ]
+        },
+        "author_id": "1409902807965122565",
+        "conversation_id": "1852401530277659012",
+        "created_at": "2024-11-01T17:25:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-01T18:25:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1852401530277659012"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 135,
+              "start": 132,
+              "tag": "文援"
+            },
+            {
+              "end": 139,
+              "start": 136,
+              "tag": "羞辱"
+            },
+            {
+              "end": 143,
+              "start": 140,
+              "tag": "榨精"
+            },
+            {
+              "end": 147,
+              "start": 144,
+              "tag": "文媛"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TviwaxxWlZ",
+              "end": 171,
+              "expanded_url": "https://x.com/qinli2333/status/1852401530277659012/photo/1",
+              "media_key": "3_1852401526746062848",
+              "start": 148,
+              "url": "https://t.co/TviwaxxWlZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852401530277659012",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 12598,
+          "like_count": 232,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 45
+        },
+        "reply_settings": "everyone",
+        "text": "别装啦师兄～哪有陪练只会输的啊❤️我早就发现喽～你不躲我就算了～❤️这根一踢就会变硬的小鸡巴是怎么回事吖～🖤看这根狗屌好像很喜欢被人家用酸汗臭脚欺负呢～❤️抖m师兄不会也很舒服吧～噗❤️不如当我的脚奴如何～我会用脚底❤️好好满足～师兄不能做爱的废屌哦🖤傻狗师兄🖤\n#文援 #羞辱 #榨精 #文媛 https://t.co/TviwaxxWlZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "超绝可爱💖\n她就是出道即巅峰的可爱纯真小天使新人偶像魔女小姐💖\n对这样的魔女小姐不能心怀任何涩涩的念想哦，不然就会变得非常糟糕...踏入无法挣脱的陷阱和牢笼里呢💘\n魔女小姐无论说什么做什么都是正确的哦，身为她的粉丝，只需要无条件用各种方式支持她就好了～\nqq2829556413，碎碎念小号@oricz233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 154,
+                "start": 145,
+                "username": "oricz233"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "name": "电波系新人偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854618482215911424/R3TTJuCj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5840,
+          "following_count": 224,
+          "like_count": 184,
+          "listed_count": 24,
+          "tweet_count": 1315
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-29T15:53:29.000Z",
+        "description": "这里是文媛姬祁里～一个拥有灵魂的人偶，欢迎大家找咱来玩，唉嘿☆～门牌:2548742177，价格是40r/0.5h  75r/1h祁里欢迎私信聊天哦～对啦，咱是不涉三的谢谢理解♡ \n妹妹@Sakura9OwO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 93,
+                "username": "Sakura9OwO"
+              }
+            ]
+          }
+        },
+        "id": "1409902807965122565",
+        "name": "祁☆里（困～）",
+        "pinned_tweet_id": "1852401530277659012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558068077488926720/Xp3IrbCM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9262,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 44,
+          "tweet_count": 3151
+        },
+        "username": "qinli2333",
+        "verified": false
+      }
+    ]
+  }
+}

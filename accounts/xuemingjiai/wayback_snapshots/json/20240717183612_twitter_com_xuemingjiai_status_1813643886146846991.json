@@ -1,0 +1,167 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1813643886146846991",
+    "created_at": "2024-07-17T18:36:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-17T19:36:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1813643886146846991"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1384086028353372166",
+          "start": 3,
+          "username": "Flymeronn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1813643886146846991",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1813517068857414137",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Flymeronn: 门牌在个人资料（定期更新）~有一点小门槛~根据喜爱程度来过❤\n加时有点耐心憋住~让无形的锁囚禁管理你的废物猪鞭💚\n直到主人回复前都不可以漏出一点劣质猪精（对着推文无限寸止）这是命令呢白痴🖤\n通过时的问题，我知道你很急握着猪鞭，但腾出一只手扣几个字吧…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1813643886146846991].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1813643886146846991",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1813643886146846991"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1813513797451272192",
+            "3_1813513797514240000"
+          ]
+        },
+        "author_id": "1384086028353372166",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1813517068857414137",
+        "created_at": "2024-07-17T10:12:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-17T11:12:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1813517068857414137"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/iPPl1kxiAy",
+              "end": 167,
+              "expanded_url": "https://twitter.com/Flymeronn/status/1813517068857414137/photo/1",
+              "media_key": "3_1813513797451272192",
+              "start": 144,
+              "url": "https://t.co/iPPl1kxiAy"
+            },
+            {
+              "display_url": "pic.twitter.com/iPPl1kxiAy",
+              "end": 167,
+              "expanded_url": "https://twitter.com/Flymeronn/status/1813517068857414137/photo/1",
+              "media_key": "3_1813513797514240000",
+              "start": 144,
+              "url": "https://t.co/iPPl1kxiAy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1813517068857414137",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1573,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "门牌在个人资料（定期更新）~有一点小门槛~根据喜爱程度来过❤\n加时有点耐心憋住~让无形的锁囚禁管理你的废物猪鞭💚\n直到主人回复前都不可以漏出一点劣质猪精（对着推文无限寸止）这是命令呢白痴🖤\n通过时的问题，我知道你很急握着猪鞭，但腾出一只手扣几个字吧？\n现在去点开下方了解可露大人更多方面 https://t.co/iPPl1kxiAy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "超绝可爱💖\n她就是出道即巅峰的可爱纯真小天使新人偶像魔女小姐💖\n任何人都会被她散发出的魅力所捕获，对这样的魔女小姐不能心怀任何涩涩的念想哦，不然就会变得非常糟糕...踏入无法挣脱的陷阱和牢笼里呢💘\n魔女小姐无论说什么做什么都是正确的哦，身为她的粉丝，只需要无条件用各种方式支持她就好了～\nqq2829556413",
+        "id": "1374389254726455305",
+        "name": "电波系新人偶像💖魔女小姐参上（复活版）",
+        "pinned_tweet_id": "1804570562511126828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811861833260675072/2j4B4ED0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4998,
+          "following_count": 167,
+          "like_count": 147,
+          "listed_count": 22,
+          "tweet_count": 1003
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-19T10:06:48.000Z",
+        "description": "善于玩弄人心精通所有人设风格的黑心恶魔♡各方面经验MAX～常驻♡茶味公主💚拜金绿婊❤️黑心主人🖤压榨女王🖤几个形态之间多变切换♡比较注重长期关系养成2785755513门槛按对于我的喜欢程度给♡喜欢就来单推（先加门牌Q）电报接单，中午1点一凌晨1点，成为我的专属财布家畜后会解锁评论",
+        "id": "1384086028353372166",
+        "location": "初见半新小恶魔",
+        "name": "可露",
+        "pinned_tweet_id": "1775420181361426852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778099234224721920/U_sVYOdd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10849,
+          "following_count": 86,
+          "like_count": 7679,
+          "listed_count": 66,
+          "tweet_count": 4990
+        },
+        "username": "Flymeronn",
+        "verified": false
+      }
+    ]
+  }
+}

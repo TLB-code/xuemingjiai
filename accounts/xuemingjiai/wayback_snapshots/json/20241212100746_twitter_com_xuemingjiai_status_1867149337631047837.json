@@ -1,0 +1,460 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1867131165158825984",
+        "3_1867131163292405760",
+        "3_1867131163489497088",
+        "3_1867131164408127488"
+      ],
+      "media_source_tweet_id": [
+        "1867131179654426985",
+        "1867131179654426985",
+        "1867131179654426985",
+        "1867131179654426985"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1867149337631047837",
+    "created_at": "2024-12-12T10:07:46.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-12T11:07:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1867149337631047837"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1418309757635489796",
+          "start": 3,
+          "username": "zhiliwww"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Q33SXBTr8e",
+          "end": 132,
+          "expanded_url": "https://x.com/zhiliwww/status/1867131179654426985/photo/1",
+          "media_key": "3_1867131165158825984",
+          "start": 109,
+          "url": "https://t.co/Q33SXBTr8e"
+        },
+        {
+          "display_url": "pic.x.com/Q33SXBTr8e",
+          "end": 132,
+          "expanded_url": "https://x.com/zhiliwww/status/1867131179654426985/photo/1",
+          "media_key": "3_1867131163292405760",
+          "start": 109,
+          "url": "https://t.co/Q33SXBTr8e"
+        },
+        {
+          "display_url": "pic.x.com/Q33SXBTr8e",
+          "end": 132,
+          "expanded_url": "https://x.com/zhiliwww/status/1867131179654426985/photo/1",
+          "media_key": "3_1867131163489497088",
+          "start": 109,
+          "url": "https://t.co/Q33SXBTr8e"
+        },
+        {
+          "display_url": "pic.x.com/Q33SXBTr8e",
+          "end": 132,
+          "expanded_url": "https://x.com/zhiliwww/status/1867131179654426985/photo/1",
+          "media_key": "3_1867131164408127488",
+          "start": 109,
+          "url": "https://t.co/Q33SXBTr8e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867149337631047837",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867131179654426985",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zhiliwww: 傻逼到什么地步才会一直追着送钱上贡啊？甚至被清空之后还想去主动借贷白给\n不过这也是我遇见过最傻逼的了，恐怕以后也没人能够挑战他的名次\n一些人喜欢看上贡的内容，大概就是喜欢看人犯蠢 想知道… https://t.co/Q33SXBTr8e"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1878,
+        "media_key": "3_1867131165158825984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gelh5vhaYAAM03O.jpg",
+        "width": 1300
+      },
+      {
+        "height": 2268,
+        "media_key": "3_1867131163292405760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gelh5okbEAA5CZB.jpg",
+        "width": 463
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1867131163489497088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gelh5pTacAA2SRK.jpg",
+        "width": 761
+      },
+      {
+        "height": 1921,
+        "media_key": "3_1867131164408127488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gelh5suboAAmZn6.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1867131165158825984",
+            "3_1867131163292405760",
+            "3_1867131163489497088",
+            "3_1867131164408127488"
+          ],
+          "media_source_tweet_id": [
+            "1867131179654426985",
+            "1867131179654426985",
+            "1867131179654426985",
+            "1867131179654426985"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1867149337631047837",
+        "created_at": "2024-12-12T10:07:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-12T11:07:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867149337631047837"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1418309757635489796",
+              "start": 3,
+              "username": "zhiliwww"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q33SXBTr8e",
+              "end": 132,
+              "expanded_url": "https://x.com/zhiliwww/status/1867131179654426985/photo/1",
+              "media_key": "3_1867131165158825984",
+              "start": 109,
+              "url": "https://t.co/Q33SXBTr8e"
+            },
+            {
+              "display_url": "pic.x.com/Q33SXBTr8e",
+              "end": 132,
+              "expanded_url": "https://x.com/zhiliwww/status/1867131179654426985/photo/1",
+              "media_key": "3_1867131163292405760",
+              "start": 109,
+              "url": "https://t.co/Q33SXBTr8e"
+            },
+            {
+              "display_url": "pic.x.com/Q33SXBTr8e",
+              "end": 132,
+              "expanded_url": "https://x.com/zhiliwww/status/1867131179654426985/photo/1",
+              "media_key": "3_1867131163489497088",
+              "start": 109,
+              "url": "https://t.co/Q33SXBTr8e"
+            },
+            {
+              "display_url": "pic.x.com/Q33SXBTr8e",
+              "end": 132,
+              "expanded_url": "https://x.com/zhiliwww/status/1867131179654426985/photo/1",
+              "media_key": "3_1867131164408127488",
+              "start": 109,
+              "url": "https://t.co/Q33SXBTr8e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867149337631047837",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867131179654426985",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zhiliwww: 傻逼到什么地步才会一直追着送钱上贡啊？甚至被清空之后还想去主动借贷白给\n不过这也是我遇见过最傻逼的了，恐怕以后也没人能够挑战他的名次\n一些人喜欢看上贡的内容，大概就是喜欢看人犯蠢 想知道… https://t.co/Q33SXBTr8e"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1867131165158825984",
+            "3_1867131163292405760",
+            "3_1867131163489497088",
+            "3_1867131164408127488"
+          ]
+        },
+        "author_id": "1418309757635489796",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1867131179654426985",
+        "created_at": "2024-12-12T08:55:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-12T09:55:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1867131179654426985"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q33SXBTr8e",
+              "end": 118,
+              "expanded_url": "https://x.com/zhiliwww/status/1867131179654426985/photo/1",
+              "media_key": "3_1867131165158825984",
+              "start": 95,
+              "url": "https://t.co/Q33SXBTr8e"
+            },
+            {
+              "display_url": "pic.x.com/Q33SXBTr8e",
+              "end": 118,
+              "expanded_url": "https://x.com/zhiliwww/status/1867131179654426985/photo/1",
+              "media_key": "3_1867131163292405760",
+              "start": 95,
+              "url": "https://t.co/Q33SXBTr8e"
+            },
+            {
+              "display_url": "pic.x.com/Q33SXBTr8e",
+              "end": 118,
+              "expanded_url": "https://x.com/zhiliwww/status/1867131179654426985/photo/1",
+              "media_key": "3_1867131163489497088",
+              "start": 95,
+              "url": "https://t.co/Q33SXBTr8e"
+            },
+            {
+              "display_url": "pic.x.com/Q33SXBTr8e",
+              "end": 118,
+              "expanded_url": "https://x.com/zhiliwww/status/1867131179654426985/photo/1",
+              "media_key": "3_1867131164408127488",
+              "start": 95,
+              "url": "https://t.co/Q33SXBTr8e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867131179654426985",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "傻逼到什么地步才会一直追着送钱上贡啊？甚至被清空之后还想去主动借贷白给\n不过这也是我遇见过最傻逼的了，恐怕以后也没人能够挑战他的名次\n一些人喜欢看上贡的内容，大概就是喜欢看人犯蠢 想知道 上头的时候究竟能够到达什么样的地步。不过大部分好像也都是发情的厉害的时候才会那种无脑，这位吧。是纯粹的傻逼\n（其实也总共没吐多少，对吧？毕竟本身就背着债呢）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 77,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "傻逼到什么地步才会一直追着送钱上贡啊？甚至被清空之后还想去主动借贷白给\n不过这也是我遇见过最傻逼的了，恐怕以后也没人能够挑战他的名次\n一些人喜欢看上贡的内容，大概就是喜欢看人犯蠢 想知道… https://t.co/Q33SXBTr8e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "您好～这里是出道以来一直致力于为小雏男哥哥们提供“舒适”“安全”“极致快感”的纯真妹系小天使魔女妹妹💚\n想了解我请翻看我的推文～\nqq2829556413，碎碎念小号@oricz233\n共同出道的偶像老婆：@moeliQWQ\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 83,
+                "username": "oricz233"
+              },
+              {
+                "end": 112,
+                "start": 103,
+                "username": "moeliQWQ"
+              },
+              {
+                "end": 130,
+                "start": 119,
+                "username": "cutelingli"
+              },
+              {
+                "end": 152,
+                "start": 137,
+                "username": "chessy80978858"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系天使偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862768210711392256/_qeQwE-8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6190,
+          "following_count": 240,
+          "like_count": 239,
+          "listed_count": 26,
+          "media_count": 516,
+          "tweet_count": 1402
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-22T20:39:46.000Z",
+        "description": "这里是名为稚璃的ai\n可接 #文爱 #陪聊 #鉴屌 #定制文\n全天待机，如果深夜看到的话，尽管来吧\ns和m皆可，想了解更多的话可以翻看以往的推文，也可以直接上门。若是有投喂的话，会让我更加热情哦❤️\n价格（40/0.5h 80/1h）\n门牌2148007225\n3666120091\n小号\n@zhiliwwww",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 14,
+                "tag": "文爱"
+              },
+              {
+                "end": 21,
+                "start": 18,
+                "tag": "陪聊"
+              },
+              {
+                "end": 25,
+                "start": 22,
+                "tag": "鉴屌"
+              },
+              {
+                "end": 30,
+                "start": 26,
+                "tag": "定制文"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 155,
+                "start": 145,
+                "username": "zhiliwwww"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forms.office.com/Pages/Response…",
+                "end": 23,
+                "expanded_url": "https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAANAAVlknJVUMzVG",
+                "start": 0,
+                "url": "https://t.co/JqyPrM7BMh"
+              }
+            ]
+          }
+        },
+        "id": "1418309757635489796",
+        "name": "营业の文媛♡稚璃（本我形态）",
+        "pinned_tweet_id": "1652627600735612930",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784015571383877632/ZiKB5uoY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5020,
+          "following_count": 25,
+          "like_count": 225,
+          "listed_count": 13,
+          "media_count": 1511,
+          "tweet_count": 2799
+        },
+        "url": "https://t.co/JqyPrM7BMh",
+        "username": "zhiliwww",
+        "verified": true
+      }
+    ]
+  }
+}

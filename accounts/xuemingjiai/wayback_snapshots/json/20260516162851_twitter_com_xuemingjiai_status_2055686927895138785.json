@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "2055686927895138785",
+    "created_at": "2026-05-16T16:28:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T17:28:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055686927895138785"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1374389254726455305",
+          "start": 3,
+          "username": "xuemingjiai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055686927895138785",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 42
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044605810580525391",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xuemingjiai: 相信大家已经看见本公主发过很多自己做的网游推文啦，从最开始的小小游戏已经变得丰富多了!\n还在不停的更新\n在2.0大版本更新开启的前夕，为了让更多人能加入玩耍，只要转发点赞评论就会随机抽取幸运宝宝发送私信～\n同时只要找奏奏妈咪下过单，买过记录，截…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2055686927895138785].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2055686927895138785",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2055686927895138785"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2656,
+        "media_key": "3_2044604266606952448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF_kv2lbAAAqKNi.jpg",
+        "width": 1220
+      },
+      {
+        "height": 2656,
+        "media_key": "3_2044604361280823296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF_k1XRboAAEAZT.jpg",
+        "width": 1220
+      },
+      {
+        "height": 2656,
+        "media_key": "3_2044604380524269568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF_k2e9bUAAzS1S.jpg",
+        "width": 1220
+      },
+      {
+        "height": 2656,
+        "media_key": "3_2044604395019800576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF_k3U9bkAAB8SG.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044604266606952448",
+            "3_2044604361280823296",
+            "3_2044604380524269568",
+            "3_2044604395019800576"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "2044605810580525391",
+        "created_at": "2026-04-16T02:36:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T03:36:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044605810580525391"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0qGIvPhvep",
+              "end": 168,
+              "expanded_url": "https://x.com/xuemingjiai/status/2044605810580525391/photo/1",
+              "media_key": "3_2044604266606952448",
+              "start": 145,
+              "url": "https://t.co/0qGIvPhvep"
+            },
+            {
+              "display_url": "pic.x.com/0qGIvPhvep",
+              "end": 168,
+              "expanded_url": "https://x.com/xuemingjiai/status/2044605810580525391/photo/1",
+              "media_key": "3_2044604361280823296",
+              "start": 145,
+              "url": "https://t.co/0qGIvPhvep"
+            },
+            {
+              "display_url": "pic.x.com/0qGIvPhvep",
+              "end": 168,
+              "expanded_url": "https://x.com/xuemingjiai/status/2044605810580525391/photo/1",
+              "media_key": "3_2044604380524269568",
+              "start": 145,
+              "url": "https://t.co/0qGIvPhvep"
+            },
+            {
+              "display_url": "pic.x.com/0qGIvPhvep",
+              "end": 168,
+              "expanded_url": "https://x.com/xuemingjiai/status/2044605810580525391/photo/1",
+              "media_key": "3_2044604395019800576",
+              "start": 145,
+              "url": "https://t.co/0qGIvPhvep"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044605810580525391",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 29233,
+          "like_count": 139,
+          "quote_count": 0,
+          "reply_count": 39,
+          "retweet_count": 42
+        },
+        "reply_settings": "everyone",
+        "text": "相信大家已经看见本公主发过很多自己做的网游推文啦，从最开始的小小游戏已经变得丰富多了!\n还在不停的更新\n在2.0大版本更新开启的前夕，为了让更多人能加入玩耍，只要转发点赞评论就会随机抽取幸运宝宝发送私信～\n同时只要找奏奏妈咪下过单，买过记录，截止五月初，都可以通过qq私聊免费获得邀请码喔 https://t.co/0qGIvPhvep"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会魅惑并享用钱包的公主殿下🤍\n精通各种处刑钱包的方法🖤\n联系方式→2829556413←\n病毒小号@oricz233\n现任魔女学园院长\n星辰魔女镜璃\n@jingli1840489\n桃心魔女奈奈\n@blakexiaonai\n 黑白魔女花卷\n@miaomiaomi17630\n好老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "oricz233"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 114,
+                "start": 101,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 139,
+                "start": 123,
+                "username": "miaomiaomi17630"
+              },
+              {
+                "end": 158,
+                "start": 143,
+                "username": "chessy80978858"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "全能魅惑系魔女族公主-奏💜魔女学园院长版～",
+        "pinned_tweet_id": "2013314916120416537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055327575581556736/-ZRgWKku_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8824,
+          "following_count": 363,
+          "like_count": 633,
+          "listed_count": 38,
+          "media_count": 825,
+          "tweet_count": 2191
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

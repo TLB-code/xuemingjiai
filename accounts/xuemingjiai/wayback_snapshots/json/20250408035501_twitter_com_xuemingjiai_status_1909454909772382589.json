@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1909454909772382589",
+    "created_at": "2025-04-08T03:55:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-08T04:55:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909454909772382589"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 136,
+          "start": 131,
+          "tag": "女性崇拜"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1440730506614632451",
+          "start": 3,
+          "username": "Lust_Siyuan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909454909772382589",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909285942285697248",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Lust_Siyuan: 今天是旗袍高跟糸奈小姐哦🖤\n嗯哼♡贱狗第一眼会先看哪里呢～似乎对小穴和挺翘的乳头都没兴趣呐♡打一开始就在盯着人家的高跟足底看对吧?被糸奈大人看穿了哦可怜虫♡那♪这就用主人高贵的鞋跟把贱狗的小废屌踩烂好不好～♡\n早🖤泄🖤傻🖤逼🖤\n#女性崇拜 #恋…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1909454909772382589].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1909454909772382589",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1909454909772382589"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1388,
+        "media_key": "3_1909285939211292672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gn8lciVWUAAt7zy.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1909285939211292672"
+          ]
+        },
+        "author_id": "1440730506614632451",
+        "conversation_id": "1909285942285697248",
+        "created_at": "2025-04-07T16:43:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-07T17:43:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1909285942285697248"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 119,
+              "start": 114,
+              "tag": "女性崇拜"
+            },
+            {
+              "end": 123,
+              "start": 120,
+              "tag": "恋足"
+            },
+            {
+              "end": 129,
+              "start": 124,
+              "tag": "羞辱调教"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jThrS98JxQ",
+              "end": 153,
+              "expanded_url": "https://x.com/Lust_Siyuan/status/1909285942285697248/photo/1",
+              "media_key": "3_1909285939211292672",
+              "start": 130,
+              "url": "https://t.co/jThrS98JxQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909285942285697248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 699,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "今天是旗袍高跟糸奈小姐哦🖤\n嗯哼♡贱狗第一眼会先看哪里呢～似乎对小穴和挺翘的乳头都没兴趣呐♡打一开始就在盯着人家的高跟足底看对吧?被糸奈大人看穿了哦可怜虫♡那♪这就用主人高贵的鞋跟把贱狗的小废屌踩烂好不好～♡\n早🖤泄🖤傻🖤逼🖤\n#女性崇拜 #恋足 #羞辱调教 https://t.co/jThrS98JxQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "您好～这里是出道以来一直致力于为小雏男哥哥们提供“舒适”“安全”“极致射金体验”的纯真妹系小天使魔女妹妹💚\n想了解我请翻看我的推文～\nqq2829556413，碎碎念小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 85,
+                "username": "oricz233"
+              },
+              {
+                "end": 114,
+                "start": 105,
+                "username": "moelipoi"
+              },
+              {
+                "end": 132,
+                "start": 121,
+                "username": "cutelingli"
+              },
+              {
+                "end": 154,
+                "start": 139,
+                "username": "chessy80978858"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系天使偶像魔女小姐💖女仆限定版♪",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909108552796651520/gRlgoaOf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6653,
+          "following_count": 272,
+          "like_count": 278,
+          "listed_count": 29,
+          "media_count": 566,
+          "tweet_count": 1555
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-22T17:31:45.000Z",
+        "description": "『贵安💖』想找糸奈玩请看置顶♡",
+        "id": "1440730506614632451",
+        "location": "门槛20r♪",
+        "name": "樱井糸奈",
+        "pinned_tweet_id": "1907088481823736249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907054644909486080/1FB_cIBo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 767,
+          "following_count": 34,
+          "like_count": 129,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 66
+        },
+        "username": "Lust_Siyuan",
+        "verified": false
+      }
+    ]
+  }
+}

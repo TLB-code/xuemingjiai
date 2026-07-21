@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1931771802449215520",
+    "created_at": "2025-06-08T17:54:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-08T18:54:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931771802449215520"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 136,
+          "start": 133,
+          "tag": "扶她"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1752181716028936192",
+          "start": 3,
+          "username": "geye_zm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931771802449215520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931728107032948749",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @geye_zm: 想玩弄咱？呵呵，弱不禁风的母猪可不要太自以为是了哦？\n（雌杀巨根用力的插入母猪的后庭❤️把母猪用力压在丰满的胸部）\n呼吸不了了吗？那很可惜咯，小母猪现在要被主人的巨乳窒息的同时还要被巨根捅穿咯～❤️\n母猪是会先被捅的爽死还是先被憋死呢❤️\n#扶她 #文…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1931771802449215520].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1931771802449215520",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1931771802449215520"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1028,
+        "media_key": "3_1931727226904690688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs7frZqawAAcxD0.jpg",
+        "width": 850
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1931727226904690688"
+          ]
+        },
+        "author_id": "1752181716028936192",
+        "conversation_id": "1931728107032948749",
+        "created_at": "2025-06-08T15:00:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T16:00:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931728107032948749"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 123,
+              "start": 120,
+              "tag": "扶她"
+            },
+            {
+              "end": 127,
+              "start": 124,
+              "tag": "文援"
+            },
+            {
+              "end": 131,
+              "start": 128,
+              "tag": "送死"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wJn5SJNnQd",
+              "end": 155,
+              "expanded_url": "https://x.com/geye_zm/status/1931728107032948749/photo/1",
+              "media_key": "3_1931727226904690688",
+              "start": 132,
+              "url": "https://t.co/wJn5SJNnQd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931728107032948749",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1122,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "想玩弄咱？呵呵，弱不禁风的母猪可不要太自以为是了哦？\n（雌杀巨根用力的插入母猪的后庭❤️把母猪用力压在丰满的胸部）\n呼吸不了了吗？那很可惜咯，小母猪现在要被主人的巨乳窒息的同时还要被巨根捅穿咯～❤️\n母猪是会先被捅的爽死还是先被憋死呢❤️\n#扶她 #文援 #送死 https://t.co/wJn5SJNnQd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n你也会因为窥视我的美貌而心甘情愿沦为钱包被我使用的对吗？\n钱包报名入口：242184780\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 66,
+                "username": "oricz233"
+              },
+              {
+                "end": 95,
+                "start": 86,
+                "username": "moelipoi"
+              },
+              {
+                "end": 113,
+                "start": 102,
+                "username": "cutelingli"
+              },
+              {
+                "end": 135,
+                "start": 120,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 147,
+                "start": 140,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍瞄准钱包👛中",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931064828044713984/9qwnduVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7155,
+          "following_count": 297,
+          "like_count": 343,
+          "listed_count": 33,
+          "media_count": 660,
+          "tweet_count": 1965
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-30T04:07:37.000Z",
+        "description": "这里是葛叶真明，是游戏创作者，创作各类文游，内容涵盖寸止，窒息，辱骂，倒计时等等，欢迎各位同行扩列互推喵～\n买游戏找客服，客服主页有咱的历史推文以及文游\n客服:\n@Medicyli",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 81,
+                "username": "Medicyli"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+Zqurf7RUye42M…",
+                "end": 23,
+                "expanded_url": "https://t.me/+Zqurf7RUye42MzM1",
+                "start": 0,
+                "url": "https://t.co/MW0XxdoPce"
+              }
+            ]
+          }
+        },
+        "id": "1752181716028936192",
+        "location": "游戏作者",
+        "name": "葛叶真明",
+        "pinned_tweet_id": "1918988939119177751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928352522969960450/19TGklH6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8188,
+          "following_count": 134,
+          "like_count": 70,
+          "listed_count": 18,
+          "media_count": 58,
+          "tweet_count": 718
+        },
+        "url": "https://t.co/MW0XxdoPce",
+        "username": "geye_zm",
+        "verified": false
+      }
+    ]
+  }
+}

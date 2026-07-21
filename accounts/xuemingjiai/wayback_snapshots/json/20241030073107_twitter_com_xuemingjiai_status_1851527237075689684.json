@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1851527237075689684",
+    "created_at": "2024-10-30T07:31:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-30T08:31:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1851527237075689684"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1629314139238830080",
+          "start": 3,
+          "username": "LL_chaoH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1851527237075689684",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 31
+    },
+    "referenced_tweets": [
+      {
+        "id": "1851162406954942720",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LL_chaoH: 恶心的小鸡吧处男哥哥，为什么要感到诧异呢♡人家就是你许愿的色情魔法少女哦——果然还是av看太多，少女就是我这么大的女生哦～\n\n就算你许愿召唤我出来～我也不会想和你这种家伙做爱，但作为辛苦费那你就凑近一点盯着我的少女小穴好好的撸吧，结束了吗？好快啊…而…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1851527237075689684].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1851527237075689684",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1851527237075689684"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1851162403163238400"
+          ]
+        },
+        "author_id": "1629314139238830080",
+        "conversation_id": "1851162406954942720",
+        "created_at": "2024-10-29T07:21:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-29T08:21:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1851162406954942720"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 141,
+              "start": 137,
+              "tag": "性幻想"
+            },
+            {
+              "end": 145,
+              "start": 142,
+              "tag": "文媛"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/imsVczBbKX",
+              "end": 169,
+              "expanded_url": "https://x.com/LL_chaoH/status/1851162406954942720/photo/1",
+              "media_key": "3_1851162403163238400",
+              "start": 146,
+              "url": "https://t.co/imsVczBbKX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1851162406954942720",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 4438,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "恶心的小鸡吧处男哥哥，为什么要感到诧异呢♡人家就是你许愿的色情魔法少女哦——果然还是av看太多，少女就是我这么大的女生哦～\n\n就算你许愿召唤我出来～我也不会想和你这种家伙做爱，但作为辛苦费那你就凑近一点盯着我的少女小穴好好的撸吧，结束了吗？好快啊…而且好恶心\n那我走了哦♡\n#性幻想 #文媛 https://t.co/imsVczBbKX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "超绝可爱💖\n她就是出道即巅峰的可爱纯真小天使新人偶像魔女小姐💖\n对这样的魔女小姐不能心怀任何涩涩的念想哦，不然就会变得非常糟糕...踏入无法挣脱的陷阱和牢笼里呢💘\n魔女小姐无论说什么做什么都是正确的哦，身为她的粉丝，只需要无条件用各种方式支持她就好了～\nqq2829556413",
+        "id": "1374389254726455305",
+        "name": "电波系新人偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1839039717712724125",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850198775832408064/VnoVKToR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5691,
+          "following_count": 215,
+          "like_count": 178,
+          "listed_count": 23,
+          "tweet_count": 1221
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-25T02:55:42.000Z",
+        "description": "■我是痴女系的反差偶像♡洛璃。                                       \n■一位全天都会发情的yin乱偶像，日常把淫語掛在嘴邊的变态女，所以不要有所顾忌，自由自在的侵犯我\n           ✿  门槛13.14r/每小时66.66r 1573687158🐧",
+        "id": "1629314139238830080",
+        "location": "水龙敬公园",
+        "name": "超淫气偶像★槍間 洛离",
+        "pinned_tweet_id": "1765372199555543485",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1764272896841781248/gIluVtKm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7207,
+          "following_count": 466,
+          "like_count": 2167,
+          "listed_count": 40,
+          "tweet_count": 2975
+        },
+        "username": "LL_chaoH",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "1797304659495068015",
+    "created_at": "2024-06-02T16:29:57.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-02T17:29:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1797304659495068015"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1573629548226236416",
+          "start": 3,
+          "username": "fuyuka35"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1797304659495068015",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1796542048738415085",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fuyuka35: 收到礼物才想起明天是儿童节w\n那就祝各位客人都能如愿收到想要的礼物？只要注意分辨一下，莫名收到的“礼物”是否带有性质恶劣的暗示，并排除掉对心理“健康”和“性癖”产生负面影响的风险就好了吧？\n啊，想要给别人送出礼物的客人不必在意哟～反正已经没救了🖤\n#…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1797304659495068015].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1797304659495068015",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1797304659495068015"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1796542046691577856"
+          ]
+        },
+        "author_id": "1573629548226236416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1796542048738415085",
+        "created_at": "2024-05-31T13:59:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-31T14:59:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1796542048738415085"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 128,
+              "start": 124,
+              "tag": "儿童节"
+            },
+            {
+              "end": 132,
+              "start": 129,
+              "tag": "贡奴"
+            },
+            {
+              "end": 136,
+              "start": 133,
+              "tag": "洗脑"
+            },
+            {
+              "end": 140,
+              "start": 137,
+              "tag": "陷阱"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/a3PtbLKUUN",
+              "end": 164,
+              "expanded_url": "https://twitter.com/fuyuka35/status/1796542048738415085/photo/1",
+              "media_key": "3_1796542046691577856",
+              "start": 141,
+              "url": "https://t.co/a3PtbLKUUN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1796542048738415085",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 7708,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "收到礼物才想起明天是儿童节w\n那就祝各位客人都能如愿收到想要的礼物？只要注意分辨一下，莫名收到的“礼物”是否带有性质恶劣的暗示，并排除掉对心理“健康”和“性癖”产生负面影响的风险就好了吧？\n啊，想要给别人送出礼物的客人不必在意哟～反正已经没救了🖤\n#儿童节 #贡奴 #洗脑 #陷阱 https://t.co/a3PtbLKUUN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "可爱程度百分之百💖\n她就是出道即巅峰的可爱纯真小天使新人偶像魔女小姐💖\n任何人都会被她散发出的魅力所捕获，对这样的魔女小姐不能心怀任何涩涩的念想哦，不然就会变得非常糟糕...踏入无法挣脱的陷阱和牢笼里呢💘\n魔女小姐无论说什么做什么都是正确的哦，身为她的粉丝，只需要无条件用各种方式支持她就好了💘\n联系方式私信💝",
+        "id": "1374389254726455305",
+        "name": "电波系新人偶像💖魔女小姐参上（偶像计划筹备中）",
+        "pinned_tweet_id": "1791781042321571928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795799880021295104/Tsd4XdC9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4823,
+          "following_count": 165,
+          "like_count": 146,
+          "listed_count": 22,
+          "tweet_count": 963
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-24T11:05:01.000Z",
+        "description": "不涉三文援～喜欢被玩弄的大哥哥请注意性癖与钱包的安全🖤被调教出糟糕的性癖，沉迷在我这里的话我可不会留手哟？详细请看置顶～推文请看媒体～",
+        "id": "1573629548226236416",
+        "name": "冬香♡【偷懒】【互推】",
+        "pinned_tweet_id": "1789527306672976145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1738078629177991168/4VpqeiFy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2437,
+          "following_count": 9,
+          "like_count": 0,
+          "listed_count": 13,
+          "tweet_count": 151
+        },
+        "username": "fuyuka35",
+        "verified": false
+      }
+    ]
+  }
+}

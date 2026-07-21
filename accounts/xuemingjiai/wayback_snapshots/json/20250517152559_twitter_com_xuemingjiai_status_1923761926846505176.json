@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1923761926846505176",
+    "created_at": "2025-05-17T15:25:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-17T16:25:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923761926846505176"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1374389254726455305",
+          "start": 3,
+          "username": "xuemingjiai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923761926846505176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922181265479913507",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xuemingjiai: 各位人类虫子你们好啊～\n之前一直隐瞒着自己的身份潜入人类社会通过网络洗脑你们，魔女小姐觉得效率太慢了～因为我发现对付人类这么“弱小”“羸弱”“垃圾”“舔狗”“废物”“无用”“下贱”的种族，根本用不上太多的魔力呢...\n所以我摊牌了，我的真实身份…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1923761926846505176].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1923761926846505176",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1923761926846505176"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1922181248069390336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gqz1qTUX0AAM63B.jpg",
+        "width": 1001
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1922181248069390336"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1922181265479913507",
+        "created_at": "2025-05-13T06:45:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T07:45:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922181265479913507"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fscnWz5j8u",
+              "end": 173,
+              "expanded_url": "https://x.com/xuemingjiai/status/1922181265479913507/photo/1",
+              "media_key": "3_1922181248069390336",
+              "start": 150,
+              "url": "https://t.co/fscnWz5j8u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922181265479913507",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 16373,
+          "like_count": 160,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "各位人类虫子你们好啊～\n之前一直隐瞒着自己的身份潜入人类社会通过网络洗脑你们，魔女小姐觉得效率太慢了～因为我发现对付人类这么“弱小”“羸弱”“垃圾”“舔狗”“废物”“无用”“下贱”的种族，根本用不上太多的魔力呢...\n所以我摊牌了，我的真实身份是，高贵的魔女族公主💜\n所有见到真容的人类，立即下跪♪ https://t.co/fscnWz5j8u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "集美貌，智慧，强大于一身的魔女族公主现身人世～区区人类，跪下向我表示臣服吧💜\n被我支配 控制 吸脑 成为奴仆💜\n挑战qq242184780，里世界小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858\n女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "oricz233"
+              },
+              {
+                "end": 104,
+                "start": 95,
+                "username": "moelipoi"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "cutelingli"
+              },
+              {
+                "end": 144,
+                "start": 129,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 155,
+                "start": 148,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏💜强势登场人间",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923161284247420929/dv1s2unV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6908,
+          "following_count": 283,
+          "like_count": 314,
+          "listed_count": 31,
+          "media_count": 609,
+          "tweet_count": 1807
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

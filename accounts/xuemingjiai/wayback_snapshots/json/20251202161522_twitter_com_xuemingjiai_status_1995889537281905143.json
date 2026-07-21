@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1995889537281905143",
+    "created_at": "2025-12-02T16:15:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T17:15:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995889537281905143"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1951937781296754688",
+          "start": 3,
+          "username": "3378895338Ran"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995889537281905143",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994576950669840463",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @3378895338Ran: 到底是哪个白痴贱狗一直偷偷给妈妈上贡呀～还不愿意暴露身份，真是傻逼🖤不过没关系哦～妈妈带着你最爱的饭盒来找你了哦～♡用你的脏钱填满妈妈的盒子来换去今天的食物吧～🖤穿了整整一周的酸臭黑丝汗脚哦～傻逼贡奴早就盯着忍不住勃起流精了吧～把你的狗脸贴…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1995889537281905143].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1995889537281905143",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1995889537281905143"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1994576941186498560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G64pKQibQAAYg6x.jpg",
+        "width": 1856
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994576941186498560"
+          ]
+        },
+        "author_id": "1951937781296754688",
+        "conversation_id": "1994576950669840463",
+        "created_at": "2025-11-29T01:19:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T02:19:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994576950669840463"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FeObqgLpap",
+              "end": 164,
+              "expanded_url": "https://x.com/3378895338Ran/status/1994576950669840463/photo/1",
+              "media_key": "3_1994576941186498560",
+              "start": 141,
+              "url": "https://t.co/FeObqgLpap"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994576950669840463",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 5447,
+          "like_count": 51,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "到底是哪个白痴贱狗一直偷偷给妈妈上贡呀～还不愿意暴露身份，真是傻逼🖤不过没关系哦～妈妈带着你最爱的饭盒来找你了哦～♡用你的脏钱填满妈妈的盒子来换去今天的食物吧～🖤穿了整整一周的酸臭黑丝汗脚哦～傻逼贡奴早就盯着忍不住勃起流精了吧～把你的狗脸贴上来用力顶吸哦～♡吸到脑浆沸腾丧志翻白眼 https://t.co/FeObqgLpap"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n最最最最喜欢钱包们啦!\n天天挨骂真的不会腻嘛～\n擅长用爱意和温柔的语气俘虏钱包～\n联系方式→242184780←\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 77,
+                "username": "oricz233"
+              },
+              {
+                "end": 106,
+                "start": 97,
+                "username": "moelipoi"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "cutelingli"
+              },
+              {
+                "end": 146,
+                "start": 131,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 158,
+                "start": 151,
+                "username": "1xian1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍对钱包们最温柔最有好感版",
+        "pinned_tweet_id": "1976743806063063398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991861278688821248/oCQEPeIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8008,
+          "following_count": 344,
+          "like_count": 642,
+          "listed_count": 36,
+          "media_count": 762,
+          "tweet_count": 2352
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-03T09:27:34.000Z",
+        "description": "碌碌无为的小透明文媛汐染🖤擅长：丝袜高跟/气味调教/黑心压榨/臭脚提款/肥臀闷脸❤️并非全职文媛没第一时间回复请谅解💜价格：30r/0.5h 60r/1h 晚上40r/0.5h 70r/1h💕门牌：3378895338〖门槛10r〗其他业务可私聊了解～♡〖不涉三〗老公：@_shogun_111",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 147,
+                "start": 135,
+                "username": "_shogun_111"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/X1ranS0619",
+                "end": 23,
+                "expanded_url": "https://t.me/X1ranS0619",
+                "start": 0,
+                "url": "https://t.co/LRn7WpcYFG"
+              }
+            ]
+          }
+        },
+        "id": "1951937781296754688",
+        "location": "汐染狐狸洞",
+        "name": "狐狸汐染〖文媛〗",
+        "pinned_tweet_id": "1994576950669840463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951938151813165056/dQ7mDCHa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1260,
+          "following_count": 55,
+          "like_count": 114,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 140
+        },
+        "url": "https://t.co/LRn7WpcYFG",
+        "username": "3378895338Ran",
+        "verified": false
+      }
+    ]
+  }
+}

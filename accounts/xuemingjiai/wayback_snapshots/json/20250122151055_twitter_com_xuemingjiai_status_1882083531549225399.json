@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1882083531549225399",
+    "created_at": "2025-01-22T15:10:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-22T16:10:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1882083531549225399"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1696056509023625217",
+          "start": 3,
+          "username": "CuteLingli"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882083531549225399",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881512245282390445",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CuteLingli: 对我单方面的喜欢和付出就可以了哦。为了玲璃，就算把自己弄坏掉，彻底毁掉，也是没关系的吧。\n把玲璃和快感，和舒服绑定，被这样毁掉的话，就可能永远逃不掉了哦。\n对了，正在偷窥的你，最喜欢的是哪部分呢？\n是“喜欢”，还是“弄坏”，或者说，只是一连串的红…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "1882083531549225399",
+        "created_at": "2025-01-22T15:10:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-22T16:10:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882083531549225399"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1696056509023625217",
+              "start": 3,
+              "username": "CuteLingli"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882083531549225399",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881512245282390445",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CuteLingli: 对我单方面的喜欢和付出就可以了哦。为了玲璃，就算把自己弄坏掉，彻底毁掉，也是没关系的吧。\n把玲璃和快感，和舒服绑定，被这样毁掉的话，就可能永远逃不掉了哦。\n对了，正在偷窥的你，最喜欢的是哪部分呢？\n是“喜欢”，还是“弄坏”，或者说，只是一连串的红…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1881512242405134336"
+          ]
+        },
+        "author_id": "1696056509023625217",
+        "conversation_id": "1881512245282390445",
+        "created_at": "2025-01-21T01:20:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-21T02:20:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1881512245282390445"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 134,
+              "start": 131,
+              "tag": "贡奴"
+            },
+            {
+              "end": 140,
+              "start": 135,
+              "tag": "ATM奴"
+            },
+            {
+              "end": 144,
+              "start": 141,
+              "tag": "洗脑"
+            },
+            {
+              "end": 148,
+              "start": 145,
+              "tag": "压榨"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XuEjKSrEBG",
+              "end": 172,
+              "expanded_url": "https://x.com/CuteLingli/status/1881512245282390445/photo/1",
+              "media_key": "3_1881512242405134336",
+              "start": 149,
+              "url": "https://t.co/XuEjKSrEBG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881512245282390445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5162,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "对我单方面的喜欢和付出就可以了哦。为了玲璃，就算把自己弄坏掉，彻底毁掉，也是没关系的吧。\n把玲璃和快感，和舒服绑定，被这样毁掉的话，就可能永远逃不掉了哦。\n对了，正在偷窥的你，最喜欢的是哪部分呢？\n是“喜欢”，还是“弄坏”，或者说，只是一连串的红包领取记录呢？\n#贡奴 #ATM奴 #洗脑 #压榨 https://t.co/XuEjKSrEBG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "您好～这里是出道以来一直致力于为小雏男哥哥们提供“舒适”“安全”“极致快感”的纯真妹系小天使魔女妹妹💚\n想了解我请翻看我的推文～\nqq2829556413，碎碎念小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 83,
+                "username": "oricz233"
+              },
+              {
+                "end": 112,
+                "start": 103,
+                "username": "moelipoi"
+              },
+              {
+                "end": 130,
+                "start": 119,
+                "username": "cutelingli"
+              },
+              {
+                "end": 152,
+                "start": 137,
+                "username": "chessy80978858"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系天使偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878142670054604800/aZFysFDs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6338,
+          "following_count": 252,
+          "like_count": 285,
+          "listed_count": 29,
+          "media_count": 537,
+          "tweet_count": 1486
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-28T07:06:06.000Z",
+        "description": "温柔向压榨系。请不要踏入陷阱~否则脑子和钱包都会的变得一塌糊涂。我很懒，所以不涉三。不想送死别来加我~ 门牌🚪私信获取 我只是想单纯地想要你的钱~ 老婆：@xuemingjiai 笨蛋：@liulidreamm",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 77,
+                "username": "xuemingjiai"
+              },
+              {
+                "end": 105,
+                "start": 93,
+                "username": "liulidreamm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "afdian.com/a/cutelingli",
+                "end": 23,
+                "expanded_url": "https://afdian.com/a/cutelingli",
+                "start": 0,
+                "url": "https://t.co/Di7OiY8Hx5"
+              }
+            ]
+          }
+        },
+        "id": "1696056509023625217",
+        "location": "你的心里❤️",
+        "name": "玲璃",
+        "pinned_tweet_id": "1881512245282390445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1857458414097674240/lFZYliyL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1353,
+          "following_count": 93,
+          "like_count": 143,
+          "listed_count": 4,
+          "media_count": 81,
+          "tweet_count": 253
+        },
+        "url": "https://t.co/Di7OiY8Hx5",
+        "username": "CuteLingli",
+        "verified": false
+      }
+    ]
+  }
+}

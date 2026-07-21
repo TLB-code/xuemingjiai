@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1937147431684370890",
+    "created_at": "2025-06-23T13:55:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-23T14:55:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937147431684370890"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1288837401335328768",
+          "start": 3,
+          "username": "YuSama_Uknwdy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937147431684370890",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 107
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936710688866799919",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YuSama_Uknwdy: 有想跟这种废物王八一样的吗💚被老婆口含黑爹雄精吐在你的废物龟头软屌上面~就会感受到黑爹的基因强奸你的废物低贱死精💚还要被老婆对比黑爹的肉屌一边嘲笑一边撸搓💚\n最后被老婆中指美甲扣出你攫取完你那恶心可怜的废物低贱死精再彻底带上贞操锁剃毛变成母…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1937147431684370890].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1937147431684370890",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1937147431684370890"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 36200,
+        "height": 1280,
+        "media_key": "13_1936709318289588224",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1936709318289588224/img/tLvzrScq8VLdk6LR.jpg",
+        "public_metrics": {
+          "view_count": 7590
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1936709318289588224/vid/avc1/320x584/CGnEZtaIcSorGM1p.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1936709318289588224/vid/avc1/480x876/nDG8LDjjnFcgqZ7P.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1936709318289588224/vid/avc1/700x1280/p7so_StfxMGIUPw7.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1936709318289588224/pl/aEFWNrBWCzKO1-tC.m3u8"
+          }
+        ],
+        "width": 700
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1936709318289588224"
+          ]
+        },
+        "author_id": "1288837401335328768",
+        "conversation_id": "1936710688866799919",
+        "created_at": "2025-06-22T08:59:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T09:59:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936710688866799919"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xaGsahv9Zk",
+              "end": 148,
+              "expanded_url": "https://x.com/YuSama_Uknwdy/status/1936710688866799919/video/1",
+              "media_key": "13_1936709318289588224",
+              "start": 125,
+              "url": "https://t.co/xaGsahv9Zk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936710688866799919",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 181,
+          "impression_count": 20573,
+          "like_count": 571,
+          "quote_count": 1,
+          "reply_count": 17,
+          "retweet_count": 107
+        },
+        "reply_settings": "everyone",
+        "text": "有想跟这种废物王八一样的吗💚被老婆口含黑爹雄精吐在你的废物龟头软屌上面~就会感受到黑爹的基因强奸你的废物低贱死精💚还要被老婆对比黑爹的肉屌一边嘲笑一边撸搓💚\n最后被老婆中指美甲扣出你攫取完你那恶心可怜的废物低贱死精再彻底带上贞操锁剃毛变成母猪婊子💚 https://t.co/xaGsahv9Zk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n你也会因为窥视我的美貌而心甘情愿沦为钱包被我使用的对吗？\n钱包报名入口：2829556413和3971546171\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 78,
+                "username": "oricz233"
+              },
+              {
+                "end": 107,
+                "start": 98,
+                "username": "moelipoi"
+              },
+              {
+                "end": 125,
+                "start": 114,
+                "username": "cutelingli"
+              },
+              {
+                "end": 147,
+                "start": 132,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 159,
+                "start": 152,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍驯化公用钱包👛中",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931064828044713984/9qwnduVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7275,
+          "following_count": 311,
+          "like_count": 376,
+          "listed_count": 32,
+          "media_count": 700,
+          "tweet_count": 2136
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-30T14:02:47.000Z",
+        "description": "超绝文媛🖤垃圾变态的傻逼们请自觉翘着你的烂根来送死🖤 性癖全能会用你最喜欢的方式玩死你的哦🖤丨语音验证20💚丨门槛20r可抵扣丨 傻逼不用再偷窥了赶紧夹着你的烂裆来敲门💚 门牌：3451423909",
+        "id": "1288837401335328768",
+        "name": "昱昱SexLove_超绝接单版♪💘",
+        "pinned_tweet_id": "1921487172227473735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926032568291311616/n0i1z6MD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17893,
+          "following_count": 264,
+          "like_count": 701,
+          "listed_count": 82,
+          "media_count": 179,
+          "tweet_count": 2533
+        },
+        "username": "YuSama_Uknwdy",
+        "verified": true
+      }
+    ]
+  }
+}

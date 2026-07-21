@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1877028298166837676",
+    "created_at": "2025-01-08T16:23:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-08T17:23:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1877028298166837676"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1777598492124532736",
+          "start": 3,
+          "username": "Qilicc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1877028298166837676",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876811013833556314",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Qilicc: 你们不觉得主动请求别人把自己毁掉是一件很刺激的事么?自己努力工作挣的钱被一边虐心一边白给贡上.自尊被剥夺永远把你是个下位低劣奴隶的认知刻印在心里.\n被主人拆碎...感受那种不平等的被对待.被主人关心一下就是莫大的荣幸.\n渴望用这种下贱身份被主人施虐夺走自…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1877028298166837676].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1877028298166837676",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1877028298166837676"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1876811010797162496"
+          ]
+        },
+        "author_id": "1777598492124532736",
+        "conversation_id": "1876811013833556314",
+        "created_at": "2025-01-08T01:59:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-08T02:59:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1876811013833556314"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 141,
+              "start": 138,
+              "tag": "文援"
+            },
+            {
+              "end": 145,
+              "start": 142,
+              "tag": "贡奴"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Upz9IWT3Yi",
+              "end": 169,
+              "expanded_url": "https://x.com/Qilicc/status/1876811013833556314/photo/1",
+              "media_key": "3_1876811010797162496",
+              "start": 146,
+              "url": "https://t.co/Upz9IWT3Yi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876811013833556314",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 1573,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "你们不觉得主动请求别人把自己毁掉是一件很刺激的事么?自己努力工作挣的钱被一边虐心一边白给贡上.自尊被剥夺永远把你是个下位低劣奴隶的认知刻印在心里.\n被主人拆碎...感受那种不平等的被对待.被主人关心一下就是莫大的荣幸.\n渴望用这种下贱身份被主人施虐夺走自己所有.. \n嘻嘻💚 #文援 #贡奴 https://t.co/Upz9IWT3Yi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "您好～这里是出道以来一直致力于为小雏男哥哥们提供“舒适”“安全”“极致快感”的纯真妹系小天使魔女妹妹💚\n想了解我请翻看我的推文～\nqq2829556413，碎碎念小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 83,
+                "username": "oricz233"
+              },
+              {
+                "end": 112,
+                "start": 103,
+                "username": "moelipoi"
+              },
+              {
+                "end": 130,
+                "start": 119,
+                "username": "cutelingli"
+              },
+              {
+                "end": 152,
+                "start": 137,
+                "username": "chessy80978858"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系天使偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871531149056696320/X1dzrRoR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6279,
+          "following_count": 250,
+          "like_count": 289,
+          "listed_count": 28,
+          "media_count": 523,
+          "tweet_count": 1446
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-09T07:25:06.000Z",
+        "description": "没有关注我的私信一律不回✉️\n私信我交流请友善一点可以发癫✉️\n请不要在私信对我发生殖器照✉️\n🚪5（不抵扣）⚠️新门牌:1725218154⚠️✉️点媒体查看我的推文✉️有Switch成分，文援/日常系/抑郁/缺爱/情绪差/含糖🍥入门闲聊免费.✉️请点点关注不要取关我. 妈咪@xuemingjiai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 151,
+                "start": 139,
+                "username": "xuemingjiai"
+              }
+            ]
+          }
+        },
+        "id": "1777598492124532736",
+        "location": "ZheJiang",
+        "name": "祈莉莉",
+        "pinned_tweet_id": "1850881152502137211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875219146679709697/xy2N1Vjb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1683,
+          "following_count": 36,
+          "like_count": 204,
+          "listed_count": 3,
+          "media_count": 39,
+          "tweet_count": 169
+        },
+        "username": "Qilicc",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1936439537938702556",
+    "created_at": "2025-06-21T15:02:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-21T16:02:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936439537938702556"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 17,
+          "tag": "魔女公主的日常"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1374389254726455305",
+          "start": 3,
+          "username": "xuemingjiai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936439537938702556",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935308874862707091",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xuemingjiai: #魔女公主的日常\n为什么本公主能够心安理得的使用钱包？\n因为钱包们一旦对着本公主勃起，直到结束钱包化的那一刻，都不再是人，而是单纯的物品。\n自己的物品，随便怎么使用都可以吧？\n不管是快速小额让钱包们欲罢不能的柔情收割，还是一次性大额清空让脑浆被…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1936439537938702556].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1936439537938702556",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1936439537938702556"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1216,
+        "media_key": "3_1935308871523827712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtuZKjnXAAA8mL2.jpg",
+        "width": 832
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935308871523827712"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "1935308874862707091",
+        "created_at": "2025-06-18T12:09:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T13:09:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935308874862707091"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "魔女公主的日常"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UFAJgY1Bpy",
+              "end": 166,
+              "expanded_url": "https://x.com/xuemingjiai/status/1935308874862707091/photo/1",
+              "media_key": "3_1935308871523827712",
+              "start": 143,
+              "url": "https://t.co/UFAJgY1Bpy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935308874862707091",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2558,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "#魔女公主的日常\n为什么本公主能够心安理得的使用钱包？\n因为钱包们一旦对着本公主勃起，直到结束钱包化的那一刻，都不再是人，而是单纯的物品。\n自己的物品，随便怎么使用都可以吧？\n不管是快速小额让钱包们欲罢不能的柔情收割，还是一次性大额清空让脑浆被本公主吸出来的极端报废，哪个都很不错吧🤍 https://t.co/UFAJgY1Bpy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n你也会因为窥视我的美貌而心甘情愿沦为钱包被我使用的对吗？\n钱包报名入口：2829556413和3971546171\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 78,
+                "username": "oricz233"
+              },
+              {
+                "end": 107,
+                "start": 98,
+                "username": "moelipoi"
+              },
+              {
+                "end": 125,
+                "start": 114,
+                "username": "cutelingli"
+              },
+              {
+                "end": 147,
+                "start": 132,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 159,
+                "start": 152,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍驯化公用钱包👛中",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931064828044713984/9qwnduVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7259,
+          "following_count": 310,
+          "like_count": 375,
+          "listed_count": 32,
+          "media_count": 697,
+          "tweet_count": 2128
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

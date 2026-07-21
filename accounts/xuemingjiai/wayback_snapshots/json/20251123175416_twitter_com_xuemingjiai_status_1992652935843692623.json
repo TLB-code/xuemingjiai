@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1992652935843692623",
+    "created_at": "2025-11-23T17:54:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T18:54:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992652935843692623"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1752181716028936192",
+          "start": 3,
+          "username": "geye_zm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992652935843692623",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992651693373407321",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @geye_zm: 作为性奴隶就应该抛弃自己的样貌，只保留最基础的功能就好了\n在认主仪式过后便被要求穿上紧身的闷热胶衣，嘴里被塞满脏臭丝袜，眼睛被蒙上，耳朵也被塞住，只需要细细感受葛叶主人的每一次践踏与鞭打♡\n下体也被葛叶主人刻下专属的淫纹，此生便只能以［工具］的身份服侍…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1992652935843692623].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1992652935843692623",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1992652935843692623"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1216,
+        "media_key": "3_1992650202667417600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6dQzUOaAAAs_yn.jpg",
+        "width": 832
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992650202667417600"
+          ]
+        },
+        "author_id": "1752181716028936192",
+        "conversation_id": "1992651693373407321",
+        "created_at": "2025-11-23T17:49:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T18:49:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992651693373407321"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 133,
+              "start": 130,
+              "tag": "物化"
+            },
+            {
+              "end": 137,
+              "start": 134,
+              "tag": "调教"
+            },
+            {
+              "end": 141,
+              "start": 138,
+              "tag": "放置"
+            },
+            {
+              "end": 145,
+              "start": 142,
+              "tag": "洗脑"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gbQXdCQ5Wv",
+              "end": 169,
+              "expanded_url": "https://x.com/geye_zm/status/1992651693373407321/photo/1",
+              "media_key": "3_1992650202667417600",
+              "start": 146,
+              "url": "https://t.co/gbQXdCQ5Wv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992651693373407321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "作为性奴隶就应该抛弃自己的样貌，只保留最基础的功能就好了\n在认主仪式过后便被要求穿上紧身的闷热胶衣，嘴里被塞满脏臭丝袜，眼睛被蒙上，耳朵也被塞住，只需要细细感受葛叶主人的每一次践踏与鞭打♡\n下体也被葛叶主人刻下专属的淫纹，此生便只能以［工具］的身份服侍他人♡\n#物化 #调教 #放置 #洗脑 https://t.co/gbQXdCQ5Wv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n最最最最喜欢钱包们啦!\n天天挨骂真的不会腻嘛～\n擅长用爱意和温柔的语气俘虏钱包～\n联系方式→242184780←\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 77,
+                "username": "oricz233"
+              },
+              {
+                "end": 106,
+                "start": 97,
+                "username": "moelipoi"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "cutelingli"
+              },
+              {
+                "end": 146,
+                "start": 131,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 158,
+                "start": 151,
+                "username": "1xian1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍对钱包们最温柔最有好感版",
+        "pinned_tweet_id": "1976743806063063398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991861278688821248/oCQEPeIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7963,
+          "following_count": 333,
+          "like_count": 640,
+          "listed_count": 36,
+          "media_count": 758,
+          "tweet_count": 2329
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-30T04:07:37.000Z",
+        "description": "这里是葛叶真明，是游戏创作者，创作各类文游，内容涵盖寸止，窒息，辱骂，倒计时等等，欢迎各位同行扩列互推喵～门槛52♡\n买游戏找客服，客服主页有咱的历史推文以及文游\n客服:@Medicyli\n可爱的后辈:@ru_zhimeng",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 85,
+                "username": "Medicyli"
+              },
+              {
+                "end": 112,
+                "start": 101,
+                "username": "ru_zhimeng"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+Zqurf7RUye42M…",
+                "end": 23,
+                "expanded_url": "https://t.me/+Zqurf7RUye42MzM1",
+                "start": 0,
+                "url": "https://t.co/MW0XxdohmG"
+              }
+            ]
+          }
+        },
+        "id": "1752181716028936192",
+        "location": "游戏作者",
+        "name": "葛叶真明",
+        "pinned_tweet_id": "1981654408053285366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928352522969960450/19TGklH6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10416,
+          "following_count": 134,
+          "like_count": 130,
+          "listed_count": 25,
+          "media_count": 120,
+          "tweet_count": 1789
+        },
+        "url": "https://t.co/MW0XxdohmG",
+        "username": "geye_zm",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1933894139956908032"
+      ],
+      "media_source_tweet_id": [
+        "1933894144298013164"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "1934025374545174930",
+    "created_at": "2025-06-14T23:09:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-15T00:09:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934025374545174930"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1240949973056811009",
+          "start": 3,
+          "username": "Idol_Taoxin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Zc9KJmMLcB",
+          "end": 136,
+          "expanded_url": "https://x.com/Idol_Taoxin/status/1933894144298013164/photo/1",
+          "media_key": "3_1933894139956908032",
+          "start": 113,
+          "url": "https://t.co/Zc9KJmMLcB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934025374545174930",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933894144298013164",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @Idol_Taoxin: 哪怕是狗狗们一次又一次想从主人这里逃离，贡瘾还是像罂粟花一样促使着你们这群傻逼贡奴回到主人身边🖤一边跪着磕头上贡一边请求主人的原谅💚\n就算狗狗们有了女朋友，想要真正摆脱贡瘾，结局还是一样🖤… https://t.co/Zc9KJmMLcB"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1934025374545174930].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1934025374545174930",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1934025374545174930"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 832,
+        "media_key": "3_1933894139956908032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtaSeV1XUAA_UoH.jpg",
+        "width": 1216
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933894139956908032"
+          ]
+        },
+        "author_id": "1240949973056811009",
+        "conversation_id": "1933894144298013164",
+        "created_at": "2025-06-14T14:27:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T15:27:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933894144298013164"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Zc9KJmMLcB",
+              "end": 118,
+              "expanded_url": "https://x.com/Idol_Taoxin/status/1933894144298013164/photo/1",
+              "media_key": "3_1933894139956908032",
+              "start": 95,
+              "url": "https://t.co/Zc9KJmMLcB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933894144298013164",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "哪怕是狗狗们一次又一次想从主人这里逃离，贡瘾还是像罂粟花一样促使着你们这群傻逼贡奴回到主人身边🖤一边跪着磕头上贡一边请求主人的原谅💚\n就算狗狗们有了女朋友，想要真正摆脱贡瘾，结局还是一样🖤\n毕竟，主人比你们的女朋友还要了解你们内心的本质，就是一只劣等毫无人权可言的ATM贡猪🖤只有在给主人上贡的时候才能勃起流精的丧志提款机贡畜🖤\n只要听到主人说吐🖤废物贡奴就会立马心甘情愿的给主人上贡清空余额🖤在上贡的快感中早泄喷精❤️是不是啊🖤屏幕前的贡猪们~"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1248,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "reply_settings": "following",
+        "text": "哪怕是狗狗们一次又一次想从主人这里逃离，贡瘾还是像罂粟花一样促使着你们这群傻逼贡奴回到主人身边🖤一边跪着磕头上贡一边请求主人的原谅💚\n就算狗狗们有了女朋友，想要真正摆脱贡瘾，结局还是一样🖤 https://t.co/Zc9KJmMLcB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n你也会因为窥视我的美貌而心甘情愿沦为钱包被我使用的对吗？\n钱包报名入口：3971546171\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 67,
+                "username": "oricz233"
+              },
+              {
+                "end": 96,
+                "start": 87,
+                "username": "moelipoi"
+              },
+              {
+                "end": 114,
+                "start": 103,
+                "username": "cutelingli"
+              },
+              {
+                "end": 136,
+                "start": 121,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 148,
+                "start": 141,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍驯化公用钱包👛中",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931064828044713984/9qwnduVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7203,
+          "following_count": 305,
+          "like_count": 361,
+          "listed_count": 33,
+          "media_count": 681,
+          "tweet_count": 2045
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-20T10:35:14.000Z",
+        "description": "这里是贱狗最爱的世界第一全能百变偶像桃心💜你想要的一切这里都有哦❤️白痴们准备好把你们的💰全都上贡给你们深爱着的偶像了么🖤主营PUA上贡🏧反差绿帽🖤吸号贡号💚不涉三，🚪52，无脑贡狗翻十倍🖤门牌2650209312 tg：https://t.co/t46nKt9LvY 千粉互推先互关",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Idol_taoxin",
+                "end": 134,
+                "expanded_url": "http://t.me/Idol_taoxin",
+                "start": 111,
+                "url": "https://t.co/t46nKt9LvY"
+              }
+            ]
+          }
+        },
+        "id": "1240949973056811009",
+        "name": "拜金偶像🖤桃心💜（互推私）",
+        "pinned_tweet_id": "1885975097233572173",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880060079937884160/-6fiC4Iw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14461,
+          "following_count": 339,
+          "like_count": 9077,
+          "listed_count": 76,
+          "media_count": 503,
+          "tweet_count": 5083
+        },
+        "username": "Idol_Taoxin",
+        "verified": true
+      }
+    ]
+  }
+}

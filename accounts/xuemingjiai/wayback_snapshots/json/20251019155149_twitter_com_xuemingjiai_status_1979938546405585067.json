@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1979938546405585067",
+    "created_at": "2025-10-19T15:51:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T16:51:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979938546405585067"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1679430880975278081",
+          "start": 3,
+          "username": "CarolynGyl46130"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979938546405585067",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1796075577763602573",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CarolynGyl46130: 其实呢，从加好友开始，小早心里对每一位客人会进行打分评估，分数比较高的当然是软弱而又容易欺负的客人w，没有利用价值而又不懂事的客人理所当然的就会被筛选掉w\n小早就是如此功利而又自私的孩子哦~w\n如果您知道这样的事实还会兴奋的话~那你说不…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1979938546405585067].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1979938546405585067",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1979938546405585067"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1796075431424356352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GOzxFr_a8AA2sIf.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1796075431424356352"
+          ]
+        },
+        "author_id": "1679430880975278081",
+        "conversation_id": "1796075577763602573",
+        "created_at": "2024-05-30T07:06:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-30T08:06:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1796075577763602573"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 136,
+              "start": 133,
+              "tag": "文媛"
+            },
+            {
+              "end": 140,
+              "start": 137,
+              "tag": "上贡"
+            },
+            {
+              "end": 146,
+              "start": 141,
+              "tag": "atm奴"
+            },
+            {
+              "end": 150,
+              "start": 147,
+              "tag": "贡奴"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DdXFoaiTaj",
+              "end": 174,
+              "expanded_url": "https://x.com/CarolynGyl46130/status/1796075577763602573/photo/1",
+              "media_key": "3_1796075431424356352",
+              "start": 151,
+              "url": "https://t.co/DdXFoaiTaj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1796075577763602573",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 8041,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "其实呢，从加好友开始，小早心里对每一位客人会进行打分评估，分数比较高的当然是软弱而又容易欺负的客人w，没有利用价值而又不懂事的客人理所当然的就会被筛选掉w\n小早就是如此功利而又自私的孩子哦~w\n如果您知道这样的事实还会兴奋的话~那你说不定就是小早的“目标客户”呢w\n#文媛 #上贡 #atm奴 #贡奴 https://t.co/DdXFoaiTaj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n最最最最喜欢钱包们啦!\n天天挨骂真的不会腻嘛～\n擅长用爱意和温柔的语气俘虏钱包～\n联系方式→3971546171←\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 78,
+                "username": "oricz233"
+              },
+              {
+                "end": 107,
+                "start": 98,
+                "username": "moelipoi"
+              },
+              {
+                "end": 125,
+                "start": 114,
+                "username": "cutelingli"
+              },
+              {
+                "end": 147,
+                "start": 132,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 159,
+                "start": 152,
+                "username": "1xian1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARosxSy"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍对钱包们最温柔最有好感版",
+        "pinned_tweet_id": "1976743806063063398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969152325731168256/ozl0k8K4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7847,
+          "following_count": 323,
+          "like_count": 644,
+          "listed_count": 34,
+          "media_count": 741,
+          "tweet_count": 2254
+        },
+        "url": "https://t.co/le8ARosxSy",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-13T10:01:47.000Z",
+        "description": "黑心的文媛，吸血鬼，负责压榨和提款各位客人来让自己过上美好的生活，门槛30\n不涉三\nqq:264196928",
+        "id": "1679430880975278081",
+        "name": "小早",
+        "pinned_tweet_id": "1747821105816154459",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1747289710291296256/DAxZJycW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 436,
+          "following_count": 65,
+          "like_count": 99,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 48
+        },
+        "username": "CarolynGyl46130",
+        "verified": false
+      }
+    ]
+  }
+}

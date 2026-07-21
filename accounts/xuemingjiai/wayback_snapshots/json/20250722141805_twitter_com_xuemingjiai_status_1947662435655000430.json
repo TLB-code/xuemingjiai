@@ -1,0 +1,369 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1944782103683694592",
+        "3_1944782104404922368"
+      ],
+      "media_source_tweet_id": [
+        "1944782107785781253",
+        "1944782107785781253"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "1947662435655000430",
+    "created_at": "2025-07-22T14:18:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-22T15:18:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947662435655000430"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1148204500223610880",
+          "start": 3,
+          "username": "sanwwww04"
+        },
+        {
+          "end": 106,
+          "id": "1147122661681594368",
+          "start": 97,
+          "username": "ammm_mme"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zBcoaj0u6b",
+          "end": 130,
+          "expanded_url": "https://x.com/sanwwww04/status/1944782107785781253/photo/1",
+          "media_key": "3_1944782103683694592",
+          "start": 107,
+          "url": "https://t.co/zBcoaj0u6b"
+        },
+        {
+          "display_url": "pic.x.com/zBcoaj0u6b",
+          "end": 130,
+          "expanded_url": "https://x.com/sanwwww04/status/1944782107785781253/photo/1",
+          "media_key": "3_1944782104404922368",
+          "start": 107,
+          "url": "https://t.co/zBcoaj0u6b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947662435655000430",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944782107785781253",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sanwwww04: 被骂龟男都会顶锁的傻逼♡不仅被女爹瞧不起♡你的同类也会瞧不起你♡打开评论区看到自己的同类骂“龟男”两个字都会磕头♡活该被我在脑子插上吸管活活吸食脑浆两三年♡操你○\n@ammm_mme https://t.co/zBcoaj0u6b"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2073,
+        "media_key": "3_1944782103683694592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv1BBPeagAA6dix.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1968,
+        "media_key": "3_1944782104404922368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv1BBSKXkAAjoBz.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944782103683694592",
+            "3_1944782104404922368"
+          ],
+          "media_source_tweet_id": [
+            "1944782107785781253",
+            "1944782107785781253"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "1947662435655000430",
+        "created_at": "2025-07-22T14:18:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T15:18:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947662435655000430"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1148204500223610880",
+              "start": 3,
+              "username": "sanwwww04"
+            },
+            {
+              "end": 106,
+              "id": "1147122661681594368",
+              "start": 97,
+              "username": "ammm_mme"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zBcoaj0u6b",
+              "end": 130,
+              "expanded_url": "https://x.com/sanwwww04/status/1944782107785781253/photo/1",
+              "media_key": "3_1944782103683694592",
+              "start": 107,
+              "url": "https://t.co/zBcoaj0u6b"
+            },
+            {
+              "display_url": "pic.x.com/zBcoaj0u6b",
+              "end": 130,
+              "expanded_url": "https://x.com/sanwwww04/status/1944782107785781253/photo/1",
+              "media_key": "3_1944782104404922368",
+              "start": 107,
+              "url": "https://t.co/zBcoaj0u6b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947662435655000430",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944782107785781253",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sanwwww04: 被骂龟男都会顶锁的傻逼♡不仅被女爹瞧不起♡你的同类也会瞧不起你♡打开评论区看到自己的同类骂“龟男”两个字都会磕头♡活该被我在脑子插上吸管活活吸食脑浆两三年♡操你○\n@ammm_mme https://t.co/zBcoaj0u6b"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944782103683694592",
+            "3_1944782104404922368"
+          ]
+        },
+        "author_id": "1148204500223610880",
+        "conversation_id": "1944782107785781253",
+        "created_at": "2025-07-14T15:32:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T16:32:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944782107785781253"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 91,
+              "id": "1147122661681594368",
+              "start": 82,
+              "username": "ammm_mme"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zBcoaj0u6b",
+              "end": 115,
+              "expanded_url": "https://x.com/sanwwww04/status/1944782107785781253/photo/1",
+              "media_key": "3_1944782103683694592",
+              "start": 92,
+              "url": "https://t.co/zBcoaj0u6b"
+            },
+            {
+              "display_url": "pic.x.com/zBcoaj0u6b",
+              "end": 115,
+              "expanded_url": "https://x.com/sanwwww04/status/1944782107785781253/photo/1",
+              "media_key": "3_1944782104404922368",
+              "start": 92,
+              "url": "https://t.co/zBcoaj0u6b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944782107785781253",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 19303,
+          "like_count": 131,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "被骂龟男都会顶锁的傻逼♡不仅被女爹瞧不起♡你的同类也会瞧不起你♡打开评论区看到自己的同类骂“龟男”两个字都会磕头♡活该被我在脑子插上吸管活活吸食脑浆两三年♡操你○\n@ammm_mme https://t.co/zBcoaj0u6b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n你也会因为窥视我的美貌而心甘情愿沦为钱包被我使用的对吗？\n钱包报名入口：3971546171\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 67,
+                "username": "oricz233"
+              },
+              {
+                "end": 96,
+                "start": 87,
+                "username": "moelipoi"
+              },
+              {
+                "end": 114,
+                "start": 103,
+                "username": "cutelingli"
+              },
+              {
+                "end": 136,
+                "start": 121,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 148,
+                "start": 141,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍大规模同化魔法展开中",
+        "pinned_tweet_id": "1945511067926536238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945176725190488064/8VBohPRs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7672,
+          "following_count": 327,
+          "like_count": 581,
+          "listed_count": 33,
+          "media_count": 711,
+          "tweet_count": 2185
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-08T12:17:40.000Z",
+        "description": "自由散漫信仰充沛充满批判思维的天然腹黑毒舌 残暴农场主 清水暴躁日常小号@sans1517 爱玩弄感情的无趣的人 黑心小圣女 咨询用QQ:428460243 亲友@tattoo0305",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 36,
+                "username": "sans1517"
+              },
+              {
+                "end": 92,
+                "start": 81,
+                "username": "tattoo0305"
+              }
+            ]
+          }
+        },
+        "id": "1148204500223610880",
+        "location": "血色教堂",
+        "name": "法兰西美少女",
+        "pinned_tweet_id": "1702926288032546949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914775986283196418/6MumW7pC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19623,
+          "following_count": 283,
+          "like_count": 4760,
+          "listed_count": 41,
+          "media_count": 1097,
+          "tweet_count": 3676
+        },
+        "username": "sanwwww04",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-05T12:38:49.000Z",
+        "description": "女爹大人 @sanwwww04 最下贱的绿奴锁奴提款机",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 5,
+                "username": "sanwwww04"
+              }
+            ]
+          }
+        },
+        "id": "1147122661681594368",
+        "name": "雨雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1458140478655070209/rzCywlS5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 1160,
+          "like_count": 4762,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 128
+        },
+        "username": "ammm_mme",
+        "verified": false
+      }
+    ]
+  }
+}

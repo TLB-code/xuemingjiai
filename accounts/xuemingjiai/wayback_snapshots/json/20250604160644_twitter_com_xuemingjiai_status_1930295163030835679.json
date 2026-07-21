@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1930295163030835679",
+    "created_at": "2025-06-04T16:06:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-04T17:06:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930295163030835679"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1288837401335328768",
+          "start": 3,
+          "username": "YuSama_Uknwdy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930295163030835679",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 61
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929847670228525498",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YuSama_Uknwdy: 阳痿废物绿奴老公~就好好看着人家跟绿爹爸爸性交做爱吧💚你那可怜又恶心的废物雏鸡肉虫能在旁边看着绿爹祖宗的鸡巴肏屄在旁边撸管自慰~也都是因为你个贱种王八主动报销了开房费💚不然的话你这种低等的下贱郭楠肉虫是该被绿爹锁死的💚别盯着看了傻逼绿狗们赶…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1930295163030835679].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1930295163030835679",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1930295163030835679"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 58955,
+        "height": 568,
+        "media_key": "13_1929846743912665088",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1929846743912665088/img/cvuvgpZo842VES32.jpg",
+        "public_metrics": {
+          "view_count": 2768
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1929846743912665088/vid/avc1/320x568/0vgiGHGNnElMgL9v.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1929846743912665088/pl/i-5U_Yx0uSjsByvF.m3u8"
+          }
+        ],
+        "width": 320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1929846743912665088"
+          ]
+        },
+        "author_id": "1288837401335328768",
+        "conversation_id": "1929847670228525498",
+        "created_at": "2025-06-03T10:28:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T11:28:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929847670228525498"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LP2b2yaqC2",
+              "end": 163,
+              "expanded_url": "https://x.com/YuSama_Uknwdy/status/1929847670228525498/video/1",
+              "media_key": "13_1929846743912665088",
+              "start": 140,
+              "url": "https://t.co/LP2b2yaqC2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929847670228525498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 79,
+          "impression_count": 9825,
+          "like_count": 284,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 61
+        },
+        "reply_settings": "everyone",
+        "text": "阳痿废物绿奴老公~就好好看着人家跟绿爹爸爸性交做爱吧💚你那可怜又恶心的废物雏鸡肉虫能在旁边看着绿爹祖宗的鸡巴肏屄在旁边撸管自慰~也都是因为你个贱种王八主动报销了开房费💚不然的话你这种低等的下贱郭楠肉虫是该被绿爹锁死的💚别盯着看了傻逼绿狗们赶紧翘着你可怜的猪鞭来给昱昱老婆磕头吧💚 https://t.co/LP2b2yaqC2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "集美貌，智慧，强大于一身的魔女族公主现身人世～区区人类，跪下向我表示臣服吧💜\n被我支配 控制 吸脑 成为奴仆💜\n挑战qq242184780，里世界小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858\n女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "oricz233"
+              },
+              {
+                "end": 104,
+                "start": 95,
+                "username": "moelipoi"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "cutelingli"
+              },
+              {
+                "end": 144,
+                "start": 129,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 155,
+                "start": 148,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏💜散播同化病毒中～",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926028406774247424/hWplRg7q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7102,
+          "following_count": 296,
+          "like_count": 335,
+          "listed_count": 33,
+          "media_count": 640,
+          "tweet_count": 1898
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-30T14:02:47.000Z",
+        "description": "超绝文媛🩷 垃圾变态的傻逼们请自觉翘着你的烂根来送死🩷 榨取每个雏男的脑子🩷 营业时间几乎为全天哦💚丨语音验证20💚丨门槛20r可抵扣丨 傻逼不用再偷窥了赶紧夹着你的烂裆来敲门💚 门牌：3451423909",
+        "id": "1288837401335328768",
+        "name": "昱昱SexLove_超绝接单版♪💘",
+        "pinned_tweet_id": "1921487172227473735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926032568291311616/n0i1z6MD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16622,
+          "following_count": 263,
+          "like_count": 691,
+          "listed_count": 78,
+          "media_count": 170,
+          "tweet_count": 2166
+        },
+        "username": "YuSama_Uknwdy",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1793152057786179717",
+    "created_at": "2024-05-22T05:29:00.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-22T06:29:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1793152057786179717"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1573629548226236416",
+          "start": 3,
+          "username": "fuyuka35"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1793152057786179717",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1792525121896464550",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fuyuka35: 520快乐～今天是逆NTR特辑～\n这种重要的日子当然是要和“喜欢”的人待在一起，做“舒服”的事情吧？您看到这条推文时，脑海里可不能闪过某些糟糕的片段哦w\n如果是和女友在一起还中招的话，就更加糟糕了（笑）\n出现这种症状的话请私信联系医生🎶\n当然～没有症…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1793152057786179717].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1793152057786179717",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1793152057786179717"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1792525119178653697"
+          ]
+        },
+        "author_id": "1573629548226236416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1792525121896464550",
+        "created_at": "2024-05-20T11:57:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-20T12:57:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1792525121896464550"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 143,
+              "start": 140,
+              "tag": "洗脑"
+            },
+            {
+              "end": 147,
+              "start": 144,
+              "tag": "催眠"
+            },
+            {
+              "end": 152,
+              "start": 148,
+              "tag": "ATM"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/uykQDnydrw",
+              "end": 176,
+              "expanded_url": "https://twitter.com/fuyuka35/status/1792525121896464550/photo/1",
+              "media_key": "3_1792525119178653697",
+              "start": 153,
+              "url": "https://t.co/uykQDnydrw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792525121896464550",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2666,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "520快乐～今天是逆NTR特辑～\n这种重要的日子当然是要和“喜欢”的人待在一起，做“舒服”的事情吧？您看到这条推文时，脑海里可不能闪过某些糟糕的片段哦w\n如果是和女友在一起还中招的话，就更加糟糕了（笑）\n出现这种症状的话请私信联系医生🎶\n当然～没有症状的客人也可以提供养成服务🖤\n#洗脑 #催眠 #ATM https://t.co/uykQDnydrw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "就如同推特名一样\n是传说中的网络美少女，在异世界中是名副其实的“魔女”💜\n对人类世界充满好奇，会用自己的一些方式来洗脑一些小雏男以满足自己的恶趣味，非常拜金💚征集人型钱包中..\n门牌是2829556413和2438028521（备用）\n请来送死~♡\n不涉三哦",
+        "id": "1374389254726455305",
+        "name": "请叫我魔女小姐💜（白纸计划上线中）",
+        "pinned_tweet_id": "1791781042321571928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790638369040711680/qE_AOavg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4834,
+          "following_count": 159,
+          "like_count": 141,
+          "listed_count": 23,
+          "tweet_count": 950
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-24T11:05:01.000Z",
+        "description": "不涉三文援～喜欢被玩弄的大哥哥请注意性癖与钱包的安全🖤被调教出糟糕的性癖，沉迷在我这里的话我可不会留手哟？详细请看置顶～推文请看媒体～",
+        "id": "1573629548226236416",
+        "name": "冬香♡【偷懒】【互推】",
+        "pinned_tweet_id": "1789527306672976145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1738078629177991168/4VpqeiFy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2325,
+          "following_count": 7,
+          "like_count": 0,
+          "listed_count": 13,
+          "tweet_count": 145
+        },
+        "username": "fuyuka35",
+        "verified": false
+      }
+    ]
+  }
+}

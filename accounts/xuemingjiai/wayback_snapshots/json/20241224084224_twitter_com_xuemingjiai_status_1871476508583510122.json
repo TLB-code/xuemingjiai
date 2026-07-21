@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1871128494727639040"
+      ],
+      "media_source_tweet_id": [
+        "1871132835278729709"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "1871476508583510122",
+    "created_at": "2024-12-24T08:42:24.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-24T09:42:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1871476508583510122"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1288837401335328768",
+          "start": 3,
+          "username": "YuSama_Uknwdy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pOFJdGGTWM",
+          "end": 132,
+          "expanded_url": "https://x.com/YuSama_Uknwdy/status/1871132835278729709/photo/1",
+          "media_key": "3_1871128494727639040",
+          "start": 109,
+          "url": "https://t.co/pOFJdGGTWM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1871476508583510122",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "1871132835278729709",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YuSama_Uknwdy: 小屌绿王八老公又来对绿爹送死了呐~瞧瞧自己这幅贱样多恶心喔💚作为人家跟黑爹爸爸的专属绿奴废物王八💚雌屌上面的阴毛已经一根不剩的全部剔除掉了哦💚并且已经被黑爹剥夺了勃起的资格哦💚… https://t.co/pOFJdGGTWM"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1871476508583510122].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1871476508583510122",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1871476508583510122"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 848,
+        "media_key": "3_1871128494727639040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GfeVc8laMAAI-0T.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1871128494727639040"
+          ]
+        },
+        "author_id": "1288837401335328768",
+        "conversation_id": "1871132835278729709",
+        "created_at": "2024-12-23T09:56:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-23T10:56:07.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1871132672275419628",
+          "1871132835278729709"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pOFJdGGTWM",
+              "end": 113,
+              "expanded_url": "https://x.com/YuSama_Uknwdy/status/1871132835278729709/photo/1",
+              "media_key": "3_1871128494727639040",
+              "start": 90,
+              "url": "https://t.co/pOFJdGGTWM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871132835278729709",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 462,
+                "start": 458,
+                "tag": "BBC"
+              },
+              {
+                "end": 467,
+                "start": 463,
+                "tag": "QOS"
+              },
+              {
+                "end": 471,
+                "start": 468,
+                "tag": "羞辱"
+              },
+              {
+                "end": 475,
+                "start": 472,
+                "tag": "文媛"
+              },
+              {
+                "end": 479,
+                "start": 476,
+                "tag": "抖s"
+              },
+              {
+                "end": 483,
+                "start": 480,
+                "tag": "媚黑"
+              },
+              {
+                "end": 487,
+                "start": 484,
+                "tag": "接单"
+              },
+              {
+                "end": 491,
+                "start": 488,
+                "tag": "女s"
+              },
+              {
+                "end": 495,
+                "start": 492,
+                "tag": "绿帽"
+              }
+            ]
+          },
+          "text": "小屌绿王八老公又来对绿爹送死了呐~瞧瞧自己这幅贱样多恶心喔💚作为人家跟黑爹爸爸的专属绿奴废物王八💚雌屌上面的阴毛已经一根不剩的全部剔除掉了哦💚并且已经被黑爹剥夺了勃起的资格哦💚\n废物雌屌只能带着贞操锁不停的顶锁~还要挂着黑爹操出来的宝贵浓精用于改造你的低贱废物王八基因💚看着人家在黑爹面前投怀送抱~自己只能带上眼罩听着人家被肏的发出像母雌婊子一样“啊啊啊”的娇喘浪叫来获得【锁内射精】的资格💚\n不过不用灰心哦亲爱的~对于你这种早就被黑爹改造雌化成一个废物男婊人妖的绿奴来说【锁内射精】也是算【内射】哦💚只不过内射的对象不是人家的淫穴~而是你的贞操锁里哦💚💚💚\n以后只能这样看着人家被黑爹玩弄成专属母猪肉便器喔~而你这个废物工具人绿奴的烂屌只能被锁死在贞操锁里哦💚每次排精的时间都是由人家跟黑爹所掌控说的算的哦💚每次想要排精就要跪在地上像一只弱智没有任何智商脑子的舔狗一样去给人家报销跟黑爹的【开房费】【套套费】【肏屄营养费】【约会费】🖤这些应该全都要由你这个废物绿王八跪舔着人家被黑爹肏成母猪一样的骚屄自觉上贡哦🖤\n#BBC #QOS #羞辱 #文媛 #抖s #媚黑 #接单 #女s #绿帽"
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 3519,
+          "like_count": 55,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "小屌绿王八老公又来对绿爹送死了呐~瞧瞧自己这幅贱样多恶心喔💚作为人家跟黑爹爸爸的专属绿奴废物王八💚雌屌上面的阴毛已经一根不剩的全部剔除掉了哦💚并且已经被黑爹剥夺了勃起的资格哦💚… https://t.co/pOFJdGGTWM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "您好～这里是出道以来一直致力于为小雏男哥哥们提供“舒适”“安全”“极致快感”的纯真妹系小天使魔女妹妹💚\n想了解我请翻看我的推文～\nqq2829556413，碎碎念小号@oricz233\n共同出道的偶像老婆：@moeliQWQ\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 83,
+                "username": "oricz233"
+              },
+              {
+                "end": 112,
+                "start": 103,
+                "username": "moeliQWQ"
+              },
+              {
+                "end": 130,
+                "start": 119,
+                "username": "cutelingli"
+              },
+              {
+                "end": 152,
+                "start": 137,
+                "username": "chessy80978858"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系天使偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868371538053091328/WDeV3GGD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6210,
+          "following_count": 240,
+          "like_count": 263,
+          "listed_count": 26,
+          "media_count": 521,
+          "tweet_count": 1424
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-30T14:02:47.000Z",
+        "description": "文媛🩷\n喜欢垃圾变态的小傻逼🩷\n你越废物人家越喜欢哦🩷\n榨取每个雏男的脑子🩷精液🩷钱包🩷请将这些全部上贡给昱昱小姐吧🩷\n营业时间几乎为全天哦💚丨语音验证20💚丨门槛20r可抵扣丨\n早泄阳痿的傻逼不用再偷窥了赶紧夹着你的烂裆来敲门💚\n门牌：3107165055",
+        "id": "1288837401335328768",
+        "name": "昱昱SexLove_超绝接单版♪💘",
+        "pinned_tweet_id": "1867103134054748538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868234032787660800/l2vV4GJA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10972,
+          "following_count": 235,
+          "like_count": 634,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 1258
+        },
+        "username": "YuSama_Uknwdy",
+        "verified": true
+      }
+    ]
+  }
+}

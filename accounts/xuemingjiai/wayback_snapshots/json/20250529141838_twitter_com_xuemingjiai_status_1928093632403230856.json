@@ -1,0 +1,373 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1928093632403230856",
+    "created_at": "2025-05-29T14:18:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-29T15:18:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928093632403230856"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 76,
+          "start": 73,
+          "tag": "文游"
+        },
+        {
+          "end": 80,
+          "start": 77,
+          "tag": "臀控"
+        },
+        {
+          "end": 84,
+          "start": 81,
+          "tag": "足控"
+        },
+        {
+          "end": 88,
+          "start": 85,
+          "tag": "抖m"
+        },
+        {
+          "end": 93,
+          "start": 89,
+          "tag": "高跟鞋"
+        },
+        {
+          "end": 97,
+          "start": 94,
+          "tag": "女s"
+        },
+        {
+          "end": 103,
+          "start": 98,
+          "tag": "油光丝袜"
+        },
+        {
+          "end": 107,
+          "start": 104,
+          "tag": "丝袜"
+        },
+        {
+          "end": 112,
+          "start": 108,
+          "tag": "恋物癖"
+        },
+        {
+          "end": 116,
+          "start": 113,
+          "tag": "窒息"
+        },
+        {
+          "end": 120,
+          "start": 117,
+          "tag": "寸止"
+        },
+        {
+          "end": 126,
+          "start": 121,
+          "tag": "寸止地狱"
+        },
+        {
+          "end": 130,
+          "start": 127,
+          "tag": "引导"
+        },
+        {
+          "end": 134,
+          "start": 131,
+          "tag": "压榨"
+        },
+        {
+          "end": 138,
+          "start": 135,
+          "tag": "贡奴"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1752181716028936192",
+          "start": 3,
+          "username": "geye_zm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928093632403230856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928001565429760170",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @geye_zm: 新企划\n作为竞选董事会的你，在喝下秘书给的“水”之后，被秘书抓到把柄，最后被秘书夺取了作为“人”的一切❤️\n\n关键词\n\n#文游 #臀控 #足控 #抖m #高跟鞋 #女s #油光丝袜 #丝袜 #恋物癖 #窒息 #寸止 #寸止地狱 #引导 #压榨 #贡奴…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1928093632403230856].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1928093632403230856",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1928093632403230856"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 719,
+        "media_key": "3_1928000658772480001",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsGiYljaUAE4Jma.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1928000658772480001"
+          ]
+        },
+        "author_id": "1752181716028936192",
+        "conversation_id": "1928001565429760170",
+        "created_at": "2025-05-29T08:12:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-29T09:12:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928001565429760170"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 63,
+              "start": 60,
+              "tag": "文游"
+            },
+            {
+              "end": 67,
+              "start": 64,
+              "tag": "臀控"
+            },
+            {
+              "end": 71,
+              "start": 68,
+              "tag": "足控"
+            },
+            {
+              "end": 75,
+              "start": 72,
+              "tag": "抖m"
+            },
+            {
+              "end": 80,
+              "start": 76,
+              "tag": "高跟鞋"
+            },
+            {
+              "end": 84,
+              "start": 81,
+              "tag": "女s"
+            },
+            {
+              "end": 90,
+              "start": 85,
+              "tag": "油光丝袜"
+            },
+            {
+              "end": 94,
+              "start": 91,
+              "tag": "丝袜"
+            },
+            {
+              "end": 99,
+              "start": 95,
+              "tag": "恋物癖"
+            },
+            {
+              "end": 103,
+              "start": 100,
+              "tag": "窒息"
+            },
+            {
+              "end": 107,
+              "start": 104,
+              "tag": "寸止"
+            },
+            {
+              "end": 113,
+              "start": 108,
+              "tag": "寸止地狱"
+            },
+            {
+              "end": 117,
+              "start": 114,
+              "tag": "引导"
+            },
+            {
+              "end": 121,
+              "start": 118,
+              "tag": "压榨"
+            },
+            {
+              "end": 125,
+              "start": 122,
+              "tag": "贡奴"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tdiH4KCxye",
+              "end": 149,
+              "expanded_url": "https://x.com/geye_zm/status/1928001565429760170/photo/1",
+              "media_key": "3_1928000658772480001",
+              "start": 126,
+              "url": "https://t.co/tdiH4KCxye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928001565429760170",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2168,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "新企划\n作为竞选董事会的你，在喝下秘书给的“水”之后，被秘书抓到把柄，最后被秘书夺取了作为“人”的一切❤️\n\n关键词\n\n#文游 #臀控 #足控 #抖m #高跟鞋 #女s #油光丝袜 #丝袜 #恋物癖 #窒息 #寸止 #寸止地狱 #引导 #压榨 #贡奴 https://t.co/tdiH4KCxye"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "集美貌，智慧，强大于一身的魔女族公主现身人世～区区人类，跪下向我表示臣服吧💜\n被我支配 控制 吸脑 成为奴仆💜\n挑战qq242184780，里世界小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858\n女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "oricz233"
+              },
+              {
+                "end": 104,
+                "start": 95,
+                "username": "moelipoi"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "cutelingli"
+              },
+              {
+                "end": 144,
+                "start": 129,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 155,
+                "start": 148,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏💜散播同化病毒中～",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926028406774247424/hWplRg7q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7034,
+          "following_count": 294,
+          "like_count": 326,
+          "listed_count": 32,
+          "media_count": 631,
+          "tweet_count": 1881
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-30T04:07:37.000Z",
+        "description": "这里是葛叶真明，游戏创作者，创作各类文游，内容涵盖寸止，窒息，辱骂，倒计时等，欢迎各位同行扩列互推～\n买游戏找客服:@Medicyli",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 58,
+                "username": "Medicyli"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+Zqurf7RUye42M…",
+                "end": 23,
+                "expanded_url": "https://t.me/+Zqurf7RUye42MzM1",
+                "start": 0,
+                "url": "https://t.co/MW0XxdohmG"
+              }
+            ]
+          }
+        },
+        "id": "1752181716028936192",
+        "location": "游戏作者",
+        "name": "葛叶真明",
+        "pinned_tweet_id": "1918988939119177751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919451956390854656/mLuuHJAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8060,
+          "following_count": 133,
+          "like_count": 68,
+          "listed_count": 15,
+          "media_count": 55,
+          "tweet_count": 666
+        },
+        "url": "https://t.co/MW0XxdohmG",
+        "username": "geye_zm",
+        "verified": false
+      }
+    ]
+  }
+}

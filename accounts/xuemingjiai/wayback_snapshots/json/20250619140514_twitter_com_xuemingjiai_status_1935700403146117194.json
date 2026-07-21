@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1935700403146117194",
+    "created_at": "2025-06-19T14:05:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-19T15:05:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935700403146117194"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 119,
+          "start": 114,
+          "tag": "女性崇拜"
+        },
+        {
+          "end": 125,
+          "start": 120,
+          "tag": "四爱女攻"
+        },
+        {
+          "end": 129,
+          "start": 126,
+          "tag": "上贡"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1930531252576337920",
+          "start": 3,
+          "username": "Mocxya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935700403146117194",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935682151049302440",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Mocxya: 傻逼♡肏你妈🖤\n今天没有文案♡\n今天只想把你们这群猪猡渣滓们丢进屠宰场\n今天♡今天没有过门的傻逼一律视为野猪哦\n无家可归♡在外流浪♡无人认领的野猪♡\n只能可怜的丢到最底层撵作骨泥\n贡♡吐♡死\n完美的猪生\n#女性崇拜 #四爱女攻 #上贡 https://t…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1935700403146117194].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1935700403146117194",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1935700403146117194"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1935681857451892736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtzsZMeWoAACXWV.jpg",
+        "width": 822
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935681857451892736"
+          ]
+        },
+        "author_id": "1930531252576337920",
+        "conversation_id": "1935682151049302440",
+        "created_at": "2025-06-19T12:52:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T13:52:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935682151049302440"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 107,
+              "start": 102,
+              "tag": "女性崇拜"
+            },
+            {
+              "end": 113,
+              "start": 108,
+              "tag": "四爱女攻"
+            },
+            {
+              "end": 117,
+              "start": 114,
+              "tag": "上贡"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BAi6e6wIsw",
+              "end": 141,
+              "expanded_url": "https://x.com/Mocxya/status/1935682151049302440/photo/1",
+              "media_key": "3_1935681857451892736",
+              "start": 118,
+              "url": "https://t.co/BAi6e6wIsw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935682151049302440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 80,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "傻逼♡肏你妈🖤\n今天没有文案♡\n今天只想把你们这群猪猡渣滓们丢进屠宰场\n今天♡今天没有过门的傻逼一律视为野猪哦\n无家可归♡在外流浪♡无人认领的野猪♡\n只能可怜的丢到最底层撵作骨泥\n贡♡吐♡死\n完美的猪生\n#女性崇拜 #四爱女攻 #上贡 https://t.co/BAi6e6wIsw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n你也会因为窥视我的美貌而心甘情愿沦为钱包被我使用的对吗？\n钱包报名入口：3971546171\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 67,
+                "username": "oricz233"
+              },
+              {
+                "end": 96,
+                "start": 87,
+                "username": "moelipoi"
+              },
+              {
+                "end": 114,
+                "start": 103,
+                "username": "cutelingli"
+              },
+              {
+                "end": 136,
+                "start": 121,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 148,
+                "start": 141,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍驯化公用钱包👛中",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931064828044713984/9qwnduVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7252,
+          "following_count": 309,
+          "like_count": 371,
+          "listed_count": 32,
+          "media_count": 692,
+          "tweet_count": 2098
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-05T07:45:06.000Z",
+        "description": "无论怎样，我希望每个人都有人爱，每个人都有光明的未来♡\n接单❤️接单并不像文字一样温柔\n你喜欢我就要喜欢我的温柔，我的🖤，我的一切🖤\n什么类型都可以接i iiii le以及各种口味的xp\n联系方式3674334595是接单小号有20🚪别瞎",
+        "id": "1930531252576337920",
+        "name": "抹茶蛋糕（白丝家）",
+        "pinned_tweet_id": "1931035501059772887",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930580642527428608/a0wwu4eN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 23,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 54
+        },
+        "username": "Mocxya",
+        "verified": false
+      }
+    ]
+  }
+}

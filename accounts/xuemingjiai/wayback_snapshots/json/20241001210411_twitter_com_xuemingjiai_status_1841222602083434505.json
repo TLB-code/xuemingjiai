@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1841222599059378176"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "1841222407048302732",
+    "created_at": "2024-10-01T21:04:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-01T22:04:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1841222602083434505"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rCxL4ELpxk",
+          "end": 168,
+          "expanded_url": "https://x.com/xuemingjiai/status/1841222602083434505/photo/1",
+          "media_key": "3_1841222599059378176",
+          "start": 145,
+          "url": "https://t.co/rCxL4ELpxk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1841222602083434505",
+    "in_reply_to_user_id": "1374389254726455305",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1841222531493347792",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这不是很棒吗～已经完全掌握日麻的玩法啦，好棒好棒呢ww，接下来也只需要按照魔女小姐教过的暗号进行游戏，就能愉快的体验一局日本麻将啦♪\n嗯？你说这不是你想象中的打麻将，你要认认真真的用牌技打败魔女小姐？\n好喔，前提是能获胜啦💜\n顺带一提，刚才魔女小姐也有设置——公开手牌这一“基础”设定哦？ https://t.co/rCxL4ELpxk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1841222599059378176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GY1WMtlbEAAFvDl.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1841222599059378176"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "1841222407048302732",
+        "created_at": "2024-10-01T21:04:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-01T22:04:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1841222602083434505"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rCxL4ELpxk",
+              "end": 168,
+              "expanded_url": "https://x.com/xuemingjiai/status/1841222602083434505/photo/1",
+              "media_key": "3_1841222599059378176",
+              "start": 145,
+              "url": "https://t.co/rCxL4ELpxk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841222602083434505",
+        "in_reply_to_user_id": "1374389254726455305",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1841222531493347792",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这不是很棒吗～已经完全掌握日麻的玩法啦，好棒好棒呢ww，接下来也只需要按照魔女小姐教过的暗号进行游戏，就能愉快的体验一局日本麻将啦♪\n嗯？你说这不是你想象中的打麻将，你要认认真真的用牌技打败魔女小姐？\n好喔，前提是能获胜啦💜\n顺带一提，刚才魔女小姐也有设置——公开手牌这一“基础”设定哦？ https://t.co/rCxL4ELpxk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1841222528234373121"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1508516052753285122",
+              "name": "Mahjong Soul"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1508516052753285122",
+              "name": "Mahjong Soul"
+            }
+          }
+        ],
+        "conversation_id": "1841222407048302732",
+        "created_at": "2024-10-01T21:03:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-01T22:03:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1841222531493347792"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/W3snt5JL8F",
+              "end": 160,
+              "expanded_url": "https://x.com/xuemingjiai/status/1841222531493347792/photo/1",
+              "media_key": "3_1841222528234373121",
+              "start": 137,
+              "url": "https://t.co/W3snt5JL8F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841222531493347792",
+        "in_reply_to_user_id": "1374389254726455305",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1841222407048302732",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "从零开始的日麻教学馆♪\n已经知晓日麻的玩法了吧？那些专业名词真的是很麻烦啦..虽然魔女小姐的雀魂段位很高，可依旧会觉得很麻烦♪\n那么～魔女小姐用魔力制作了两个分身，三位不同风格的魔女小姐分别坐在你的左边，右边，和正对面哦，请初学者小雏男好好的按照魔女小姐的教学进行游戏哦💜 https://t.co/W3snt5JL8F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "超绝可爱💖\n她就是出道即巅峰的可爱纯真小天使新人偶像魔女小姐💖\n对这样的魔女小姐不能心怀任何涩涩的念想哦，不然就会变得非常糟糕...踏入无法挣脱的陷阱和牢笼里呢💘\n魔女小姐无论说什么做什么都是正确的哦，身为她的粉丝，只需要无条件用各种方式支持她就好了～\nqq2829556413",
+        "id": "1374389254726455305",
+        "name": "电波系新人偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1839039717712724125",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1838988880479162368/gYDpBM6v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5420,
+          "following_count": 202,
+          "like_count": 154,
+          "listed_count": 23,
+          "tweet_count": 1104
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

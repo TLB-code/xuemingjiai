@@ -1,0 +1,194 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1792201833366290433"
+      ],
+      "media_source_tweet_id": [
+        "1792201840492474372"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "1792381765144944894",
+    "created_at": "2024-05-20T02:28:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-20T03:28:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1792381765144944894"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1743494756737658880",
+          "start": 3,
+          "username": "XiaoLinYIA"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/UsksfN6n31",
+          "end": 71,
+          "expanded_url": "https://twitter.com/XiaoLinYIA/status/1792201840492474372/photo/1",
+          "media_key": "3_1792201833366290433",
+          "start": 48,
+          "url": "https://t.co/UsksfN6n31"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1792381765144944894",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1792201840492474372",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XiaoLinYIA: 针对贡奴的新问卷预售中\n原价30，现优惠价21\n贡畜们来听课了 https://t.co/UsksfN6n31"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1792381765144944894].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1792381765144944894",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1792381765144944894"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2061,
+        "media_key": "3_1792201833366290433",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GN8uEmuaAAEraZo.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1792201833366290433"
+          ]
+        },
+        "author_id": "1743494756737658880",
+        "conversation_id": "1792201840492474372",
+        "created_at": "2024-05-19T14:33:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-19T15:33:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1792201840492474372"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/UsksfN6n31",
+              "end": 55,
+              "expanded_url": "https://twitter.com/XiaoLinYIA/status/1792201840492474372/photo/1",
+              "media_key": "3_1792201833366290433",
+              "start": 32,
+              "url": "https://t.co/UsksfN6n31"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792201840492474372",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2173,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "针对贡奴的新问卷预售中\n原价30，现优惠价21\n贡畜们来听课了 https://t.co/UsksfN6n31"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "就如同推特名一样\n是传说中的网络美少女，在异世界中是名副其实的“魔女”💜\n对人类世界充满好奇，会用自己的一些方式来洗脑一些小雏男以满足自己的恶趣味，非常拜金💚征集人型钱包中..\n门牌是2829556413和2438028521（备用）\n请来送死~♡\n不涉三哦",
+        "id": "1374389254726455305",
+        "name": "请叫我魔女小姐💜（白纸计划上线中）",
+        "pinned_tweet_id": "1791781042321571928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790638369040711680/qE_AOavg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4816,
+          "following_count": 158,
+          "like_count": 141,
+          "listed_count": 22,
+          "tweet_count": 948
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-06T04:48:45.000Z",
+        "description": "这里是小琳，喜欢写一些涩涩有趣的文字和玩法，发情的狗狗们快来落网/ 门牌是:3657332395 ，无门槛/欢迎前来白给/真诚互推可私信来/ 行为止步于网络，不带入三次元生活/下面链接可购买问卷/大号@xiaolinyai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 100,
+                "username": "xiaolinyai"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "afdian.net/a/xiaolinyia",
+                "end": 23,
+                "expanded_url": "http://afdian.net/a/xiaolinyia",
+                "start": 0,
+                "url": "https://t.co/wnyUWm2ZCj"
+              }
+            ]
+          }
+        },
+        "id": "1743494756737658880",
+        "location": "是小男娘，性别为男，当然也可以叫姐姐!",
+        "name": "小琳sama",
+        "pinned_tweet_id": "1785909482494759179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1760929187714748416/iaPWb2u8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2457,
+          "following_count": 63,
+          "like_count": 63,
+          "listed_count": 7,
+          "tweet_count": 280
+        },
+        "url": "https://t.co/wnyUWm2ZCj",
+        "username": "XiaoLinYIA",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1922177935735160870",
+    "created_at": "2025-05-13T06:31:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-13T07:31:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922177935735160870"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1743494756737658880",
+          "start": 3,
+          "username": "XiaoLinYIA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922177935735160870",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 93
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919989817443496104",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XiaoLinYIA: 是milo文游，咱很久没有出新游戏了，患上贡瘾的贱狗们应该难受好久了叭~\n\n本次的游戏还是引导洗脑项，你的大脑会被一些正确的信息塞满而变得舒服♥\n\n第一次用milo，感谢一些人的帮助\n本次的游戏售价39r好了，内容有加长♡\n\n照旧在转发区抽奖6位…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1922177935735160870].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1922177935735160870",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1922177935735160870"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1877,
+        "media_key": "3_1919989807146795013",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqUsjptbAAUyz7R.jpg",
+        "width": 1200
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1919989808195371008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqUsjtnbAAACFlA.jpg",
+        "width": 1046
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1919989807146795013",
+            "3_1919989808195371008"
+          ]
+        },
+        "author_id": "1743494756737658880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1919989817443496104",
+        "created_at": "2025-05-07T05:36:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T06:36:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919989817443496104"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 147,
+              "start": 144,
+              "tag": "贡奴"
+            },
+            {
+              "end": 151,
+              "start": 148,
+              "tag": "压榨"
+            },
+            {
+              "end": 155,
+              "start": 152,
+              "tag": "文游"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pxQDKGIAI8",
+              "end": 179,
+              "expanded_url": "https://x.com/XiaoLinYIA/status/1919989817443496104/photo/1",
+              "media_key": "3_1919989807146795013",
+              "start": 156,
+              "url": "https://t.co/pxQDKGIAI8"
+            },
+            {
+              "display_url": "pic.x.com/pxQDKGIAI8",
+              "end": 179,
+              "expanded_url": "https://x.com/XiaoLinYIA/status/1919989817443496104/photo/1",
+              "media_key": "3_1919989808195371008",
+              "start": 156,
+              "url": "https://t.co/pxQDKGIAI8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919989817443496104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 17138,
+          "like_count": 118,
+          "quote_count": 1,
+          "reply_count": 41,
+          "retweet_count": 93
+        },
+        "reply_settings": "everyone",
+        "text": "是milo文游，咱很久没有出新游戏了，患上贡瘾的贱狗们应该难受好久了叭~\n\n本次的游戏还是引导洗脑项，你的大脑会被一些正确的信息塞满而变得舒服♥\n\n第一次用milo，感谢一些人的帮助\n本次的游戏售价39r好了，内容有加长♡\n\n照旧在转发区抽奖6位用户赠送!!\n时间到下周三3⃣️晚上截止\n#贡奴 #压榨 #文游 https://t.co/pxQDKGIAI8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "您好～这里是一直致力于为小雏男哥哥们提供“舒适”“安全”“极致射金体验”的纯真妹系小天使魔女妹妹💚\n想更加了解请翻看推文～\nqq242184780，病毒小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858\n女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 78,
+                "username": "oricz233"
+              },
+              {
+                "end": 107,
+                "start": 98,
+                "username": "moelipoi"
+              },
+              {
+                "end": 125,
+                "start": 114,
+                "username": "cutelingli"
+              },
+              {
+                "end": 147,
+                "start": 132,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 158,
+                "start": 151,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系天使偶像魔女小姐💖女仆限定版♪",
+        "pinned_tweet_id": "1912930515570835816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909108552796651520/gRlgoaOf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6829,
+          "following_count": 281,
+          "like_count": 309,
+          "listed_count": 30,
+          "media_count": 592,
+          "tweet_count": 1751
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-06T04:48:45.000Z",
+        "description": "重新写个简介。这里是你们的小琳大人，喜欢写点傻逼贡奴们爱看的文字。门牌是:3657332395 ，门槛10r防白嫖怪。♡下方链接🔗为吐金通道。互推私信，批量转推别来",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "app.unifans.io/c/xiaolinyai",
+                "end": 23,
+                "expanded_url": "https://app.unifans.io/c/xiaolinyai",
+                "start": 0,
+                "url": "https://t.co/uvrNafJrrO"
+              }
+            ]
+          }
+        },
+        "id": "1743494756737658880",
+        "location": "是小男娘，性别为男（不喜勿扰）当然也可以叫姐姐!",
+        "name": "小琳sama",
+        "pinned_tweet_id": "1919989817443496104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861813283554209792/fAechQ-K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4150,
+          "following_count": 90,
+          "like_count": 182,
+          "listed_count": 8,
+          "media_count": 214,
+          "tweet_count": 616
+        },
+        "url": "https://t.co/uvrNafJrrO",
+        "username": "XiaoLinYIA",
+        "verified": false
+      }
+    ]
+  }
+}

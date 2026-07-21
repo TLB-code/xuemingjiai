@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1926025273331294705",
+    "created_at": "2025-05-23T21:19:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-23T22:19:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926025273331294705"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1908183909277609984",
+          "start": 3,
+          "username": "yun1952110"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926025273331294705",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925546762569236877",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yun1952110: 看了这么久，“你”应该知道的吧？\n我所有推文的目的，只是为了创造一群好用的“钱包奴隶”而已哦～\n如果不想自己变成\n因为我的几句话就把【理智】丢掉\n为了一点【快感】\n就变成只会吐钱的好用工具\n就不会点进来\n更不会关注了吧？\n那\n非要这么做的“你”…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1926025273331294705].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1926025273331294705",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1926025273331294705"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 796,
+        "media_key": "3_1925546750728716288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrjqkVuXwAAj5Ku.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1925546750728716288"
+          ]
+        },
+        "author_id": "1908183909277609984",
+        "conversation_id": "1925546762569236877",
+        "created_at": "2025-05-22T13:38:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T14:38:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925546762569236877"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4v5g0GCuVc",
+              "end": 169,
+              "expanded_url": "https://x.com/yun1952110/status/1925546762569236877/photo/1",
+              "media_key": "3_1925546750728716288",
+              "start": 146,
+              "url": "https://t.co/4v5g0GCuVc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925546762569236877",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2321,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "看了这么久，“你”应该知道的吧？\n我所有推文的目的，只是为了创造一群好用的“钱包奴隶”而已哦～\n如果不想自己变成\n因为我的几句话就把【理智】丢掉\n为了一点【快感】\n就变成只会吐钱的好用工具\n就不会点进来\n更不会关注了吧？\n那\n非要这么做的“你”\n还在抵抗什么呢？\n自觉私信贡出口令红包哦🖤～ https://t.co/4v5g0GCuVc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "集美貌，智慧，强大于一身的魔女族公主现身人世～区区人类，跪下向我表示臣服吧💜\n被我支配 控制 吸脑 成为奴仆💜\n挑战qq242184780，里世界小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858\n女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "oricz233"
+              },
+              {
+                "end": 104,
+                "start": 95,
+                "username": "moelipoi"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "cutelingli"
+              },
+              {
+                "end": 144,
+                "start": 129,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 155,
+                "start": 148,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏💜强势登场人间",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923161284247420929/dv1s2unV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7000,
+          "following_count": 289,
+          "like_count": 320,
+          "listed_count": 32,
+          "media_count": 618,
+          "tweet_count": 1838
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-04T15:45:12.000Z",
+        "description": "🖤 无底线🖤洗脑❤️ 会用色情的语言清空傻逼处男的钱包呢🖤\n门牌3023421569\n  264838818\n门槛5",
+        "id": "1908183909277609984",
+        "name": "yun（互推）",
+        "pinned_tweet_id": "1921884054611181818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925546901136433152/Oh8Aa4ni_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 17,
+          "like_count": 24,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 152
+        },
+        "username": "yun1952110",
+        "verified": false
+      }
+    ]
+  }
+}

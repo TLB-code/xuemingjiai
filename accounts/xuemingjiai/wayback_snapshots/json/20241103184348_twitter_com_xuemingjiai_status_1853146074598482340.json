@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1853146071817658368"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1851563784554627239",
+    "created_at": "2024-11-03T18:43:48.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-03T19:43:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1853146074598482340"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ony6eYdMdW",
+          "end": 148,
+          "expanded_url": "https://x.com/xuemingjiai/status/1853146074598482340/photo/1",
+          "media_key": "3_1853146071817658368",
+          "start": 125,
+          "url": "https://t.co/Ony6eYdMdW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1853146074598482340",
+    "in_reply_to_user_id": "1374389254726455305",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1852559958170313183",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "诶～没想到姐姐的模特任务就是到姐姐开的一家女仆咖啡厅打工一天～只要打工一天就能免费获得身上这件价值200g的jk装唔～感觉超级划算💕\n只是..这里好像就只有我一个男孩子呢，别的女仆姐姐都是很漂亮胸部很大身材很好的女孩子呢，我也要加油不能输给她们呀～ https://t.co/Ony6eYdMdW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_1853146071817658368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GbeyiK-aIAAK42B.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1853146071817658368"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1851563784554627239",
+        "created_at": "2024-11-03T18:43:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-03T19:43:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1853146074598482340"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ony6eYdMdW",
+              "end": 148,
+              "expanded_url": "https://x.com/xuemingjiai/status/1853146074598482340/photo/1",
+              "media_key": "3_1853146071817658368",
+              "start": 125,
+              "url": "https://t.co/Ony6eYdMdW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853146074598482340",
+        "in_reply_to_user_id": "1374389254726455305",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1852559958170313183",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "诶～没想到姐姐的模特任务就是到姐姐开的一家女仆咖啡厅打工一天～只要打工一天就能免费获得身上这件价值200g的jk装唔～感觉超级划算💕\n只是..这里好像就只有我一个男孩子呢，别的女仆姐姐都是很漂亮胸部很大身材很好的女孩子呢，我也要加油不能输给她们呀～ https://t.co/Ony6eYdMdW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1852559955985108992"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "1851563784554627239",
+        "created_at": "2024-11-02T03:54:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-02T04:54:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1852559958170313183"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1852559958170313183",
+        "in_reply_to_user_id": "1374389254726455305",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2290,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1852558702366314713",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那么～对于姐姐的模特委托，屏幕面前的冒险家们会怎么选择呢？\n完成商店老板娘的模特委托即可免费获得一套jk制服～可以在进入魔物塔以后从诅咒衣物切换为jk衣物～\n完成委托会增加商店老板娘的好感度～\n是想要继续堕落于此呢，还是义无反顾的前进寻求更多刺激呢？\n做出选择吧💜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "超绝可爱💖\n她就是出道即巅峰的可爱纯真小天使新人偶像魔女小姐💖\n对这样的魔女小姐不能心怀任何涩涩的念想哦，不然就会变得非常糟糕...踏入无法挣脱的陷阱和牢笼里呢💘\n魔女小姐无论说什么做什么都是正确的哦，身为她的粉丝，只需要无条件用各种方式支持她就好了～\nqq2829556413",
+        "id": "1374389254726455305",
+        "name": "电波系新人偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852908791496683520/hJ-EmF1L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5772,
+          "following_count": 224,
+          "like_count": 182,
+          "listed_count": 23,
+          "tweet_count": 1266
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,396 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1914743982053318996",
+    "created_at": "2025-04-22T18:11:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-22T19:11:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914743982053318996"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 77,
+          "start": 73,
+          "tag": "贞操锁"
+        },
+        {
+          "end": 81,
+          "start": 78,
+          "tag": "锁娘"
+        },
+        {
+          "end": 85,
+          "start": 82,
+          "tag": "文游"
+        },
+        {
+          "end": 91,
+          "start": 86,
+          "tag": "毁灭高潮"
+        },
+        {
+          "end": 95,
+          "start": 92,
+          "tag": "流精"
+        },
+        {
+          "end": 99,
+          "start": 96,
+          "tag": "男娘"
+        },
+        {
+          "end": 103,
+          "start": 100,
+          "tag": "伪娘"
+        },
+        {
+          "end": 107,
+          "start": 104,
+          "tag": "寸止"
+        },
+        {
+          "end": 111,
+          "start": 108,
+          "tag": "白丝"
+        },
+        {
+          "end": 115,
+          "start": 112,
+          "tag": "丝袜"
+        },
+        {
+          "end": 120,
+          "start": 116,
+          "tag": "恋物癖"
+        },
+        {
+          "end": 125,
+          "start": 121,
+          "tag": "恋足癖"
+        },
+        {
+          "end": 131,
+          "start": 126,
+          "tag": "油光丝袜"
+        },
+        {
+          "end": 137,
+          "start": 132,
+          "tag": "油光白丝"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1752181716028936192",
+          "start": 3,
+          "username": "geye_zm"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "milovana.com/webteases/show…",
+          "end": 50,
+          "expanded_url": "https://milovana.com/webteases/showtease.php?id=75598&key=deb3e808e6",
+          "start": 27,
+          "status": 200,
+          "title": "贞操锁下的“母狗”",
+          "unwound_url": "https://milovana.com/webteases/showtease.php?id=75598&key=deb3e808e6",
+          "url": "https://t.co/f42BvdbUOC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914743982053318996",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914565982992970175",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @geye_zm: 好像有锁狗很想要带锁的文游\nhttps://t.co/f42BvdbUOC\n哼哼，我可是业界标杆，没有我做不出的文游！\n#贞操锁 #锁娘 #文游 #毁灭高潮 #流精 #男娘 #伪娘 #寸止 #白丝 #丝袜 #恋物癖 #恋足癖 #油光丝袜 #油光白丝 #…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1914743982053318996].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1914743982053318996",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1914743982053318996"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1914565568524636160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpHnPaMa0AA7R3X.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1914565568524636160"
+          ]
+        },
+        "author_id": "1752181716028936192",
+        "conversation_id": "1914565982992970175",
+        "created_at": "2025-04-22T06:24:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T07:24:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914565982992970175"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 64,
+              "start": 60,
+              "tag": "贞操锁"
+            },
+            {
+              "end": 68,
+              "start": 65,
+              "tag": "锁娘"
+            },
+            {
+              "end": 72,
+              "start": 69,
+              "tag": "文游"
+            },
+            {
+              "end": 78,
+              "start": 73,
+              "tag": "毁灭高潮"
+            },
+            {
+              "end": 82,
+              "start": 79,
+              "tag": "流精"
+            },
+            {
+              "end": 86,
+              "start": 83,
+              "tag": "男娘"
+            },
+            {
+              "end": 90,
+              "start": 87,
+              "tag": "伪娘"
+            },
+            {
+              "end": 94,
+              "start": 91,
+              "tag": "寸止"
+            },
+            {
+              "end": 98,
+              "start": 95,
+              "tag": "白丝"
+            },
+            {
+              "end": 102,
+              "start": 99,
+              "tag": "丝袜"
+            },
+            {
+              "end": 107,
+              "start": 103,
+              "tag": "恋物癖"
+            },
+            {
+              "end": 112,
+              "start": 108,
+              "tag": "恋足癖"
+            },
+            {
+              "end": 118,
+              "start": 113,
+              "tag": "油光丝袜"
+            },
+            {
+              "end": 124,
+              "start": 119,
+              "tag": "油光白丝"
+            },
+            {
+              "end": 128,
+              "start": 125,
+              "tag": "手丝"
+            },
+            {
+              "end": 132,
+              "start": 129,
+              "tag": "手套"
+            },
+            {
+              "end": 138,
+              "start": 133,
+              "tag": "紧身手套"
+            },
+            {
+              "end": 144,
+              "start": 139,
+              "tag": "紧身裤袜"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "milovana.com/webteases/show…",
+              "end": 37,
+              "expanded_url": "https://milovana.com/webteases/showtease.php?id=75598&key=deb3e808e6",
+              "start": 14,
+              "status": 200,
+              "title": "贞操锁下的“母狗”",
+              "unwound_url": "https://milovana.com/webteases/showtease.php?id=75598&key=deb3e808e6",
+              "url": "https://t.co/f42BvdbUOC"
+            },
+            {
+              "display_url": "pic.x.com/XUzLYwmQ6g",
+              "end": 168,
+              "expanded_url": "https://x.com/geye_zm/status/1914565982992970175/photo/1",
+              "media_key": "3_1914565568524636160",
+              "start": 145,
+              "url": "https://t.co/XUzLYwmQ6g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914565982992970175",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 3035,
+          "like_count": 127,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "好像有锁狗很想要带锁的文游\nhttps://t.co/f42BvdbUOC\n哼哼，我可是业界标杆，没有我做不出的文游！\n#贞操锁 #锁娘 #文游 #毁灭高潮 #流精 #男娘 #伪娘 #寸止 #白丝 #丝袜 #恋物癖 #恋足癖 #油光丝袜 #油光白丝 #手丝 #手套 #紧身手套 #紧身裤袜 https://t.co/XUzLYwmQ6g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "您好～这里是一直致力于为小雏男哥哥们提供“舒适”“安全”“极致射金体验”的纯真妹系小天使魔女妹妹💚\n想更加了解请翻看推文～\nqq2829556413，病毒小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858\n女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 79,
+                "username": "oricz233"
+              },
+              {
+                "end": 108,
+                "start": 99,
+                "username": "moelipoi"
+              },
+              {
+                "end": 126,
+                "start": 115,
+                "username": "cutelingli"
+              },
+              {
+                "end": 148,
+                "start": 133,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 159,
+                "start": 152,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系天使偶像魔女小姐💖女仆限定版♪",
+        "pinned_tweet_id": "1912930515570835816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909108552796651520/gRlgoaOf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6733,
+          "following_count": 274,
+          "like_count": 305,
+          "listed_count": 29,
+          "media_count": 577,
+          "tweet_count": 1596
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-30T04:07:37.000Z",
+        "description": "这里是葛叶真明，游戏创作者，虽然写的内容都是dom的但其实自己是sub，创作各类文游，内容涵盖寸止，窒息，辱骂等，想转型做文援所以会经常性发一些推文刺激小狗发情❤️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+Zqurf7RUye42M…",
+                "end": 23,
+                "expanded_url": "https://t.me/+Zqurf7RUye42MzM1",
+                "start": 0,
+                "url": "https://t.co/MW0XxdoPce"
+              }
+            ]
+          }
+        },
+        "id": "1752181716028936192",
+        "location": "游戏作者",
+        "name": "葛叶真明（互推）",
+        "pinned_tweet_id": "1910297462692282831",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1752270803544997888/TU1H8vb-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7137,
+          "following_count": 127,
+          "like_count": 56,
+          "listed_count": 15,
+          "media_count": 41,
+          "tweet_count": 378
+        },
+        "url": "https://t.co/MW0XxdoPce",
+        "username": "geye_zm",
+        "verified": false
+      }
+    ]
+  }
+}

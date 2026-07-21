@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2011825145250222080"
+      ],
+      "media_source_tweet_id": [
+        "2011825204704448761"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "2013274677934776466",
+    "created_at": "2026-01-19T15:37:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T16:37:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013274677934776466"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1984115707815325698",
+          "start": 3,
+          "username": "jingli1840489"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MZJVzqZ1NB",
+          "end": 88,
+          "expanded_url": "https://x.com/jingli1840489/status/2011825204704448761/photo/1",
+          "media_key": "3_2011825145250222080",
+          "start": 65,
+          "url": "https://t.co/MZJVzqZ1NB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013274677934776466",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011825204704448761",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jingli1840489: 来自一位小锁奴宝宝超喜欢的记录，据本人说当时都爽到翻白眼了呢~♡\n欢迎大家前来体验哦~❤️ https://t.co/MZJVzqZ1NB"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2013274677934776466].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2013274677934776466",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2013274677934776466"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2800,
+        "media_key": "3_2011825145250222080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-twT3zWkAA1gaO.jpg",
+        "width": 950
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2011825145250222080"
+          ]
+        },
+        "author_id": "1984115707815325698",
+        "conversation_id": "2011825204704448761",
+        "created_at": "2026-01-15T15:38:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T16:38:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011825204704448761"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MZJVzqZ1NB",
+              "end": 69,
+              "expanded_url": "https://x.com/jingli1840489/status/2011825204704448761/photo/1",
+              "media_key": "3_2011825145250222080",
+              "start": 46,
+              "url": "https://t.co/MZJVzqZ1NB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011825204704448761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 6820,
+          "like_count": 60,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "来自一位小锁奴宝宝超喜欢的记录，据本人说当时都爽到翻白眼了呢~♡\n欢迎大家前来体验哦~❤️ https://t.co/MZJVzqZ1NB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🖤\n最最最最喜欢钱包们啦～\n联系方式→2829556413←\n病毒小号@oricz233\n现任魔女学园院长!\n星辰魔女镜璃\n@jingli1840489\n桃心魔女奈奈\n@blakexiaonai\n 黑白魔女花卷\n@miaomiaomi17630\n好老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 49,
+                "username": "oricz233"
+              },
+              {
+                "end": 90,
+                "start": 76,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 111,
+                "start": 98,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 136,
+                "start": 120,
+                "username": "miaomiaomi17630"
+              },
+              {
+                "end": 155,
+                "start": 140,
+                "username": "chessy80978858"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARosxSy"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🖤魔女学园院长版～",
+        "pinned_tweet_id": "1976743806063063398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012984933145276416/x6NCrC3__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8195,
+          "following_count": 348,
+          "like_count": 640,
+          "listed_count": 37,
+          "media_count": 779,
+          "tweet_count": 2107
+        },
+        "url": "https://t.co/le8ARosxSy",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-31T04:31:00.000Z",
+        "description": "可以是温柔妈咪/可爱妹妹/知心姐姐~也可以是可怕残忍压榨主使用钱包哦🖤\n目前主要玩法：剧情文爱/黑心/绿茶/洗脑/榨金/寸止/催眠/模拟上贡/早泄挑战/贞操管理等💕\n门牌号：q3775591357，致力于让每位朋友都开开心心舒舒服服的喔❤️全天营业，深夜常驻，欢迎前来光顾哦~\n最可爱的奏奏：@xuemingjiai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 158,
+                "start": 146,
+                "username": "xuemingjiai"
+              }
+            ]
+          }
+        },
+        "id": "1984115707815325698",
+        "location": "镜璃的温暖小床~深夜也欢迎打扰哦~",
+        "name": "是镜璃喔~",
+        "pinned_tweet_id": "1993433669315486013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985515782550536192/bMHPg-lN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 949,
+          "following_count": 63,
+          "like_count": 168,
+          "listed_count": 2,
+          "media_count": 26,
+          "tweet_count": 117
+        },
+        "username": "jingli1840489",
+        "verified": false
+      }
+    ]
+  }
+}

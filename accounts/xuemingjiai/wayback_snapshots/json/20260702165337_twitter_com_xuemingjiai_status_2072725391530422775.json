@@ -1,0 +1,359 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071520536442884096",
+        "3_2071520536434552832"
+      ],
+      "media_source_tweet_id": [
+        "2071520553626980392",
+        "2071520553626980392"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2072725391530422775",
+    "created_at": "2026-07-02T16:53:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T17:53:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072725391530422775"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2061742525283487744",
+          "start": 3,
+          "username": "baimi07"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/96T9YX0vDk",
+          "end": 104,
+          "expanded_url": "https://x.com/baimi07/status/2071520553626980392/photo/1",
+          "media_key": "3_2071520536442884096",
+          "start": 81,
+          "url": "https://t.co/96T9YX0vDk"
+        },
+        {
+          "display_url": "pic.x.com/96T9YX0vDk",
+          "end": 104,
+          "expanded_url": "https://x.com/baimi07/status/2071520553626980392/photo/1",
+          "media_key": "3_2071520536434552832",
+          "start": 81,
+          "url": "https://t.co/96T9YX0vDk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072725391530422775",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071520553626980392",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @baimi07: 大家好～这里是女仆猫猫白～\n从今天开始正式成为小女仆为主人服务营业了～！w\n想要认识超多有趣的人！\n（希望大家能来和我玩格斗游戏！！！ https://t.co/96T9YX0vDk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1168,
+        "media_key": "3_2071520536442884096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL-E89ea0AAyqOB.jpg",
+        "width": 784
+      },
+      {
+        "height": 1168,
+        "media_key": "3_2071520536434552832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL-E89cbsAAGQsB.jpg",
+        "width": 784
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071520536442884096",
+            "3_2071520536434552832"
+          ],
+          "media_source_tweet_id": [
+            "2071520553626980392",
+            "2071520553626980392"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2072725391530422775",
+        "created_at": "2026-07-02T16:53:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T17:53:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072725391530422775"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2061742525283487744",
+              "start": 3,
+              "username": "baimi07"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/96T9YX0vDk",
+              "end": 104,
+              "expanded_url": "https://x.com/baimi07/status/2071520553626980392/photo/1",
+              "media_key": "3_2071520536442884096",
+              "start": 81,
+              "url": "https://t.co/96T9YX0vDk"
+            },
+            {
+              "display_url": "pic.x.com/96T9YX0vDk",
+              "end": 104,
+              "expanded_url": "https://x.com/baimi07/status/2071520553626980392/photo/1",
+              "media_key": "3_2071520536434552832",
+              "start": 81,
+              "url": "https://t.co/96T9YX0vDk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072725391530422775",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071520553626980392",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @baimi07: 大家好～这里是女仆猫猫白～\n从今天开始正式成为小女仆为主人服务营业了～！w\n想要认识超多有趣的人！\n（希望大家能来和我玩格斗游戏！！！ https://t.co/96T9YX0vDk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071520536442884096",
+            "3_2071520536434552832"
+          ]
+        },
+        "author_id": "2061742525283487744",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2071520553626980392",
+        "created_at": "2026-06-29T09:06:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T10:06:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071520553626980392"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/96T9YX0vDk",
+              "end": 91,
+              "expanded_url": "https://x.com/baimi07/status/2071520553626980392/photo/1",
+              "media_key": "3_2071520536442884096",
+              "start": 68,
+              "url": "https://t.co/96T9YX0vDk"
+            },
+            {
+              "display_url": "pic.x.com/96T9YX0vDk",
+              "end": 91,
+              "expanded_url": "https://x.com/baimi07/status/2071520553626980392/photo/1",
+              "media_key": "3_2071520536434552832",
+              "start": 68,
+              "url": "https://t.co/96T9YX0vDk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071520553626980392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 3627,
+          "like_count": 46,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "大家好～这里是女仆猫猫白～\n从今天开始正式成为小女仆为主人服务营业了～！w\n想要认识超多有趣的人！\n（希望大家能来和我玩格斗游戏！！！ https://t.co/96T9YX0vDk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "你也觉得你面前的这只魔女可爱过头了吧？\n对的!她和别人不一样!\n邂逅方式→2829556413←↓\n242184780\n涩气内容@oricz233\n星辰魔女镜璃\n@jingli1840489\n桃心魔女奈奈\n@blakexiaonai\n 黑白魔女花卷\n@miaomiaomyoez2\n好老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 64,
+                "username": "oricz233"
+              },
+              {
+                "end": 95,
+                "start": 81,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 116,
+                "start": 103,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 140,
+                "start": 125,
+                "username": "miaomiaomyoez2"
+              },
+              {
+                "end": 159,
+                "start": 144,
+                "username": "chessy80978858"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "超可爱超绿茶超撩人的精灵魔女-奏奏💚",
+        "pinned_tweet_id": "2065914875877228650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072648103233241088/u2T2ysnC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9212,
+          "following_count": 416,
+          "like_count": 669,
+          "listed_count": 39,
+          "media_count": 839,
+          "tweet_count": 2255
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-02T09:33:02.000Z",
+        "description": "是主人的超级可爱充满元气的女仆猫猫～！\n体验女仆工作的名贵小猫☆身体里隐藏着小恶魔猫灵～最擅长的事是软乎乎的吸取主人的养分♡\n最喜欢的事是被主人抱抱…♡\n“主人…你的心…跳得比我的猫铃铛还要快哦…♡”\n→门牌3842092656",
+        "id": "2061742525283487744",
+        "location": "主人腿上～",
+        "name": "白",
+        "pinned_tweet_id": "2071520553626980392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070092630982291456/a-X_cJkE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 10,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 4
+        },
+        "url": "",
+        "username": "baimi07",
+        "verified": false
+      }
+    ]
+  }
+}

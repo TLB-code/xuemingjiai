@@ -1,0 +1,133 @@
+{
+  "data": {
+    "author_id": "1374389254726455305",
+    "conversation_id": "1846471205974691976",
+    "created_at": "2024-10-16T08:40:15.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-16T09:40:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1846471205974691976"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1238309529701384192",
+          "start": 3,
+          "username": "atmnmsl"
+        }
+      ]
+    },
+    "id": "1846471205974691976",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "1844871336168128901",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @atmnmsl: 进群就进群…请不要在进群申请里发情好么？莓莓只会觉得困扰！\n不带口令没办法通过，门槛就是拿来过滤低等废物渣滓的呢\n女神没领红包之前只能捏着无脑寸止\n求人家也不可以！现在道歉知道错了？\n错哪了？错在你就不该有自己的人格！\n早应该用臭脚底板直接强奸你的大脑…"
+  },
+  "includes": {
+    "tweets": [],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "您好～这里是出道以来一直致力于为小雏男哥哥们提供“舒适”“安全”“极致快感”的纯真妹系小天使魔女妹妹💚\n想了解我请翻看我的推文～\nqq2829556413，碎碎念小号@oricz233\n共同出道的偶像老婆：@moeliQWQ\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 83,
+                "username": "oricz233"
+              },
+              {
+                "end": 112,
+                "start": 103,
+                "username": "moeliQWQ"
+              },
+              {
+                "end": 130,
+                "start": 119,
+                "username": "cutelingli"
+              },
+              {
+                "end": 152,
+                "start": 137,
+                "username": "chessy80978858"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系天使偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860644184996372480/BDeo83tW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5963,
+          "following_count": 238,
+          "like_count": 198,
+          "listed_count": 26,
+          "tweet_count": 1374
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-13T03:43:02.000Z",
+        "description": "这个账号已经被草莓布丁病毒寄生，失去了原本的全部个人信息。如果你也想被草莓布丁女神寄生，来私信获取这种病毒吧！https://t.co/minRxRigI2黑心老婆:@meimiao199",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 83,
+                "username": "meimiao199"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/atmnmsl",
+                "end": 78,
+                "expanded_url": "http://t.me/atmnmsl",
+                "start": 55,
+                "url": "https://t.co/minRxRigI2"
+              }
+            ]
+          }
+        },
+        "id": "1238309529701384192",
+        "location": "Hino-shi, Tokyo",
+        "name": "草莓布丁（生化母体版）",
+        "pinned_tweet_id": "1847000311950606663",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761432786412662784/aWwouj9W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6981,
+          "following_count": 3,
+          "like_count": 2675,
+          "listed_count": 21,
+          "tweet_count": 2268
+        },
+        "username": "atmnmsl",
+        "verified": false
+      }
+    ]
+  }
+}

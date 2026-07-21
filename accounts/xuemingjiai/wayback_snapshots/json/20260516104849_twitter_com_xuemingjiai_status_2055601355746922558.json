@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055436793248677888",
+        "3_2055436793189920768"
+      ],
+      "media_source_tweet_id": [
+        "2055436796352487511",
+        "2055436796352487511"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "2055601355746922558",
+    "created_at": "2026-05-16T10:48:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T11:48:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055601355746922558"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1909062502614454273",
+          "start": 3,
+          "username": "As_v520"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8EkNhyszc4",
+          "end": 86,
+          "expanded_url": "https://x.com/As_v520/status/2055436796352487511/photo/1",
+          "media_key": "3_2055436793248677888",
+          "start": 63,
+          "url": "https://t.co/8EkNhyszc4"
+        },
+        {
+          "display_url": "pic.x.com/8EkNhyszc4",
+          "end": 86,
+          "expanded_url": "https://x.com/As_v520/status/2055436796352487511/photo/1",
+          "media_key": "3_2055436793189920768",
+          "start": 63,
+          "url": "https://t.co/8EkNhyszc4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055601355746922558",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055436796352487511",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @As_v520: 刷低贱包茎鸡巴卡真好玩w，一羞辱嘲笑这根迷你包茎，就开始丧志无脑敞开贡金槽被爱芍刷走米，傻逼死了🖤 https://t.co/8EkNhyszc4"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2055601355746922558].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2055601355746922558",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2055601355746922558"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2055436793248677888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIZg34_bAAAL7lE.jpg",
+        "width": 1025
+      },
+      {
+        "height": 1907,
+        "media_key": "3_2055436793189920768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIZg34xacAAC3rk.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055436793248677888",
+            "3_2055436793189920768"
+          ]
+        },
+        "author_id": "1909062502614454273",
+        "conversation_id": "2055436796352487511",
+        "created_at": "2026-05-15T23:54:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T00:54:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055436796352487511"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8EkNhyszc4",
+              "end": 73,
+              "expanded_url": "https://x.com/As_v520/status/2055436796352487511/photo/1",
+              "media_key": "3_2055436793248677888",
+              "start": 50,
+              "url": "https://t.co/8EkNhyszc4"
+            },
+            {
+              "display_url": "pic.x.com/8EkNhyszc4",
+              "end": 73,
+              "expanded_url": "https://x.com/As_v520/status/2055436796352487511/photo/1",
+              "media_key": "3_2055436793189920768",
+              "start": 50,
+              "url": "https://t.co/8EkNhyszc4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055436796352487511",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 498,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "刷低贱包茎鸡巴卡真好玩w，一羞辱嘲笑这根迷你包茎，就开始丧志无脑敞开贡金槽被爱芍刷走米，傻逼死了🖤 https://t.co/8EkNhyszc4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会魅惑并享用钱包的公主殿下🤍\n精通各种处刑钱包的方法🖤\n联系方式→2829556413←\n病毒小号@oricz233\n现任魔女学园院长\n星辰魔女镜璃\n@jingli1840489\n桃心魔女奈奈\n@blakexiaonai\n 黑白魔女花卷\n@miaomiaomi17630\n好老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "oricz233"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 114,
+                "start": 101,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 139,
+                "start": 123,
+                "username": "miaomiaomi17630"
+              },
+              {
+                "end": 158,
+                "start": 143,
+                "username": "chessy80978858"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "全能魅惑系魔女族公主-奏💜魔女学园院长版～",
+        "pinned_tweet_id": "2013314916120416537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055327575581556736/-ZRgWKku_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8816,
+          "following_count": 362,
+          "like_count": 633,
+          "listed_count": 38,
+          "media_count": 825,
+          "tweet_count": 2190
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-07T01:55:54.000Z",
+        "description": "已经开学怠惰的圣女爱芍大人■■圈养糕手💕■■美少女抢金犯🖤白给奴的终章♡\n            | 文图语    Q3792478611  | https://t.co/Rm34mC281n    🚪35 冤种翻倍，钱包翻翻倍",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/As_v520",
+                "end": 96,
+                "expanded_url": "http://t.me/As_v520",
+                "start": 73,
+                "url": "https://t.co/Rm34mC281n"
+              }
+            ]
+          }
+        },
+        "id": "1909062502614454273",
+        "name": "爱芍2",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043134142611849216/YPoyyNBI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1814,
+          "following_count": 130,
+          "like_count": 79,
+          "listed_count": 3,
+          "media_count": 280,
+          "tweet_count": 424
+        },
+        "username": "As_v520",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1790832824083468506",
+    "created_at": "2024-05-15T19:53:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-15T20:53:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1790832824083468506"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1790832824083468506",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "即使心理很变态也很想努力的改变一些现状，交流很累，社交很累，活在自己的小圈子舒适圈里就好了。\n大家上推都是为了发泄欲望，所以怎么开心怎么来吧，千万不要让负能量压垮自己，不要成为我一样用负能量当作性癖的笨蛋，这样子会让我真的讨厌你，当然，我也很讨厌我自己。\n魔女小姐的属性是丧女。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "1790832824083468506",
+        "created_at": "2024-05-15T19:53:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-15T20:53:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1790832824083468506"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1790832824083468506",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "即使心理很变态也很想努力的改变一些现状，交流很累，社交很累，活在自己的小圈子舒适圈里就好了。\n大家上推都是为了发泄欲望，所以怎么开心怎么来吧，千万不要让负能量压垮自己，不要成为我一样用负能量当作性癖的笨蛋，这样子会让我真的讨厌你，当然，我也很讨厌我自己。\n魔女小姐的属性是丧女。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "就如同推特名一样\n是传说中的网络美少女，在异世界中是名副其实的“魔女”💜\n对人类世界充满好奇，会用自己的一些方式来洗脑一些小雏男以满足自己的恶趣味，非常拜金💚征集人型钱包中..\n门牌是2829556413和2438028521（备用）\n请来送死~♡\n不涉三哦",
+        "id": "1374389254726455305",
+        "name": "请叫我魔女小姐💜（新企划上线倒计时? ）",
+        "pinned_tweet_id": "1744800330448277998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790638369040711680/qE_AOavg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4777,
+          "following_count": 155,
+          "like_count": 141,
+          "listed_count": 22,
+          "tweet_count": 926
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

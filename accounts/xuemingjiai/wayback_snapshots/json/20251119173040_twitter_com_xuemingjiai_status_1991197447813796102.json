@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1991197447813796102",
+    "created_at": "2025-11-19T17:30:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T18:30:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991197447813796102"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1374389254726455305",
+          "start": 3,
+          "username": "xuemingjiai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/xuemingjiai/st…",
+          "end": 121,
+          "expanded_url": "https://x.com/xuemingjiai/status/1990473531134730380?s=20",
+          "start": 98,
+          "url": "https://t.co/uoUkGOPz4H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991197447813796102",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991196149336940670",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xuemingjiai: 什么是小冷?\n是本公主在问卷里新增加的一个“同化”内容，目的就是剥夺小雏男们的思想～抹去你们的一切个性，把你们变成全心全意为了本公主服务的atm提款机“小冷”哦，https://t.co/uoUkGOPz4H\n点进去就能看见预设的内容了，想看更…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1991197447813796102].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1991197447813796102",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1991197447813796102"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2198,
+        "media_key": "3_1991196131431415808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6ImVOwaAAAwh8o.jpg",
+        "width": 540
+      },
+      {
+        "height": 4096,
+        "media_key": "3_1991196131435638785",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6ImVOxacAEP0jp.jpg",
+        "width": 805
+      },
+      {
+        "height": 2606,
+        "media_key": "3_1991196131427250179",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6ImVOvacAM6HxU.jpg",
+        "width": 540
+      },
+      {
+        "height": 2448,
+        "media_key": "3_1991196131427250178",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6ImVOvacAIn7n-.jpg",
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991196131431415808",
+            "3_1991196131435638785",
+            "3_1991196131427250179",
+            "3_1991196131427250178"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "1991196149336940670",
+        "created_at": "2025-11-19T17:25:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T18:25:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991196149336940670"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xuemingjiai/st…",
+              "end": 104,
+              "expanded_url": "https://x.com/xuemingjiai/status/1990473531134730380?s=20",
+              "start": 81,
+              "url": "https://t.co/uoUkGOPz4H"
+            },
+            {
+              "display_url": "pic.x.com/DOpegIlx45",
+              "end": 179,
+              "expanded_url": "https://x.com/xuemingjiai/status/1991196149336940670/photo/1",
+              "media_key": "3_1991196131431415808",
+              "start": 156,
+              "url": "https://t.co/DOpegIlx45"
+            },
+            {
+              "display_url": "pic.x.com/DOpegIlx45",
+              "end": 179,
+              "expanded_url": "https://x.com/xuemingjiai/status/1991196149336940670/photo/1",
+              "media_key": "3_1991196131435638785",
+              "start": 156,
+              "url": "https://t.co/DOpegIlx45"
+            },
+            {
+              "display_url": "pic.x.com/DOpegIlx45",
+              "end": 179,
+              "expanded_url": "https://x.com/xuemingjiai/status/1991196149336940670/photo/1",
+              "media_key": "3_1991196131427250179",
+              "start": 156,
+              "url": "https://t.co/DOpegIlx45"
+            },
+            {
+              "display_url": "pic.x.com/DOpegIlx45",
+              "end": 179,
+              "expanded_url": "https://x.com/xuemingjiai/status/1991196149336940670/photo/1",
+              "media_key": "3_1991196131427250178",
+              "start": 156,
+              "url": "https://t.co/DOpegIlx45"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991196149336940670",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990473531134730380",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "什么是小冷?\n是本公主在问卷里新增加的一个“同化”内容，目的就是剥夺小雏男们的思想～抹去你们的一切个性，把你们变成全心全意为了本公主服务的atm提款机“小冷”哦，https://t.co/uoUkGOPz4H\n点进去就能看见预设的内容了，想看更多内容就找本公主购买问卷 限时免门槛哦，同时放出一点小冷同化记录～ https://t.co/DOpegIlx45"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n最最最最喜欢钱包们啦!\n天天挨骂真的不会腻嘛～\n擅长用爱意和温柔的语气俘虏钱包～\n联系方式→242184780←\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 77,
+                "username": "oricz233"
+              },
+              {
+                "end": 106,
+                "start": 97,
+                "username": "moelipoi"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "cutelingli"
+              },
+              {
+                "end": 146,
+                "start": 131,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 158,
+                "start": 151,
+                "username": "1xian1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍对钱包们最温柔最有好感版",
+        "pinned_tweet_id": "1976743806063063398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969152325731168256/ozl0k8K4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7926,
+          "following_count": 326,
+          "like_count": 638,
+          "listed_count": 35,
+          "media_count": 753,
+          "tweet_count": 2307
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

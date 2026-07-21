@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1854868264150839296"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "1851563784554627239",
+    "created_at": "2024-11-08T12:47:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-08T13:47:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1854868266981933514"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fiIpy8NNEP",
+          "end": 159,
+          "expanded_url": "https://x.com/xuemingjiai/status/1854868266981933514/photo/1",
+          "media_key": "3_1854868264150839296",
+          "start": 136,
+          "url": "https://t.co/fiIpy8NNEP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1854868266981933514",
+    "in_reply_to_user_id": "1374389254726455305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1854501114479305157",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不行了....\n莉莉娅姐姐呜呜呜呜...\n我要成为魅魔大人的食粮了♡♡♡\n把所有的道具，包括契约书都全部交给了魅魔大人，没有任何的秘密...全部都被看光了啊啊♡♡♡\n失去所有的人权，就因为下贱白给了...♡\n好开心...要成为魅魔大人的所有物了，人生完蛋了呜呜呜呜♡♡♡ https://t.co/fiIpy8NNEP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_1854868264150839296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gb3Q29XbMAAwWm6.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1854868264150839296"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "1851563784554627239",
+        "created_at": "2024-11-08T12:47:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-08T13:47:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1854868266981933514"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fiIpy8NNEP",
+              "end": 159,
+              "expanded_url": "https://x.com/xuemingjiai/status/1854868266981933514/photo/1",
+              "media_key": "3_1854868264150839296",
+              "start": 136,
+              "url": "https://t.co/fiIpy8NNEP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854868266981933514",
+        "in_reply_to_user_id": "1374389254726455305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1854501114479305157",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不行了....\n莉莉娅姐姐呜呜呜呜...\n我要成为魅魔大人的食粮了♡♡♡\n把所有的道具，包括契约书都全部交给了魅魔大人，没有任何的秘密...全部都被看光了啊啊♡♡♡\n失去所有的人权，就因为下贱白给了...♡\n好开心...要成为魅魔大人的所有物了，人生完蛋了呜呜呜呜♡♡♡ https://t.co/fiIpy8NNEP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1854501112549986304"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "1851563784554627239",
+        "created_at": "2024-11-07T12:28:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-07T13:28:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1854501114479305157"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1854501114479305157",
+        "in_reply_to_user_id": "1374389254726455305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1296,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1854500072605761726",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "上一期投票有271票～所以小男娘增加的债务是542枚金币～加上之前的1370枚金币，1370+542=1912～因为有神秘的冒险家为小男娘赞助了金币，所以现在的债务为1912-1000金币，912枚金币哦，哇哦，债务越来越少了呢💜\n本期投票不会增加债务，但这是相当重要的节点～\n请各位冒险家们慎重做出自己的选择哦～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "超绝可爱💖\n她就是出道即巅峰的可爱纯真小天使新人偶像魔女小姐💖\n对这样的魔女小姐不能心怀任何涩涩的念想哦，不然就会变得非常糟糕...踏入无法挣脱的陷阱和牢笼里呢💘\n魔女小姐无论说什么做什么都是正确的哦，身为她的粉丝，只需要无条件用各种方式支持她就好了～\nqq2829556413，碎碎念小号@oricz233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 154,
+                "start": 145,
+                "username": "oricz233"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "name": "电波系新人偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854618482215911424/R3TTJuCj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5832,
+          "following_count": 224,
+          "like_count": 184,
+          "listed_count": 24,
+          "tweet_count": 1305
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

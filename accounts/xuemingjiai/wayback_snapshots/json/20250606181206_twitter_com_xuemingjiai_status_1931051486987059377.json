@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1931051486987059377",
+    "created_at": "2025-06-06T18:12:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-06T19:12:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931051486987059377"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1131829997335863296",
+          "start": 3,
+          "username": "952909762mao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931051486987059377",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930967915999977984",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @952909762mao: 昨天有只乖狗狗久违的来上贡啦，说想要报销账单，本来想现场制造一个，但是没刷到优惠券，就让他先行报销啦~ 为什么又买了个手柄呢？！因为之前买的那个启明星2续航有点拉跨，耗电太快导致充电底座显得很蠢，还不如插着线省心就退了，这次直接买了个有线的√…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1930967890154684417",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GswtEL1bAAEzY_A.jpg",
+        "width": 3072
+      },
+      {
+        "height": 1125,
+        "media_key": "3_1930967894441304064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GswtEbzboAAyhRq.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "1931051486987059377",
+        "created_at": "2025-06-06T18:12:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-06T19:12:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931051486987059377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1131829997335863296",
+              "start": 3,
+              "username": "952909762mao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931051486987059377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930967915999977984",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @952909762mao: 昨天有只乖狗狗久违的来上贡啦，说想要报销账单，本来想现场制造一个，但是没刷到优惠券，就让他先行报销啦~ 为什么又买了个手柄呢？！因为之前买的那个启明星2续航有点拉跨，耗电太快导致充电底座显得很蠢，还不如插着线省心就退了，这次直接买了个有线的√…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930967890154684417",
+            "3_1930967894441304064"
+          ]
+        },
+        "author_id": "1131829997335863296",
+        "conversation_id": "1930967915999977984",
+        "created_at": "2025-06-06T12:40:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-06T13:40:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930967915999977984"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Vlu1k9ztby",
+              "end": 166,
+              "expanded_url": "https://x.com/952909762mao/status/1930967915999977984/photo/1",
+              "media_key": "3_1930967890154684417",
+              "start": 143,
+              "url": "https://t.co/Vlu1k9ztby"
+            },
+            {
+              "display_url": "pic.x.com/Vlu1k9ztby",
+              "end": 166,
+              "expanded_url": "https://x.com/952909762mao/status/1930967915999977984/photo/1",
+              "media_key": "3_1930967894441304064",
+              "start": 143,
+              "url": "https://t.co/Vlu1k9ztby"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930967915999977984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 199,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "昨天有只乖狗狗久违的来上贡啦，说想要报销账单，本来想现场制造一个，但是没刷到优惠券，就让他先行报销啦~ 为什么又买了个手柄呢？！因为之前买的那个启明星2续航有点拉跨，耗电太快导致充电底座显得很蠢，还不如插着线省心就退了，这次直接买了个有线的√\n喜欢报销的傻狗可以对着这个账单再报一次🖤 https://t.co/Vlu1k9ztby"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "集美貌，智慧，强大于一身的魔女族公主现身人世～区区人类，跪下向我表示臣服吧💜\n被我支配 控制 吸脑 成为奴仆💜\n挑战qq2829556413，里世界小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858\n女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 76,
+                "username": "oricz233"
+              },
+              {
+                "end": 105,
+                "start": 96,
+                "username": "moelipoi"
+              },
+              {
+                "end": 123,
+                "start": 112,
+                "username": "cutelingli"
+              },
+              {
+                "end": 145,
+                "start": 130,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 156,
+                "start": 149,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏💜散播同化病毒中～",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926028406774247424/hWplRg7q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7133,
+          "following_count": 297,
+          "like_count": 340,
+          "listed_count": 33,
+          "media_count": 650,
+          "tweet_count": 1930
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-24T07:51:14.000Z",
+        "description": "可爱的黑心小男娘\n在线招收想要吐钱的傻逼贡奴\n🚪门槛费：20 加了好友请主动说明来意 \n门槛不付试图蒙混过关的脑瘫请麻烦死远一点谢谢\n推置顶有二维码 如果看不见希望你们把眼睛捐献给有需要的人呢\n清水良民推主 不搞黄色\nQQ952909762",
+        "id": "1131829997335863296",
+        "name": "古屋敷由良",
+        "pinned_tweet_id": "1771788955731517942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896435593334374400/g9-bSQq1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1691,
+          "following_count": 189,
+          "like_count": 421,
+          "listed_count": 10,
+          "media_count": 241,
+          "tweet_count": 1705
+        },
+        "username": "952909762mao",
+        "verified": false
+      }
+    ]
+  }
+}

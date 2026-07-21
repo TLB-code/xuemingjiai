@@ -1,0 +1,550 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066870500694138880",
+        "3_2066870496705318912",
+        "3_2066870500346023936",
+        "3_2066870512597553152"
+      ],
+      "media_source_tweet_id": [
+        "2066870515323851220",
+        "2066870515323851220",
+        "2066870515323851220",
+        "2066870515323851220"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2067040034658914744",
+    "created_at": "2026-06-17T00:22:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T01:22:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067040034658914744"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 101,
+          "start": 99,
+          "tag": "贡"
+        },
+        {
+          "end": 105,
+          "start": 102,
+          "tag": "拷问"
+        },
+        {
+          "end": 109,
+          "start": 106,
+          "tag": "文游"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2042978694424109056",
+          "start": 3,
+          "username": "ly6688001"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "forms.office.com/Pages/Response…",
+          "end": 38,
+          "expanded_url": "https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__QcMQ_FUQ01WSTNFSDRWMDdZVk1SQ0kyREo1NVYzMy4u",
+          "images": [
+            {
+              "height": 521,
+              "url": "https://pbs.twimg.com/news_img/2066870531815772160/Xfee716w?format=png&name=orig",
+              "width": 822
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2066870531815772160/Xfee716w?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 15,
+          "status": 200,
+          "title": "Fill | 莉雅的拷问时间♥",
+          "unwound_url": "https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__QcMQ_FUQ01WSTNFSDRWMDdZVk1SQ0kyREo1NVYzMy4u",
+          "url": "https://t.co/j1F0fpXV24"
+        },
+        {
+          "display_url": "pic.x.com/yJFnNW1M5Z",
+          "end": 133,
+          "expanded_url": "https://x.com/ly6688001/status/2066870515323851220/photo/1",
+          "media_key": "3_2066870500694138880",
+          "start": 110,
+          "url": "https://t.co/yJFnNW1M5Z"
+        },
+        {
+          "display_url": "pic.x.com/yJFnNW1M5Z",
+          "end": 133,
+          "expanded_url": "https://x.com/ly6688001/status/2066870515323851220/photo/1",
+          "media_key": "3_2066870496705318912",
+          "start": 110,
+          "url": "https://t.co/yJFnNW1M5Z"
+        },
+        {
+          "display_url": "pic.x.com/yJFnNW1M5Z",
+          "end": 133,
+          "expanded_url": "https://x.com/ly6688001/status/2066870515323851220/photo/1",
+          "media_key": "3_2066870500346023936",
+          "start": 110,
+          "url": "https://t.co/yJFnNW1M5Z"
+        },
+        {
+          "display_url": "pic.x.com/yJFnNW1M5Z",
+          "end": 133,
+          "expanded_url": "https://x.com/ly6688001/status/2066870515323851220/photo/1",
+          "media_key": "3_2066870512597553152",
+          "start": 110,
+          "url": "https://t.co/yJFnNW1M5Z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067040034658914744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066870515323851220",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ly6688001: https://t.co/j1F0fpXV24\n喜欢拷问榨金上贡的白痴有福了哦♥️～，莉雅新出的文游～还有后面的六天性欲管理～想玩的话来找莉雅哦♥️～超好玩上贡不停呢\n#贡 #拷问 #文游 https://t.co/yJFnNW1M5Z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 687,
+        "media_key": "3_2066870500694138880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK7_xQaboAAGu96.jpg",
+        "width": 437
+      },
+      {
+        "height": 600,
+        "media_key": "3_2066870496705318912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK7_xBjbEAADJu7.jpg",
+        "width": 411
+      },
+      {
+        "height": 600,
+        "media_key": "3_2066870500346023936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK7_xPHb0AAyklt.jpg",
+        "width": 411
+      },
+      {
+        "height": 685,
+        "media_key": "3_2066870512597553152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK7_x8wbUAAdBnS.jpg",
+        "width": 462
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066870500694138880",
+            "3_2066870496705318912",
+            "3_2066870500346023936",
+            "3_2066870512597553152"
+          ],
+          "media_source_tweet_id": [
+            "2066870515323851220",
+            "2066870515323851220",
+            "2066870515323851220",
+            "2066870515323851220"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2067040034658914744",
+        "created_at": "2026-06-17T00:22:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T01:22:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067040034658914744"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 101,
+              "start": 99,
+              "tag": "贡"
+            },
+            {
+              "end": 105,
+              "start": 102,
+              "tag": "拷问"
+            },
+            {
+              "end": 109,
+              "start": 106,
+              "tag": "文游"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2042978694424109056",
+              "start": 3,
+              "username": "ly6688001"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "forms.office.com/Pages/Response…",
+              "end": 38,
+              "expanded_url": "https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__QcMQ_FUQ01WSTNFSDRWMDdZVk1SQ0kyREo1NVYzMy4u",
+              "images": [
+                {
+                  "height": 521,
+                  "url": "https://pbs.twimg.com/news_img/2066870531815772160/Xfee716w?format=png&name=orig",
+                  "width": 822
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2066870531815772160/Xfee716w?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 15,
+              "status": 200,
+              "title": "Fill | 莉雅的拷问时间♥",
+              "unwound_url": "https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__QcMQ_FUQ01WSTNFSDRWMDdZVk1SQ0kyREo1NVYzMy4u",
+              "url": "https://t.co/j1F0fpXV24"
+            },
+            {
+              "display_url": "pic.x.com/yJFnNW1M5Z",
+              "end": 133,
+              "expanded_url": "https://x.com/ly6688001/status/2066870515323851220/photo/1",
+              "media_key": "3_2066870500694138880",
+              "start": 110,
+              "url": "https://t.co/yJFnNW1M5Z"
+            },
+            {
+              "display_url": "pic.x.com/yJFnNW1M5Z",
+              "end": 133,
+              "expanded_url": "https://x.com/ly6688001/status/2066870515323851220/photo/1",
+              "media_key": "3_2066870496705318912",
+              "start": 110,
+              "url": "https://t.co/yJFnNW1M5Z"
+            },
+            {
+              "display_url": "pic.x.com/yJFnNW1M5Z",
+              "end": 133,
+              "expanded_url": "https://x.com/ly6688001/status/2066870515323851220/photo/1",
+              "media_key": "3_2066870500346023936",
+              "start": 110,
+              "url": "https://t.co/yJFnNW1M5Z"
+            },
+            {
+              "display_url": "pic.x.com/yJFnNW1M5Z",
+              "end": 133,
+              "expanded_url": "https://x.com/ly6688001/status/2066870515323851220/photo/1",
+              "media_key": "3_2066870512597553152",
+              "start": 110,
+              "url": "https://t.co/yJFnNW1M5Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067040034658914744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066870515323851220",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ly6688001: https://t.co/j1F0fpXV24\n喜欢拷问榨金上贡的白痴有福了哦♥️～，莉雅新出的文游～还有后面的六天性欲管理～想玩的话来找莉雅哦♥️～超好玩上贡不停呢\n#贡 #拷问 #文游 https://t.co/yJFnNW1M5Z"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066870500694138880",
+            "3_2066870496705318912",
+            "3_2066870500346023936",
+            "3_2066870512597553152"
+          ]
+        },
+        "author_id": "2042978694424109056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2066870515323851220",
+        "created_at": "2026-06-16T13:08:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T14:08:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066870515323851220"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 86,
+              "start": 84,
+              "tag": "贡"
+            },
+            {
+              "end": 90,
+              "start": 87,
+              "tag": "拷问"
+            },
+            {
+              "end": 94,
+              "start": 91,
+              "tag": "文游"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "forms.office.com/Pages/Response…",
+              "end": 23,
+              "expanded_url": "https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__QcMQ_FUQ01WSTNFSDRWMDdZVk1SQ0kyREo1NVYzMy4u",
+              "images": [
+                {
+                  "height": 521,
+                  "url": "https://pbs.twimg.com/news_img/2066870531815772160/Xfee716w?format=png&name=orig",
+                  "width": 822
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2066870531815772160/Xfee716w?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Fill | 莉雅的拷问时间♥",
+              "unwound_url": "https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__QcMQ_FUQ01WSTNFSDRWMDdZVk1SQ0kyREo1NVYzMy4u",
+              "url": "https://t.co/j1F0fpXV24"
+            },
+            {
+              "display_url": "pic.x.com/yJFnNW1M5Z",
+              "end": 118,
+              "expanded_url": "https://x.com/ly6688001/status/2066870515323851220/photo/1",
+              "media_key": "3_2066870500694138880",
+              "start": 95,
+              "url": "https://t.co/yJFnNW1M5Z"
+            },
+            {
+              "display_url": "pic.x.com/yJFnNW1M5Z",
+              "end": 118,
+              "expanded_url": "https://x.com/ly6688001/status/2066870515323851220/photo/1",
+              "media_key": "3_2066870496705318912",
+              "start": 95,
+              "url": "https://t.co/yJFnNW1M5Z"
+            },
+            {
+              "display_url": "pic.x.com/yJFnNW1M5Z",
+              "end": 118,
+              "expanded_url": "https://x.com/ly6688001/status/2066870515323851220/photo/1",
+              "media_key": "3_2066870500346023936",
+              "start": 95,
+              "url": "https://t.co/yJFnNW1M5Z"
+            },
+            {
+              "display_url": "pic.x.com/yJFnNW1M5Z",
+              "end": 118,
+              "expanded_url": "https://x.com/ly6688001/status/2066870515323851220/photo/1",
+              "media_key": "3_2066870512597553152",
+              "start": 95,
+              "url": "https://t.co/yJFnNW1M5Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066870515323851220",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 129,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/j1F0fpXV24\n喜欢拷问榨金上贡的白痴有福了哦♥️～，莉雅新出的文游～还有后面的六天性欲管理～想玩的话来找莉雅哦♥️～超好玩上贡不停呢\n#贡 #拷问 #文游 https://t.co/yJFnNW1M5Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "你也觉得你面前的这只魔女可爱过头了吧？\n对的!她和别人不一样!\n邂逅方式→2829556413←↓\n242184780\n超涩气小号@oricz233\n星辰魔女镜璃\n@jingli1840489\n桃心魔女奈奈\n@blakexiaonai\n 黑白魔女花卷\n@miaomiaomyoez2\n好老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 65,
+                "username": "oricz233"
+              },
+              {
+                "end": 96,
+                "start": 82,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 117,
+                "start": 104,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 141,
+                "start": 126,
+                "username": "miaomiaomyoez2"
+              },
+              {
+                "end": 160,
+                "start": 145,
+                "username": "chessy80978858"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "超可爱超绿茶超撩人的精灵魔女-奏奏💚",
+        "pinned_tweet_id": "2013314916120416537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064079945459171328/WbF0iOyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8983,
+          "following_count": 386,
+          "like_count": 656,
+          "listed_count": 36,
+          "media_count": 832,
+          "tweet_count": 2232
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-11T14:51:18.000Z",
+        "description": "全职的敬业魅魔❤️莉雅\n收费：70r/小时（图文）\n🚪：867648805  备用：1185837985\n时间：中午12:00～凌晨3:00\n设定：淫乱s御姐~人妻魅魔。\n擅长：绿奴淫妻~足控羞辱~地狱寸止~戒贡洗脑~雌堕调教~气味PUA~陪聊树洞 ，可包周包月",
+        "id": "2042978694424109056",
+        "location": "Singapore",
+        "name": "莉雅♥️魅魔文媛",
+        "pinned_tweet_id": "2060010349416595635",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042979250928783363/dptWEIca_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 65,
+          "like_count": 107,
+          "listed_count": 2,
+          "media_count": 17,
+          "tweet_count": 68
+        },
+        "url": "",
+        "username": "ly6688001",
+        "verified": false
+      }
+    ]
+  }
+}

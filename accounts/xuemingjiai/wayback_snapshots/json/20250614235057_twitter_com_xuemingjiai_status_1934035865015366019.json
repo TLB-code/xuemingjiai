@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1934035850679205888",
+        "3_1934035854932217856",
+        "3_1934035858652639232",
+        "3_1934035862670778368"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1934035865015366019",
+    "created_at": "2025-06-14T23:50:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-15T00:50:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1934035865015366019"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 8,
+          "start": 0,
+          "tag": "魔女公主的日常"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ez0hHcWUvJ",
+          "end": 170,
+          "expanded_url": "https://x.com/xuemingjiai/status/1934035865015366019/photo/1",
+          "media_key": "3_1934035850679205888",
+          "start": 147,
+          "url": "https://t.co/Ez0hHcWUvJ"
+        },
+        {
+          "display_url": "pic.x.com/Ez0hHcWUvJ",
+          "end": 170,
+          "expanded_url": "https://x.com/xuemingjiai/status/1934035865015366019/photo/1",
+          "media_key": "3_1934035854932217856",
+          "start": 147,
+          "url": "https://t.co/Ez0hHcWUvJ"
+        },
+        {
+          "display_url": "pic.x.com/Ez0hHcWUvJ",
+          "end": 170,
+          "expanded_url": "https://x.com/xuemingjiai/status/1934035865015366019/photo/1",
+          "media_key": "3_1934035858652639232",
+          "start": 147,
+          "url": "https://t.co/Ez0hHcWUvJ"
+        },
+        {
+          "display_url": "pic.x.com/Ez0hHcWUvJ",
+          "end": 170,
+          "expanded_url": "https://x.com/xuemingjiai/status/1934035865015366019/photo/1",
+          "media_key": "3_1934035862670778368",
+          "start": 147,
+          "url": "https://t.co/Ez0hHcWUvJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934035865015366019",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#魔女公主的日常\n钱包们都有一个共同的敌人——理智时候的自己\n而本公主会帮助钱包们打败这个敌人，完成“自杀”\n一开始只是随便引诱一下，接下来就是被本公主高频长段搭配弱点涩图狂轰滥炸到大脑崩溃～理智早就随着一次次寸止的快感烟消云散，直到最后清空钱包...\n嗯，输吧，死掉吧，你是赢不了本公主的🤍 https://t.co/Ez0hHcWUvJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1893,
+        "media_key": "3_1934035850679205888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtcTW_aawAAqqOu.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1934035854932217856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtcTXPQakAAcWxH.jpg",
+        "width": 337
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1934035858652639232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtcTXdHbsAA-ViQ.jpg",
+        "width": 372
+      },
+      {
+        "height": 1898,
+        "media_key": "3_1934035862670778368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtcTXsFboAAF0hP.jpg",
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934035850679205888",
+            "3_1934035854932217856",
+            "3_1934035858652639232",
+            "3_1934035862670778368"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1934035865015366019",
+        "created_at": "2025-06-14T23:50:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T00:50:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934035865015366019"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "魔女公主的日常"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ez0hHcWUvJ",
+              "end": 170,
+              "expanded_url": "https://x.com/xuemingjiai/status/1934035865015366019/photo/1",
+              "media_key": "3_1934035850679205888",
+              "start": 147,
+              "url": "https://t.co/Ez0hHcWUvJ"
+            },
+            {
+              "display_url": "pic.x.com/Ez0hHcWUvJ",
+              "end": 170,
+              "expanded_url": "https://x.com/xuemingjiai/status/1934035865015366019/photo/1",
+              "media_key": "3_1934035854932217856",
+              "start": 147,
+              "url": "https://t.co/Ez0hHcWUvJ"
+            },
+            {
+              "display_url": "pic.x.com/Ez0hHcWUvJ",
+              "end": 170,
+              "expanded_url": "https://x.com/xuemingjiai/status/1934035865015366019/photo/1",
+              "media_key": "3_1934035858652639232",
+              "start": 147,
+              "url": "https://t.co/Ez0hHcWUvJ"
+            },
+            {
+              "display_url": "pic.x.com/Ez0hHcWUvJ",
+              "end": 170,
+              "expanded_url": "https://x.com/xuemingjiai/status/1934035865015366019/photo/1",
+              "media_key": "3_1934035862670778368",
+              "start": 147,
+              "url": "https://t.co/Ez0hHcWUvJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934035865015366019",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#魔女公主的日常\n钱包们都有一个共同的敌人——理智时候的自己\n而本公主会帮助钱包们打败这个敌人，完成“自杀”\n一开始只是随便引诱一下，接下来就是被本公主高频长段搭配弱点涩图狂轰滥炸到大脑崩溃～理智早就随着一次次寸止的快感烟消云散，直到最后清空钱包...\n嗯，输吧，死掉吧，你是赢不了本公主的🤍 https://t.co/Ez0hHcWUvJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n你也会因为窥视我的美貌而心甘情愿沦为钱包被我使用的对吗？\n钱包报名入口：3971546171\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 67,
+                "username": "oricz233"
+              },
+              {
+                "end": 96,
+                "start": 87,
+                "username": "moelipoi"
+              },
+              {
+                "end": 114,
+                "start": 103,
+                "username": "cutelingli"
+              },
+              {
+                "end": 136,
+                "start": 121,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 148,
+                "start": 141,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍驯化公用钱包👛中",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931064828044713984/9qwnduVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7203,
+          "following_count": 307,
+          "like_count": 362,
+          "listed_count": 33,
+          "media_count": 682,
+          "tweet_count": 2050
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

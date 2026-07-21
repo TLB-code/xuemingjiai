@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1924461414066040957",
+    "created_at": "2025-05-19T13:45:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-19T14:45:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924461414066040957"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1702305176701341696",
+          "start": 3,
+          "username": "xiyan123466"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924461414066040957",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922491102453473407",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiyan123466: 傻逼绿狗～又对着主人的騷脚犯贱啦?想对着主人的臭脚摩擦，射出小鸡巴里的精液，那就给主人磕头上供吧🖤还有今天主人给绿爹足交，玉足上都沾满了精液，傻逼绿狗不会嫌弃的对吧?好好记住绿爹大鸡巴的雄臭味道，乖乖把钱包一切都交出来，主人下次带你一起去参加淫…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1924461414066040957].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1924461414066040957",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1924461414066040957"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1922490446665940992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gq4O4B2bAAArKwj.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1922490446665940992"
+          ]
+        },
+        "author_id": "1702305176701341696",
+        "conversation_id": "1922491102453473407",
+        "created_at": "2025-05-14T03:16:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T04:16:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1922491102453473407"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 136,
+              "start": 133,
+              "tag": "媚黑"
+            },
+            {
+              "end": 140,
+              "start": 137,
+              "tag": "绿帽"
+            },
+            {
+              "end": 145,
+              "start": 141,
+              "tag": "bbc"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TFlOOPImnY",
+              "end": 169,
+              "expanded_url": "https://x.com/xiyan123466/status/1922491102453473407/photo/1",
+              "media_key": "3_1922490446665940992",
+              "start": 146,
+              "url": "https://t.co/TFlOOPImnY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922491102453473407",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2170,
+          "like_count": 48,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "傻逼绿狗～又对着主人的騷脚犯贱啦?想对着主人的臭脚摩擦，射出小鸡巴里的精液，那就给主人磕头上供吧🖤还有今天主人给绿爹足交，玉足上都沾满了精液，傻逼绿狗不会嫌弃的对吧?好好记住绿爹大鸡巴的雄臭味道，乖乖把钱包一切都交出来，主人下次带你一起去参加淫趴～让你在旁边看着💚\n#媚黑 #绿帽 #bbc https://t.co/TFlOOPImnY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "集美貌，智慧，强大于一身的魔女族公主现身人世～区区人类，跪下向我表示臣服吧💜\n被我支配 控制 吸脑 成为奴仆💜\n挑战qq242184780，里世界小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858\n女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "oricz233"
+              },
+              {
+                "end": 104,
+                "start": 95,
+                "username": "moelipoi"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "cutelingli"
+              },
+              {
+                "end": 144,
+                "start": 129,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 155,
+                "start": 148,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏💜强势登场人间",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923161284247420929/dv1s2unV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6945,
+          "following_count": 286,
+          "like_count": 317,
+          "listed_count": 32,
+          "media_count": 613,
+          "tweet_count": 1818
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-14T12:57:28.000Z",
+        "description": "这里是腹黑傲娇的涩情大小姐～入圈四年多～擅长各种文援和剧情 调教 羞辱 胁迫 绿茶 寸止 剧情 绿帽 媚黑 压榨 胁迫 等等女s玩法都可以♥媚黑只是云玩!现实没接触过哈🖤\n接文字 文图 收奴 闲聊 树洞欢迎加QQ咨询下单\n基本上全天都在加Q都会秒回复的♥\n下面有tg在那边玩也先找QQ\n接单QQ 3140617087",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xixiyan123456",
+                "end": 23,
+                "expanded_url": "http://t.me/xixiyan123456",
+                "start": 0,
+                "url": "https://t.co/DNJLMhF9XQ"
+              }
+            ]
+          }
+        },
+        "id": "1702305176701341696",
+        "location": "想tg玩的  记得先加QQ找我",
+        "name": "夕颜香香",
+        "pinned_tweet_id": "1875472376638665051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917955734232571904/gDn0kvCo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7785,
+          "following_count": 130,
+          "like_count": 468,
+          "listed_count": 35,
+          "media_count": 462,
+          "tweet_count": 5459
+        },
+        "url": "https://t.co/DNJLMhF9XQ",
+        "username": "xiyan123466",
+        "verified": false
+      }
+    ]
+  }
+}

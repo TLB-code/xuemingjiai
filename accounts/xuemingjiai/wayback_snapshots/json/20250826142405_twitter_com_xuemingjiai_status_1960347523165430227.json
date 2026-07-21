@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1960347523165430227",
+    "created_at": "2025-08-26T14:24:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T15:24:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960347523165430227"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1912020341100339200",
+          "start": 3,
+          "username": "GaoGaoLove_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960347523165430227",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960325311679377744",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GaoGaoLove_: 要说的话，越厉害的人才越喜欢败北的感觉叭~？喜欢自己平日里被别人恭恭敬敬的对待，但是晚上却是跪在糕糕脚下的一条发情贱狗？\n这样子的反差让白痴们沉沦❤️自愿放弃人权败北……\n\n是因为维持平日的伪装太累了吗？欢迎过来糕糕这里展示自己真实的下贱面貌喔…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1960325299809447936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzR5eVNacAAdc3Y.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "1960347523165430227",
+        "created_at": "2025-08-26T14:24:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T15:24:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960347523165430227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1912020341100339200",
+              "start": 3,
+              "username": "GaoGaoLove_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960347523165430227",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960325311679377744",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GaoGaoLove_: 要说的话，越厉害的人才越喜欢败北的感觉叭~？喜欢自己平日里被别人恭恭敬敬的对待，但是晚上却是跪在糕糕脚下的一条发情贱狗？\n这样子的反差让白痴们沉沦❤️自愿放弃人权败北……\n\n是因为维持平日的伪装太累了吗？欢迎过来糕糕这里展示自己真实的下贱面貌喔…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960325299809447936"
+          ]
+        },
+        "author_id": "1912020341100339200",
+        "conversation_id": "1960325311679377744",
+        "created_at": "2025-08-26T12:55:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T13:55:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960325311679377744"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IiXhXLaZYA",
+              "end": 148,
+              "expanded_url": "https://x.com/GaoGaoLove_/status/1960325311679377744/photo/1",
+              "media_key": "3_1960325299809447936",
+              "start": 125,
+              "url": "https://t.co/IiXhXLaZYA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960325311679377744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 205,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "要说的话，越厉害的人才越喜欢败北的感觉叭~？喜欢自己平日里被别人恭恭敬敬的对待，但是晚上却是跪在糕糕脚下的一条发情贱狗？\n这样子的反差让白痴们沉沦❤️自愿放弃人权败北……\n\n是因为维持平日的伪装太累了吗？欢迎过来糕糕这里展示自己真实的下贱面貌喔~？ https://t.co/IiXhXLaZYA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n我是一名钱包刽子手。\n如果你也想被我杀死的话→\n242184780←\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 55,
+                "username": "oricz233"
+              },
+              {
+                "end": 84,
+                "start": 75,
+                "username": "moelipoi"
+              },
+              {
+                "end": 102,
+                "start": 91,
+                "username": "cutelingli"
+              },
+              {
+                "end": 124,
+                "start": 109,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 136,
+                "start": 129,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍魔女讨伐组织高级顾问～",
+        "pinned_tweet_id": "1945511067926536238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952517800502652928/-lp8k7Gh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8010,
+          "following_count": 332,
+          "like_count": 628,
+          "listed_count": 36,
+          "media_count": 724,
+          "tweet_count": 2214
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-15T05:49:27.000Z",
+        "description": "这里是人设为邻家大姐姐的糕糕哦，平时会接待一些小可爱进行“上贡教学”❤️当然无脑发情送死也可呢～\n \n🚪20  私信随机掉落神秘数字♡（私信不了可能是因为没有关注？）\n\n小提示：更喜欢被叫姐姐喔♡ 会读心的姐姐@QingMian0819  可爱的弟弟：@Eru_Thatcher",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 105,
+                "username": "QingMian0819"
+              },
+              {
+                "end": 139,
+                "start": 126,
+                "username": "Eru_Thatcher"
+              }
+            ]
+          }
+        },
+        "id": "1912020341100339200",
+        "location": "🖤黑心贡主培养所🖤",
+        "name": "巧克力糕🖤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933192578884890624/qv3n_jSA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 879,
+          "following_count": 77,
+          "like_count": 3674,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 628
+        },
+        "username": "GaoGaoLove_",
+        "verified": false
+      }
+    ]
+  }
+}

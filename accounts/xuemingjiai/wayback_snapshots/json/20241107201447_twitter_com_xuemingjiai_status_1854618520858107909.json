@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1854618520858107909",
+    "created_at": "2024-11-07T20:14:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-07T21:14:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1854618520858107909"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1717829922260127744",
+          "start": 3,
+          "username": "ye54404"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1854618520858107909",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1854512750917030386",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ye54404: 好久不见哦♡各位主人——还有各位小屌子公狗废物们🖤对你们这些欠骂的小贱公狗来说~主人不在的日子——一定非常非常的惬意吧🖤毕竟没有人对你们指手画脚了哦🖤哎呀~原来是寂寞到每天都在幻想亲妈的淫肉吗？🖤都怪人家被主人的肉棒肏的晕过去了~忘了你们这些废物小公狗…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1854618520858107909].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1854618520858107909",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1854618520858107909"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1854512729559568393"
+          ]
+        },
+        "author_id": "1717829922260127744",
+        "conversation_id": "1854512750917030386",
+        "created_at": "2024-11-07T13:14:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-07T14:14:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1854512750917030386"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VRaWZaTZWz",
+              "end": 168,
+              "expanded_url": "https://x.com/ye54404/status/1854512750917030386/photo/1",
+              "media_key": "3_1854512729559568393",
+              "start": 145,
+              "url": "https://t.co/VRaWZaTZWz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854512750917030386",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 1462,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "好久不见哦♡各位主人——还有各位小屌子公狗废物们🖤对你们这些欠骂的小贱公狗来说~主人不在的日子——一定非常非常的惬意吧🖤毕竟没有人对你们指手画脚了哦🖤哎呀~原来是寂寞到每天都在幻想亲妈的淫肉吗？🖤都怪人家被主人的肉棒肏的晕过去了~忘了你们这些废物小公狗是只会对着主人脚底发情的抖m贱奴呢~ https://t.co/VRaWZaTZWz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "超绝可爱💖\n她就是出道即巅峰的可爱纯真小天使新人偶像魔女小姐💖\n对这样的魔女小姐不能心怀任何涩涩的念想哦，不然就会变得非常糟糕...踏入无法挣脱的陷阱和牢笼里呢💘\n魔女小姐无论说什么做什么都是正确的哦，身为她的粉丝，只需要无条件用各种方式支持她就好了～\nqq2829556413，碎碎念小号@oricz233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 154,
+                "start": 145,
+                "username": "oricz233"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "name": "电波系新人偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854618482215911424/R3TTJuCj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5821,
+          "following_count": 224,
+          "like_count": 185,
+          "listed_count": 24,
+          "tweet_count": 1301
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-27T09:05:54.000Z",
+        "description": "这里是梦魇小姐蕾叶♡\n设定是偏绿茶s~m也可以\n什么玩法都可以,蕾叶会努力的满足您的要求，编织出各种梦境♡\n营业时间晚上6-11\n门牌号:2464252068\n欢迎贴贴\n最好的姐姐们：@k09BjB6znz68146 @qinglu_s @ShiKi775890297\n白心太妹老公：@fiwwnyunihozhl2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 92,
+                "username": "k09BjB6znz68146"
+              },
+              {
+                "end": 118,
+                "start": 109,
+                "username": "qinglu_s"
+              },
+              {
+                "end": 134,
+                "start": 119,
+                "username": "ShiKi775890297"
+              },
+              {
+                "end": 158,
+                "start": 142,
+                "username": "fiwwnyunihozhl2"
+              }
+            ]
+          }
+        },
+        "id": "1717829922260127744",
+        "name": "梦魇文媛💜蕾叶酱（互推）",
+        "pinned_tweet_id": "1810329405417533454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803021363403227136/0EiiR79q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3686,
+          "following_count": 390,
+          "like_count": 1603,
+          "listed_count": 14,
+          "tweet_count": 2439
+        },
+        "username": "ye54404",
+        "verified": false
+      }
+    ]
+  }
+}

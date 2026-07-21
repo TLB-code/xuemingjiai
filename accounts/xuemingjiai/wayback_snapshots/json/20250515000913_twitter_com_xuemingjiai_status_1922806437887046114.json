@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1922806434376581122"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "1922804402378723505",
+    "created_at": "2025-05-15T00:09:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-15T01:09:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922806437887046114"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LTPI81QNK9",
+          "end": 167,
+          "expanded_url": "https://x.com/xuemingjiai/status/1922806437887046114/photo/1",
+          "media_key": "3_1922806434376581122",
+          "start": 144,
+          "url": "https://t.co/LTPI81QNK9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922806437887046114",
+    "in_reply_to_user_id": "1374389254726455305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922805669700231294",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "无接触自慰，无接触发情。\n听起来很惨却又很幸福吧？\n自己猜猜这头白痴“贡猪”被本公主吸了多少血呢？\n光是让你们这群废物虫子代入一下就会颅内高潮吧，但是禁止擅自触碰，也禁止擅自流精，因为这份记录是个陷阱，是这头白痴“贡猪”为了吸引代入的同类来送死的劣质魔法陷阱。\n来找本公主，杀死自己吧💜 https://t.co/LTPI81QNK9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1922806434376581122",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gq8uQ7zaAAIIFw7.jpg",
+        "width": 733
+      },
+      {
+        "height": 2263,
+        "media_key": "3_1922805666739257344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gq8tkQIaAAAD5aG.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1922806434376581122"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "1922804402378723505",
+        "created_at": "2025-05-15T00:09:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-15T01:09:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922806437887046114"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LTPI81QNK9",
+              "end": 167,
+              "expanded_url": "https://x.com/xuemingjiai/status/1922806437887046114/photo/1",
+              "media_key": "3_1922806434376581122",
+              "start": 144,
+              "url": "https://t.co/LTPI81QNK9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922806437887046114",
+        "in_reply_to_user_id": "1374389254726455305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922805669700231294",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "无接触自慰，无接触发情。\n听起来很惨却又很幸福吧？\n自己猜猜这头白痴“贡猪”被本公主吸了多少血呢？\n光是让你们这群废物虫子代入一下就会颅内高潮吧，但是禁止擅自触碰，也禁止擅自流精，因为这份记录是个陷阱，是这头白痴“贡猪”为了吸引代入的同类来送死的劣质魔法陷阱。\n来找本公主，杀死自己吧💜 https://t.co/LTPI81QNK9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1922805666739257344"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1922804402378723505",
+        "created_at": "2025-05-15T00:06:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-15T01:06:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922805669700231294"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kfGLkXc6IF",
+              "end": 132,
+              "expanded_url": "https://x.com/xuemingjiai/status/1922805669700231294/photo/1",
+              "media_key": "3_1922805666739257344",
+              "start": 109,
+              "url": "https://t.co/kfGLkXc6IF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922805669700231294",
+        "in_reply_to_user_id": "1374389254726455305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922805045722063331",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "他是什么?\n家具。\n你是什么?\n你也是家具。\n他是不用触碰就能无限寸止发情憋气窒息的白给atm，那么你是什么？\n别装了，你也是和他一样的弱智白给垃圾下贱对着本公主无脑发情倒贴被禁止自慰的白痴atm钱包，强制代入发情💜 https://t.co/kfGLkXc6IF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "集美貌，智慧，强大于一身的魔女族公主现身人世～区区人类，跪下向我表示臣服吧💜\n被我支配 控制 吸脑 成为奴仆💜\n挑战qq242184780，里世界小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858\n女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "oricz233"
+              },
+              {
+                "end": 104,
+                "start": 95,
+                "username": "moelipoi"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "cutelingli"
+              },
+              {
+                "end": 144,
+                "start": 129,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 155,
+                "start": 148,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏💜强势登场人间",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922178521235128320/5seow5Nb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6850,
+          "following_count": 282,
+          "like_count": 310,
+          "listed_count": 30,
+          "media_count": 603,
+          "tweet_count": 1779
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

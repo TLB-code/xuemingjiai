@@ -1,0 +1,216 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1791781682846257153"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "1791781042321571928",
+    "created_at": "2024-05-18T10:43:38.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-18T11:43:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1791781685773963697"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1791683166304120832",
+          "start": 0,
+          "username": "zuixihuanmonv"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/3evkBkimng",
+          "end": 175,
+          "expanded_url": "https://twitter.com/xuemingjiai/status/1791781685773963697/photo/1",
+          "media_key": "3_1791781682846257153",
+          "start": 152,
+          "url": "https://t.co/3evkBkimng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1791781685773963697",
+    "in_reply_to_user_id": "1374389254726455305",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1791781470794834324",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zuixihuanmonv 白纸计划全程透明，每日的状态和发生的改变可以看qq和推特的变化哦，白纸日记也会每日发推（不排除会有被使坏的情况发生）\n总之呢，就是这样一个充满无限可能性，一切未知的企划，想要围观，想要参与进来，想要成为规则制定者，都请添加qq2438028521进行互动，让我们周一再见~ https://t.co/3evkBkimng"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 930,
+        "media_key": "3_1791781682846257153",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GN2v8oEaUAEwJsM.jpg",
+        "width": 1240
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1791781682846257153"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "1791781042321571928",
+        "created_at": "2024-05-18T10:43:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-18T11:43:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1791781685773963697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1791683166304120832",
+              "start": 0,
+              "username": "zuixihuanmonv"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/3evkBkimng",
+              "end": 175,
+              "expanded_url": "https://twitter.com/xuemingjiai/status/1791781685773963697/photo/1",
+              "media_key": "3_1791781682846257153",
+              "start": 152,
+              "url": "https://t.co/3evkBkimng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1791781685773963697",
+        "in_reply_to_user_id": "1374389254726455305",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1791781470794834324",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zuixihuanmonv 白纸计划全程透明，每日的状态和发生的改变可以看qq和推特的变化哦，白纸日记也会每日发推（不排除会有被使坏的情况发生）\n总之呢，就是这样一个充满无限可能性，一切未知的企划，想要围观，想要参与进来，想要成为规则制定者，都请添加qq2438028521进行互动，让我们周一再见~ https://t.co/3evkBkimng"
+      },
+      {
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "1791781042321571928",
+        "created_at": "2024-05-18T10:42:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-18T11:42:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1791781470794834324"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1791683166304120832",
+              "start": 0,
+              "username": "zuixihuanmonv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1791781470794834324",
+        "in_reply_to_user_id": "1374389254726455305",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1791781391149211779",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zuixihuanmonv 白纸计划的人选\n第一位规则制定者需要支付给魔女小姐100金币参与游戏，后续魔女小姐会每天询问当日的规则制定者，下一位需要支付多少金币（可以是一个固定数额也可以是随机数额或者是每一位增加或减少多少金币）同样的，下一位规则制定者也可以选择消除这些规则，或在规则的基础上增加新的规则。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "就如同推特名一样\n是传说中的网络美少女，在异世界中是名副其实的“魔女”💜\n对人类世界充满好奇，会用自己的一些方式来洗脑一些小雏男以满足自己的恶趣味，非常拜金💚征集人型钱包中..\n门牌是2829556413和2438028521（备用）\n请来送死~♡\n不涉三哦",
+        "id": "1374389254726455305",
+        "name": "请叫我魔女小姐💜（白纸计划上线中）",
+        "pinned_tweet_id": "1744800330448277998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790638369040711680/qE_AOavg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4799,
+          "following_count": 156,
+          "like_count": 141,
+          "listed_count": 22,
+          "tweet_count": 938
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-18T04:12:26.000Z",
+        "description": "这里还是一片空白，等待填满",
+        "id": "1791683166304120832",
+        "name": "白纸的魔女小姐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791763313652895744/jYjjc0V-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 1,
+          "like_count": 0,
+          "listed_count": 0,
+          "tweet_count": 0
+        },
+        "username": "zuixihuanmonv",
+        "verified": false
+      }
+    ]
+  }
+}

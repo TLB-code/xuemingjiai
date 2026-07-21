@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1837177725859287528",
+    "created_at": "2024-09-20T17:11:17.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-20T18:11:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1837177725859287528"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1709957913337540608",
+          "start": 3,
+          "username": "mngmngni649900"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837177725859287528",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837072652252631510",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mngmngni649900: 小狗狗，又来找姐姐玩啊?这么喜欢被姐姐玩弄你的身体~被姐姐锁住四孔，就连尿尿都得跪在地上求着姐姐~很好玩是吧~?真不巧呢，姐姐刚刚被主人吩咐要去侍奉人家呢，没时间哦没时间~诶?主人是谁?当然是我的黑爹大人哦♡奴婢身体就是为了它而存在♡姐姐…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1837177725859287528].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1837177725859287528",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1837177725859287528"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1837072637757149184"
+          ]
+        },
+        "author_id": "1709957913337540608",
+        "conversation_id": "1837072652252631510",
+        "created_at": "2024-09-20T10:13:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-20T11:13:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1837072652252631510"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 130,
+              "start": 127,
+              "tag": "文援"
+            },
+            {
+              "end": 134,
+              "start": 131,
+              "tag": "文爱"
+            },
+            {
+              "end": 140,
+              "start": 136,
+              "tag": "媚黑纹"
+            },
+            {
+              "end": 144,
+              "start": 141,
+              "tag": "婊子"
+            },
+            {
+              "end": 149,
+              "start": 145,
+              "tag": "NTR"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pqynmzu0lx",
+              "end": 173,
+              "expanded_url": "https://twitter.com/mngmngni649900/status/1837072652252631510/photo/1",
+              "media_key": "3_1837072637757149184",
+              "start": 150,
+              "url": "https://t.co/pQynmzU0lX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837072652252631510",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 1526,
+          "like_count": 61,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "小狗狗，又来找姐姐玩啊?这么喜欢被姐姐玩弄你的身体~被姐姐锁住四孔，就连尿尿都得跪在地上求着姐姐~很好玩是吧~?真不巧呢，姐姐刚刚被主人吩咐要去侍奉人家呢，没时间哦没时间~诶?主人是谁?当然是我的黑爹大人哦♡奴婢身体就是为了它而存在♡姐姐是主人的宠物呢~#文援 #文爱  #媚黑纹 #婊子 #NTR https://t.co/pQynmzU0lX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "超绝可爱💖\n她就是出道即巅峰的可爱纯真小天使新人偶像魔女小姐💖\n任何人都会被她散发出的魅力所捕获，对这样的魔女小姐不能心怀任何涩涩的念想哦，不然就会变得非常糟糕...踏入无法挣脱的陷阱和牢笼里呢💘\n魔女小姐无论说什么做什么都是正确的哦，身为她的粉丝，只需要无条件用各种方式支持她就好了～\nqq2829556413",
+        "id": "1374389254726455305",
+        "name": "电波系新人偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1804570562511126828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836438377702600704/CAqVvsCj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5379,
+          "following_count": 190,
+          "like_count": 150,
+          "listed_count": 23,
+          "tweet_count": 1061
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-05T15:45:21.000Z",
+        "description": "文援芳澜参上，臣服在魔女大人的威压之下吧~哼哼，企鹅这种事情早说嘛，呐~给你了，不用客气哦~2693097574\n要带着感恩好好的臣服在魔女大人的玉足之下呢~文援60/h 33/30min 清云姐姐万岁♡",
+        "id": "1709957913337540608",
+        "name": "芳澜w",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1767418987187707904/DNYMnil6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 897,
+          "following_count": 16,
+          "like_count": 9,
+          "listed_count": 4,
+          "tweet_count": 104
+        },
+        "username": "mngmngni649900",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1923025745045225473"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "1922940016008810653",
+    "created_at": "2025-05-15T14:40:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-15T15:40:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923025756323471514"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1317722221784272897",
+          "start": 0,
+          "username": "leilan_wy_jy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EewUvWUdnT",
+          "end": 180,
+          "expanded_url": "https://x.com/xuemingjiai/status/1923025756323471514/photo/1",
+          "media_key": "3_1923025745045225473",
+          "start": 157,
+          "url": "https://t.co/EewUvWUdnT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923025756323471514",
+    "in_reply_to_user_id": "1317722221784272897",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922940016008810653",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@leilan_wy_jy 从天而降的超绝美少女～魔女族公主，高贵，冷傲，腹黑，藐视众生，接受一切挑战，践踏目光所及的一切💜\n哟，凡人，人类男性，既然被本公主的魔眼捕获就别想逃走了，身体，灵魂，钱包，忠诚，总得留下一个...弱者才做选择，本公主会支配控制你的人生，点击头像进入简介，观看置顶，作为提线木偶送死吧💜 https://t.co/EewUvWUdnT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1216,
+        "media_key": "3_1923025745045225473",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gq_1uftaAAEwSsR.jpg",
+        "width": 832
+      },
+      {
+        "height": 659,
+        "media_key": "3_1919402764033277952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqMWpPsbQAAMHRC.jpg",
+        "width": 1154
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1923025745045225473"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "1922940016008810653",
+        "created_at": "2025-05-15T14:40:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-15T15:40:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923025756323471514"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1317722221784272897",
+              "start": 0,
+              "username": "leilan_wy_jy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EewUvWUdnT",
+              "end": 180,
+              "expanded_url": "https://x.com/xuemingjiai/status/1923025756323471514/photo/1",
+              "media_key": "3_1923025745045225473",
+              "start": 157,
+              "url": "https://t.co/EewUvWUdnT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923025756323471514",
+        "in_reply_to_user_id": "1317722221784272897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922940016008810653",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@leilan_wy_jy 从天而降的超绝美少女～魔女族公主，高贵，冷傲，腹黑，藐视众生，接受一切挑战，践踏目光所及的一切💜\n哟，凡人，人类男性，既然被本公主的魔眼捕获就别想逃走了，身体，灵魂，钱包，忠诚，总得留下一个...弱者才做选择，本公主会支配控制你的人生，点击头像进入简介，观看置顶，作为提线木偶送死吧💜 https://t.co/EewUvWUdnT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1919402764033277952"
+          ]
+        },
+        "author_id": "1317722221784272897",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1922940016008810653",
+        "created_at": "2025-05-15T09:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-15T10:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1922940016008810653"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 70,
+              "start": 67,
+              "tag": "文援"
+            },
+            {
+              "end": 75,
+              "start": 71,
+              "tag": "耒兰诏"
+            },
+            {
+              "end": 79,
+              "start": 76,
+              "tag": "文爱"
+            },
+            {
+              "end": 84,
+              "start": 80,
+              "tag": "文援姬"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iuxbKba5Pj",
+              "end": 108,
+              "expanded_url": "https://x.com/leilan_wy_jy/status/1922940016008810653/photo/1",
+              "media_key": "3_1919402764033277952",
+              "start": 85,
+              "url": "https://t.co/iuxbKba5Pj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922940016008810653",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 908,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 39,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "【耒兰的傍晚文援公告板】\n晚风吹过耳畔你显得很好看。\n——\n文援姬请回复自己的营业时间和价格！\n客人请回复想要的剧情和出价(重要)！\n#文援 #耒兰诏 #文爱 #文援姬 https://t.co/iuxbKba5Pj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "集美貌，智慧，强大于一身的魔女族公主现身人世～区区人类，跪下向我表示臣服吧💜\n被我支配 控制 吸脑 成为奴仆💜\n挑战qq242184780，里世界小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858\n女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "oricz233"
+              },
+              {
+                "end": 104,
+                "start": 95,
+                "username": "moelipoi"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "cutelingli"
+              },
+              {
+                "end": 144,
+                "start": 129,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 155,
+                "start": 148,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏💜强势登场人间",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922178521235128320/5seow5Nb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6859,
+          "following_count": 282,
+          "like_count": 310,
+          "listed_count": 30,
+          "media_count": 604,
+          "tweet_count": 1783
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-18T07:00:50.000Z",
+        "description": "联系请私聊！\n可以帮文援姬按模板【免费推广】，\n没有次数限制但有频率限制，模板是主页置顶哦~\n设定是金毛双尾小个子狐娘！\n#耒兰访 #耒兰谊 尽力更新！\n想要我联系文援姬，也可以私信我。\n没有被投稿人转推的推文请小心。\n限制更少的（商业）推广在 @leilan_magazine",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 65,
+                "start": 61,
+                "tag": "耒兰访"
+              },
+              {
+                "end": 70,
+                "start": 66,
+                "tag": "耒兰谊"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 139,
+                "start": 123,
+                "username": "leilan_magazine"
+              }
+            ]
+          }
+        },
+        "id": "1317722221784272897",
+        "location": "离你不远。",
+        "name": "文援姬投稿推广~耒兰~leilan",
+        "pinned_tweet_id": "1740714095832396000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1540618453065019392/NEgQI_7o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12183,
+          "following_count": 681,
+          "like_count": 187,
+          "listed_count": 34,
+          "media_count": 4064,
+          "tweet_count": 4481
+        },
+        "username": "leilan_wy_jy",
+        "verified": true
+      }
+    ]
+  }
+}

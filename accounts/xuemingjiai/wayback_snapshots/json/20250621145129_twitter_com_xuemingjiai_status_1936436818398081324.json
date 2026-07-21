@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1936436818398081324",
+    "created_at": "2025-06-21T14:51:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-21T15:51:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936436818398081324"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1840915231675203587",
+          "start": 3,
+          "username": "mlpx134679"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936436818398081324",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936018150094414168",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mlpx134679: 哈啊～请把精液全部射给我哦～旅行者～\n旅行者的肉棒真的好大呢～人家会全部含住帮旅行者舒服的哦～让肉棒全部插入小嘴深喉将浓稠精液全部吃掉～跪趴在床上让完全勃起的粗大肉棒插入扩张小穴～直到完全内射～让小子宫被精液灌满让小肚子都鼓起来 https://…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1936436818398081324].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1936436818398081324",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1936436818398081324"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 849,
+        "media_key": "3_1936018129542365184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt4eOzoWwAAbk-g.jpg",
+        "width": 1200
+      },
+      {
+        "height": 630,
+        "media_key": "3_1936018129546563584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt4eOzpW0AAdO07.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936018129542365184",
+            "3_1936018129546563584"
+          ]
+        },
+        "author_id": "1840915231675203587",
+        "conversation_id": "1936018150094414168",
+        "created_at": "2025-06-20T11:07:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T12:07:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936018150094414168"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7qYntpcBBK",
+              "end": 138,
+              "expanded_url": "https://x.com/mlpx134679/status/1936018150094414168/photo/1",
+              "media_key": "3_1936018129542365184",
+              "start": 115,
+              "url": "https://t.co/7qYntpcBBK"
+            },
+            {
+              "display_url": "pic.x.com/7qYntpcBBK",
+              "end": 138,
+              "expanded_url": "https://x.com/mlpx134679/status/1936018150094414168/photo/1",
+              "media_key": "3_1936018129546563584",
+              "start": 115,
+              "url": "https://t.co/7qYntpcBBK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936018150094414168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 3860,
+          "like_count": 58,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "哈啊～请把精液全部射给我哦～旅行者～\n旅行者的肉棒真的好大呢～人家会全部含住帮旅行者舒服的哦～让肉棒全部插入小嘴深喉将浓稠精液全部吃掉～跪趴在床上让完全勃起的粗大肉棒插入扩张小穴～直到完全内射～让小子宫被精液灌满让小肚子都鼓起来 https://t.co/7qYntpcBBK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n你也会因为窥视我的美貌而心甘情愿沦为钱包被我使用的对吗？\n钱包报名入口：3971546171\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 67,
+                "username": "oricz233"
+              },
+              {
+                "end": 96,
+                "start": 87,
+                "username": "moelipoi"
+              },
+              {
+                "end": 114,
+                "start": 103,
+                "username": "cutelingli"
+              },
+              {
+                "end": 136,
+                "start": 121,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 148,
+                "start": 141,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍驯化公用钱包👛中",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931064828044713984/9qwnduVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7259,
+          "following_count": 310,
+          "like_count": 375,
+          "listed_count": 32,
+          "media_count": 696,
+          "tweet_count": 2118
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-01T00:42:55.000Z",
+        "description": "伊伊已经在床上等着哥哥的大肉棒了哦♥\n嗯～还是想被伊伊狠狠榨干呢\n各种文爱剧情都擅长哦～不管是文爱剧情还是日常聊天陪伴都可以胜任喵\n全天营业中♥\n欢迎下单喵.30r/0.5h \n可包周包月～\n伊伊的门牌号喵\n3921895379\n电报 https://t.co/Cx9cCJLb4d",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/mlpx268479",
+                "end": 141,
+                "expanded_url": "http://t.me/mlpx268479",
+                "start": 118,
+                "url": "https://t.co/Cx9cCJLb4d"
+              }
+            ]
+          }
+        },
+        "id": "1840915231675203587",
+        "location": "你的床上～♥",
+        "name": "是伊伊呀（文援互推喵）",
+        "pinned_tweet_id": "1929457500010561678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870699649759113216/gFLvFUzl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4821,
+          "following_count": 39,
+          "like_count": 328,
+          "listed_count": 22,
+          "media_count": 172,
+          "tweet_count": 3727
+        },
+        "username": "mlpx134679",
+        "verified": false
+      }
+    ]
+  }
+}

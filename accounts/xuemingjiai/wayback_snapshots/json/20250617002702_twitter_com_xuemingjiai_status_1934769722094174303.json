@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1934115824069177344"
+      ],
+      "media_source_tweet_id": [
+        "1934115826816434313"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "1934769722094174303",
+    "created_at": "2025-06-17T00:27:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-17T01:27:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934769722094174303"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 78,
+          "start": 75,
+          "tag": "文援"
+        },
+        {
+          "end": 82,
+          "start": 79,
+          "tag": "聊天"
+        },
+        {
+          "end": 86,
+          "start": 83,
+          "tag": "树洞"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1777598492124532736",
+          "start": 3,
+          "username": "Qilicc"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qRCeEvquT2",
+          "end": 110,
+          "expanded_url": "https://x.com/Qilicc/status/1934115826816434313/photo/1",
+          "media_key": "3_1934115824069177344",
+          "start": 87,
+          "url": "https://t.co/qRCeEvquT2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934769722094174303",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934115826816434313",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Qilicc: 接点聊天单子，有人孤单寂寞了想要陪陪可以找我.\n当然如果有人犯贱想要送钱可以直说🖤我会给你想要的羞辱~并把你可怜的贡金吸干~ #文援 #聊天 #树洞 https://t.co/qRCeEvquT2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1934115824069177344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtdcGDga8AAxeuo.jpg",
+        "width": 1358
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934115824069177344"
+          ],
+          "media_source_tweet_id": [
+            "1934115826816434313"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "1934769722094174303",
+        "created_at": "2025-06-17T00:27:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T01:27:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934769722094174303"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 78,
+              "start": 75,
+              "tag": "文援"
+            },
+            {
+              "end": 82,
+              "start": 79,
+              "tag": "聊天"
+            },
+            {
+              "end": 86,
+              "start": 83,
+              "tag": "树洞"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1777598492124532736",
+              "start": 3,
+              "username": "Qilicc"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qRCeEvquT2",
+              "end": 110,
+              "expanded_url": "https://x.com/Qilicc/status/1934115826816434313/photo/1",
+              "media_key": "3_1934115824069177344",
+              "start": 87,
+              "url": "https://t.co/qRCeEvquT2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934769722094174303",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934115826816434313",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Qilicc: 接点聊天单子，有人孤单寂寞了想要陪陪可以找我.\n当然如果有人犯贱想要送钱可以直说🖤我会给你想要的羞辱~并把你可怜的贡金吸干~ #文援 #聊天 #树洞 https://t.co/qRCeEvquT2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934115824069177344"
+          ]
+        },
+        "author_id": "1777598492124532736",
+        "conversation_id": "1934115826816434313",
+        "created_at": "2025-06-15T05:08:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T06:08:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934115826816434313"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 66,
+              "start": 63,
+              "tag": "文援"
+            },
+            {
+              "end": 70,
+              "start": 67,
+              "tag": "聊天"
+            },
+            {
+              "end": 74,
+              "start": 71,
+              "tag": "树洞"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qRCeEvquT2",
+              "end": 98,
+              "expanded_url": "https://x.com/Qilicc/status/1934115826816434313/photo/1",
+              "media_key": "3_1934115824069177344",
+              "start": 75,
+              "url": "https://t.co/qRCeEvquT2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934115826816434313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2710,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "接点聊天单子，有人孤单寂寞了想要陪陪可以找我.\n当然如果有人犯贱想要送钱可以直说🖤我会给你想要的羞辱~并把你可怜的贡金吸干~ #文援 #聊天 #树洞 https://t.co/qRCeEvquT2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n你也会因为窥视我的美貌而心甘情愿沦为钱包被我使用的对吗？\n钱包报名入口：3971546171\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 67,
+                "username": "oricz233"
+              },
+              {
+                "end": 96,
+                "start": 87,
+                "username": "moelipoi"
+              },
+              {
+                "end": 114,
+                "start": 103,
+                "username": "cutelingli"
+              },
+              {
+                "end": 136,
+                "start": 121,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 148,
+                "start": 141,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍驯化公用钱包👛中",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931064828044713984/9qwnduVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7216,
+          "following_count": 309,
+          "like_count": 364,
+          "listed_count": 33,
+          "media_count": 682,
+          "tweet_count": 2068
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-09T07:25:06.000Z",
+        "description": "一枚文援?.可以陪你做喜欢的事，涉三的事除了照片以外都需要长期沉淀才行.\n私信我交流请友善一点可以发癫✉️\n请不要在私信对我发生殖器照✉️\n🚪5（不抵扣）⚠️门牌:1725218154⚠️✉️点媒体查看我的推文✉️有Switch成分，入门闲聊免费.✉️请点点关注不要取关我.",
+        "id": "1777598492124532736",
+        "location": "あなたの幸せを祈ります🍥",
+        "name": "祈莉莉⭐全天营业中",
+        "pinned_tweet_id": "1850881152502137211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914618106774970368/Ltf9o-37_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2195,
+          "following_count": 35,
+          "like_count": 268,
+          "listed_count": 4,
+          "media_count": 48,
+          "tweet_count": 263
+        },
+        "username": "Qilicc",
+        "verified": false
+      }
+    ]
+  }
+}

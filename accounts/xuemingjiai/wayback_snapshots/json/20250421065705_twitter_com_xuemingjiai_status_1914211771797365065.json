@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1914211771797365065",
+    "created_at": "2025-04-21T06:57:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-21T07:57:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914211771797365065"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1240949973056811009",
+          "start": 3,
+          "username": "Idol_Taoxin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914211771797365065",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913247819294449689",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @Idol_Taoxin: 腆着脸跑来找主人❤️就是想让人家踩废你这条掏出来就会让人长针眼的肉虫嘛💜\n也是~作为一条早泄软屌废狗，能够被主人的高跟鞋踩射是你的荣幸❤️怎么样~是不是很爽啊❤️白痴💚\n不过🖤你知道被人家踩废狗屌的代价是什么么🖤其实主人不用说~你自己也知道吧…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1914211771797365065].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1914211771797365065",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1914211771797365065"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1248,
+        "media_key": "3_1913247815913832448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Go04wHLWAAADLeY.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1913247815913832448"
+          ]
+        },
+        "author_id": "1240949973056811009",
+        "conversation_id": "1913247819294449689",
+        "created_at": "2025-04-18T15:06:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T16:06:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913247819294449689"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hHuLlxVXue",
+              "end": 147,
+              "expanded_url": "https://x.com/Idol_Taoxin/status/1913247819294449689/photo/1",
+              "media_key": "3_1913247815913832448",
+              "start": 124,
+              "url": "https://t.co/hHuLlxVXue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913247819294449689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "腆着脸跑来找主人❤️就是想让人家踩废你这条掏出来就会让人长针眼的肉虫嘛💜\n也是~作为一条早泄软屌废狗，能够被主人的高跟鞋踩射是你的荣幸❤️怎么样~是不是很爽啊❤️白痴💚\n不过🖤你知道被人家踩废狗屌的代价是什么么🖤其实主人不用说~你自己也知道吧❤️\n毕竟🖤你除了是一只阳痿早泄废物💚还是一只无可救药的白给吐钱ATM贡畜🖤对么？\n哦呀❤️听到从主人嘴里说出吐这个字🖤你的内心是不是非常兴奋？忍不住就想把自己的余额在主人这里清空🖤狗屌都激动的抖了好几下哦🖤傻逼🖤\n既然你这么喜欢听主人说🖤那么~\n吐🖤"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 8025,
+          "like_count": 62,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "reply_settings": "following",
+        "text": "腆着脸跑来找主人❤️就是想让人家踩废你这条掏出来就会让人长针眼的肉虫嘛💜\n也是~作为一条早泄软屌废狗，能够被主人的高跟鞋踩射是你的荣幸❤️怎么样~是不是很爽啊❤️白痴💚\n不过🖤你知道被人家踩废狗屌的代价是什么么🖤其实主人不用说~你自己也知道吧❤️ https://t.co/hHuLlxVXue"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "您好～这里是一直致力于为小雏男哥哥们提供“舒适”“安全”“极致射金体验”的纯真妹系小天使魔女妹妹💚\n想更加了解请翻看推文～\nqq2829556413，病毒小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858\n女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 79,
+                "username": "oricz233"
+              },
+              {
+                "end": 108,
+                "start": 99,
+                "username": "moelipoi"
+              },
+              {
+                "end": 126,
+                "start": 115,
+                "username": "cutelingli"
+              },
+              {
+                "end": 148,
+                "start": 133,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 159,
+                "start": 152,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系天使偶像魔女小姐💖女仆限定版♪",
+        "pinned_tweet_id": "1912930515570835816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909108552796651520/gRlgoaOf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6707,
+          "following_count": 273,
+          "like_count": 285,
+          "listed_count": 29,
+          "media_count": 572,
+          "tweet_count": 1569
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-20T10:35:14.000Z",
+        "description": "这里是贱狗最爱的世界第一全能百变偶像桃心💜你想要的一切这里都有哦❤️白痴们准备好把你们的💰全都上贡给你们深爱着的偶像了么🖤主营PUA上贡🏧反差绿帽🖤吸号贡号💚不涉三，🚪30，无脑贡狗翻十倍🖤不够傻逼的别来🖤门牌2650209312  tg:https://t.co/t46nKt9LvY",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Idol_taoxin",
+                "end": 143,
+                "expanded_url": "http://t.me/Idol_taoxin",
+                "start": 120,
+                "url": "https://t.co/t46nKt9LvY"
+              }
+            ]
+          }
+        },
+        "id": "1240949973056811009",
+        "name": "拜金偶像🖤桃心💜（互推私）",
+        "pinned_tweet_id": "1885975097233572173",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880060079937884160/-6fiC4Iw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14101,
+          "following_count": 327,
+          "like_count": 8998,
+          "listed_count": 75,
+          "media_count": 474,
+          "tweet_count": 4824
+        },
+        "username": "Idol_Taoxin",
+        "verified": true
+      }
+    ]
+  }
+}

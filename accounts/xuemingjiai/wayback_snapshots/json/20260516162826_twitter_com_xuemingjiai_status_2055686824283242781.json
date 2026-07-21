@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "2055686824283242781",
+    "created_at": "2026-05-16T16:28:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T17:28:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055686824283242781"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1374389254726455305",
+          "start": 3,
+          "username": "xuemingjiai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055686824283242781",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055329865692516816",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xuemingjiai: 最近有很多宝宝来询问本公主\n为什么不像以前那样频繁的更新推文啦？\n答案就在今天这篇“宣传”推文里。\n提问♡\n一只染上严重“奏奏癖”，并且被短时间提款大额之后然后跑掉的狗狗有百分之几的概率能戒掉？\n答案是百分之零🖤\n无码曝光～\n这样的虫子似乎有很…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2055686824283242781].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2055686824283242781",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2055686824283242781"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2656,
+        "media_key": "3_2055329067365470211",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIX-5azakAMzl_t.jpg",
+        "width": 1220
+      },
+      {
+        "height": 2656,
+        "media_key": "3_2055329091197505536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIX-6zlakAAAoic.jpg",
+        "width": 1220
+      },
+      {
+        "height": 2656,
+        "media_key": "3_2055329141646573568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIX-9vhaQAA4ip8.jpg",
+        "width": 1220
+      },
+      {
+        "height": 2656,
+        "media_key": "3_2055329172667666435",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIX-_jFakAMvKxr.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055329067365470211",
+            "3_2055329091197505536",
+            "3_2055329141646573568",
+            "3_2055329172667666435"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2055329865692516816",
+        "created_at": "2026-05-15T16:50:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T17:50:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055329865692516816"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hi5NrmGZMf",
+              "end": 169,
+              "expanded_url": "https://x.com/xuemingjiai/status/2055329865692516816/photo/1",
+              "media_key": "3_2055329067365470211",
+              "start": 146,
+              "url": "https://t.co/hi5NrmGZMf"
+            },
+            {
+              "display_url": "pic.x.com/hi5NrmGZMf",
+              "end": 169,
+              "expanded_url": "https://x.com/xuemingjiai/status/2055329865692516816/photo/1",
+              "media_key": "3_2055329091197505536",
+              "start": 146,
+              "url": "https://t.co/hi5NrmGZMf"
+            },
+            {
+              "display_url": "pic.x.com/hi5NrmGZMf",
+              "end": 169,
+              "expanded_url": "https://x.com/xuemingjiai/status/2055329865692516816/photo/1",
+              "media_key": "3_2055329141646573568",
+              "start": 146,
+              "url": "https://t.co/hi5NrmGZMf"
+            },
+            {
+              "display_url": "pic.x.com/hi5NrmGZMf",
+              "end": 169,
+              "expanded_url": "https://x.com/xuemingjiai/status/2055329865692516816/photo/1",
+              "media_key": "3_2055329172667666435",
+              "start": 146,
+              "url": "https://t.co/hi5NrmGZMf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055329865692516816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2902,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "最近有很多宝宝来询问本公主\n为什么不像以前那样频繁的更新推文啦？\n答案就在今天这篇“宣传”推文里。\n提问♡\n一只染上严重“奏奏癖”，并且被短时间提款大额之后然后跑掉的狗狗有百分之几的概率能戒掉？\n答案是百分之零🖤\n无码曝光～\n这样的虫子似乎有很多，轻易踩爆碾碎过段时间也会刷新复活，很爽呢♪ https://t.co/hi5NrmGZMf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会魅惑并享用钱包的公主殿下🤍\n精通各种处刑钱包的方法🖤\n联系方式→2829556413←\n病毒小号@oricz233\n现任魔女学园院长\n星辰魔女镜璃\n@jingli1840489\n桃心魔女奈奈\n@blakexiaonai\n 黑白魔女花卷\n@miaomiaomi17630\n好老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "oricz233"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 114,
+                "start": 101,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 139,
+                "start": 123,
+                "username": "miaomiaomi17630"
+              },
+              {
+                "end": 158,
+                "start": 143,
+                "username": "chessy80978858"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "全能魅惑系魔女族公主-奏💜魔女学园院长版～",
+        "pinned_tweet_id": "2013314916120416537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055327575581556736/-ZRgWKku_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8824,
+          "following_count": 363,
+          "like_count": 633,
+          "listed_count": 38,
+          "media_count": 825,
+          "tweet_count": 2190
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

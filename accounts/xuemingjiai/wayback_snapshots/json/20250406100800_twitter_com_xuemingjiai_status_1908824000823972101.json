@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1908823997753786368"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "1908821483654435017",
+    "created_at": "2025-04-06T10:08:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-06T11:08:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908824000823972101"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PuLl4dTgFa",
+          "end": 169,
+          "expanded_url": "https://x.com/xuemingjiai/status/1908824000823972101/photo/1",
+          "media_key": "3_1908823997753786368",
+          "start": 146,
+          "url": "https://t.co/PuLl4dTgFa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908824000823972101",
+    "in_reply_to_user_id": "1374389254726455305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908823142900146500",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "魔女小姐这次要把选择“控制图”的权利交给杂鱼小雏男自己哦～\n想象一下这样的场景：亲手把自己的“弱点”、“控制图”、“发情开关”送到魔女小姐手里，就像是自我处刑～自毁～甚至是自杀，这样的快感...\n光是想想就快忍不住翻白眼了吧♡\n想要送死哦？\n很想把自己的“命”交到我的手上吧～\n快来送死吧❤ https://t.co/PuLl4dTgFa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1908823997753786368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gn2BUATbAAAe0Bf.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1908823139330805760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gn2AiCbb0AAR2cU.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1908823997753786368"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "1908821483654435017",
+        "created_at": "2025-04-06T10:08:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T11:08:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908824000823972101"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PuLl4dTgFa",
+              "end": 169,
+              "expanded_url": "https://x.com/xuemingjiai/status/1908824000823972101/photo/1",
+              "media_key": "3_1908823997753786368",
+              "start": 146,
+              "url": "https://t.co/PuLl4dTgFa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908824000823972101",
+        "in_reply_to_user_id": "1374389254726455305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908823142900146500",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "魔女小姐这次要把选择“控制图”的权利交给杂鱼小雏男自己哦～\n想象一下这样的场景：亲手把自己的“弱点”、“控制图”、“发情开关”送到魔女小姐手里，就像是自我处刑～自毁～甚至是自杀，这样的快感...\n光是想想就快忍不住翻白眼了吧♡\n想要送死哦？\n很想把自己的“命”交到我的手上吧～\n快来送死吧❤ https://t.co/PuLl4dTgFa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1908823139330805760"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "1908821483654435017",
+        "created_at": "2025-04-06T10:04:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T11:04:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908823142900146500"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dqj7FqAuPa",
+              "end": 166,
+              "expanded_url": "https://x.com/xuemingjiai/status/1908823142900146500/photo/1",
+              "media_key": "3_1908823139330805760",
+              "start": 143,
+              "url": "https://t.co/dqj7FqAuPa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908823142900146500",
+        "in_reply_to_user_id": "1374389254726455305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908821721249104326",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "捏着自己的杂鱼小唧唧发情的杂鱼小雏男还在努力想着“控制器”到底要怎么实现对吗w\n想着只要知道了就不会控制♪\n魔女大人可以用某些特别色色的词汇加以强调，让你的脑子充满黄色废料～也可以用催眠，轻声细语地把你带进梦境，让你不知不觉沉沦♡\n不过，这些都比不上一张带来强烈视觉冲击的“控制图”♪ https://t.co/dqj7FqAuPa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "您好～这里是出道以来一直致力于为小雏男哥哥们提供“舒适”“安全”“极致射金体验”的纯真妹系小天使魔女妹妹💚\n想了解我请翻看我的推文～\nqq2829556413，碎碎念小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 85,
+                "username": "oricz233"
+              },
+              {
+                "end": 114,
+                "start": 105,
+                "username": "moelipoi"
+              },
+              {
+                "end": 132,
+                "start": 121,
+                "username": "cutelingli"
+              },
+              {
+                "end": 154,
+                "start": 139,
+                "username": "chessy80978858"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系天使偶像魔女小姐💖女仆限定版♪",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907689949878693889/HrJZStFZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6640,
+          "following_count": 267,
+          "like_count": 305,
+          "listed_count": 28,
+          "media_count": 560,
+          "tweet_count": 1533
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

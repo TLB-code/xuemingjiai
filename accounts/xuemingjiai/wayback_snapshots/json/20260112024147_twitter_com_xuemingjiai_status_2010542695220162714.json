@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "2010542695220162714",
+    "created_at": "2026-01-12T02:41:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T03:41:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010542695220162714"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1374389254726455305",
+          "start": 3,
+          "username": "xuemingjiai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010542695220162714",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010093457755590953",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xuemingjiai: 这也是一条专属推文～\n在未来，为了防止小钱包们看到过于刺激的场景，所以给所有的小钱包们都植入了一款芯片哦，这款芯片能够有效的保护女孩子们的隐私不受侵犯～自动在小钱包们的脑内生成屏蔽机制💚\n说你呢～雷头w，好不容易回家一趟却现在自己的女友出轨，抓…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2010542695220162714].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2010542695220162714",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2010542695220162714"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "alt_text": "想什么呢？还审判女孩子～\n你这样的废物绿毛龟应该立刻跪下哦，是不是看见什么不该看的地方了？脑内的保护女性隐私屏蔽芯片立刻生效～同时强制扒光你的衣物，让雷头宝宝裸体出现在她的房间里哦💚\n真是的，这个时候还勃起了，知道雷头宝宝也在努力的让自己的小唧唧硬起来展示雄风～你已经很努力啦，够啦够啦～噗嗤💚\n接下来就好好享受你最喜欢的玩法吧？\n自从安装上芯片，你的内心想法就被窥探得一干二净了哦，雷头宝宝想要的高潮方式呢，还真是变态啊～\n来，站好～对～身体前倾～努力让自己的小唧唧翘的更高，要来咯～\n3💚\n2💚\n1💚\n踢～对着卵蛋的一次毫不留情的攻击～被出轨女友高贵的足底狠狠的踹向男性的象征～\n痛苦转换为快感～下贱～在这一瞬间你翻着白眼直接喷出了前所未有过的射精量，同时你的金币也伴随着最爽的射精一起进入了她的口袋里💚",
+        "height": 657,
+        "media_key": "3_2010090619335811072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-VGxLPbIAARWWF.jpg",
+        "width": 660
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010090619335811072"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "2010093457755590953",
+        "created_at": "2026-01-10T20:56:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T21:56:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010093457755590953"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xMrhSzF1cy",
+              "end": 166,
+              "expanded_url": "https://x.com/xuemingjiai/status/2010093457755590953/photo/1",
+              "media_key": "3_2010090619335811072",
+              "start": 143,
+              "url": "https://t.co/xMrhSzF1cy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010093457755590953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 2912,
+          "like_count": 110,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "这也是一条专属推文～\n在未来，为了防止小钱包们看到过于刺激的场景，所以给所有的小钱包们都植入了一款芯片哦，这款芯片能够有效的保护女孩子们的隐私不受侵犯～自动在小钱包们的脑内生成屏蔽机制💚\n说你呢～雷头w，好不容易回家一趟却现在自己的女友出轨，抓到现行了，点进图片左下角ALT审判她吧💚 https://t.co/xMrhSzF1cy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🖤\n最最最最喜欢钱包们啦～\n联系方式→2829556413←\n病毒小号@oricz233\n现任魔女学园院长!\n星辰魔女镜璃\n@jingli1840489\n桃心魔女奈奈\n@blakexiaonai\n 黑白魔女花卷\n@miaomiaomi17630\n好老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 49,
+                "username": "oricz233"
+              },
+              {
+                "end": 90,
+                "start": 76,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 111,
+                "start": 98,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 136,
+                "start": 120,
+                "username": "miaomiaomi17630"
+              },
+              {
+                "end": 155,
+                "start": 140,
+                "username": "chessy80978858"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARosxSy"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🖤魔女学园院长版～",
+        "pinned_tweet_id": "1976743806063063398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009377548195778561/vWvReGfH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8148,
+          "following_count": 341,
+          "like_count": 645,
+          "listed_count": 37,
+          "media_count": 776,
+          "tweet_count": 2421
+        },
+        "url": "https://t.co/le8ARosxSy",
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "2069981999293726791",
+    "created_at": "2026-06-25T03:12:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T04:12:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069981999293726791"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1374389254726455305",
+          "start": 3,
+          "username": "xuemingjiai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069981999293726791",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069926633377829077",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xuemingjiai: 来啦，是6.24，最新的奏游动态~\n友谊厅开放，勇者们可以通过私信骚扰别的勇者啦~\n在深夜11点~勇者和魅魔们的战斗也非常激烈~老牌魅魔沫沫轻而易举的就吸干一个又一个勇者，不愧是魅魔女王~\n最后是魅魔婉喵的讨伐资料，看起来好可怕....\n那么，…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2069925996594372608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLnauhpaoAAD_DG.jpg",
+        "width": 864
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2069925996590227456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLnauhobYAAlWZ4.jpg",
+        "width": 882
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2069925996611145728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLnauhtakAAXMof.jpg",
+        "width": 882
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2069925996611158016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLnauhtawAAU94A.jpg",
+        "width": 882
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "2069981999293726791",
+        "created_at": "2026-06-25T03:12:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T04:12:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069981999293726791"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1374389254726455305",
+              "start": 3,
+              "username": "xuemingjiai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069981999293726791",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069926633377829077",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xuemingjiai: 来啦，是6.24，最新的奏游动态~\n友谊厅开放，勇者们可以通过私信骚扰别的勇者啦~\n在深夜11点~勇者和魅魔们的战斗也非常激烈~老牌魅魔沫沫轻而易举的就吸干一个又一个勇者，不愧是魅魔女王~\n最后是魅魔婉喵的讨伐资料，看起来好可怕....\n那么，…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069925996594372608",
+            "3_2069925996590227456",
+            "3_2069925996611145728",
+            "3_2069925996611158016"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2069926633377829077",
+        "created_at": "2026-06-24T23:32:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T00:32:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069926633377829077"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/k4VGlcIDIO",
+              "end": 171,
+              "expanded_url": "https://x.com/xuemingjiai/status/2069926633377829077/photo/1",
+              "media_key": "3_2069925996594372608",
+              "start": 148,
+              "url": "https://t.co/k4VGlcIDIO"
+            },
+            {
+              "display_url": "pic.x.com/k4VGlcIDIO",
+              "end": 171,
+              "expanded_url": "https://x.com/xuemingjiai/status/2069926633377829077/photo/1",
+              "media_key": "3_2069925996590227456",
+              "start": 148,
+              "url": "https://t.co/k4VGlcIDIO"
+            },
+            {
+              "display_url": "pic.x.com/k4VGlcIDIO",
+              "end": 171,
+              "expanded_url": "https://x.com/xuemingjiai/status/2069926633377829077/photo/1",
+              "media_key": "3_2069925996611145728",
+              "start": 148,
+              "url": "https://t.co/k4VGlcIDIO"
+            },
+            {
+              "display_url": "pic.x.com/k4VGlcIDIO",
+              "end": 171,
+              "expanded_url": "https://x.com/xuemingjiai/status/2069926633377829077/photo/1",
+              "media_key": "3_2069925996611158016",
+              "start": 148,
+              "url": "https://t.co/k4VGlcIDIO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069926633377829077",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 841,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "来啦，是6.24，最新的奏游动态~\n友谊厅开放，勇者们可以通过私信骚扰别的勇者啦~\n在深夜11点~勇者和魅魔们的战斗也非常激烈~老牌魅魔沫沫轻而易举的就吸干一个又一个勇者，不愧是魅魔女王~\n最后是魅魔婉喵的讨伐资料，看起来好可怕....\n那么，你是想成为勇者，还是新的魅魔呢♡\n快来加入奏游吧~ https://t.co/k4VGlcIDIO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "你也觉得你面前的这只魔女可爱过头了吧？\n对的!她和别人不一样!\n邂逅方式→2829556413←↓\n242184780\n涩气内容@oricz233\n星辰魔女镜璃\n@jingli1840489\n桃心魔女奈奈\n@blakexiaonai\n 黑白魔女花卷\n@miaomiaomyoez2\n好老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 64,
+                "username": "oricz233"
+              },
+              {
+                "end": 95,
+                "start": 81,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 116,
+                "start": 103,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 140,
+                "start": 125,
+                "username": "miaomiaomyoez2"
+              },
+              {
+                "end": 159,
+                "start": 144,
+                "username": "chessy80978858"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "超可爱超绿茶超撩人的精灵魔女-奏奏💚",
+        "pinned_tweet_id": "2065914875877228650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068510619113066496/EjupQRp9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9142,
+          "following_count": 401,
+          "like_count": 662,
+          "listed_count": 39,
+          "media_count": 834,
+          "tweet_count": 2241
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "2066364289942966621",
+    "created_at": "2026-06-15T03:36:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T04:36:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066364289942966621"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1629550872676954114",
+          "start": 3,
+          "username": "northblack0310"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066364289942966621",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065810471106777402",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @northblack0310: 你也是来面试资深粉丝的吗，资深粉丝呢还是有点门槛的，比如说一直爱着人家，比如说愿意帮人家做各种事，投票，应援，如果可以的话尽量来参加每一场演唱会支持人家...诶？你只是一个普通的人没有办法帮到人家，没关系没关系！无论你是什么样的人，在人家…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2066364289942966621].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2066364289942966621",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2066364289942966621"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "alt_text": "w无论是在别的地方多下贱~在别的地方多高贵~既然来了，就只是人家的粉丝而已哦？承担垫脚，洗脑，应援，全心全意的爱着人家，你就只是一个“粉丝”，只能挥舞着荧光棒在幕后默默为我付出",
+        "height": 1536,
+        "media_key": "3_2065810461166338048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKs7q1cbAAAUYAT.jpg",
+        "width": 912
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065810461166338048"
+          ]
+        },
+        "author_id": "1629550872676954114",
+        "conversation_id": "2065810471106777402",
+        "created_at": "2026-06-13T14:56:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T15:56:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065810471106777402"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xtG7N4Qts8",
+              "end": 165,
+              "expanded_url": "https://x.com/northblack0310/status/2065810471106777402/photo/1",
+              "media_key": "3_2065810461166338048",
+              "start": 142,
+              "url": "https://t.co/xtG7N4Qts8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065810471106777402",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 174,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你也是来面试资深粉丝的吗，资深粉丝呢还是有点门槛的，比如说一直爱着人家，比如说愿意帮人家做各种事，投票，应援，如果可以的话尽量来参加每一场演唱会支持人家...诶？你只是一个普通的人没有办法帮到人家，没关系没关系！无论你是什么样的人，在人家这里就只是人家的粉丝而已哦，不会有特殊对待的 https://t.co/xtG7N4Qts8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "你也觉得你面前的这只魔女可爱过头了吧？\n对的!她和别人不一样!\n邂逅方式→2829556413←\n超涩气小号@oricz233\n现任魔女学园院长\n星辰魔女镜璃\n@jingli1840489\n桃心魔女奈奈\n@blakexiaonai\n 黑白魔女花卷\n@miaomiaomyoez2\n好老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 54,
+                "username": "oricz233"
+              },
+              {
+                "end": 94,
+                "start": 80,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 115,
+                "start": 102,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 139,
+                "start": 124,
+                "username": "miaomiaomyoez2"
+              },
+              {
+                "end": 158,
+                "start": 143,
+                "username": "chessy80978858"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "超可爱超绿茶超撩人的精灵魔女-奏奏💚",
+        "pinned_tweet_id": "2013314916120416537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064079945459171328/WbF0iOyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8935,
+          "following_count": 381,
+          "like_count": 655,
+          "listed_count": 36,
+          "media_count": 831,
+          "tweet_count": 2223
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-25T18:36:33.000Z",
+        "description": "【心音所属】这里是，天才美少女夕绫desu，无口/温柔/反差/气味/可爱/调教类美少女文援姬，同时承接虚拟上贡后返还的业务，人设是一名在读高中生，无论是当温柔细腻的主人还是温柔侍奉的可爱猫娘都可以好好胜任的！s/m皆可w，如果想跟夕绫走进美妙的温柔乡可以加 q：1770867267♡欢迎各位的光临w",
+        "id": "1629550872676954114",
+        "name": "夕绫",
+        "pinned_tweet_id": "1941922403321540805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064701958498426881/MLiCDDdx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1148,
+          "following_count": 258,
+          "like_count": 500,
+          "listed_count": 6,
+          "media_count": 73,
+          "tweet_count": 773
+        },
+        "username": "northblack0310",
+        "verified": false
+      }
+    ]
+  }
+}

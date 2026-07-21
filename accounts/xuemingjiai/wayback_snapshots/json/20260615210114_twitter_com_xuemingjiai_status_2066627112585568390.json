@@ -1,0 +1,455 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066537817703157760",
+        "3_2066537793590022144",
+        "3_2066537850469023744",
+        "3_2066537796307922944"
+      ],
+      "media_source_tweet_id": [
+        "2066537853547581945",
+        "2066537853547581945",
+        "2066537853547581945",
+        "2066537853547581945"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2066627112585568390",
+    "created_at": "2026-06-15T21:01:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T22:01:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066627112585568390"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2030529740000595969",
+          "start": 3,
+          "username": "zhimuzha"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ayer1Qav7F",
+          "end": 116,
+          "expanded_url": "https://x.com/zhimuzha/status/2066537853547581945/photo/1",
+          "media_key": "3_2066537817703157760",
+          "start": 93,
+          "url": "https://t.co/Ayer1Qav7F"
+        },
+        {
+          "display_url": "pic.x.com/Ayer1Qav7F",
+          "end": 116,
+          "expanded_url": "https://x.com/zhimuzha/status/2066537853547581945/photo/1",
+          "media_key": "3_2066537793590022144",
+          "start": 93,
+          "url": "https://t.co/Ayer1Qav7F"
+        },
+        {
+          "display_url": "pic.x.com/Ayer1Qav7F",
+          "end": 116,
+          "expanded_url": "https://x.com/zhimuzha/status/2066537853547581945/photo/1",
+          "media_key": "3_2066537850469023744",
+          "start": 93,
+          "url": "https://t.co/Ayer1Qav7F"
+        },
+        {
+          "display_url": "pic.x.com/Ayer1Qav7F",
+          "end": 116,
+          "expanded_url": "https://x.com/zhimuzha/status/2066537853547581945/photo/1",
+          "media_key": "3_2066537796307922944",
+          "start": 93,
+          "url": "https://t.co/Ayer1Qav7F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066627112585568390",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066537853547581945",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zhimuzha: 「需要验证您的姓氏……」\n\nw\n\n来玩猜祖宗姓氏的游戏叭～？\n\n一次仅需5.2诶，很便宜的哦♡\n\n不过自己搞到触发保底的话…\n\n「宝宝你是个傻逼250呢🖤」 https://t.co/Ayer1Qav7F"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2066537817703157760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK3RMjsbkAAwm1J.jpg",
+        "width": 817
+      },
+      {
+        "height": 2170,
+        "media_key": "3_2066537793590022144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK3RLJ3aUAAhaYg.jpg",
+        "width": 923
+      },
+      {
+        "height": 1407,
+        "media_key": "3_2066537850469023744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK3ROdwbAAApqVX.jpg",
+        "width": 1090
+      },
+      {
+        "height": 1576,
+        "media_key": "3_2066537796307922944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK3RLT_aMAA0TN-.jpg",
+        "width": 921
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066537817703157760",
+            "3_2066537793590022144",
+            "3_2066537850469023744",
+            "3_2066537796307922944"
+          ],
+          "media_source_tweet_id": [
+            "2066537853547581945",
+            "2066537853547581945",
+            "2066537853547581945",
+            "2066537853547581945"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2066627112585568390",
+        "created_at": "2026-06-15T21:01:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T22:01:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066627112585568390"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2030529740000595969",
+              "start": 3,
+              "username": "zhimuzha"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ayer1Qav7F",
+              "end": 116,
+              "expanded_url": "https://x.com/zhimuzha/status/2066537853547581945/photo/1",
+              "media_key": "3_2066537817703157760",
+              "start": 93,
+              "url": "https://t.co/Ayer1Qav7F"
+            },
+            {
+              "display_url": "pic.x.com/Ayer1Qav7F",
+              "end": 116,
+              "expanded_url": "https://x.com/zhimuzha/status/2066537853547581945/photo/1",
+              "media_key": "3_2066537793590022144",
+              "start": 93,
+              "url": "https://t.co/Ayer1Qav7F"
+            },
+            {
+              "display_url": "pic.x.com/Ayer1Qav7F",
+              "end": 116,
+              "expanded_url": "https://x.com/zhimuzha/status/2066537853547581945/photo/1",
+              "media_key": "3_2066537850469023744",
+              "start": 93,
+              "url": "https://t.co/Ayer1Qav7F"
+            },
+            {
+              "display_url": "pic.x.com/Ayer1Qav7F",
+              "end": 116,
+              "expanded_url": "https://x.com/zhimuzha/status/2066537853547581945/photo/1",
+              "media_key": "3_2066537796307922944",
+              "start": 93,
+              "url": "https://t.co/Ayer1Qav7F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066627112585568390",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066537853547581945",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zhimuzha: 「需要验证您的姓氏……」\n\nw\n\n来玩猜祖宗姓氏的游戏叭～？\n\n一次仅需5.2诶，很便宜的哦♡\n\n不过自己搞到触发保底的话…\n\n「宝宝你是个傻逼250呢🖤」 https://t.co/Ayer1Qav7F"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066537817703157760",
+            "3_2066537793590022144",
+            "3_2066537850469023744",
+            "3_2066537796307922944"
+          ]
+        },
+        "author_id": "2030529740000595969",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2066537853547581945",
+        "created_at": "2026-06-15T15:06:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T16:06:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066537853547581945"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ayer1Qav7F",
+              "end": 102,
+              "expanded_url": "https://x.com/zhimuzha/status/2066537853547581945/photo/1",
+              "media_key": "3_2066537817703157760",
+              "start": 79,
+              "url": "https://t.co/Ayer1Qav7F"
+            },
+            {
+              "display_url": "pic.x.com/Ayer1Qav7F",
+              "end": 102,
+              "expanded_url": "https://x.com/zhimuzha/status/2066537853547581945/photo/1",
+              "media_key": "3_2066537793590022144",
+              "start": 79,
+              "url": "https://t.co/Ayer1Qav7F"
+            },
+            {
+              "display_url": "pic.x.com/Ayer1Qav7F",
+              "end": 102,
+              "expanded_url": "https://x.com/zhimuzha/status/2066537853547581945/photo/1",
+              "media_key": "3_2066537850469023744",
+              "start": 79,
+              "url": "https://t.co/Ayer1Qav7F"
+            },
+            {
+              "display_url": "pic.x.com/Ayer1Qav7F",
+              "end": 102,
+              "expanded_url": "https://x.com/zhimuzha/status/2066537853547581945/photo/1",
+              "media_key": "3_2066537796307922944",
+              "start": 79,
+              "url": "https://t.co/Ayer1Qav7F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066537853547581945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 3721,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "「需要验证您的姓氏……」\n\nw\n\n来玩猜祖宗姓氏的游戏叭～？\n\n一次仅需5.2诶，很便宜的哦♡\n\n不过自己搞到触发保底的话…\n\n「宝宝你是个傻逼250呢🖤」 https://t.co/Ayer1Qav7F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "你也觉得你面前的这只魔女可爱过头了吧？\n对的!她和别人不一样!\n邂逅方式→2829556413←↓\n242184780\n超涩气小号@oricz233\n星辰魔女镜璃\n@jingli1840489\n桃心魔女奈奈\n@blakexiaonai\n 黑白魔女花卷\n@miaomiaomyoez2\n好老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 65,
+                "username": "oricz233"
+              },
+              {
+                "end": 96,
+                "start": 82,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 117,
+                "start": 104,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 141,
+                "start": 126,
+                "username": "miaomiaomyoez2"
+              },
+              {
+                "end": 160,
+                "start": 145,
+                "username": "chessy80978858"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "超可爱超绿茶超撩人的精灵魔女-奏奏💚",
+        "pinned_tweet_id": "2013314916120416537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064079945459171328/WbF0iOyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8964,
+          "following_count": 381,
+          "like_count": 655,
+          "listed_count": 36,
+          "media_count": 832,
+          "tweet_count": 2228
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-08T06:23:27.000Z",
+        "description": "皮下男\n黑心人格偶尔顶号，当做一般网友就好\n门牌号3472283709 🚪20/52\n笨蛋妹妹@shingen1314",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 47,
+                "username": "shingen1314"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "h.4399.com",
+                "end": 23,
+                "expanded_url": "https://h.4399.com",
+                "start": 0,
+                "url": "https://t.co/hGpxDaLEHE"
+              }
+            ]
+          }
+        },
+        "id": "2030529740000595969",
+        "location": "地球",
+        "name": "枝木楂",
+        "pinned_tweet_id": "2066376113799192612",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063896725216239616/64JXD_uw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 81,
+          "like_count": 120,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 570
+        },
+        "url": "https://t.co/hGpxDaLEHE",
+        "username": "zhimuzha",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "2020926811715273213",
+    "created_at": "2026-02-09T18:24:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T19:24:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020926811715273213"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1374389254726455305",
+          "start": 3,
+          "username": "xuemingjiai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020926811715273213",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020808309222092943",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xuemingjiai: 第二次宣传~魔女妈咪的贡金飞行棋🤍\n这是其中内置的赌场小游戏~整个飞行棋玩法非常丰富~分为单机版(测试)和联机版(和奏奏妈咪一对一)的玩法，其中联机版非常非常有意思~简单来说可以做到联机版在游戏里面和妈咪一对一聊天~被奏奏妈咪控制支配着体验游戏…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2020926811715273213].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2020926811715273213",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2020926811715273213"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2020808264615948288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAtaaPObcAAOeCB.jpg",
+        "width": 864
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2020808264624336896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAtaaPQbcAAIeDN.jpg",
+        "width": 864
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020808264615948288",
+            "3_2020808264624336896"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2020808309222092943",
+        "created_at": "2026-02-09T10:33:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T11:33:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020808309222092943"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/B8zto8WEpt",
+              "end": 166,
+              "expanded_url": "https://x.com/xuemingjiai/status/2020808309222092943/photo/1",
+              "media_key": "3_2020808264615948288",
+              "start": 143,
+              "url": "https://t.co/B8zto8WEpt"
+            },
+            {
+              "display_url": "pic.x.com/B8zto8WEpt",
+              "end": 166,
+              "expanded_url": "https://x.com/xuemingjiai/status/2020808309222092943/photo/1",
+              "media_key": "3_2020808264624336896",
+              "start": 143,
+              "url": "https://t.co/B8zto8WEpt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020808309222092943",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1926,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "第二次宣传~魔女妈咪的贡金飞行棋🤍\n这是其中内置的赌场小游戏~整个飞行棋玩法非常丰富~分为单机版(测试)和联机版(和奏奏妈咪一对一)的玩法，其中联机版非常非常有意思~简单来说可以做到联机版在游戏里面和妈咪一对一聊天~被奏奏妈咪控制支配着体验游戏的各种乐趣~感兴趣的话就找奏奏咨询吧~♡ https://t.co/B8zto8WEpt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会魅惑并享用钱包的公主殿下🤍\n最最最最喜欢钱包们啦～\n联系方式→2829556413←\n病毒小号@oricz233\n现任魔女学园院长!\n星辰魔女镜璃\n@jingli1840489\n桃心魔女奈奈\n@blakexiaonai\n 黑白魔女花卷\n@miaomiaomi17630\n好老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 52,
+                "username": "oricz233"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 114,
+                "start": 101,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 139,
+                "start": 123,
+                "username": "miaomiaomi17630"
+              },
+              {
+                "end": 158,
+                "start": 143,
+                "username": "chessy80978858"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "魅惑系魔女族公主-奏💜魔女学园院长版～",
+        "pinned_tweet_id": "2013314916120416537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018477066753306624/36q-3UGh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8348,
+          "following_count": 365,
+          "like_count": 646,
+          "listed_count": 36,
+          "media_count": 809,
+          "tweet_count": 2157
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,385 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2021108028272148482",
+        "3_2021108028259565572",
+        "3_2021108028230205441",
+        "3_2021108028247080960"
+      ],
+      "media_source_tweet_id": [
+        "2021108049587626295",
+        "2021108049587626295",
+        "2021108049587626295",
+        "2021108049587626295"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2021333467259338991",
+    "created_at": "2026-02-10T21:20:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T22:20:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021333467259338991"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 23,
+          "start": 17,
+          "tag": "蔷蔷广告位"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1834066076608667649",
+          "start": 3,
+          "username": "ENJOY8love8"
+        },
+        {
+          "end": 66,
+          "id": "1374389254726455305",
+          "start": 54,
+          "username": "xuemingjiai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ERX7wR3Tkg",
+          "end": 90,
+          "expanded_url": "https://x.com/ENJOY8love8/status/2021108049587626295/photo/1",
+          "media_key": "3_2021108028272148482",
+          "start": 67,
+          "url": "https://t.co/ERX7wR3Tkg"
+        },
+        {
+          "display_url": "pic.x.com/ERX7wR3Tkg",
+          "end": 90,
+          "expanded_url": "https://x.com/ENJOY8love8/status/2021108049587626295/photo/1",
+          "media_key": "3_2021108028259565572",
+          "start": 67,
+          "url": "https://t.co/ERX7wR3Tkg"
+        },
+        {
+          "display_url": "pic.x.com/ERX7wR3Tkg",
+          "end": 90,
+          "expanded_url": "https://x.com/ENJOY8love8/status/2021108049587626295/photo/1",
+          "media_key": "3_2021108028230205441",
+          "start": 67,
+          "url": "https://t.co/ERX7wR3Tkg"
+        },
+        {
+          "display_url": "pic.x.com/ERX7wR3Tkg",
+          "end": 90,
+          "expanded_url": "https://x.com/ENJOY8love8/status/2021108049587626295/photo/1",
+          "media_key": "3_2021108028247080960",
+          "start": 67,
+          "url": "https://t.co/ERX7wR3Tkg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021333467259338991",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021108049587626295",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @ENJOY8love8: #蔷蔷广告位\n来自魔女公主奏奏殿下的最新游戏企划~详情请看图片哦~x指路~@xuemingjiai https://t.co/ERX7wR3Tkg"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2021333467259338991].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2021333467259338991",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2021333467259338991"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2021108028272148482",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAxrCx3aAAIiuBF.jpg",
+        "width": 956
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2021108028259565572",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAxrCx0aAAQMC0A.jpg",
+        "width": 864
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2021108028230205441",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAxrCxtaAAEzPDi.jpg",
+        "width": 864
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2021108028247080960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAxrCxxbgAAfFKF.jpg",
+        "width": 864
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021108028272148482",
+            "3_2021108028259565572",
+            "3_2021108028230205441",
+            "3_2021108028247080960"
+          ]
+        },
+        "author_id": "1834066076608667649",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2021108049587626295",
+        "created_at": "2026-02-10T06:24:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T07:24:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021108049587626295"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "蔷蔷广告位"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 49,
+              "id": "1374389254726455305",
+              "start": 37,
+              "username": "xuemingjiai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ERX7wR3Tkg",
+              "end": 73,
+              "expanded_url": "https://x.com/ENJOY8love8/status/2021108049587626295/photo/1",
+              "media_key": "3_2021108028272148482",
+              "start": 50,
+              "url": "https://t.co/ERX7wR3Tkg"
+            },
+            {
+              "display_url": "pic.x.com/ERX7wR3Tkg",
+              "end": 73,
+              "expanded_url": "https://x.com/ENJOY8love8/status/2021108049587626295/photo/1",
+              "media_key": "3_2021108028259565572",
+              "start": 50,
+              "url": "https://t.co/ERX7wR3Tkg"
+            },
+            {
+              "display_url": "pic.x.com/ERX7wR3Tkg",
+              "end": 73,
+              "expanded_url": "https://x.com/ENJOY8love8/status/2021108049587626295/photo/1",
+              "media_key": "3_2021108028230205441",
+              "start": 50,
+              "url": "https://t.co/ERX7wR3Tkg"
+            },
+            {
+              "display_url": "pic.x.com/ERX7wR3Tkg",
+              "end": 73,
+              "expanded_url": "https://x.com/ENJOY8love8/status/2021108049587626295/photo/1",
+              "media_key": "3_2021108028247080960",
+              "start": 50,
+              "url": "https://t.co/ERX7wR3Tkg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021108049587626295",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 651,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "#蔷蔷广告位\n来自魔女公主奏奏殿下的最新游戏企划~详情请看图片哦~x指路~@xuemingjiai https://t.co/ERX7wR3Tkg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会魅惑并享用钱包的公主殿下🤍\n最最最最喜欢钱包们啦～\n联系方式→2829556413←\n病毒小号@oricz233\n现任魔女学园院长!\n星辰魔女镜璃\n@jingli1840489\n桃心魔女奈奈\n@blakexiaonai\n 黑白魔女花卷\n@miaomiaomi17630\n好老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 52,
+                "username": "oricz233"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 114,
+                "start": 101,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 139,
+                "start": 123,
+                "username": "miaomiaomi17630"
+              },
+              {
+                "end": 158,
+                "start": 143,
+                "username": "chessy80978858"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "魅惑系魔女族公主-奏💜魔女学园院长版～",
+        "pinned_tweet_id": "2013314916120416537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018477066753306624/36q-3UGh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8389,
+          "following_count": 365,
+          "like_count": 646,
+          "listed_count": 36,
+          "media_count": 809,
+          "tweet_count": 2158
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-12T03:07:35.000Z",
+        "description": "各位贵安~这里是文援墙，聚合所有喜爱文援和H的灵魂信念凝聚而成。首先声明!不许调戏蔷蔷!蔷蔷项目菜单一【文援运营咨询】【文援征集悬赏】 【挂人板】【定制文】【文援收款代收】给蔷蔷发的悬赏单请截图告知蔷蔷联系热线2375565349赞助、打赏私戳咱吧w 备用号@iohyZo0jBj4222",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 144,
+                "start": 129,
+                "username": "iohyZo0jBj4222"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bl.wenaiwu.net",
+                "end": 23,
+                "expanded_url": "http://bl.wenaiwu.net",
+                "start": 0,
+                "url": "https://t.co/WOiejMo5l4"
+              }
+            ]
+          }
+        },
+        "id": "1834066076608667649",
+        "location": "蔷蔷的秘密小屋",
+        "name": "文援墙（秽土转生版）",
+        "pinned_tweet_id": "1984496488144388307",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984495553250803716/hIEU47Kh_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1297,
+          "following_count": 149,
+          "like_count": 39,
+          "listed_count": 2,
+          "media_count": 65,
+          "tweet_count": 188
+        },
+        "url": "https://t.co/WOiejMo5l4",
+        "username": "ENJOY8love8",
+        "verified": false
+      }
+    ]
+  }
+}

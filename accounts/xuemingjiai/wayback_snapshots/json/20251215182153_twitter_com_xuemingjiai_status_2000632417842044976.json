@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1989917294303350789"
+      ],
+      "media_source_tweet_id": [
+        "1989917306563240295"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "2000632417842044976",
+    "created_at": "2025-12-15T18:21:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T19:21:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000632417842044976"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1683561144542461952",
+          "start": 3,
+          "username": "xiaoyuyougemeng"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/58vCDSScJ9",
+          "end": 70,
+          "expanded_url": "https://x.com/v4tuvqD3aO1567/status/1989917306563240295/photo/1",
+          "media_key": "3_1989917294303350789",
+          "start": 47,
+          "url": "https://t.co/58vCDSScJ9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000632417842044976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989917306563240295",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiaoyuyougemeng: 在这等你，给你另一份温暖。3281074623qq https://t.co/58vCDSScJ9"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2000632417842044976].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2000632417842044976",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2000632417842044976"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1989917294303350789",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G52bPHNbkAUH47H.jpg",
+        "width": 876
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989917294303350789"
+          ]
+        },
+        "author_id": "1683561144542461952",
+        "conversation_id": "1989917306563240295",
+        "created_at": "2025-11-16T04:43:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T05:43:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989917306563240295"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/58vCDSScJ9",
+              "end": 49,
+              "expanded_url": "https://x.com/v4tuvqD3aO1567/status/1989917306563240295/photo/1",
+              "media_key": "3_1989917294303350789",
+              "start": 26,
+              "url": "https://t.co/58vCDSScJ9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989917306563240295",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1438,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "在这等你，给你另一份温暖。3281074623qq https://t.co/58vCDSScJ9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n最最最最喜欢钱包们啦!\n天天挨骂真的不会腻嘛～\n擅长用爱意和温柔的语气俘虏钱包～\n联系方式→2829556413←\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 78,
+                "username": "oricz233"
+              },
+              {
+                "end": 107,
+                "start": 98,
+                "username": "moelipoi"
+              },
+              {
+                "end": 125,
+                "start": 114,
+                "username": "cutelingli"
+              },
+              {
+                "end": 147,
+                "start": 132,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 159,
+                "start": 152,
+                "username": "1xian1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍对钱包们最温柔最有好感版",
+        "pinned_tweet_id": "1976743806063063398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991861278688821248/oCQEPeIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8023,
+          "following_count": 333,
+          "like_count": 644,
+          "listed_count": 37,
+          "media_count": 763,
+          "tweet_count": 2375
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-24T19:34:01.000Z",
+        "description": "可爱小男娘，爱我的我会回报。勇敢私信，温柔s🖤门槛10（过滤一下没脑子的，可抵扣）。\n乳头开发💞|前列腺开发💞|性癖开发💞|温柔压榨🖤|贞操管理💞\n#郊狼 接郊狼电击控制。郊狼重度爱好者（没有役次元）\n🚪：企鹅3281074623（加不上就来电报）",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 77,
+                "start": 74,
+                "tag": "郊狼"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xiaoyuyougemeng",
+                "end": 23,
+                "expanded_url": "http://t.me/xiaoyuyougemeng",
+                "start": 0,
+                "url": "https://t.co/HCHwrWbJ6S"
+              }
+            ]
+          }
+        },
+        "id": "1683561144542461952",
+        "location": "你的心里",
+        "name": "小羽不会起早",
+        "pinned_tweet_id": "1989917306563240295",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989332722259808256/lnu7Ah_k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 42,
+          "like_count": 257,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 32
+        },
+        "url": "https://t.co/HCHwrWbJ6S",
+        "username": "xiaoyuyougemeng",
+        "verified": false
+      }
+    ]
+  }
+}

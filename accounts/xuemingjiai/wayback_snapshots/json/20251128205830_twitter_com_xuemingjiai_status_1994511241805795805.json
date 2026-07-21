@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1994511241805795805",
+    "created_at": "2025-11-28T20:58:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T21:58:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994511241805795805"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1374389254726455305",
+          "start": 3,
+          "username": "xuemingjiai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994511241805795805",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994445272231842017",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xuemingjiai: 来自魔女公主的任务指令～\n其实呀，很多小雏男都有一种特别卑微可爱的特性，那就是当“舔狗”，舔狗会无条件服从命令～而小雏男们被女孩子命令就会兴奋～哪怕明知道是在被“利用”，也会心甘情愿的硬起来握着操控杆去执行～对吧？\n先滚去关注@jingli18…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1994511241805795805].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1994511241805795805",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1994511241805795805"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "alt_text": "关注了吗～就点进来，白痴舔狗～🤍\n骂的就是你～反正不管本公主怎么对待你们～你们也只会舒舒服服开开心心跪着去完成本公主的命令～\n包括忍不住了就会来给本公主送钱🤍\n明知道本公主就是在利用你们给自己的女儿引流🤍\n还有把本公主舔得越来越高贵越来越懒～轻轻松松就能收割一片废物atm舔狗小雏男的钱包乃至生命～\n不过，这一次没有那么简单了哦，只是利用你们关注也太便宜你们了吧？\n任务后续🖤\n关注镜璃以后转发她的五条推文，直接把自己的推特变成活体引流广告牌。\n再然后，去加简介qq，直接用口令红包或者qq红包的方式白给5.2，配上土下座磕头表情，完成以后来这篇推文下面感谢本公主给予的任务～\n想成为“坏人”吗？想成为“帮凶”吗？\n那就舒舒服服的撸动着操控杆，按我说的做～\n去吧，乖“狗”🖤",
+        "height": 1200,
+        "media_key": "3_1994443628098535424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G62v6alawAAJTBD.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994443628098535424"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "1994445272231842017",
+        "created_at": "2025-11-28T16:36:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T17:36:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994445272231842017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 127,
+              "id": "1984115707815325698",
+              "start": 113,
+              "username": "jingli1840489"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/665rvMqaE3",
+              "end": 175,
+              "expanded_url": "https://x.com/xuemingjiai/status/1994445272231842017/photo/1",
+              "media_key": "3_1994443628098535424",
+              "start": 152,
+              "url": "https://t.co/665rvMqaE3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994445272231842017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 885,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "来自魔女公主的任务指令～\n其实呀，很多小雏男都有一种特别卑微可爱的特性，那就是当“舔狗”，舔狗会无条件服从命令～而小雏男们被女孩子命令就会兴奋～哪怕明知道是在被“利用”，也会心甘情愿的硬起来握着操控杆去执行～对吧？\n先滚去关注@jingli1840489\n然后点开图片左下角ALT,领取自己的专属奖励🤍 https://t.co/665rvMqaE3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n最最最最喜欢钱包们啦!\n天天挨骂真的不会腻嘛～\n擅长用爱意和温柔的语气俘虏钱包～\n联系方式→242184780←\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 77,
+                "username": "oricz233"
+              },
+              {
+                "end": 106,
+                "start": 97,
+                "username": "moelipoi"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "cutelingli"
+              },
+              {
+                "end": 146,
+                "start": 131,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 158,
+                "start": 151,
+                "username": "1xian1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍对钱包们最温柔最有好感版",
+        "pinned_tweet_id": "1976743806063063398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991861278688821248/oCQEPeIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7990,
+          "following_count": 344,
+          "like_count": 639,
+          "listed_count": 36,
+          "media_count": 762,
+          "tweet_count": 2346
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

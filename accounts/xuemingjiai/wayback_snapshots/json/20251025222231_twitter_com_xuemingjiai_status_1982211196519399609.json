@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1982211196519399609",
+    "created_at": "2025-10-25T22:22:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-25T23:22:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982211196519399609"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1951937781296754688",
+          "start": 3,
+          "username": "3378895338Ran"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982211196519399609",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 30
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981047688352453065",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @3378895338Ran: 你们这些正道弟子一个个道貌岸然～可是～看见本座的黑丝臭脚残留的酸汗顺着脚底一滴一滴滴落在地早就忍不住爬过来磕头宣誓臣服，伸出肮脏的舌头舔舐地板上的酸臭脚汗了吧💜不是来讨伐本座的吗？怎么一个个的开始争抢本座的恶臭脚汗呢～不过对于你们这群媚足恋…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1982211196519399609].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1982211196519399609",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1982211196519399609"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1981047674137718785",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G34YXRQXsAEIOD0.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981047674137718785"
+          ]
+        },
+        "author_id": "1951937781296754688",
+        "conversation_id": "1981047688352453065",
+        "created_at": "2025-10-22T17:19:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T18:19:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981047688352453065"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bRxQ4aYMJe",
+              "end": 163,
+              "expanded_url": "https://x.com/3378895338Ran/status/1981047688352453065/photo/1",
+              "media_key": "3_1981047674137718785",
+              "start": 140,
+              "url": "https://t.co/bRxQ4aYMJe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981047688352453065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 8104,
+          "like_count": 161,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "你们这些正道弟子一个个道貌岸然～可是～看见本座的黑丝臭脚残留的酸汗顺着脚底一滴一滴滴落在地早就忍不住爬过来磕头宣誓臣服，伸出肮脏的舌头舔舐地板上的酸臭脚汗了吧💜不是来讨伐本座的吗？怎么一个个的开始争抢本座的恶臭脚汗呢～不过对于你们这群媚足恋臭奴隶来说脚汗就是琼浆玉液和机缘呢～💜 https://t.co/bRxQ4aYMJe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n最最最最喜欢钱包们啦!\n天天挨骂真的不会腻嘛～\n擅长用爱意和温柔的语气俘虏钱包～\n联系方式→3971546171←\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 78,
+                "username": "oricz233"
+              },
+              {
+                "end": 107,
+                "start": 98,
+                "username": "moelipoi"
+              },
+              {
+                "end": 125,
+                "start": 114,
+                "username": "cutelingli"
+              },
+              {
+                "end": 147,
+                "start": 132,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 159,
+                "start": 152,
+                "username": "1xian1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARosxSy"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍对钱包们最温柔最有好感版",
+        "pinned_tweet_id": "1976743806063063398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969152325731168256/ozl0k8K4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7828,
+          "following_count": 327,
+          "like_count": 646,
+          "listed_count": 35,
+          "media_count": 746,
+          "tweet_count": 2276
+        },
+        "url": "https://t.co/le8ARosxSy",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-03T09:27:34.000Z",
+        "description": "碌碌无为的小透明文媛汐染🖤擅长：丝袜高跟/气味调教/黑心压榨/臭脚提款/肥臀闷脸❤️并非全职文媛没第一时间回复请谅解💜价格：30r/0.5h 60r/1h 晚上40r/0.5h 70r/1h💕门牌：3378895338〖门槛10r〗其他业务可私聊了解～♡〖不涉三〗老公：@_shogun_111",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 147,
+                "start": 135,
+                "username": "_shogun_111"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/X1ranS0619",
+                "end": 23,
+                "expanded_url": "https://t.me/X1ranS0619",
+                "start": 0,
+                "url": "https://t.co/LRn7WpcYFG"
+              }
+            ]
+          }
+        },
+        "id": "1951937781296754688",
+        "location": "汐染狐狸洞",
+        "name": "狐狸汐染〖文媛〗",
+        "pinned_tweet_id": "1981047688352453065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951938151813165056/dQ7mDCHa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 830,
+          "following_count": 52,
+          "like_count": 65,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 140
+        },
+        "url": "https://t.co/LRn7WpcYFG",
+        "username": "3378895338Ran",
+        "verified": false
+      }
+    ]
+  }
+}

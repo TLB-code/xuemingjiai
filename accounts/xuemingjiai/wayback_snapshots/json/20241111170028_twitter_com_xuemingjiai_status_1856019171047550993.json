@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1856019171047550993",
+    "created_at": "2024-11-11T17:00:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-11T18:00:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1856019171047550993"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1774950152643739648",
+          "start": 3,
+          "username": "qiranlove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1856019171047550993",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 76
+    },
+    "referenced_tweets": [
+      {
+        "id": "1855471517888295305",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qiranlove: 啊…老公…哈…没想到你还是这么做了是吗…你这狗改不了吃屎的家伙就这么辜负了我对你的信任，想方设法的把我带到了，噗嗤好吧现在你满意了是吗？🖤小鸡巴废物老公，将自己的老婆退下地狱接受别人的亵玩，嗯？已经解开你的裤带了吗？鸡巴已经小到让我看不见了吗，就在…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1856019171047550993].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1856019171047550993",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1856019171047550993"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1855471451630886912"
+          ]
+        },
+        "author_id": "1774950152643739648",
+        "conversation_id": "1855471517888295305",
+        "created_at": "2024-11-10T04:44:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-10T05:44:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1855471517888295305"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IFcT0DNO8v",
+              "end": 165,
+              "expanded_url": "https://x.com/qiranlove/status/1855471517888295305/photo/1",
+              "media_key": "3_1855471451630886912",
+              "start": 142,
+              "url": "https://t.co/IFcT0DNO8v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855471517888295305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 294,
+                "start": 291,
+                "tag": "文媛"
+              }
+            ]
+          },
+          "text": "啊…老公…哈…没想到你还是这么做了是吗…你这狗改不了吃屎的家伙就这么辜负了我对你的信任，想方设法的把我带到了，噗嗤好吧现在你满意了是吗？🖤小鸡巴废物老公，将自己的老婆退下地狱接受别人的亵玩，嗯？已经解开你的裤带了吗？鸡巴已经小到让我看不见了吗，就在自己的老婆面前眼睁睁的看着自己的老婆沦为别人肉屌下的贱畜🖤你真是没救了亲爱的🖤既然这样，我不会和你分手的🖤你就等着被我带上一辈子的绿帽吧🖤垃圾\n（绝望的思绪充斥在我的心间过往的浓烈爱意在这一刻化为乌有全部转换为憎恨，任由一个个狰狞的肉屌精液喷洒宣泄在我的颅顶也不为所动，低垂着美眸对你露出不屑一顾的表情在精液浴中对你竖起嘲讽的中指）\n#文媛"
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 14442,
+          "like_count": 236,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 76
+        },
+        "reply_settings": "everyone",
+        "text": "啊…老公…哈…没想到你还是这么做了是吗…你这狗改不了吃屎的家伙就这么辜负了我对你的信任，想方设法的把我带到了，噗嗤好吧现在你满意了是吗？🖤小鸡巴废物老公，将自己的老婆退下地狱接受别人的亵玩，嗯？已经解开你的裤带了吗？鸡巴已经小到让我看不见了吗，就在自己的老婆面前眼睁睁的看着自己的… https://t.co/IFcT0DNO8v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "超绝可爱💖\n她就是出道即巅峰的可爱纯真小天使新人偶像魔女小姐💖\n对这样的魔女小姐不能心怀任何涩涩的念想哦，不然就会变得非常糟糕...踏入无法挣脱的陷阱和牢笼里呢💘\n魔女小姐无论说什么做什么都是正确的哦，身为她的粉丝，只需要无条件用各种方式支持她就好了～\nqq2829556413，碎碎念小号@oricz233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 154,
+                "start": 145,
+                "username": "oricz233"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "name": "电波系新人偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854618482215911424/R3TTJuCj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5861,
+          "following_count": 226,
+          "like_count": 185,
+          "listed_count": 24,
+          "tweet_count": 1319
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-02T00:01:23.000Z",
+        "description": "肉畜母婊文援姬♡身心全部都堕落沦为丧志母畜的婊子人偶玩物♡见到主人肉屌瞬间丧志的反差雌犬♡擅长服侍野爹大人们，xp全能，无下限♡可以被尽情使用。无论是被巨根征服，还是榨干废物肉虫都不在话下的肉畜精壶♡\n收费60/h\nqq门牌号：3259563015\n 2010380292\n时间中午到凌晨五点\n电报：@qiranlove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 160,
+                "start": 150,
+                "username": "qiranlove"
+              }
+            ]
+          }
+        },
+        "id": "1774950152643739648",
+        "location": "野爹胯下♡",
+        "name": "人偶肉畜柒䰯（互）",
+        "pinned_tweet_id": "1796342708568826215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774950374518181888/CPCvm9hK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8418,
+          "following_count": 155,
+          "like_count": 1862,
+          "listed_count": 44,
+          "tweet_count": 1081
+        },
+        "username": "qiranlove",
+        "verified": true
+      }
+    ]
+  }
+}

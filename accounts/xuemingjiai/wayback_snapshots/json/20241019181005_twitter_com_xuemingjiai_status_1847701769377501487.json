@@ -1,0 +1,126 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1847701767171325952"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "1847701769377501487",
+    "created_at": "2024-10-19T18:10:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-19T19:10:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1847701769377501487"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HtKperJCdJ",
+          "end": 167,
+          "expanded_url": "https://x.com/xuemingjiai/status/1847701769377501487/photo/1",
+          "media_key": "3_1847701767171325952",
+          "start": 144,
+          "url": "https://t.co/HtKperJCdJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1847701769377501487",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "用代餐取代正餐~\n最近魔女小姐一个很有趣的事情，越来越多的小雏男喜欢“代餐”了💚\n在解释代餐之前要先说说正餐哦。\n“正餐”是一个很笼统的名词。\n举个例子，在刚开始的时候，小雏男们通常都喜欢去找文援姬玩时长的剧情单，或者寻找大量的本子，资源才能满足自己的欲望，就像吃饭一样，要吃得饱饱的~ https://t.co/HtKperJCdJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1060,
+        "media_key": "3_1847701767171325952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GaRa97sbwAAZNWz.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1847701767171325952"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "1847701769377501487",
+        "created_at": "2024-10-19T18:10:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-19T19:10:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1847701769377501487"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HtKperJCdJ",
+              "end": 167,
+              "expanded_url": "https://x.com/xuemingjiai/status/1847701769377501487/photo/1",
+              "media_key": "3_1847701767171325952",
+              "start": 144,
+              "url": "https://t.co/HtKperJCdJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1847701769377501487",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "用代餐取代正餐~\n最近魔女小姐一个很有趣的事情，越来越多的小雏男喜欢“代餐”了💚\n在解释代餐之前要先说说正餐哦。\n“正餐”是一个很笼统的名词。\n举个例子，在刚开始的时候，小雏男们通常都喜欢去找文援姬玩时长的剧情单，或者寻找大量的本子，资源才能满足自己的欲望，就像吃饭一样，要吃得饱饱的~ https://t.co/HtKperJCdJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "超绝可爱💖\n她就是出道即巅峰的可爱纯真小天使新人偶像魔女小姐💖\n对这样的魔女小姐不能心怀任何涩涩的念想哦，不然就会变得非常糟糕...踏入无法挣脱的陷阱和牢笼里呢💘\n魔女小姐无论说什么做什么都是正确的哦，身为她的粉丝，只需要无条件用各种方式支持她就好了～\nqq2829556413",
+        "id": "1374389254726455305",
+        "name": "电波系新人偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1839039717712724125",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846217275709575172/9f-gtjIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5653,
+          "following_count": 209,
+          "like_count": 167,
+          "listed_count": 23,
+          "tweet_count": 1177
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

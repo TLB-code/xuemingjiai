@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1950755654743777729",
+    "created_at": "2025-07-31T03:09:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-31T04:09:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950755654743777729"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 22,
+          "start": 16,
+          "tag": "女仆的日常"
+        },
+        {
+          "end": 116,
+          "start": 112,
+          "tag": "atm"
+        },
+        {
+          "end": 120,
+          "start": 117,
+          "tag": "压榨"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1780077769772396544",
+          "start": 3,
+          "username": "christ3400"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/gve4m",
+          "end": 139,
+          "start": 121,
+          "url": "https://t.co/gve4m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950755654743777729",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950747711831216342",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @christ3400: #女仆的日常\n数字是非常有刺激性的呢\n每天坚持小额贡，回过头来，竟然已经付出自己x月薪水的数额了呢🖤\n脑子里回荡的，是惊愕，悔恨，还是~\n嗯？今天也来送死…抱歉，今天也来为女仆付薪水了吗？\n\n#atm #压榨 https://t.co/gve4m…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1854,
+        "media_key": "3_1950747708979032064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxJytLAaMAAr8eb.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "1950755654743777729",
+        "created_at": "2025-07-31T03:09:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T04:09:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950755654743777729"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 16,
+              "tag": "女仆的日常"
+            },
+            {
+              "end": 116,
+              "start": 112,
+              "tag": "atm"
+            },
+            {
+              "end": 120,
+              "start": 117,
+              "tag": "压榨"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1780077769772396544",
+              "start": 3,
+              "username": "christ3400"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/gve4m",
+              "end": 139,
+              "start": 121,
+              "url": "https://t.co/gve4m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950755654743777729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950747711831216342",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @christ3400: #女仆的日常\n数字是非常有刺激性的呢\n每天坚持小额贡，回过头来，竟然已经付出自己x月薪水的数额了呢🖤\n脑子里回荡的，是惊愕，悔恨，还是~\n嗯？今天也来送死…抱歉，今天也来为女仆付薪水了吗？\n\n#atm #压榨 https://t.co/gve4m…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950747708979032064"
+          ]
+        },
+        "author_id": "1780077769772396544",
+        "conversation_id": "1950747711831216342",
+        "created_at": "2025-07-31T02:37:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T03:37:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950747711831216342"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "女仆的日常"
+            },
+            {
+              "end": 100,
+              "start": 96,
+              "tag": "atm"
+            },
+            {
+              "end": 104,
+              "start": 101,
+              "tag": "压榨"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gve4m9TLVx",
+              "end": 128,
+              "expanded_url": "https://x.com/christ3400/status/1950747711831216342/photo/1",
+              "media_key": "3_1950747708979032064",
+              "start": 105,
+              "url": "https://t.co/gve4m9TLVx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950747711831216342",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#女仆的日常\n数字是非常有刺激性的呢\n每天坚持小额贡，回过头来，竟然已经付出自己x月薪水的数额了呢🖤\n脑子里回荡的，是惊愕，悔恨，还是~\n嗯？今天也来送死…抱歉，今天也来为女仆付薪水了吗？\n\n#atm #压榨 https://t.co/gve4m9TLVx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n你也会因为窥视我的美貌而心甘情愿沦为钱包被我使用的对吗？\n钱包报名入口：3971546171\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 67,
+                "username": "oricz233"
+              },
+              {
+                "end": 96,
+                "start": 87,
+                "username": "moelipoi"
+              },
+              {
+                "end": 114,
+                "start": 103,
+                "username": "cutelingli"
+              },
+              {
+                "end": 136,
+                "start": 121,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 148,
+                "start": 141,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍大规模同化魔法展开中",
+        "pinned_tweet_id": "1945511067926536238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945176725190488064/8VBohPRs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7778,
+          "following_count": 328,
+          "like_count": 599,
+          "listed_count": 33,
+          "media_count": 717,
+          "tweet_count": 2201
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-16T03:36:42.000Z",
+        "description": "只为了夺走您的财产与精液，最恶劣的女仆\n请务必小心…不要为她奉上一切哦🖤\n欢迎造访女仆的足下~\n门牌号1604549690  🚪35 🧧 畜生翻倍\n如果您能跪着发送 女仆也许会很高兴哦",
+        "id": "1780077769772396544",
+        "location": "您的宅邸",
+        "name": "拜金女仆🖤莉音",
+        "pinned_tweet_id": "1824992447103189013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780077956515459072/dgk1kGJs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1801,
+          "following_count": 41,
+          "like_count": 793,
+          "listed_count": 3,
+          "media_count": 71,
+          "tweet_count": 378
+        },
+        "username": "christ3400",
+        "verified": false
+      }
+    ]
+  }
+}

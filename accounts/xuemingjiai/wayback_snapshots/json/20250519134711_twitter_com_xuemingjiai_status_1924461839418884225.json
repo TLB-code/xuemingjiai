@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1924461839418884225",
+    "created_at": "2025-05-19T13:47:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-19T14:47:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924461839418884225"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1735851723044839424",
+          "start": 3,
+          "username": "KendallRat17471"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924461839418884225",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 50
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924232908199358632",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KendallRat17471: 怎么了呀狗废物～男爹的狗精还没尝够呀💚男爹精液都从祖宗骚嘴里滴出来流到地上了～你这脑残贱王八公狗的视线却还在看着本小姐骚舌头～💚脑子里想着怎么求男爹允许把祖宗嘴里的狗精吸干净呢～💚你就看着祖宗被男爹配种的样子无脑流精吧～记得把套子钱给祖…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1924461839418884225].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1924461839418884225",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1924461839418884225"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 740,
+        "media_key": "3_1924232903837261824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrQ_oYpWoAAc5JK.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1577,
+        "media_key": "3_1924232905003335680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrQ_oc_XgAAfs1y.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1924232903837261824",
+            "3_1924232905003335680"
+          ]
+        },
+        "author_id": "1735851723044839424",
+        "conversation_id": "1924232908199358632",
+        "created_at": "2025-05-18T22:37:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T23:37:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1924232908199358632"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 128,
+              "start": 125,
+              "tag": "文援"
+            },
+            {
+              "end": 132,
+              "start": 129,
+              "tag": "调教"
+            },
+            {
+              "end": 137,
+              "start": 133,
+              "tag": "ntr"
+            },
+            {
+              "end": 141,
+              "start": 138,
+              "tag": "绿帽"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3tBRzd4GHH",
+              "end": 165,
+              "expanded_url": "https://x.com/KendallRat17471/status/1924232908199358632/photo/1",
+              "media_key": "3_1924232903837261824",
+              "start": 142,
+              "url": "https://t.co/3tBRzd4GHH"
+            },
+            {
+              "display_url": "pic.x.com/3tBRzd4GHH",
+              "end": 165,
+              "expanded_url": "https://x.com/KendallRat17471/status/1924232908199358632/photo/1",
+              "media_key": "3_1924232905003335680",
+              "start": 142,
+              "url": "https://t.co/3tBRzd4GHH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924232908199358632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 4081,
+          "like_count": 73,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 50
+        },
+        "reply_settings": "everyone",
+        "text": "怎么了呀狗废物～男爹的狗精还没尝够呀💚男爹精液都从祖宗骚嘴里滴出来流到地上了～你这脑残贱王八公狗的视线却还在看着本小姐骚舌头～💚脑子里想着怎么求男爹允许把祖宗嘴里的狗精吸干净呢～💚你就看着祖宗被男爹配种的样子无脑流精吧～记得把套子钱给祖宗贡上来哦💚 #文援 #调教 #ntr #绿帽 https://t.co/3tBRzd4GHH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "集美貌，智慧，强大于一身的魔女族公主现身人世～区区人类，跪下向我表示臣服吧💜\n被我支配 控制 吸脑 成为奴仆💜\n挑战qq242184780，里世界小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858\n女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "oricz233"
+              },
+              {
+                "end": 104,
+                "start": 95,
+                "username": "moelipoi"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "cutelingli"
+              },
+              {
+                "end": 144,
+                "start": 129,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 155,
+                "start": 148,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏💜强势登场人间",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923161284247420929/dv1s2unV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6945,
+          "following_count": 286,
+          "like_count": 317,
+          "listed_count": 32,
+          "media_count": 613,
+          "tweet_count": 1822
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-16T02:37:58.000Z",
+        "description": "这里是北北🖤～擅长调教羞辱/胁迫压榨/绿帽锁奴/角色扮演🖤～可s可m🖤详细见置顶菜单哦🖤其他服务加q详谈🖤门牌q631365212，营业时间10点到凌晨2点~宝宝:@X1ranS",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 82,
+                "username": "X1ranS"
+              }
+            ]
+          }
+        },
+        "id": "1735851723044839424",
+        "location": "全天接单中～接受无理由白给♡",
+        "name": "北北🖤（可互推）",
+        "pinned_tweet_id": "1914284789449810022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876307151322480640/8zky_u5E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3284,
+          "following_count": 1982,
+          "like_count": 18,
+          "listed_count": 12,
+          "media_count": 57,
+          "tweet_count": 1472
+        },
+        "username": "KendallRat17471",
+        "verified": false
+      }
+    ]
+  }
+}

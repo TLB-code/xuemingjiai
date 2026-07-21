@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1950627730028196203",
+    "created_at": "2025-07-30T18:41:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T19:41:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950627730028196203"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 17,
+          "tag": "魔女公主的日常"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1374389254726455305",
+          "start": 3,
+          "username": "xuemingjiai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950627730028196203",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947360454067777738",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xuemingjiai: #魔女公主的日常\n你觉得你是舔狗吗？\n或者说，你觉得你是一只合格的舔狗吗？\n在本公主钱包日渐增多的今天，本公主觉得有必要开设一个舔狗培训班帮助更多的钱包培养舔狗属性...\n培养舔狗属性的好处就是能更方便本公主简单的使用钱包，同时培养的舔狗属性会…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1950627730028196203].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1950627730028196203",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1950627730028196203"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1947360434949861378",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwZp_37WMAIrkIv.jpg",
+        "width": 1312
+      },
+      {
+        "height": 2055,
+        "media_key": "3_1947360449848070144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwZqAvbW0AAn-Uu.jpg",
+        "width": 1156
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947360434949861378",
+            "3_1947360449848070144"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1947360454067777738",
+        "created_at": "2025-07-21T18:18:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T19:18:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947360454067777738"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "魔女公主的日常"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ROf3eoVObS",
+              "end": 167,
+              "expanded_url": "https://x.com/xuemingjiai/status/1947360454067777738/photo/1",
+              "media_key": "3_1947360434949861378",
+              "start": 144,
+              "url": "https://t.co/ROf3eoVObS"
+            },
+            {
+              "display_url": "pic.x.com/ROf3eoVObS",
+              "end": 167,
+              "expanded_url": "https://x.com/xuemingjiai/status/1947360454067777738/photo/1",
+              "media_key": "3_1947360449848070144",
+              "start": 144,
+              "url": "https://t.co/ROf3eoVObS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947360454067777738",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6936,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "#魔女公主的日常\n你觉得你是舔狗吗？\n或者说，你觉得你是一只合格的舔狗吗？\n在本公主钱包日渐增多的今天，本公主觉得有必要开设一个舔狗培训班帮助更多的钱包培养舔狗属性...\n培养舔狗属性的好处就是能更方便本公主简单的使用钱包，同时培养的舔狗属性会伴随钱包的余生，没有做好觉悟请谨慎参加哦🤍 https://t.co/ROf3eoVObS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n你也会因为窥视我的美貌而心甘情愿沦为钱包被我使用的对吗？\n钱包报名入口：3971546171\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 67,
+                "username": "oricz233"
+              },
+              {
+                "end": 96,
+                "start": 87,
+                "username": "moelipoi"
+              },
+              {
+                "end": 114,
+                "start": 103,
+                "username": "cutelingli"
+              },
+              {
+                "end": 136,
+                "start": 121,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 148,
+                "start": 141,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍大规模同化魔法展开中",
+        "pinned_tweet_id": "1945511067926536238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945176725190488064/8VBohPRs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7778,
+          "following_count": 328,
+          "like_count": 590,
+          "listed_count": 33,
+          "media_count": 716,
+          "tweet_count": 2199
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

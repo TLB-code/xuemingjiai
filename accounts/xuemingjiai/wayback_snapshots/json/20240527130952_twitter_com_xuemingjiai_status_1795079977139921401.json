@@ -1,0 +1,163 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1795079977139921401",
+    "created_at": "2024-05-27T13:09:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-27T14:09:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1795079977139921401"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1729845264092155904",
+          "start": 3,
+          "username": "ailisiyaosil"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1795079977139921401",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1792472031805546643",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ailisiyaosil: 因为看到别人上贡迟到的母亲节礼物被爱丽丝曝光🖤羡慕的上门给人家提款🖤爆耍🖤找着理由给妈妈上贡🖤说是迟到的母亲节礼物🖤实际上已经被爱丽丝彻底洗脑变成能给妈妈上贡就感觉幸福的白痴儿子了哦🖤爱丽丝最喜欢这样子的贱狗狗老师了🖤为了能被人家挂在主页上曝…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1795079977139921401].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1795079977139921401",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1795079977139921401"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1792472013807681538",
+            "3_1792472022439575552"
+          ]
+        },
+        "author_id": "1729845264092155904",
+        "conversation_id": "1792472031805546643",
+        "created_at": "2024-05-20T08:26:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-20T09:26:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1792472031805546643"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/JeXkvLfMHG",
+              "end": 164,
+              "expanded_url": "https://twitter.com/ailisiyaosil/status/1792472031805546643/photo/1",
+              "media_key": "3_1792472013807681538",
+              "start": 141,
+              "url": "https://t.co/JeXkvLfMHG"
+            },
+            {
+              "display_url": "pic.twitter.com/JeXkvLfMHG",
+              "end": 164,
+              "expanded_url": "https://twitter.com/ailisiyaosil/status/1792472031805546643/photo/1",
+              "media_key": "3_1792472022439575552",
+              "start": 141,
+              "url": "https://t.co/JeXkvLfMHG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792472031805546643",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4272,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "因为看到别人上贡迟到的母亲节礼物被爱丽丝曝光🖤羡慕的上门给人家提款🖤爆耍🖤找着理由给妈妈上贡🖤说是迟到的母亲节礼物🖤实际上已经被爱丽丝彻底洗脑变成能给妈妈上贡就感觉幸福的白痴儿子了哦🖤爱丽丝最喜欢这样子的贱狗狗老师了🖤为了能被人家挂在主页上曝光🖤傻逼老师们都争先恐后的来犯贱倒贴呢 https://t.co/JeXkvLfMHG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "就如同推特名一样\n是传说中的网络美少女，在异世界中是名副其实的“魔女”💜\n对人类世界充满好奇，会用自己的一些方式来洗脑一些小雏男以满足自己的恶趣味，非常拜金💚征集人型钱包中..\n门牌是2829556413和2438028521（备用）\n请来送死~♡\n不涉三哦",
+        "id": "1374389254726455305",
+        "name": "请叫我魔女小姐💜（白纸计划上线中）",
+        "pinned_tweet_id": "1791781042321571928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794703720678338560/P_z-rPOQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4809,
+          "following_count": 161,
+          "like_count": 141,
+          "listed_count": 22,
+          "tweet_count": 956
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-29T12:50:32.000Z",
+        "description": "这里是喜欢用酸汗臭脚和湿热肥臀爆熏各位傻逼老师的爱丽丝哦🖤偷窥撸废物鸡巴的白痴贱狗们不用犹豫哦🖤门牌号：3809287920 快来送死吧～～🖤门槛10🖤傻逼翻倍哦🖤白给倒贴的傻逼有特殊待遇🖤40/30min 70/1h会把各位老师洗脑成喜欢对着爱丽丝发情的贱畜呢🖤@loliii0511 傻逼贡畜一只",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 132,
+                "username": "loliii0511"
+              }
+            ]
+          }
+        },
+        "id": "1729845264092155904",
+        "location": "老师的心里",
+        "name": "爱丽丝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1729845824505683968/fSs9gnzJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 873,
+          "following_count": 57,
+          "like_count": 350,
+          "listed_count": 3,
+          "tweet_count": 320
+        },
+        "username": "ailisiyaosil",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1854502958903476434",
+    "created_at": "2024-11-07T12:35:35.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-07T13:35:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1854502958903476434"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 15,
+          "start": 12,
+          "tag": "文援"
+        },
+        {
+          "end": 19,
+          "start": 16,
+          "tag": "羞辱"
+        },
+        {
+          "end": 24,
+          "start": 21,
+          "tag": "上贡"
+        },
+        {
+          "end": 28,
+          "start": 25,
+          "tag": "贡奴"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1777598492124532736",
+          "start": 3,
+          "username": "Qilicc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1854502958903476434",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "1854400379523584007",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Qilicc: #文援 #羞辱  #上贡 #贡奴   \n狗狗们~好久不见🖤\n今天我们来聊聊上贡这个性癖哦~贡出来的时候为什么那么爽呢~🖤嗯~奇妙的感觉还会上瘾🖤\n更多的快感来源还是自毁的感觉吧~当然也有可能是那种~因为喜欢所以想要为爱买单的感觉🖤\n明知道是白给~明知道给…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1854502958903476434].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1854502958903476434",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1854502958903476434"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1854400375895494656"
+          ]
+        },
+        "author_id": "1777598492124532736",
+        "conversation_id": "1854400379523584007",
+        "created_at": "2024-11-07T05:47:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-07T06:47:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1854400379523584007"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "文援"
+            },
+            {
+              "end": 7,
+              "start": 4,
+              "tag": "羞辱"
+            },
+            {
+              "end": 12,
+              "start": 9,
+              "tag": "上贡"
+            },
+            {
+              "end": 16,
+              "start": 13,
+              "tag": "贡奴"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hdZwyOojLj",
+              "end": 175,
+              "expanded_url": "https://x.com/Qilicc/status/1854400379523584007/photo/1",
+              "media_key": "3_1854400375895494656",
+              "start": 152,
+              "url": "https://t.co/hdZwyOojLj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854400379523584007",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1403,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "#文援 #羞辱  #上贡 #贡奴   \n狗狗们~好久不见🖤\n今天我们来聊聊上贡这个性癖哦~贡出来的时候为什么那么爽呢~🖤嗯~奇妙的感觉还会上瘾🖤\n更多的快感来源还是自毁的感觉吧~当然也有可能是那种~因为喜欢所以想要为爱买单的感觉🖤\n明知道是白给~明知道给完了什么也得不到~还是忍不住贡🖤\n是你么🖤傻逼🖤 https://t.co/hdZwyOojLj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "超绝可爱💖\n她就是出道即巅峰的可爱纯真小天使新人偶像魔女小姐💖\n对这样的魔女小姐不能心怀任何涩涩的念想哦，不然就会变得非常糟糕...踏入无法挣脱的陷阱和牢笼里呢💘\n魔女小姐无论说什么做什么都是正确的哦，身为她的粉丝，只需要无条件用各种方式支持她就好了～\nqq2829556413，碎碎念小号@oricz233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 154,
+                "start": 145,
+                "username": "oricz233"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "name": "电波系新人偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854359571428790272/_X1tymz1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5811,
+          "following_count": 224,
+          "like_count": 185,
+          "listed_count": 24,
+          "tweet_count": 1299
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-09T07:25:06.000Z",
+        "description": "你好呀~这里是文援姬祈莉~女S一枚♡喜欢调教贱狗早泄♡玉足管理雏男寸止和高潮♡\n绿茶💚黑心🖤三年文援~更喜欢接受被压榨喜欢自毁的小狗狗♡无门槛，正常单价45/0.5h\n⚠️新门牌:1725218154⚠️❤️唯一主人妈咪～@sanwwww04",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 111,
+                "username": "sanwwww04"
+              }
+            ]
+          }
+        },
+        "id": "1777598492124532736",
+        "location": "Tokyo",
+        "name": "祈莉à",
+        "pinned_tweet_id": "1850881152502137211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851819522485026816/18mBPhx__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1226,
+          "following_count": 14,
+          "like_count": 53,
+          "listed_count": 0,
+          "tweet_count": 54
+        },
+        "username": "Qilicc",
+        "verified": false
+      }
+    ]
+  }
+}

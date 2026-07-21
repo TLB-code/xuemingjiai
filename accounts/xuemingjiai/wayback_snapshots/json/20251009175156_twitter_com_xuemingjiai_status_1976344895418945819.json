@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1976344895418945819",
+    "created_at": "2025-10-09T17:51:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-09T18:51:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976344895418945819"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1948303977764073472",
+          "start": 3,
+          "username": "AliceProMax1227"
+        },
+        {
+          "end": 36,
+          "id": "1963460617735741440",
+          "start": 26,
+          "username": "xxzlcqxyg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976344895418945819",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974471948655874280",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AliceProMax1227: 感谢小可爱@xxzlcqxyg帮爱丽丝做了一个问卷哦～\n虽然因为是赶工出来的，略显粗糙，但还是五脏俱全哦♡\n爱丽丝建议点开链接的小可爱一边撸着肉棒无脑发情，一边“认认真真”“诚实”的回答里面的问题哦🖤\n回答足够有趣的话～\n爱丽丝会“亲自…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1216,
+        "media_key": "3_1974471942091714560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2a7xSdaMAADsd_.jpg",
+        "width": 832
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "1976344895418945819",
+        "created_at": "2025-10-09T17:51:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T18:51:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976344895418945819"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1948303977764073472",
+              "start": 3,
+              "username": "AliceProMax1227"
+            },
+            {
+              "end": 36,
+              "id": "1963460617735741440",
+              "start": 26,
+              "username": "xxzlcqxyg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976344895418945819",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974471948655874280",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AliceProMax1227: 感谢小可爱@xxzlcqxyg帮爱丽丝做了一个问卷哦～\n虽然因为是赶工出来的，略显粗糙，但还是五脏俱全哦♡\n爱丽丝建议点开链接的小可爱一边撸着肉棒无脑发情，一边“认认真真”“诚实”的回答里面的问题哦🖤\n回答足够有趣的话～\n爱丽丝会“亲自…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974471942091714560"
+          ]
+        },
+        "author_id": "1948303977764073472",
+        "conversation_id": "1974471948655874280",
+        "created_at": "2025-10-04T13:49:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T14:49:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974471948655874280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1963460617735741440",
+              "start": 5,
+              "username": "xxzlcqxyg"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "forms.office.com/Pages/Response…",
+              "end": 148,
+              "expanded_url": "https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAN__5-jeKhUNFZQN0pOMTlFQ0s0M1JEODUwNVI5R0pNTy4u",
+              "images": [
+                {
+                  "height": 452,
+                  "url": "https://pbs.twimg.com/news_img/1974471970973749248/x0IDLZOM?format=png&name=orig",
+                  "width": 800
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1974471970973749248/x0IDLZOM?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 125,
+              "status": 200,
+              "title": "Microsoft Forms",
+              "unwound_url": "https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAN__5-jeKhUNFZQN0pOMTlFQ0s0M1JEODUwNVI5R0pNTy4u",
+              "url": "https://t.co/WefJA4UQLv"
+            },
+            {
+              "display_url": "pic.x.com/Org6nnv9kc",
+              "end": 172,
+              "expanded_url": "https://x.com/AliceProMax1227/status/1974471948655874280/photo/1",
+              "media_key": "3_1974471942091714560",
+              "start": 149,
+              "url": "https://t.co/Org6nnv9kc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974471948655874280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 7586,
+          "like_count": 66,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "感谢小可爱@xxzlcqxyg帮爱丽丝做了一个问卷哦～\n虽然因为是赶工出来的，略显粗糙，但还是五脏俱全哦♡\n爱丽丝建议点开链接的小可爱一边撸着肉棒无脑发情，一边“认认真真”“诚实”的回答里面的问题哦🖤\n回答足够有趣的话～\n爱丽丝会“亲自”去敲门哦❤\nhttps://t.co/WefJA4UQLv https://t.co/Org6nnv9kc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n我是一名钱包刽子手。\n如果你也想被我杀死的话→\n242184780←\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 55,
+                "username": "oricz233"
+              },
+              {
+                "end": 84,
+                "start": 75,
+                "username": "moelipoi"
+              },
+              {
+                "end": 102,
+                "start": 91,
+                "username": "cutelingli"
+              },
+              {
+                "end": 124,
+                "start": 109,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 136,
+                "start": 129,
+                "username": "1xian1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARosxSy"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍快被舔狗钱包舔废版～",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969152325731168256/ozl0k8K4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7725,
+          "following_count": 310,
+          "like_count": 637,
+          "listed_count": 34,
+          "media_count": 730,
+          "tweet_count": 2210
+        },
+        "url": "https://t.co/le8ARosxSy",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-24T08:47:46.000Z",
+        "description": "是黑心的压榨主爱丽丝🖤欢迎各位狗狗、钱包、ATM的抖M上门找爱丽丝送死哦❤\n\n（只是单纯的喜欢爱丽丝，不是语C，是皮下喵）\n\n姐姐@GaoGaoLove_～\n最可爱的奏奏！@xuemingjiai\n还有爱丽丝最喜欢的@youxiaoaix\n（由于最近太累了，太多事，仅限于更新推文，暂停营业了喵）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 65,
+                "username": "GaoGaoLove_"
+              },
+              {
+                "end": 98,
+                "start": 86,
+                "username": "xuemingjiai"
+              },
+              {
+                "end": 119,
+                "start": 108,
+                "username": "youxiaoaix"
+              }
+            ]
+          }
+        },
+        "id": "1948303977764073472",
+        "name": "可爱的爱丽丝❤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948305346533208065/EyIzPAAT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 116,
+          "like_count": 1101,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 688
+        },
+        "username": "AliceProMax1227",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-04T04:34:35.000Z",
+        "description": "我名千丝，朝朝暮暮，青丝成雪，百年百年，红颜坐枯。时不久矣，化此相思，不终不灭，千年一丝，丝丝皆念",
+        "id": "1963460617735741440",
+        "location": "不知道那是一个怎样的世界",
+        "name": "晓星竹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974634615882035200/m7x--V8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 3,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 5
+        },
+        "username": "xxzlcqxyg",
+        "verified": false
+      }
+    ]
+  }
+}

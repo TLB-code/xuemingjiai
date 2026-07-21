@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1927613421685789139",
+    "created_at": "2025-05-28T06:30:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-28T07:30:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927613421685789139"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 133,
+          "start": 129,
+          "tag": "文援姬"
+        },
+        {
+          "end": 137,
+          "start": 134,
+          "tag": "调教"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1702305176701341696",
+          "start": 3,
+          "username": "xiyan123466"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927613421685789139",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927283322733855195",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiyan123466: 绿狗今天不会也在想着偷窥风堇大小姐撸你的小鸡巴吧💚\n可惜你这样的早泄阳痿废物，只会被人家嫌弃的丢在一边～最多让你当狗当马桶🖤毕竟没用的杂鱼贱狗就该被欺负，被玩坏!变成没用讨人厌的垃圾～变成绿帽王八～就连射精都要给人家汇报🖤\n#文援姬 #调教 #…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1927613421685789139].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1927613421685789139",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1927613421685789139"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_1927282028405194754",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr8Uyy0WAAIczOn.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1927282028405194754"
+          ]
+        },
+        "author_id": "1702305176701341696",
+        "conversation_id": "1927283322733855195",
+        "created_at": "2025-05-27T08:38:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T09:38:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927283322733855195"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 116,
+              "start": 112,
+              "tag": "文援姬"
+            },
+            {
+              "end": 120,
+              "start": 117,
+              "tag": "调教"
+            },
+            {
+              "end": 124,
+              "start": 121,
+              "tag": "羞辱"
+            },
+            {
+              "end": 128,
+              "start": 125,
+              "tag": "绿帽"
+            },
+            {
+              "end": 132,
+              "start": 129,
+              "tag": "媚黑"
+            },
+            {
+              "end": 136,
+              "start": 133,
+              "tag": "寸止"
+            },
+            {
+              "end": 140,
+              "start": 137,
+              "tag": "胁迫"
+            },
+            {
+              "end": 146,
+              "start": 141,
+              "tag": "射精管理"
+            },
+            {
+              "end": 150,
+              "start": 147,
+              "tag": "树洞"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tte6Q98PHm",
+              "end": 174,
+              "expanded_url": "https://x.com/xiyan123466/status/1927283322733855195/photo/1",
+              "media_key": "3_1927282028405194754",
+              "start": 151,
+              "url": "https://t.co/tte6Q98PHm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927283322733855195",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 3081,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "绿狗今天不会也在想着偷窥风堇大小姐撸你的小鸡巴吧💚\n可惜你这样的早泄阳痿废物，只会被人家嫌弃的丢在一边～最多让你当狗当马桶🖤毕竟没用的杂鱼贱狗就该被欺负，被玩坏!变成没用讨人厌的垃圾～变成绿帽王八～就连射精都要给人家汇报🖤\n#文援姬 #调教 #羞辱 #绿帽 #媚黑 #寸止 #胁迫 #射精管理 #树洞 https://t.co/tte6Q98PHm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "集美貌，智慧，强大于一身的魔女族公主现身人世～区区人类，跪下向我表示臣服吧💜\n被我支配 控制 吸脑 成为奴仆💜\n挑战qq242184780，里世界小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858\n女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "oricz233"
+              },
+              {
+                "end": 104,
+                "start": 95,
+                "username": "moelipoi"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "cutelingli"
+              },
+              {
+                "end": 144,
+                "start": 129,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 155,
+                "start": 148,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏💜强势登场人间",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926028406774247424/hWplRg7q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7022,
+          "following_count": 290,
+          "like_count": 323,
+          "listed_count": 32,
+          "media_count": 621,
+          "tweet_count": 1865
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-14T12:57:28.000Z",
+        "description": "这里是腹黑傲娇的涩情大小姐～入圈四年多～擅长各种文援和剧情 调教 羞辱 胁迫 绿茶 寸止 剧情 绿帽 媚黑 压榨 胁迫 等等女s玩法都可以♥媚黑只是云玩!现实没接触过哈🖤\n接文字 文图 收奴 闲聊 树洞欢迎加QQ咨询下单\n基本上全天都在加Q都会秒回复的♥\n下面有tg在那边玩也先找QQ\n接单QQ 3140617087",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xixiyan123456",
+                "end": 23,
+                "expanded_url": "http://t.me/xixiyan123456",
+                "start": 0,
+                "url": "https://t.co/DNJLMhF9XQ"
+              }
+            ]
+          }
+        },
+        "id": "1702305176701341696",
+        "location": "想tg玩的  记得先加QQ找我",
+        "name": "夕颜香香",
+        "pinned_tweet_id": "1875472376638665051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917955734232571904/gDn0kvCo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7829,
+          "following_count": 129,
+          "like_count": 471,
+          "listed_count": 36,
+          "media_count": 465,
+          "tweet_count": 5533
+        },
+        "url": "https://t.co/DNJLMhF9XQ",
+        "username": "xiyan123466",
+        "verified": false
+      }
+    ]
+  }
+}

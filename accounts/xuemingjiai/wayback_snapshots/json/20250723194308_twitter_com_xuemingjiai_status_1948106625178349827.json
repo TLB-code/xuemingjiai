@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1948106621168574465"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1948106538234572974",
+    "created_at": "2025-07-23T19:43:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-23T20:43:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948106625178349827"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xzZ7SHK8sJ",
+          "end": 166,
+          "expanded_url": "https://x.com/xuemingjiai/status/1948106625178349827/photo/1",
+          "media_key": "3_1948106621168574465",
+          "start": 143,
+          "url": "https://t.co/xzZ7SHK8sJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948106625178349827",
+    "in_reply_to_user_id": "1374389254726455305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948106538234572974",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "接下来是奏奏公主为一些白痴钱包设置的反差版本～至于是不是奏奏公主的真实想法呢，猜猜看咯～\n所以说废物舔狗们真是好骗ww\n随便说两句就全信了～\n做爱明明是超级舒服的事情可惜那群白痴舔狗这辈子都享受不到呢嘻嘻💚\n真以为本公主会在意一群又舔唧唧又小又废的舔狗的死活啊～被本公主吸干就去死吧🖤 https://t.co/xzZ7SHK8sJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1500,
+        "media_key": "3_1948106621168574465",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwkQpoNW4AEtPPS.jpg",
+        "width": 1058
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1948106533771837440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwkQkioWgAAAehQ.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948106621168574465"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1948106538234572974",
+        "created_at": "2025-07-23T19:43:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T20:43:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948106625178349827"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xzZ7SHK8sJ",
+              "end": 166,
+              "expanded_url": "https://x.com/xuemingjiai/status/1948106625178349827/photo/1",
+              "media_key": "3_1948106621168574465",
+              "start": 143,
+              "url": "https://t.co/xzZ7SHK8sJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948106625178349827",
+        "in_reply_to_user_id": "1374389254726455305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948106538234572974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "接下来是奏奏公主为一些白痴钱包设置的反差版本～至于是不是奏奏公主的真实想法呢，猜猜看咯～\n所以说废物舔狗们真是好骗ww\n随便说两句就全信了～\n做爱明明是超级舒服的事情可惜那群白痴舔狗这辈子都享受不到呢嘻嘻💚\n真以为本公主会在意一群又舔唧唧又小又废的舔狗的死活啊～被本公主吸干就去死吧🖤 https://t.co/xzZ7SHK8sJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948106533771837440"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "1948106538234572974",
+        "created_at": "2025-07-23T19:42:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-23T20:42:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948106538234572974"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "魔女公主的日常"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WSSuX2pcOd",
+              "end": 165,
+              "expanded_url": "https://x.com/xuemingjiai/status/1948106538234572974/photo/1",
+              "media_key": "3_1948106533771837440",
+              "start": 142,
+              "url": "https://t.co/WSSuX2pcOd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948106538234572974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#魔女公主的日常\n本公主的舔狗有没有想过一个问题呢？\n为什么舔本公主会那么快乐那么幸福那么爽？\n是因为舔狗太下贱？\n其实不是...是因为舔其实是人类最原始的性冲动之一\n在本公主看来享受“舔”快感比享受做爱快感舒服多了，当然这个“舔”并不是字面意思上的舔，而是不顾一切把脑子抛掉的舔🤍 https://t.co/WSSuX2pcOd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n你也会因为窥视我的美貌而心甘情愿沦为钱包被我使用的对吗？\n钱包报名入口：3971546171\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 67,
+                "username": "oricz233"
+              },
+              {
+                "end": 96,
+                "start": 87,
+                "username": "moelipoi"
+              },
+              {
+                "end": 114,
+                "start": 103,
+                "username": "cutelingli"
+              },
+              {
+                "end": 136,
+                "start": 121,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 148,
+                "start": 141,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍大规模同化魔法展开中",
+        "pinned_tweet_id": "1945511067926536238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945176725190488064/8VBohPRs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7689,
+          "following_count": 326,
+          "like_count": 590,
+          "listed_count": 33,
+          "media_count": 716,
+          "tweet_count": 2195
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

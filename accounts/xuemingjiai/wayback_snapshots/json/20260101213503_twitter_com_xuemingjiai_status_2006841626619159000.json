@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "2006841626619159000",
+    "created_at": "2026-01-01T21:35:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T22:35:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006841626619159000"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1984115707815325698",
+          "start": 3,
+          "username": "jingli1840489"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006841626619159000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006264954530455847",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jingli1840489: 要到新的一年啦，在这里感谢大家在2025年对镜璃的支持~认识了很多很好的朋友，镜璃很开心哦！也希望大家未来也能开开心心地一起玩耍，相互陪伴哦~❤️❤️\n做了一份回馈问卷，只要下过单的朋友们都可以来找镜璃领取哦~\n新的客人朋友也可以在下单后赠…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2006841626619159000].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2006841626619159000",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2006841626619159000"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1184,
+        "media_key": "3_2006264931306680320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9evU0vbsAAGGTz.jpg",
+        "width": 1184
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006264931306680320"
+          ]
+        },
+        "author_id": "1984115707815325698",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296381531510849536",
+              "name": "New Years Eve\t"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          }
+        ],
+        "conversation_id": "2006264954530455847",
+        "created_at": "2025-12-31T07:23:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T08:23:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006264954530455847"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OfriKz6zaL",
+              "end": 170,
+              "expanded_url": "https://x.com/jingli1840489/status/2006264954530455847/photo/1",
+              "media_key": "3_2006264931306680320",
+              "start": 147,
+              "url": "https://t.co/OfriKz6zaL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006264954530455847",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2169,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "要到新的一年啦，在这里感谢大家在2025年对镜璃的支持~认识了很多很好的朋友，镜璃很开心哦！也希望大家未来也能开开心心地一起玩耍，相互陪伴哦~❤️❤️\n做了一份回馈问卷，只要下过单的朋友们都可以来找镜璃领取哦~\n新的客人朋友也可以在下单后赠送\n最后祝大家新年快乐，新的一年所愿皆成哦~❤️❤️ https://t.co/OfriKz6zaL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🖤\n最最最最喜欢钱包们啦～\n联系方式→2829556413←\n病毒小号@oricz233\n现任魔女学园院长!\n星辰魔女镜璃\n@jingli1840489\n桃心魔女奈奈\n@blakexiaonai\n 黑白魔女花卷\n@miaomiaomi17630\n好老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 49,
+                "username": "oricz233"
+              },
+              {
+                "end": 90,
+                "start": 76,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 111,
+                "start": 98,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 136,
+                "start": 120,
+                "username": "miaomiaomi17630"
+              },
+              {
+                "end": 155,
+                "start": 140,
+                "username": "chessy80978858"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARosxSy"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🖤魔女学园院长版～",
+        "pinned_tweet_id": "1976743806063063398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003754231543562240/7Kw6lKLr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8108,
+          "following_count": 342,
+          "like_count": 645,
+          "listed_count": 37,
+          "media_count": 771,
+          "tweet_count": 2406
+        },
+        "url": "https://t.co/le8ARosxSy",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-31T04:31:00.000Z",
+        "description": "可以是温柔妈咪/可爱妹妹/知心姐姐~也可以是可怕残忍压榨主使用钱包哦🖤\n目前主要玩法：剧情文爱/黑心/绿茶/洗脑/榨金/寸止/催眠/模拟上贡/早泄挑战/贞操管理等💕\n门牌号：q3775591357，致力于让每位朋友都开开心心舒舒服服的喔❤️全天营业，深夜常驻，欢迎前来光顾哦~\n最可爱的奏奏：@xuemingjiai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 158,
+                "start": 146,
+                "username": "xuemingjiai"
+              }
+            ]
+          }
+        },
+        "id": "1984115707815325698",
+        "location": "镜璃的温暖小床~深夜也欢迎打扰哦~",
+        "name": "是镜璃喔~",
+        "pinned_tweet_id": "1993433669315486013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985515782550536192/bMHPg-lN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 804,
+          "following_count": 60,
+          "like_count": 154,
+          "listed_count": 2,
+          "media_count": 17,
+          "tweet_count": 99
+        },
+        "username": "jingli1840489",
+        "verified": false
+      }
+    ]
+  }
+}

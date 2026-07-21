@@ -1,0 +1,126 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1843381549481504768"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "1843381552371380700",
+    "created_at": "2024-10-07T20:03:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-07T21:03:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1843381552371380700"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/DbiAfyw16H",
+          "end": 166,
+          "expanded_url": "https://x.com/xuemingjiai/status/1843381552371380700/photo/1",
+          "media_key": "3_1843381549481504768",
+          "start": 143,
+          "url": "https://t.co/DbiAfyw16H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1843381552371380700",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你需要一个人能够帮助你做今天的决定，所以今晚看见了这条推文哦。\n撸～还是不撸？\n发情还是不发情？\n找还是不找魔女小姐？\n魔女小姐帮你做出的决定是：撸，发情，来找魔女小姐💜\n那么，请吧～现在，立刻马上，从简介的qq找过来，不要犹豫，因为你是没有主见，需要魔女小姐帮忙下决定的废柴小雏男♪ https://t.co/DbiAfyw16H"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1843381549481504768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GZUBwKpasAAsSnm.jpg",
+        "width": 1356
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1843381549481504768"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "1843381552371380700",
+        "created_at": "2024-10-07T20:03:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-07T21:03:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1843381552371380700"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DbiAfyw16H",
+              "end": 166,
+              "expanded_url": "https://x.com/xuemingjiai/status/1843381552371380700/photo/1",
+              "media_key": "3_1843381549481504768",
+              "start": 143,
+              "url": "https://t.co/DbiAfyw16H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1843381552371380700",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你需要一个人能够帮助你做今天的决定，所以今晚看见了这条推文哦。\n撸～还是不撸？\n发情还是不发情？\n找还是不找魔女小姐？\n魔女小姐帮你做出的决定是：撸，发情，来找魔女小姐💜\n那么，请吧～现在，立刻马上，从简介的qq找过来，不要犹豫，因为你是没有主见，需要魔女小姐帮忙下决定的废柴小雏男♪ https://t.co/DbiAfyw16H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "超绝可爱💖\n她就是出道即巅峰的可爱纯真小天使新人偶像魔女小姐💖\n对这样的魔女小姐不能心怀任何涩涩的念想哦，不然就会变得非常糟糕...踏入无法挣脱的陷阱和牢笼里呢💘\n魔女小姐无论说什么做什么都是正确的哦，身为她的粉丝，只需要无条件用各种方式支持她就好了～\nqq2829556413",
+        "id": "1374389254726455305",
+        "name": "电波系新人偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1839039717712724125",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843378467058135041/nnEslYVD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5420,
+          "following_count": 203,
+          "like_count": 158,
+          "listed_count": 23,
+          "tweet_count": 1120
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

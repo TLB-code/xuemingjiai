@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1863573520707702784",
+        "3_1863573524155371520"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "1863573527078863353",
+    "created_at": "2024-12-02T13:18:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-02T14:18:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1863573527078863353"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 81,
+          "id": "1659771094373658627",
+          "start": 69,
+          "username": "ddngq326458"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/44zNNkTxJk",
+          "end": 168,
+          "expanded_url": "https://x.com/xuemingjiai/status/1863573527078863353/photo/1",
+          "media_key": "3_1863573520707702784",
+          "start": 145,
+          "url": "https://t.co/44zNNkTxJk"
+        },
+        {
+          "display_url": "pic.x.com/44zNNkTxJk",
+          "end": 168,
+          "expanded_url": "https://x.com/xuemingjiai/status/1863573527078863353/photo/1",
+          "media_key": "3_1863573524155371520",
+          "start": 145,
+          "url": "https://t.co/44zNNkTxJk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863573527078863353",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "女尊男卑~？\n不会有“小猪仔”看到这几个字就会腿软吧？也可能是看见“小猪仔”这三个字条件反射勃起哦（笑）\n没错~时隔已久和大家喜爱的猫猫酱@ddngq326458\n二期联动问卷来了哦，本次问卷的主题就是“女尊男卑”，猫猫酱和魔女小姐共同创建了这么一个教会，而小猪仔则需要虔诚的来获取问卷💜 https://t.co/44zNNkTxJk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1863573520707702784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gdy-PlKbUAAfZya.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1863573524155371520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gdy-PyAakAAMPMJ.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1863573520707702784",
+            "3_1863573524155371520"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "1863573527078863353",
+        "created_at": "2024-12-02T13:18:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-02T14:18:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1863573527078863353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 81,
+              "id": "1659771094373658627",
+              "start": 69,
+              "username": "ddngq326458"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/44zNNkTxJk",
+              "end": 168,
+              "expanded_url": "https://x.com/xuemingjiai/status/1863573527078863353/photo/1",
+              "media_key": "3_1863573520707702784",
+              "start": 145,
+              "url": "https://t.co/44zNNkTxJk"
+            },
+            {
+              "display_url": "pic.x.com/44zNNkTxJk",
+              "end": 168,
+              "expanded_url": "https://x.com/xuemingjiai/status/1863573527078863353/photo/1",
+              "media_key": "3_1863573524155371520",
+              "start": 145,
+              "url": "https://t.co/44zNNkTxJk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863573527078863353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "女尊男卑~？\n不会有“小猪仔”看到这几个字就会腿软吧？也可能是看见“小猪仔”这三个字条件反射勃起哦（笑）\n没错~时隔已久和大家喜爱的猫猫酱@ddngq326458\n二期联动问卷来了哦，本次问卷的主题就是“女尊男卑”，猫猫酱和魔女小姐共同创建了这么一个教会，而小猪仔则需要虔诚的来获取问卷💜 https://t.co/44zNNkTxJk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "您好～这里是出道以来一直致力于为小雏男哥哥们提供“舒适”“安全”“极致快感”的纯真妹系小天使魔女妹妹💚\n想了解我请翻看我的推文～\nqq2829556413，碎碎念小号@oricz233\n共同出道的偶像老婆：@moeliQWQ\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 83,
+                "username": "oricz233"
+              },
+              {
+                "end": 112,
+                "start": 103,
+                "username": "moeliQWQ"
+              },
+              {
+                "end": 130,
+                "start": 119,
+                "username": "cutelingli"
+              },
+              {
+                "end": 152,
+                "start": 137,
+                "username": "chessy80978858"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系天使偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862768210711392256/_qeQwE-8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6006,
+          "following_count": 237,
+          "like_count": 213,
+          "listed_count": 26,
+          "media_count": 507,
+          "tweet_count": 1381
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-20T04:01:04.000Z",
+        "description": "是黑心抖s猫猫主人呢～，会让你们这群贱狗郭楠的精液和钱全部都无脑上贡呢～，自己乖乖的加上门牌号吐精吧～傻逼❤️\n门牌号:3783907490",
+        "id": "1659771094373658627",
+        "name": "猫猫酱",
+        "pinned_tweet_id": "1797298014928945562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1768677701249064962/HHIIe3kx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1890,
+          "following_count": 82,
+          "like_count": 93,
+          "listed_count": 5,
+          "media_count": 75,
+          "tweet_count": 196
+        },
+        "username": "ddngq326458",
+        "verified": false
+      }
+    ]
+  }
+}

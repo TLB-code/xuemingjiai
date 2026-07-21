@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1868704132196085760"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      }
+    ],
+    "conversation_id": "1851563784554627239",
+    "created_at": "2024-12-16T17:05:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-16T18:05:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1868704135115424168"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/YgisNu8iSK",
+          "end": 170,
+          "expanded_url": "https://x.com/xuemingjiai/status/1868704135115424168/photo/1",
+          "media_key": "3_1868704132196085760",
+          "start": 147,
+          "url": "https://t.co/YgisNu8iSK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868704135115424168",
+    "in_reply_to_user_id": "1374389254726455305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1864636961056846258",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "圣级传送器!启动!\n一眨眼的功夫，我就被传送到了魔物塔里，指定的层数是第三层，因为看起来这里有一只很厉害的魔物，等着本小姐去讨伐呢，哼哼💚\n嗯？怎么和想象的不一样，难道这就是魔物？\n不对啊...怎么看都是人类吧..\n是女孩子？\n不对...是穿着女装的男婊吧，真是不知廉耻!\n必须要给一点教训呢 https://t.co/YgisNu8iSK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_1868704132196085760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ge74geXaMAAT2jz.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1868704132196085760"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          }
+        ],
+        "conversation_id": "1851563784554627239",
+        "created_at": "2024-12-16T17:05:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-16T18:05:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868704135115424168"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YgisNu8iSK",
+              "end": 170,
+              "expanded_url": "https://x.com/xuemingjiai/status/1868704135115424168/photo/1",
+              "media_key": "3_1868704132196085760",
+              "start": 147,
+              "url": "https://t.co/YgisNu8iSK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868704135115424168",
+        "in_reply_to_user_id": "1374389254726455305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1864636961056846258",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "圣级传送器!启动!\n一眨眼的功夫，我就被传送到了魔物塔里，指定的层数是第三层，因为看起来这里有一只很厉害的魔物，等着本小姐去讨伐呢，哼哼💚\n嗯？怎么和想象的不一样，难道这就是魔物？\n不对啊...怎么看都是人类吧..\n是女孩子？\n不对...是穿着女装的男婊吧，真是不知廉耻!\n必须要给一点教训呢 https://t.co/YgisNu8iSK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1864636959857233926"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "1851563784554627239",
+        "created_at": "2024-12-05T11:44:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-05T12:44:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1864636961056846258"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1864636961056846258",
+        "in_reply_to_user_id": "1374389254726455305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4061,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1864636069800784250",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "之前一段时间摆烂了！现在恢复更新~更新的频率应该会比之前快一些，这次的投票是针对新加入的角色，薇薇安的~\n大家希望薇薇安传送到哪一层呢？\n会根据薇薇安传送的层数展开不一样的剧情~\n同时，根据票数~也会增加小男娘的债务，请期待小男娘后面债务爆炸带来的“特殊剧情”💜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "您好～这里是出道以来一直致力于为小雏男哥哥们提供“舒适”“安全”“极致快感”的纯真妹系小天使魔女妹妹💚\n想了解我请翻看我的推文～\nqq2829556413，碎碎念小号@oricz233\n共同出道的偶像老婆：@moeliQWQ\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 83,
+                "username": "oricz233"
+              },
+              {
+                "end": 112,
+                "start": 103,
+                "username": "moeliQWQ"
+              },
+              {
+                "end": 130,
+                "start": 119,
+                "username": "cutelingli"
+              },
+              {
+                "end": 152,
+                "start": 137,
+                "username": "chessy80978858"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系天使偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868371538053091328/WDeV3GGD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6206,
+          "following_count": 241,
+          "like_count": 251,
+          "listed_count": 26,
+          "media_count": 517,
+          "tweet_count": 1411
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

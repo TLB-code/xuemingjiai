@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1985341837176103400",
+    "created_at": "2025-11-03T13:42:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T14:42:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985341837176103400"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1537049790009188353",
+          "start": 3,
+          "username": "afuluodite122"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985341837176103400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985201891534610502",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @afuluodite122: 酸💜骚💛腥💚臭🤎稍微碰到就会糊在舌头上持续发酵发臭♨️的粗肥马屌黄浓臭垢♠️只需要搭在眼前便可以剥夺人家的🧠🚫只留下这恶劣的粗肥马屌🚽被熏💚压💜碾🖤臭🤎的露出反差弱智母人表情💔是各位小鸡巴废物这辈子都没办法达成的🖕🏻只能躲在🛏️里看着人家被…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1985341837176103400].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1985341837176103400",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1985341837176103400"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1985201889055748096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4zamZyaMAA4AWL.jpg",
+        "width": 1401
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985201889055748096"
+          ]
+        },
+        "author_id": "1537049790009188353",
+        "conversation_id": "1985201891534610502",
+        "created_at": "2025-11-03T04:26:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T05:26:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985201891534610502"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 142,
+              "start": 139,
+              "tag": "文援"
+            },
+            {
+              "end": 146,
+              "start": 143,
+              "tag": "文爱"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nqovvyoDov",
+              "end": 170,
+              "expanded_url": "https://x.com/afuluodite122/status/1985201891534610502/photo/1",
+              "media_key": "3_1985201889055748096",
+              "start": 147,
+              "url": "https://t.co/nqovvyoDov"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985201891534610502",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 3072,
+          "like_count": 88,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "酸💜骚💛腥💚臭🤎稍微碰到就会糊在舌头上持续发酵发臭♨️的粗肥马屌黄浓臭垢♠️只需要搭在眼前便可以剥夺人家的🧠🚫只留下这恶劣的粗肥马屌🚽被熏💚压💜碾🖤臭🤎的露出反差弱智母人表情💔是各位小鸡巴废物这辈子都没办法达成的🖕🏻只能躲在🛏️里看着人家被臭马屌垢糊满👄一个劲的撸屌尿精哦💅🏻\n#文援 #文爱 https://t.co/nqovvyoDov"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n最最最最喜欢钱包们啦!\n天天挨骂真的不会腻嘛～\n擅长用爱意和温柔的语气俘虏钱包～\n联系方式→3971546171←\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 78,
+                "username": "oricz233"
+              },
+              {
+                "end": 107,
+                "start": 98,
+                "username": "moelipoi"
+              },
+              {
+                "end": 125,
+                "start": 114,
+                "username": "cutelingli"
+              },
+              {
+                "end": 147,
+                "start": 132,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 159,
+                "start": 152,
+                "username": "1xian1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARosxSy"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍对钱包们最温柔最有好感版",
+        "pinned_tweet_id": "1976743806063063398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969152325731168256/ozl0k8K4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7845,
+          "following_count": 323,
+          "like_count": 646,
+          "listed_count": 36,
+          "media_count": 747,
+          "tweet_count": 2281
+        },
+        "url": "https://t.co/le8ARosxSy",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-15T12:30:09.000Z",
+        "description": "ちょうきょう抖s🖕🏻变态🤏🏻黑心💋恶毒～是温柔的人哦🖤绝对不会背叛💚不会把有着变态性癖的人视做垃圾哦💜会温柔体贴的为每一位有着独特喜好的客人进行治疗（处刑💀）/🚪10-20不抵💅🏻联系Q3514805479💘备Q3893787848/全性癖精通w文爱剧情、压榨调教、榨金寸止、语c点菜～",
+        "id": "1537049790009188353",
+        "location": "锦帐春宵恋不休💞",
+        "name": "玲琳🌸",
+        "pinned_tweet_id": "1985201891534610502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970365900546273281/sb4b9yok_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5908,
+          "following_count": 154,
+          "like_count": 208,
+          "listed_count": 26,
+          "media_count": 168,
+          "tweet_count": 1483
+        },
+        "username": "afuluodite122",
+        "verified": false
+      }
+    ]
+  }
+}

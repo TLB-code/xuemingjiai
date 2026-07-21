@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1976356556619812864"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "1976356560902459855",
+    "created_at": "2025-10-09T18:38:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-09T19:38:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1976356560902459855"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8Lf6i2ZmPd",
+          "end": 168,
+          "expanded_url": "https://x.com/xuemingjiai/status/1976356560902459855/photo/1",
+          "media_key": "3_1976356556619812864",
+          "start": 145,
+          "url": "https://t.co/8Lf6i2ZmPd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976356560902459855",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "如何正确使用钱包其实是一门学问哦～\n因为钱包这种生物在上钩之前都是非常狡猾的，它们会伪装成正常的人类进行生活，直到遇到能够使用它的“钱包使用者”🤍\n这类钱包通常都会被本公主使用到报废，陷入沉睡模式一段时间以后再次重新激活，然后永远沦陷在怎么也戒不掉的白痴钱包atm吸金地狱直到死亡呢... https://t.co/8Lf6i2ZmPd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1976356556619812864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G21t0SrWkAAQKkk.jpg",
+        "width": 1324
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976356556619812864"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "1976356560902459855",
+        "created_at": "2025-10-09T18:38:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T19:38:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976356560902459855"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8Lf6i2ZmPd",
+              "end": 168,
+              "expanded_url": "https://x.com/xuemingjiai/status/1976356560902459855/photo/1",
+              "media_key": "3_1976356556619812864",
+              "start": 145,
+              "url": "https://t.co/8Lf6i2ZmPd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976356560902459855",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如何正确使用钱包其实是一门学问哦～\n因为钱包这种生物在上钩之前都是非常狡猾的，它们会伪装成正常的人类进行生活，直到遇到能够使用它的“钱包使用者”🤍\n这类钱包通常都会被本公主使用到报废，陷入沉睡模式一段时间以后再次重新激活，然后永远沦陷在怎么也戒不掉的白痴钱包atm吸金地狱直到死亡呢... https://t.co/8Lf6i2ZmPd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n我是一名钱包刽子手。\n如果你也想被我杀死的话→\n242184780←\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 55,
+                "username": "oricz233"
+              },
+              {
+                "end": 84,
+                "start": 75,
+                "username": "moelipoi"
+              },
+              {
+                "end": 102,
+                "start": 91,
+                "username": "cutelingli"
+              },
+              {
+                "end": 124,
+                "start": 109,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 136,
+                "start": 129,
+                "username": "1xian1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARosxSy"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍快被舔狗钱包舔废版～",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969152325731168256/ozl0k8K4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7725,
+          "following_count": 310,
+          "like_count": 637,
+          "listed_count": 34,
+          "media_count": 731,
+          "tweet_count": 2211
+        },
+        "url": "https://t.co/le8ARosxSy",
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

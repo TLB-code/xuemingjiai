@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1981551717247578386",
+    "created_at": "2025-10-24T02:41:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T03:41:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981551717247578386"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1585357847004516353",
+          "start": 3,
+          "username": "qinqinjingli00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981551717247578386",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981547929291878793",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qinqinjingli00: 对来找镜璃的朋友们，镜璃都会强调:选择权从来都在你们自己手里哦\n❤️不论是想跟镜璃亲亲贴贴、亲切问候，被镜璃温柔对待❤️\n🖤还是想对镜璃寸止憋精、犯贱磕头、白痴上贡、无脑自毁🖤\n⚠️甚至是想被镜璃祖宗杀！⚠️\n镜璃都会给你选择的哦~♡\n请…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1981551717247578386].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1981551717247578386",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1981551717247578386"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2013,
+        "media_key": "3_1981547919137193984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3_fVXGWQAAUIYv.jpg",
+        "width": 1078
+      },
+      {
+        "height": 2028,
+        "media_key": "3_1981547918042513408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3_fVTBWwAAAQQa.jpg",
+        "width": 1088
+      },
+      {
+        "height": 1327,
+        "media_key": "3_1981547918088667136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3_fVTMXAAAUdTV.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1200,
+        "media_key": "3_1981547918046777344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3_fVTCX0AAejTe.jpg",
+        "width": 831
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981547919137193984",
+            "3_1981547918042513408",
+            "3_1981547918088667136",
+            "3_1981547918046777344"
+          ]
+        },
+        "author_id": "1585357847004516353",
+        "conversation_id": "1981547929291878793",
+        "created_at": "2025-10-24T02:26:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T03:26:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981547929291878793"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HY4yjhJr6K",
+              "end": 164,
+              "expanded_url": "https://x.com/qinqinjingli00/status/1981547929291878793/photo/1",
+              "media_key": "3_1981547919137193984",
+              "start": 141,
+              "url": "https://t.co/HY4yjhJr6K"
+            },
+            {
+              "display_url": "pic.x.com/HY4yjhJr6K",
+              "end": 164,
+              "expanded_url": "https://x.com/qinqinjingli00/status/1981547929291878793/photo/1",
+              "media_key": "3_1981547918042513408",
+              "start": 141,
+              "url": "https://t.co/HY4yjhJr6K"
+            },
+            {
+              "display_url": "pic.x.com/HY4yjhJr6K",
+              "end": 164,
+              "expanded_url": "https://x.com/qinqinjingli00/status/1981547929291878793/photo/1",
+              "media_key": "3_1981547918088667136",
+              "start": 141,
+              "url": "https://t.co/HY4yjhJr6K"
+            },
+            {
+              "display_url": "pic.x.com/HY4yjhJr6K",
+              "end": 164,
+              "expanded_url": "https://x.com/qinqinjingli00/status/1981547929291878793/photo/1",
+              "media_key": "3_1981547918046777344",
+              "start": 141,
+              "url": "https://t.co/HY4yjhJr6K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981547929291878793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "对来找镜璃的朋友们，镜璃都会强调:选择权从来都在你们自己手里哦\n❤️不论是想跟镜璃亲亲贴贴、亲切问候，被镜璃温柔对待❤️\n🖤还是想对镜璃寸止憋精、犯贱磕头、白痴上贡、无脑自毁🖤\n⚠️甚至是想被镜璃祖宗杀！⚠️\n镜璃都会给你选择的哦~♡\n请在镜璃危险的诱导下💜做出“正确”的选择吧~ https://t.co/HY4yjhJr6K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n最最最最喜欢钱包们啦!\n天天挨骂真的不会腻嘛～\n擅长用爱意和温柔的语气俘虏钱包～\n联系方式→3971546171←\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 78,
+                "username": "oricz233"
+              },
+              {
+                "end": 107,
+                "start": 98,
+                "username": "moelipoi"
+              },
+              {
+                "end": 125,
+                "start": 114,
+                "username": "cutelingli"
+              },
+              {
+                "end": 147,
+                "start": 132,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 159,
+                "start": 152,
+                "username": "1xian1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARosxSy"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍对钱包们最温柔最有好感版",
+        "pinned_tweet_id": "1976743806063063398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969152325731168256/ozl0k8K4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7872,
+          "following_count": 331,
+          "like_count": 645,
+          "listed_count": 35,
+          "media_count": 746,
+          "tweet_count": 2272
+        },
+        "url": "https://t.co/le8ARosxSy",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-26T19:50:09.000Z",
+        "description": "客人们好~这里是新人文媛镜璃，既可以是温柔妈咪~可以是可爱姐姐/妹妹~当然……也可以当可怕残忍的压榨主使用钱包哦🖤（不涉三哦）目前主要玩法有：剧情文爱/黑心/绿茶/榨金/洗脑/寸止（拓展中），门牌🚪q3775591357，致力于让大家都开开心心舒舒服服的喔❤️欢迎前来光顾~最可爱的奏奏：@xuemingjiai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "xuemingjiai"
+              }
+            ]
+          }
+        },
+        "id": "1585357847004516353",
+        "location": "镜璃的柔软小床~深夜也欢迎打扰哦~",
+        "name": "镜璃哟~",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974138400816181251/PLvmSBPB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 513,
+          "like_count": 346,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 7
+        },
+        "username": "qinqinjingli00",
+        "verified": false
+      }
+    ]
+  }
+}

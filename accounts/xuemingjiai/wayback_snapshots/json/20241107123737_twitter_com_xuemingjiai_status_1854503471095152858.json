@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1854503471095152858",
+    "created_at": "2024-11-07T12:37:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-07T13:37:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1854503471095152858"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 137,
+          "start": 134,
+          "tag": "文爱"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1546004457322082305",
+          "start": 3,
+          "username": "moeliQwQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1854503471095152858",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1854474398121840766",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @moeliQwQ: 没用的废物杂鱼肉棒~🖤你们这群贱畜居然为了这种事情贡出自己的钱包~🖤一边舔着偶像尊贵的鞋底一边撸着你那根废物早泄鸡巴~像你这种早泄傻逼这辈子也只配跟鞋底做爱吧~🖤被偶像盯着流出忍耐汁~🖤被鞋底折磨的早泄出来后被当成垃圾一样踢走吧~傻逼~🖤\n#文爱 #…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1854503471095152858].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1854503471095152858",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1854503471095152858"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1854474396175568896"
+          ]
+        },
+        "author_id": "1546004457322082305",
+        "conversation_id": "1854474398121840766",
+        "created_at": "2024-11-07T10:42:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-07T11:42:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1854474398121840766"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 123,
+              "start": 120,
+              "tag": "文爱"
+            },
+            {
+              "end": 127,
+              "start": 124,
+              "tag": "足交"
+            },
+            {
+              "end": 131,
+              "start": 128,
+              "tag": "压榨"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/INGuMscwjY",
+              "end": 155,
+              "expanded_url": "https://x.com/moeliQwQ/status/1854474398121840766/photo/1",
+              "media_key": "3_1854474396175568896",
+              "start": 132,
+              "url": "https://t.co/INGuMscwjY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854474398121840766",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 157,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "没用的废物杂鱼肉棒~🖤你们这群贱畜居然为了这种事情贡出自己的钱包~🖤一边舔着偶像尊贵的鞋底一边撸着你那根废物早泄鸡巴~像你这种早泄傻逼这辈子也只配跟鞋底做爱吧~🖤被偶像盯着流出忍耐汁~🖤被鞋底折磨的早泄出来后被当成垃圾一样踢走吧~傻逼~🖤\n#文爱 #足交 #压榨 https://t.co/INGuMscwjY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "超绝可爱💖\n她就是出道即巅峰的可爱纯真小天使新人偶像魔女小姐💖\n对这样的魔女小姐不能心怀任何涩涩的念想哦，不然就会变得非常糟糕...踏入无法挣脱的陷阱和牢笼里呢💘\n魔女小姐无论说什么做什么都是正确的哦，身为她的粉丝，只需要无条件用各种方式支持她就好了～\nqq2829556413，碎碎念小号@oricz233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 154,
+                "start": 145,
+                "username": "oricz233"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "name": "电波系新人偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854359571428790272/_X1tymz1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5811,
+          "following_count": 224,
+          "like_count": 185,
+          "listed_count": 24,
+          "tweet_count": 1300
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-10T05:32:51.000Z",
+        "description": "小偶像璃喵喵参上！「榨精魅魔❤️拜金偶像🖤萝莉小鬼🩷绿茶公主💚」形态随时切换~♡⁠擅长温柔羞辱、黑心压榨、无情榨精、射精管理、调教羞辱、雌堕洗脑等~具体可私信♡⁠接受所有性癖无雷点~人设可自定义~♡⁠菜单在置顶~门牌号：1912443435 欢迎下单~♡⁠不涉三",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/moeliqwq",
+                "end": 23,
+                "expanded_url": "http://t.me/moeliqwq",
+                "start": 0,
+                "url": "https://t.co/MUfid2947d"
+              }
+            ]
+          }
+        },
+        "id": "1546004457322082305",
+        "location": "营业时间：日常晚上六点到凌晨一点 周末全天营业",
+        "name": "璃酱🖤（互推私信喵~）",
+        "pinned_tweet_id": "1847115416512184503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851868970506452992/F13z9uOV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1629,
+          "following_count": 117,
+          "like_count": 423,
+          "listed_count": 7,
+          "tweet_count": 365
+        },
+        "url": "https://t.co/MUfid2947d",
+        "username": "moeliQwQ",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,453 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1936442816990736384",
+        "3_1936442823764586496",
+        "3_1936442831595319297"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for all fields of study, e.g., futurology, microbiology ",
+          "id": "164",
+          "name": "Fields of study"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      }
+    ],
+    "conversation_id": "1936442223723458840",
+    "created_at": "2025-06-21T15:15:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-21T16:15:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936442836087701540"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7ufq0CxLkY",
+          "end": 170,
+          "expanded_url": "https://x.com/xuemingjiai/status/1936442836087701540/photo/1",
+          "media_key": "3_1936442816990736384",
+          "start": 147,
+          "url": "https://t.co/7ufq0CxLkY"
+        },
+        {
+          "display_url": "pic.x.com/7ufq0CxLkY",
+          "end": 170,
+          "expanded_url": "https://x.com/xuemingjiai/status/1936442836087701540/photo/1",
+          "media_key": "3_1936442823764586496",
+          "start": 147,
+          "url": "https://t.co/7ufq0CxLkY"
+        },
+        {
+          "display_url": "pic.x.com/7ufq0CxLkY",
+          "end": 170,
+          "expanded_url": "https://x.com/xuemingjiai/status/1936442836087701540/photo/1",
+          "media_key": "3_1936442831595319297",
+          "start": 147,
+          "url": "https://t.co/7ufq0CxLkY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936442836087701540",
+    "in_reply_to_user_id": "1374389254726455305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936442682702008670",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "aftercare～\n其实本公主一直秉承着流精，清空钱包以后，会给予钱包们一些鼓励或者安慰w，在心理学上能让钱包们感受到本公主的温暖，从而产生依赖哦，即使本公主只是单纯的为了自己的利益出发🤍\n真是的，都怪这只大钱包说出这么涩情吸引本公主想使用报废掉他的告白～\n怎么样，你也想死在本公主脚下吗🤍 https://t.co/7ufq0CxLkY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2214,
+        "media_key": "3_1936442816990736384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt-ge3qW8AAmmTl.jpg",
+        "width": 540
+      },
+      {
+        "height": 1620,
+        "media_key": "3_1936442823764586496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt-gfQ5XsAASJkF.jpg",
+        "width": 540
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1936442831595319297",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt-gfuEXMAEaGGV.jpg",
+        "width": 1122
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1936442657712320512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt-gVmTbMAANtph.jpg",
+        "width": 443
+      },
+      {
+        "height": 2275,
+        "media_key": "3_1936442663911530496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt-gV9ZboAA3j9d.jpg",
+        "width": 540
+      },
+      {
+        "height": 1853,
+        "media_key": "3_1936442671318302720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt-gWY_WAAAHHBC.jpg",
+        "width": 540
+      },
+      {
+        "height": 1152,
+        "media_key": "3_1936442678788452352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt-gW00XcAAHFuA.jpg",
+        "width": 896
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936442816990736384",
+            "3_1936442823764586496",
+            "3_1936442831595319297"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          }
+        ],
+        "conversation_id": "1936442223723458840",
+        "created_at": "2025-06-21T15:15:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T16:15:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936442836087701540"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7ufq0CxLkY",
+              "end": 170,
+              "expanded_url": "https://x.com/xuemingjiai/status/1936442836087701540/photo/1",
+              "media_key": "3_1936442816990736384",
+              "start": 147,
+              "url": "https://t.co/7ufq0CxLkY"
+            },
+            {
+              "display_url": "pic.x.com/7ufq0CxLkY",
+              "end": 170,
+              "expanded_url": "https://x.com/xuemingjiai/status/1936442836087701540/photo/1",
+              "media_key": "3_1936442823764586496",
+              "start": 147,
+              "url": "https://t.co/7ufq0CxLkY"
+            },
+            {
+              "display_url": "pic.x.com/7ufq0CxLkY",
+              "end": 170,
+              "expanded_url": "https://x.com/xuemingjiai/status/1936442836087701540/photo/1",
+              "media_key": "3_1936442831595319297",
+              "start": 147,
+              "url": "https://t.co/7ufq0CxLkY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936442836087701540",
+        "in_reply_to_user_id": "1374389254726455305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936442682702008670",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "aftercare～\n其实本公主一直秉承着流精，清空钱包以后，会给予钱包们一些鼓励或者安慰w，在心理学上能让钱包们感受到本公主的温暖，从而产生依赖哦，即使本公主只是单纯的为了自己的利益出发🤍\n真是的，都怪这只大钱包说出这么涩情吸引本公主想使用报废掉他的告白～\n怎么样，你也想死在本公主脚下吗🤍 https://t.co/7ufq0CxLkY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936442657712320512",
+            "3_1936442663911530496",
+            "3_1936442671318302720",
+            "3_1936442678788452352"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1936442223723458840",
+        "created_at": "2025-06-21T15:14:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T16:14:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936442682702008670"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Etv3Pc8v9F",
+              "end": 167,
+              "expanded_url": "https://x.com/xuemingjiai/status/1936442682702008670/photo/1",
+              "media_key": "3_1936442657712320512",
+              "start": 144,
+              "url": "https://t.co/Etv3Pc8v9F"
+            },
+            {
+              "display_url": "pic.x.com/Etv3Pc8v9F",
+              "end": 167,
+              "expanded_url": "https://x.com/xuemingjiai/status/1936442682702008670/photo/1",
+              "media_key": "3_1936442663911530496",
+              "start": 144,
+              "url": "https://t.co/Etv3Pc8v9F"
+            },
+            {
+              "display_url": "pic.x.com/Etv3Pc8v9F",
+              "end": 167,
+              "expanded_url": "https://x.com/xuemingjiai/status/1936442682702008670/photo/1",
+              "media_key": "3_1936442671318302720",
+              "start": 144,
+              "url": "https://t.co/Etv3Pc8v9F"
+            },
+            {
+              "display_url": "pic.x.com/Etv3Pc8v9F",
+              "end": 167,
+              "expanded_url": "https://x.com/xuemingjiai/status/1936442682702008670/photo/1",
+              "media_key": "3_1936442678788452352",
+              "start": 144,
+              "url": "https://t.co/Etv3Pc8v9F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936442682702008670",
+        "in_reply_to_user_id": "1374389254726455305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936442223723458840",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "本公主从头到尾都没有骗过这只钱包哦，只是运用了一些小技巧而已，没想到看见本公主说数字就成丧志的笨蛋了哦～\n还主动提出让本公主打破规则使用他...钱包们的小心思真是太坏了～\n明明都可以射精了，但身为钱包的它很清楚不全部清空是不能射精的，清空以后对着付款记录喷出来啦🤍\n别急着走，还有彩蛋～ https://t.co/Etv3Pc8v9F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n你也会因为窥视我的美貌而心甘情愿沦为钱包被我使用的对吗？\n钱包报名入口：2829556413和3971546171\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 78,
+                "username": "oricz233"
+              },
+              {
+                "end": 107,
+                "start": 98,
+                "username": "moelipoi"
+              },
+              {
+                "end": 125,
+                "start": 114,
+                "username": "cutelingli"
+              },
+              {
+                "end": 147,
+                "start": 132,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 159,
+                "start": 152,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍驯化公用钱包👛中",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931064828044713984/9qwnduVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7259,
+          "following_count": 310,
+          "like_count": 375,
+          "listed_count": 32,
+          "media_count": 700,
+          "tweet_count": 2131
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

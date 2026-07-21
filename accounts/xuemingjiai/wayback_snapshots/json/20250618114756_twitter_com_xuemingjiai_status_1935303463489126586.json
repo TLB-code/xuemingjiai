@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1935303463489126586",
+    "created_at": "2025-06-18T11:47:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-18T12:47:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935303463489126586"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1537049790009188353",
+          "start": 3,
+          "username": "afuluodite122"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935303463489126586",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935250579171033327",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @afuluodite122: 对于吸臭奴最爱的奖赏应该是什么呢❤️当然是——除臭特化臭臀压脑酸丝臭足挤脸🖤绝对无法逃脱的吸臭奴专用臀垫正坐姿势啦～主动把脑袋放进臭脚上肥臀下💚然后被肥臀与臭脚相互挤压碾住固定～臀臭足臭一起猛烈袭击💜无论怎么挣扎都不可能逃脱～在绝望的后悔中…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1935303463489126586].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1935303463489126586",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1935303463489126586"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1191,
+        "media_key": "3_1935250563848982529",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GttkImmX0AEHPC6.jpg",
+        "width": 1684
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935250563848982529"
+          ]
+        },
+        "author_id": "1537049790009188353",
+        "conversation_id": "1935250579171033327",
+        "created_at": "2025-06-18T08:17:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T09:17:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935250579171033327"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 134,
+              "start": 131,
+              "tag": "文援"
+            },
+            {
+              "end": 138,
+              "start": 135,
+              "tag": "文爱"
+            },
+            {
+              "end": 142,
+              "start": 139,
+              "tag": "调教"
+            },
+            {
+              "end": 146,
+              "start": 143,
+              "tag": "抖s"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/l6od2HCMet",
+              "end": 170,
+              "expanded_url": "https://x.com/afuluodite122/status/1935250579171033327/photo/1",
+              "media_key": "3_1935250563848982529",
+              "start": 147,
+              "url": "https://t.co/l6od2HCMet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935250579171033327",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 210,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "对于吸臭奴最爱的奖赏应该是什么呢❤️当然是——除臭特化臭臀压脑酸丝臭足挤脸🖤绝对无法逃脱的吸臭奴专用臀垫正坐姿势啦～主动把脑袋放进臭脚上肥臀下💚然后被肥臀与臭脚相互挤压碾住固定～臀臭足臭一起猛烈袭击💜无论怎么挣扎都不可能逃脱～在绝望的后悔中持续吸到大脑暴毙吧🖤\n#文援 #文爱 #调教 #抖s https://t.co/l6od2HCMet"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n你也会因为窥视我的美貌而心甘情愿沦为钱包被我使用的对吗？\n钱包报名入口：3971546171\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 67,
+                "username": "oricz233"
+              },
+              {
+                "end": 96,
+                "start": 87,
+                "username": "moelipoi"
+              },
+              {
+                "end": 114,
+                "start": 103,
+                "username": "cutelingli"
+              },
+              {
+                "end": 136,
+                "start": 121,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 148,
+                "start": 141,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍驯化公用钱包👛中",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931064828044713984/9qwnduVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7237,
+          "following_count": 308,
+          "like_count": 369,
+          "listed_count": 33,
+          "media_count": 689,
+          "tweet_count": 2083
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-15T12:30:09.000Z",
+        "description": "ちょうきょう剧情向文援🖤是温柔的人哦……温柔的碾死你❤️超超超擅长剧情向服务～会用不同的方式进行处刑💚但只要是你喜欢的，那就都可以～✨所以，请让我好好的满足一下你吧💜/🚪10不抵/私信掉落门槛💘/全性癖精通w文爱剧情、语c点菜～点子很多❤️可以带着想法来帮你制作针对你的服务❤️",
+        "id": "1537049790009188353",
+        "location": "锦帐春宵恋不休💞",
+        "name": "💜玲琳💀",
+        "pinned_tweet_id": "1930571666935234745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931735628565377024/HQBAqJgf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1785,
+          "following_count": 100,
+          "like_count": 66,
+          "listed_count": 10,
+          "media_count": 74,
+          "tweet_count": 223
+        },
+        "username": "afuluodite122",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1837471729289252869"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "1837471733697466633",
+    "created_at": "2024-09-21T12:39:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-21T13:39:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1837471733697466633"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lub6edhzcg",
+          "end": 167,
+          "expanded_url": "https://twitter.com/xuemingjiai/status/1837471733697466633/photo/1",
+          "media_key": "3_1837471729289252869",
+          "start": 144,
+          "url": "https://t.co/lub6eDhZcG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837471733697466633",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "和偶像公开谈个恋爱\n这是一份面向全体小雏男的恋爱宣言♪\n魔女小姐会允许你们和我谈恋爱，不过身份只能是“恋爱奴隶”💜\n请亲爱的达令们先把手伸进裤裆里面，握住肉棒轻轻让自己撸动舒服起来，期间没有魔女小姐的允许绝对禁止擅自漏精哦♪\n舒服吗？很舒服吧，那么，盯着应该看的地方，握着肉棒继续读下去 https://t.co/lub6eDhZcG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1837471729289252869",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GYACzW0b0AUz0WY.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1837471729289252869"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "1837471733697466633",
+        "created_at": "2024-09-21T12:39:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-21T13:39:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1837471733697466633"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lub6edhzcg",
+              "end": 167,
+              "expanded_url": "https://twitter.com/xuemingjiai/status/1837471733697466633/photo/1",
+              "media_key": "3_1837471729289252869",
+              "start": 144,
+              "url": "https://t.co/lub6eDhZcG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837471733697466633",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和偶像公开谈个恋爱\n这是一份面向全体小雏男的恋爱宣言♪\n魔女小姐会允许你们和我谈恋爱，不过身份只能是“恋爱奴隶”💜\n请亲爱的达令们先把手伸进裤裆里面，握住肉棒轻轻让自己撸动舒服起来，期间没有魔女小姐的允许绝对禁止擅自漏精哦♪\n舒服吗？很舒服吧，那么，盯着应该看的地方，握着肉棒继续读下去 https://t.co/lub6eDhZcG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "超绝可爱💖\n她就是出道即巅峰的可爱纯真小天使新人偶像魔女小姐💖\n任何人都会被她散发出的魅力所捕获，对这样的魔女小姐不能心怀任何涩涩的念想哦，不然就会变得非常糟糕...踏入无法挣脱的陷阱和牢笼里呢💘\n魔女小姐无论说什么做什么都是正确的哦，身为她的粉丝，只需要无条件用各种方式支持她就好了～\nqq2829556413",
+        "id": "1374389254726455305",
+        "name": "电波系新人偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1804570562511126828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836438377702600704/CAqVvsCj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5398,
+          "following_count": 190,
+          "like_count": 150,
+          "listed_count": 23,
+          "tweet_count": 1069
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1990067203748536635",
+    "created_at": "2025-11-16T14:39:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T15:39:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990067203748536635"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1537049790009188353",
+          "start": 3,
+          "username": "afuluodite122"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990067203748536635",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989938946437185974",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @afuluodite122: 恭喜哦♥欢迎加入崩坏·软屌阳痿绿奴轨道💚在这里你可以根据不同的选择上贡自己的爱恋对象💅🏻每一位雌性都是百分百深爱着你并且皆为全新未拆封处女🖕🏻你的目的就是不断犯贱选择错误的选项，将这些爱着你的雌性全部上贡🤏🏻上贡成功便可以获得🔒一枚～上贡多…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1990067203748536635].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1990067203748536635",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1990067203748536635"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1216,
+        "media_key": "3_1989938942612045825",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G52u7NcbgAEMAyi.jpg",
+        "width": 832
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989938942612045825"
+          ]
+        },
+        "author_id": "1537049790009188353",
+        "conversation_id": "1989938946437185974",
+        "created_at": "2025-11-16T06:09:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T07:09:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989938946437185974"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KpXO4cjkE9",
+              "end": 167,
+              "expanded_url": "https://x.com/afuluodite122/status/1989938946437185974/photo/1",
+              "media_key": "3_1989938942612045825",
+              "start": 144,
+              "url": "https://t.co/KpXO4cjkE9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989938946437185974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 1791,
+          "like_count": 59,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "恭喜哦♥欢迎加入崩坏·软屌阳痿绿奴轨道💚在这里你可以根据不同的选择上贡自己的爱恋对象💅🏻每一位雌性都是百分百深爱着你并且皆为全新未拆封处女🖕🏻你的目的就是不断犯贱选择错误的选项，将这些爱着你的雌性全部上贡🤏🏻上贡成功便可以获得🔒一枚～上贡多次则🔒是越来越小💔一但上贡绝对堕落永远失去哦🖤 https://t.co/KpXO4cjkE9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n最最最最喜欢钱包们啦!\n天天挨骂真的不会腻嘛～\n擅长用爱意和温柔的语气俘虏钱包～\n联系方式→3971546171←\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 78,
+                "username": "oricz233"
+              },
+              {
+                "end": 107,
+                "start": 98,
+                "username": "moelipoi"
+              },
+              {
+                "end": 125,
+                "start": 114,
+                "username": "cutelingli"
+              },
+              {
+                "end": 147,
+                "start": 132,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 159,
+                "start": 152,
+                "username": "1xian1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARosxSy"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍对钱包们最温柔最有好感版",
+        "pinned_tweet_id": "1976743806063063398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969152325731168256/ozl0k8K4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7879,
+          "following_count": 324,
+          "like_count": 644,
+          "listed_count": 35,
+          "media_count": 749,
+          "tweet_count": 2295
+        },
+        "url": "https://t.co/le8ARosxSy",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-15T12:30:09.000Z",
+        "description": "ちょうきょう抖s🖕🏻变态🤏🏻黑心💋恶毒～是温柔的人哦🖤绝对不会背叛💚不会把有着变态性癖的人视做垃圾哦💜会温柔体贴的为每一位有着独特喜好的客人进行治疗（处刑💀）/🚪10-20不抵💅🏻联系Q3514805479💘备Q3893787848/全性癖精通w文爱剧情、压榨调教、榨金寸止、语c点菜～",
+        "id": "1537049790009188353",
+        "location": "锦帐春宵恋不休💞",
+        "name": "玲琳🌸",
+        "pinned_tweet_id": "1989938946437185974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970365900546273281/sb4b9yok_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6177,
+          "following_count": 154,
+          "like_count": 210,
+          "listed_count": 28,
+          "media_count": 173,
+          "tweet_count": 1630
+        },
+        "username": "afuluodite122",
+        "verified": false
+      }
+    ]
+  }
+}

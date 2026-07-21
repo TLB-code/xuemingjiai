@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1961388085171621943",
+    "created_at": "2025-08-29T11:18:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-29T12:18:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961388085171621943"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1943248793987878914",
+          "start": 3,
+          "username": "Sama184396"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961388085171621943",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961273505334661600",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sama184396: ⚠️臭脚碾脑可能具有以下危害⚠️\n- 亲妈名字莫名其妙被臭脚支配贡出🖤\n- 变成孝子...当然是臭脚孝子💜\n- 孝顺的看着臭脚碾死婊子妈在一旁跪地自慰🖤\n- 孝顺的为臭脚清空钱包🖤\n- 后悔亲妈怎么没早点贡出来孝敬臭脚祖宗🖤\n- 脑子被臭脚支配控…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2111,
+        "media_key": "3_1961273475446050817",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzfX1atbkAEQ_kp.jpg",
+        "width": 540
+      },
+      {
+        "height": 2097,
+        "media_key": "3_1961273502323085312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzfX2-1akAAEEbM.jpg",
+        "width": 540
+      },
+      {
+        "height": 2136,
+        "media_key": "3_1961273502243459075",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzfX2-ibkAMOVCD.jpg",
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "1961388085171621943",
+        "created_at": "2025-08-29T11:18:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T12:18:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961388085171621943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1943248793987878914",
+              "start": 3,
+              "username": "Sama184396"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961388085171621943",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961273505334661600",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sama184396: ⚠️臭脚碾脑可能具有以下危害⚠️\n- 亲妈名字莫名其妙被臭脚支配贡出🖤\n- 变成孝子...当然是臭脚孝子💜\n- 孝顺的看着臭脚碾死婊子妈在一旁跪地自慰🖤\n- 孝顺的为臭脚清空钱包🖤\n- 后悔亲妈怎么没早点贡出来孝敬臭脚祖宗🖤\n- 脑子被臭脚支配控…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961273475446050817",
+            "3_1961273502323085312",
+            "3_1961273502243459075"
+          ]
+        },
+        "author_id": "1943248793987878914",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1961273505334661600",
+        "created_at": "2025-08-29T03:43:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T04:43:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961273505334661600"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 129,
+              "start": 126,
+              "tag": "胁迫"
+            },
+            {
+              "end": 133,
+              "start": 130,
+              "tag": "上贡"
+            },
+            {
+              "end": 137,
+              "start": 134,
+              "tag": "贡奴"
+            },
+            {
+              "end": 141,
+              "start": 138,
+              "tag": "脚奴"
+            },
+            {
+              "end": 145,
+              "start": 142,
+              "tag": "足控"
+            },
+            {
+              "end": 149,
+              "start": 146,
+              "tag": "洗脑"
+            },
+            {
+              "end": 153,
+              "start": 150,
+              "tag": "调教"
+            },
+            {
+              "end": 157,
+              "start": 154,
+              "tag": "白给"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3DE70GgjKz",
+              "end": 181,
+              "expanded_url": "https://x.com/Sama184396/status/1961273505334661600/photo/1",
+              "media_key": "3_1961273475446050817",
+              "start": 158,
+              "url": "https://t.co/3DE70GgjKz"
+            },
+            {
+              "display_url": "pic.x.com/3DE70GgjKz",
+              "end": 181,
+              "expanded_url": "https://x.com/Sama184396/status/1961273505334661600/photo/1",
+              "media_key": "3_1961273502323085312",
+              "start": 158,
+              "url": "https://t.co/3DE70GgjKz"
+            },
+            {
+              "display_url": "pic.x.com/3DE70GgjKz",
+              "end": 181,
+              "expanded_url": "https://x.com/Sama184396/status/1961273505334661600/photo/1",
+              "media_key": "3_1961273502243459075",
+              "start": 158,
+              "url": "https://t.co/3DE70GgjKz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961273505334661600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 253,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "⚠️臭脚碾脑可能具有以下危害⚠️\n- 亲妈名字莫名其妙被臭脚支配贡出🖤\n- 变成孝子...当然是臭脚孝子💜\n- 孝顺的看着臭脚碾死婊子妈在一旁跪地自慰🖤\n- 孝顺的为臭脚清空钱包🖤\n- 后悔亲妈怎么没早点贡出来孝敬臭脚祖宗🖤\n- 脑子被臭脚支配控制🖤\n#胁迫 #上贡 #贡奴 #脚奴 #足控 #洗脑 #调教 #白给 https://t.co/3DE70GgjKz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n我是一名钱包刽子手。\n如果你也想被我杀死的话→\n242184780←\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 55,
+                "username": "oricz233"
+              },
+              {
+                "end": 84,
+                "start": 75,
+                "username": "moelipoi"
+              },
+              {
+                "end": 102,
+                "start": 91,
+                "username": "cutelingli"
+              },
+              {
+                "end": 124,
+                "start": 109,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 136,
+                "start": 129,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍魔女讨伐组织高级顾问～",
+        "pinned_tweet_id": "1945511067926536238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952517800502652928/-lp8k7Gh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8046,
+          "following_count": 333,
+          "like_count": 629,
+          "listed_count": 36,
+          "media_count": 724,
+          "tweet_count": 2219
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-10T09:59:57.000Z",
+        "description": "不涉三文援（压榨？语音验证额外收费♡）\n骗钱榨精惯犯一位♡\n处刑次数:『足 95』\n🐧:2140877891（🚪6.6 ）\n额外:13.14r可以被骚扰/20r日常敷衍您的聊天/52r允许闲聊/66+/188/521 日/周/月小女友💜\n爱好就是打游戏/听听歌哦～ 如果您很对胃口的话～待遇解释权归本人所有🖤",
+        "id": "1943248793987878914",
+        "location": "足底诈█犯🖤 距离1.1km",
+        "name": "夜々",
+        "pinned_tweet_id": "1960640688938475813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959637122224402432/TQxM8OIE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 8,
+          "like_count": 151,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 36
+        },
+        "username": "Sama184396",
+        "verified": false
+      }
+    ]
+  }
+}

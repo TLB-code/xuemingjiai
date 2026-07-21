@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1914293322220490814",
+    "created_at": "2025-04-21T12:21:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-21T13:21:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914293322220490814"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1545077939510730752",
+          "start": 3,
+          "username": "molijiushiruci1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914293322220490814",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 55
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885328899883884914",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @molijiushiruci1: 喜欢从大小姐变成送屄母猪的感觉吗？\n\n只是被自家的女仆稍微的勾引了一下，就飞快的暴露了自己是头抖m傻屄母人的事实🖤因为……\n\n普通的高潮已经无法满足了，不是吗？\n\n只有这种～被仆人尽情利用，为了高潮自愿上贡自身全部价值的『送死潮吹』才是…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1914293322220490814].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1914293322220490814",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1914293322220490814"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1255,
+        "media_key": "3_1885328896993927168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GioIpJYaIAAGsiT.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1885328896993927168"
+          ]
+        },
+        "author_id": "1545077939510730752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1885328899883884914",
+        "created_at": "2025-01-31T14:06:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-31T15:06:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1885328899883884914"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sUW3RGrQwc",
+              "end": 167,
+              "expanded_url": "https://x.com/molijiushiruci1/status/1885328899883884914/photo/1",
+              "media_key": "3_1885328896993927168",
+              "start": 144,
+              "url": "https://t.co/sUW3RGrQwc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885328899883884914",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 89,
+          "impression_count": 67969,
+          "like_count": 427,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 55
+        },
+        "reply_settings": "everyone",
+        "text": "喜欢从大小姐变成送屄母猪的感觉吗？\n\n只是被自家的女仆稍微的勾引了一下，就飞快的暴露了自己是头抖m傻屄母人的事实🖤因为……\n\n普通的高潮已经无法满足了，不是吗？\n\n只有这种～被仆人尽情利用，为了高潮自愿上贡自身全部价值的『送死潮吹』才是傻屄大小姐最终的归宿🖤\n\n现在，给我，死。\n\n喷🖤 https://t.co/sUW3RGrQwc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "您好～这里是一直致力于为小雏男哥哥们提供“舒适”“安全”“极致射金体验”的纯真妹系小天使魔女妹妹💚\n想更加了解请翻看推文～\nqq2829556413，病毒小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858\n女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 79,
+                "username": "oricz233"
+              },
+              {
+                "end": 108,
+                "start": 99,
+                "username": "moelipoi"
+              },
+              {
+                "end": 126,
+                "start": 115,
+                "username": "cutelingli"
+              },
+              {
+                "end": 148,
+                "start": 133,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 159,
+                "start": 152,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系天使偶像魔女小姐💖女仆限定版♪",
+        "pinned_tweet_id": "1912930515570835816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909108552796651520/gRlgoaOf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6711,
+          "following_count": 273,
+          "like_count": 303,
+          "listed_count": 29,
+          "media_count": 574,
+          "tweet_count": 1585
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-07T16:11:11.000Z",
+        "description": "一个擅长气味调教与羞辱的扶她魅魔女仆🖤加咱的时候记的带20r门槛哦，门牌见置顶推评论区，tg：https://t.co/kNKviCT2T9 \n点击偷窥茉莉私生活→@MaidmoliS",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 82,
+                "username": "MaidmoliS"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/moli_0312",
+                "end": 70,
+                "expanded_url": "http://t.me/moli_0312",
+                "start": 47,
+                "url": "https://t.co/kNKviCT2T9"
+              }
+            ]
+          }
+        },
+        "id": "1545077939510730752",
+        "location": "在你的心里~或是踩在你的脸上♡",
+        "name": "魅魔女仆🖤茉莉（随机营业中）",
+        "pinned_tweet_id": "1769765224091918487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878292043602219008/tyh6DTAf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13832,
+          "following_count": 393,
+          "like_count": 1869,
+          "listed_count": 34,
+          "media_count": 321,
+          "tweet_count": 5252
+        },
+        "username": "molijiushiruci1",
+        "verified": false
+      }
+    ]
+  }
+}

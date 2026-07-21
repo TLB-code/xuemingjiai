@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1995889696594149506",
+    "created_at": "2025-12-02T16:16:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T17:16:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995889696594149506"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1288837401335328768",
+          "start": 3,
+          "username": "YuSama_Uknwdy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995889696594149506",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 78
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992908695337058409",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YuSama_Uknwdy: 雌堕男婊现在开始今天的【雌性训练】哦💚\n一边拍打着你那恶心下流的废物锁孔~边用按摩棒骑在你那早就空瘪了的精囊上💚\n通过不断刺激拍打锁孔让你的没有任何精子活性的【雏男死精】漏出泄水💚\n当然最后还是要让假阳大人对你的雌屌肉虫子进行安抚💚以便下次…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1995889696594149506].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1995889696594149506",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1995889696594149506"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 129962,
+        "height": 568,
+        "media_key": "13_1992908014136037376",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1992908014136037376/img/EB0kitxSw2mhVAom.jpg",
+        "public_metrics": {
+          "view_count": 8458
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1992908014136037376/vid/avc1/320x568/hK9E5u4iXXM4biQg.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1992908014136037376/pl/JXbVoeShEQbyinRh.m3u8?tag=14"
+          }
+        ],
+        "width": 320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1992908014136037376"
+          ]
+        },
+        "author_id": "1288837401335328768",
+        "conversation_id": "1992908695337058409",
+        "created_at": "2025-11-24T10:50:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T11:50:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992908695337058409"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 135,
+              "start": 132,
+              "tag": "雌堕"
+            },
+            {
+              "end": 139,
+              "start": 136,
+              "tag": "女s"
+            },
+            {
+              "end": 143,
+              "start": 140,
+              "tag": "羞辱"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RjlWECHn0S",
+              "end": 167,
+              "expanded_url": "https://x.com/YuSama_Uknwdy/status/1992908695337058409/video/1",
+              "media_key": "13_1992908014136037376",
+              "start": 144,
+              "url": "https://t.co/RjlWECHn0S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992908695337058409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 174,
+          "impression_count": 25711,
+          "like_count": 514,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 78
+        },
+        "reply_settings": "everyone",
+        "text": "雌堕男婊现在开始今天的【雌性训练】哦💚\n一边拍打着你那恶心下流的废物锁孔~边用按摩棒骑在你那早就空瘪了的精囊上💚\n通过不断刺激拍打锁孔让你的没有任何精子活性的【雏男死精】漏出泄水💚\n当然最后还是要让假阳大人对你的雌屌肉虫子进行安抚💚以便下次更加舒畅排泄垃圾精水💚\n#雌堕 #女s #羞辱 https://t.co/RjlWECHn0S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n最最最最喜欢钱包们啦!\n天天挨骂真的不会腻嘛～\n擅长用爱意和温柔的语气俘虏钱包～\n联系方式→242184780←\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 77,
+                "username": "oricz233"
+              },
+              {
+                "end": 106,
+                "start": 97,
+                "username": "moelipoi"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "cutelingli"
+              },
+              {
+                "end": 146,
+                "start": 131,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 158,
+                "start": 151,
+                "username": "1xian1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍对钱包们最温柔最有好感版",
+        "pinned_tweet_id": "1976743806063063398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991861278688821248/oCQEPeIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8008,
+          "following_count": 344,
+          "like_count": 642,
+          "listed_count": 36,
+          "media_count": 762,
+          "tweet_count": 2355
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-30T14:02:47.000Z",
+        "description": "超绝S女🖤性癖全能的祖宗小妈会用你最喜欢的方式玩死你🖤丨专门诱惑忍不住发情对着昱昱推文漏液的傻逼公狗💚憋不住了的傻逼们赶紧来敲门💚别让自己的烂裤裆受委屈🖤门槛20R可抵扣丨  门牌：3451423909",
+        "id": "1288837401335328768",
+        "location": "一辈子离不开我好不好🖤",
+        "name": "昱昱SexLove♪💘",
+        "pinned_tweet_id": "1921487172227473735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994166601537712129/GEK5N1kv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18667,
+          "following_count": 256,
+          "like_count": 717,
+          "listed_count": 85,
+          "media_count": 196,
+          "tweet_count": 2801
+        },
+        "username": "YuSama_Uknwdy",
+        "verified": false
+      }
+    ]
+  }
+}

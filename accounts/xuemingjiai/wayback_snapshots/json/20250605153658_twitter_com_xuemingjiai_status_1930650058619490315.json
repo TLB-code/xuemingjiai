@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1930639150170198016"
+      ],
+      "media_source_tweet_id": [
+        "1930639152682500501"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "1930650058619490315",
+    "created_at": "2025-06-05T15:36:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-05T16:36:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930650058619490315"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 98,
+          "start": 95,
+          "tag": "白丝"
+        },
+        {
+          "end": 102,
+          "start": 99,
+          "tag": "文媛"
+        },
+        {
+          "end": 106,
+          "start": 103,
+          "tag": "绿帽"
+        },
+        {
+          "end": 110,
+          "start": 107,
+          "tag": "羞辱"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1921832227996119040",
+          "start": 3,
+          "username": "shiling7651"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NktlymzOX7",
+          "end": 134,
+          "expanded_url": "https://x.com/shiling7651/status/1930639152682500501/photo/1",
+          "media_key": "3_1930639150170198016",
+          "start": 111,
+          "url": "https://t.co/NktlymzOX7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930650058619490315",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930639152682500501",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shiling7651: 这样就足够了吧， 光是被自己喜欢对把自己喜欢的女孩子送给别人操的绿帽博士💚\n以后干脆就这样被绳索拴着舔铃兰脚丫的狗狗就好了， 很喜欢这样对吧~绿帽舔狗💚。\n#白丝 #文媛 #绿帽 #羞辱 https://t.co/NktlymzOX7"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1930650058619490315].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1930650058619490315",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1930650058619490315"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1401,
+        "media_key": "3_1930639150170198016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GssCE_9bUAAxZai.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930639150170198016"
+          ]
+        },
+        "author_id": "1921832227996119040",
+        "conversation_id": "1930639152682500501",
+        "created_at": "2025-06-05T14:53:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T15:53:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930639152682500501"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 81,
+              "start": 78,
+              "tag": "白丝"
+            },
+            {
+              "end": 85,
+              "start": 82,
+              "tag": "文媛"
+            },
+            {
+              "end": 89,
+              "start": 86,
+              "tag": "绿帽"
+            },
+            {
+              "end": 93,
+              "start": 90,
+              "tag": "羞辱"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NktlymzOX7",
+              "end": 117,
+              "expanded_url": "https://x.com/shiling7651/status/1930639152682500501/photo/1",
+              "media_key": "3_1930639150170198016",
+              "start": 94,
+              "url": "https://t.co/NktlymzOX7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930639152682500501",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "这样就足够了吧， 光是被自己喜欢对把自己喜欢的女孩子送给别人操的绿帽博士💚\n以后干脆就这样被绳索拴着舔铃兰脚丫的狗狗就好了， 很喜欢这样对吧~绿帽舔狗💚。\n#白丝 #文媛 #绿帽 #羞辱 https://t.co/NktlymzOX7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "集美貌，智慧，强大于一身的魔女族公主现身人世～区区人类，跪下向我表示臣服吧💜\n被我支配 控制 吸脑 成为奴仆💜\n挑战qq2829556413，里世界小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858\n女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 76,
+                "username": "oricz233"
+              },
+              {
+                "end": 105,
+                "start": 96,
+                "username": "moelipoi"
+              },
+              {
+                "end": 123,
+                "start": 112,
+                "username": "cutelingli"
+              },
+              {
+                "end": 145,
+                "start": 130,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 156,
+                "start": 149,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏💜散播同化病毒中～",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926028406774247424/hWplRg7q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7121,
+          "following_count": 297,
+          "like_count": 339,
+          "listed_count": 33,
+          "media_count": 648,
+          "tweet_count": 1919
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-12T07:38:15.000Z",
+        "description": "这里是新人文媛姬诗铃~是喜欢欺负可爱的小男生♡也会好好侍奉雄性的萝莉魅魔哟~♡毕竟~这是魅魔的~进食环节♡呢~欢迎客人来访~那么~也还请客人做好被人家榨干当做魅魔食粮的准备呐♡门牌:3800716151备用:3919302576",
+        "id": "1921832227996119040",
+        "name": "诗铃♡文援(欢迎互推~)",
+        "pinned_tweet_id": "1921983886793359465",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921832879211868160/7vVBIpnT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 106,
+          "like_count": 47,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 196
+        },
+        "username": "shiling7651",
+        "verified": false
+      }
+    ]
+  }
+}

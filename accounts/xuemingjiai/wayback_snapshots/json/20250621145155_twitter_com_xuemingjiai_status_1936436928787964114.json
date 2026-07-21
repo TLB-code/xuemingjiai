@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1936436928787964114",
+    "created_at": "2025-06-21T14:51:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-21T15:51:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936436928787964114"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1485155475498831874",
+          "start": 3,
+          "username": "MeQingYun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936436928787964114",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 37
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936302847441997930",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MeQingYun: 怎么一副难以置信的表情呢~漂泊者💚是不是很奇怪我为什么会变成这个样子呢？💚你难道忘记了~一切都是你造就的哦~💚为了满足你自己那可笑的“绿帽淫妻癖好”~让人家去勾引出轨黑人和他上床~💚本以为只是一次简单的性爱而已~但没想到💚那根大黑肉棒插入小穴的一瞬…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1936436928787964114].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1936436928787964114",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1936436928787964114"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2892,
+        "media_key": "3_1936302695133925376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt8hCtEW0AAMS8p.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936302695133925376"
+          ]
+        },
+        "author_id": "1485155475498831874",
+        "conversation_id": "1936302847441997930",
+        "created_at": "2025-06-21T05:59:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T06:59:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936302847441997930"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZslitTJrW1",
+              "end": 168,
+              "expanded_url": "https://x.com/MeQingYun/status/1936302847441997930/photo/1",
+              "media_key": "3_1936302695133925376",
+              "start": 145,
+              "url": "https://t.co/ZslitTJrW1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936302847441997930",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 293,
+                "start": 290,
+                "tag": "文媛"
+              },
+              {
+                "end": 297,
+                "start": 294,
+                "tag": "媚黑"
+              },
+              {
+                "end": 301,
+                "start": 298,
+                "tag": "绿帽"
+              },
+              {
+                "end": 306,
+                "start": 302,
+                "tag": "NTR"
+              },
+              {
+                "end": 311,
+                "start": 307,
+                "tag": "QOS"
+              },
+              {
+                "end": 315,
+                "start": 312,
+                "tag": "反差"
+              }
+            ]
+          },
+          "text": "怎么一副难以置信的表情呢~漂泊者💚是不是很奇怪我为什么会变成这个样子呢？💚你难道忘记了~一切都是你造就的哦~💚为了满足你自己那可笑的“绿帽淫妻癖好”~让人家去勾引出轨黑人和他上床~💚本以为只是一次简单的性爱而已~但没想到💚那根大黑肉棒插入小穴的一瞬间我就彻底变成了一只无脑发情谄媚渴求黑肉棒肏弄的媚黑母狗~💚和你那根没用的废物鸡鸡比起来~这根黑鸡巴才是我的“真命天子”呢~💚现在…~人家给你两个选择哦~💚转身开门就此离去…亦或者…~💚像条狗一样跪在地上爬过来舔舐、亲吻我的玉足~并宣誓承认自己是个没用的废物绿帽贱狗~💚永远匍匐在我的脚下做一辈子的废物绿帽贱狗~💚你…会如何选择呢~#文媛 #媚黑 #绿帽 #NTR #QOS #反差"
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 3078,
+          "like_count": 167,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "怎么一副难以置信的表情呢~漂泊者💚是不是很奇怪我为什么会变成这个样子呢？💚你难道忘记了~一切都是你造就的哦~💚为了满足你自己那可笑的“绿帽淫妻癖好”~让人家去勾引出轨黑人和他上床~💚本以为只是一次简单的性爱而已~但没想到💚那根大黑肉棒插入小穴的一瞬间我就彻底变成了一只无脑发情谄媚渴求黑肉 https://t.co/ZslitTJrW1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n你也会因为窥视我的美貌而心甘情愿沦为钱包被我使用的对吗？\n钱包报名入口：3971546171\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 67,
+                "username": "oricz233"
+              },
+              {
+                "end": 96,
+                "start": 87,
+                "username": "moelipoi"
+              },
+              {
+                "end": 114,
+                "start": 103,
+                "username": "cutelingli"
+              },
+              {
+                "end": 136,
+                "start": 121,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 148,
+                "start": 141,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍驯化公用钱包👛中",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931064828044713984/9qwnduVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7259,
+          "following_count": 310,
+          "like_count": 375,
+          "listed_count": 32,
+          "media_count": 696,
+          "tweet_count": 2121
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-23T07:40:46.000Z",
+        "description": "门牌号2790468154❤️入圈已有四年，较擅长的是榨精❤️调情寸止❤️NTR类剧情❤️媚黑只是XP，勿要入脑❤️擅长长文对戏以及各种脑洞大开的玩法，有想玩的剧情都可以来戳，价格是70/小时～40/0.5小时\n小号：@YunQing0915\n来不及回复可以去这里https://t.co/WNHwBf0PHX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 109,
+                "username": "YunQing0915"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/yueqingyun",
+                "end": 155,
+                "expanded_url": "https://t.me/yueqingyun",
+                "start": 132,
+                "url": "https://t.co/WNHwBf0PHX"
+              }
+            ]
+          }
+        },
+        "id": "1485155475498831874",
+        "location": "你心里",
+        "name": "清云🖤",
+        "pinned_tweet_id": "1804376109817172192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779128146186379264/LFfTwJkS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14903,
+          "following_count": 123,
+          "like_count": 2465,
+          "listed_count": 83,
+          "media_count": 213,
+          "tweet_count": 3184
+        },
+        "username": "MeQingYun",
+        "verified": true
+      }
+    ]
+  }
+}

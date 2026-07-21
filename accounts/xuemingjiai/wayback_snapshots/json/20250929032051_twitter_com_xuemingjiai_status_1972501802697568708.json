@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1972501802697568708",
+    "created_at": "2025-09-29T03:20:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-29T04:20:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972501802697568708"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1374389254726455305",
+          "start": 3,
+          "username": "xuemingjiai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972501802697568708",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969160334305853705",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xuemingjiai: 哎～本公主是如此的可爱充满魅力～风趣优雅～\n引得各路舔狗钱包们争相跪舔～真是罪孽....\n不过这这也不能全怪本公主吧？\n毕竟舔狗钱包们真的都太可爱太笨太贱了....送上门被本公主支配使用的舔狗钱包不好好收割它们是对它们的不尊重吧？\n只能说，只能…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1969160322096218112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1Pc4UBWwAAmRb7.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "1972501802697568708",
+        "created_at": "2025-09-29T03:20:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T04:20:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972501802697568708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1374389254726455305",
+              "start": 3,
+              "username": "xuemingjiai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972501802697568708",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969160334305853705",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xuemingjiai: 哎～本公主是如此的可爱充满魅力～风趣优雅～\n引得各路舔狗钱包们争相跪舔～真是罪孽....\n不过这这也不能全怪本公主吧？\n毕竟舔狗钱包们真的都太可爱太笨太贱了....送上门被本公主支配使用的舔狗钱包不好好收割它们是对它们的不尊重吧？\n只能说，只能…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969160322096218112"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "1969160334305853705",
+        "created_at": "2025-09-19T22:03:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T23:03:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969160334305853705"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HWX5Exk4as",
+              "end": 170,
+              "expanded_url": "https://x.com/xuemingjiai/status/1969160334305853705/photo/1",
+              "media_key": "3_1969160322096218112",
+              "start": 147,
+              "url": "https://t.co/HWX5Exk4as"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969160334305853705",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6292,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "哎～本公主是如此的可爱充满魅力～风趣优雅～\n引得各路舔狗钱包们争相跪舔～真是罪孽....\n不过这这也不能全怪本公主吧？\n毕竟舔狗钱包们真的都太可爱太笨太贱了....送上门被本公主支配使用的舔狗钱包不好好收割它们是对它们的不尊重吧？\n只能说，只能是我，只有是我，会让舔狗钱包们欲罢不能的被折磨🤍 https://t.co/HWX5Exk4as"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n我是一名钱包刽子手。\n如果你也想被我杀死的话→\n242184780←\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 55,
+                "username": "oricz233"
+              },
+              {
+                "end": 84,
+                "start": 75,
+                "username": "moelipoi"
+              },
+              {
+                "end": 102,
+                "start": 91,
+                "username": "cutelingli"
+              },
+              {
+                "end": 124,
+                "start": 109,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 136,
+                "start": 129,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍快被舔狗钱包舔废版～",
+        "pinned_tweet_id": "1945511067926536238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969152325731168256/ozl0k8K4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7653,
+          "following_count": 312,
+          "like_count": 637,
+          "listed_count": 33,
+          "media_count": 728,
+          "tweet_count": 2220
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

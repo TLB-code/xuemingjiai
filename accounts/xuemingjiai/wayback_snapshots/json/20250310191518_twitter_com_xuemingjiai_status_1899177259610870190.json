@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1899177259610870190",
+    "created_at": "2025-03-10T19:15:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-10T20:15:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1899177259610870190"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1852926328963522560",
+          "start": 3,
+          "username": "oricz233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899177259610870190",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1899176975106978126",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oricz233: 善意是刻在骨子里的。\n不要说因为接触太多事情转变了心态，那只不过是给自己的变坏找借口。\n大家都生而为人，凭什么看不起人呢？\n性别也是，没什么高低贵贱。\n欲望归欲望，真的存在这种观念并且入脑就该好好反思一下了。\n当然，你的人生谁也定义不了，一切都是没意…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "1899177259610870190",
+        "created_at": "2025-03-10T19:15:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-10T20:15:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899177259610870190"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1852926328963522560",
+              "start": 3,
+              "username": "oricz233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899177259610870190",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899176975106978126",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @oricz233: 善意是刻在骨子里的。\n不要说因为接触太多事情转变了心态，那只不过是给自己的变坏找借口。\n大家都生而为人，凭什么看不起人呢？\n性别也是，没什么高低贵贱。\n欲望归欲望，真的存在这种观念并且入脑就该好好反思一下了。\n当然，你的人生谁也定义不了，一切都是没意…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852926328963522560",
+        "conversation_id": "1899176975106978126",
+        "created_at": "2025-03-10T19:14:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-10T20:14:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1899176975106978126"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1899176975106978126",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "善意是刻在骨子里的。\n不要说因为接触太多事情转变了心态，那只不过是给自己的变坏找借口。\n大家都生而为人，凭什么看不起人呢？\n性别也是，没什么高低贵贱。\n欲望归欲望，真的存在这种观念并且入脑就该好好反思一下了。\n当然，你的人生谁也定义不了，一切都是没意义的，我也只不过在阐述自己的想法。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "您好～这里是出道以来一直致力于为小雏男哥哥们提供“舒适”“安全”“极致射金体验”的纯真妹系小天使魔女妹妹💚\n想了解我请翻看我的推文～\nqq2829556413，碎碎念小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 85,
+                "username": "oricz233"
+              },
+              {
+                "end": 114,
+                "start": 105,
+                "username": "moelipoi"
+              },
+              {
+                "end": 132,
+                "start": 121,
+                "username": "cutelingli"
+              },
+              {
+                "end": 154,
+                "start": 139,
+                "username": "chessy80978858"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系天使偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897994610389180416/-gYTgIu-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6478,
+          "following_count": 259,
+          "like_count": 296,
+          "listed_count": 29,
+          "media_count": 544,
+          "tweet_count": 1524
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-03T04:10:46.000Z",
+        "description": "嗯 如你所见这就是魔女妹妹@xuemingjiai 的树洞发泄 特殊更新的多功能用小号哦\n不喜欢我的人请从我的视线里消失～\n只想对无条件喜欢我的人好～\n家宝贝@qilicc\n最可爱的哥哥！@goldropp ← 都应该去看看\n还有一只笨蛋猪咪哥哥 @chanafenshi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 13,
+                "username": "xuemingjiai"
+              },
+              {
+                "end": 86,
+                "start": 79,
+                "username": "qilicc"
+              },
+              {
+                "end": 103,
+                "start": 94,
+                "username": "goldropp"
+              },
+              {
+                "end": 136,
+                "start": 124,
+                "username": "chanafenshi"
+              }
+            ]
+          }
+        },
+        "id": "1852926328963522560",
+        "name": "魔女妹妹（里世界版）病毒侵入持续更新中",
+        "pinned_tweet_id": "1853194086540509649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899174530045685760/TP8bHkJb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 980,
+          "following_count": 8,
+          "like_count": 9,
+          "listed_count": 2,
+          "media_count": 58,
+          "tweet_count": 99
+        },
+        "username": "oricz233",
+        "verified": false
+      }
+    ]
+  }
+}

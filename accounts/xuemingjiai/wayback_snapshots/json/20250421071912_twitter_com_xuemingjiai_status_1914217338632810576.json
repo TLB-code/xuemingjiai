@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1914217338632810576",
+    "created_at": "2025-04-21T07:19:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-21T08:19:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914217338632810576"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 19,
+          "tag": "蔷蔷广告位"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1886672091241701378",
+          "start": 3,
+          "username": "hamimelon_ovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914217338632810576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914216886239433160",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hamimelon_ovo: ＃蔷蔷广告位\n各位小雏男们好哦～\n这里是魔女小姐～\n一位非常会捕获小雏男芳心的魔法电波系文援姬💜\n会用互联网作为媒介传播使用魔力～具体的效果就是当屏幕面前的你看见这篇推文的时候就会不自觉点进来，并且...“勃起”\n是不是很厉害？这就是“脑控…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1914216883324342272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpCqHQmaUAAat7z.jpg",
+        "width": 934
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "1914217338632810576",
+        "created_at": "2025-04-21T07:19:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T08:19:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914217338632810576"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 19,
+              "tag": "蔷蔷广告位"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1886672091241701378",
+              "start": 3,
+              "username": "hamimelon_ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914217338632810576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914216886239433160",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hamimelon_ovo: ＃蔷蔷广告位\n各位小雏男们好哦～\n这里是魔女小姐～\n一位非常会捕获小雏男芳心的魔法电波系文援姬💜\n会用互联网作为媒介传播使用魔力～具体的效果就是当屏幕面前的你看见这篇推文的时候就会不自觉点进来，并且...“勃起”\n是不是很厉害？这就是“脑控…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1914216883324342272"
+          ]
+        },
+        "author_id": "1886672091241701378",
+        "conversation_id": "1914216886239433160",
+        "created_at": "2025-04-21T07:17:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T08:17:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914216886239433160"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "蔷蔷广告位"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/u6wZkZFQBF",
+              "end": 166,
+              "expanded_url": "https://x.com/hamimelon_ovo/status/1914216886239433160/photo/1",
+              "media_key": "3_1914216883324342272",
+              "start": 143,
+              "url": "https://t.co/u6wZkZFQBF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914216886239433160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 0,
+                "tag": "蔷蔷广告位"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.com/xuemingjiai/st…",
+                "end": 166,
+                "expanded_url": "https://twitter.com/xuemingjiai/status/1912930515570835816?t=2DUoHX-8DvCKf6K-1NE0aw&s=19",
+                "start": 143,
+                "url": "https://t.co/gUqdsqIHlw"
+              }
+            ]
+          },
+          "text": "＃蔷蔷广告位\n各位小雏男们好哦～\n这里是魔女小姐～\n一位非常会捕获小雏男芳心的魔法电波系文援姬💜\n会用互联网作为媒介传播使用魔力～具体的效果就是当屏幕面前的你看见这篇推文的时候就会不自觉点进来，并且...“勃起”\n是不是很厉害？这就是“脑控”哦～\n接下来...脑袋迷迷糊糊～点进去吧💜\nhttps://t.co/gUqdsqIHlw"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "＃蔷蔷广告位\n各位小雏男们好哦～\n这里是魔女小姐～\n一位非常会捕获小雏男芳心的魔法电波系文援姬💜\n会用互联网作为媒介传播使用魔力～具体的效果就是当屏幕面前的你看见这篇推文的时候就会不自觉点进来，并且...“勃起”\n是不是很厉害？这就是“脑控”哦～\n接下来...脑袋迷迷糊糊～点进去吧💜 https://t.co/u6wZkZFQBF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "您好～这里是一直致力于为小雏男哥哥们提供“舒适”“安全”“极致射金体验”的纯真妹系小天使魔女妹妹💚\n想更加了解请翻看推文～\nqq2829556413，病毒小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858\n女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 79,
+                "username": "oricz233"
+              },
+              {
+                "end": 108,
+                "start": 99,
+                "username": "moelipoi"
+              },
+              {
+                "end": 126,
+                "start": 115,
+                "username": "cutelingli"
+              },
+              {
+                "end": 148,
+                "start": 133,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 159,
+                "start": 152,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系天使偶像魔女小姐💖女仆限定版♪",
+        "pinned_tweet_id": "1912930515570835816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909108552796651520/gRlgoaOf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6707,
+          "following_count": 273,
+          "like_count": 285,
+          "listed_count": 29,
+          "media_count": 572,
+          "tweet_count": 1570
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-04T07:04:57.000Z",
+        "description": "各位贵安~这里是文援墙，聚合所有喜爱文援和H的灵魂信念凝聚而成。首先声明!不许调戏蔷蔷!蔷蔷项目菜单一【文援运营咨询】【文援征集悬赏】 【挂人板】【定制文】【文援收款代收】给蔷蔷发的悬赏单请截图告知蔷蔷联系热线2375565349赞助、打赏私戳咱吧w",
+        "id": "1886672091241701378",
+        "name": "文援墙",
+        "pinned_tweet_id": "1897219692991012887",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886678395649712134/LoxP2ald_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1727,
+          "following_count": 53,
+          "like_count": 18,
+          "listed_count": 3,
+          "media_count": 103,
+          "tweet_count": 314
+        },
+        "username": "hamimelon_ovo",
+        "verified": true
+      }
+    ]
+  }
+}

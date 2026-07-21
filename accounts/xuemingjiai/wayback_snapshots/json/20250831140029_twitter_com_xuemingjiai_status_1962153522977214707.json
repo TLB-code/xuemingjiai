@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1962153518418026496"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "1962153522977214707",
+    "created_at": "2025-08-31T14:00:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T15:00:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1962153522977214707"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/67x7iB04TI",
+          "end": 167,
+          "expanded_url": "https://x.com/xuemingjiai/status/1962153522977214707/photo/1",
+          "media_key": "3_1962153518418026496",
+          "start": 144,
+          "url": "https://t.co/67x7iB04TI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962153522977214707",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不屑于和平庸之人同流合污～\n不过都是本公主玩剩玩烂的东西罢了～\n某种程度上做她们的m也挺可悲的吧...\n并没有任何指向性哦，请勿对号入座～\n每日一夸，本公主是多么的可爱聪慧，请各位舔狗钱包们继续努力持续供养本公主哦，成为本公主的养分，垫脚石，血奴，被本公主不断的汲取你的一切直到死亡吧♪ https://t.co/67x7iB04TI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1472,
+        "media_key": "3_1962153518418026496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gzr4OqQW4AA4wjs.jpg",
+        "width": 896
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962153518418026496"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "1962153522977214707",
+        "created_at": "2025-08-31T14:00:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T15:00:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962153522977214707"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/67x7iB04TI",
+              "end": 167,
+              "expanded_url": "https://x.com/xuemingjiai/status/1962153522977214707/photo/1",
+              "media_key": "3_1962153518418026496",
+              "start": 144,
+              "url": "https://t.co/67x7iB04TI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962153522977214707",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不屑于和平庸之人同流合污～\n不过都是本公主玩剩玩烂的东西罢了～\n某种程度上做她们的m也挺可悲的吧...\n并没有任何指向性哦，请勿对号入座～\n每日一夸，本公主是多么的可爱聪慧，请各位舔狗钱包们继续努力持续供养本公主哦，成为本公主的养分，垫脚石，血奴，被本公主不断的汲取你的一切直到死亡吧♪ https://t.co/67x7iB04TI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n我是一名钱包刽子手。\n如果你也想被我杀死的话→\n242184780←\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 55,
+                "username": "oricz233"
+              },
+              {
+                "end": 84,
+                "start": 75,
+                "username": "moelipoi"
+              },
+              {
+                "end": 102,
+                "start": 91,
+                "username": "cutelingli"
+              },
+              {
+                "end": 124,
+                "start": 109,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 136,
+                "start": 129,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍魔女讨伐组织高级顾问～",
+        "pinned_tweet_id": "1945511067926536238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952517800502652928/-lp8k7Gh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8093,
+          "following_count": 334,
+          "like_count": 629,
+          "listed_count": 37,
+          "media_count": 726,
+          "tweet_count": 2223
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

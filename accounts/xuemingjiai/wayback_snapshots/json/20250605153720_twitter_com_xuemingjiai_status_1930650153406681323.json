@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1930600984952356864"
+      ],
+      "media_source_tweet_id": [
+        "1930601639854940287"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "1930650153406681323",
+    "created_at": "2025-06-05T15:37:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-05T16:37:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930650153406681323"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 94,
+          "start": 90,
+          "tag": "NTR"
+        },
+        {
+          "end": 98,
+          "start": 95,
+          "tag": "羞辱"
+        },
+        {
+          "end": 102,
+          "start": 99,
+          "tag": "绿帽"
+        },
+        {
+          "end": 108,
+          "start": 103,
+          "tag": "淫趴轮奸"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1084532005545492480",
+          "start": 3,
+          "username": "lanyuan411"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AcaQRPvJ7X",
+          "end": 132,
+          "expanded_url": "https://x.com/lanyuan411/status/1930601639854940287/photo/1",
+          "media_key": "3_1930600984952356864",
+          "start": 109,
+          "url": "https://t.co/AcaQRPvJ7X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930650153406681323",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930601639854940287",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lanyuan411: 全天接单💚祝绿帽奴贱狗身边所有心爱的女人都被男爹使用🖤一个个排队被黑爹撞击肥臀当精厕泄欲妓♡\n\n傻逼绿狗💚滚过来受死报销避孕套费用看着撸管就够了。\n#NTR #羞辱 #绿帽 #淫趴轮奸 https://t.co/AcaQRPvJ7X"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1930650153406681323].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1930650153406681323",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1930650153406681323"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 850,
+        "media_key": "3_1930600984952356864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsrfXfcawAArKff.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930600984952356864"
+          ]
+        },
+        "author_id": "1084532005545492480",
+        "conversation_id": "1930601639854940287",
+        "created_at": "2025-06-05T12:24:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T13:24:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930601639854940287"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 78,
+              "start": 74,
+              "tag": "NTR"
+            },
+            {
+              "end": 82,
+              "start": 79,
+              "tag": "羞辱"
+            },
+            {
+              "end": 86,
+              "start": 83,
+              "tag": "绿帽"
+            },
+            {
+              "end": 92,
+              "start": 87,
+              "tag": "淫趴轮奸"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AcaQRPvJ7X",
+              "end": 116,
+              "expanded_url": "https://x.com/lanyuan411/status/1930601639854940287/photo/1",
+              "media_key": "3_1930600984952356864",
+              "start": 93,
+              "url": "https://t.co/AcaQRPvJ7X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930601639854940287",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 1914,
+          "like_count": 62,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "全天接单💚祝绿帽奴贱狗身边所有心爱的女人都被男爹使用🖤一个个排队被黑爹撞击肥臀当精厕泄欲妓♡\n\n傻逼绿狗💚滚过来受死报销避孕套费用看着撸管就够了。\n#NTR #羞辱 #绿帽 #淫趴轮奸 https://t.co/AcaQRPvJ7X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "集美貌，智慧，强大于一身的魔女族公主现身人世～区区人类，跪下向我表示臣服吧💜\n被我支配 控制 吸脑 成为奴仆💜\n挑战qq2829556413，里世界小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858\n女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 76,
+                "username": "oricz233"
+              },
+              {
+                "end": 105,
+                "start": 96,
+                "username": "moelipoi"
+              },
+              {
+                "end": 123,
+                "start": 112,
+                "username": "cutelingli"
+              },
+              {
+                "end": 145,
+                "start": 130,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 156,
+                "start": 149,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏💜散播同化病毒中～",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926028406774247424/hWplRg7q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7121,
+          "following_count": 297,
+          "like_count": 339,
+          "listed_count": 33,
+          "media_count": 650,
+          "tweet_count": 1929
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-13T19:25:54.000Z",
+        "description": "这里是玲奈🩷\n是一个喜欢玩弄早泄雏男同时又会勾引男爹的雌萝淫婊大小姐🖤\n擅长的有：羞辱榨精丨玩弄绿奴丨调教绿狗丨送屄倒贴丨\n60/h~35/0.5h\n盯着屏幕对玲奈已经饥不择食的早泄雏男可以来敲门了哦~当然也欢迎男爹来光临使用玲奈的雌穴💛门牌3956547942备用3256815600（加不上就私信玲奈哦。",
+        "id": "1084532005545492480",
+        "location": "全天接单♡",
+        "name": "玲奈美少女_♡全天接单Sex~💚",
+        "pinned_tweet_id": "1857473827904856194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901034732064043008/ZsBmKqry_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6427,
+          "following_count": 91,
+          "like_count": 123,
+          "listed_count": 42,
+          "media_count": 106,
+          "tweet_count": 1645
+        },
+        "username": "lanyuan411",
+        "verified": true
+      }
+    ]
+  }
+}

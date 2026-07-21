@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "id": "1129067985451118593",
+          "name": "Physical Education"
+        }
+      }
+    ],
+    "conversation_id": "1828083460923367532",
+    "created_at": "2024-08-26T14:53:55.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-26T15:53:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1828083460923367532"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1287903873034674176",
+          "start": 3,
+          "username": "ruanyvyv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1828083460923367532",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "1826146154402427371",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ruanyvyv: 【奇怪的xp】\n就是你趁着我们上体育课的时候偷偷进教室对着我们坐过的椅子发情添的上面都是恶心的口水吧，操你妈的傻逼东西恶心死了🖤这么喜欢我们臀部接触过的圣物以后当姐姐们的坐垫除臭工具可以吗\n欸～怎么还勃起了？是看到自己的xp臀缝被暴击了？不会是因为姐…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1828083460923367532].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1828083460923367532",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1828083460923367532"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1826146142301859840"
+          ]
+        },
+        "author_id": "1287903873034674176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1129067985451118593",
+              "name": "Physical Education"
+            }
+          }
+        ],
+        "conversation_id": "1826146154402427371",
+        "created_at": "2024-08-21T06:35:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-21T07:35:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1826146154402427371"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 136,
+              "start": 133,
+              "tag": "恋臀"
+            },
+            {
+              "end": 142,
+              "start": 137,
+              "tag": "捕获成功"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ebxt4n9cte",
+              "end": 166,
+              "expanded_url": "https://twitter.com/ruanyvyv/status/1826146154402427371/photo/1",
+              "media_key": "3_1826146142301859840",
+              "start": 143,
+              "url": "https://t.co/Ebxt4N9cTE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826146154402427371",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 7392,
+          "like_count": 74,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "【奇怪的xp】\n就是你趁着我们上体育课的时候偷偷进教室对着我们坐过的椅子发情添的上面都是恶心的口水吧，操你妈的傻逼东西恶心死了🖤这么喜欢我们臀部接触过的圣物以后当姐姐们的坐垫除臭工具可以吗\n欸～怎么还勃起了？是看到自己的xp臀缝被暴击了？不会是因为姐姐们的中指吧🖤\n#恋臀 #捕获成功 https://t.co/Ebxt4N9cTE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "超绝可爱💖\n她就是出道即巅峰的可爱纯真小天使新人偶像魔女小姐💖\n任何人都会被她散发出的魅力所捕获，对这样的魔女小姐不能心怀任何涩涩的念想哦，不然就会变得非常糟糕...踏入无法挣脱的陷阱和牢笼里呢💘\n魔女小姐无论说什么做什么都是正确的哦，身为她的粉丝，只需要无条件用各种方式支持她就好了～\nqq2829556413",
+        "id": "1374389254726455305",
+        "name": "电波系新人偶像💖魔女小姐参上（复活版）",
+        "pinned_tweet_id": "1804570562511126828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821974060601110528/2uCKanZH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5239,
+          "following_count": 175,
+          "like_count": 145,
+          "listed_count": 23,
+          "tweet_count": 1024
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-28T00:13:14.000Z",
+        "description": "是思月～半过期萝莉，腹黑max，会让您不知不觉的迷上咱～然后扔掉您～为了咱的一声问好忍不住花钱的您可真是卑贱呢♡现实中一定没有女孩子找您聊过天吧，真是可怜（笑）来找咱的话，就要做好被玩坏的准备哦～",
+        "id": "1287903873034674176",
+        "location": "黑心野妈俱乐部",
+        "name": "是思月呀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1487350730193203200/yESkSwXB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8727,
+          "following_count": 910,
+          "like_count": 6316,
+          "listed_count": 43,
+          "tweet_count": 1572
+        },
+        "username": "ruanyvyv",
+        "verified": false
+      }
+    ]
+  }
+}

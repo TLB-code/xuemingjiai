@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "2041306454175698974",
+    "created_at": "2026-04-07T00:05:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T01:05:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041306454175698974"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1984115707815325698",
+          "start": 3,
+          "username": "jingli1840489"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041306454175698974",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040960628710658157",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jingli1840489: 小唧唧早就被锁住，高潮、呼吸、钱包.....全部属于镜璃妈咪哦~🖤\n想喘气？要批准哦~🖤\n想射？先寸止到哭~🖤\n想上贡？乖乖转账喊妈咪吧~🖤\n第1011号锁奴夏言，从今天起,你只是一只永远趴在妈咪脚下的小贱狗哦~♡\n来吗？镜璃妈咪等着下一个…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 580,
+        "media_key": "3_2040959450216013824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFLxzncaIAAcCzv.jpg",
+        "width": 882
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "2041306454175698974",
+        "created_at": "2026-04-07T00:05:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T01:05:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041306454175698974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1984115707815325698",
+              "start": 3,
+              "username": "jingli1840489"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041306454175698974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040960628710658157",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jingli1840489: 小唧唧早就被锁住，高潮、呼吸、钱包.....全部属于镜璃妈咪哦~🖤\n想喘气？要批准哦~🖤\n想射？先寸止到哭~🖤\n想上贡？乖乖转账喊妈咪吧~🖤\n第1011号锁奴夏言，从今天起,你只是一只永远趴在妈咪脚下的小贱狗哦~♡\n来吗？镜璃妈咪等着下一个…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040959450216013824"
+          ]
+        },
+        "author_id": "1984115707815325698",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2040960628710658157",
+        "created_at": "2026-04-06T01:11:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T02:11:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040960628710658157"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wmxqw2fVfq",
+              "end": 153,
+              "expanded_url": "https://x.com/jingli1840489/status/2040960628710658157/photo/1",
+              "media_key": "3_2040959450216013824",
+              "start": 130,
+              "url": "https://t.co/wmxqw2fVfq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040960628710658157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 2021,
+          "like_count": 66,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "小唧唧早就被锁住，高潮、呼吸、钱包.....全部属于镜璃妈咪哦~🖤\n想喘气？要批准哦~🖤\n想射？先寸止到哭~🖤\n想上贡？乖乖转账喊妈咪吧~🖤\n第1011号锁奴夏言，从今天起,你只是一只永远趴在妈咪脚下的小贱狗哦~♡\n来吗？镜璃妈咪等着下一个小宝贝来登记哦~♡ https://t.co/wmxqw2fVfq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会魅惑并享用钱包的公主殿下🤍\n最最最最喜欢钱包们啦～\n联系方式→2829556413←\n病毒小号@oricz233\n现任魔女学园院长!\n星辰魔女镜璃\n@jingli1840489\n桃心魔女奈奈\n@blakexiaonai\n 黑白魔女花卷\n@miaomiaomi17630\n好老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 52,
+                "username": "oricz233"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 114,
+                "start": 101,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 139,
+                "start": 123,
+                "username": "miaomiaomi17630"
+              },
+              {
+                "end": 158,
+                "start": 143,
+                "username": "chessy80978858"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "魅惑系魔女族公主-奏💜魔女学园院长版～",
+        "pinned_tweet_id": "2013314916120416537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018477066753306624/36q-3UGh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8627,
+          "following_count": 359,
+          "like_count": 633,
+          "listed_count": 36,
+          "media_count": 822,
+          "tweet_count": 2169
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-31T04:31:00.000Z",
+        "description": "可以是温柔妈咪/可爱妹妹/知心姐姐~也可以是可怕残忍压榨主使用钱包哦🖤\n目前主要玩法：剧情文爱/黑心/绿茶/洗脑/榨金/寸止/催眠/模拟上贡/早泄挑战/贞操管理等💕\n门牌号：q3775591357，致力于让每位朋友都开开心心舒舒服服的喔❤️全天营业，深夜常驻，欢迎前来光顾哦~\n最可爱的奏奏：@xuemingjiai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 158,
+                "start": 146,
+                "username": "xuemingjiai"
+              }
+            ]
+          }
+        },
+        "id": "1984115707815325698",
+        "location": "镜璃的温暖小床~深夜也欢迎打扰哦~",
+        "name": "是镜璃喔~",
+        "pinned_tweet_id": "1993433669315486013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985515782550536192/bMHPg-lN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1155,
+          "following_count": 76,
+          "like_count": 264,
+          "listed_count": 2,
+          "media_count": 30,
+          "tweet_count": 144
+        },
+        "username": "jingli1840489",
+        "verified": false
+      }
+    ]
+  }
+}

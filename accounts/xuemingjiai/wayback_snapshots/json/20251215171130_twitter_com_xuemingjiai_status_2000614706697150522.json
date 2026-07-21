@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1999855366151221248",
+        "3_1999855376125304832",
+        "3_1999855385533173760",
+        "3_1999855394618003456"
+      ],
+      "media_source_tweet_id": [
+        "1999855403677741202",
+        "1999855403677741202",
+        "1999855403677741202",
+        "1999855403677741202"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "2000614706697150522",
+    "created_at": "2025-12-15T17:11:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T18:11:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000614706697150522"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1984115707815325698",
+          "start": 3,
+          "username": "jingli1840489"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aVVce1jQJF",
+          "end": 130,
+          "expanded_url": "https://x.com/jingli1840489/status/1999855403677741202/photo/1",
+          "media_key": "3_1999855366151221248",
+          "start": 107,
+          "url": "https://t.co/aVVce1jQJF"
+        },
+        {
+          "display_url": "pic.x.com/aVVce1jQJF",
+          "end": 130,
+          "expanded_url": "https://x.com/jingli1840489/status/1999855403677741202/photo/1",
+          "media_key": "3_1999855376125304832",
+          "start": 107,
+          "url": "https://t.co/aVVce1jQJF"
+        },
+        {
+          "display_url": "pic.x.com/aVVce1jQJF",
+          "end": 130,
+          "expanded_url": "https://x.com/jingli1840489/status/1999855403677741202/photo/1",
+          "media_key": "3_1999855385533173760",
+          "start": 107,
+          "url": "https://t.co/aVVce1jQJF"
+        },
+        {
+          "display_url": "pic.x.com/aVVce1jQJF",
+          "end": 130,
+          "expanded_url": "https://x.com/jingli1840489/status/1999855403677741202/photo/1",
+          "media_key": "3_1999855394618003456",
+          "start": 107,
+          "url": "https://t.co/aVVce1jQJF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000614706697150522",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999855403677741202",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jingli1840489: 小狗忙里偷闲来找镜璃洗脑榨金，从说着“总能保持理智”，到忍不住向妈妈求饶~♡从因为难为情称呼镜璃“姐姐”，到情不自禁对镜璃喊“妈妈”了呢~♡感兴趣的小狗们欢迎来试试哦~❤️🖤 https://t.co/aVVce1jQJF"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2000614706697150522].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2000614706697150522",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2000614706697150522"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1999855366151221248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8Dp3B2aMAAMi2V.jpg",
+        "width": 860
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1999855376125304832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8Dp3nAaoAA7YKn.jpg",
+        "width": 896
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1999855385533173760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8Dp4KDbUAAD6bO.jpg",
+        "width": 702
+      },
+      {
+        "height": 752,
+        "media_key": "3_1999855394618003456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8Dp4r5a0AAzcWZ.jpg",
+        "width": 752
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999855366151221248",
+            "3_1999855376125304832",
+            "3_1999855385533173760",
+            "3_1999855394618003456"
+          ]
+        },
+        "author_id": "1984115707815325698",
+        "conversation_id": "1999855403677741202",
+        "created_at": "2025-12-13T14:54:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T15:54:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999855403677741202"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aVVce1jQJF",
+              "end": 111,
+              "expanded_url": "https://x.com/jingli1840489/status/1999855403677741202/photo/1",
+              "media_key": "3_1999855366151221248",
+              "start": 88,
+              "url": "https://t.co/aVVce1jQJF"
+            },
+            {
+              "display_url": "pic.x.com/aVVce1jQJF",
+              "end": 111,
+              "expanded_url": "https://x.com/jingli1840489/status/1999855403677741202/photo/1",
+              "media_key": "3_1999855376125304832",
+              "start": 88,
+              "url": "https://t.co/aVVce1jQJF"
+            },
+            {
+              "display_url": "pic.x.com/aVVce1jQJF",
+              "end": 111,
+              "expanded_url": "https://x.com/jingli1840489/status/1999855403677741202/photo/1",
+              "media_key": "3_1999855385533173760",
+              "start": 88,
+              "url": "https://t.co/aVVce1jQJF"
+            },
+            {
+              "display_url": "pic.x.com/aVVce1jQJF",
+              "end": 111,
+              "expanded_url": "https://x.com/jingli1840489/status/1999855403677741202/photo/1",
+              "media_key": "3_1999855394618003456",
+              "start": 88,
+              "url": "https://t.co/aVVce1jQJF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999855403677741202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3813,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "小狗忙里偷闲来找镜璃洗脑榨金，从说着“总能保持理智”，到忍不住向妈妈求饶~♡从因为难为情称呼镜璃“姐姐”，到情不自禁对镜璃喊“妈妈”了呢~♡感兴趣的小狗们欢迎来试试哦~❤️🖤 https://t.co/aVVce1jQJF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n最最最最喜欢钱包们啦!\n天天挨骂真的不会腻嘛～\n擅长用爱意和温柔的语气俘虏钱包～\n联系方式→2829556413←\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 78,
+                "username": "oricz233"
+              },
+              {
+                "end": 107,
+                "start": 98,
+                "username": "moelipoi"
+              },
+              {
+                "end": 125,
+                "start": 114,
+                "username": "cutelingli"
+              },
+              {
+                "end": 147,
+                "start": 132,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 159,
+                "start": 152,
+                "username": "1xian1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍对钱包们最温柔最有好感版",
+        "pinned_tweet_id": "1976743806063063398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991861278688821248/oCQEPeIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8024,
+          "following_count": 331,
+          "like_count": 644,
+          "listed_count": 38,
+          "media_count": 763,
+          "tweet_count": 2372
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-31T04:31:00.000Z",
+        "description": "可以是温柔妈咪/可爱妹妹/知心姐姐~也可以是可怕残忍压榨主使用钱包哦🖤\n目前主要玩法：剧情文爱/黑心/绿茶/洗脑/榨金/寸止/催眠/模拟上贡/早泄挑战/贞操管理等💕\n门牌号：q3775591357，致力于让每位朋友都开开心心舒舒服服的喔❤️全天营业，深夜常驻，欢迎前来光顾哦~\n最可爱的奏奏：@xuemingjiai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 158,
+                "start": 146,
+                "username": "xuemingjiai"
+              }
+            ]
+          }
+        },
+        "id": "1984115707815325698",
+        "location": "镜璃的温暖小床~深夜也欢迎打扰哦~",
+        "name": "是镜璃喔~",
+        "pinned_tweet_id": "1993433669315486013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985515782550536192/bMHPg-lN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 540,
+          "following_count": 55,
+          "like_count": 106,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 71
+        },
+        "username": "jingli1840489",
+        "verified": false
+      }
+    ]
+  }
+}

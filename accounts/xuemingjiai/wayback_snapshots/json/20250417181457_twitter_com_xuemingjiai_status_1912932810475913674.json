@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1912932807317532672"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "1912894638996037757",
+    "created_at": "2025-04-17T18:14:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-17T19:14:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912932810475913674"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1886672091241701378",
+          "start": 0,
+          "username": "hamimelon_ovo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/i3Mu5ZqcbY",
+          "end": 44,
+          "expanded_url": "https://x.com/xuemingjiai/status/1912932810475913674/photo/1",
+          "media_key": "3_1912932807317532672",
+          "start": 21,
+          "url": "https://t.co/i3Mu5ZqcbY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912932810475913674",
+    "in_reply_to_user_id": "1886672091241701378",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912894638996037757",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hamimelon_ovo 今晚在哦w https://t.co/i3Mu5ZqcbY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1912932807317532672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GowaQMtaMAA4eiG.jpg",
+        "width": 1106
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1912932807317532672"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "1912894638996037757",
+        "created_at": "2025-04-17T18:14:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-17T19:14:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912932810475913674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1886672091241701378",
+              "start": 0,
+              "username": "hamimelon_ovo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/i3Mu5ZqcbY",
+              "end": 44,
+              "expanded_url": "https://x.com/xuemingjiai/status/1912932810475913674/photo/1",
+              "media_key": "3_1912932807317532672",
+              "start": 21,
+              "url": "https://t.co/i3Mu5ZqcbY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912932810475913674",
+        "in_reply_to_user_id": "1886672091241701378",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912894638996037757",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hamimelon_ovo 今晚在哦w https://t.co/i3Mu5ZqcbY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886672091241701378",
+        "conversation_id": "1912894638996037757",
+        "created_at": "2025-04-17T15:43:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-17T16:43:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912894638996037757"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 0,
+              "tag": "蔷蔷的深夜文援广场"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "bl.wenaiwu.net",
+              "end": 125,
+              "expanded_url": "https://bl.wenaiwu.net/",
+              "start": 102,
+              "status": 200,
+              "title": "蔷蔷挂人查询",
+              "unwound_url": "https://bl.wenaiwu.net/",
+              "url": "https://t.co/Wb4gKg9TK7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912894638996037757",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 560,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "＃蔷蔷的深夜文援广场\n这里是深夜广场\n旨在给深夜营业的文援姬们一个接单的平台\n文援姬们可以在下面评论区留言自己今天晚上是否营业～几点休息\n给深夜寻找文援困难的客人们一个便捷的方式～\n和挂人板查询系统的网站https://t.co/Wb4gKg9TK7\n欢迎大家转推\n如果有帮助到大家欢迎投喂哦～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "您好～这里是出道以来一直致力于为小雏男哥哥们提供“舒适”“安全”“极致射金体验”的纯真妹系小天使魔女妹妹💚\n想了解我请翻看我的推文～\nqq2829556413，碎碎念小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 85,
+                "username": "oricz233"
+              },
+              {
+                "end": 114,
+                "start": 105,
+                "username": "moelipoi"
+              },
+              {
+                "end": 132,
+                "start": 121,
+                "username": "cutelingli"
+              },
+              {
+                "end": 154,
+                "start": 139,
+                "username": "chessy80978858"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系天使偶像魔女小姐💖女仆限定版♪",
+        "pinned_tweet_id": "1912930515570835816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909108552796651520/gRlgoaOf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6681,
+          "following_count": 273,
+          "like_count": 285,
+          "listed_count": 29,
+          "media_count": 571,
+          "tweet_count": 1559
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-04T07:04:57.000Z",
+        "description": "各位贵安~这里是文援墙，聚合所有喜爱文援和H的灵魂信念凝聚而成。首先声明!不许调戏蔷蔷!蔷蔷项目菜单一【文援运营咨询】【文援征集悬赏】 【挂人板】【定制文】【文援收款代收】给蔷蔷发的悬赏单请截图告知蔷蔷联系热线2375565349赞助、打赏私戳咱吧w",
+        "id": "1886672091241701378",
+        "name": "文援墙",
+        "pinned_tweet_id": "1897219692991012887",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886678395649712134/LoxP2ald_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1677,
+          "following_count": 53,
+          "like_count": 18,
+          "listed_count": 3,
+          "media_count": 100,
+          "tweet_count": 299
+        },
+        "username": "hamimelon_ovo",
+        "verified": true
+      }
+    ]
+  }
+}

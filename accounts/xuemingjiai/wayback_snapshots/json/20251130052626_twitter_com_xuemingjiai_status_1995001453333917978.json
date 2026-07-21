@@ -1,0 +1,439 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994050808565149696"
+      ],
+      "media_source_tweet_id": [
+        "1994056496263450695"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile gaming",
+          "id": "847527946864607232",
+          "name": "Mobile gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "Video Game Hardware",
+          "id": "79",
+          "name": "Video Game Hardware"
+        },
+        "entity": {
+          "description": "Mobile gaming",
+          "id": "847527946864607232",
+          "name": "Mobile gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Mobile gaming",
+          "id": "847527946864607232",
+          "name": "Mobile gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Video Game Hardware",
+          "id": "1070028376662888448",
+          "name": "Console gaming"
+        }
+      }
+    ],
+    "conversation_id": "1995001453333917978",
+    "created_at": "2025-11-30T05:26:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T06:26:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995001453333917978"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 91,
+          "start": 88,
+          "tag": "上贡"
+        },
+        {
+          "end": 95,
+          "start": 92,
+          "tag": "压榨"
+        },
+        {
+          "end": 99,
+          "start": 96,
+          "tag": "白给"
+        },
+        {
+          "end": 105,
+          "start": 100,
+          "tag": "atm奴"
+        },
+        {
+          "end": 109,
+          "start": 106,
+          "tag": "贡奴"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1679430880975278081",
+          "start": 3,
+          "username": "CarolynGyl46130"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WIJwlWWssm",
+          "end": 133,
+          "expanded_url": "https://x.com/CarolynGyl46130/status/1994056496263450695/photo/1",
+          "media_key": "3_1994050808565149696",
+          "start": 110,
+          "url": "https://t.co/WIJwlWWssm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995001453333917978",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994056496263450695",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CarolynGyl46130: 各种手游里都有抽卡的设定呢~小早也推出了自己的卡池，请各位为了抽中小早设置的大奖，不断的为本小姐付钱呢🖤单抽~五连抽~还有十连抽哦🖤\n#上贡 #压榨 #白给 #atm奴 #贡奴 https://t.co/WIJwlWWssm"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1995001453333917978].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1995001453333917978",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1995001453333917978"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1932,
+        "media_key": "3_1994050808565149696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6xKpTybMAAGi1U.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994050808565149696"
+          ]
+        },
+        "author_id": "1679430880975278081",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Hardware",
+              "id": "1070028376662888448",
+              "name": "Console gaming"
+            }
+          }
+        ],
+        "conversation_id": "1994056496263450695",
+        "created_at": "2025-11-27T14:51:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T15:51:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994056496263450695"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 70,
+              "start": 67,
+              "tag": "上贡"
+            },
+            {
+              "end": 74,
+              "start": 71,
+              "tag": "压榨"
+            },
+            {
+              "end": 78,
+              "start": 75,
+              "tag": "白给"
+            },
+            {
+              "end": 84,
+              "start": 79,
+              "tag": "atm奴"
+            },
+            {
+              "end": 88,
+              "start": 85,
+              "tag": "贡奴"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WIJwlWWssm",
+              "end": 112,
+              "expanded_url": "https://x.com/CarolynGyl46130/status/1994056496263450695/photo/1",
+              "media_key": "3_1994050808565149696",
+              "start": 89,
+              "url": "https://t.co/WIJwlWWssm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994056496263450695",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 647,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "各种手游里都有抽卡的设定呢~小早也推出了自己的卡池，请各位为了抽中小早设置的大奖，不断的为本小姐付钱呢🖤单抽~五连抽~还有十连抽哦🖤\n#上贡 #压榨 #白给 #atm奴 #贡奴 https://t.co/WIJwlWWssm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n最最最最喜欢钱包们啦!\n天天挨骂真的不会腻嘛～\n擅长用爱意和温柔的语气俘虏钱包～\n联系方式→242184780←\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 77,
+                "username": "oricz233"
+              },
+              {
+                "end": 106,
+                "start": 97,
+                "username": "moelipoi"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "cutelingli"
+              },
+              {
+                "end": 146,
+                "start": 131,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 158,
+                "start": 151,
+                "username": "1xian1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍对钱包们最温柔最有好感版",
+        "pinned_tweet_id": "1976743806063063398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991861278688821248/oCQEPeIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7998,
+          "following_count": 343,
+          "like_count": 641,
+          "listed_count": 36,
+          "media_count": 762,
+          "tweet_count": 2349
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-13T10:01:47.000Z",
+        "description": "贪婪的后辈小恶魔，喜欢和各位前辈玩自己精心设计的游戏~\n目的是赚取足够的费用来挥霍\n可以请你输掉吗?前辈~🖤\n需要支付门槛30\n联系方式:qq264196928\nhttps://t.co/wila2eJKAl",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "afdian.com/a/Xiaoxiaozao",
+                "end": 104,
+                "expanded_url": "https://afdian.com/a/Xiaoxiaozao",
+                "start": 81,
+                "url": "https://t.co/wila2eJKAl"
+              }
+            ]
+          }
+        },
+        "id": "1679430880975278081",
+        "name": "小早",
+        "pinned_tweet_id": "1747821105816154459",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1747289710291296256/DAxZJycW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 571,
+          "following_count": 51,
+          "like_count": 117,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 60
+        },
+        "username": "CarolynGyl46130",
+        "verified": false
+      }
+    ]
+  }
+}

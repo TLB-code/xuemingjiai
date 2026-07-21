@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1946290079569473536",
+        "3_1946290083432439808"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "1946290086905352331",
+    "created_at": "2025-07-18T19:24:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-18T20:24:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1946290086905352331"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 8,
+          "start": 0,
+          "tag": "魔女公主的日常"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tyzbnHewFg",
+          "end": 166,
+          "expanded_url": "https://x.com/xuemingjiai/status/1946290086905352331/photo/1",
+          "media_key": "3_1946290079569473536",
+          "start": 143,
+          "url": "https://t.co/tyzbnHewFg"
+        },
+        {
+          "display_url": "pic.x.com/tyzbnHewFg",
+          "end": 166,
+          "expanded_url": "https://x.com/xuemingjiai/status/1946290086905352331/photo/1",
+          "media_key": "3_1946290083432439808",
+          "start": 143,
+          "url": "https://t.co/tyzbnHewFg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946290086905352331",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#魔女公主的日常\n鉴于钱包的数量日渐增长，只靠钱包们发情主动来白给的效率太慢了，所以本公主决定开放一个方便本公主使用你们的功能——每日轮回的钱包叠叠乐🤍\n相信很多钱包都有看见推特上出现过那种，加群，付钱白给，被踢掉，再重新进群的玩法吧？本公主会对这种玩法加以改进，点进图片查看详情吧～ https://t.co/tyzbnHewFg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1946290079569473536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwKcg_aa8AA-nhf.jpg",
+        "width": 620
+      },
+      {
+        "height": 2055,
+        "media_key": "3_1946290083432439808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwKchNzbIAASzGs.jpg",
+        "width": 1156
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946290079569473536",
+            "3_1946290083432439808"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "1946290086905352331",
+        "created_at": "2025-07-18T19:24:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T20:24:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946290086905352331"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "魔女公主的日常"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tyzbnHewFg",
+              "end": 166,
+              "expanded_url": "https://x.com/xuemingjiai/status/1946290086905352331/photo/1",
+              "media_key": "3_1946290079569473536",
+              "start": 143,
+              "url": "https://t.co/tyzbnHewFg"
+            },
+            {
+              "display_url": "pic.x.com/tyzbnHewFg",
+              "end": 166,
+              "expanded_url": "https://x.com/xuemingjiai/status/1946290086905352331/photo/1",
+              "media_key": "3_1946290083432439808",
+              "start": 143,
+              "url": "https://t.co/tyzbnHewFg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946290086905352331",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#魔女公主的日常\n鉴于钱包的数量日渐增长，只靠钱包们发情主动来白给的效率太慢了，所以本公主决定开放一个方便本公主使用你们的功能——每日轮回的钱包叠叠乐🤍\n相信很多钱包都有看见推特上出现过那种，加群，付钱白给，被踢掉，再重新进群的玩法吧？本公主会对这种玩法加以改进，点进图片查看详情吧～ https://t.co/tyzbnHewFg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n你也会因为窥视我的美貌而心甘情愿沦为钱包被我使用的对吗？\n钱包报名入口：3971546171\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 67,
+                "username": "oricz233"
+              },
+              {
+                "end": 96,
+                "start": 87,
+                "username": "moelipoi"
+              },
+              {
+                "end": 114,
+                "start": 103,
+                "username": "cutelingli"
+              },
+              {
+                "end": 136,
+                "start": 121,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 148,
+                "start": 141,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍大规模同化魔法展开中",
+        "pinned_tweet_id": "1945511067926536238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945176725190488064/8VBohPRs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7501,
+          "following_count": 322,
+          "like_count": 466,
+          "listed_count": 33,
+          "media_count": 707,
+          "tweet_count": 2172
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

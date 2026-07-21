@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "2068513998673489996",
+    "created_at": "2026-06-21T01:59:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T02:59:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068513998673489996"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1739976691970412544",
+          "start": 3,
+          "username": "SakiHana_effigy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/nt3",
+          "end": 139,
+          "start": 123,
+          "url": "https://t.co/nt3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068513998673489996",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068376094764683664",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SakiHana_effigy: 贡奴坦白，戒贡师只是帮忙戒贡，不往死里管，那他一定还会再贡！\n被贡瘾严重破坏大脑思考系统的贡奴，即使当下满心愧疚，想要戒贡，通常在几天之后就又会鬼使神差地重新拿起手机刷新相关内容，搓起两腿之间的肉虫。… https://t.co/nt3…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1870,
+        "media_key": "3_2068376080852066304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLRZFjkaIAA7y_U.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "2068513998673489996",
+        "created_at": "2026-06-21T01:59:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T02:59:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068513998673489996"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1739976691970412544",
+              "start": 3,
+              "username": "SakiHana_effigy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/nt3",
+              "end": 139,
+              "start": 123,
+              "url": "https://t.co/nt3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068513998673489996",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068376094764683664",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SakiHana_effigy: 贡奴坦白，戒贡师只是帮忙戒贡，不往死里管，那他一定还会再贡！\n被贡瘾严重破坏大脑思考系统的贡奴，即使当下满心愧疚，想要戒贡，通常在几天之后就又会鬼使神差地重新拿起手机刷新相关内容，搓起两腿之间的肉虫。… https://t.co/nt3…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068376080852066304"
+          ]
+        },
+        "author_id": "1739976691970412544",
+        "conversation_id": "2068376094764683664",
+        "created_at": "2026-06-20T16:51:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T17:51:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068376094764683664"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nt34jxKNqg",
+              "end": 124,
+              "expanded_url": "https://x.com/SakiHana_effigy/status/2068376094764683664/photo/1",
+              "media_key": "3_2068376080852066304",
+              "start": 101,
+              "url": "https://t.co/nt34jxKNqg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068376094764683664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 510,
+                "start": 507,
+                "tag": "戒贡"
+              },
+              {
+                "end": 514,
+                "start": 511,
+                "tag": "洗脑"
+              },
+              {
+                "end": 518,
+                "start": 515,
+                "tag": "压榨"
+              },
+              {
+                "end": 524,
+                "start": 519,
+                "tag": "atm奴"
+              },
+              {
+                "end": 528,
+                "start": 525,
+                "tag": "贡奴"
+              }
+            ]
+          },
+          "text": "贡奴坦白，戒贡师只是帮忙戒贡，不往死里管，那他一定还会再贡！\n被贡瘾严重破坏大脑思考系统的贡奴，即使当下满心愧疚，想要戒贡，通常在几天之后就又会鬼使神差地重新拿起手机刷新相关内容，搓起两腿之间的肉虫。\n咲花认为，意志力坚定的贡奴当然可以自己完成戒贡，但是百分之九十九以上的贡奴如果想戒，都必须依赖外部的强制力量。\n按理来说，真正能把你做到往死里管的只有父母，可是上贡这种没皮没脸的好笑性癖，和父母坦白需要的勇气~基本没人有呢♡\n所以啊，我觉得，与其走那种极致压抑自己欲望的苦修路线，倒不如选择一个自己最喜爱的贡主当做控制自己最好力量哦？\n毕竟贡奴这种没有自制力的傻逼物种，还是老老实实把钱交给聪明强大的人管理比较好~\n每个月的生活费按时上交，只留下必要的食宿费用。有必要开支的话，需要向贡主打报告申请资金w。这样的话，贡狗没有了上贡的资金~只能被贡主死死踩在脚下，边流口水吸脚边抚摸鸡鸡♡因为享受着庇护，就算把脑子彻底弃用，也不会有什么问题喔♡\n在每个月结束的时候，贡主在按比例收取管理费用后再把钱还回去，贡奴的钱包就会猛的鼓起一大截了w\n嗯~你问我如果出现贡主不还钱的情况怎么办？\n嘻，那你就受着呗，冤种哥哥🖤\n#戒贡 #洗脑 #压榨 #atm奴 #贡奴"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 622,
+          "like_count": 43,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "贡奴坦白，戒贡师只是帮忙戒贡，不往死里管，那他一定还会再贡！\n被贡瘾严重破坏大脑思考系统的贡奴，即使当下满心愧疚，想要戒贡，通常在几天之后就又会鬼使神差地重新拿起手机刷新相关内容，搓起两腿之间的肉虫。 https://t.co/nt34jxKNqg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "你也觉得你面前的这只魔女可爱过头了吧？\n对的!她和别人不一样!\n邂逅方式→2829556413←↓\n242184780\n涩气内容@oricz233\n星辰魔女镜璃\n@jingli1840489\n桃心魔女奈奈\n@blakexiaonai\n 黑白魔女花卷\n@miaomiaomyoez2\n好老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 64,
+                "username": "oricz233"
+              },
+              {
+                "end": 95,
+                "start": 81,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 116,
+                "start": 103,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 140,
+                "start": 125,
+                "username": "miaomiaomyoez2"
+              },
+              {
+                "end": 159,
+                "start": 144,
+                "username": "chessy80978858"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "超可爱超绿茶超撩人的精灵魔女-奏奏💚",
+        "pinned_tweet_id": "2065914875877228650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068510619113066496/EjupQRp9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9081,
+          "following_count": 387,
+          "like_count": 656,
+          "listed_count": 38,
+          "media_count": 832,
+          "tweet_count": 2234
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-27T11:49:17.000Z",
+        "description": "诞生于纯粹恶意的人偶，各位称呼我为咲花即可。擅长运用各类毒素侵蚀意志薄弱的人类大哥哥大姐姐们🖤 \n门牌1377762595，🚪20，同行可免，私信看到感兴趣的会回复，锁奴/贡奴招收中～\n超级超级好的小夜:@Sama184396\n大姐姐:@qingming131\n很好的老师:@GaoGaoLove_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 102,
+                "username": "Sama184396"
+              },
+              {
+                "end": 130,
+                "start": 118,
+                "username": "qingming131"
+              },
+              {
+                "end": 149,
+                "start": 137,
+                "username": "GaoGaoLove_"
+              }
+            ]
+          }
+        },
+        "id": "1739976691970412544",
+        "name": "咲花✨",
+        "pinned_tweet_id": "2046235460335444305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045219683532763136/muJtJPoK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 536,
+          "following_count": 39,
+          "like_count": 150,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 62
+        },
+        "url": "",
+        "username": "SakiHana_effigy",
+        "verified": true
+      }
+    ]
+  }
+}

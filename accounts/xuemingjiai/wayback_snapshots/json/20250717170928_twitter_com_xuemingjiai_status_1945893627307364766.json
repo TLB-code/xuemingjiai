@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1945893627307364766",
+    "created_at": "2025-07-17T17:09:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-17T18:09:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945893627307364766"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1864229504107073538",
+          "start": 3,
+          "username": "ooxx12kfskdhjfg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945893627307364766",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943665974299005256",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ooxx12kfskdhjfg: ♡喂♡送死的时候♡先躺好♡再把下半身挺起来♡\n♡真是的♡这种事也要本小姐教吗♡\n♡明明长着一副倒贴成瘾的蠢样♡\n♡诶♡翻白眼和吐舌头倒是挺会的呢♡\n♡可惜啦♡要是再加个鼻钩就完美了喔♡\n♡嘻嘻♡你果然很有当傻逼的天赋呢♡\n♡手指要好好勾…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1943665961103765504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvlJ5MWbsAAvfDz.jpg",
+        "width": 1092
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "1945893627307364766",
+        "created_at": "2025-07-17T17:09:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T18:09:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945893627307364766"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1864229504107073538",
+              "start": 3,
+              "username": "ooxx12kfskdhjfg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945893627307364766",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943665974299005256",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ooxx12kfskdhjfg: ♡喂♡送死的时候♡先躺好♡再把下半身挺起来♡\n♡真是的♡这种事也要本小姐教吗♡\n♡明明长着一副倒贴成瘾的蠢样♡\n♡诶♡翻白眼和吐舌头倒是挺会的呢♡\n♡可惜啦♡要是再加个鼻钩就完美了喔♡\n♡嘻嘻♡你果然很有当傻逼的天赋呢♡\n♡手指要好好勾…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943665961103765504"
+          ]
+        },
+        "author_id": "1864229504107073538",
+        "conversation_id": "1943665974299005256",
+        "created_at": "2025-07-11T13:37:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T14:37:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943665974299005256"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 132,
+              "start": 129,
+              "tag": "男娘"
+            },
+            {
+              "end": 136,
+              "start": 133,
+              "tag": "贡奴"
+            },
+            {
+              "end": 141,
+              "start": 137,
+              "tag": "雌小鬼"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pfJqmZu5sO",
+              "end": 165,
+              "expanded_url": "https://x.com/ooxx12kfskdhjfg/status/1943665974299005256/photo/1",
+              "media_key": "3_1943665961103765504",
+              "start": 142,
+              "url": "https://t.co/pfJqmZu5sO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943665974299005256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 4467,
+          "like_count": 48,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "♡喂♡送死的时候♡先躺好♡再把下半身挺起来♡\n♡真是的♡这种事也要本小姐教吗♡\n♡明明长着一副倒贴成瘾的蠢样♡\n♡诶♡翻白眼和吐舌头倒是挺会的呢♡\n♡可惜啦♡要是再加个鼻钩就完美了喔♡\n♡嘻嘻♡你果然很有当傻逼的天赋呢♡\n♡手指要好好勾住鼻孔喔♡大傻逼♡\n\n#男娘 #贡奴 #雌小鬼 https://t.co/pfJqmZu5sO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n你也会因为窥视我的美貌而心甘情愿沦为钱包被我使用的对吗？\n钱包报名入口：3971546171\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 67,
+                "username": "oricz233"
+              },
+              {
+                "end": 96,
+                "start": 87,
+                "username": "moelipoi"
+              },
+              {
+                "end": 114,
+                "start": 103,
+                "username": "cutelingli"
+              },
+              {
+                "end": 136,
+                "start": 121,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 148,
+                "start": 141,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍大规模同化魔法展开中",
+        "pinned_tweet_id": "1945511067926536238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945176725190488064/8VBohPRs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7444,
+          "following_count": 321,
+          "like_count": 443,
+          "listed_count": 33,
+          "media_count": 705,
+          "tweet_count": 2166
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-04T08:45:38.000Z",
+        "description": "❤可爱❤hentai❤的男孩子❥❥❥黑心❥❥榨金❥❥\n❥性趣❥染黑一本正经的哥哥姐姐们~~❥❥❥\n ❥不限公母，杂鱼们撅起生殖器倒贴叭~❥\n❥私信的话，居然~能得到人家的唾弃呢~❥\n❥呐，丢掉可怜的尊严嘛，好不好呀~❥\n❥警告：染上人家就等着堕落吧~❥",
+        "id": "1864229504107073538",
+        "name": "薄妃io",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864955829931380739/dqWaPU7S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 692,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 1,
+          "media_count": 77,
+          "tweet_count": 77
+        },
+        "username": "ooxx12kfskdhjfg",
+        "verified": false
+      }
+    ]
+  }
+}

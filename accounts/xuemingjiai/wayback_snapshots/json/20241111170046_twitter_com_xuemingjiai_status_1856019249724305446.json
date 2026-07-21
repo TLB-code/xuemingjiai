@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1856019249724305446",
+    "created_at": "2024-11-11T17:00:46.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-11T18:00:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1856019249724305446"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1409902807965122565",
+          "start": 3,
+          "username": "qinli2333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1856019249724305446",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 31
+    },
+    "referenced_tweets": [
+      {
+        "id": "1855649452280709165",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qinli2333: 竟敢在祷告时间露出小鸡巴自慰～又是一只被异教洗脑的蠢狗呢🖤不过没关系～我会代表[主]对你龌龊下贱的人格进行[净化]～🖤代价只是对着双闷汗臭脚献出灵魂哦❤️不过在此之前～要对你亵渎神明的行为进行惩罚🖤这对劣等狗卵会被我的脚底彻底碾碎报废🖤会成为只能对…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1856019249724305446].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1856019249724305446",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1856019249724305446"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1855649449285976064"
+          ]
+        },
+        "author_id": "1409902807965122565",
+        "conversation_id": "1855649452280709165",
+        "created_at": "2024-11-10T16:31:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-10T17:31:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1855649452280709165"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 138,
+              "start": 135,
+              "tag": "文媛"
+            },
+            {
+              "end": 142,
+              "start": 139,
+              "tag": "羞辱"
+            },
+            {
+              "end": 146,
+              "start": 143,
+              "tag": "文爱"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1FApJzGH5V",
+              "end": 170,
+              "expanded_url": "https://x.com/qinli2333/status/1855649452280709165/photo/1",
+              "media_key": "3_1855649449285976064",
+              "start": 147,
+              "url": "https://t.co/1FApJzGH5V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855649452280709165",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 5515,
+          "like_count": 137,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "竟敢在祷告时间露出小鸡巴自慰～又是一只被异教洗脑的蠢狗呢🖤不过没关系～我会代表[主]对你龌龊下贱的人格进行[净化]～🖤代价只是对着双闷汗臭脚献出灵魂哦❤️不过在此之前～要对你亵渎神明的行为进行惩罚🖤这对劣等狗卵会被我的脚底彻底碾碎报废🖤会成为只能对着脚发情的～畜牲❤️\n＃文媛 ＃羞辱 #文爱 https://t.co/1FApJzGH5V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "超绝可爱💖\n她就是出道即巅峰的可爱纯真小天使新人偶像魔女小姐💖\n对这样的魔女小姐不能心怀任何涩涩的念想哦，不然就会变得非常糟糕...踏入无法挣脱的陷阱和牢笼里呢💘\n魔女小姐无论说什么做什么都是正确的哦，身为她的粉丝，只需要无条件用各种方式支持她就好了～\nqq2829556413，碎碎念小号@oricz233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 154,
+                "start": 145,
+                "username": "oricz233"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "name": "电波系新人偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854618482215911424/R3TTJuCj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5861,
+          "following_count": 226,
+          "like_count": 185,
+          "listed_count": 24,
+          "tweet_count": 1320
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-29T15:53:29.000Z",
+        "description": "这里是文媛姬祁里～一个拥有灵魂的人偶，欢迎大家找咱来玩，唉嘿☆～门牌:2548742177，价格是40r/0.5h  75r/1h祁里欢迎私信聊天哦～对啦，咱是不涉三的谢谢理解♡ \n妹妹@Sakura9OwO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 93,
+                "username": "Sakura9OwO"
+              }
+            ]
+          }
+        },
+        "id": "1409902807965122565",
+        "name": "祁☆里（困～）",
+        "pinned_tweet_id": "1855649452280709165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558068077488926720/Xp3IrbCM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9250,
+          "following_count": 96,
+          "like_count": 986,
+          "listed_count": 44,
+          "tweet_count": 3167
+        },
+        "username": "qinli2333",
+        "verified": false
+      }
+    ]
+  }
+}

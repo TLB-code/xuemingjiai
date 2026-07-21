@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "2069921303105359958",
+    "created_at": "2026-06-24T23:11:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T00:11:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069921303105359958"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1797497421381165057",
+          "start": 3,
+          "username": "nAnS24048351128"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069921303105359958",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069500293180768387",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nAnS24048351128: 哇哦，上一条流量好好～难道大家都是绿█ █💚那就请把大家的无论幻想还是现实的女友都贡出来吧w更新一下上个绿帽奴的后续呢：又接着贡出了他的前女友和朋友，而且本人也被我调成母狗了呢，怪不得能接触到那么多母█，真是可喜可贺。 https://…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069500282393014272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLhXisqbMAAFTCb.jpg",
+        "width": 382
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2069500282384592896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLhXisoasAAykTa.jpg",
+        "width": 462
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2069500282388746240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLhXispaEAA2sR2.jpg",
+        "width": 370
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "2069921303105359958",
+        "created_at": "2026-06-24T23:11:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T00:11:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069921303105359958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1797497421381165057",
+              "start": 3,
+              "username": "nAnS24048351128"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069921303105359958",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069500293180768387",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nAnS24048351128: 哇哦，上一条流量好好～难道大家都是绿█ █💚那就请把大家的无论幻想还是现实的女友都贡出来吧w更新一下上个绿帽奴的后续呢：又接着贡出了他的前女友和朋友，而且本人也被我调成母狗了呢，怪不得能接触到那么多母█，真是可喜可贺。 https://…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069500282393014272",
+            "3_2069500282384592896",
+            "3_2069500282388746240"
+          ]
+        },
+        "author_id": "1797497421381165057",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2069500293180768387",
+        "created_at": "2026-06-23T19:18:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T20:18:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069500293180768387"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nBTywYd2GZ",
+              "end": 133,
+              "expanded_url": "https://x.com/nAnS24048351128/status/2069500293180768387/photo/1",
+              "media_key": "3_2069500282393014272",
+              "start": 110,
+              "url": "https://t.co/nBTywYd2GZ"
+            },
+            {
+              "display_url": "pic.x.com/nBTywYd2GZ",
+              "end": 133,
+              "expanded_url": "https://x.com/nAnS24048351128/status/2069500293180768387/photo/1",
+              "media_key": "3_2069500282384592896",
+              "start": 110,
+              "url": "https://t.co/nBTywYd2GZ"
+            },
+            {
+              "display_url": "pic.x.com/nBTywYd2GZ",
+              "end": 133,
+              "expanded_url": "https://x.com/nAnS24048351128/status/2069500293180768387/photo/1",
+              "media_key": "3_2069500282388746240",
+              "start": 110,
+              "url": "https://t.co/nBTywYd2GZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069500293180768387",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3302,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哇哦，上一条流量好好～难道大家都是绿█ █💚那就请把大家的无论幻想还是现实的女友都贡出来吧w更新一下上个绿帽奴的后续呢：又接着贡出了他的前女友和朋友，而且本人也被我调成母狗了呢，怪不得能接触到那么多母█，真是可喜可贺。 https://t.co/nBTywYd2GZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "你也觉得你面前的这只魔女可爱过头了吧？\n对的!她和别人不一样!\n邂逅方式→2829556413←↓\n242184780\n涩气内容@oricz233\n星辰魔女镜璃\n@jingli1840489\n桃心魔女奈奈\n@blakexiaonai\n 黑白魔女花卷\n@miaomiaomyoez2\n好老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 64,
+                "username": "oricz233"
+              },
+              {
+                "end": 95,
+                "start": 81,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 116,
+                "start": 103,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 140,
+                "start": 125,
+                "username": "miaomiaomyoez2"
+              },
+              {
+                "end": 159,
+                "start": 144,
+                "username": "chessy80978858"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "超可爱超绿茶超撩人的精灵魔女-奏奏💚",
+        "pinned_tweet_id": "2065914875877228650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068510619113066496/EjupQRp9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9141,
+          "following_count": 398,
+          "like_count": 656,
+          "listed_count": 39,
+          "media_count": 833,
+          "tweet_count": 2237
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-03T05:16:08.000Z",
+        "description": "是蕾米莉亚小姐的狗w，但也是绝对恶劣的的主人❤️\n皮下男，不涉三，介意勿扰\n🐧：1695396186🚪：5.2，█ █无上限，仅过滤用，请说明来意哦\n接受日常骚扰和一些聊天但请不要无意义的骚扰，有什么想了解的可以看顶置推文哦\n脑婆：@Sama184396",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 116,
+                "username": "Sama184396"
+              }
+            ]
+          }
+        },
+        "id": "1797497421381165057",
+        "location": "木炉星",
+        "name": "辉月ASterk",
+        "pinned_tweet_id": "2067681125678583835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939042341047705600/nf5MVW-Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 90,
+          "like_count": 955,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 198
+        },
+        "url": "",
+        "username": "nAnS24048351128",
+        "verified": false
+      }
+    ]
+  }
+}

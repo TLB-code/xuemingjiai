@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "2065914875877228650",
+    "created_at": "2026-06-13T21:55:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T22:55:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065916115801571500"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1629550872676954114",
+          "start": 0,
+          "username": "northblack0310"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065916115801571500",
+    "in_reply_to_user_id": "1629550872676954114",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065916061124555037",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@northblack0310 爱你!"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "2065914875877228650",
+        "created_at": "2026-06-13T21:55:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T22:55:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065916115801571500"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1629550872676954114",
+              "start": 0,
+              "username": "northblack0310"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065916115801571500",
+        "in_reply_to_user_id": "1629550872676954114",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065916061124555037",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@northblack0310 爱你!"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1629550872676954114",
+        "conversation_id": "2065914875877228650",
+        "created_at": "2026-06-13T21:55:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T22:55:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065916061124555037"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1374389254726455305",
+              "start": 0,
+              "username": "xuemingjiai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065916061124555037",
+        "in_reply_to_user_id": "1374389254726455305",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065914875877228650",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xuemingjiai 好耶（？）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "你也觉得你面前的这只魔女可爱过头了吧？\n对的!她和别人不一样!\n邂逅方式→2829556413←\n超涩气小号@oricz233\n现任魔女学园院长\n星辰魔女镜璃\n@jingli1840489\n桃心魔女奈奈\n@blakexiaonai\n 黑白魔女花卷\n@miaomiaomyoez2\n好老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 54,
+                "username": "oricz233"
+              },
+              {
+                "end": 94,
+                "start": 80,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 115,
+                "start": 102,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 139,
+                "start": 124,
+                "username": "miaomiaomyoez2"
+              },
+              {
+                "end": 158,
+                "start": 143,
+                "username": "chessy80978858"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "超可爱超绿茶超撩人的精灵魔女-奏奏💚",
+        "pinned_tweet_id": "2013314916120416537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064079945459171328/WbF0iOyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8884,
+          "following_count": 374,
+          "like_count": 651,
+          "listed_count": 35,
+          "media_count": 831,
+          "tweet_count": 2217
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-25T18:36:33.000Z",
+        "description": "【心音所属】这里是，天才美少女夕绫desu，无口/温柔/反差/气味/可爱/调教类美少女文援姬，同时承接虚拟上贡后返还的业务，人设是一名在读高中生，无论是当温柔细腻的主人还是温柔侍奉的可爱猫娘都可以好好胜任的！s/m皆可w，如果想跟夕绫走进美妙的温柔乡可以加 q：1770867267♡欢迎各位的光临w",
+        "id": "1629550872676954114",
+        "name": "夕绫",
+        "pinned_tweet_id": "1941922403321540805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064701958498426881/MLiCDDdx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1145,
+          "following_count": 258,
+          "like_count": 500,
+          "listed_count": 6,
+          "media_count": 72,
+          "tweet_count": 769
+        },
+        "username": "northblack0310",
+        "verified": false
+      }
+    ]
+  }
+}

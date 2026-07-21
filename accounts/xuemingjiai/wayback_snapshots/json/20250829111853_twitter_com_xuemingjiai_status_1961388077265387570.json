@@ -1,0 +1,357 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1961305583711322112",
+        "3_1961305584038563840"
+      ],
+      "media_source_tweet_id": [
+        "1961305587213635991",
+        "1961305587213635991"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1961388077265387570",
+    "created_at": "2025-08-29T11:18:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-29T12:18:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961388077265387570"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1952626998733672448",
+          "start": 3,
+          "username": "sama184397"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8XvPhGWZM9",
+          "end": 57,
+          "expanded_url": "https://x.com/sama184397/status/1961305587213635991/photo/1",
+          "media_key": "3_1961305583711322112",
+          "start": 34,
+          "url": "https://t.co/8XvPhGWZM9"
+        },
+        {
+          "display_url": "pic.x.com/8XvPhGWZM9",
+          "end": 57,
+          "expanded_url": "https://x.com/sama184397/status/1961305587213635991/photo/1",
+          "media_key": "3_1961305584038563840",
+          "start": 34,
+          "url": "https://t.co/8XvPhGWZM9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961388077265387570",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961305587213635991",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sama184397: 被骗钱骗到颅内高潮爽死了吧www♡ https://t.co/8XvPhGWZM9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1825,
+        "media_key": "3_1961305583711322112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gzf1CXUagAAdb-X.jpg",
+        "width": 942
+      },
+      {
+        "height": 1823,
+        "media_key": "3_1961305584038563840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gzf1CYib0AATeuT.jpg",
+        "width": 933
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961305583711322112",
+            "3_1961305584038563840"
+          ],
+          "media_source_tweet_id": [
+            "1961305587213635991",
+            "1961305587213635991"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1961388077265387570",
+        "created_at": "2025-08-29T11:18:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T12:18:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961388077265387570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1952626998733672448",
+              "start": 3,
+              "username": "sama184397"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8XvPhGWZM9",
+              "end": 57,
+              "expanded_url": "https://x.com/sama184397/status/1961305587213635991/photo/1",
+              "media_key": "3_1961305583711322112",
+              "start": 34,
+              "url": "https://t.co/8XvPhGWZM9"
+            },
+            {
+              "display_url": "pic.x.com/8XvPhGWZM9",
+              "end": 57,
+              "expanded_url": "https://x.com/sama184397/status/1961305587213635991/photo/1",
+              "media_key": "3_1961305584038563840",
+              "start": 34,
+              "url": "https://t.co/8XvPhGWZM9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961388077265387570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961305587213635991",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sama184397: 被骗钱骗到颅内高潮爽死了吧www♡ https://t.co/8XvPhGWZM9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961305583711322112",
+            "3_1961305584038563840"
+          ]
+        },
+        "author_id": "1952626998733672448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1961305587213635991",
+        "created_at": "2025-08-29T05:51:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T06:51:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961305587213635991"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8XvPhGWZM9",
+              "end": 41,
+              "expanded_url": "https://x.com/sama184397/status/1961305587213635991/photo/1",
+              "media_key": "3_1961305583711322112",
+              "start": 18,
+              "url": "https://t.co/8XvPhGWZM9"
+            },
+            {
+              "display_url": "pic.x.com/8XvPhGWZM9",
+              "end": 41,
+              "expanded_url": "https://x.com/sama184397/status/1961305587213635991/photo/1",
+              "media_key": "3_1961305584038563840",
+              "start": 18,
+              "url": "https://t.co/8XvPhGWZM9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961305587213635991",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1142,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "被骗钱骗到颅内高潮爽死了吧www♡ https://t.co/8XvPhGWZM9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n我是一名钱包刽子手。\n如果你也想被我杀死的话→\n242184780←\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 55,
+                "username": "oricz233"
+              },
+              {
+                "end": 84,
+                "start": 75,
+                "username": "moelipoi"
+              },
+              {
+                "end": 102,
+                "start": 91,
+                "username": "cutelingli"
+              },
+              {
+                "end": 124,
+                "start": 109,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 136,
+                "start": 129,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍魔女讨伐组织高级顾问～",
+        "pinned_tweet_id": "1945511067926536238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952517800502652928/-lp8k7Gh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8046,
+          "following_count": 333,
+          "like_count": 629,
+          "listed_count": 36,
+          "media_count": 724,
+          "tweet_count": 2219
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-05T07:05:36.000Z",
+        "description": "日常扯皮吹水\n联系方式/业务详情请移步:@sama184396\n是非常恶劣的榨金犯呢🖤",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 20,
+                "username": "sama184396"
+              }
+            ]
+          }
+        },
+        "id": "1952626998733672448",
+        "location": "你的❤️",
+        "name": "夜々（日常版）",
+        "pinned_tweet_id": "1960794156978315733",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958976633412755457/BQ0j7I-Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 10,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 33
+        },
+        "username": "sama184397",
+        "verified": false
+      }
+    ]
+  }
+}

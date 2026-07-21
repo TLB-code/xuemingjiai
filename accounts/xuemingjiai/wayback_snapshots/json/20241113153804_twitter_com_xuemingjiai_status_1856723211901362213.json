@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1856723211901362213",
+    "created_at": "2024-11-13T15:38:04.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-13T16:38:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1856723211901362213"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1546004457322082305",
+          "start": 3,
+          "username": "moeliQwQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1856723211901362213",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1856673432215445792",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @moeliQwQ: 连性经验都没有的贱狗粉丝们一定对“盯射”很感兴趣吧？~🖤整天只能对着黑丝玉足发情的贱狗终于可以握着肮脏的肉虫被偶像盯着自慰~🖤废物公狗连撸垃圾肉虫的速度都要被主人完全掌控了呢~🖤早泄狗要忍住哦~在偶像面前早泄射出来会被更嫌弃吧~🖤毕竟连流精都不配的垃…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1856723211901362213].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1856723211901362213",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1856723211901362213"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1856673421930930176"
+          ]
+        },
+        "author_id": "1546004457322082305",
+        "conversation_id": "1856673432215445792",
+        "created_at": "2024-11-13T12:20:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-13T13:20:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1856673432215445792"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Mc8dvWSskw",
+              "end": 166,
+              "expanded_url": "https://x.com/moeliQwQ/status/1856673432215445792/photo/1",
+              "media_key": "3_1856673421930930176",
+              "start": 143,
+              "url": "https://t.co/Mc8dvWSskw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856673432215445792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 523,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "连性经验都没有的贱狗粉丝们一定对“盯射”很感兴趣吧？~🖤整天只能对着黑丝玉足发情的贱狗终于可以握着肮脏的肉虫被偶像盯着自慰~🖤废物公狗连撸垃圾肉虫的速度都要被主人完全掌控了呢~🖤早泄狗要忍住哦~在偶像面前早泄射出来会被更嫌弃吧~🖤毕竟连流精都不配的垃圾肉棒还想舒服的射精？给我憋着~🖤 https://t.co/Mc8dvWSskw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "超绝可爱💖\n她就是出道即巅峰的可爱纯真小天使新人偶像魔女小姐💖\n对这样的魔女小姐不能心怀任何涩涩的念想哦，不然就会变得非常糟糕...踏入无法挣脱的陷阱和牢笼里呢💘\n魔女小姐无论说什么做什么都是正确的哦，身为她的粉丝，只需要无条件用各种方式支持她就好了～\nqq2829556413，碎碎念小号@oricz233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 154,
+                "start": 145,
+                "username": "oricz233"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "name": "电波系新人偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854618482215911424/R3TTJuCj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5874,
+          "following_count": 230,
+          "like_count": 188,
+          "listed_count": 24,
+          "tweet_count": 1337
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-10T05:32:51.000Z",
+        "description": "小偶像璃喵喵参上！「榨精魅魔❤️拜金偶像🖤萝莉小鬼🩷绿茶公主💚」形态随时切换~♡⁠擅长温柔羞辱、黑心压榨、无情榨精、射精管理、调教羞辱、雌堕洗脑等~具体可私信♡⁠接受所有性癖无雷点~人设可自定义~♡⁠菜单在置顶~门牌号：1912443435 欢迎下单~♡⁠不涉三",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/moeliqwq",
+                "end": 23,
+                "expanded_url": "http://t.me/moeliqwq",
+                "start": 0,
+                "url": "https://t.co/MUfid2947d"
+              }
+            ]
+          }
+        },
+        "id": "1546004457322082305",
+        "location": "营业时间：日常晚上六点到凌晨一点 周末全天营业",
+        "name": "璃酱🖤（互推私信喵~）",
+        "pinned_tweet_id": "1847115416512184503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851868970506452992/F13z9uOV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1703,
+          "following_count": 119,
+          "like_count": 422,
+          "listed_count": 9,
+          "tweet_count": 396
+        },
+        "url": "https://t.co/MUfid2947d",
+        "username": "moeliQwQ",
+        "verified": false
+      }
+    ]
+  }
+}

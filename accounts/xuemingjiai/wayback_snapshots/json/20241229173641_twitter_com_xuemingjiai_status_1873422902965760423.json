@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1873422902965760423",
+    "created_at": "2024-12-29T17:36:41.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-29T18:36:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1873422902965760423"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1374389254726455305",
+          "start": 3,
+          "username": "xuemingjiai"
+        },
+        {
+          "end": 92,
+          "id": "1852926328963522560",
+          "start": 83,
+          "username": "oricz233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873422902965760423",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1871537103433351315",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xuemingjiai: 魔女妹妹——魔女主人的病毒侵入系列火热连载中!在小号~快去关注追更吧！（目前是病毒侵入更新一次，魔物塔更新一次 交替更新~）\n传送门@oricz233\n病毒侵入的更新没有整合，所以点击进入小号翻找一下从最早的开始阅读就好啦~ https://t…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1873422902965760423].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1873422902965760423",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1873422902965760423"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1871537100635742208"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "1871537103433351315",
+        "created_at": "2024-12-24T12:43:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-24T13:43:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1871537103433351315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 75,
+              "id": "1852926328963522560",
+              "start": 66,
+              "username": "oricz233"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IQV79EN2Ie",
+              "end": 136,
+              "expanded_url": "https://x.com/xuemingjiai/status/1871537103433351315/photo/1",
+              "media_key": "3_1871537100635742208",
+              "start": 113,
+              "url": "https://t.co/IQV79EN2Ie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871537103433351315",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4266,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "魔女妹妹——魔女主人的病毒侵入系列火热连载中!在小号~快去关注追更吧！（目前是病毒侵入更新一次，魔物塔更新一次 交替更新~）\n传送门@oricz233\n病毒侵入的更新没有整合，所以点击进入小号翻找一下从最早的开始阅读就好啦~ https://t.co/IQV79EN2Ie"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "您好～这里是出道以来一直致力于为小雏男哥哥们提供“舒适”“安全”“极致快感”的纯真妹系小天使魔女妹妹💚\n想了解我请翻看我的推文～\nqq2829556413，碎碎念小号@oricz233\n共同出道的偶像老婆：@riemoepoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 83,
+                "username": "oricz233"
+              },
+              {
+                "end": 113,
+                "start": 103,
+                "username": "riemoepoi"
+              },
+              {
+                "end": 131,
+                "start": 120,
+                "username": "cutelingli"
+              },
+              {
+                "end": 153,
+                "start": 138,
+                "username": "chessy80978858"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系天使偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871531149056696320/X1dzrRoR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6252,
+          "following_count": 241,
+          "like_count": 272,
+          "listed_count": 26,
+          "media_count": 522,
+          "tweet_count": 1434
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-03T04:10:46.000Z",
+        "description": "嗯 如你所见这就是魔女妹妹@xuemingjiai 的树洞发泄 特殊更新的多功能用小号哦\n不喜欢我的人请从我的视线里消失～\n只想对无条件喜欢我的人好～\n家宝贝@qilicc",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 13,
+                "username": "xuemingjiai"
+              },
+              {
+                "end": 86,
+                "start": 79,
+                "username": "qilicc"
+              }
+            ]
+          }
+        },
+        "id": "1852926328963522560",
+        "name": "魔女妹妹（里世界版）病毒侵入持续更新中",
+        "pinned_tweet_id": "1853194086540509649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871478130072051712/iWbjmEVI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 840,
+          "following_count": 6,
+          "like_count": 7,
+          "listed_count": 2,
+          "media_count": 48,
+          "tweet_count": 70
+        },
+        "username": "oricz233",
+        "verified": false
+      }
+    ]
+  }
+}

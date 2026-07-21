@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1851569873010450468",
+    "created_at": "2024-10-30T10:20:32.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-30T11:20:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1851569873010450468"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1696056509023625217",
+          "start": 3,
+          "username": "CuteLingli"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1851569873010450468",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1851157598214496383",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CuteLingli: 最近都没有收新的狗狗，一方面是没有灵感，另一方面是确实懒了。\n哦对了，顺带一提，给玲璃上贡是不会收获任何东西的哦。\n不会有语音，不会有照片，不会有跟你线下的机会，你能收获的只有虚假。\n没错，就是诈骗哦。\n所以，除非真的想要彻底坏掉，请不要靠近玲璃…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1851569873010450468].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1851569873010450468",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1851569873010450468"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1851157594163081216"
+          ]
+        },
+        "author_id": "1696056509023625217",
+        "conversation_id": "1851157598214496383",
+        "created_at": "2024-10-29T07:02:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-29T08:02:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1851157598214496383"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 131,
+              "start": 126,
+              "tag": "ATM奴"
+            },
+            {
+              "end": 136,
+              "start": 133,
+              "tag": "黑心"
+            },
+            {
+              "end": 140,
+              "start": 137,
+              "tag": "贡奴"
+            },
+            {
+              "end": 144,
+              "start": 141,
+              "tag": "压榨"
+            },
+            {
+              "end": 148,
+              "start": 145,
+              "tag": "文援"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wxyqjFHB0e",
+              "end": 172,
+              "expanded_url": "https://x.com/CuteLingli/status/1851157598214496383/photo/1",
+              "media_key": "3_1851157594163081216",
+              "start": 149,
+              "url": "https://t.co/wxyqjFHB0e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1851157598214496383",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 740,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "最近都没有收新的狗狗，一方面是没有灵感，另一方面是确实懒了。\n哦对了，顺带一提，给玲璃上贡是不会收获任何东西的哦。\n不会有语音，不会有照片，不会有跟你线下的机会，你能收获的只有虚假。\n没错，就是诈骗哦。\n所以，除非真的想要彻底坏掉，请不要靠近玲璃🖤\n\n#ATM奴  #黑心 #贡奴 #压榨 #文援 https://t.co/wxyqjFHB0e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "超绝可爱💖\n她就是出道即巅峰的可爱纯真小天使新人偶像魔女小姐💖\n对这样的魔女小姐不能心怀任何涩涩的念想哦，不然就会变得非常糟糕...踏入无法挣脱的陷阱和牢笼里呢💘\n魔女小姐无论说什么做什么都是正确的哦，身为她的粉丝，只需要无条件用各种方式支持她就好了～\nqq2829556413",
+        "id": "1374389254726455305",
+        "name": "电波系新人偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851527988380315648/MjAgrWHr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5693,
+          "following_count": 215,
+          "like_count": 179,
+          "listed_count": 24,
+          "tweet_count": 1227
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-28T07:06:06.000Z",
+        "description": "温柔向压榨系，请ATM君直接给我钱~\n请看清楚哦，这是陷阱~❤️否则脑子和钱包都会的变得一塌糊涂🖤，私信获取🚪，犯贱或者发情也许会增加好感度？~",
+        "id": "1696056509023625217",
+        "location": "你的心里❤️",
+        "name": "玲璃",
+        "pinned_tweet_id": "1843935725622059497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830594169280372736/POxe9_YW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 466,
+          "following_count": 44,
+          "like_count": 41,
+          "listed_count": 2,
+          "tweet_count": 102
+        },
+        "username": "CuteLingli",
+        "verified": false
+      }
+    ]
+  }
+}

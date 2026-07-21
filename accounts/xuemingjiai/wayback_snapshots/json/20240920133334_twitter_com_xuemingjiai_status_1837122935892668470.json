@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1837122935892668470",
+    "created_at": "2024-09-20T13:33:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-20T14:33:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1837122935892668470"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1737114762931318784",
+          "start": 3,
+          "username": "xie_shan_tao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837122935892668470",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837041221442674707",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xie_shan_tao: 被主人强制上锁几个月后，肉棒越来越短；到最后自己低头看着平板锁，都会自我怀疑肉棒还能不能用\n期间无数次发情顶锁，痛苦到磕头乞求主人开锁，但永远只有拒绝\n猛烈的欲望只会一直累积，逐渐强到冲毁大脑，最终主动用雌穴自慰，彻底忘记肉棒的存在，变成合格…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1837122935892668470].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1837122935892668470",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1837122935892668470"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1837041215566733312"
+          ]
+        },
+        "author_id": "1737114762931318784",
+        "conversation_id": "1837041221442674707",
+        "created_at": "2024-09-20T08:08:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-20T09:08:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1837041221442674707"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 131,
+              "start": 128,
+              "tag": "伪娘"
+            },
+            {
+              "end": 135,
+              "start": 132,
+              "tag": "男娘"
+            },
+            {
+              "end": 139,
+              "start": 136,
+              "tag": "cb"
+            },
+            {
+              "end": 143,
+              "start": 140,
+              "tag": "戴锁"
+            },
+            {
+              "end": 147,
+              "start": 144,
+              "tag": "雌堕"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8pk6dlajrn",
+              "end": 171,
+              "expanded_url": "https://twitter.com/xie_shan_tao/status/1837041221442674707/photo/1",
+              "media_key": "3_1837041215566733312",
+              "start": 148,
+              "url": "https://t.co/8pK6DLajrn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837041221442674707",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 1681,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "被主人强制上锁几个月后，肉棒越来越短；到最后自己低头看着平板锁，都会自我怀疑肉棒还能不能用\n期间无数次发情顶锁，痛苦到磕头乞求主人开锁，但永远只有拒绝\n猛烈的欲望只会一直累积，逐渐强到冲毁大脑，最终主动用雌穴自慰，彻底忘记肉棒的存在，变成合格的雌堕婊子～\n#伪娘 #男娘 #cb #戴锁 #雌堕 https://t.co/8pK6DLajrn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "超绝可爱💖\n她就是出道即巅峰的可爱纯真小天使新人偶像魔女小姐💖\n任何人都会被她散发出的魅力所捕获，对这样的魔女小姐不能心怀任何涩涩的念想哦，不然就会变得非常糟糕...踏入无法挣脱的陷阱和牢笼里呢💘\n魔女小姐无论说什么做什么都是正确的哦，身为她的粉丝，只需要无条件用各种方式支持她就好了～\nqq2829556413",
+        "id": "1374389254726455305",
+        "name": "电波系新人偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1804570562511126828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836438377702600704/CAqVvsCj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5359,
+          "following_count": 188,
+          "like_count": 149,
+          "listed_count": 23,
+          "tweet_count": 1053
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-19T14:17:03.000Z",
+        "description": "S系黑心文援阿桃，喜欢戏弄公狗的贵族小姐。擅长温柔洗脑/轻度s羞辱/重度辱骂/文调/网调/atm压榨/ntr/地位差/四爱/双主调教/情侣主/树洞/管理锁/长期调教，\n35/30min，70/h，血腥重口皆可，不涉三。\n【门牌号，见置顶二维码】\n备用小号：@ya_ma_momo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 128,
+                "username": "ya_ma_momo"
+              }
+            ]
+          }
+        },
+        "id": "1737114762931318784",
+        "name": "撷山桃（文援互推",
+        "pinned_tweet_id": "1741002421718179917",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1737115673309159424/ZOAJuodw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1630,
+          "following_count": 99,
+          "like_count": 267,
+          "listed_count": 6,
+          "tweet_count": 295
+        },
+        "username": "xie_shan_tao",
+        "verified": false
+      }
+    ]
+  }
+}

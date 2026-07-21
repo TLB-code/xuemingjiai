@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1962014971069444519",
+    "created_at": "2025-08-31T04:49:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T05:49:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962014971069444519"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1746153330622226432",
+          "start": 3,
+          "username": "blakexiaonai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962014971069444519",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961905906205307330",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @blakexiaonai: 刚刚尝试了一个很可怕的玩法🩷\n让狗狗把电极片贴在卵蛋上，用不同的强度档位刺激，使狗狗的身体记住这份感觉……\n然后切换6次强度等级，每次都不相同，让它写出6个强度等级的编号～如果写错💛那就最高等级放置惩罚～\n生精细胞被一点点杀死的感觉……很舒服…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1961905896881278976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzoXBMJaUAAupcn.jpg",
+        "width": 1692
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "1962014971069444519",
+        "created_at": "2025-08-31T04:49:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T05:49:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962014971069444519"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1746153330622226432",
+              "start": 3,
+              "username": "blakexiaonai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962014971069444519",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961905906205307330",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @blakexiaonai: 刚刚尝试了一个很可怕的玩法🩷\n让狗狗把电极片贴在卵蛋上，用不同的强度档位刺激，使狗狗的身体记住这份感觉……\n然后切换6次强度等级，每次都不相同，让它写出6个强度等级的编号～如果写错💛那就最高等级放置惩罚～\n生精细胞被一点点杀死的感觉……很舒服…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961905896881278976"
+          ]
+        },
+        "author_id": "1746153330622226432",
+        "conversation_id": "1961905906205307330",
+        "created_at": "2025-08-30T21:36:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T22:36:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961905906205307330"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dqrIAzsmGO",
+              "end": 149,
+              "expanded_url": "https://x.com/blakexiaonai/status/1961905906205307330/photo/1",
+              "media_key": "3_1961905896881278976",
+              "start": 126,
+              "url": "https://t.co/dqrIAzsmGO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961905906205307330",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 139,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "刚刚尝试了一个很可怕的玩法🩷\n让狗狗把电极片贴在卵蛋上，用不同的强度档位刺激，使狗狗的身体记住这份感觉……\n然后切换6次强度等级，每次都不相同，让它写出6个强度等级的编号～如果写错💛那就最高等级放置惩罚～\n生精细胞被一点点杀死的感觉……很舒服，对吧？ https://t.co/dqrIAzsmGO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n我是一名钱包刽子手。\n如果你也想被我杀死的话→\n242184780←\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 55,
+                "username": "oricz233"
+              },
+              {
+                "end": 84,
+                "start": 75,
+                "username": "moelipoi"
+              },
+              {
+                "end": 102,
+                "start": 91,
+                "username": "cutelingli"
+              },
+              {
+                "end": 124,
+                "start": 109,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 136,
+                "start": 129,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍魔女讨伐组织高级顾问～",
+        "pinned_tweet_id": "1945511067926536238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952517800502652928/-lp8k7Gh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8081,
+          "following_count": 334,
+          "like_count": 629,
+          "listed_count": 37,
+          "media_count": 724,
+          "tweet_count": 2221
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-13T12:53:18.000Z",
+        "description": "和喜欢的人一起玩，吃喜欢的蔬菜，调教喜欢的小小宠物，爱最爱的魔女奏奏，就是我的愿望❤️\n是小男孩哦～",
+        "id": "1746153330622226432",
+        "name": "blake💛奈喵",
+        "pinned_tweet_id": "1959444406307885446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949866364237479936/7iUgBHGL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 33,
+          "like_count": 40,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 82
+        },
+        "username": "blakexiaonai",
+        "verified": false
+      }
+    ]
+  }
+}

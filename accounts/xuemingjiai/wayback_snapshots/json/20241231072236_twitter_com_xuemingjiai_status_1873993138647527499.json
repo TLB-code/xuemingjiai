@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1873943567850496202",
+    "created_at": "2024-12-31T07:22:36.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-31T08:22:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1873993138647527499"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1674015168492347393",
+          "start": 0,
+          "username": "NalX723"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873993138647527499",
+    "in_reply_to_user_id": "1674015168492347393",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1873969083823321468",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NalX723 加qq哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "1873943567850496202",
+        "created_at": "2024-12-31T07:22:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-31T08:22:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873993138647527499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1674015168492347393",
+              "start": 0,
+              "username": "NalX723"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873993138647527499",
+        "in_reply_to_user_id": "1674015168492347393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873969083823321468",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NalX723 加qq哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674015168492347393",
+        "conversation_id": "1873943567850496202",
+        "created_at": "2024-12-31T05:47:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-31T06:47:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873969083823321468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1374389254726455305",
+              "start": 0,
+              "username": "xuemingjiai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873969083823321468",
+        "in_reply_to_user_id": "1374389254726455305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873943567850496202",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xuemingjiai 怎么进🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "您好～这里是出道以来一直致力于为小雏男哥哥们提供“舒适”“安全”“极致快感”的纯真妹系小天使魔女妹妹💚\n想了解我请翻看我的推文～\nqq2829556413，碎碎念小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 83,
+                "username": "oricz233"
+              },
+              {
+                "end": 112,
+                "start": 103,
+                "username": "moelipoi"
+              },
+              {
+                "end": 130,
+                "start": 119,
+                "username": "cutelingli"
+              },
+              {
+                "end": 152,
+                "start": 137,
+                "username": "chessy80978858"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系天使偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871531149056696320/X1dzrRoR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6267,
+          "following_count": 243,
+          "like_count": 277,
+          "listed_count": 26,
+          "media_count": 523,
+          "tweet_count": 1439
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-28T11:21:42.000Z",
+        "description": "",
+        "id": "1674015168492347393",
+        "name": "NalX",
+        "pinned_tweet_id": "1761043267368661066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814233610989486080/fMgmDnfN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 263,
+          "like_count": 1414,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 474
+        },
+        "username": "NalX723",
+        "verified": false
+      }
+    ]
+  }
+}

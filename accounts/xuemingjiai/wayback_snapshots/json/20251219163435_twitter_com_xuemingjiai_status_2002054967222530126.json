@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2002054942031519744"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "2002054967222530126",
+    "created_at": "2025-12-19T16:34:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T17:34:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2002054967222530126"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/810jeMjlmx",
+          "end": 168,
+          "expanded_url": "https://x.com/xuemingjiai/status/2002054967222530126/photo/1",
+          "media_key": "3_2002054942031519744",
+          "start": 145,
+          "url": "https://t.co/810jeMjlmx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002054967222530126",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "各位小钱包有没有经历过这样一个阶段...?\n阈值越来越高～选择困难症～不知道该找谁发情，不敢去接触～\n本公主为了帮助小钱包们解决疑难杂症，特此推出特别活动——奏奏公主的任务百宝箱～\n首次只需要20r～你就可以收到本公主为你量身定做的一个“背德”小任务，点开图片的ALT观看更多任务介绍吧🖤 https://t.co/810jeMjlmx"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "变态钱包～先给本公主跪好在听哦～\n本次活动呢，本公主会保证每个人拿到的任务都是独一无二的～而且是足够“变态”“背德”“刺激”甚至是“无下限”的～当你完成了任务来跟本公主汇报会获得“神秘奖励”\n当你放弃任务更换任务则需要接受“神秘惩罚”～\n还等什么呢....不想让自己变得更加“下贱”一些吗？",
+        "height": 2048,
+        "media_key": "3_2002054942031519744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8i6XMiaoAA2ueu.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002054942031519744"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "2002054967222530126",
+        "created_at": "2025-12-19T16:34:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T17:34:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002054967222530126"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/810jeMjlmx",
+              "end": 168,
+              "expanded_url": "https://x.com/xuemingjiai/status/2002054967222530126/photo/1",
+              "media_key": "3_2002054942031519744",
+              "start": 145,
+              "url": "https://t.co/810jeMjlmx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002054967222530126",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "各位小钱包有没有经历过这样一个阶段...?\n阈值越来越高～选择困难症～不知道该找谁发情，不敢去接触～\n本公主为了帮助小钱包们解决疑难杂症，特此推出特别活动——奏奏公主的任务百宝箱～\n首次只需要20r～你就可以收到本公主为你量身定做的一个“背德”小任务，点开图片的ALT观看更多任务介绍吧🖤 https://t.co/810jeMjlmx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🖤\n最最最最喜欢钱包们啦～\n最近在教导钱包们如何变得更加“堕落”“变态”“下流”\n联系方式→2829556413←\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 76,
+                "username": "oricz233"
+              },
+              {
+                "end": 105,
+                "start": 96,
+                "username": "moelipoi"
+              },
+              {
+                "end": 123,
+                "start": 112,
+                "username": "cutelingli"
+              },
+              {
+                "end": 145,
+                "start": 130,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 157,
+                "start": 150,
+                "username": "1xian1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🖤黑心背德感拉满版",
+        "pinned_tweet_id": "1976743806063063398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002052886289924096/qPezgnpX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8048,
+          "following_count": 331,
+          "like_count": 645,
+          "listed_count": 37,
+          "media_count": 764,
+          "tweet_count": 2377
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

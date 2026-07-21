@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1993441647242494035",
+    "created_at": "2025-11-25T22:08:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T23:08:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993441647242494035"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1374389254726455305",
+          "start": 3,
+          "username": "xuemingjiai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993441647242494035",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1700591114875785481",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xuemingjiai: 好无聊啊，为什么不可以让世界上所有的男性贱狗24小时都在工作呢？\n傻逼贱畜凭什么睡觉啊?\n天天工作努力赚钱再被女孩子随随便便的勾走魂魄心甘情愿的卖命卖血不好吗？\n这个社会对你们这些男性贱狗也未免太过好心了吧，成年之后就应该发挥自己的社会价值了，…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1993441647242494035].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1993441647242494035",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1993441647242494035"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1557,
+        "media_key": "3_1700591111650340864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/F5m2mx4a8AA38S_.jpg",
+        "width": 982
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1700591111650340864"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "1700591114875785481",
+        "created_at": "2023-09-09T19:24:51.000Z",
+        "edit_controls": {
+          "editable_until": "2023-09-09T20:24:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1700591114875785481"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 140,
+              "start": 137,
+              "tag": "文援"
+            },
+            {
+              "end": 144,
+              "start": 141,
+              "tag": "压榨"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/b55pmeEAmO",
+              "end": 168,
+              "expanded_url": "https://x.com/xuemingjiai/status/1700591114875785481/photo/1",
+              "media_key": "3_1700591111650340864",
+              "start": 145,
+              "url": "https://t.co/b55pmeEAmO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1700591114875785481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3485,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "好无聊啊，为什么不可以让世界上所有的男性贱狗24小时都在工作呢？\n傻逼贱畜凭什么睡觉啊?\n天天工作努力赚钱再被女孩子随随便便的勾走魂魄心甘情愿的卖命卖血不好吗？\n这个社会对你们这些男性贱狗也未免太过好心了吧，成年之后就应该发挥自己的社会价值了，挨个给女性磕头道歉交税吐钱🖤\n#文援 #压榨 https://t.co/b55pmeEAmO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n最最最最喜欢钱包们啦!\n天天挨骂真的不会腻嘛～\n擅长用爱意和温柔的语气俘虏钱包～\n联系方式→242184780←\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 77,
+                "username": "oricz233"
+              },
+              {
+                "end": 106,
+                "start": 97,
+                "username": "moelipoi"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "cutelingli"
+              },
+              {
+                "end": 146,
+                "start": 131,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 158,
+                "start": 151,
+                "username": "1xian1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍对钱包们最温柔最有好感版",
+        "pinned_tweet_id": "1976743806063063398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991861278688821248/oCQEPeIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7978,
+          "following_count": 336,
+          "like_count": 642,
+          "listed_count": 37,
+          "media_count": 760,
+          "tweet_count": 2339
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1887187887894270083",
+    "created_at": "2025-02-05T17:13:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-05T18:13:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887187887894270083"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1852926328963522560",
+          "start": 3,
+          "username": "oricz233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887187887894270083",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887183021599826109",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oricz233: 久违的深夜碎碎念～\n首先是现在越来越不喜欢接单这个说法啦，因为感觉自己越来越不像文援姬了ww（毕竟现在是天使偶像嘛）更希望大家是来主动白给的，想体验偶像的特殊服务的话 也请好好的排队预付定金购买周边支持哦，大概是这个想法～\n自我吐槽：真的不是越来越懒…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1887187887894270083].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1887187887894270083",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1887187887894270083"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1887183018764476421"
+          ]
+        },
+        "author_id": "1852926328963522560",
+        "conversation_id": "1887183021599826109",
+        "created_at": "2025-02-05T16:54:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-05T17:54:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887183021599826109"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bpsswCANrn",
+              "end": 166,
+              "expanded_url": "https://x.com/oricz233/status/1887183021599826109/photo/1",
+              "media_key": "3_1887183018764476421",
+              "start": 143,
+              "url": "https://t.co/bpsswCANrn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887183021599826109",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "久违的深夜碎碎念～\n首先是现在越来越不喜欢接单这个说法啦，因为感觉自己越来越不像文援姬了ww（毕竟现在是天使偶像嘛）更希望大家是来主动白给的，想体验偶像的特殊服务的话 也请好好的排队预付定金购买周边支持哦，大概是这个想法～\n自我吐槽：真的不是越来越懒了吗？\n已经被小雏男粉丝们养懒了💚 https://t.co/bpsswCANrn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "您好～这里是出道以来一直致力于为小雏男哥哥们提供“舒适”“安全”“极致射金体验”的纯真妹系小天使魔女妹妹💚\n想了解我请翻看我的推文～\nqq2829556413，碎碎念小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 85,
+                "username": "oricz233"
+              },
+              {
+                "end": 114,
+                "start": 105,
+                "username": "moelipoi"
+              },
+              {
+                "end": 132,
+                "start": 121,
+                "username": "cutelingli"
+              },
+              {
+                "end": 154,
+                "start": 139,
+                "username": "chessy80978858"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系天使偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886796775446700032/CBetvufN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6417,
+          "following_count": 251,
+          "like_count": 291,
+          "listed_count": 29,
+          "media_count": 543,
+          "tweet_count": 1514
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-03T04:10:46.000Z",
+        "description": "嗯 如你所见这就是魔女妹妹@xuemingjiai 的树洞发泄 特殊更新的多功能用小号哦\n不喜欢我的人请从我的视线里消失～\n只想对无条件喜欢我的人好～\n家宝贝@qilicc\n最可爱的哥哥！@goldropp ← 都应该去看看",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 13,
+                "username": "xuemingjiai"
+              },
+              {
+                "end": 86,
+                "start": 79,
+                "username": "qilicc"
+              },
+              {
+                "end": 103,
+                "start": 94,
+                "username": "goldropp"
+              }
+            ]
+          }
+        },
+        "id": "1852926328963522560",
+        "name": "魔女妹妹（里世界版）病毒侵入持续更新中",
+        "pinned_tweet_id": "1853194086540509649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887177609534185478/Vh-WLqvg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 937,
+          "following_count": 6,
+          "like_count": 7,
+          "listed_count": 2,
+          "media_count": 54,
+          "tweet_count": 85
+        },
+        "username": "oricz233",
+        "verified": false
+      }
+    ]
+  }
+}

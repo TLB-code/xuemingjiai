@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1872339600875901146",
+    "created_at": "2024-12-26T17:52:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-26T18:52:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1872339600875901146"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1872336055451697152",
+          "start": 3,
+          "username": "riemoepoi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1872339600875901146",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872338806596395029",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @riemoepoi: 没用的废物杂鱼肉虫～🖤你们这群贱畜居然为了这种事情贡出自己的钱包~🖤一边舔着偶像尊贵的鞋底一边撸着你那根废物早泄鸡巴~像你这种早泄傻逼这辈子也只配跟鞋底做爱吧~🖤被偶像盯着流出忍耐汁~🖤只配被鞋底折磨的早泄出来后当成垃圾一样踢走吧~🖤 https:…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "1872339600875901146",
+        "created_at": "2024-12-26T17:52:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-26T18:52:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872339600875901146"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1872336055451697152",
+              "start": 3,
+              "username": "riemoepoi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872339600875901146",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872338806596395029",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @riemoepoi: 没用的废物杂鱼肉虫～🖤你们这群贱畜居然为了这种事情贡出自己的钱包~🖤一边舔着偶像尊贵的鞋底一边撸着你那根废物早泄鸡巴~像你这种早泄傻逼这辈子也只配跟鞋底做爱吧~🖤被偶像盯着流出忍耐汁~🖤只配被鞋底折磨的早泄出来后当成垃圾一样踢走吧~🖤 https:…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1872338798744674304"
+          ]
+        },
+        "author_id": "1872336055451697152",
+        "conversation_id": "1872338806596395029",
+        "created_at": "2024-12-26T17:48:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-26T18:48:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1872338806596395029"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JwUCcKXW3M",
+              "end": 141,
+              "expanded_url": "https://x.com/riemoepoi/status/1872338806596395029/photo/1",
+              "media_key": "3_1872338798744674304",
+              "start": 118,
+              "url": "https://t.co/JwUCcKXW3M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872338806596395029",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "没用的废物杂鱼肉虫～🖤你们这群贱畜居然为了这种事情贡出自己的钱包~🖤一边舔着偶像尊贵的鞋底一边撸着你那根废物早泄鸡巴~像你这种早泄傻逼这辈子也只配跟鞋底做爱吧~🖤被偶像盯着流出忍耐汁~🖤只配被鞋底折磨的早泄出来后当成垃圾一样踢走吧~🖤 https://t.co/JwUCcKXW3M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "您好～这里是出道以来一直致力于为小雏男哥哥们提供“舒适”“安全”“极致快感”的纯真妹系小天使魔女妹妹💚\n想了解我请翻看我的推文～\nqq2829556413，碎碎念小号@oricz233\n共同出道的偶像老婆：@moeliQWQ\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 83,
+                "username": "oricz233"
+              },
+              {
+                "end": 112,
+                "start": 103,
+                "username": "moeliQWQ"
+              },
+              {
+                "end": 130,
+                "start": 119,
+                "username": "cutelingli"
+              },
+              {
+                "end": 152,
+                "start": 137,
+                "username": "chessy80978858"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系天使偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871531149056696320/X1dzrRoR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6229,
+          "following_count": 242,
+          "like_count": 269,
+          "listed_count": 26,
+          "media_count": 522,
+          "tweet_count": 1432
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-26T17:38:08.000Z",
+        "description": "因被卷入异世界被迫转生的超绝可爱偶像大小姐璃喵喵参上~♡⁠点击媒体看所有推文哦~♡⁠爱好是将粉丝们踩在足底洗脑~♡⁠全天营业~⁠门牌号：1912443435 那么上门来给偶像璃酱舔脚怎么样～ 最爱的老婆：@xuemingjiai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 102,
+                "username": "xuemingjiai"
+              }
+            ]
+          }
+        },
+        "id": "1872336055451697152",
+        "name": "璃喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872336210380959744/XzBXt9Vs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 3,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 1
+        },
+        "username": "riemoepoi",
+        "verified": false
+      }
+    ]
+  }
+}

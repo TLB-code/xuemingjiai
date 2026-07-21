@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1870801546575012184",
+    "created_at": "2024-12-22T12:00:21.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-22T13:00:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1870801546575012184"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1855050411830591488",
+          "start": 3,
+          "username": "tiannimiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1870801546575012184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1870310626847039735",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tiannimiao: 今天是冬至～希望大家都可以开心喵！❤️\n甜腻酱给大家准备了一份特别的冬至限定任务～售价为13.14～\n希望有需要的小雏男可以通过甜腻的任务～过一个快乐的冬至～\n另外大家不要忘记吃羊肉和饺子哦\n❤️❤️❤️ https://t.co/tl45Zv5…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1870801546575012184].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1870801546575012184",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1870801546575012184"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1870310619314040832"
+          ]
+        },
+        "author_id": "1855050411830591488",
+        "conversation_id": "1870310626847039735",
+        "created_at": "2024-12-21T03:29:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-21T04:29:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1870310626847039735"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tl45Zv5RyI",
+              "end": 126,
+              "expanded_url": "https://x.com/tiannimiao/status/1870310626847039735/photo/1",
+              "media_key": "3_1870310619314040832",
+              "start": 103,
+              "url": "https://t.co/tl45Zv5RyI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1870310626847039735",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1736,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "今天是冬至～希望大家都可以开心喵！❤️\n甜腻酱给大家准备了一份特别的冬至限定任务～售价为13.14～\n希望有需要的小雏男可以通过甜腻的任务～过一个快乐的冬至～\n另外大家不要忘记吃羊肉和饺子哦\n❤️❤️❤️ https://t.co/tl45Zv5RyI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "您好～这里是出道以来一直致力于为小雏男哥哥们提供“舒适”“安全”“极致快感”的纯真妹系小天使魔女妹妹💚\n想了解我请翻看我的推文～\nqq2829556413，碎碎念小号@oricz233\n共同出道的偶像老婆：@moeliQWQ\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 83,
+                "username": "oricz233"
+              },
+              {
+                "end": 112,
+                "start": 103,
+                "username": "moeliQWQ"
+              },
+              {
+                "end": 130,
+                "start": 119,
+                "username": "cutelingli"
+              },
+              {
+                "end": 152,
+                "start": 137,
+                "username": "chessy80978858"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系天使偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868371538053091328/WDeV3GGD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6213,
+          "following_count": 240,
+          "like_count": 258,
+          "listed_count": 26,
+          "media_count": 521,
+          "tweet_count": 1422
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-09T00:51:14.000Z",
+        "description": "这里是甜腻酱～是某退役文援姬的任务发布系统～喜好是给听话的小m发布羞耻涩情任务～目前随机任务5.2金币～根据性癖定制任务9.9金币❤️门槛10金币～（可以用来抵扣任务）门牌号3868524342，有空的话可闲聊，不涉三～",
+        "id": "1855050411830591488",
+        "name": "甜腻酱",
+        "pinned_tweet_id": "1855566145350504710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855050575643336704/hcQ920vW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 413,
+          "following_count": 16,
+          "like_count": 12,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 27
+        },
+        "username": "tiannimiao",
+        "verified": false
+      }
+    ]
+  }
+}

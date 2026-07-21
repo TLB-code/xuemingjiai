@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1927107505924051315",
+    "created_at": "2025-05-26T21:00:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-26T22:00:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927107505924051315"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 115,
+          "start": 112,
+          "tag": "调教"
+        },
+        {
+          "end": 120,
+          "start": 116,
+          "tag": "奴下奴"
+        },
+        {
+          "end": 124,
+          "start": 121,
+          "tag": "内射"
+        },
+        {
+          "end": 128,
+          "start": 125,
+          "tag": "后入"
+        },
+        {
+          "end": 132,
+          "start": 129,
+          "tag": "sm"
+        },
+        {
+          "end": 137,
+          "start": 133,
+          "tag": "atm"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1521448514060001281",
+          "start": 3,
+          "username": "realkboffical"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927107505924051315",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 29
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926573867738292453",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @realkboffical: 带锁多久了啊绿帽废物🖤是不是感觉小鸡巴不用四处乱晃之后整个人发情都从头到脚颤抖啊🖤还会自己主动顶锁了吗～看着主人两腿之间流出来的还不自己凑过来舔干净～上面吸一口下面喷出一次骚水哦傻逼🖤\n#调教 #奴下奴 #内射 #后入 #sm #atm #…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1927107505924051315].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1927107505924051315",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1927107505924051315"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1926573846263406592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GryQtKwWoAAnDdk.jpg",
+        "width": 1462
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1926573846263406592"
+          ]
+        },
+        "author_id": "1521448514060001281",
+        "conversation_id": "1926573867738292453",
+        "created_at": "2025-05-25T09:39:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-25T10:39:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926573867738292453"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 96,
+              "start": 93,
+              "tag": "调教"
+            },
+            {
+              "end": 101,
+              "start": 97,
+              "tag": "奴下奴"
+            },
+            {
+              "end": 105,
+              "start": 102,
+              "tag": "内射"
+            },
+            {
+              "end": 109,
+              "start": 106,
+              "tag": "后入"
+            },
+            {
+              "end": 113,
+              "start": 110,
+              "tag": "sm"
+            },
+            {
+              "end": 118,
+              "start": 114,
+              "tag": "atm"
+            },
+            {
+              "end": 122,
+              "start": 119,
+              "tag": "贡奴"
+            },
+            {
+              "end": 126,
+              "start": 123,
+              "tag": "盯射"
+            },
+            {
+              "end": 130,
+              "start": 127,
+              "tag": "榨精"
+            },
+            {
+              "end": 134,
+              "start": 131,
+              "tag": "4i"
+            },
+            {
+              "end": 139,
+              "start": 135,
+              "tag": "绿帽奴"
+            },
+            {
+              "end": 144,
+              "start": 140,
+              "tag": "bbc"
+            },
+            {
+              "end": 149,
+              "start": 145,
+              "tag": "qos"
+            },
+            {
+              "end": 153,
+              "start": 150,
+              "tag": "女王"
+            },
+            {
+              "end": 157,
+              "start": 154,
+              "tag": "足交"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XTLYoYGhDC",
+              "end": 181,
+              "expanded_url": "https://x.com/realkboffical/status/1926573867738292453/photo/1",
+              "media_key": "3_1926573846263406592",
+              "start": 158,
+              "url": "https://t.co/XTLYoYGhDC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926573867738292453",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 8993,
+          "like_count": 105,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "带锁多久了啊绿帽废物🖤是不是感觉小鸡巴不用四处乱晃之后整个人发情都从头到脚颤抖啊🖤还会自己主动顶锁了吗～看着主人两腿之间流出来的还不自己凑过来舔干净～上面吸一口下面喷出一次骚水哦傻逼🖤\n#调教 #奴下奴 #内射 #后入 #sm #atm #贡奴 #盯射 #榨精 #4i #绿帽奴 #bbc #qos #女王 #足交 https://t.co/XTLYoYGhDC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "集美貌，智慧，强大于一身的魔女族公主现身人世～区区人类，跪下向我表示臣服吧💜\n被我支配 控制 吸脑 成为奴仆💜\n挑战qq242184780，里世界小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858\n女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "oricz233"
+              },
+              {
+                "end": 104,
+                "start": 95,
+                "username": "moelipoi"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "cutelingli"
+              },
+              {
+                "end": 144,
+                "start": 129,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 155,
+                "start": 148,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏💜强势登场人间",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926028406774247424/hWplRg7q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7009,
+          "following_count": 289,
+          "like_count": 322,
+          "listed_count": 32,
+          "media_count": 619,
+          "tweet_count": 1846
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-03T11:16:26.000Z",
+        "description": "能娇会榨sm全能的姬姬门：297795464\n文:有剧情35/30min，剧情自带\n无剧情45/30min，1h统一70\n其它价目更新见置顶",
+        "id": "1521448514060001281",
+        "location": "天津，线下调教，面交面贡等过私人🚪后解锁",
+        "name": "姬姬·视频原味可定制（主页置顶更新价目）",
+        "pinned_tweet_id": "1926573867738292453",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843823422981173248/C3VljVg-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12063,
+          "following_count": 143,
+          "like_count": 433,
+          "listed_count": 51,
+          "media_count": 378,
+          "tweet_count": 9381
+        },
+        "username": "realkboffical",
+        "verified": false
+      }
+    ]
+  }
+}

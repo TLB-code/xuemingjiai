@@ -1,0 +1,172 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1813643872809177479",
+    "created_at": "2024-07-17T18:36:09.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-17T19:36:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1813643872809177479"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1729845264092155904",
+          "start": 3,
+          "username": "ailisiyaosil"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1813643872809177479",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1813402262942765466",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ailisiyaosil: 这是某个贡号上瘾的傻逼再被彻底吸走一切前留下的最后记录呢🖤被爱丽丝的臭脚病毒寄生大脑🖤为了能被萝莉妈妈的酸臭汗脚爆熏脑子🖤把所有的社交账号～包括支付宝都上贡给爱丽丝了哦🖤清空所有余额就是想要人家吸走他的一切呢🖤现在连这个傻逼同意都不要就可以提…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1813643872809177479].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1813643872809177479",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1813643872809177479"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1813402246899507201",
+            "3_1813402255233527808",
+            "3_1813402259985780736"
+          ]
+        },
+        "author_id": "1729845264092155904",
+        "conversation_id": "1813402262942765466",
+        "created_at": "2024-07-17T02:36:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-17T03:36:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1813402262942765466"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/e1qEQeWMi8",
+              "end": 164,
+              "expanded_url": "https://twitter.com/ailisiyaosil/status/1813402262942765466/photo/1",
+              "media_key": "3_1813402246899507201",
+              "start": 141,
+              "url": "https://t.co/e1qEQeWMi8"
+            },
+            {
+              "display_url": "pic.twitter.com/e1qEQeWMi8",
+              "end": 164,
+              "expanded_url": "https://twitter.com/ailisiyaosil/status/1813402262942765466/photo/1",
+              "media_key": "3_1813402255233527808",
+              "start": 141,
+              "url": "https://t.co/e1qEQeWMi8"
+            },
+            {
+              "display_url": "pic.twitter.com/e1qEQeWMi8",
+              "end": 164,
+              "expanded_url": "https://twitter.com/ailisiyaosil/status/1813402262942765466/photo/1",
+              "media_key": "3_1813402259985780736",
+              "start": 141,
+              "url": "https://t.co/e1qEQeWMi8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1813402262942765466",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1251,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "这是某个贡号上瘾的傻逼再被彻底吸走一切前留下的最后记录呢🖤被爱丽丝的臭脚病毒寄生大脑🖤为了能被萝莉妈妈的酸臭汗脚爆熏脑子🖤把所有的社交账号～包括支付宝都上贡给爱丽丝了哦🖤清空所有余额就是想要人家吸走他的一切呢🖤现在连这个傻逼同意都不要就可以提款了哦🖤现在臭脚病毒寄生服务限时开发🖤 https://t.co/e1qEQeWMi8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "超绝可爱💖\n她就是出道即巅峰的可爱纯真小天使新人偶像魔女小姐💖\n任何人都会被她散发出的魅力所捕获，对这样的魔女小姐不能心怀任何涩涩的念想哦，不然就会变得非常糟糕...踏入无法挣脱的陷阱和牢笼里呢💘\n魔女小姐无论说什么做什么都是正确的哦，身为她的粉丝，只需要无条件用各种方式支持她就好了～\nqq2829556413",
+        "id": "1374389254726455305",
+        "name": "电波系新人偶像💖魔女小姐参上（复活版）",
+        "pinned_tweet_id": "1804570562511126828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811861833260675072/2j4B4ED0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4998,
+          "following_count": 167,
+          "like_count": 147,
+          "listed_count": 22,
+          "tweet_count": 1003
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-29T12:50:32.000Z",
+        "description": "这里是喜欢用酸汗臭脚和湿热肥臀爆熏各位傻逼老师的爱丽丝哦🖤偷窥撸废物鸡巴的白痴贱狗们不用犹豫哦🖤门牌号：3841634030 快来送死吧～～🖤门槛10🖤傻逼翻倍哦🖤白给倒贴的傻逼有特殊待遇🖤40/30min 70/1h会把各位老师洗脑成喜欢对着爱丽丝发情的贱畜呢🖤@loliii0511 傻逼贡畜一只",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 132,
+                "username": "loliii0511"
+              }
+            ]
+          }
+        },
+        "id": "1729845264092155904",
+        "location": "老师的心里",
+        "name": "爱丽丝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1729845824505683968/fSs9gnzJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 988,
+          "following_count": 58,
+          "like_count": 390,
+          "listed_count": 4,
+          "tweet_count": 344
+        },
+        "username": "ailisiyaosil",
+        "verified": false
+      }
+    ]
+  }
+}

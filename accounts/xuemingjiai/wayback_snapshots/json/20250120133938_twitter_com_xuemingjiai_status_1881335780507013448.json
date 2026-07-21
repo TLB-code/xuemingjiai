@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1881335780507013448",
+    "created_at": "2025-01-20T13:39:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-20T14:39:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1881335780507013448"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "532280267",
+          "start": 3,
+          "username": "cmweidman"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881335780507013448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 83
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880081410524082375",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cmweidman: 5000fo感谢抽奖！💕\n\n一定要关转评！❤️\n一定要关转评！❤️\n一定要关转评！❤️\n\n🥇特别粉丝服务0.5h（200可折100）\n🥈普通文援服务1h （60可折30）\n🥉普通文援服务0.5h（30可折15）\n\n粉丝达到6000时在评论区开抽～谢…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1881335780507013448].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1881335780507013448",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1881335780507013448"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1880080247049318401"
+          ]
+        },
+        "author_id": "532280267",
+        "conversation_id": "1880081410524082375",
+        "created_at": "2025-01-17T02:35:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T03:35:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880081410524082375"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ioM9QBMJuu",
+              "end": 155,
+              "expanded_url": "https://x.com/cmweidman/status/1880081410524082375/photo/1",
+              "media_key": "3_1880080247049318401",
+              "start": 132,
+              "url": "https://t.co/ioM9QBMJuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880081410524082375",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 14144,
+          "like_count": 84,
+          "quote_count": 0,
+          "reply_count": 66,
+          "retweet_count": 83
+        },
+        "reply_settings": "everyone",
+        "text": "5000fo感谢抽奖！💕\n\n一定要关转评！❤️\n一定要关转评！❤️\n一定要关转评！❤️\n\n🥇特别粉丝服务0.5h（200可折100）\n🥈普通文援服务1h （60可折30）\n🥉普通文援服务0.5h（30可折15）\n\n粉丝达到6000时在评论区开抽～谢谢大家啦🖤🖤🖤 https://t.co/ioM9QBMJuu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "您好～这里是出道以来一直致力于为小雏男哥哥们提供“舒适”“安全”“极致快感”的纯真妹系小天使魔女妹妹💚\n想了解我请翻看我的推文～\nqq2829556413，碎碎念小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 83,
+                "username": "oricz233"
+              },
+              {
+                "end": 112,
+                "start": 103,
+                "username": "moelipoi"
+              },
+              {
+                "end": 130,
+                "start": 119,
+                "username": "cutelingli"
+              },
+              {
+                "end": 152,
+                "start": 137,
+                "username": "chessy80978858"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系天使偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878142670054604800/aZFysFDs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6321,
+          "following_count": 251,
+          "like_count": 285,
+          "listed_count": 29,
+          "media_count": 532,
+          "tweet_count": 1477
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2012-03-21T14:41:16.000Z",
+        "description": "正在改造储臭罐的长靴女爹🖤擅用丝足极致的淫臭榨干一切媚雌傻逼的价值🖤爆耍处男主动送死肉棒的同时将靴臭强行灌脑并改造为极度恋足的丧脑垃圾🖤——贪婪 拜金 且胃口很大～💕\n文调❤️┃丝足🖤┃绿龟💚┃气味💛┃爆耍💜┃寸止💙┃贡金🧡\n30r/0.5h 🚪2757411931\n喜欢有礼貌的男孩子💕 #文爱",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 148,
+                "start": 145,
+                "tag": "文爱"
+              }
+            ]
+          }
+        },
+        "id": "532280267",
+        "location": "和你有关系吗？",
+        "name": "💕祭月Sama（淫足爆熏中🖤）",
+        "pinned_tweet_id": "1880081410524082375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821887105301110784/Coum-iF__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5044,
+          "following_count": 34,
+          "like_count": 34,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 208
+        },
+        "username": "cmweidman",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1922246748375847221",
+    "created_at": "2025-05-13T11:18:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-13T12:18:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922250150824546581"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1922250150824546581",
+    "in_reply_to_user_id": "1374389254726455305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922246748375847221",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "今晚通宵都在哦w，欢迎虫子们来挑战（送死）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1168,
+        "media_key": "3_1922246735637708800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gq0xOLhXAAAPGFE.jpg",
+        "width": 728
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "1922246748375847221",
+        "created_at": "2025-05-13T11:18:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T12:18:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922250150824546581"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1922250150824546581",
+        "in_reply_to_user_id": "1374389254726455305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922246748375847221",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今晚通宵都在哦w，欢迎虫子们来挑战（送死）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1922246735637708800"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "1922246748375847221",
+        "created_at": "2025-05-13T11:05:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T12:05:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922246748375847221"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D67jpisMXt",
+              "end": 165,
+              "expanded_url": "https://x.com/xuemingjiai/status/1922246748375847221/photo/1",
+              "media_key": "3_1922246735637708800",
+              "start": 142,
+              "url": "https://t.co/D67jpisMXt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922246748375847221",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "哟～沙滩上很多人嘛，怎么本公主一出现就目不转睛的盯着看呢？\n哎～毕竟弱小丑陋的人类女性根本比不上本公主高贵完美的酮体呢♪\n喂，我说，那边的虫子，你没看见其他虫子在看见本公主以后都毕恭毕敬的跪在地上把脸贴在地上等待本公主践踏掠夺吗？\n现在，立刻下跪，头不许高过我的凉鞋，勃起认输投降💜 https://t.co/D67jpisMXt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "集美貌，智慧，强大于一身的魔女族公主现身人世～区区人类，跪下向我表示臣服吧💜\n被我支配 控制 吸脑 成为奴仆💜\n挑战qq242184780，里世界小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858\n女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "oricz233"
+              },
+              {
+                "end": 104,
+                "start": 95,
+                "username": "moelipoi"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "cutelingli"
+              },
+              {
+                "end": 144,
+                "start": 129,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 155,
+                "start": 148,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏💜强势登场人间",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922178521235128320/5seow5Nb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6836,
+          "following_count": 280,
+          "like_count": 309,
+          "listed_count": 30,
+          "media_count": 597,
+          "tweet_count": 1762
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

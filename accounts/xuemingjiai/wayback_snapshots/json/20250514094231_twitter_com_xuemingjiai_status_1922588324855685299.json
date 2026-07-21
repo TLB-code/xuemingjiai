@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1922588324855685299",
+    "created_at": "2025-05-14T09:42:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-14T10:42:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922588324855685299"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1288837401335328768",
+          "start": 3,
+          "username": "YuSama_Uknwdy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922588324855685299",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922581988394889388",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YuSama_Uknwdy: 软屌肉虫又忍不住想勃起了吗💚不可以的哦~作为一个下贱的锁畜废物肉虫不应该再有勃起和【用手自慰】的资格了哦💚只能让自己的废物龟头肉虫~顶着锁孔让自己漏液滑精看着自己白浊的精水像个母狗婊子一样漏出~拧转着乳头也开始有感觉开始兴奋的发出母狗淫叫进…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1922588324855685299].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1922588324855685299",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1922588324855685299"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29320,
+        "height": 488,
+        "media_key": "13_1922578714543730688",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1922578714543730688/img/RI3dLYH8xBo88tof.jpg",
+        "public_metrics": {
+          "view_count": 58
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1922578714543730688/vid/avc1/320x488/I_hQAENeZIl7Mino.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1922578714543730688/pl/KQqREZGwnUTHRGA_.m3u8"
+          }
+        ],
+        "width": 320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1922578714543730688"
+          ]
+        },
+        "author_id": "1288837401335328768",
+        "conversation_id": "1922581988394889388",
+        "created_at": "2025-05-14T09:17:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T10:17:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1922581988394889388"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 128,
+              "start": 125,
+              "tag": "雌堕"
+            },
+            {
+              "end": 132,
+              "start": 129,
+              "tag": "女s"
+            },
+            {
+              "end": 136,
+              "start": 133,
+              "tag": "羞辱"
+            },
+            {
+              "end": 140,
+              "start": 137,
+              "tag": "接单"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uS5KPJ1EUo",
+              "end": 164,
+              "expanded_url": "https://x.com/YuSama_Uknwdy/status/1922581988394889388/video/1",
+              "media_key": "13_1922578714543730688",
+              "start": 141,
+              "url": "https://t.co/uS5KPJ1EUo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922581988394889388",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 226,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "软屌肉虫又忍不住想勃起了吗💚不可以的哦~作为一个下贱的锁畜废物肉虫不应该再有勃起和【用手自慰】的资格了哦💚只能让自己的废物龟头肉虫~顶着锁孔让自己漏液滑精看着自己白浊的精水像个母狗婊子一样漏出~拧转着乳头也开始有感觉开始兴奋的发出母狗淫叫进行高潮💚\n#雌堕 #女s #羞辱 #接单 https://t.co/uS5KPJ1EUo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "集美貌，智慧，强大于一身的魔女族公主现身人世～区区人类，跪下向我表示臣服吧💜\n被我支配 控制 吸脑 成为奴仆💜\n挑战qq242184780，里世界小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858\n女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "oricz233"
+              },
+              {
+                "end": 104,
+                "start": 95,
+                "username": "moelipoi"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "cutelingli"
+              },
+              {
+                "end": 144,
+                "start": 129,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 155,
+                "start": 148,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏💜强势登场人间",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922178521235128320/5seow5Nb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6850,
+          "following_count": 280,
+          "like_count": 309,
+          "listed_count": 30,
+          "media_count": 598,
+          "tweet_count": 1769
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-30T14:02:47.000Z",
+        "description": "超绝文媛🩷 喜欢垃圾变态的小傻逼🩷  榨取每个雏男的脑子🩷精液🩷钱包🩷请将这些全部上贡给昱昱吧🩷 营业时间几乎为全天哦💚丨语音验证20💚丨门槛20r可抵扣丨 傻逼不用再偷窥了赶紧夹着你的烂裆来敲门💚 门牌：3451423909 肉便器妈妈：@Linyouyi013亲妈：@molijiushiruci1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 120,
+                "username": "Linyouyi013"
+              },
+              {
+                "end": 151,
+                "start": 135,
+                "username": "molijiushiruci1"
+              }
+            ]
+          }
+        },
+        "id": "1288837401335328768",
+        "name": "昱昱SexLove_超绝接单版♪💘",
+        "pinned_tweet_id": "1921487172227473735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868234032787660800/l2vV4GJA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15549,
+          "following_count": 259,
+          "like_count": 681,
+          "listed_count": 72,
+          "media_count": 162,
+          "tweet_count": 1864
+        },
+        "username": "YuSama_Uknwdy",
+        "verified": true
+      }
+    ]
+  }
+}

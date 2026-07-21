@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1930650420164362357",
+    "created_at": "2025-06-05T15:38:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-05T16:38:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930650420164362357"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1629314139238830080",
+          "start": 3,
+          "username": "LLchao_H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930650420164362357",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930533387552612852",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LLchao_H: 和新认识的男人从宾馆出来，发现有熟人在角落接客…自己便向男人介绍\n\n“这两位是我学生时期的恋人，因为过于爱我…甚至奉献出了自己的人生，明明是情敌现在竟冰释前嫌变成卖淫的好姐妹了，真和谐呀，刚刚开房的钱也是它们努力的结果来着，我们会努力的挥霍…你们也要…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1930650420164362357].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1930650420164362357",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1930650420164362357"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1930533383618396160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gsqh4k2bgAAoFuL.jpg",
+        "width": 901
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930533383618396160"
+          ]
+        },
+        "author_id": "1629314139238830080",
+        "conversation_id": "1930533387552612852",
+        "created_at": "2025-06-05T07:53:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T08:53:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930533387552612852"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 140,
+              "start": 137,
+              "tag": "文援"
+            },
+            {
+              "end": 144,
+              "start": 141,
+              "tag": "雌堕"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hO4g5PnmD3",
+              "end": 168,
+              "expanded_url": "https://x.com/LLchao_H/status/1930533387552612852/photo/1",
+              "media_key": "3_1930533383618396160",
+              "start": 145,
+              "url": "https://t.co/hO4g5PnmD3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930533387552612852",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2616,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "和新认识的男人从宾馆出来，发现有熟人在角落接客…自己便向男人介绍\n\n“这两位是我学生时期的恋人，因为过于爱我…甚至奉献出了自己的人生，明明是情敌现在竟冰释前嫌变成卖淫的好姐妹了，真和谐呀，刚刚开房的钱也是它们努力的结果来着，我们会努力的挥霍…你们也要更加努力的卖淫哦，乖”\n#文援 #雌堕 https://t.co/hO4g5PnmD3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "集美貌，智慧，强大于一身的魔女族公主现身人世～区区人类，跪下向我表示臣服吧💜\n被我支配 控制 吸脑 成为奴仆💜\n挑战qq2829556413，里世界小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858\n女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 76,
+                "username": "oricz233"
+              },
+              {
+                "end": 105,
+                "start": 96,
+                "username": "moelipoi"
+              },
+              {
+                "end": 123,
+                "start": 112,
+                "username": "cutelingli"
+              },
+              {
+                "end": 145,
+                "start": 130,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 156,
+                "start": 149,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏💜散播同化病毒中～",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926028406774247424/hWplRg7q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7121,
+          "following_count": 297,
+          "like_count": 339,
+          "listed_count": 33,
+          "media_count": 648,
+          "tweet_count": 1922
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-25T02:55:42.000Z",
+        "description": "■我是痴女系的反差偶像♡洛璃。                                       \n■一位全天都会发情的yin乱偶像，日常把淫語掛在嘴邊的变态女，所以不要有所顾忌，自由自在的侵犯我\n           ✿  门槛13.14r/每小时66.66r 1573687158🐧",
+        "id": "1629314139238830080",
+        "location": "水龙敬公园",
+        "name": "超淫气偶像★洛离",
+        "pinned_tweet_id": "1765372199555543485",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1764272896841781248/gIluVtKm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8629,
+          "following_count": 522,
+          "like_count": 2433,
+          "listed_count": 52,
+          "media_count": 184,
+          "tweet_count": 4058
+        },
+        "username": "LLchao_H",
+        "verified": false
+      }
+    ]
+  }
+}

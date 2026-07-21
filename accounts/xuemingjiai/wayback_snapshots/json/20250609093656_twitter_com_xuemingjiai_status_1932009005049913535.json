@@ -1,0 +1,389 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1932009005049913535",
+    "created_at": "2025-06-09T09:36:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-09T10:36:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932009005049913535"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 130,
+          "start": 127,
+          "tag": "文游"
+        },
+        {
+          "end": 134,
+          "start": 131,
+          "tag": "恋足"
+        },
+        {
+          "end": 139,
+          "start": 135,
+          "tag": "奴下奴"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1752181716028936192",
+          "start": 3,
+          "username": "geye_zm"
+        },
+        {
+          "end": 54,
+          "id": "949604096507486209",
+          "start": 45,
+          "username": "Medicyli"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932009005049913535",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932007411524808833",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @geye_zm: 新游戏《压榨陷阱:沦为下属的二手商品》定价29\n购买游戏找客服\n@Medicyli\n作为公司的高管，被女下属下药后胁迫压榨最后一丝价值，最后转手卖给另一位女主人，这是新的深渊还是新的“天堂”？\n转发点赞后评论区抽5个人免费游玩\n#文游 #恋足 #奴下奴…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1932009005049913535].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1932009005049913535",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1932009005049913535"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 3200,
+        "media_key": "3_1932007395137576960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs_efVqaYAA0_79.jpg",
+        "width": 1440
+      },
+      {
+        "height": 3200,
+        "media_key": "3_1932007395133362176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs_efVpaEAAfg_W.jpg",
+        "width": 1440
+      },
+      {
+        "height": 3200,
+        "media_key": "3_1932007398652391424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs_efiwaMAA9Fhl.jpg",
+        "width": 1440
+      },
+      {
+        "height": 3200,
+        "media_key": "3_1932007400212660225",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs_efokaAAEWUFs.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932007395137576960",
+            "3_1932007395133362176",
+            "3_1932007398652391424",
+            "3_1932007400212660225"
+          ]
+        },
+        "author_id": "1752181716028936192",
+        "conversation_id": "1932007411524808833",
+        "created_at": "2025-06-09T09:30:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T10:30:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932007411524808833"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 117,
+              "start": 114,
+              "tag": "文游"
+            },
+            {
+              "end": 121,
+              "start": 118,
+              "tag": "恋足"
+            },
+            {
+              "end": 126,
+              "start": 122,
+              "tag": "奴下奴"
+            },
+            {
+              "end": 131,
+              "start": 128,
+              "tag": "女S"
+            },
+            {
+              "end": 135,
+              "start": 132,
+              "tag": "男m"
+            },
+            {
+              "end": 139,
+              "start": 136,
+              "tag": "羞辱"
+            },
+            {
+              "end": 143,
+              "start": 140,
+              "tag": "寸止"
+            },
+            {
+              "end": 147,
+              "start": 144,
+              "tag": "女王"
+            },
+            {
+              "end": 152,
+              "start": 148,
+              "tag": "高跟鞋"
+            },
+            {
+              "end": 156,
+              "start": 153,
+              "tag": "丝袜"
+            },
+            {
+              "end": 162,
+              "start": 157,
+              "tag": "杂鱼南风"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 41,
+              "id": "949604096507486209",
+              "start": 32,
+              "username": "Medicyli"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/m2cfHpJXh1",
+              "end": 186,
+              "expanded_url": "https://x.com/geye_zm/status/1932007411524808833/photo/1",
+              "media_key": "3_1932007395137576960",
+              "start": 163,
+              "url": "https://t.co/m2cfHpJXh1"
+            },
+            {
+              "display_url": "pic.x.com/m2cfHpJXh1",
+              "end": 186,
+              "expanded_url": "https://x.com/geye_zm/status/1932007411524808833/photo/1",
+              "media_key": "3_1932007395133362176",
+              "start": 163,
+              "url": "https://t.co/m2cfHpJXh1"
+            },
+            {
+              "display_url": "pic.x.com/m2cfHpJXh1",
+              "end": 186,
+              "expanded_url": "https://x.com/geye_zm/status/1932007411524808833/photo/1",
+              "media_key": "3_1932007398652391424",
+              "start": 163,
+              "url": "https://t.co/m2cfHpJXh1"
+            },
+            {
+              "display_url": "pic.x.com/m2cfHpJXh1",
+              "end": 186,
+              "expanded_url": "https://x.com/geye_zm/status/1932007411524808833/photo/1",
+              "media_key": "3_1932007400212660225",
+              "start": 163,
+              "url": "https://t.co/m2cfHpJXh1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932007411524808833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "新游戏《压榨陷阱:沦为下属的二手商品》定价29\n购买游戏找客服\n@Medicyli\n作为公司的高管，被女下属下药后胁迫压榨最后一丝价值，最后转手卖给另一位女主人，这是新的深渊还是新的“天堂”？\n转发点赞后评论区抽5个人免费游玩\n#文游 #恋足 #奴下奴  #女S #男m #羞辱 #寸止 #女王 #高跟鞋 #丝袜 #杂鱼南风 https://t.co/m2cfHpJXh1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n你也会因为窥视我的美貌而心甘情愿沦为钱包被我使用的对吗？\n钱包报名入口：242184780\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 66,
+                "username": "oricz233"
+              },
+              {
+                "end": 95,
+                "start": 86,
+                "username": "moelipoi"
+              },
+              {
+                "end": 113,
+                "start": 102,
+                "username": "cutelingli"
+              },
+              {
+                "end": 135,
+                "start": 120,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 147,
+                "start": 140,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍驯化公用钱包👛中",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931064828044713984/9qwnduVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7157,
+          "following_count": 302,
+          "like_count": 346,
+          "listed_count": 33,
+          "media_count": 664,
+          "tweet_count": 1978
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-30T04:07:37.000Z",
+        "description": "这里是葛叶真明，是游戏创作者，创作各类文游，内容涵盖寸止，窒息，辱骂，倒计时等等，欢迎各位同行扩列互推喵～\n买游戏找客服，客服主页有咱的历史推文以及文游\n客服:\n@Medicyli",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 81,
+                "username": "Medicyli"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+Zqurf7RUye42M…",
+                "end": 23,
+                "expanded_url": "https://t.me/+Zqurf7RUye42MzM1",
+                "start": 0,
+                "url": "https://t.co/MW0XxdoPce"
+              }
+            ]
+          }
+        },
+        "id": "1752181716028936192",
+        "location": "游戏作者",
+        "name": "葛叶真明",
+        "pinned_tweet_id": "1932007411524808833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928352522969960450/19TGklH6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8189,
+          "following_count": 134,
+          "like_count": 71,
+          "listed_count": 18,
+          "media_count": 59,
+          "tweet_count": 722
+        },
+        "url": "https://t.co/MW0XxdoPce",
+        "username": "geye_zm",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-06T11:30:34.000Z",
+        "description": "葛叶真明的专属客服，平时只有23点以后会上线，凌晨2点后大概率就在睡觉哩（但是其他时间看到了也会回复），有想给葛叶私聊又不好意思说的可以发给我，因为是自愿工作，所以平时的工资只有葛叶大人的辱骂 最有职业道德的老大:@geye_zm",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 107,
+                "username": "geye_zm"
+              }
+            ]
+          }
+        },
+        "id": "949604096507486209",
+        "location": "爱你",
+        "name": "Miluz",
+        "pinned_tweet_id": "1919071671224356927",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1545613386389393408/4jECHl7q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 174,
+          "like_count": 2779,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 108
+        },
+        "username": "Medicyli",
+        "verified": false
+      }
+    ]
+  }
+}

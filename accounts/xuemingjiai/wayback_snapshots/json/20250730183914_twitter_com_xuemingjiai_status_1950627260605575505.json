@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1950627260605575505",
+    "created_at": "2025-07-30T18:39:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T19:39:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950627260605575505"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1525455384290689026",
+          "start": 3,
+          "username": "Badgirl_Amie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950627260605575505",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950281911567585791",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Badgirl_Amie: 新的问卷💞\n入职申请~包括:马赛克 压榨 胁迫\n大概40+的问题~\n很想被色气的诱惑~把脑浆子都给喷出来~对不对宝宝💞\n售价:52R~[依旧是傻逼翻倍🖤]\n扫码加艾米即可获取哦~\n另胁迫问卷:25R 白痴冤种问卷:44R也在售卖中哦~ htt…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2140,
+        "media_key": "3_1950281907901800448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxDLD-xboAAuXVw.jpg",
+        "width": 1076
+      },
+      {
+        "height": 2140,
+        "media_key": "3_1950281907469799424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxDLD9Kb0AAGPjv.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1950281907104821248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxDLD7zasAAWchP.jpg",
+        "width": 922
+      },
+      {
+        "height": 1612,
+        "media_key": "3_1950281907180376064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxDLD8FbkAA0TZe.jpg",
+        "width": 1076
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "1950627260605575505",
+        "created_at": "2025-07-30T18:39:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T19:39:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950627260605575505"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1525455384290689026",
+              "start": 3,
+              "username": "Badgirl_Amie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950627260605575505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950281911567585791",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Badgirl_Amie: 新的问卷💞\n入职申请~包括:马赛克 压榨 胁迫\n大概40+的问题~\n很想被色气的诱惑~把脑浆子都给喷出来~对不对宝宝💞\n售价:52R~[依旧是傻逼翻倍🖤]\n扫码加艾米即可获取哦~\n另胁迫问卷:25R 白痴冤种问卷:44R也在售卖中哦~ htt…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950281907901800448",
+            "3_1950281907469799424",
+            "3_1950281907104821248",
+            "3_1950281907180376064"
+          ]
+        },
+        "author_id": "1525455384290689026",
+        "conversation_id": "1950281911567585791",
+        "created_at": "2025-07-29T19:46:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T20:46:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950281911567585791"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LjUbggBfZA",
+              "end": 141,
+              "expanded_url": "https://x.com/Badgirl_Amie/status/1950281911567585791/photo/1",
+              "media_key": "3_1950281907901800448",
+              "start": 118,
+              "url": "https://t.co/LjUbggBfZA"
+            },
+            {
+              "display_url": "pic.x.com/LjUbggBfZA",
+              "end": 141,
+              "expanded_url": "https://x.com/Badgirl_Amie/status/1950281911567585791/photo/1",
+              "media_key": "3_1950281907469799424",
+              "start": 118,
+              "url": "https://t.co/LjUbggBfZA"
+            },
+            {
+              "display_url": "pic.x.com/LjUbggBfZA",
+              "end": 141,
+              "expanded_url": "https://x.com/Badgirl_Amie/status/1950281911567585791/photo/1",
+              "media_key": "3_1950281907104821248",
+              "start": 118,
+              "url": "https://t.co/LjUbggBfZA"
+            },
+            {
+              "display_url": "pic.x.com/LjUbggBfZA",
+              "end": 141,
+              "expanded_url": "https://x.com/Badgirl_Amie/status/1950281911567585791/photo/1",
+              "media_key": "3_1950281907180376064",
+              "start": 118,
+              "url": "https://t.co/LjUbggBfZA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950281911567585791",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 5984,
+          "like_count": 48,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "新的问卷💞\n入职申请~包括:马赛克 压榨 胁迫\n大概40+的问题~\n很想被色气的诱惑~把脑浆子都给喷出来~对不对宝宝💞\n售价:52R~[依旧是傻逼翻倍🖤]\n扫码加艾米即可获取哦~\n另胁迫问卷:25R 白痴冤种问卷:44R也在售卖中哦~ https://t.co/LjUbggBfZA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n你也会因为窥视我的美貌而心甘情愿沦为钱包被我使用的对吗？\n钱包报名入口：3971546171\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 67,
+                "username": "oricz233"
+              },
+              {
+                "end": 96,
+                "start": 87,
+                "username": "moelipoi"
+              },
+              {
+                "end": 114,
+                "start": 103,
+                "username": "cutelingli"
+              },
+              {
+                "end": 136,
+                "start": 121,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 148,
+                "start": 141,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍大规模同化魔法展开中",
+        "pinned_tweet_id": "1945511067926536238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945176725190488064/8VBohPRs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7778,
+          "following_count": 328,
+          "like_count": 590,
+          "listed_count": 33,
+          "media_count": 716,
+          "tweet_count": 2195
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-14T12:38:09.000Z",
+        "description": "保养大脑/无底线/掏空钱包/高贵拜金💲会用下流色情的淫语~勾引傻逼处男清空钱包呢🖤联系方式:Q号被举报了搜不到~可以看以前推发的二维码~被提款都是你们这群冤种的义务🖤",
+        "id": "1525455384290689026",
+        "name": "艾米🖤",
+        "pinned_tweet_id": "1950281911567585791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1746620454444658688/DJax-Vzv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12778,
+          "following_count": 129,
+          "like_count": 140,
+          "listed_count": 36,
+          "media_count": 237,
+          "tweet_count": 407
+        },
+        "username": "Badgirl_Amie",
+        "verified": false
+      }
+    ]
+  }
+}

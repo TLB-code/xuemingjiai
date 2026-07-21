@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1884060375014072755",
+    "created_at": "2025-01-28T02:06:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-28T03:06:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884060375014072755"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1545077939510730752",
+          "start": 3,
+          "username": "molijiushiruci1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884060375014072755",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 63
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881737287085781165",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @molijiushiruci1: 今天～轮到贱狗主人服侍女仆大人的扶她肉棒了哦🖤\n\n哎呀呀，只是看见茉莉大人的扶她鸡巴就忍不住跪下了吗？真不愧是下贱媚屌的贱狗主人🖤\n\n毫无尊严的被自家女仆踩着脑袋强制爆肏～怼撞前列腺g点的时候，就已经彻彻底底的沦为扶她鸡巴的屌套奴隶了呢…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1884060375014072755].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1884060375014072755",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1884060375014072755"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1881737284170694657"
+          ]
+        },
+        "author_id": "1545077939510730752",
+        "conversation_id": "1881737287085781165",
+        "created_at": "2025-01-21T16:15:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-21T17:15:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1881737287085781165"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 141,
+              "start": 138,
+              "tag": "扶她"
+            },
+            {
+              "end": 147,
+              "start": 142,
+              "tag": "futa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uQRpYSeg7t",
+              "end": 171,
+              "expanded_url": "https://x.com/molijiushiruci1/status/1881737287085781165/photo/1",
+              "media_key": "3_1881737284170694657",
+              "start": 148,
+              "url": "https://t.co/uQRpYSeg7t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881737287085781165",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 18059,
+          "like_count": 203,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 63
+        },
+        "reply_settings": "everyone",
+        "text": "今天～轮到贱狗主人服侍女仆大人的扶她肉棒了哦🖤\n\n哎呀呀，只是看见茉莉大人的扶她鸡巴就忍不住跪下了吗？真不愧是下贱媚屌的贱狗主人🖤\n\n毫无尊严的被自家女仆踩着脑袋强制爆肏～怼撞前列腺g点的时候，就已经彻彻底底的沦为扶她鸡巴的屌套奴隶了呢🖤\n\n现在把脸埋进春袋里面吸臭～傻屄🖤\n#扶她 #futa https://t.co/uQRpYSeg7t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "您好～这里是出道以来一直致力于为小雏男哥哥们提供“舒适”“安全”“极致快感”的纯真妹系小天使魔女妹妹💚\n想了解我请翻看我的推文～\nqq2829556413，碎碎念小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 83,
+                "username": "oricz233"
+              },
+              {
+                "end": 112,
+                "start": 103,
+                "username": "moelipoi"
+              },
+              {
+                "end": 130,
+                "start": 119,
+                "username": "cutelingli"
+              },
+              {
+                "end": 152,
+                "start": 137,
+                "username": "chessy80978858"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系天使偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878142670054604800/aZFysFDs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6353,
+          "following_count": 252,
+          "like_count": 287,
+          "listed_count": 29,
+          "media_count": 537,
+          "tweet_count": 1491
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-07T16:11:11.000Z",
+        "description": "一个擅长气味调教与羞辱的扶她魅魔女仆🖤加咱的时候记的带20r门槛哦，门牌号https://t.co/kNKviCT2T9 或是见置顶推评论区\n点击偷窥茉莉私生活→@MaidmoliS",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 81,
+                "username": "MaidmoliS"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/moli_0312",
+                "end": 60,
+                "expanded_url": "http://t.me/moli_0312",
+                "start": 37,
+                "url": "https://t.co/kNKviCT2T9"
+              }
+            ]
+          }
+        },
+        "id": "1545077939510730752",
+        "location": "在你的心里~或是踩在你的脸上♡",
+        "name": "魅魔女仆🖤茉莉（随机营业中）",
+        "pinned_tweet_id": "1769765224091918487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878292043602219008/tyh6DTAf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12081,
+          "following_count": 386,
+          "like_count": 1677,
+          "listed_count": 32,
+          "media_count": 304,
+          "tweet_count": 4946
+        },
+        "username": "molijiushiruci1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1924461640160080198",
+    "created_at": "2025-05-19T13:46:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-19T14:46:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924461640160080198"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1521448514060001281",
+          "start": 3,
+          "username": "realkboffical"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924461640160080198",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924260684906287592",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @realkboffical: 对主页价格表进行了一个整理\n定制视频会按照具体要求和时长有满减\n视频库存会根据你的要求和时长按分钟定价\n当然了，对于某些钱包比蛋蛋还瘪的废物男m们，文的价格还是不变的哦🖤\nPS:此图中均为涉三部分内容，对应wx🚪88送验证，520后进阶福利…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 977,
+        "media_key": "3_1924260670285008896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrRY4muX0AA8KFZ.jpg",
+        "width": 1062
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "1924461640160080198",
+        "created_at": "2025-05-19T13:46:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T14:46:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924461640160080198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1521448514060001281",
+              "start": 3,
+              "username": "realkboffical"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924461640160080198",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924260684906287592",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @realkboffical: 对主页价格表进行了一个整理\n定制视频会按照具体要求和时长有满减\n视频库存会根据你的要求和时长按分钟定价\n当然了，对于某些钱包比蛋蛋还瘪的废物男m们，文的价格还是不变的哦🖤\nPS:此图中均为涉三部分内容，对应wx🚪88送验证，520后进阶福利…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1924260670285008896"
+          ]
+        },
+        "author_id": "1521448514060001281",
+        "conversation_id": "1924260684906287592",
+        "created_at": "2025-05-19T00:27:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T01:27:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1924260684906287592"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xWp9r5pir0",
+              "end": 149,
+              "expanded_url": "https://x.com/realkboffical/status/1924260684906287592/photo/1",
+              "media_key": "3_1924260670285008896",
+              "start": 126,
+              "url": "https://t.co/xWp9r5pir0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924260684906287592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2049,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "对主页价格表进行了一个整理\n定制视频会按照具体要求和时长有满减\n视频库存会根据你的要求和时长按分钟定价\n当然了，对于某些钱包比蛋蛋还瘪的废物男m们，文的价格还是不变的哦🖤\nPS:此图中均为涉三部分内容，对应wx🚪88送验证，520后进阶福利➕解锁线下 https://t.co/xWp9r5pir0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "集美貌，智慧，强大于一身的魔女族公主现身人世～区区人类，跪下向我表示臣服吧💜\n被我支配 控制 吸脑 成为奴仆💜\n挑战qq242184780，里世界小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858\n女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "oricz233"
+              },
+              {
+                "end": 104,
+                "start": 95,
+                "username": "moelipoi"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "cutelingli"
+              },
+              {
+                "end": 144,
+                "start": 129,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 155,
+                "start": 148,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏💜强势登场人间",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923161284247420929/dv1s2unV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6945,
+          "following_count": 286,
+          "like_count": 317,
+          "listed_count": 32,
+          "media_count": 613,
+          "tweet_count": 1820
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-03T11:16:26.000Z",
+        "description": "能娇会榨sm全能的姬姬门：297795464\n文:有剧情35/30min，剧情自带\n无剧情45/30min，1h统一70\n其它价目更新见置顶",
+        "id": "1521448514060001281",
+        "location": "天津，线下调教，面交面贡等过私人🚪后解锁",
+        "name": "姬姬·视频原味可定制（主页置顶更新价目）",
+        "pinned_tweet_id": "1924260684906287592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843823422981173248/C3VljVg-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11979,
+          "following_count": 142,
+          "like_count": 431,
+          "listed_count": 50,
+          "media_count": 376,
+          "tweet_count": 9301
+        },
+        "username": "realkboffical",
+        "verified": false
+      }
+    ]
+  }
+}

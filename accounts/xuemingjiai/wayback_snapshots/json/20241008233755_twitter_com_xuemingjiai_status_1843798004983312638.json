@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1843545348687695872"
+      ],
+      "media_source_tweet_id": [
+        "1843546016227979562"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "1843798004983312638",
+    "created_at": "2024-10-08T23:37:55.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-09T00:37:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1843798004983312638"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 22,
+          "start": 16,
+          "tag": "女仆的日常"
+        },
+        {
+          "end": 98,
+          "start": 93,
+          "tag": "atm奴"
+        },
+        {
+          "end": 102,
+          "start": 99,
+          "tag": "羞辱"
+        },
+        {
+          "end": 106,
+          "start": 103,
+          "tag": "压榨"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1780077769772396544",
+          "start": 3,
+          "username": "christ3400"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SaKfABtNcR",
+          "end": 130,
+          "expanded_url": "https://x.com/christ3400/status/1843546016227979562/photo/1",
+          "media_key": "3_1843545348687695872",
+          "start": 107,
+          "url": "https://t.co/SaKfABtNcR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1843798004983312638",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1843546016227979562",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @christ3400: #女仆的日常\n\n无论被莉音欺负多少次，凌虐多少次，踩着您的头扇多少个耳光，您都是那个莉音尊敬的“主人”哦，跪在莉音面前，让女仆好好服务您吧~傻逼东西🖤\n\n#atm奴 #羞辱 #压榨 https://t.co/SaKfABtNcR"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1843798004983312638].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1843798004983312638",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1843798004983312638"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1510,
+        "media_key": "3_1843545348687695872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GZWWuiPakAAszJr.jpg",
+        "width": 831
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1843545348687695872"
+          ]
+        },
+        "author_id": "1780077769772396544",
+        "conversation_id": "1843546016227979562",
+        "created_at": "2024-10-08T06:56:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-08T07:56:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1843546016227979562"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "女仆的日常"
+            },
+            {
+              "end": 82,
+              "start": 77,
+              "tag": "atm奴"
+            },
+            {
+              "end": 86,
+              "start": 83,
+              "tag": "羞辱"
+            },
+            {
+              "end": 90,
+              "start": 87,
+              "tag": "压榨"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SaKfABtNcR",
+              "end": 114,
+              "expanded_url": "https://x.com/christ3400/status/1843546016227979562/photo/1",
+              "media_key": "3_1843545348687695872",
+              "start": 91,
+              "url": "https://t.co/SaKfABtNcR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1843546016227979562",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1191,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "#女仆的日常\n\n无论被莉音欺负多少次，凌虐多少次，踩着您的头扇多少个耳光，您都是那个莉音尊敬的“主人”哦，跪在莉音面前，让女仆好好服务您吧~傻逼东西🖤\n\n#atm奴 #羞辱 #压榨 https://t.co/SaKfABtNcR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "超绝可爱💖\n她就是出道即巅峰的可爱纯真小天使新人偶像魔女小姐💖\n对这样的魔女小姐不能心怀任何涩涩的念想哦，不然就会变得非常糟糕...踏入无法挣脱的陷阱和牢笼里呢💘\n魔女小姐无论说什么做什么都是正确的哦，身为她的粉丝，只需要无条件用各种方式支持她就好了～\nqq2829556413",
+        "id": "1374389254726455305",
+        "name": "电波系新人偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1839039717712724125",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843797902491336704/2a0543Ul_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5433,
+          "following_count": 205,
+          "like_count": 159,
+          "listed_count": 23,
+          "tweet_count": 1128
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-16T03:36:42.000Z",
+        "description": "只为了夺走您的财产与精液，最恶劣的女仆\n请务必小心…不要为她奉上一切哦🖤\n欢迎造访女仆的足下~\n门牌号1604549690  🚪35  zfb 口令🧧 畜生翻倍\n如果您能跪着发送 女仆也许会很高兴哦",
+        "id": "1780077769772396544",
+        "location": "您的宅邸",
+        "name": "拜金女仆🖤莉音",
+        "pinned_tweet_id": "1824992447103189013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780077956515459072/dgk1kGJs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 722,
+          "following_count": 18,
+          "like_count": 250,
+          "listed_count": 1,
+          "tweet_count": 97
+        },
+        "username": "christ3400",
+        "verified": false
+      }
+    ]
+  }
+}

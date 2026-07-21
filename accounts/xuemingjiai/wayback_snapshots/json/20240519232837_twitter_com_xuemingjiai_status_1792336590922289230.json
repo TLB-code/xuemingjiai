@@ -1,0 +1,161 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1792336590922289230",
+    "created_at": "2024-05-19T23:28:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-20T00:28:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1792336590922289230"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1791683166304120832",
+          "start": 3,
+          "username": "zuixihuanmonv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1792336590922289230",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1792310288961950194",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zuixihuanmonv: 染色日记day1\n绿茶女仆诗琪酱的绿茶属性无时无刻都在散发出来，空间似乎会发布很多“钓鱼”的文案，把完全不知道真相的可爱小雏男们诱捕勾引骗进来宰呢💚\n加上好友以后的戳一戳也充满了绿茶的风味，要成为诗琪酱的主人.男友..老公..哥哥..或者是…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "1792336590922289230",
+        "created_at": "2024-05-19T23:28:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-20T00:28:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1792336590922289230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1791683166304120832",
+              "start": 3,
+              "username": "zuixihuanmonv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792336590922289230",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1792310288961950194",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zuixihuanmonv: 染色日记day1\n绿茶女仆诗琪酱的绿茶属性无时无刻都在散发出来，空间似乎会发布很多“钓鱼”的文案，把完全不知道真相的可爱小雏男们诱捕勾引骗进来宰呢💚\n加上好友以后的戳一戳也充满了绿茶的风味，要成为诗琪酱的主人.男友..老公..哥哥..或者是…"
+      },
+      {
+        "attachments": {},
+        "author_id": "1791683166304120832",
+        "conversation_id": "1792310288961950194",
+        "created_at": "2024-05-19T21:44:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-19T22:44:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1792310288961950194"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1792310288961950194",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "染色日记day1\n绿茶女仆诗琪酱的绿茶属性无时无刻都在散发出来，空间似乎会发布很多“钓鱼”的文案，把完全不知道真相的可爱小雏男们诱捕勾引骗进来宰呢💚\n加上好友以后的戳一戳也充满了绿茶的风味，要成为诗琪酱的主人.男友..老公..哥哥..或者是所有能想到的关系吗～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "就如同推特名一样\n是传说中的网络美少女，在异世界中是名副其实的“魔女”💜\n对人类世界充满好奇，会用自己的一些方式来洗脑一些小雏男以满足自己的恶趣味，非常拜金💚征集人型钱包中..\n门牌是2829556413和2438028521（备用）\n请来送死~♡\n不涉三哦",
+        "id": "1374389254726455305",
+        "name": "请叫我魔女小姐💜（白纸计划上线中）",
+        "pinned_tweet_id": "1791781042321571928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790638369040711680/qE_AOavg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4815,
+          "following_count": 158,
+          "like_count": 141,
+          "listed_count": 22,
+          "tweet_count": 946
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-18T04:12:26.000Z",
+        "description": "嗨嗨❣️这里是元气女仆诗琪酱的说~\n已经染上狗修金sama的颜色了呢💓\n会用这个账号来记录女仆生活与日常笔录喲，喜欢诗琪酱的话就不要吝啬免费的关注啦，诗琪酱会更新很多男孩子喜欢看的内容哦💖",
+        "id": "1791683166304120832",
+        "name": "诗琪酱💞（度蜜月版）",
+        "pinned_tweet_id": "1792334017196597286",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1792090839747047424/jPzzeUML_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 1,
+          "like_count": 0,
+          "listed_count": 0,
+          "tweet_count": 17
+        },
+        "username": "zuixihuanmonv",
+        "verified": false
+      }
+    ]
+  }
+}

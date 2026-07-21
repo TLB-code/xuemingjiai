@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1868370605713821880",
+    "created_at": "2024-12-15T19:00:39.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-15T20:00:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1868370605713821880"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1848428041976082432",
+          "start": 3,
+          "username": "ElinaIsStriving"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868370605713821880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867955180513493462",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ElinaIsStriving: 嗨！这里是之前那个好评率很高结果莫名被封号了的文援姬Elina！\n之前生活一度走上了正轨，所以这边就放下了。\n但是最近生活里发生点意外，钱包空啦……\n\n那重新上传一下置顶条吧！\n不是所有单都接，基本只接xp对味儿的单子\n（…和钱多的单子…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "1868370605713821880",
+        "created_at": "2024-12-15T19:00:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-15T20:00:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868370605713821880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1848428041976082432",
+              "start": 3,
+              "username": "ElinaIsStriving"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868370605713821880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867955180513493462",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ElinaIsStriving: 嗨！这里是之前那个好评率很高结果莫名被封号了的文援姬Elina！\n之前生活一度走上了正轨，所以这边就放下了。\n但是最近生活里发生点意外，钱包空啦……\n\n那重新上传一下置顶条吧！\n不是所有单都接，基本只接xp对味儿的单子\n（…和钱多的单子…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1867955172611391488",
+            "3_1867955172611383296"
+          ]
+        },
+        "author_id": "1848428041976082432",
+        "conversation_id": "1867955180513493462",
+        "created_at": "2024-12-14T15:29:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-14T16:29:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867955180513493462"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AXCuy3q3PL",
+              "end": 174,
+              "expanded_url": "https://x.com/ElinaIsStriving/status/1867955180513493462/photo/1",
+              "media_key": "3_1867955172611391488",
+              "start": 151,
+              "url": "https://t.co/AXCuy3q3PL"
+            },
+            {
+              "display_url": "pic.x.com/AXCuy3q3PL",
+              "end": 174,
+              "expanded_url": "https://x.com/ElinaIsStriving/status/1867955180513493462/photo/1",
+              "media_key": "3_1867955172611383296",
+              "start": 151,
+              "url": "https://t.co/AXCuy3q3PL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867955180513493462",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 8561,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "嗨！这里是之前那个好评率很高结果莫名被封号了的文援姬Elina！\n之前生活一度走上了正轨，所以这边就放下了。\n但是最近生活里发生点意外，钱包空啦……\n\n那重新上传一下置顶条吧！\n不是所有单都接，基本只接xp对味儿的单子\n（…和钱多的单子）\n\n基准价是75/h\n特殊需求的话会涨价哦。\n打赏的话大感谢！ https://t.co/AXCuy3q3PL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "您好～这里是出道以来一直致力于为小雏男哥哥们提供“舒适”“安全”“极致快感”的纯真妹系小天使魔女妹妹💚\n想了解我请翻看我的推文～\nqq2829556413，碎碎念小号@oricz233\n共同出道的偶像老婆：@moeliQWQ\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 83,
+                "username": "oricz233"
+              },
+              {
+                "end": 112,
+                "start": 103,
+                "username": "moeliQWQ"
+              },
+              {
+                "end": 130,
+                "start": 119,
+                "username": "cutelingli"
+              },
+              {
+                "end": 152,
+                "start": 137,
+                "username": "chessy80978858"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系天使偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862768210711392256/_qeQwE-8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6208,
+          "following_count": 241,
+          "like_count": 246,
+          "listed_count": 26,
+          "media_count": 516,
+          "tweet_count": 1405
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-21T18:16:10.000Z",
+        "description": "是我，Еlinа（复活版）！专业写作的文援，好评率奇高。SM通吃，擅长感情戏。接单比较随性，看感觉。陪着聊天，心理咨询也是可以的！ Q：3931233921 tg：@ElinaIsWorking  以及，可以为营收不顺利的文援免费提供免费写作指导！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 82,
+                "username": "ElinaIsWorking"
+              }
+            ]
+          }
+        },
+        "id": "1848428041976082432",
+        "name": "Еlinа(文援/陪聊/心理咨询",
+        "pinned_tweet_id": "1867955180513493462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848428124851343360/YurWdx0Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 70,
+          "like_count": 27,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 29
+        },
+        "username": "ElinaIsStriving",
+        "verified": false
+      }
+    ]
+  }
+}

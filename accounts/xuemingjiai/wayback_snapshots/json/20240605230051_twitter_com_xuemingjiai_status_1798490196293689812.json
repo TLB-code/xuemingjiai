@@ -1,0 +1,134 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1798490016685195398",
+    "created_at": "2024-06-05T23:00:51.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-06T00:00:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1798490196293689812"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1798490196293689812",
+    "in_reply_to_user_id": "1374389254726455305",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1798490141675466954",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "嗯～现实已经很累啦，涩涩的时候还要需要思考那么多，那不是在折磨自己吗？\n因为很理解这样的感受，所以说没关系，对于魔女小姐来说，自己创造出来的作品能让你们喜欢上，能让你们对着发泄欲望，我就很心满意足了💖\n活着很辛苦，所以在网络上就尽情发泄吧，希望我的作品有帮到你们，我会很开心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "1798490016685195398",
+        "created_at": "2024-06-05T23:00:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-06T00:00:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1798490196293689812"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1798490196293689812",
+        "in_reply_to_user_id": "1374389254726455305",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1798490141675466954",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "嗯～现实已经很累啦，涩涩的时候还要需要思考那么多，那不是在折磨自己吗？\n因为很理解这样的感受，所以说没关系，对于魔女小姐来说，自己创造出来的作品能让你们喜欢上，能让你们对着发泄欲望，我就很心满意足了💖\n活着很辛苦，所以在网络上就尽情发泄吧，希望我的作品有帮到你们，我会很开心"
+      },
+      {
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "1798490016685195398",
+        "created_at": "2024-06-05T23:00:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-06T00:00:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1798490141675466954"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1798490141675466954",
+        "in_reply_to_user_id": "1374389254726455305",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1798490091935158344",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为什么说是愚蠢的行为呢？\n因为即使这么认真努力创作出来的东西，有时候就是比不上刻意迎合小雏男性癖，带来简单粗暴直观的涩推带来的流量呀～\n这是再正常不过的事情，因为上推特找涩涩的时候，谁会在意那么多啊，写的再好，构思得再精妙，说到底对于小雏男们来说也不过是今天用来发泄欲望的“配菜”而已"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "可爱程度百分之百💖\n她就是出道即巅峰的可爱纯真小天使新人偶像魔女小姐💖\n任何人都会被她散发出的魅力所捕获，对这样的魔女小姐不能心怀任何涩涩的念想哦，不然就会变得非常糟糕...踏入无法挣脱的陷阱和牢笼里呢💘\n魔女小姐无论说什么做什么都是正确的哦，身为她的粉丝，只需要无条件用各种方式支持她就好了💘\n私联禁止🚫",
+        "id": "1374389254726455305",
+        "name": "电波系新人偶像💖魔女小姐参上（正能量爆表～）",
+        "pinned_tweet_id": "1798467869711429837",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795799880021295104/Tsd4XdC9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4822,
+          "following_count": 168,
+          "like_count": 147,
+          "listed_count": 22,
+          "tweet_count": 972
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

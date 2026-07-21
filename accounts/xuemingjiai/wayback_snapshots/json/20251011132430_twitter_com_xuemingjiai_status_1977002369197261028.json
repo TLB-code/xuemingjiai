@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1977002369197261028",
+    "created_at": "2025-10-11T13:24:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-11T14:24:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977002369197261028"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1374389254726455305",
+          "start": 3,
+          "username": "xuemingjiai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977002369197261028",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975525785298468948",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xuemingjiai: 只是喜欢吃干抹净身为“钱包”的男孩子有什么错吗？\n被本公主利用挤压排空大脑和钱包迅速报废，对这样无情黑心到极致的性快感上瘾有什么不对的吗～\n姗姗来迟的国庆福利，从今天到10.10日，添加本公主qq可以免费获得一份隐藏的问卷文游🤍\n这很明显是陷阱…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_1975525781250969600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2p6OzQXEAAJr4j.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "1977002369197261028",
+        "created_at": "2025-10-11T13:24:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T14:24:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977002369197261028"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1374389254726455305",
+              "start": 3,
+              "username": "xuemingjiai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977002369197261028",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975525785298468948",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xuemingjiai: 只是喜欢吃干抹净身为“钱包”的男孩子有什么错吗？\n被本公主利用挤压排空大脑和钱包迅速报废，对这样无情黑心到极致的性快感上瘾有什么不对的吗～\n姗姗来迟的国庆福利，从今天到10.10日，添加本公主qq可以免费获得一份隐藏的问卷文游🤍\n这很明显是陷阱…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975525781250969600"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "1975525785298468948",
+        "created_at": "2025-10-07T11:37:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T12:37:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975525785298468948"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CcjEpKx3cL",
+              "end": 169,
+              "expanded_url": "https://x.com/xuemingjiai/status/1975525785298468948/photo/1",
+              "media_key": "3_1975525781250969600",
+              "start": 146,
+              "url": "https://t.co/CcjEpKx3cL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975525785298468948",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 11653,
+          "like_count": 100,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "只是喜欢吃干抹净身为“钱包”的男孩子有什么错吗？\n被本公主利用挤压排空大脑和钱包迅速报废，对这样无情黑心到极致的性快感上瘾有什么不对的吗～\n姗姗来迟的国庆福利，从今天到10.10日，添加本公主qq可以免费获得一份隐藏的问卷文游🤍\n这很明显是陷阱，因为本公主有门槛，但是钱包们会踩进来自杀的～ https://t.co/CcjEpKx3cL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n我是一名钱包刽子手。\n如果你也想被我杀死的话→\n2829556413←\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 56,
+                "username": "oricz233"
+              },
+              {
+                "end": 85,
+                "start": 76,
+                "username": "moelipoi"
+              },
+              {
+                "end": 103,
+                "start": 92,
+                "username": "cutelingli"
+              },
+              {
+                "end": 125,
+                "start": 110,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 137,
+                "start": 130,
+                "username": "1xian1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARosxSy"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍快被舔狗钱包舔废版～",
+        "pinned_tweet_id": "1976743806063063398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969152325731168256/ozl0k8K4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7735,
+          "following_count": 312,
+          "like_count": 637,
+          "listed_count": 34,
+          "media_count": 732,
+          "tweet_count": 2217
+        },
+        "url": "https://t.co/le8ARosxSy",
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

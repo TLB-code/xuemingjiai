@@ -1,0 +1,143 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1812403964018897136",
+    "created_at": "2024-07-14T08:29:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-14T09:29:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1812403964018897136"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1737832071220113408",
+          "start": 3,
+          "username": "zcThtMgJUh78594"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1812403964018897136",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1811337587027763591",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zcThtMgJUh78594: 新问卷 艾莲的贡瘾治疗\n为沉迷于上贡xp的狗狗们准备的特别问卷🖤\n会用抽卡的方式代替上贡，配合着气味调教让狗狗将贡瘾逐渐转移\n被艾莲用黑丝臭脚调教🖤被强迫抽卡🖤被鄙视玩弄🖤\n\n这次问卷总数量也来到9个了，促销中~\n3个以上9折，5个以上…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1812403964018897136].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1812403964018897136",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1812403964018897136"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1811337575787122688"
+          ]
+        },
+        "author_id": "1737832071220113408",
+        "conversation_id": "1811337587027763591",
+        "created_at": "2024-07-11T09:51:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-11T10:51:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1811337587027763591"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/ArpAMvSddw",
+              "end": 166,
+              "expanded_url": "https://twitter.com/zcThtMgJUh78594/status/1811337587027763591/photo/1",
+              "media_key": "3_1811337575787122688",
+              "start": 143,
+              "url": "https://t.co/ArpAMvSddw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1811337587027763591",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4763,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "新问卷 艾莲的贡瘾治疗\n为沉迷于上贡xp的狗狗们准备的特别问卷🖤\n会用抽卡的方式代替上贡，配合着气味调教让狗狗将贡瘾逐渐转移\n被艾莲用黑丝臭脚调教🖤被强迫抽卡🖤被鄙视玩弄🖤\n\n这次问卷总数量也来到9个了，促销中~\n3个以上9折，5个以上八折\n超过5个的可以选择看我的黑丝或是白丝脚脚~ https://t.co/ArpAMvSddw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "超绝可爱💖\n她就是出道即巅峰的可爱纯真小天使新人偶像魔女小姐💖\n任何人都会被她散发出的魅力所捕获，对这样的魔女小姐不能心怀任何涩涩的念想哦，不然就会变得非常糟糕...踏入无法挣脱的陷阱和牢笼里呢💘\n魔女小姐无论说什么做什么都是正确的哦，身为她的粉丝，只需要无条件用各种方式支持她就好了～\nqq2829556413",
+        "id": "1374389254726455305",
+        "name": "电波系新人偶像💖魔女小姐参上（即将复活版）",
+        "pinned_tweet_id": "1804570562511126828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811861833260675072/2j4B4ED0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4928,
+          "following_count": 173,
+          "like_count": 147,
+          "listed_count": 23,
+          "tweet_count": 996
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-21T13:47:15.000Z",
+        "description": "是冷色调哦，欢迎喜欢发情的狗狗上门来玩哟，无脑发情的小狗最讨人喜欢了不是吗（笑）\n擅长洗脑陪伴❤️，寸止调教💜，NTR💚，黑心压榨🖤，树洞安抚🧡，希望狗狗们确保在发情状态下来敲门呢~  \n（30r/30分，微涉三）\n门牌号1596168331🎶\n成年狗狗才能来哦~",
+        "id": "1737832071220113408",
+        "name": "冷色调",
+        "pinned_tweet_id": "1811337587027763591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788560990831005696/1t7dMkmC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2200,
+          "following_count": 33,
+          "like_count": 214,
+          "listed_count": 5,
+          "tweet_count": 203
+        },
+        "username": "zcThtMgJUh78594",
+        "verified": false
+      }
+    ]
+  }
+}

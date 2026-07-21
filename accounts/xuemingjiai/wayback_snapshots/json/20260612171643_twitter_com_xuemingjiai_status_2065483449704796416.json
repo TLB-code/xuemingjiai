@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "2065483449704796416",
+    "created_at": "2026-06-12T17:16:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T18:16:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065483449704796416"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1984115707815325698",
+          "start": 3,
+          "username": "jingli1840489"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065483449704796416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 41
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993433669315486013",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jingli1840489: 新推出模拟上贡玩法哦~退还80%左右呢（具体视情况哦）\n第一位体验的客人就舒服到不行了哦，在反差的镜璃主人的温柔诱导洗脑+黑心羞辱下，脑子被反差的镜璃主人搅得一塌糊涂♡自觉成为镜璃主人脚下的发情傻逼白痴小狗了呢🖤\n最后被“自觉”放弃全部贡款…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2065483449704796416].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2065483449704796416",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2065483449704796416"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1993433603813130244",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6oZTQ6bwAQDXLv.jpg",
+        "width": 926
+      },
+      {
+        "height": 3665,
+        "media_key": "3_1993433616798588928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6oZUBSaIAA3RMJ.jpg",
+        "width": 948
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1993433626764251136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6oZUmaaEAASpQK.jpg",
+        "width": 752
+      },
+      {
+        "height": 3803,
+        "media_key": "3_1993433636251873280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6oZVJwbsAAKd9f.jpg",
+        "width": 987
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993433603813130244",
+            "3_1993433616798588928",
+            "3_1993433626764251136",
+            "3_1993433636251873280"
+          ]
+        },
+        "author_id": "1984115707815325698",
+        "conversation_id": "1993433669315486013",
+        "created_at": "2025-11-25T21:36:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T22:36:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993433669315486013"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 132,
+              "start": 129,
+              "tag": "上贡"
+            },
+            {
+              "end": 138,
+              "start": 133,
+              "tag": "模拟上贡"
+            },
+            {
+              "end": 142,
+              "start": 139,
+              "tag": "压榨"
+            },
+            {
+              "end": 146,
+              "start": 143,
+              "tag": "调教"
+            },
+            {
+              "end": 150,
+              "start": 147,
+              "tag": "洗脑"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iIl1SiW8ih",
+              "end": 174,
+              "expanded_url": "https://x.com/jingli1840489/status/1993433669315486013/photo/1",
+              "media_key": "3_1993433603813130244",
+              "start": 151,
+              "url": "https://t.co/iIl1SiW8ih"
+            },
+            {
+              "display_url": "pic.x.com/iIl1SiW8ih",
+              "end": 174,
+              "expanded_url": "https://x.com/jingli1840489/status/1993433669315486013/photo/1",
+              "media_key": "3_1993433616798588928",
+              "start": 151,
+              "url": "https://t.co/iIl1SiW8ih"
+            },
+            {
+              "display_url": "pic.x.com/iIl1SiW8ih",
+              "end": 174,
+              "expanded_url": "https://x.com/jingli1840489/status/1993433669315486013/photo/1",
+              "media_key": "3_1993433626764251136",
+              "start": 151,
+              "url": "https://t.co/iIl1SiW8ih"
+            },
+            {
+              "display_url": "pic.x.com/iIl1SiW8ih",
+              "end": 174,
+              "expanded_url": "https://x.com/jingli1840489/status/1993433669315486013/photo/1",
+              "media_key": "3_1993433636251873280",
+              "start": 151,
+              "url": "https://t.co/iIl1SiW8ih"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993433669315486013",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 56551,
+          "like_count": 161,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "新推出模拟上贡玩法哦~退还80%左右呢（具体视情况哦）\n第一位体验的客人就舒服到不行了哦，在反差的镜璃主人的温柔诱导洗脑+黑心羞辱下，脑子被反差的镜璃主人搅得一塌糊涂♡自觉成为镜璃主人脚下的发情傻逼白痴小狗了呢🖤\n最后被“自觉”放弃全部贡款+乖乖憋死了呢🖤\n#上贡 #模拟上贡 #压榨 #调教 #洗脑 https://t.co/iIl1SiW8ih"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "你也觉得你面前的这只魔女可爱过头了吧？\n对的!她和别人不一样!\n邂逅方式→2829556413←\n超涩气小号@oricz233\n现任魔女学园院长\n星辰魔女镜璃\n@jingli1840489\n桃心魔女奈奈\n@blakexiaonai\n 黑白魔女花卷\n@miaomiaomyoez2\n好老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 54,
+                "username": "oricz233"
+              },
+              {
+                "end": 94,
+                "start": 80,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 115,
+                "start": 102,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 139,
+                "start": 124,
+                "username": "miaomiaomyoez2"
+              },
+              {
+                "end": 158,
+                "start": 143,
+                "username": "chessy80978858"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "超可爱超绿茶超撩人的精灵魔女-奏奏💚",
+        "pinned_tweet_id": "2013314916120416537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064079945459171328/WbF0iOyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8880,
+          "following_count": 371,
+          "like_count": 637,
+          "listed_count": 36,
+          "media_count": 830,
+          "tweet_count": 2214
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-31T04:31:00.000Z",
+        "description": "可以是温柔妈咪/可爱妹妹/知心姐姐~也可以是可怕残忍压榨主使用钱包哦🖤\n目前主要玩法：剧情文爱/黑心/绿茶/洗脑/榨金/寸止/催眠/模拟上贡/早泄挑战/贞操管理等💕\n门牌号：q3775591357，致力于让每位朋友都开开心心舒舒服服的喔❤️全天营业，深夜常驻，欢迎前来光顾哦~\n最可爱的奏奏：@xuemingjiai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 158,
+                "start": 146,
+                "username": "xuemingjiai"
+              }
+            ]
+          }
+        },
+        "id": "1984115707815325698",
+        "location": "镜璃的温暖小床~深夜也欢迎打扰哦~",
+        "name": "是镜璃喔~",
+        "pinned_tweet_id": "1993433669315486013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985515782550536192/bMHPg-lN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1477,
+          "following_count": 80,
+          "like_count": 275,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 155
+        },
+        "username": "jingli1840489",
+        "verified": false
+      }
+    ]
+  }
+}

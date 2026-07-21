@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1873761405956243669",
+    "created_at": "2024-12-30T16:01:46.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-30T17:01:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1873761405956243669"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1852926328963522560",
+          "start": 3,
+          "username": "oricz233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873761405956243669",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1873761005328867330",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oricz233: 今天是2024年的最后一天～\n在凌晨打开了推特的“脑子主机用户”，恭喜你们能够第一时间收到来自魔女妹..魔女主人的跨年信件♪\n还记得之前的约定吗？\n对哦，就是那个在跨年夜，把2024年最后一次的射精和2025年的第一次射精，都交给魔女主人的珍贵约定哦…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1873761405956243669].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1873761405956243669",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1873761405956243669"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1873761002711572480"
+          ]
+        },
+        "author_id": "1852926328963522560",
+        "conversation_id": "1873761005328867330",
+        "created_at": "2024-12-30T16:00:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-30T17:00:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873761005328867330"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/peaCoIHJvD",
+              "end": 175,
+              "expanded_url": "https://x.com/oricz233/status/1873761005328867330/photo/1",
+              "media_key": "3_1873761002711572480",
+              "start": 152,
+              "url": "https://t.co/peaCoIHJvD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873761005328867330",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "今天是2024年的最后一天～\n在凌晨打开了推特的“脑子主机用户”，恭喜你们能够第一时间收到来自魔女妹..魔女主人的跨年信件♪\n还记得之前的约定吗？\n对哦，就是那个在跨年夜，把2024年最后一次的射精和2025年的第一次射精，都交给魔女主人的珍贵约定哦💜\n除了这个约定以外...还有今年最后一次植入病毒～ https://t.co/peaCoIHJvD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "您好～这里是出道以来一直致力于为小雏男哥哥们提供“舒适”“安全”“极致快感”的纯真妹系小天使魔女妹妹💚\n想了解我请翻看我的推文～\nqq2829556413，碎碎念小号@oricz233\n共同出道的偶像老婆：@riemoepoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 83,
+                "username": "oricz233"
+              },
+              {
+                "end": 113,
+                "start": 103,
+                "username": "riemoepoi"
+              },
+              {
+                "end": 131,
+                "start": 120,
+                "username": "cutelingli"
+              },
+              {
+                "end": 153,
+                "start": 138,
+                "username": "chessy80978858"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系天使偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871531149056696320/X1dzrRoR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6259,
+          "following_count": 241,
+          "like_count": 275,
+          "listed_count": 26,
+          "media_count": 522,
+          "tweet_count": 1435
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-03T04:10:46.000Z",
+        "description": "嗯 如你所见这就是魔女妹妹@xuemingjiai 的树洞发泄 特殊更新的多功能用小号哦\n不喜欢我的人请从我的视线里消失～\n只想对无条件喜欢我的人好～\n家宝贝@qilicc",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 13,
+                "username": "xuemingjiai"
+              },
+              {
+                "end": 86,
+                "start": 79,
+                "username": "qilicc"
+              }
+            ]
+          }
+        },
+        "id": "1852926328963522560",
+        "name": "魔女妹妹（里世界版）病毒侵入持续更新中",
+        "pinned_tweet_id": "1853194086540509649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871478130072051712/iWbjmEVI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 843,
+          "following_count": 6,
+          "like_count": 7,
+          "listed_count": 2,
+          "media_count": 52,
+          "tweet_count": 76
+        },
+        "username": "oricz233",
+        "verified": false
+      }
+    ]
+  }
+}

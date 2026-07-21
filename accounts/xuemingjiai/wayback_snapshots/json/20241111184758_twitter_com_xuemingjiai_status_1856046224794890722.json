@@ -1,0 +1,143 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1856046222303440896"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "1856046224794890722",
+    "created_at": "2024-11-11T18:47:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-11T19:47:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1856046224794890722"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/SY6N1OXwey",
+          "end": 165,
+          "expanded_url": "https://x.com/xuemingjiai/status/1856046224794890722/photo/1",
+          "media_key": "3_1856046222303440896",
+          "start": 142,
+          "url": "https://t.co/SY6N1OXwey"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1856046224794890722",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一则危险推文的更新预告\n你是否或多或少想过自毁？\n自毁，自甘堕落，通过让自己处于危险状态来获取快感，亲手摧毁自己所拥有的一切去突破自我的下限\n这样的想法会让你的身体感觉到前所未有的兴奋，大脑会分泌很多的多巴胺。可是你又不敢真正尝试，既然如此，不妨来参加一个“自毁式的病毒侵入”游戏吧 https://t.co/SY6N1OXwey"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1856046222303440896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GcIANJcaMAATaNU.jpg",
+        "width": 886
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1856046222303440896"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "1856046224794890722",
+        "created_at": "2024-11-11T18:47:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-11T19:47:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1856046224794890722"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SY6N1OXwey",
+              "end": 165,
+              "expanded_url": "https://x.com/xuemingjiai/status/1856046224794890722/photo/1",
+              "media_key": "3_1856046222303440896",
+              "start": 142,
+              "url": "https://t.co/SY6N1OXwey"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856046224794890722",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一则危险推文的更新预告\n你是否或多或少想过自毁？\n自毁，自甘堕落，通过让自己处于危险状态来获取快感，亲手摧毁自己所拥有的一切去突破自我的下限\n这样的想法会让你的身体感觉到前所未有的兴奋，大脑会分泌很多的多巴胺。可是你又不敢真正尝试，既然如此，不妨来参加一个“自毁式的病毒侵入”游戏吧 https://t.co/SY6N1OXwey"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "超绝可爱💖\n她就是出道即巅峰的可爱纯真小天使新人偶像魔女小姐💖\n对这样的魔女小姐不能心怀任何涩涩的念想哦，不然就会变得非常糟糕...踏入无法挣脱的陷阱和牢笼里呢💘\n魔女小姐无论说什么做什么都是正确的哦，身为她的粉丝，只需要无条件用各种方式支持她就好了～\nqq2829556413，碎碎念小号@oricz233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 154,
+                "start": 145,
+                "username": "oricz233"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "name": "电波系新人偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854618482215911424/R3TTJuCj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5865,
+          "following_count": 228,
+          "like_count": 185,
+          "listed_count": 24,
+          "tweet_count": 1332
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

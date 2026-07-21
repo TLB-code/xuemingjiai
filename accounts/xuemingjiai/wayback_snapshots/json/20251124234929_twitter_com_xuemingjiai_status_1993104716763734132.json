@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1993104716763734132",
+    "created_at": "2025-11-24T23:49:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T00:49:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993104716763734132"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1992193670104444928",
+          "start": 3,
+          "username": "xiaoleng_zzdqb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993104716763734132",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992955677829124500",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiaoleng_zzdqb: 被公主大人强制提款榨干，即使泪水口水淫水全部流干依旧被主人支配母狗身体吃干抹净❤️在榨干作为预设钱包的最后一点作用后强制操控压榨洗脑改造彻底把下贱小冷开发转换成人肉广告牌❤️就算这样头脑依旧会被快感冲碎殆尽❤️只因预设程序就是这样呢❤️快…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1993104716763734132].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1993104716763734132",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1993104716763734132"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1561,
+        "media_key": "3_1992955638318764033",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6hmmAsaEAE1_iM.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1992955640147517441",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6hmmHgaoAErQdm.jpg",
+        "width": 209
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992955638318764033",
+            "3_1992955640147517441"
+          ]
+        },
+        "author_id": "1992193670104444928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1992955677829124500",
+        "created_at": "2025-11-24T13:57:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T14:57:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992955677829124500"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 149,
+              "id": "1374389254726455305",
+              "start": 137,
+              "username": "xuemingjiai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EQF992UmcZ",
+              "end": 173,
+              "expanded_url": "https://x.com/xiaoleng_zzdqb/status/1992955677829124500/photo/1",
+              "media_key": "3_1992955638318764033",
+              "start": 150,
+              "url": "https://t.co/EQF992UmcZ"
+            },
+            {
+              "display_url": "pic.x.com/EQF992UmcZ",
+              "end": 173,
+              "expanded_url": "https://x.com/xiaoleng_zzdqb/status/1992955677829124500/photo/1",
+              "media_key": "3_1992955640147517441",
+              "start": 150,
+              "url": "https://t.co/EQF992UmcZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992955677829124500",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被公主大人强制提款榨干，即使泪水口水淫水全部流干依旧被主人支配母狗身体吃干抹净❤️在榨干作为预设钱包的最后一点作用后强制操控压榨洗脑改造彻底把下贱小冷开发转换成人肉广告牌❤️就算这样头脑依旧会被快感冲碎殆尽❤️只因预设程序就是这样呢❤️快来一起成为奏奏主人最忠实的母狗钱包吧@xuemingjiai https://t.co/EQF992UmcZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n最最最最喜欢钱包们啦!\n天天挨骂真的不会腻嘛～\n擅长用爱意和温柔的语气俘虏钱包～\n联系方式→242184780←\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 77,
+                "username": "oricz233"
+              },
+              {
+                "end": 106,
+                "start": 97,
+                "username": "moelipoi"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "cutelingli"
+              },
+              {
+                "end": 146,
+                "start": 131,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 158,
+                "start": 151,
+                "username": "1xian1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍对钱包们最温柔最有好感版",
+        "pinned_tweet_id": "1976743806063063398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991861278688821248/oCQEPeIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7968,
+          "following_count": 334,
+          "like_count": 640,
+          "listed_count": 37,
+          "media_count": 759,
+          "tweet_count": 2331
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-22T11:29:31.000Z",
+        "description": "这里是奏奏公主最听话的弱智白痴废物舔狗钱包atm机提款机母狗小冷，希望所有人都能成为被奏奏大人使用就能流出幸福汁液的钱包，魔女大人一定会统治世界的！尊贵的魔女大人：@xuemingjiai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 82,
+                "username": "xuemingjiai"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/xuemingjiai?s=…",
+                "end": 23,
+                "expanded_url": "https://x.com/xuemingjiai?s=21",
+                "start": 0,
+                "url": "https://t.co/HDGFaDFHC0"
+              }
+            ]
+          }
+        },
+        "id": "1992193670104444928",
+        "location": "奏奏主人的石榴裙下",
+        "name": "小冷—奏奏公主最忠实的预设钱包",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992196332141060096/zjdJlMD__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 1,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 2
+        },
+        "url": "https://t.co/HDGFaDFHC0",
+        "username": "xiaoleng_zzdqb",
+        "verified": false
+      }
+    ]
+  }
+}

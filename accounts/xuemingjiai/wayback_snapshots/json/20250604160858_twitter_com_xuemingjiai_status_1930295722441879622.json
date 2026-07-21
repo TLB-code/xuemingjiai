@@ -1,0 +1,386 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1928797155390816256"
+      ],
+      "media_source_tweet_id": [
+        "1928798674223567179"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "1930295722441879622",
+    "created_at": "2025-06-04T16:08:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-04T17:08:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930295722441879622"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 21,
+          "start": 18,
+          "tag": "上贡"
+        },
+        {
+          "end": 25,
+          "start": 22,
+          "tag": "舔狗"
+        },
+        {
+          "end": 31,
+          "start": 26,
+          "tag": "ATM奴"
+        },
+        {
+          "end": 35,
+          "start": 32,
+          "tag": "男娘"
+        },
+        {
+          "end": 40,
+          "start": 36,
+          "tag": "压榨奴"
+        },
+        {
+          "end": 44,
+          "start": 41,
+          "tag": "压榨"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1131829997335863296",
+          "start": 3,
+          "username": "952909762mao"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/S3T2g7Zlem",
+          "end": 133,
+          "expanded_url": "https://x.com/952909762mao/status/1928798674223567179/video/1",
+          "media_key": "13_1928797155390816256",
+          "start": 110,
+          "url": "https://t.co/S3T2g7Zlem"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930295722441879622",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928798674223567179",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @952909762mao: #上贡 #舔狗 #ATM奴 #男娘 #压榨奴 #压榨\n傻狗贡奴是这样的，求着我收下他的臭钱，突发奇想拍了这个，给他看了之后他就像大脑短路了一样无脑白给，你们还愣着干嘛？还不赶快来贡？ https://t.co/S3T2g7Zlem"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16446,
+        "height": 1920,
+        "media_key": "13_1928797155390816256",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1928797155390816256/img/lMvuKmH52zIuFilk.jpg",
+        "public_metrics": {
+          "view_count": 435
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1928797155390816256/vid/avc1/320x568/NGkGV9rKljgJDwni.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1928797155390816256/vid/avc1/480x852/X7ew4QuxeIp9LCzp.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1928797155390816256/vid/avc1/720x1280/iGPiDqPkOj7aEuBe.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1928797155390816256/pl/CJ6Kk8cc1HKPiiC8.m3u8?tag=14"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1928797155390816256"
+          ],
+          "media_source_tweet_id": [
+            "1928798674223567179"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "1930295722441879622",
+        "created_at": "2025-06-04T16:08:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T17:08:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930295722441879622"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 18,
+              "tag": "上贡"
+            },
+            {
+              "end": 25,
+              "start": 22,
+              "tag": "舔狗"
+            },
+            {
+              "end": 31,
+              "start": 26,
+              "tag": "ATM奴"
+            },
+            {
+              "end": 35,
+              "start": 32,
+              "tag": "男娘"
+            },
+            {
+              "end": 40,
+              "start": 36,
+              "tag": "压榨奴"
+            },
+            {
+              "end": 44,
+              "start": 41,
+              "tag": "压榨"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1131829997335863296",
+              "start": 3,
+              "username": "952909762mao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/S3T2g7Zlem",
+              "end": 133,
+              "expanded_url": "https://x.com/952909762mao/status/1928798674223567179/video/1",
+              "media_key": "13_1928797155390816256",
+              "start": 110,
+              "url": "https://t.co/S3T2g7Zlem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930295722441879622",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928798674223567179",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @952909762mao: #上贡 #舔狗 #ATM奴 #男娘 #压榨奴 #压榨\n傻狗贡奴是这样的，求着我收下他的臭钱，突发奇想拍了这个，给他看了之后他就像大脑短路了一样无脑白给，你们还愣着干嘛？还不赶快来贡？ https://t.co/S3T2g7Zlem"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1928797155390816256"
+          ]
+        },
+        "author_id": "1131829997335863296",
+        "conversation_id": "1928798674223567179",
+        "created_at": "2025-05-31T13:00:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T14:00:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928798674223567179"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "上贡"
+            },
+            {
+              "end": 7,
+              "start": 4,
+              "tag": "舔狗"
+            },
+            {
+              "end": 13,
+              "start": 8,
+              "tag": "ATM奴"
+            },
+            {
+              "end": 17,
+              "start": 14,
+              "tag": "男娘"
+            },
+            {
+              "end": 22,
+              "start": 18,
+              "tag": "压榨奴"
+            },
+            {
+              "end": 26,
+              "start": 23,
+              "tag": "压榨"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/S3T2g7Zlem",
+              "end": 115,
+              "expanded_url": "https://x.com/952909762mao/status/1928798674223567179/video/1",
+              "media_key": "13_1928797155390816256",
+              "start": 92,
+              "url": "https://t.co/S3T2g7Zlem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928798674223567179",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 954,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "#上贡 #舔狗 #ATM奴 #男娘 #压榨奴 #压榨\n傻狗贡奴是这样的，求着我收下他的臭钱，突发奇想拍了这个，给他看了之后他就像大脑短路了一样无脑白给，你们还愣着干嘛？还不赶快来贡？ https://t.co/S3T2g7Zlem"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "集美貌，智慧，强大于一身的魔女族公主现身人世～区区人类，跪下向我表示臣服吧💜\n被我支配 控制 吸脑 成为奴仆💜\n挑战qq242184780，里世界小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858\n女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "oricz233"
+              },
+              {
+                "end": 104,
+                "start": 95,
+                "username": "moelipoi"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "cutelingli"
+              },
+              {
+                "end": 144,
+                "start": 129,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 155,
+                "start": 148,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏💜散播同化病毒中～",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926028406774247424/hWplRg7q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7102,
+          "following_count": 296,
+          "like_count": 335,
+          "listed_count": 33,
+          "media_count": 640,
+          "tweet_count": 1905
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-24T07:51:14.000Z",
+        "description": "可爱的黑心小男娘\n在线招收想要吐钱的傻逼贡奴\n🚪门槛费：20 加了好友请主动说明来意 \n门槛不付试图蒙混过关的脑瘫请麻烦死远一点谢谢\n推置顶有二维码 如果看不见希望你们把眼睛捐献给有需要的人呢\n清水良民推主 不搞黄色\nQQ952909762",
+        "id": "1131829997335863296",
+        "name": "古屋敷由良",
+        "pinned_tweet_id": "1771788955731517942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896435593334374400/g9-bSQq1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1689,
+          "following_count": 189,
+          "like_count": 418,
+          "listed_count": 10,
+          "media_count": 239,
+          "tweet_count": 1698
+        },
+        "username": "952909762mao",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1927107729971114118",
+    "created_at": "2025-05-26T21:01:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-26T22:01:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927107729971114118"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1921832227996119040",
+          "start": 3,
+          "username": "shiling7651"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927107729971114118",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927001625232642406",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shiling7651: 杂鱼勇者~♡~不是说要来讨伐魅魔吗~♡ 怎么~光是闻着铃铃的魅魔香味就白给败北了呐♡（萝莉魅魔骑乘在身上 稚嫩柔软的蜜穴抵着肉棒上来回蹭弄♡心形的尾巴末端指着棒身稍稍挑逗♡）勇者大人~这是♡5秒内射精就会连exp一并射出来的榨精魔法哦~会坚持住…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1927107729971114118].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1927107729971114118",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1927107729971114118"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1401,
+        "media_key": "3_1927001620434288640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr4Vw5uWgAAE7xl.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1927001620434288640"
+          ]
+        },
+        "author_id": "1921832227996119040",
+        "conversation_id": "1927001625232642406",
+        "created_at": "2025-05-26T13:59:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T14:59:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927001625232642406"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 150,
+              "start": 147,
+              "tag": "魅魔"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LdVAlFYlFm",
+              "end": 174,
+              "expanded_url": "https://x.com/shiling7651/status/1927001625232642406/photo/1",
+              "media_key": "3_1927001620434288640",
+              "start": 151,
+              "url": "https://t.co/LdVAlFYlFm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927001625232642406",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 815,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "杂鱼勇者~♡~不是说要来讨伐魅魔吗~♡ 怎么~光是闻着铃铃的魅魔香味就白给败北了呐♡（萝莉魅魔骑乘在身上 稚嫩柔软的蜜穴抵着肉棒上来回蹭弄♡心形的尾巴末端指着棒身稍稍挑逗♡）勇者大人~这是♡5秒内射精就会连exp一并射出来的榨精魔法哦~会坚持住的吧 5~4~3♡啊~这就射了吗♡废物早泄肉棒~\n#魅魔 https://t.co/LdVAlFYlFm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "集美貌，智慧，强大于一身的魔女族公主现身人世～区区人类，跪下向我表示臣服吧💜\n被我支配 控制 吸脑 成为奴仆💜\n挑战qq242184780，里世界小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858\n女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "oricz233"
+              },
+              {
+                "end": 104,
+                "start": 95,
+                "username": "moelipoi"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "cutelingli"
+              },
+              {
+                "end": 144,
+                "start": 129,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 155,
+                "start": 148,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏💜强势登场人间",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926028406774247424/hWplRg7q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7009,
+          "following_count": 289,
+          "like_count": 322,
+          "listed_count": 32,
+          "media_count": 619,
+          "tweet_count": 1851
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-12T07:38:15.000Z",
+        "description": "这里是新人文媛姬诗铃~是喜欢欺负可爱的小男生♡也会好好侍奉雄性的萝莉魅魔哟~♡毕竟~这是魅魔的~进食环节♡呢~欢迎客人来访~那么~也还请客人做好被人家榨干当做魅魔食粮的准备呐♡门牌:3800716151备用:3919302576",
+        "id": "1921832227996119040",
+        "name": "诗铃♡文援(欢迎互推~)",
+        "pinned_tweet_id": "1921983886793359465",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921832879211868160/7vVBIpnT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 94,
+          "like_count": 39,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 111
+        },
+        "username": "shiling7651",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1869400874990399488"
+      ],
+      "media_source_tweet_id": [
+        "1869400892732301694"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "1869402787970457841",
+    "created_at": "2024-12-18T15:22:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-18T16:22:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1869402787970457841"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1518869520680587265",
+          "start": 3,
+          "username": "xuetongwww"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ruM7eUxCdX",
+          "end": 133,
+          "expanded_url": "https://x.com/xuetongwww/status/1869400892732301694/photo/1",
+          "media_key": "3_1869400874990399488",
+          "start": 110,
+          "url": "https://t.co/ruM7eUxCdX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1869402787970457841",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1869400892732301694",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xuetongwww: 教大家如何调教寸止女s\n下单之后不断犯贱上贡，表面直接是纯粹的atm贱狗贡奴，恳求主人收下贡金🖤\n连续爆金币挑逗起主人压榨的欲望后，直接说已经泄精，提起裤子走人，让对方体会怅然若失的感觉 https://t.co/ruM7eUxCdX"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1869402787970457841].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1869402787970457841",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1869402787970457841"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1869400874990399488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GfFyMPibcAANDjx.jpg",
+        "width": 1448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1869400874990399488"
+          ]
+        },
+        "author_id": "1518869520680587265",
+        "conversation_id": "1869400892732301694",
+        "created_at": "2024-12-18T15:14:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-18T16:14:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1869400892732301694"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ruM7eUxCdX",
+              "end": 117,
+              "expanded_url": "https://x.com/xuetongwww/status/1869400892732301694/photo/1",
+              "media_key": "3_1869400874990399488",
+              "start": 94,
+              "url": "https://t.co/ruM7eUxCdX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869400892732301694",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "教大家如何调教寸止女s\n下单之后不断犯贱上贡，表面直接是纯粹的atm贱狗贡奴，恳求主人收下贡金🖤\n连续爆金币挑逗起主人压榨的欲望后，直接说已经泄精，提起裤子走人，让对方体会怅然若失的感觉 https://t.co/ruM7eUxCdX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "您好～这里是出道以来一直致力于为小雏男哥哥们提供“舒适”“安全”“极致快感”的纯真妹系小天使魔女妹妹💚\n想了解我请翻看我的推文～\nqq2829556413，碎碎念小号@oricz233\n共同出道的偶像老婆：@moeliQWQ\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 83,
+                "username": "oricz233"
+              },
+              {
+                "end": 112,
+                "start": 103,
+                "username": "moeliQWQ"
+              },
+              {
+                "end": 130,
+                "start": 119,
+                "username": "cutelingli"
+              },
+              {
+                "end": 152,
+                "start": 137,
+                "username": "chessy80978858"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系天使偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868371538053091328/WDeV3GGD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6190,
+          "following_count": 240,
+          "like_count": 252,
+          "listed_count": 26,
+          "media_count": 521,
+          "tweet_count": 1420
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-26T08:28:16.000Z",
+        "description": "体型娇小柔弱但却是绝对的抖s学妹🖤\n变态人渣炼铜抖m看着我的嫩足就会忍不住跪下磕头，祈求被萝莉主人调教对吧\n还不快点上门来送死？🖤\n价格为80/1h\n门牌号是2955373937\n命令你立刻硬着早泄包茎鸡鸡前来上贡",
+        "id": "1518869520680587265",
+        "name": "文援姬🖤雪桐",
+        "pinned_tweet_id": "1678332212503281664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1678329577897336832/AGB1njEH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 136,
+          "like_count": 228,
+          "listed_count": 3,
+          "media_count": 23,
+          "tweet_count": 31
+        },
+        "username": "xuetongwww",
+        "verified": false
+      }
+    ]
+  }
+}

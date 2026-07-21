@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1838640144020378011",
+    "created_at": "2024-09-24T18:02:25.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-24T19:02:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1838640144020378011"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "915393066097184770",
+          "start": 3,
+          "username": "qunxingdiyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1838640144020378011",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1838089525236465925",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qunxingdiyu: 走在路上，遇到了晓晓祖宗，\n一般人都会对祖宗美貌目不转睛地盯着。\n可你这样废物的恋足傻逼抖m 第一反应就是去看祖宗的脚。\n想要看到脚趾，想要看到脚后跟，想要看到足底——好想好想——♡\n当然是…不行哦🖤傻逼\n偷窥到无脑然后贡求祖宗发图才是你的宿命…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1838640144020378011].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1838640144020378011",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1838640144020378011"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1838089519075352576"
+          ]
+        },
+        "author_id": "915393066097184770",
+        "conversation_id": "1838089525236465925",
+        "created_at": "2024-09-23T05:34:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-23T06:34:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1838089525236465925"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 128,
+              "start": 125,
+              "tag": "洗脑"
+            },
+            {
+              "end": 132,
+              "start": 129,
+              "tag": "压榨"
+            },
+            {
+              "end": 136,
+              "start": 133,
+              "tag": "贡奴"
+            },
+            {
+              "end": 140,
+              "start": 137,
+              "tag": "足控"
+            },
+            {
+              "end": 144,
+              "start": 141,
+              "tag": "文援"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nakbtygrv7",
+              "end": 168,
+              "expanded_url": "https://twitter.com/qunxingdiyu/status/1838089525236465925/photo/1",
+              "media_key": "3_1838089519075352576",
+              "start": 145,
+              "url": "https://t.co/NAkBtYGRv7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838089525236465925",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 2587,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "走在路上，遇到了晓晓祖宗，\n一般人都会对祖宗美貌目不转睛地盯着。\n可你这样废物的恋足傻逼抖m 第一反应就是去看祖宗的脚。\n想要看到脚趾，想要看到脚后跟，想要看到足底——好想好想——♡\n当然是…不行哦🖤傻逼\n偷窥到无脑然后贡求祖宗发图才是你的宿命呢🖤\n#洗脑 #压榨 #贡奴 #足控 #文援 https://t.co/NAkBtYGRv7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "超绝可爱💖\n她就是出道即巅峰的可爱纯真小天使新人偶像魔女小姐💖\n对这样的魔女小姐不能心怀任何涩涩的念想哦，不然就会变得非常糟糕...踏入无法挣脱的陷阱和牢笼里呢💘\n魔女小姐无论说什么做什么都是正确的哦，身为她的粉丝，只需要无条件用各种方式支持她就好了～\nqq2829556413",
+        "id": "1374389254726455305",
+        "name": "电波系新人偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1804570562511126828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836438377702600704/CAqVvsCj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5433,
+          "following_count": 191,
+          "like_count": 151,
+          "listed_count": 23,
+          "tweet_count": 1074
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2017-10-04T01:48:08.000Z",
+        "description": "是喜欢玩弄狗狗的身心，让狗狗肉体和精神一起屈服，从而献出自己的一切的女神晓晓哦❤️\n擅长羞辱，射精管理，压榨与洗脑~玩弄绿帽奴也不在话下❤️\n最近迷上了“钓鱼”呢~鱼塘里招募自愿上钩的小鱼哦\n妈妈@yuexias\n好闺蜜  @qinnai_s \n门牌在置顶图",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 98,
+                "username": "yuexias"
+              },
+              {
+                "end": 121,
+                "start": 112,
+                "username": "qinnai_s"
+              }
+            ]
+          }
+        },
+        "id": "915393066097184770",
+        "name": "月晓晓❤️文援（互推",
+        "pinned_tweet_id": "1613484997574553600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1348965338713632769/SVsqB2tU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7894,
+          "following_count": 67,
+          "like_count": 0,
+          "listed_count": 40,
+          "tweet_count": 278
+        },
+        "username": "qunxingdiyu",
+        "verified": false
+      }
+    ]
+  }
+}

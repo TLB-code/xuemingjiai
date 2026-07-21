@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1927613269965238331",
+    "created_at": "2025-05-28T06:29:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-28T07:29:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927613269965238331"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1908183909277609984",
+          "start": 3,
+          "username": "yun1952110"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927613269965238331",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927410203697217782",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yun1952110: 傻逼们看的眼睛都直了吧~♡妈妈的胸好看么~看到并且意淫至发情流水的傻逼~通通欠yun大人5r的门槛费♡~这次就傻逼们自己在评论区吧~留下Q~然后每天晚上硬着鸡巴~等着yun大人找上门加好友催债~嗯~当然如果主动找上门说明来意🖤~奖励双倍门槛哦~…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1927613269965238331].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1927613269965238331",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1927613269965238331"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1927410193148579843",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr-JW9sWkAMZWR-.jpg",
+        "width": 1481
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1927410193148579843"
+          ]
+        },
+        "author_id": "1908183909277609984",
+        "conversation_id": "1927410203697217782",
+        "created_at": "2025-05-27T17:02:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T18:02:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927410203697217782"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kIgWfAN0lD",
+              "end": 146,
+              "expanded_url": "https://x.com/yun1952110/status/1927410203697217782/photo/1",
+              "media_key": "3_1927410193148579843",
+              "start": 123,
+              "url": "https://t.co/kIgWfAN0lD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927410203697217782",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1783,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "傻逼们看的眼睛都直了吧~♡妈妈的胸好看么~看到并且意淫至发情流水的傻逼~通通欠yun大人5r的门槛费♡~这次就傻逼们自己在评论区吧~留下Q~然后每天晚上硬着鸡巴~等着yun大人找上门加好友催债~嗯~当然如果主动找上门说明来意🖤~奖励双倍门槛哦~ https://t.co/kIgWfAN0lD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "集美貌，智慧，强大于一身的魔女族公主现身人世～区区人类，跪下向我表示臣服吧💜\n被我支配 控制 吸脑 成为奴仆💜\n挑战qq242184780，里世界小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858\n女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "oricz233"
+              },
+              {
+                "end": 104,
+                "start": 95,
+                "username": "moelipoi"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "cutelingli"
+              },
+              {
+                "end": 144,
+                "start": 129,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 155,
+                "start": 148,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏💜强势登场人间",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926028406774247424/hWplRg7q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7022,
+          "following_count": 290,
+          "like_count": 322,
+          "listed_count": 32,
+          "media_count": 621,
+          "tweet_count": 1858
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-04T15:45:12.000Z",
+        "description": "🖤 无底线🖤洗脑❤️ 会用色情的语言清空傻逼处男的钱包呢🖤\n门牌3023421569\n  264838818\n门槛5",
+        "id": "1908183909277609984",
+        "name": "yun（互推）",
+        "pinned_tweet_id": "1921884054611181818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925546901136433152/Oh8Aa4ni_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 19,
+          "like_count": 27,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 207
+        },
+        "username": "yun1952110",
+        "verified": false
+      }
+    ]
+  }
+}

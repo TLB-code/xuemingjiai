@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1935213836543647744"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "1935213839689335037",
+    "created_at": "2025-06-18T05:51:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-18T06:51:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1935213839689335037"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 8,
+          "start": 0,
+          "tag": "魔女公主的日常"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uv6iEk6z1n",
+          "end": 166,
+          "expanded_url": "https://x.com/xuemingjiai/status/1935213839689335037/photo/1",
+          "media_key": "3_1935213836543647744",
+          "start": 143,
+          "url": "https://t.co/uv6iEk6z1n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935213839689335037",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#魔女公主的日常\n嗯，这是存在很久的粉丝群了，之前的入群方式是靠本公主邀请，现在决定对外开放一段时间，你问群里有什么，能做什么？\n答案是能够和本公主近距离接触，能够崇拜本公主，能够成为或者使用公用钱包，能够进行一些日常的闲聊🤍\n二次元头像或者下过单，给本公主当过钱包的会优先考虑同意。 https://t.co/uv6iEk6z1n"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2055,
+        "media_key": "3_1935213836543647744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GttCuyua4AA2Bhn.jpg",
+        "width": 1156
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935213836543647744"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "1935213839689335037",
+        "created_at": "2025-06-18T05:51:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T06:51:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935213839689335037"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "魔女公主的日常"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uv6iEk6z1n",
+              "end": 166,
+              "expanded_url": "https://x.com/xuemingjiai/status/1935213839689335037/photo/1",
+              "media_key": "3_1935213836543647744",
+              "start": 143,
+              "url": "https://t.co/uv6iEk6z1n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935213839689335037",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#魔女公主的日常\n嗯，这是存在很久的粉丝群了，之前的入群方式是靠本公主邀请，现在决定对外开放一段时间，你问群里有什么，能做什么？\n答案是能够和本公主近距离接触，能够崇拜本公主，能够成为或者使用公用钱包，能够进行一些日常的闲聊🤍\n二次元头像或者下过单，给本公主当过钱包的会优先考虑同意。 https://t.co/uv6iEk6z1n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n你也会因为窥视我的美貌而心甘情愿沦为钱包被我使用的对吗？\n钱包报名入口：3971546171\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 67,
+                "username": "oricz233"
+              },
+              {
+                "end": 96,
+                "start": 87,
+                "username": "moelipoi"
+              },
+              {
+                "end": 114,
+                "start": 103,
+                "username": "cutelingli"
+              },
+              {
+                "end": 136,
+                "start": 121,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 148,
+                "start": 141,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍驯化公用钱包👛中",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931064828044713984/9qwnduVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7233,
+          "following_count": 308,
+          "like_count": 368,
+          "listed_count": 33,
+          "media_count": 689,
+          "tweet_count": 2082
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

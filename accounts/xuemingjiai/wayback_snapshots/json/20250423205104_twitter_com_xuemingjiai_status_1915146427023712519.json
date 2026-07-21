@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1915146427023712519",
+    "created_at": "2025-04-23T20:51:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-23T21:51:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915146427023712519"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1312572317206159360",
+          "start": 3,
+          "username": "moelipoi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915146427023712519",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915000848134115812",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @moelipoi: 对付贱猪抖M大叔是最简单的呢～这种脑残贱种一定会对女孩子的私处感兴趣～只需要大腿用力骑在这群贱货的脖子上～一边让这群废物大叔感受窒息的快感～一边用涂着美甲的手指虐待着早泄龟头刮得猪鞭前列腺液乱喷～🖤再用体育课后充满臭汗味的酸臭袜子处以闷刑～这群傻屄就…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1915146427023712519].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1915146427023712519",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1915146427023712519"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1448,
+        "media_key": "3_1915000843449077760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpNzHvpbEAA7NKu.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1448,
+        "media_key": "3_1915000841989472256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpNzHqNbQAA8LZY.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1448,
+        "media_key": "3_1915000845390999552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpNzH24acAA9FjW.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1915000843449077760",
+            "3_1915000841989472256",
+            "3_1915000845390999552"
+          ]
+        },
+        "author_id": "1312572317206159360",
+        "conversation_id": "1915000848134115812",
+        "created_at": "2025-04-23T11:12:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T12:12:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1915000848134115812"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3uI7pdlEgY",
+              "end": 164,
+              "expanded_url": "https://x.com/moelipoi/status/1915000848134115812/photo/1",
+              "media_key": "3_1915000843449077760",
+              "start": 141,
+              "url": "https://t.co/3uI7pdlEgY"
+            },
+            {
+              "display_url": "pic.x.com/3uI7pdlEgY",
+              "end": 164,
+              "expanded_url": "https://x.com/moelipoi/status/1915000848134115812/photo/1",
+              "media_key": "3_1915000841989472256",
+              "start": 141,
+              "url": "https://t.co/3uI7pdlEgY"
+            },
+            {
+              "display_url": "pic.x.com/3uI7pdlEgY",
+              "end": 164,
+              "expanded_url": "https://x.com/moelipoi/status/1915000848134115812/photo/1",
+              "media_key": "3_1915000845390999552",
+              "start": 141,
+              "url": "https://t.co/3uI7pdlEgY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915000848134115812",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 1642,
+          "like_count": 48,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "对付贱猪抖M大叔是最简单的呢～这种脑残贱种一定会对女孩子的私处感兴趣～只需要大腿用力骑在这群贱货的脖子上～一边让这群废物大叔感受窒息的快感～一边用涂着美甲的手指虐待着早泄龟头刮得猪鞭前列腺液乱喷～🖤再用体育课后充满臭汗味的酸臭袜子处以闷刑～这群傻屄就会像落水狗一样磕头臣服了对吧🖤 https://t.co/3uI7pdlEgY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "您好～这里是一直致力于为小雏男哥哥们提供“舒适”“安全”“极致射金体验”的纯真妹系小天使魔女妹妹💚\n想更加了解请翻看推文～\nqq2829556413，病毒小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858\n女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 79,
+                "username": "oricz233"
+              },
+              {
+                "end": 108,
+                "start": 99,
+                "username": "moelipoi"
+              },
+              {
+                "end": 126,
+                "start": 115,
+                "username": "cutelingli"
+              },
+              {
+                "end": 148,
+                "start": 133,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 159,
+                "start": 152,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系天使偶像魔女小姐💖女仆限定版♪",
+        "pinned_tweet_id": "1912930515570835816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909108552796651520/gRlgoaOf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6756,
+          "following_count": 275,
+          "like_count": 305,
+          "listed_count": 29,
+          "media_count": 579,
+          "tweet_count": 1605
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-04T01:57:08.000Z",
+        "description": "贵安~💖这里是主擅长恋足气味调教洗脑的全能系JK绿茶偶像璃酱💛|性癖无雷点 | 句段均可|爱好养公狗当宠物💜|貢ぎ奴隷送死欢迎🖤|把脑子无意识的交给偶像温柔的美夜月鏡中吧?💙\n门牌号:1912443435 \n单推偶像:@xuemingjiai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 109,
+                "username": "xuemingjiai"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/moeliqwq",
+                "end": 23,
+                "expanded_url": "http://t.me/moeliqwq",
+                "start": 0,
+                "url": "https://t.co/ttwGimBZ9H"
+              }
+            ]
+          }
+        },
+        "id": "1312572317206159360",
+        "location": "40/0.5h 75/h 全天营业丨不接M单",
+        "name": "詩月璃ぴょん ❀",
+        "pinned_tweet_id": "1911036147817681330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909065476900339712/VLbacfuO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6381,
+          "following_count": 138,
+          "like_count": 259,
+          "listed_count": 9,
+          "media_count": 181,
+          "tweet_count": 1042
+        },
+        "url": "https://t.co/ttwGimBZ9H",
+        "username": "moelipoi",
+        "verified": true
+      }
+    ]
+  }
+}

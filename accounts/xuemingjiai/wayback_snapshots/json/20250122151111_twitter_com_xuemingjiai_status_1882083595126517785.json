@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1882083595126517785",
+    "created_at": "2025-01-22T15:11:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-22T16:11:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1882083595126517785"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1374389254726455305",
+          "start": 3,
+          "username": "xuemingjiai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882083595126517785",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881339072754713035",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xuemingjiai: 杂鱼小雏男们又见面了呢～\n在魔女小姐不在的这段时间里，“魔女重度依赖症”有加深吗~\n嘴硬着说没有也没关系哦💜\n毕竟只要命令你现在立刻马上握住“操控杆”，就会乖乖承认啦♪\n那么，就勃起，然后握住吧~\n没什么好害羞的，杂鱼小雏男存在的价值就是被魔女…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1882083595126517785].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1882083595126517785",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1882083595126517785"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1881339069948674048"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "1881339072754713035",
+        "created_at": "2025-01-20T13:52:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-20T14:52:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881339072754713035"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ySDvaVwHNe",
+              "end": 168,
+              "expanded_url": "https://x.com/xuemingjiai/status/1881339072754713035/photo/1",
+              "media_key": "3_1881339069948674048",
+              "start": 145,
+              "url": "https://t.co/ySDvaVwHNe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881339072754713035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 5696,
+          "like_count": 62,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "杂鱼小雏男们又见面了呢～\n在魔女小姐不在的这段时间里，“魔女重度依赖症”有加深吗~\n嘴硬着说没有也没关系哦💜\n毕竟只要命令你现在立刻马上握住“操控杆”，就会乖乖承认啦♪\n那么，就勃起，然后握住吧~\n没什么好害羞的，杂鱼小雏男存在的价值就是被魔女小姐羞辱命令欺负否定压榨白给上贡自毁到死哦💜 https://t.co/ySDvaVwHNe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "您好～这里是出道以来一直致力于为小雏男哥哥们提供“舒适”“安全”“极致快感”的纯真妹系小天使魔女妹妹💚\n想了解我请翻看我的推文～\nqq2829556413，碎碎念小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 83,
+                "username": "oricz233"
+              },
+              {
+                "end": 112,
+                "start": 103,
+                "username": "moelipoi"
+              },
+              {
+                "end": 130,
+                "start": 119,
+                "username": "cutelingli"
+              },
+              {
+                "end": 152,
+                "start": 137,
+                "username": "chessy80978858"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系天使偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878142670054604800/aZFysFDs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6338,
+          "following_count": 252,
+          "like_count": 285,
+          "listed_count": 29,
+          "media_count": 537,
+          "tweet_count": 1486
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

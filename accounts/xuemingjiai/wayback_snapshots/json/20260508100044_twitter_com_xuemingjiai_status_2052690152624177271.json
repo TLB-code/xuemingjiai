@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "2052690152624177271",
+    "created_at": "2026-05-08T10:00:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T11:00:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052690152624177271"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1739976691970412544",
+          "start": 3,
+          "username": "SakiHana_effigy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052690152624177271",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049817259263369248",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SakiHana_effigy: 人渣，花一个月工资换来侍奉我的机会很爽对嘛♡\n（咔嚓）哈哈，不会吧！被闪光灯照到狗脸居然吓得直接泄精了？\n以后每个月给我交纳贡金，要是敢逾期，不保证你的父母朋友不会某天突然在手机上看到你的猪头哦~\n好好期待你那将被小女生胁迫到死，只能在…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2052690152624177271].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2052690152624177271",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2052690152624177271"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 849,
+        "media_key": "3_2049817253269639168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHJp7nOakAAeHKc.jpg",
+        "width": 1200
+      },
+      {
+        "height": 849,
+        "media_key": "3_2049817256289607680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHJp7yeboAANhtK.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049817253269639168",
+            "3_2049817256289607680"
+          ]
+        },
+        "author_id": "1739976691970412544",
+        "conversation_id": "2049817259263369248",
+        "created_at": "2026-04-30T11:44:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T12:44:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049817259263369248"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 135,
+              "start": 132,
+              "tag": "胁迫"
+            },
+            {
+              "end": 139,
+              "start": 136,
+              "tag": "贡奴"
+            },
+            {
+              "end": 143,
+              "start": 140,
+              "tag": "文援"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zWc5JtLCoW",
+              "end": 167,
+              "expanded_url": "https://x.com/SakiHana_effigy/status/2049817259263369248/photo/1",
+              "media_key": "3_2049817253269639168",
+              "start": 144,
+              "url": "https://t.co/zWc5JtLCoW"
+            },
+            {
+              "display_url": "pic.x.com/zWc5JtLCoW",
+              "end": 167,
+              "expanded_url": "https://x.com/SakiHana_effigy/status/2049817259263369248/photo/1",
+              "media_key": "3_2049817256289607680",
+              "start": 144,
+              "url": "https://t.co/zWc5JtLCoW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049817259263369248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1985,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "人渣，花一个月工资换来侍奉我的机会很爽对嘛♡\n（咔嚓）哈哈，不会吧！被闪光灯照到狗脸居然吓得直接泄精了？\n以后每个月给我交纳贡金，要是敢逾期，不保证你的父母朋友不会某天突然在手机上看到你的猪头哦~\n好好期待你那将被小女生胁迫到死，只能在恐惧中度过的余生吧，傻逼♡\n＃胁迫 ＃贡奴 ＃文援 https://t.co/zWc5JtLCoW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会魅惑并享用钱包的公主殿下🤍\n最最最最喜欢钱包们啦～\n联系方式→2829556413←\n病毒小号@oricz233\n现任魔女学园院长!\n星辰魔女镜璃\n@jingli1840489\n桃心魔女奈奈\n@blakexiaonai\n 黑白魔女花卷\n@miaomiaomi17630\n好老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 52,
+                "username": "oricz233"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 114,
+                "start": 101,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 139,
+                "start": 123,
+                "username": "miaomiaomi17630"
+              },
+              {
+                "end": 158,
+                "start": 143,
+                "username": "chessy80978858"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "魅惑系魔女族公主-奏💜魔女学园院长版～",
+        "pinned_tweet_id": "2013314916120416537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018477066753306624/36q-3UGh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8787,
+          "following_count": 361,
+          "like_count": 633,
+          "listed_count": 37,
+          "media_count": 825,
+          "tweet_count": 2186
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-27T11:49:17.000Z",
+        "description": "诞生于纯粹恶意的人偶，各位称呼我为咲花即可。擅长运用各类毒素侵蚀意志薄弱的人类大哥哥大姐姐们🖤 \n门牌1377762595，🚪20，同行可免，私信看到感兴趣的会回复，锁奴/贡奴招收中～",
+        "id": "1739976691970412544",
+        "name": "咲花✨",
+        "pinned_tweet_id": "2046235460335444305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045219683532763136/muJtJPoK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 27,
+          "like_count": 73,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 25
+        },
+        "username": "SakiHana_effigy",
+        "verified": false
+      }
+    ]
+  }
+}

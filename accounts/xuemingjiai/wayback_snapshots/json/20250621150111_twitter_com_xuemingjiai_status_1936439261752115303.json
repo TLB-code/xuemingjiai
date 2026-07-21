@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1936439261752115303",
+    "created_at": "2025-06-21T15:01:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-21T16:01:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936439261752115303"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 17,
+          "tag": "魔女公主的日常"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1374389254726455305",
+          "start": 3,
+          "username": "xuemingjiai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936439261752115303",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 29
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935719637435785442",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xuemingjiai: #魔女公主的日常\n很久没稍微认真的使用魔法了...\n毕竟最近来的钱包实在是太多了，都是完全不用任何魔力就可以随意宰杀的白给钱包呢～\n这样子也未免太无聊了，所以本公主决定在推特上发布一个名为“延迟陷阱”的魔法🤍\n这个魔法的特征是：\n延时（随时随地…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2047,
+        "media_key": "3_1935719632339353600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt0Ov-5WQAAI1cx.jpg",
+        "width": 1249
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "1936439261752115303",
+        "created_at": "2025-06-21T15:01:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T16:01:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936439261752115303"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 17,
+              "tag": "魔女公主的日常"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1374389254726455305",
+              "start": 3,
+              "username": "xuemingjiai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936439261752115303",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 29
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935719637435785442",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xuemingjiai: #魔女公主的日常\n很久没稍微认真的使用魔法了...\n毕竟最近来的钱包实在是太多了，都是完全不用任何魔力就可以随意宰杀的白给钱包呢～\n这样子也未免太无聊了，所以本公主决定在推特上发布一个名为“延迟陷阱”的魔法🤍\n这个魔法的特征是：\n延时（随时随地…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935719632339353600"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "1935719637435785442",
+        "created_at": "2025-06-19T15:21:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T16:21:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935719637435785442"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "魔女公主的日常"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/re7TevHIHu",
+              "end": 170,
+              "expanded_url": "https://x.com/xuemingjiai/status/1935719637435785442/photo/1",
+              "media_key": "3_1935719632339353600",
+              "start": 147,
+              "url": "https://t.co/re7TevHIHu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935719637435785442",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 7527,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "#魔女公主的日常\n很久没稍微认真的使用魔法了...\n毕竟最近来的钱包实在是太多了，都是完全不用任何魔力就可以随意宰杀的白给钱包呢～\n这样子也未免太无聊了，所以本公主决定在推特上发布一个名为“延迟陷阱”的魔法🤍\n这个魔法的特征是：\n延时（随时随地）陷阱（肯定会白给）\n毫无挣脱可能以及永远存在🤍 https://t.co/re7TevHIHu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n你也会因为窥视我的美貌而心甘情愿沦为钱包被我使用的对吗？\n钱包报名入口：2829556413和3971546171\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 78,
+                "username": "oricz233"
+              },
+              {
+                "end": 107,
+                "start": 98,
+                "username": "moelipoi"
+              },
+              {
+                "end": 125,
+                "start": 114,
+                "username": "cutelingli"
+              },
+              {
+                "end": 147,
+                "start": 132,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 159,
+                "start": 152,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍驯化公用钱包👛中",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931064828044713984/9qwnduVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7259,
+          "following_count": 310,
+          "like_count": 375,
+          "listed_count": 32,
+          "media_count": 697,
+          "tweet_count": 2128
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

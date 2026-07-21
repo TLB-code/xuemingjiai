@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2055306878398382080"
+      ],
+      "media_source_tweet_id": [
+        "2055306945998028848"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "2056006182616309804",
+    "created_at": "2026-05-17T13:37:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T14:37:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056006182616309804"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2054735161464594432",
+          "start": 3,
+          "username": "miaomiaomyoez2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jvT0bsrVYU",
+          "end": 48,
+          "expanded_url": "https://x.com/miaomiaomyoez2/status/2055306945998028848/video/1",
+          "media_key": "13_2055306878398382080",
+          "start": 25,
+          "url": "https://t.co/jvT0bsrVYU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056006182616309804",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055306945998028848",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @miaomiaomyoez2: 一点转生 https://t.co/jvT0bsrVYU"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11900,
+        "height": 1280,
+        "media_key": "13_2055306878398382080",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2055306878398382080/img/8vYfdH2Qh0d-WqRG.jpg",
+        "public_metrics": {
+          "view_count": 5
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055306878398382080/vid/avc1/320x568/eBdJEfcRgtZ71PeP.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055306878398382080/vid/avc1/480x852/C_fB9aSWJA6xOmDz.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055306878398382080/vid/avc1/720x1280/XISKINrA_poKzMxJ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2055306878398382080/pl/ALhiGBjxAejqRXT-.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 11900,
+        "height": 1280,
+        "media_key": "13_2055306878398382080",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2055306878398382080/img/8vYfdH2Qh0d-WqRG.jpg",
+        "public_metrics": {
+          "view_count": 6
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055306878398382080/vid/avc1/320x568/eBdJEfcRgtZ71PeP.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055306878398382080/vid/avc1/480x852/C_fB9aSWJA6xOmDz.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055306878398382080/vid/avc1/720x1280/XISKINrA_poKzMxJ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2055306878398382080/pl/ALhiGBjxAejqRXT-.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2055306878398382080"
+          ],
+          "media_source_tweet_id": [
+            "2055306945998028848"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "2056006182616309804",
+        "created_at": "2026-05-17T13:37:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T14:37:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056006182616309804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2054735161464594432",
+              "start": 3,
+              "username": "miaomiaomyoez2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jvT0bsrVYU",
+              "end": 48,
+              "expanded_url": "https://x.com/miaomiaomyoez2/status/2055306945998028848/video/1",
+              "media_key": "13_2055306878398382080",
+              "start": 25,
+              "url": "https://t.co/jvT0bsrVYU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056006182616309804",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055306945998028848",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @miaomiaomyoez2: 一点转生 https://t.co/jvT0bsrVYU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2055306878398382080"
+          ]
+        },
+        "author_id": "2054735161464594432",
+        "conversation_id": "2055306945998028848",
+        "created_at": "2026-05-15T15:18:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T16:18:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055306945998028848"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jvT0bsrVYU",
+              "end": 28,
+              "expanded_url": "https://x.com/miaomiaomyoez2/status/2055306945998028848/video/1",
+              "media_key": "13_2055306878398382080",
+              "start": 5,
+              "url": "https://t.co/jvT0bsrVYU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055306945998028848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "一点转生 https://t.co/jvT0bsrVYU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会魅惑并享用钱包的公主殿下🤍\n精通各种处刑钱包的方法🖤\n联系方式→2829556413←\n病毒小号@oricz233\n现任魔女学园院长\n星辰魔女镜璃\n@jingli1840489\n桃心魔女奈奈\n@blakexiaonai\n 黑白魔女花卷\n@miaomiaomi17630\n好老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "oricz233"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 114,
+                "start": 101,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 139,
+                "start": 123,
+                "username": "miaomiaomi17630"
+              },
+              {
+                "end": 158,
+                "start": 143,
+                "username": "chessy80978858"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "全能魅惑系魔女族公主-奏💜魔女学园院长版～",
+        "pinned_tweet_id": "2013314916120416537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055327575581556736/-ZRgWKku_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8832,
+          "following_count": 366,
+          "like_count": 635,
+          "listed_count": 38,
+          "media_count": 825,
+          "tweet_count": 2193
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-14T01:27:19.000Z",
+        "description": "全新的自己",
+        "id": "2054735161464594432",
+        "name": "卷卷不溪溪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055306414789365761/k9uZIyWI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 13,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 1
+        },
+        "username": "miaomiaomyoez2",
+        "verified": false
+      }
+    ]
+  }
+}

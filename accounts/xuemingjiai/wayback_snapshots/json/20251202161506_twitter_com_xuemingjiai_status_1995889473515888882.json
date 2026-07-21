@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1995889473515888882",
+    "created_at": "2025-12-02T16:15:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T17:15:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995889473515888882"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1824458334008905733",
+          "start": 3,
+          "username": "ru12564"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995889473515888882",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986278916068417847",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ru12564: 人形吐币机就应该好好履行自己的职责呢～\n给人家无脑吐钱是你的责任和义务🖤\n你是绝对逃不掉的\n人家可是牢牢掌握着让你吐钱的密码呢🖤\n“足臭”“丝袜”\n这些词不都是能让你这废物吐币机喷出“金液”的密码吗～\n乖乖在本小姐脚下吐币就好了\n被足臭熏到失去理智淫叫…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1995889473515888882].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1995889473515888882",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1995889473515888882"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 891,
+        "media_key": "3_1986278904789934082",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5CuI-DbIAIw94n.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986278904789934082"
+          ]
+        },
+        "author_id": "1824458334008905733",
+        "conversation_id": "1986278916068417847",
+        "created_at": "2025-11-06T03:46:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T04:46:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986278916068417847"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 142,
+              "start": 139,
+              "tag": "文援"
+            },
+            {
+              "end": 146,
+              "start": 143,
+              "tag": "女s"
+            },
+            {
+              "end": 151,
+              "start": 147,
+              "tag": "atm"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uxjYDaEeqz",
+              "end": 175,
+              "expanded_url": "https://x.com/ru12564/status/1986278916068417847/photo/1",
+              "media_key": "3_1986278904789934082",
+              "start": 152,
+              "url": "https://t.co/uxjYDaEeqz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986278916068417847",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 5567,
+          "like_count": 91,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "人形吐币机就应该好好履行自己的职责呢～\n给人家无脑吐钱是你的责任和义务🖤\n你是绝对逃不掉的\n人家可是牢牢掌握着让你吐钱的密码呢🖤\n“足臭”“丝袜”\n这些词不都是能让你这废物吐币机喷出“金液”的密码吗～\n乖乖在本小姐脚下吐币就好了\n被足臭熏到失去理智淫叫喷金是你的唯一归宿哦🖤\n\n#文援 #女s #atm https://t.co/uxjYDaEeqz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n最最最最喜欢钱包们啦!\n天天挨骂真的不会腻嘛～\n擅长用爱意和温柔的语气俘虏钱包～\n联系方式→242184780←\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 77,
+                "username": "oricz233"
+              },
+              {
+                "end": 106,
+                "start": 97,
+                "username": "moelipoi"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "cutelingli"
+              },
+              {
+                "end": 146,
+                "start": 131,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 158,
+                "start": 151,
+                "username": "1xian1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍对钱包们最温柔最有好感版",
+        "pinned_tweet_id": "1976743806063063398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991861278688821248/oCQEPeIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8008,
+          "following_count": 344,
+          "like_count": 642,
+          "listed_count": 36,
+          "media_count": 762,
+          "tweet_count": 2350
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-16T14:49:12.000Z",
+        "description": "前5k粉抖s文媛 臭脚学姐奈奈 有男友 依旧是针对各位喜欢被洗脑男m营业的漂亮坏女人🖤欢迎各位无法控制大脑的杂鱼叩响奈奈学姐的门牌 舔狗贡奴自觉送死🖤 门槛15r 下单可抵 🚪：3943700844",
+        "id": "1824458334008905733",
+        "location": "Higashiosaka-shi, Osaka",
+        "name": "奈奈Zz",
+        "pinned_tweet_id": "1986278916068417847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915449292736913412/u6FKhTk0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 904,
+          "following_count": 29,
+          "like_count": 498,
+          "listed_count": 3,
+          "media_count": 49,
+          "tweet_count": 151
+        },
+        "username": "ru12564",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1989339787342614552",
+    "created_at": "2025-11-14T14:29:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T15:29:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989339787342614552"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1951937781296754688",
+          "start": 3,
+          "username": "3378895338Ran"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989339787342614552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989185207908594081",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @3378895338Ran: 听说中原有很多外冷内齁的反差母猪仙子～♡妾身刚来就遇到了盯着人家酸臭丝袜脚发情流水的白痴母猪仙子呢～只是用酸丝嫩脚闷在猪脸上很轻易就驯服成母猪坐骑了呢～♡\n\n只是被妾身的玉嫩手指抠挖哦齁母猪的屁眼都可以爽成这个样子吗？躲在后面的哦齁母猪在偷…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1989339787342614552].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1989339787342614552",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1989339787342614552"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1302,
+        "media_key": "3_1989185170541539328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5sBX5qacAA2XE3.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989185170541539328"
+          ]
+        },
+        "author_id": "1951937781296754688",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1989185207908594081",
+        "created_at": "2025-11-14T04:14:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T05:14:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989185207908594081"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZQ3KFD5QuQ",
+              "end": 165,
+              "expanded_url": "https://x.com/3378895338Ran/status/1989185207908594081/photo/1",
+              "media_key": "3_1989185170541539328",
+              "start": 142,
+              "url": "https://t.co/ZQ3KFD5QuQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989185207908594081",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 2397,
+          "like_count": 81,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "听说中原有很多外冷内齁的反差母猪仙子～♡妾身刚来就遇到了盯着人家酸臭丝袜脚发情流水的白痴母猪仙子呢～只是用酸丝嫩脚闷在猪脸上很轻易就驯服成母猪坐骑了呢～♡\n\n只是被妾身的玉嫩手指抠挖哦齁母猪的屁眼都可以爽成这个样子吗？躲在后面的哦齁母猪在偷看什么呢？也想成为妾身的玩具吗？跪下！母猪 https://t.co/ZQ3KFD5QuQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n最最最最喜欢钱包们啦!\n天天挨骂真的不会腻嘛～\n擅长用爱意和温柔的语气俘虏钱包～\n联系方式→3971546171←\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 78,
+                "username": "oricz233"
+              },
+              {
+                "end": 107,
+                "start": 98,
+                "username": "moelipoi"
+              },
+              {
+                "end": 125,
+                "start": 114,
+                "username": "cutelingli"
+              },
+              {
+                "end": 147,
+                "start": 132,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 159,
+                "start": 152,
+                "username": "1xian1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARosxSy"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍对钱包们最温柔最有好感版",
+        "pinned_tweet_id": "1976743806063063398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969152325731168256/ozl0k8K4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7879,
+          "following_count": 324,
+          "like_count": 644,
+          "listed_count": 35,
+          "media_count": 748,
+          "tweet_count": 2287
+        },
+        "url": "https://t.co/le8ARosxSy",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-03T09:27:34.000Z",
+        "description": "碌碌无为的小透明文媛汐染🖤擅长：丝袜高跟/气味调教/黑心压榨/臭脚提款/肥臀闷脸❤️并非全职文媛没第一时间回复请谅解💜价格：30r/0.5h 60r/1h 晚上40r/0.5h 70r/1h💕门牌：3378895338〖门槛10r〗其他业务可私聊了解～♡〖不涉三〗老公：@_shogun_111",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 147,
+                "start": 135,
+                "username": "_shogun_111"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/X1ranS0619",
+                "end": 23,
+                "expanded_url": "https://t.me/X1ranS0619",
+                "start": 0,
+                "url": "https://t.co/LRn7WpcYFG"
+              }
+            ]
+          }
+        },
+        "id": "1951937781296754688",
+        "location": "汐染狐狸洞",
+        "name": "狐狸汐染〖文媛〗",
+        "pinned_tweet_id": "1989185207908594081",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951938151813165056/dQ7mDCHa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1013,
+          "following_count": 54,
+          "like_count": 84,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 127
+        },
+        "url": "https://t.co/LRn7WpcYFG",
+        "username": "3378895338Ran",
+        "verified": false
+      }
+    ]
+  }
+}

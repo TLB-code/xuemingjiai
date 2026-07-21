@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1858908057197309952"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1851563784554627239",
+    "created_at": "2024-11-19T16:19:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-19T17:19:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1858908060510810163"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vD02HWXt6P",
+          "end": 141,
+          "expanded_url": "https://x.com/xuemingjiai/status/1858908060510810163/photo/1",
+          "media_key": "3_1858908057197309952",
+          "start": 118,
+          "url": "https://t.co/vD02HWXt6P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1858908060510810163",
+    "in_reply_to_user_id": "1374389254726455305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1858907548122075384",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "动..动不了了..？!\n符咒被反过来贴在我的脸上了...\n是因为诅咒之剑让她的封印解除了吗...\n呜...现在该怎么办...莉莉娅姐姐..救救..!\n（没有任何回应）\n唔...这个角度..明明不能动弹..还会顶的那么疼...太过分了♡ https://t.co/vD02HWXt6P"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 750,
+        "media_key": "3_1858908057197309952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GcwrB3NbcAAMzRt.jpg",
+        "width": 1333
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1858908057197309952"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1851563784554627239",
+        "created_at": "2024-11-19T16:19:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-19T17:19:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858908060510810163"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vD02HWXt6P",
+              "end": 141,
+              "expanded_url": "https://x.com/xuemingjiai/status/1858908060510810163/photo/1",
+              "media_key": "3_1858908057197309952",
+              "start": 118,
+              "url": "https://t.co/vD02HWXt6P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858908060510810163",
+        "in_reply_to_user_id": "1374389254726455305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858907548122075384",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "动..动不了了..？!\n符咒被反过来贴在我的脸上了...\n是因为诅咒之剑让她的封印解除了吗...\n呜...现在该怎么办...莉莉娅姐姐..救救..!\n（没有任何回应）\n唔...这个角度..明明不能动弹..还会顶的那么疼...太过分了♡ https://t.co/vD02HWXt6P"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1858907545521582081"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "1851563784554627239",
+        "created_at": "2024-11-19T16:17:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-19T17:17:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858907548122075384"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VYll68msDy",
+              "end": 106,
+              "expanded_url": "https://x.com/xuemingjiai/status/1858907548122075384/photo/1",
+              "media_key": "3_1858907545521582081",
+              "start": 83,
+              "url": "https://t.co/VYll68msDy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858907548122075384",
+        "in_reply_to_user_id": "1374389254726455305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858907042880385152",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可恶啊！居然真的有魔物...\n不过区区一只僵尸，肯定奈何不了我..\n长得是很可爱，要是能收服成性奴肯定很棒..不对不对，我在想什么呢，啊哈!去死吧!（挥动诅咒之剑） https://t.co/VYll68msDy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "超绝可爱💖\n她就是出道即巅峰的可爱纯真小天使新人偶像魔女小姐💖\n对这样的魔女小姐不能心怀任何涩涩的念想哦，不然就会变得非常糟糕...踏入无法挣脱的陷阱和牢笼里呢💘\n魔女小姐无论说什么做什么都是正确的哦，身为她的粉丝，只需要无条件用各种方式支持她就好了～\nqq2829556413，碎碎念小号@oricz233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 154,
+                "start": 145,
+                "username": "oricz233"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "老婆@cutelingli",
+        "name": "电波系新人偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854618482215911424/R3TTJuCj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5926,
+          "following_count": 233,
+          "like_count": 194,
+          "listed_count": 26,
+          "tweet_count": 1362
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

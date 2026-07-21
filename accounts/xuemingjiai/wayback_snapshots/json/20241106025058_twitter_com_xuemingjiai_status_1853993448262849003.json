@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1853993445767184384"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "1851563784554627239",
+    "created_at": "2024-11-06T02:50:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-06T03:50:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1853993448262849003"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tx7OvxBEyB",
+          "end": 186,
+          "expanded_url": "https://x.com/xuemingjiai/status/1853993448262849003/photo/1",
+          "media_key": "3_1853993445767184384",
+          "start": 163,
+          "url": "https://t.co/tx7OvxBEyB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1853993448262849003",
+    "in_reply_to_user_id": "1374389254726455305",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1853992791413833784",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "噢噢噢噢...♡♡♡\n还是...帮天使姐姐解开了枷锁♡♡♡\n接下来是...帮忙解除诅咒吗？\n这解除诅咒的方式就更奇怪了...♡\n空气中充斥着涩情的气体...这样子完全没办法冷静下来思考啊啊啊..♡♡♡\n大脑要坏掉了...♡\n撅起屁股...\n下跪...\n磕头...\n舔鞋...\n全都做了啊啊♡♡♡\n不..不能再继续下去了..♡ https://t.co/tx7OvxBEyB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_1853993445767184384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gbq1N07bAAACzyG.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1853993445767184384"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "1851563784554627239",
+        "created_at": "2024-11-06T02:50:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-06T03:50:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1853993448262849003"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tx7OvxBEyB",
+              "end": 186,
+              "expanded_url": "https://x.com/xuemingjiai/status/1853993448262849003/photo/1",
+              "media_key": "3_1853993445767184384",
+              "start": 163,
+              "url": "https://t.co/tx7OvxBEyB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853993448262849003",
+        "in_reply_to_user_id": "1374389254726455305",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1853992791413833784",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "噢噢噢噢...♡♡♡\n还是...帮天使姐姐解开了枷锁♡♡♡\n接下来是...帮忙解除诅咒吗？\n这解除诅咒的方式就更奇怪了...♡\n空气中充斥着涩情的气体...这样子完全没办法冷静下来思考啊啊啊..♡♡♡\n大脑要坏掉了...♡\n撅起屁股...\n下跪...\n磕头...\n舔鞋...\n全都做了啊啊♡♡♡\n不..不能再继续下去了..♡ https://t.co/tx7OvxBEyB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1853992788670783488"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1851563784554627239",
+        "created_at": "2024-11-06T02:48:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-06T03:48:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1853992791413833784"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4k9Zp5ixYY",
+              "end": 178,
+              "expanded_url": "https://x.com/xuemingjiai/status/1853992791413833784/photo/1",
+              "media_key": "3_1853992788670783488",
+              "start": 155,
+              "url": "https://t.co/4k9Zp5ixYY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853992791413833784",
+        "in_reply_to_user_id": "1374389254726455305",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1853151852348797323",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "啊！\n在一阵眩晕感过后，我保持着羞耻的姿势进入了魔物塔的第三层...\n不出所料，天使姐姐被禁锢了！\n咕噜...咽口水...好漂亮♡\n不行不行...我在乱想什么呀，耽误之急..是把她救出来吧...\n唔...？犒劳？\n天使姐姐说的总感觉有什么地方不对劲...要去吗？真的要帮她解开枷锁吗？\n对于我来说很容易... https://t.co/4k9Zp5ixYY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "超绝可爱💖\n她就是出道即巅峰的可爱纯真小天使新人偶像魔女小姐💖\n对这样的魔女小姐不能心怀任何涩涩的念想哦，不然就会变得非常糟糕...踏入无法挣脱的陷阱和牢笼里呢💘\n魔女小姐无论说什么做什么都是正确的哦，身为她的粉丝，只需要无条件用各种方式支持她就好了～\nqq2829556413，碎碎念小号@oricz233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 154,
+                "start": 145,
+                "username": "oricz233"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "name": "电波系新人偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852908791496683520/hJ-EmF1L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5812,
+          "following_count": 224,
+          "like_count": 184,
+          "listed_count": 23,
+          "tweet_count": 1284
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

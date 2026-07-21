@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1932422550614900774",
+    "created_at": "2025-06-10T13:00:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-10T14:00:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932422550614900774"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "879412678724247553",
+          "start": 3,
+          "username": "Charlotte_Lucif"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932422550614900774",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932419261513052242",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Charlotte_Lucif: 几张腿照 不会就有贱狗或是母畜跑来犯贱了吧 躲在网路后面意淫翻着姐姐的推特不管是撸动还是扣着屄 🖕🖤\n为什么不直接来找姐姐呢❤️ 肯定比偷偷犯贱还要爽呢 还有那些S表面上都是压榨其他狗狗 很多私底下都在意淫想要上贡吧 嘻嘻 ❤️💙\n#贡…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1932422550614900774].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1932422550614900774",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1932422550614900774"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1932419246761639937",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtFVEQhbAAED95z.jpg",
+        "width": 1542
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1932419246740656128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtFVEQca0AAREcm.jpg",
+        "width": 1542
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932419246761639937",
+            "3_1932419246740656128"
+          ]
+        },
+        "author_id": "879412678724247553",
+        "conversation_id": "1932419261513052242",
+        "created_at": "2025-06-10T12:47:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T13:47:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932419261513052242"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 119,
+              "start": 116,
+              "tag": "贡奴"
+            },
+            {
+              "end": 123,
+              "start": 120,
+              "tag": "上贡"
+            },
+            {
+              "end": 127,
+              "start": 124,
+              "tag": "压榨"
+            },
+            {
+              "end": 131,
+              "start": 128,
+              "tag": "榨金"
+            },
+            {
+              "end": 135,
+              "start": 132,
+              "tag": "贡号"
+            },
+            {
+              "end": 141,
+              "start": 136,
+              "tag": "2DFD"
+            },
+            {
+              "end": 149,
+              "start": 142,
+              "tag": "findom"
+            },
+            {
+              "end": 158,
+              "start": 150,
+              "tag": "gooning"
+            },
+            {
+              "end": 163,
+              "start": 159,
+              "tag": "atm"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/55Ovm1Uy0p",
+              "end": 187,
+              "expanded_url": "https://x.com/Charlotte_Lucif/status/1932419261513052242/photo/1",
+              "media_key": "3_1932419246761639937",
+              "start": 164,
+              "url": "https://t.co/55Ovm1Uy0p"
+            },
+            {
+              "display_url": "pic.x.com/55Ovm1Uy0p",
+              "end": 187,
+              "expanded_url": "https://x.com/Charlotte_Lucif/status/1932419261513052242/photo/1",
+              "media_key": "3_1932419246740656128",
+              "start": 164,
+              "url": "https://t.co/55Ovm1Uy0p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932419261513052242",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 37,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "几张腿照 不会就有贱狗或是母畜跑来犯贱了吧 躲在网路后面意淫翻着姐姐的推特不管是撸动还是扣着屄 🖕🖤\n为什么不直接来找姐姐呢❤️ 肯定比偷偷犯贱还要爽呢 还有那些S表面上都是压榨其他狗狗 很多私底下都在意淫想要上贡吧 嘻嘻 ❤️💙\n#贡奴 #上贡 #压榨 #榨金 #贡号 #2DFD #findom #gooning #atm https://t.co/55Ovm1Uy0p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n你也会因为窥视我的美貌而心甘情愿沦为钱包被我使用的对吗？\n钱包报名入口：242184780\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 66,
+                "username": "oricz233"
+              },
+              {
+                "end": 95,
+                "start": 86,
+                "username": "moelipoi"
+              },
+              {
+                "end": 113,
+                "start": 102,
+                "username": "cutelingli"
+              },
+              {
+                "end": 135,
+                "start": 120,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 147,
+                "start": 140,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍驯化公用钱包👛中",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931064828044713984/9qwnduVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7184,
+          "following_count": 304,
+          "like_count": 354,
+          "listed_count": 33,
+          "media_count": 674,
+          "tweet_count": 2015
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-26T18:54:56.000Z",
+        "description": "🇹🇼+🇯🇵|99|中性|双極性障害など|DM⭕|全性愛|無言フォロー|INFP-T|𝓭𝓪𝓼 𝓼𝓮𝓲𝓷 𝔃𝓾𝓶 𝓽𝓸𝓭𝓮|\n門檻30 88 199|Loser DM me 10$|\nENG/한국어/日本語/中文 OK|\nFindom 2DFD $end ↓",
+        "entities": {
+          "description": {
+            "cashtags": [
+              {
+                "end": 125,
+                "start": 121,
+                "tag": "end"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "paypal.me/luciferouo",
+                "end": 23,
+                "expanded_url": "http://paypal.me/luciferouo",
+                "start": 0,
+                "url": "https://t.co/1pGfGeX01H"
+              }
+            ]
+          }
+        },
+        "id": "879412678724247553",
+        "name": "✡️𝓓𝓸𝓷𝓴😈𝓛𝓾𝓬𝓲𝓯𝓮𝓻✡️(ねる/𝓝𝓮𝓻𝓾)",
+        "pinned_tweet_id": "1909978492974035404",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904503172477186048/gOmhXN_7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12923,
+          "following_count": 893,
+          "like_count": 10090,
+          "listed_count": 56,
+          "media_count": 208,
+          "tweet_count": 3742
+        },
+        "url": "https://t.co/1pGfGeX01H",
+        "username": "Charlotte_Lucif",
+        "verified": true
+      }
+    ]
+  }
+}

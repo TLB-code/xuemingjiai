@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1931014783723286528"
+      ],
+      "media_source_tweet_id": [
+        "1931014786030191053"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "1931051426949816724",
+    "created_at": "2025-06-06T18:11:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-06T19:11:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931051426949816724"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1921832227996119040",
+          "start": 3,
+          "username": "shiling7651"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MnVUNuaJ5o",
+          "end": 139,
+          "expanded_url": "https://x.com/shiling7651/status/1931014786030191053/photo/1",
+          "media_key": "3_1931014783723286528",
+          "start": 116,
+          "url": "https://t.co/MnVUNuaJ5o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931051426949816724",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931014786030191053",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shiling7651: 亲爱的~我回来啦， 还特意穿了你最喜欢的情趣内衣w诶？你问身上这些是什么～？哎呀，就是一些~恶作剧纹身而已啦♡下面流出来的是什么？啊，那些只是酸奶撒了呢♡人家怎么可能出轨什么的呢~💚对吧，亲爱的💚 https://t.co/MnVUNuaJ5o"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1931051426949816724].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1931051426949816724",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1931051426949816724"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1856,
+        "media_key": "3_1931014783723286528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsxXtv_asAASAnT.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1931014783723286528"
+          ]
+        },
+        "author_id": "1921832227996119040",
+        "conversation_id": "1931014786030191053",
+        "created_at": "2025-06-06T15:46:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-06T16:46:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931014786030191053"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MnVUNuaJ5o",
+              "end": 122,
+              "expanded_url": "https://x.com/shiling7651/status/1931014786030191053/photo/1",
+              "media_key": "3_1931014783723286528",
+              "start": 99,
+              "url": "https://t.co/MnVUNuaJ5o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931014786030191053",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 319,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "亲爱的~我回来啦， 还特意穿了你最喜欢的情趣内衣w诶？你问身上这些是什么～？哎呀，就是一些~恶作剧纹身而已啦♡下面流出来的是什么？啊，那些只是酸奶撒了呢♡人家怎么可能出轨什么的呢~💚对吧，亲爱的💚 https://t.co/MnVUNuaJ5o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "集美貌，智慧，强大于一身的魔女族公主现身人世～区区人类，跪下向我表示臣服吧💜\n被我支配 控制 吸脑 成为奴仆💜\n挑战qq2829556413，里世界小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858\n女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 76,
+                "username": "oricz233"
+              },
+              {
+                "end": 105,
+                "start": 96,
+                "username": "moelipoi"
+              },
+              {
+                "end": 123,
+                "start": 112,
+                "username": "cutelingli"
+              },
+              {
+                "end": 145,
+                "start": 130,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 156,
+                "start": 149,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏💜散播同化病毒中～",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926028406774247424/hWplRg7q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7133,
+          "following_count": 297,
+          "like_count": 340,
+          "listed_count": 33,
+          "media_count": 650,
+          "tweet_count": 1929
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-12T07:38:15.000Z",
+        "description": "这里是新人文媛姬诗铃~是喜欢欺负可爱的小男生♡也会好好侍奉雄性的萝莉魅魔哟~♡毕竟~这是魅魔的~进食环节♡呢~欢迎客人来访~那么~也还请客人做好被人家榨干当做魅魔食粮的准备呐♡门牌:3800716151备用:3919302576",
+        "id": "1921832227996119040",
+        "name": "诗铃♡文援(欢迎互推~)",
+        "pinned_tweet_id": "1921983886793359465",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921832879211868160/7vVBIpnT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 423,
+          "following_count": 106,
+          "like_count": 47,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 209
+        },
+        "username": "shiling7651",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1994491695459963301",
+    "created_at": "2025-11-28T19:40:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T20:40:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994491695459963301"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1806344468418965504",
+          "start": 3,
+          "username": "Sana_0627"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994491695459963301",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992641629157806499",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sana_0627: 撸管撸出幻觉的白痴脑弱处男 居然想着和女神表白💗为了所谓的仪式感就把同样看不起傻逼处男的闺蜜们拉群见证这个白痴时刻💗怎么见到人家拜金双标的闺蜜们就双腿发软忍不住贡钱了 被当成傻逼哄出自己屌丝般的收入🖤用着忽悠脑瘫的语气把你勾到当场滑出来🖤你说你钱包…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1994491695459963301].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1994491695459963301",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1994491695459963301"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1444,
+        "media_key": "3_1992641588179116032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6dI94wWIAADPlf.jpg",
+        "width": 720
+      },
+      {
+        "height": 1431,
+        "media_key": "3_1992641588170821632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6dI94uXkAAoRrr.jpg",
+        "width": 720
+      },
+      {
+        "height": 1422,
+        "media_key": "3_1992641588179152896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6dI94wWsAAgOWe.jpg",
+        "width": 720
+      },
+      {
+        "height": 1567,
+        "media_key": "3_1992641588166610944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6dI94tXUAAqbm2.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992641588179116032",
+            "3_1992641588170821632",
+            "3_1992641588179152896",
+            "3_1992641588166610944"
+          ]
+        },
+        "author_id": "1806344468418965504",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1992641629157806499",
+        "created_at": "2025-11-23T17:09:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T18:09:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992641629157806499"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 140,
+              "start": 135,
+              "tag": "atm奴"
+            },
+            {
+              "end": 144,
+              "start": 141,
+              "tag": "压榨"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8VhNVVgeIN",
+              "end": 168,
+              "expanded_url": "https://x.com/Sana_0627/status/1992641629157806499/photo/1",
+              "media_key": "3_1992641588179116032",
+              "start": 145,
+              "url": "https://t.co/8VhNVVgeIN"
+            },
+            {
+              "display_url": "pic.x.com/8VhNVVgeIN",
+              "end": 168,
+              "expanded_url": "https://x.com/Sana_0627/status/1992641629157806499/photo/1",
+              "media_key": "3_1992641588170821632",
+              "start": 145,
+              "url": "https://t.co/8VhNVVgeIN"
+            },
+            {
+              "display_url": "pic.x.com/8VhNVVgeIN",
+              "end": 168,
+              "expanded_url": "https://x.com/Sana_0627/status/1992641629157806499/photo/1",
+              "media_key": "3_1992641588179152896",
+              "start": 145,
+              "url": "https://t.co/8VhNVVgeIN"
+            },
+            {
+              "display_url": "pic.x.com/8VhNVVgeIN",
+              "end": 168,
+              "expanded_url": "https://x.com/Sana_0627/status/1992641629157806499/photo/1",
+              "media_key": "3_1992641588166610944",
+              "start": 145,
+              "url": "https://t.co/8VhNVVgeIN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992641629157806499",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 3409,
+          "like_count": 54,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "撸管撸出幻觉的白痴脑弱处男 居然想着和女神表白💗为了所谓的仪式感就把同样看不起傻逼处男的闺蜜们拉群见证这个白痴时刻💗怎么见到人家拜金双标的闺蜜们就双腿发软忍不住贡钱了 被当成傻逼哄出自己屌丝般的收入🖤用着忽悠脑瘫的语气把你勾到当场滑出来🖤你说你钱包空了还怎么追我🖤滚吧\n#atm奴 #压榨 https://t.co/8VhNVVgeIN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n最最最最喜欢钱包们啦!\n天天挨骂真的不会腻嘛～\n擅长用爱意和温柔的语气俘虏钱包～\n联系方式→242184780←\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 77,
+                "username": "oricz233"
+              },
+              {
+                "end": 106,
+                "start": 97,
+                "username": "moelipoi"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "cutelingli"
+              },
+              {
+                "end": 146,
+                "start": 131,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 158,
+                "start": 151,
+                "username": "1xian1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍对钱包们最温柔最有好感版",
+        "pinned_tweet_id": "1976743806063063398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991861278688821248/oCQEPeIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7989,
+          "following_count": 343,
+          "like_count": 639,
+          "listed_count": 36,
+          "media_count": 762,
+          "tweet_count": 2344
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-27T15:11:09.000Z",
+        "description": "储存在贱狗大脑里的金金就是女神最好的养分💗淫语羞辱勾引勒索就是贱狗最好的取款密码💗",
+        "id": "1806344468418965504",
+        "location": "🚪20 支付码在置顶推文里～交完再私信💗",
+        "name": "纱奈💚",
+        "pinned_tweet_id": "1857660143913381965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893029527154208768/EUH6h8Th_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3008,
+          "following_count": 9,
+          "like_count": 155,
+          "listed_count": 8,
+          "media_count": 51,
+          "tweet_count": 84
+        },
+        "username": "Sana_0627",
+        "verified": false
+      }
+    ]
+  }
+}

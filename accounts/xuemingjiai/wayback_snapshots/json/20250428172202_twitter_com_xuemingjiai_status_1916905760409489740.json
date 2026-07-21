@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1916905760409489740",
+    "created_at": "2025-04-28T17:22:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-28T18:22:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916905760409489740"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1545077939510730752",
+          "start": 3,
+          "username": "molijiushiruci1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916905760409489740",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 44
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916510791127253276",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @molijiushiruci1: 肉棒的气息～就这么吸引你吗？\n\n很卖力的在给亲妈清洁屌臭呢w\n\n只是荷尔蒙气息与淫臭骚汗混合在一起的浓郁味道🖤但是却让你的废物小阴蒂～一下子就翘起来了🖤\n\n请不要吸臭的同时幻想着炙热滚烫而坚硬的巨根，恶狠狠碾在娇小阴蒂上这种事哦（笑）…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1916905760409489740].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1916905760409489740",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1916905760409489740"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1916510788053086208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpjQaFobsAAJfyU.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1916510788053086208"
+          ]
+        },
+        "author_id": "1545077939510730752",
+        "conversation_id": "1916510791127253276",
+        "created_at": "2025-04-27T15:12:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T16:12:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916510791127253276"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uu6tuMOKJf",
+              "end": 170,
+              "expanded_url": "https://x.com/molijiushiruci1/status/1916510791127253276/photo/1",
+              "media_key": "3_1916510788053086208",
+              "start": 147,
+              "url": "https://t.co/uu6tuMOKJf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916510791127253276",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 8150,
+          "like_count": 135,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 44
+        },
+        "reply_settings": "everyone",
+        "text": "肉棒的气息～就这么吸引你吗？\n\n很卖力的在给亲妈清洁屌臭呢w\n\n只是荷尔蒙气息与淫臭骚汗混合在一起的浓郁味道🖤但是却让你的废物小阴蒂～一下子就翘起来了🖤\n\n请不要吸臭的同时幻想着炙热滚烫而坚硬的巨根，恶狠狠碾在娇小阴蒂上这种事哦（笑）\n\n脑子～会一瞬间被屌臭烙上属于茉莉的印记呢——\n\n贱奴🖤 https://t.co/uu6tuMOKJf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "您好～这里是一直致力于为小雏男哥哥们提供“舒适”“安全”“极致射金体验”的纯真妹系小天使魔女妹妹💚\n想更加了解请翻看推文～\nqq242184780，病毒小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858\n女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 78,
+                "username": "oricz233"
+              },
+              {
+                "end": 107,
+                "start": 98,
+                "username": "moelipoi"
+              },
+              {
+                "end": 125,
+                "start": 114,
+                "username": "cutelingli"
+              },
+              {
+                "end": 147,
+                "start": 132,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 158,
+                "start": 151,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系天使偶像魔女小姐💖女仆限定版♪",
+        "pinned_tweet_id": "1912930515570835816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909108552796651520/gRlgoaOf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6820,
+          "following_count": 276,
+          "like_count": 306,
+          "listed_count": 29,
+          "media_count": 586,
+          "tweet_count": 1622
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-07T16:11:11.000Z",
+        "description": "一个擅长气味调教与羞辱的扶她魅魔女仆🖤加咱的时候记的带20r门槛哦，门牌见置顶推评论区，tg：https://t.co/kNKviCT2T9 \n点击偷窥茉莉私生活→@MaidmoliS",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 82,
+                "username": "MaidmoliS"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/moli_0312",
+                "end": 70,
+                "expanded_url": "http://t.me/moli_0312",
+                "start": 47,
+                "url": "https://t.co/kNKviCT2T9"
+              }
+            ]
+          }
+        },
+        "id": "1545077939510730752",
+        "location": "在你的心里~或是踩在你的脸上♡",
+        "name": "魅魔女仆🖤茉莉（随机营业中）",
+        "pinned_tweet_id": "1769765224091918487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916074264186523651/LCcg3Nz7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14299,
+          "following_count": 401,
+          "like_count": 2036,
+          "listed_count": 33,
+          "media_count": 331,
+          "tweet_count": 5472
+        },
+        "username": "molijiushiruci1",
+        "verified": false
+      }
+    ]
+  }
+}

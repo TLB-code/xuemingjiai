@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1990729925762949380",
+    "created_at": "2025-11-18T10:32:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T11:32:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990729925762949380"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1238309529701384192",
+          "start": 3,
+          "username": "atmnmsl"
+        },
+        {
+          "end": 44,
+          "id": "1374389254726455305",
+          "start": 32,
+          "username": "xuemingjiai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990729925762949380",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 40
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990595585402184006",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @atmnmsl: 和据说是世界上最会享用钱包的美丽公主🤍@xuemingjiai一起消灭公厕变态的童话故事w\n\n招聘日抛型母肉马桶，雌竞上岗，证明你能胜任此工作\n要求：母畜倒贴送货上门，当着母畜的面没收手机身份证银行卡，进行无理由毁脑压榨，使用完毕后立即销毁，全过程将录…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1990729925762949380].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1990729925762949380",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1990729925762949380"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "alt_text": "你妈死了",
+        "height": 840,
+        "media_key": "3_1990595565844115462",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6AEHtmbMAYgjik.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990595565844115462"
+          ]
+        },
+        "author_id": "1238309529701384192",
+        "conversation_id": "1990595585402184006",
+        "created_at": "2025-11-18T01:39:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T02:39:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990595585402184006"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 31,
+              "id": "1374389254726455305",
+              "start": 19,
+              "username": "xuemingjiai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZwZn17TVWT",
+              "end": 174,
+              "expanded_url": "https://x.com/atmnmsl/status/1990595585402184006/photo/1",
+              "media_key": "3_1990595565844115462",
+              "start": 151,
+              "url": "https://t.co/ZwZn17TVWT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990595585402184006",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3137,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 40
+        },
+        "reply_settings": "everyone",
+        "text": "和据说是世界上最会享用钱包的美丽公主🤍@xuemingjiai一起消灭公厕变态的童话故事w\n\n招聘日抛型母肉马桶，雌竞上岗，证明你能胜任此工作\n要求：母畜倒贴送货上门，当着母畜的面没收手机身份证银行卡，进行无理由毁脑压榨，使用完毕后立即销毁，全过程将录像保存以便出售\n偷窥费用38r，傻逼太监自觉转发 https://t.co/ZwZn17TVWT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n最最最最喜欢钱包们啦!\n天天挨骂真的不会腻嘛～\n擅长用爱意和温柔的语气俘虏钱包～\n联系方式→242184780←\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 77,
+                "username": "oricz233"
+              },
+              {
+                "end": 106,
+                "start": 97,
+                "username": "moelipoi"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "cutelingli"
+              },
+              {
+                "end": 146,
+                "start": 131,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 158,
+                "start": 151,
+                "username": "1xian1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍对钱包们最温柔最有好感版",
+        "pinned_tweet_id": "1976743806063063398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969152325731168256/ozl0k8K4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7897,
+          "following_count": 326,
+          "like_count": 637,
+          "listed_count": 35,
+          "media_count": 752,
+          "tweet_count": 2304
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-13T03:43:02.000Z",
+        "description": "这个账号已经被草莓布丁病毒寄生，失去了原本的全部个人信息。如果你也想被草莓布丁女神寄生，请点击以下链接获取病毒\nhttps://t.co/y5bK9U71ac",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "atmnmsl.vercel.app",
+                "end": 79,
+                "expanded_url": "https://atmnmsl.vercel.app/",
+                "start": 56,
+                "url": "https://t.co/y5bK9U71ac"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/atmnmsl",
+                "end": 23,
+                "expanded_url": "http://t.me/atmnmsl",
+                "start": 0,
+                "url": "https://t.co/minRxRigI2"
+              }
+            ]
+          }
+        },
+        "id": "1238309529701384192",
+        "location": "莓莓帝国",
+        "name": "草莓布丁（生化母体版）",
+        "pinned_tweet_id": "1984984831168770242",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761432786412662784/aWwouj9W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11964,
+          "following_count": 1,
+          "like_count": 2501,
+          "listed_count": 29,
+          "media_count": 607,
+          "tweet_count": 2943
+        },
+        "url": "https://t.co/minRxRigI2",
+        "username": "atmnmsl",
+        "verified": false
+      }
+    ]
+  }
+}

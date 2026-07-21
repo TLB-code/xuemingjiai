@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1866398142503297411",
+    "created_at": "2024-12-10T08:22:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-10T09:22:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1866398142503297411"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1316096588381515781",
+          "start": 3,
+          "username": "lichuanmuyouzi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1866398142503297411",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1866150512426635360",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lichuanmuyouzi: 从现在～到「正式营业」前\r会不定时的放出预告哦❤️\r今天放松的预告是～\r小山茶的「表」性格\n\r小山茶作为完美女友～\r将会～满足各位「小雏男」的【一切幻想】\r也会～满足各位「小雏男」的【一切需求】\r会给各位带来～梦寐以求的\n【完美】「恋爱」…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "1866398142503297411",
+        "created_at": "2024-12-10T08:22:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-10T09:22:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866398142503297411"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1316096588381515781",
+              "start": 3,
+              "username": "lichuanmuyouzi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866398142503297411",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866150512426635360",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lichuanmuyouzi: 从现在～到「正式营业」前\r会不定时的放出预告哦❤️\r今天放松的预告是～\r小山茶的「表」性格\n\r小山茶作为完美女友～\r将会～满足各位「小雏男」的【一切幻想】\r也会～满足各位「小雏男」的【一切需求】\r会给各位带来～梦寐以求的\n【完美】「恋爱」…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1866150495087427584"
+          ]
+        },
+        "author_id": "1316096588381515781",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1866150512426635360",
+        "created_at": "2024-12-09T15:58:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-09T16:58:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1866150512426635360"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 147,
+              "start": 144,
+              "tag": "文援"
+            },
+            {
+              "end": 152,
+              "start": 149,
+              "tag": "洗脑"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/S1N210KW66",
+              "end": 176,
+              "expanded_url": "https://x.com/lichuanmuyouzi/status/1866150512426635360/photo/1",
+              "media_key": "3_1866150495087427584",
+              "start": 153,
+              "url": "https://t.co/S1N210KW66"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866150512426635360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 134,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "从现在～到「正式营业」前\r会不定时的放出预告哦❤️\r今天放松的预告是～\r小山茶的「表」性格\n\r小山茶作为完美女友～\r将会～满足各位「小雏男」的【一切幻想】\r也会～满足各位「小雏男」的【一切需求】\r会给各位带来～梦寐以求的\n【完美】「恋爱」💚\r\r顺便～「表」状态只收取52R/0.5h哦\n\n#文援  #洗脑 https://t.co/S1N210KW66"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "您好～这里是出道以来一直致力于为小雏男哥哥们提供“舒适”“安全”“极致快感”的纯真妹系小天使魔女妹妹💚\n想了解我请翻看我的推文～\nqq2829556413，碎碎念小号@oricz233\n共同出道的偶像老婆：@moeliQWQ\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 83,
+                "username": "oricz233"
+              },
+              {
+                "end": 112,
+                "start": 103,
+                "username": "moeliQWQ"
+              },
+              {
+                "end": 130,
+                "start": 119,
+                "username": "cutelingli"
+              },
+              {
+                "end": 152,
+                "start": 137,
+                "username": "chessy80978858"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系天使偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862768210711392256/_qeQwE-8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6175,
+          "following_count": 240,
+          "like_count": 239,
+          "listed_count": 26,
+          "media_count": 516,
+          "tweet_count": 1401
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-13T19:20:59.000Z",
+        "description": "这里是山茶哦～知道嘛知道嘛 山茶的花语是“理想的爱♡”哦 渴望名为“喜欢”的药的话就来向咱示爱 随后溺死在咱的甜言中吧～ 门槛20/30/60 没有区别的…也许？ 🚪3396356798 等你哦❤️",
+        "id": "1316096588381515781",
+        "location": "映你眼眸的深处",
+        "name": "小山茶",
+        "pinned_tweet_id": "1559157346328162305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865023421559771136/Nk7qzNwn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 630,
+          "following_count": 1,
+          "like_count": 1,
+          "listed_count": 5,
+          "media_count": 3,
+          "tweet_count": 2
+        },
+        "username": "lichuanmuyouzi",
+        "verified": false
+      }
+    ]
+  }
+}

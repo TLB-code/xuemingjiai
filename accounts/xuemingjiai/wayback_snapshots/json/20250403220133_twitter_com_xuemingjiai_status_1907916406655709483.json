@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1907774220886786048"
+      ],
+      "media_source_tweet_id": [
+        "1907774230521135518"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "1907916406655709483",
+    "created_at": "2025-04-03T22:01:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-03T23:01:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907916406655709483"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1767389142739226624",
+          "start": 3,
+          "username": "ranranmiao1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/A87cUOaa43",
+          "end": 53,
+          "expanded_url": "https://x.com/ranranmiao1/status/1907774230521135518/photo/1",
+          "media_key": "3_1907774220886786048",
+          "start": 30,
+          "url": "https://t.co/A87cUOaa43"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907916406655709483",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907774230521135518",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ranranmiao1: qq搜不到的话扫码添加～ https://t.co/A87cUOaa43"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1907916406655709483].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1907916406655709483",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1907916406655709483"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2272,
+        "media_key": "3_1907774220886786048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnnGi8uawAAP3FE.jpg",
+        "width": 1253
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1907774220886786048"
+          ]
+        },
+        "author_id": "1767389142739226624",
+        "conversation_id": "1907774230521135518",
+        "created_at": "2025-04-03T12:36:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T13:36:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907774230521135518"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A87cUOaa43",
+              "end": 36,
+              "expanded_url": "https://x.com/ranranmiao1/status/1907774230521135518/photo/1",
+              "media_key": "3_1907774220886786048",
+              "start": 13,
+              "url": "https://t.co/A87cUOaa43"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907774230521135518",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 383,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "qq搜不到的话扫码添加～ https://t.co/A87cUOaa43"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "您好～这里是出道以来一直致力于为小雏男哥哥们提供“舒适”“安全”“极致射金体验”的纯真妹系小天使魔女妹妹💚\n想了解我请翻看我的推文～\nqq2829556413，碎碎念小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 85,
+                "username": "oricz233"
+              },
+              {
+                "end": 114,
+                "start": 105,
+                "username": "moelipoi"
+              },
+              {
+                "end": 132,
+                "start": 121,
+                "username": "cutelingli"
+              },
+              {
+                "end": 154,
+                "start": 139,
+                "username": "chessy80978858"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系天使偶像魔女小姐💖女仆限定版♪",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907689949878693889/HrJZStFZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6608,
+          "following_count": 267,
+          "like_count": 306,
+          "listed_count": 28,
+          "media_count": 551,
+          "tweet_count": 1520
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-12T03:16:37.000Z",
+        "description": "这里是苒喵～\n喜欢听话有礼貌的乖狗狗～\n苒喵会有点危险呢～喜欢诱骗大哥哥主动把口袋里的零钱上交给苒喵～❤️，\n不喜粗口辱骂×。\n门槛10元不抵扣；文媛:45/30分钟；门牌：1829761733",
+        "id": "1767389142739226624",
+        "name": "苒喵（互推）",
+        "pinned_tweet_id": "1907774230521135518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900517580789391360/4PwxjRXE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 910,
+          "following_count": 43,
+          "like_count": 3,
+          "listed_count": 2,
+          "media_count": 5,
+          "tweet_count": 16
+        },
+        "username": "ranranmiao1",
+        "verified": false
+      }
+    ]
+  }
+}

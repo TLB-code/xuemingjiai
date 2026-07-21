@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1923392965273162236",
+    "created_at": "2025-05-16T14:59:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-16T15:59:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923392965273162236"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 116,
+          "start": 113,
+          "tag": "调教"
+        },
+        {
+          "end": 120,
+          "start": 117,
+          "tag": "黑心"
+        },
+        {
+          "end": 125,
+          "start": 121,
+          "tag": "atm"
+        },
+        {
+          "end": 129,
+          "start": 126,
+          "tag": "贡奴"
+        },
+        {
+          "end": 133,
+          "start": 130,
+          "tag": "毁脑"
+        },
+        {
+          "end": 137,
+          "start": 134,
+          "tag": "调教"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1521448514060001281",
+          "start": 3,
+          "username": "realkboffical"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923392965273162236",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 33
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922843470017790089",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "verified",
+    "text": "RT @realkboffical: 废物公狗🖤看到亲妈发情的样子流精了?也想把你那点稀水喂给我吗🖤恐怕跪着爬到一半下面就漏干净了吧阳痿烂屌玩意黑心\n给你竖个中指一把扣烂你那个发情脑子🖤变成上贡喷金杀妈死全家的atm废物哦🖤\n#调教 #黑心 #atm #贡奴 #毁脑 #调教 #…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1923392965273162236].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1923392965273162236",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1923392965273162236"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1922843455555817472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gq9P72cW0AA_Muj.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1922843455555817472"
+          ]
+        },
+        "author_id": "1521448514060001281",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          }
+        ],
+        "conversation_id": "1922843470017790089",
+        "created_at": "2025-05-15T02:36:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-15T03:36:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1922843470017790089"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 97,
+              "start": 94,
+              "tag": "调教"
+            },
+            {
+              "end": 101,
+              "start": 98,
+              "tag": "黑心"
+            },
+            {
+              "end": 106,
+              "start": 102,
+              "tag": "atm"
+            },
+            {
+              "end": 110,
+              "start": 107,
+              "tag": "贡奴"
+            },
+            {
+              "end": 114,
+              "start": 111,
+              "tag": "毁脑"
+            },
+            {
+              "end": 118,
+              "start": 115,
+              "tag": "调教"
+            },
+            {
+              "end": 122,
+              "start": 119,
+              "tag": "内射"
+            },
+            {
+              "end": 127,
+              "start": 123,
+              "tag": "bbc"
+            },
+            {
+              "end": 131,
+              "start": 128,
+              "tag": "淫纹"
+            },
+            {
+              "end": 135,
+              "start": 132,
+              "tag": "后入"
+            },
+            {
+              "end": 139,
+              "start": 136,
+              "tag": "贡脑"
+            },
+            {
+              "end": 144,
+              "start": 140,
+              "tag": "高潮脸"
+            },
+            {
+              "end": 148,
+              "start": 145,
+              "tag": "自毁"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TTKx2BN7Vd",
+              "end": 172,
+              "expanded_url": "https://x.com/realkboffical/status/1922843470017790089/photo/1",
+              "media_key": "3_1922843455555817472",
+              "start": 149,
+              "url": "https://t.co/TTKx2BN7Vd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922843470017790089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 10171,
+          "like_count": 75,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 33
+        },
+        "reply_settings": "verified",
+        "text": "废物公狗🖤看到亲妈发情的样子流精了?也想把你那点稀水喂给我吗🖤恐怕跪着爬到一半下面就漏干净了吧阳痿烂屌玩意黑心\n给你竖个中指一把扣烂你那个发情脑子🖤变成上贡喷金杀妈死全家的atm废物哦🖤\n#调教 #黑心 #atm #贡奴 #毁脑 #调教 #内射 #bbc #淫纹 #后入 #贡脑 #高潮脸 #自毁 https://t.co/TTKx2BN7Vd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "集美貌，智慧，强大于一身的魔女族公主现身人世～区区人类，跪下向我表示臣服吧💜\n被我支配 控制 吸脑 成为奴仆💜\n挑战qq242184780，里世界小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858\n女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "oricz233"
+              },
+              {
+                "end": 104,
+                "start": 95,
+                "username": "moelipoi"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "cutelingli"
+              },
+              {
+                "end": 144,
+                "start": 129,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 155,
+                "start": 148,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏💜强势登场人间",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923161284247420929/dv1s2unV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6879,
+          "following_count": 283,
+          "like_count": 311,
+          "listed_count": 30,
+          "media_count": 608,
+          "tweet_count": 1801
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-03T11:16:26.000Z",
+        "description": "能娇会榨sm全能的姬姬门：297795464\n文:有剧情35/30min，剧情自带\n无剧情45/30min，1h文/陪聊均70，鉴屌30/根\n盯射188/10-20min；网调220/10-20min\n可定制可1v1可买库存，下11单满10分钟直接送wx，单加wx🚪88",
+        "id": "1521448514060001281",
+        "location": "天津，线下调教，面交面贡过🚪后解锁",
+        "name": "姬姬·视频原味可定制（q无🚪，v🚪88）",
+        "pinned_tweet_id": "1922843470017790089",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843823422981173248/C3VljVg-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11956,
+          "following_count": 142,
+          "like_count": 430,
+          "listed_count": 50,
+          "media_count": 375,
+          "tweet_count": 9280
+        },
+        "username": "realkboffical",
+        "verified": false
+      }
+    ]
+  }
+}

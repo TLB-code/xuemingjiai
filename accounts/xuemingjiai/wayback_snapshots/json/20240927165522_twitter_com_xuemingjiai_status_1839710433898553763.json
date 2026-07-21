@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1839710433898553763",
+    "created_at": "2024-09-27T16:55:22.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-27T17:55:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1839710433898553763"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1530149864968888321",
+          "start": 3,
+          "username": "mengshenglu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1839710433898553763",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1839382895804477801",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mengshenglu: 今天的主题是『感情操作』~  很好理解吧，是为了改变小雏男们面对一些场景的正确的感情w\n看着下面的瑟图，小雏男们会想到什么呢~\n『哥哥的肉棒，好舒服❤』\n欸～ 真的是这样吗。请注视着女孩子的嘴角呢，慢慢摩擦下面，好好想一想w https://t…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1839710433898553763].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1839710433898553763",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1839710433898553763"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1839382888296718336"
+          ]
+        },
+        "author_id": "1530149864968888321",
+        "conversation_id": "1839382895804477801",
+        "created_at": "2024-09-26T19:13:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-26T20:13:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1839382895804477801"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j4csw0c0re",
+              "end": 136,
+              "expanded_url": "https://twitter.com/mengshenglu/status/1839382895804477801/photo/1",
+              "media_key": "3_1839382888296718336",
+              "start": 113,
+              "url": "https://t.co/j4CsW0C0Re"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839382895804477801",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 193,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "今天的主题是『感情操作』~  很好理解吧，是为了改变小雏男们面对一些场景的正确的感情w\n看着下面的瑟图，小雏男们会想到什么呢~\n『哥哥的肉棒，好舒服❤』\n欸～ 真的是这样吗。请注视着女孩子的嘴角呢，慢慢摩擦下面，好好想一想w https://t.co/j4CsW0C0Re"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "超绝可爱💖\n她就是出道即巅峰的可爱纯真小天使新人偶像魔女小姐💖\n对这样的魔女小姐不能心怀任何涩涩的念想哦，不然就会变得非常糟糕...踏入无法挣脱的陷阱和牢笼里呢💘\n魔女小姐无论说什么做什么都是正确的哦，身为她的粉丝，只需要无条件用各种方式支持她就好了～\nqq2829556413",
+        "id": "1374389254726455305",
+        "name": "电波系新人偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1839039717712724125",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1838988880479162368/gYDpBM6v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5405,
+          "following_count": 198,
+          "like_count": 153,
+          "listed_count": 23,
+          "tweet_count": 1092
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-27T11:32:23.000Z",
+        "description": "这里是新届超絶元気可愛的地下美少女偶像—梦生鹿！不管是绿茶💚还是黑心🖤，对小鹿来说，拿捏小雏男粉丝还不是手到擒来～诶！就你呢！刷到小鹿推特的粉丝，快点捏着肉棒，前来送死～🚪 1849297119",
+        "id": "1530149864968888321",
+        "name": "梦生鹿",
+        "pinned_tweet_id": "1839382895804477801",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839120567628099584/P_Ug4Hcf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 47,
+          "like_count": 44,
+          "listed_count": 0,
+          "tweet_count": 57
+        },
+        "username": "mengshenglu",
+        "verified": false
+      }
+    ]
+  }
+}

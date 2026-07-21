@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1962974053150687599",
+    "created_at": "2025-09-02T20:20:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T21:20:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962974053150687599"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1084532005545492480",
+          "start": 3,
+          "username": "lanyuan411"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962974053150687599",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 55
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959642087139483815",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lanyuan411: 接单Sex2.0↓    \n\n①文调羞辱&amp;剧情（二次元羞辱图和玲奈本人涩图都有💚）：40/30min 70/h\n②鉴屌30r\n③树洞聊天（含聊骚，你问玲奈答。）50/1h \n\n④模拟榨金：88/30min（模拟上贡体验~压榨结束后全部返还贡金🖤）…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1962974053150687599].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1962974053150687599",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1962974053150687599"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1856,
+        "media_key": "3_1959639859985055744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzIKEe4bAAA9B9t.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959639859985055744"
+          ]
+        },
+        "author_id": "1084532005545492480",
+        "conversation_id": "1959642087139483815",
+        "created_at": "2025-08-24T15:40:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T16:32:45.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959640027656528020",
+          "1959642087139483815"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AnrqgJSuvE",
+              "end": 190,
+              "expanded_url": "https://x.com/lanyuan411/status/1959642087139483815/photo/1",
+              "media_key": "3_1959639859985055744",
+              "start": 167,
+              "url": "https://t.co/AnrqgJSuvE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959642087139483815",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "接单Sex2.0↓    \n\n①文调羞辱&剧情（二次元羞辱图和玲奈本人涩图都有💚）：40/30min 70/h\n②鉴屌30r\n③树洞聊天（含聊骚，你问玲奈答。）50/1h \n\n④模拟榨金：88/30min（模拟上贡体验~压榨结束后全部返还贡金🖤）\n⑤早泄挑战：52/3min  （3分钟内高压督促自慰 如果成功 返还30🖤）\n⑥射精管理：200/周（贞操管理禁欲or射精管理 完全被掌握控制🖤）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 28256,
+          "like_count": 182,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 55
+        },
+        "reply_settings": "everyone",
+        "text": "接单Sex2.0↓    \n\n①文调羞辱&amp;剧情（二次元羞辱图和玲奈本人涩图都有💚）：40/30min 70/h\n②鉴屌30r\n③树洞聊天（含聊骚，你问玲奈答。）50/1h \n\n④模拟榨金：88/30min（模拟上贡体验~压榨结束后全部返还贡金🖤）\n⑤早泄挑战：52/3min  （3分钟内高压督促自慰 如果成功 返还30🖤） https://t.co/AnrqgJSuvE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n我是一名钱包刽子手。\n如果你也想被我杀死的话→\n242184780←\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 55,
+                "username": "oricz233"
+              },
+              {
+                "end": 84,
+                "start": 75,
+                "username": "moelipoi"
+              },
+              {
+                "end": 102,
+                "start": 91,
+                "username": "cutelingli"
+              },
+              {
+                "end": 124,
+                "start": 109,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 136,
+                "start": 129,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍魔女讨伐组织高级顾问～",
+        "pinned_tweet_id": "1945511067926536238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952517800502652928/-lp8k7Gh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8151,
+          "following_count": 336,
+          "like_count": 638,
+          "listed_count": 37,
+          "media_count": 725,
+          "tweet_count": 2217
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-13T19:25:54.000Z",
+        "description": "这里是玲奈🩷\n是一个喜欢玩弄早泄雏男同时又会勾引男爹的雌萝淫婊大小姐🖤\n擅长的有：羞辱榨精丨玩弄绿奴丨调教绿狗丨送屄倒贴丨\n\n盯着屏幕对玲奈已经饥不择食的早泄雏男可以来敲门了~也欢迎男爹光临使用玲奈的雌穴💛门牌3956547942备用3843285033（添加异常，可以私信或tg联系https://t.co/GqBoGlPaaj",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/lanyuan411",
+                "end": 165,
+                "expanded_url": "http://t.me/lanyuan411",
+                "start": 142,
+                "url": "https://t.co/GqBoGlPaaj"
+              }
+            ]
+          }
+        },
+        "id": "1084532005545492480",
+        "location": "全天接单♡",
+        "name": "玲奈美少女_♡全天接单Sex~💚（互推私♡）",
+        "pinned_tweet_id": "1959642087139483815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962958882445385728/auqwi9Ly_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10060,
+          "following_count": 95,
+          "like_count": 164,
+          "listed_count": 52,
+          "media_count": 145,
+          "tweet_count": 2613
+        },
+        "username": "lanyuan411",
+        "verified": false
+      }
+    ]
+  }
+}

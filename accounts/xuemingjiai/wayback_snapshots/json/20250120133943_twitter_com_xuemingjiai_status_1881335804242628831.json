@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1881335804242628831",
+    "created_at": "2025-01-20T13:39:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-20T14:39:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1881335804242628831"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1696056509023625217",
+          "start": 3,
+          "username": "CuteLingli"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881335804242628831",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1879362368914043295",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CuteLingli: 有些东西是不可以轻易尝试的。\n每次玲璃都会劝阻对方不要做奇怪的事，为什么总是起到反效果呢？难道说，就是为了变得奇怪，才来找我的？把自己弄坏，染上奇怪的癖好，就是你所希望的？\n请不要在脑子里把“上贡”和“舒服”这两样事情挂钩，不然正在偷窥的你，也会…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "1881335804242628831",
+        "created_at": "2025-01-20T13:39:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-20T14:39:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881335804242628831"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1696056509023625217",
+              "start": 3,
+              "username": "CuteLingli"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881335804242628831",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879362368914043295",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CuteLingli: 有些东西是不可以轻易尝试的。\n每次玲璃都会劝阻对方不要做奇怪的事，为什么总是起到反效果呢？难道说，就是为了变得奇怪，才来找我的？把自己弄坏，染上奇怪的癖好，就是你所希望的？\n请不要在脑子里把“上贡”和“舒服”这两样事情挂钩，不然正在偷窥的你，也会…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1879362362756739072",
+            "3_1879362362953879552",
+            "3_1879362363184574464",
+            "3_1879362363557883904"
+          ]
+        },
+        "author_id": "1696056509023625217",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1879362368914043295",
+        "created_at": "2025-01-15T02:58:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-15T03:58:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1879362368914043295"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 133,
+              "start": 130,
+              "tag": "贡奴"
+            },
+            {
+              "end": 137,
+              "start": 134,
+              "tag": "压榨"
+            },
+            {
+              "end": 143,
+              "start": 138,
+              "tag": "ATM奴"
+            },
+            {
+              "end": 147,
+              "start": 144,
+              "tag": "洗脑"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jsIPtqMNo2",
+              "end": 171,
+              "expanded_url": "https://x.com/CuteLingli/status/1879362368914043295/photo/1",
+              "media_key": "3_1879362362756739072",
+              "start": 148,
+              "url": "https://t.co/jsIPtqMNo2"
+            },
+            {
+              "display_url": "pic.x.com/jsIPtqMNo2",
+              "end": 171,
+              "expanded_url": "https://x.com/CuteLingli/status/1879362368914043295/photo/1",
+              "media_key": "3_1879362362953879552",
+              "start": 148,
+              "url": "https://t.co/jsIPtqMNo2"
+            },
+            {
+              "display_url": "pic.x.com/jsIPtqMNo2",
+              "end": 171,
+              "expanded_url": "https://x.com/CuteLingli/status/1879362368914043295/photo/1",
+              "media_key": "3_1879362363184574464",
+              "start": 148,
+              "url": "https://t.co/jsIPtqMNo2"
+            },
+            {
+              "display_url": "pic.x.com/jsIPtqMNo2",
+              "end": 171,
+              "expanded_url": "https://x.com/CuteLingli/status/1879362368914043295/photo/1",
+              "media_key": "3_1879362363557883904",
+              "start": 148,
+              "url": "https://t.co/jsIPtqMNo2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879362368914043295",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 11694,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "有些东西是不可以轻易尝试的。\n每次玲璃都会劝阻对方不要做奇怪的事，为什么总是起到反效果呢？难道说，就是为了变得奇怪，才来找我的？把自己弄坏，染上奇怪的癖好，就是你所希望的？\n请不要在脑子里把“上贡”和“舒服”这两样事情挂钩，不然正在偷窥的你，也会很危险吧🖤\n\n#贡奴 #压榨 #ATM奴 #洗脑 https://t.co/jsIPtqMNo2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "您好～这里是出道以来一直致力于为小雏男哥哥们提供“舒适”“安全”“极致快感”的纯真妹系小天使魔女妹妹💚\n想了解我请翻看我的推文～\nqq2829556413，碎碎念小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 83,
+                "username": "oricz233"
+              },
+              {
+                "end": 112,
+                "start": 103,
+                "username": "moelipoi"
+              },
+              {
+                "end": 130,
+                "start": 119,
+                "username": "cutelingli"
+              },
+              {
+                "end": 152,
+                "start": 137,
+                "username": "chessy80978858"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系天使偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878142670054604800/aZFysFDs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6321,
+          "following_count": 251,
+          "like_count": 285,
+          "listed_count": 29,
+          "media_count": 532,
+          "tweet_count": 1478
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-28T07:06:06.000Z",
+        "description": "温柔向压榨系。请不要踏入陷阱~否则脑子和钱包都会的变得一塌糊涂。我很懒，所以不涉三。不想送死别来加我~ 门牌🚪3875489005  我只是想单纯地想要你的钱~ 老婆：@xuemingjiai 笨蛋：@liulidreamm",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 84,
+                "username": "xuemingjiai"
+              },
+              {
+                "end": 112,
+                "start": 100,
+                "username": "liulidreamm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "afdian.com/a/cutelingli",
+                "end": 23,
+                "expanded_url": "https://afdian.com/a/cutelingli",
+                "start": 0,
+                "url": "https://t.co/Di7OiY8Hx5"
+              }
+            ]
+          }
+        },
+        "id": "1696056509023625217",
+        "location": "你的心里❤️",
+        "name": "玲璃",
+        "pinned_tweet_id": "1879362368914043295",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1857458414097674240/lFZYliyL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1319,
+          "following_count": 93,
+          "like_count": 141,
+          "listed_count": 4,
+          "media_count": 80,
+          "tweet_count": 249
+        },
+        "url": "https://t.co/Di7OiY8Hx5",
+        "username": "CuteLingli",
+        "verified": false
+      }
+    ]
+  }
+}

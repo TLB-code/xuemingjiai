@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055623453160742912"
+      ],
+      "media_source_tweet_id": [
+        "2055623464866947439"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "2055686304332153049",
+    "created_at": "2026-05-16T16:26:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T17:26:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055686304332153049"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1683325790363222016",
+          "start": 3,
+          "username": "Uiokno"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Dn3gwBl6qN",
+          "end": 108,
+          "expanded_url": "https://x.com/Uiokno/status/2055623464866947439/photo/1",
+          "media_key": "3_2055623453160742912",
+          "start": 85,
+          "url": "https://t.co/Dn3gwBl6qN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055686304332153049",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055623464866947439",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Uiokno: 呐呐~\n你知道吗，现在可是女权社会，从刚才开始就一直偷窥本小姐的裙底，昱昱要是把这段录像公开出去，就能让哥哥身败名裂吧💚\n不过呐~（晃晃手机）… https://t.co/Dn3gwBl6qN"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2055686304332153049].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2055686304332153049",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2055686304332153049"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2560,
+        "media_key": "3_2055623453160742912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIcKo7WboAARCVD.jpg",
+        "width": 1766
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055623453160742912"
+          ]
+        },
+        "author_id": "1683325790363222016",
+        "conversation_id": "2055623464866947439",
+        "created_at": "2026-05-16T12:16:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T13:16:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055623464866947439"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Dn3gwBl6qN",
+              "end": 95,
+              "expanded_url": "https://x.com/Uiokno/status/2055623464866947439/photo/1",
+              "media_key": "3_2055623453160742912",
+              "start": 72,
+              "url": "https://t.co/Dn3gwBl6qN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055623464866947439",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "呐呐~\n你知道吗，现在可是女权社会，从刚才开始就一直偷窥本小姐的裙底，昱昱要是把这段录像公开出去，就能让哥哥身败名裂吧💚\n不过呐~（晃晃手机）\n只要哥哥乖乖听话，定期给昱昱上贡，成为昱昱的白痴舔狗atm~昱昱可以不发出去，还可以适当的给哥哥奖励喔，就像这样（白丝连裤袜臀部直接骑在变态哥哥脸上~）\n光是被昱昱这样的绿茶💚美少女坐在脸上就缴械投降了吗～看来哥哥不仅是早泄处男还是变态抖m呢...💚\n现在的视频也被昱昱全程录了下来喔～要是不听话...哼哼♪\n微信要添加上昱昱的好友～备注要改成昱昱大小姐～要时时刻刻把昱昱放在置顶～收到昱昱大小姐的消息五分钟以内必须回复♡\n然后..等待变态白痴抖m舔狗哥哥的结局会是无止境的索取与幸福又痛苦的供养喔🖤"
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 467,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "呐呐~\n你知道吗，现在可是女权社会，从刚才开始就一直偷窥本小姐的裙底，昱昱要是把这段录像公开出去，就能让哥哥身败名裂吧💚\n不过呐~（晃晃手机） https://t.co/Dn3gwBl6qN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会魅惑并享用钱包的公主殿下🤍\n精通各种处刑钱包的方法🖤\n联系方式→2829556413←\n病毒小号@oricz233\n现任魔女学园院长\n星辰魔女镜璃\n@jingli1840489\n桃心魔女奈奈\n@blakexiaonai\n 黑白魔女花卷\n@miaomiaomi17630\n好老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "oricz233"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 114,
+                "start": 101,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 139,
+                "start": 123,
+                "username": "miaomiaomi17630"
+              },
+              {
+                "end": 158,
+                "start": 143,
+                "username": "chessy80978858"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "全能魅惑系魔女族公主-奏💜魔女学园院长版～",
+        "pinned_tweet_id": "2013314916120416537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055327575581556736/-ZRgWKku_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8824,
+          "following_count": 363,
+          "like_count": 633,
+          "listed_count": 38,
+          "media_count": 825,
+          "tweet_count": 2191
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-24T03:58:47.000Z",
+        "description": "高贵的清纯JK偶像💗全能性癖擅长💜\n请来找昱昱约会吧💚昱昱会掏空你的全部🖤\n💌QQ：3451423909\n💌备用号：@AileneSher29359\n💌tg：https://t.co/obTa9LpuQH\n💌tg频道：https://t.co/PJNWpGFDVS",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 58,
+                "username": "AileneSher29359"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/yuyu_keai",
+                "end": 102,
+                "expanded_url": "https://t.me/yuyu_keai",
+                "start": 79,
+                "url": "https://t.co/obTa9LpuQH"
+              },
+              {
+                "display_url": "t.me/yukeaimiao",
+                "end": 132,
+                "expanded_url": "http://t.me/yukeaimiao",
+                "start": 109,
+                "url": "https://t.co/PJNWpGFDVS"
+              }
+            ]
+          }
+        },
+        "id": "1683325790363222016",
+        "name": "昱昱喵🌸【互推私信】",
+        "pinned_tweet_id": "2044548753101885734",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997787523159076864/oqBt3RkM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3264,
+          "following_count": 70,
+          "like_count": 83,
+          "listed_count": 7,
+          "media_count": 15,
+          "tweet_count": 268
+        },
+        "username": "Uiokno",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "2027419253603979517",
+    "created_at": "2026-02-27T16:23:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T17:23:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027419253603979517"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1374389254726455305",
+          "start": 3,
+          "username": "xuemingjiai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027419253603979517",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022267914917670943",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xuemingjiai: 奏奏妈咪的飞行棋第三次宣传~\n这一次是实况视频哦~\n展示的是联机版的部分功能ww\n单机版和联机版差距真的很大~并且部分道具和玩法只存在于联机版哦🤍\n联机版是和奏奏妈咪一对一进行游戏~\n想要体验的话就添加简介qq来了解吧~ https://t.c…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2027419253603979517].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2027419253603979517",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2027419253603979517"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 180721,
+        "height": 1080,
+        "media_key": "13_2022267374146334720",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2022267374146334720/img/jvLAt2Br8cr3GiDH.jpg",
+        "public_metrics": {
+          "view_count": 2962
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022267374146334720/vid/avc1/510x270/EN7Pm-Q1HfS7aGUi.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022267374146334720/vid/avc1/682x360/R6u-h9q5JmGn32V0.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022267374146334720/vid/avc1/1364x720/V8qDLr19Ei_grxXG.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2022267374146334720/pl/uzf-Kb_3yvKDFW1p.m3u8?tag=14"
+          }
+        ],
+        "width": 2046
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2022267374146334720"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "2022267914917670943",
+        "created_at": "2026-02-13T11:13:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T12:13:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022267914917670943"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KZRuJImxZo",
+              "end": 134,
+              "expanded_url": "https://x.com/xuemingjiai/status/2022267914917670943/video/1",
+              "media_key": "13_2022267374146334720",
+              "start": 111,
+              "url": "https://t.co/KZRuJImxZo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022267914917670943",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 7237,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "奏奏妈咪的飞行棋第三次宣传~\n这一次是实况视频哦~\n展示的是联机版的部分功能ww\n单机版和联机版差距真的很大~并且部分道具和玩法只存在于联机版哦🤍\n联机版是和奏奏妈咪一对一进行游戏~\n想要体验的话就添加简介qq来了解吧~ https://t.co/KZRuJImxZo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会魅惑并享用钱包的公主殿下🤍\n最最最最喜欢钱包们啦～\n联系方式→2829556413←\n病毒小号@oricz233\n现任魔女学园院长!\n星辰魔女镜璃\n@jingli1840489\n桃心魔女奈奈\n@blakexiaonai\n 黑白魔女花卷\n@miaomiaomi17630\n好老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 52,
+                "username": "oricz233"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 114,
+                "start": 101,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 139,
+                "start": 123,
+                "username": "miaomiaomi17630"
+              },
+              {
+                "end": 158,
+                "start": 143,
+                "username": "chessy80978858"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "魅惑系魔女族公主-奏💜魔女学园院长版～",
+        "pinned_tweet_id": "2013314916120416537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018477066753306624/36q-3UGh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8619,
+          "following_count": 369,
+          "like_count": 646,
+          "listed_count": 36,
+          "media_count": 817,
+          "tweet_count": 2173
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

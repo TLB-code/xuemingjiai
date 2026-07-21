@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1933905032191336448"
+      ],
+      "media_source_tweet_id": [
+        "1933905159161266605"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "1934025257524011079",
+    "created_at": "2025-06-14T23:08:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-15T00:08:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934025257524011079"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 78,
+          "start": 75,
+          "tag": "文媛"
+        },
+        {
+          "end": 84,
+          "start": 79,
+          "tag": "全天营业"
+        },
+        {
+          "end": 88,
+          "start": 85,
+          "tag": "媚黑"
+        },
+        {
+          "end": 93,
+          "start": 89,
+          "tag": "NTR"
+        },
+        {
+          "end": 97,
+          "start": 94,
+          "tag": "淫妻"
+        },
+        {
+          "end": 101,
+          "start": 98,
+          "tag": "荡妇"
+        },
+        {
+          "end": 105,
+          "start": 102,
+          "tag": "接单"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1752639090158403584",
+          "start": 3,
+          "username": "samayunyun"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xNwA2muDlp",
+          "end": 129,
+          "expanded_url": "https://x.com/samayunyun/status/1933905159161266605/photo/1",
+          "media_key": "3_1933905032191336448",
+          "start": 106,
+          "url": "https://t.co/xNwA2muDlp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934025257524011079",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933905159161266605",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @samayunyun: 接单中🩷\n媚黑媚屌性欲旺盛的妻子 你真的能满足的了吗💚\n低头看看裤裆里双腿胯间那根软趴趴的肉虫 你就能明白了哦🖤\n\n #文媛 #全天营业 #媚黑 #NTR #淫妻 #荡妇 #接单 https://t.co/xNwA2muDlp"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1934025257524011079].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1934025257524011079",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1934025257524011079"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 876,
+        "media_key": "3_1933905032191336448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtacYWka4AAIETY.jpg",
+        "width": 876
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933905032191336448"
+          ]
+        },
+        "author_id": "1752639090158403584",
+        "conversation_id": "1933905159161266605",
+        "created_at": "2025-06-14T15:11:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T16:11:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933905159161266605"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 62,
+              "start": 59,
+              "tag": "文媛"
+            },
+            {
+              "end": 68,
+              "start": 63,
+              "tag": "全天营业"
+            },
+            {
+              "end": 72,
+              "start": 69,
+              "tag": "媚黑"
+            },
+            {
+              "end": 77,
+              "start": 73,
+              "tag": "NTR"
+            },
+            {
+              "end": 81,
+              "start": 78,
+              "tag": "淫妻"
+            },
+            {
+              "end": 85,
+              "start": 82,
+              "tag": "荡妇"
+            },
+            {
+              "end": 89,
+              "start": 86,
+              "tag": "接单"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xNwA2muDlp",
+              "end": 113,
+              "expanded_url": "https://x.com/samayunyun/status/1933905159161266605/photo/1",
+              "media_key": "3_1933905032191336448",
+              "start": 90,
+              "url": "https://t.co/xNwA2muDlp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933905159161266605",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 476,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "接单中🩷\n媚黑媚屌性欲旺盛的妻子 你真的能满足的了吗💚\n低头看看裤裆里双腿胯间那根软趴趴的肉虫 你就能明白了哦🖤\n\n #文媛 #全天营业 #媚黑 #NTR #淫妻 #荡妇 #接单 https://t.co/xNwA2muDlp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n你也会因为窥视我的美貌而心甘情愿沦为钱包被我使用的对吗？\n钱包报名入口：3971546171\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 67,
+                "username": "oricz233"
+              },
+              {
+                "end": 96,
+                "start": 87,
+                "username": "moelipoi"
+              },
+              {
+                "end": 114,
+                "start": 103,
+                "username": "cutelingli"
+              },
+              {
+                "end": 136,
+                "start": 121,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 148,
+                "start": 141,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍驯化公用钱包👛中",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931064828044713984/9qwnduVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7203,
+          "following_count": 305,
+          "like_count": 361,
+          "listed_count": 33,
+          "media_count": 681,
+          "tweet_count": 2043
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-31T10:25:04.000Z",
+        "description": "元气少女🩷\n【犯贱的傻逼贱狗🖤】【 早泄阳痿小雏男💜】【 奉献女友的绿龟王八💚】\n 像这样天生的贱畜 生下来就是玩具泄欲工具\n夹着烂屌爬过来 劣精榨出 脑髓吸干 成为安可无脑的贱奴 这就是你存在的意义🖤\n门牌：3150769889",
+        "id": "1752639090158403584",
+        "name": "困安可💜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932792562898907136/3dE2wh3d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 18,
+          "like_count": 30,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 25
+        },
+        "username": "samayunyun",
+        "verified": false
+      }
+    ]
+  }
+}

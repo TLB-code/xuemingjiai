@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064081820325720064"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "2064082847355510926",
+    "created_at": "2026-06-08T20:31:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T21:31:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064082847355510926"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/uRWW94yGao",
+          "end": 169,
+          "expanded_url": "https://x.com/xuemingjiai/status/2064082847355510926/photo/1",
+          "media_key": "3_2064081820325720064",
+          "start": 146,
+          "url": "https://t.co/uRWW94yGao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064082847355510926",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "嗯....这次是大家的奏奏妹妹～\n只能说更换简介风格以后发现世界上怎么会有如此萌物喵！\n真的很难有人不对这么可爱又绿茶古灵精怪的奏奏不心动的吧!\n好可爱好可爱～～\n要化掉了ww\n所以，这是来自名为奏奏的萌物对你发起的温柔陷阱💚\n我在不对奏奏心动挑战里获得了0.01秒的好成绩，你也来试试吧～ https://t.co/uRWW94yGao"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2064082847355510926].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2064082847355510926",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2064082847355510926"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1337,
+        "media_key": "3_2064081820325720064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKUXesfbMAApFLB.jpg",
+        "width": 960
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "你也觉得你面前的这只魔女可爱过头了吧？\n对的!她和别人不一样!\n偶遇方式→2829556413←\n超涩气小号@oricz233\n现任魔女学园院长\n星辰魔女镜璃\n@jingli1840489\n桃心魔女奈奈\n@blakexiaonai\n 黑白魔女花卷\nmiaomiaomyoez2\n好老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 54,
+                "username": "oricz233"
+              },
+              {
+                "end": 94,
+                "start": 80,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 115,
+                "start": 102,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 157,
+                "start": 142,
+                "username": "chessy80978858"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "超可爱超绿茶超撩人的精灵魔女-奏奏💚",
+        "pinned_tweet_id": "2013314916120416537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064079945459171328/WbF0iOyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8868,
+          "following_count": 366,
+          "like_count": 636,
+          "listed_count": 36,
+          "media_count": 830,
+          "tweet_count": 2209
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

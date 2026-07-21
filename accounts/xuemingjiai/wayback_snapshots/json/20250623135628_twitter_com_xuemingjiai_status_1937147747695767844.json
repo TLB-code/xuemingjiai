@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1937147747695767844",
+    "created_at": "2025-06-23T13:56:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-23T14:56:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937147747695767844"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 133,
+          "start": 130,
+          "tag": "绿奴"
+        },
+        {
+          "end": 137,
+          "start": 134,
+          "tag": "调教"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1521448514060001281",
+          "start": 3,
+          "username": "realkboffical"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937147747695767844",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937044317237105124",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @realkboffical: 这几天热的主人都不怎么愿意出门呢🖤出门了也只穿凉鞋不穿袜子～没有贱狗舔脚脚汗全都被吸进鞋垫里面了🖤\n什么你连鞋垫也不放过吗恋臭傻逼🖤那还真适合当我的阳痿废物脚垫呢🖤既然这样的话就把内射给主人的全都排给你让你一次吃个饱哦🖤\n#绿奴 #调教 #…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1937147747695767844].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1937147747695767844",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1937147747695767844"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1937044294365294592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuHDhdfXMAAMf7N.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937044294365294592"
+          ]
+        },
+        "author_id": "1521448514060001281",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Paddy McGuinness hosts the classic light-hearted quiz show that sees two teams of sporting celebrities pit their wits against each other in a number of entertaining rounds. Led by two resident captains, the teams must combine all of their sporting knowledge in order to successfully answer a series of questions. Classic rounds include What Happened Next?, Mystery Guest, and Home or Away. The contestants also play a quick-fire round named On The Buzzer, and clips from famous sporting events and achievements feature throughout each episode.",
+              "id": "10027335829",
+              "name": "A Question of Sport"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          }
+        ],
+        "conversation_id": "1937044317237105124",
+        "created_at": "2025-06-23T07:05:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T08:05:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937044317237105124"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 114,
+              "start": 111,
+              "tag": "绿奴"
+            },
+            {
+              "end": 118,
+              "start": 115,
+              "tag": "调教"
+            },
+            {
+              "end": 122,
+              "start": 119,
+              "tag": "内射"
+            },
+            {
+              "end": 126,
+              "start": 123,
+              "tag": "后入"
+            },
+            {
+              "end": 130,
+              "start": 127,
+              "tag": "sm"
+            },
+            {
+              "end": 135,
+              "start": 131,
+              "tag": "bbc"
+            },
+            {
+              "end": 140,
+              "start": 136,
+              "tag": "qos"
+            },
+            {
+              "end": 144,
+              "start": 141,
+              "tag": "盯射"
+            },
+            {
+              "end": 148,
+              "start": 145,
+              "tag": "文调"
+            },
+            {
+              "end": 153,
+              "start": 149,
+              "tag": "atm"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5MOhgcJKbN",
+              "end": 177,
+              "expanded_url": "https://x.com/realkboffical/status/1937044317237105124/photo/1",
+              "media_key": "3_1937044294365294592",
+              "start": 154,
+              "url": "https://t.co/5MOhgcJKbN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937044317237105124",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1488,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "这几天热的主人都不怎么愿意出门呢🖤出门了也只穿凉鞋不穿袜子～没有贱狗舔脚脚汗全都被吸进鞋垫里面了🖤\n什么你连鞋垫也不放过吗恋臭傻逼🖤那还真适合当我的阳痿废物脚垫呢🖤既然这样的话就把内射给主人的全都排给你让你一次吃个饱哦🖤\n#绿奴 #调教 #内射 #后入 #sm #bbc #qos #盯射 #文调 #atm https://t.co/5MOhgcJKbN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n你也会因为窥视我的美貌而心甘情愿沦为钱包被我使用的对吗？\n钱包报名入口：2829556413和3971546171\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 78,
+                "username": "oricz233"
+              },
+              {
+                "end": 107,
+                "start": 98,
+                "username": "moelipoi"
+              },
+              {
+                "end": 125,
+                "start": 114,
+                "username": "cutelingli"
+              },
+              {
+                "end": 147,
+                "start": 132,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 159,
+                "start": 152,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍驯化公用钱包👛中",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931064828044713984/9qwnduVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7275,
+          "following_count": 311,
+          "like_count": 376,
+          "listed_count": 32,
+          "media_count": 700,
+          "tweet_count": 2143
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-03T11:16:26.000Z",
+        "description": "能娇会榨sm全能的姬姬门：297795464\n文:有剧情35/30min，剧情自带\n无剧情45/30min，1h统一70\n其它价目更新见置顶（置顶是推广的时候自己往下滑）",
+        "id": "1521448514060001281",
+        "location": "天津，线下调教，面交面贡等过私人🚪后解锁",
+        "name": "姬姬·视频原味可定制（主页置顶更新价目）",
+        "pinned_tweet_id": "1924260684906287592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843823422981173248/C3VljVg-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12687,
+          "following_count": 121,
+          "like_count": 433,
+          "listed_count": 52,
+          "media_count": 383,
+          "tweet_count": 9587
+        },
+        "username": "realkboffical",
+        "verified": false
+      }
+    ]
+  }
+}

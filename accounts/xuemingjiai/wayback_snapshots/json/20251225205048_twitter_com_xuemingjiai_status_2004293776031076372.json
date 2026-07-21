@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2004258632037552130"
+      ],
+      "media_source_tweet_id": [
+        "2004258634398863486"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "2004293776031076372",
+    "created_at": "2025-12-25T20:50:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-25T21:50:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004293776031076372"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1746153330622226432",
+          "start": 3,
+          "username": "blakexiaonai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ULbD5bebm7",
+          "end": 57,
+          "expanded_url": "https://x.com/blakexiaonai/status/2004258634398863486/photo/1",
+          "media_key": "3_2004258632037552130",
+          "start": 34,
+          "url": "https://t.co/ULbD5bebm7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004293776031076372",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004258634398863486",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @blakexiaonai: 专业回收大脑，射精权，开锁权💜 https://t.co/ULbD5bebm7"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2004293776031076372].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2004293776031076372",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2004293776031076372"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1216,
+        "media_key": "3_2004258632037552130",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9COm1ib0AIT3vN.jpg",
+        "width": 832
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004258632037552130"
+          ]
+        },
+        "author_id": "1746153330622226432",
+        "conversation_id": "2004258634398863486",
+        "created_at": "2025-12-25T18:31:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T19:31:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004258634398863486"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ULbD5bebm7",
+              "end": 39,
+              "expanded_url": "https://x.com/blakexiaonai/status/2004258634398863486/photo/1",
+              "media_key": "3_2004258632037552130",
+              "start": 16,
+              "url": "https://t.co/ULbD5bebm7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004258634398863486",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 80,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "专业回收大脑，射精权，开锁权💜 https://t.co/ULbD5bebm7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🖤\n最最最最喜欢钱包们啦～\n联系方式→2829556413←\n病毒小号@oricz233\n现任魔女学园院长!\n星辰魔女镜璃\n@jingli1840489\n桃心魔女奈奈\n@blakexiaonai\n 黑白魔女花卷\n@miaomiaomi17630",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 49,
+                "username": "oricz233"
+              },
+              {
+                "end": 90,
+                "start": 76,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 111,
+                "start": 98,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 136,
+                "start": 120,
+                "username": "miaomiaomi17630"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARosxSy"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🖤魔女学园院长版～",
+        "pinned_tweet_id": "1976743806063063398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003754231543562240/7Kw6lKLr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8085,
+          "following_count": 336,
+          "like_count": 648,
+          "listed_count": 37,
+          "media_count": 767,
+          "tweet_count": 2385
+        },
+        "url": "https://t.co/le8ARosxSy",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-13T12:53:18.000Z",
+        "description": "是一个喜欢爱玩顶号胁迫吸钱洗脑锁死的小男孩哦🖤 最爱的妈妈@xuemingjiai\n 处刑传送门q 3978814398♠️ 每天下午5点到午夜1点前找我都在哦🖤\n帮畜生排精一次最低70呢 1h左右 其他价格详谈♡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 29,
+                "username": "xuemingjiai"
+              }
+            ]
+          }
+        },
+        "id": "1746153330622226432",
+        "name": "blake🖤奈喵♠️",
+        "pinned_tweet_id": "1997635752809656603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999192058129711104/SukeKjd9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 646,
+          "following_count": 104,
+          "like_count": 188,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 174
+        },
+        "username": "blakexiaonai",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "2003239983885488370",
+    "created_at": "2025-12-22T23:03:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-23T00:03:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003239983885488370"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1316096588381515781",
+          "start": 3,
+          "username": "nianshancha"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003239983885488370",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002552664140452228",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nianshancha: 每次写完推文发现流量不好的感觉就像\n丈夫回家看见门口有两双男式皮鞋，准备和妻子好好谈谈。\n却发现妻子好端端的坐在客厅沙发上，而三个男人的喘息声来自儿子房间。\n丈夫问妻子那两个男人是谁，妻子说你爸和我爸。\n最后丈夫打开儿子的门进去，独留妻子坐在沙…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 732,
+        "media_key": "3_2002552658897584128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8p_CIWawAA8yec.jpg",
+        "width": 719
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "2003239983885488370",
+        "created_at": "2025-12-22T23:03:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T00:03:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003239983885488370"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1316096588381515781",
+              "start": 3,
+              "username": "nianshancha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003239983885488370",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002552664140452228",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nianshancha: 每次写完推文发现流量不好的感觉就像\n丈夫回家看见门口有两双男式皮鞋，准备和妻子好好谈谈。\n却发现妻子好端端的坐在客厅沙发上，而三个男人的喘息声来自儿子房间。\n丈夫问妻子那两个男人是谁，妻子说你爸和我爸。\n最后丈夫打开儿子的门进去，独留妻子坐在沙…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002552658897584128"
+          ]
+        },
+        "author_id": "1316096588381515781",
+        "conversation_id": "2002552664140452228",
+        "created_at": "2025-12-21T01:32:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T02:32:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002552664140452228"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r2u0R3o3kP",
+              "end": 166,
+              "expanded_url": "https://x.com/nianshancha/status/2002552664140452228/photo/1",
+              "media_key": "3_2002552658897584128",
+              "start": 143,
+              "url": "https://t.co/r2u0R3o3kP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002552664140452228",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 24275,
+          "like_count": 87,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "每次写完推文发现流量不好的感觉就像\n丈夫回家看见门口有两双男式皮鞋，准备和妻子好好谈谈。\n却发现妻子好端端的坐在客厅沙发上，而三个男人的喘息声来自儿子房间。\n丈夫问妻子那两个男人是谁，妻子说你爸和我爸。\n最后丈夫打开儿子的门进去，独留妻子坐在沙发上听着房间传出四个男人的喘息声的无奈。 https://t.co/r2u0R3o3kP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🖤\n最最最最喜欢钱包们啦～\n最近在教导钱包们如何变得更加“堕落”“变态”“下流”\n联系方式→2829556413←\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 76,
+                "username": "oricz233"
+              },
+              {
+                "end": 105,
+                "start": 96,
+                "username": "moelipoi"
+              },
+              {
+                "end": 123,
+                "start": 112,
+                "username": "cutelingli"
+              },
+              {
+                "end": 145,
+                "start": 130,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 157,
+                "start": 150,
+                "username": "1xian1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🖤黑心背德感拉满版",
+        "pinned_tweet_id": "1976743806063063398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002052886289924096/qPezgnpX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8057,
+          "following_count": 331,
+          "like_count": 646,
+          "listed_count": 37,
+          "media_count": 764,
+          "tweet_count": 2376
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-13T19:20:59.000Z",
+        "description": "这里是山茶哦～知道嘛知道嘛 山茶的花语是“理想的爱♡”哦 渴望名为“喜欢”的药的话就来向咱示爱 随后溺死在咱的甜言中吧～ 门槛20/30/60 没有区别的…也许？ 🚪3396356798  敲门前请先看置顶了解我哦❤️",
+        "id": "1316096588381515781",
+        "location": "映你眼眸的深处",
+        "name": "小山茶",
+        "pinned_tweet_id": "1867920156279890406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865023421559771136/Nk7qzNwn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1710,
+          "following_count": 9,
+          "like_count": 1,
+          "listed_count": 5,
+          "media_count": 42,
+          "tweet_count": 58
+        },
+        "username": "nianshancha",
+        "verified": false
+      }
+    ]
+  }
+}

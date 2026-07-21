@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "2009508618958504272",
+    "created_at": "2026-01-09T06:12:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T07:12:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009508618958504272"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 124,
+          "start": 121,
+          "tag": "压榨"
+        },
+        {
+          "end": 128,
+          "start": 125,
+          "tag": "榨骗"
+        },
+        {
+          "end": 132,
+          "start": 129,
+          "tag": "上贡"
+        },
+        {
+          "end": 137,
+          "start": 133,
+          "tag": "atm"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1909062502614454273",
+          "start": 3,
+          "username": "As_v520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009508618958504272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008700300346135017",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @As_v520: 来挑战芍来获得压榨抢米权ww\n\n仅限鼓着裤裆憋好精的m男参与，面对恶劣黑心芍  只要努力就可以获胜叭？\n\n作为抖m白痴居然获胜夺得抢米权或许可以大赚还能摆脱m男标签♡\n\n但是可不要让芍拿到哦，会恶劣的把傻逼抢烂的🖤\n#压榨 #榨骗 #上贡 #atm #…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2009508618958504272].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2009508618958504272",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2009508618958504272"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 500,
+        "media_key": "3_2008700298030989312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-BWR0xbwAAXpaE.jpg",
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008700298030989312"
+          ]
+        },
+        "author_id": "1909062502614454273",
+        "conversation_id": "2008700300346135017",
+        "created_at": "2026-01-07T00:40:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T01:40:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008700300346135017"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 111,
+              "start": 108,
+              "tag": "压榨"
+            },
+            {
+              "end": 115,
+              "start": 112,
+              "tag": "榨骗"
+            },
+            {
+              "end": 119,
+              "start": 116,
+              "tag": "上贡"
+            },
+            {
+              "end": 124,
+              "start": 120,
+              "tag": "atm"
+            },
+            {
+              "end": 132,
+              "start": 125,
+              "tag": "findom"
+            },
+            {
+              "end": 136,
+              "start": 133,
+              "tag": "爱芍"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4mo1d0TsUM",
+              "end": 160,
+              "expanded_url": "https://x.com/As_v520/status/2008700300346135017/photo/1",
+              "media_key": "3_2008700298030989312",
+              "start": 137,
+              "url": "https://t.co/4mo1d0TsUM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008700300346135017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 1639,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "来挑战芍来获得压榨抢米权ww\n\n仅限鼓着裤裆憋好精的m男参与，面对恶劣黑心芍  只要努力就可以获胜叭？\n\n作为抖m白痴居然获胜夺得抢米权或许可以大赚还能摆脱m男标签♡\n\n但是可不要让芍拿到哦，会恶劣的把傻逼抢烂的🖤\n#压榨 #榨骗 #上贡 #atm #findom #爱芍 https://t.co/4mo1d0TsUM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🖤\n最最最最喜欢钱包们啦～\n联系方式→2829556413←\n病毒小号@oricz233\n现任魔女学园院长!\n星辰魔女镜璃\n@jingli1840489\n桃心魔女奈奈\n@blakexiaonai\n 黑白魔女花卷\n@miaomiaomi17630\n好老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 49,
+                "username": "oricz233"
+              },
+              {
+                "end": 90,
+                "start": 76,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 111,
+                "start": 98,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 136,
+                "start": 120,
+                "username": "miaomiaomi17630"
+              },
+              {
+                "end": 155,
+                "start": 140,
+                "username": "chessy80978858"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARosxSy"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🖤魔女学园院长版～",
+        "pinned_tweet_id": "1976743806063063398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009377548195778561/vWvReGfH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8133,
+          "following_count": 338,
+          "like_count": 644,
+          "listed_count": 37,
+          "media_count": 774,
+          "tweet_count": 2411
+        },
+        "url": "https://t.co/le8ARosxSy",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-07T01:55:54.000Z",
+        "description": "正就读于压榨专业的黑心大小姐？  已学会诈騙人皮钱包财产和辅助下贷🖤    Q3792478611  | https://t.co/Rm34mC1AbP                喜反差涩涩以及压榨sb\n🚪35/88 视为小/大冤种",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/As_v520",
+                "end": 76,
+                "expanded_url": "http://t.me/As_v520",
+                "start": 53,
+                "url": "https://t.co/Rm34mC1AbP"
+              }
+            ]
+          }
+        },
+        "id": "1909062502614454273",
+        "name": "爱芍2",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009189922092310529/_cPp3IAw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1332,
+          "following_count": 114,
+          "like_count": 59,
+          "listed_count": 3,
+          "media_count": 174,
+          "tweet_count": 277
+        },
+        "username": "As_v520",
+        "verified": false
+      }
+    ]
+  }
+}

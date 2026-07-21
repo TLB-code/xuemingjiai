@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "2025954956961034415",
+    "created_at": "2026-02-23T15:24:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T16:24:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025954956961034415"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1487445287085830145",
+          "start": 3,
+          "username": "MoriartyRuruka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025954956961034415",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022710690268746061",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MoriartyRuruka: 怪盗露露卡·情人节午夜密函\n今夜我会化成你最隐秘的梦,用指尖轻轻划过你的唇，把这盒还带着我体温的巧克力塞进你掌心~\n一口下去甜到发腻~心跳却“怦怦”地像在对我低语♡\n坏笑着凑近你耳边,用丝带缠住你的手腕,低声呢喃:\n“从现在起,这颗心………"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2025954956961034415].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2025954956961034415",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2025954956961034415"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2022710672916897793",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBIco-aaYAEa-v6.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022710672916897793"
+          ]
+        },
+        "author_id": "1487445287085830145",
+        "conversation_id": "2022710690268746061",
+        "created_at": "2026-02-14T16:33:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T17:33:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022710690268746061"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LS5V3PSq54",
+              "end": 172,
+              "expanded_url": "https://x.com/MoriartyRuruka/status/2022710690268746061/photo/1",
+              "media_key": "3_2022710672916897793",
+              "start": 149,
+              "url": "https://t.co/LS5V3PSq54"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022710690268746061",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 828,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "怪盗露露卡·情人节午夜密函\n今夜我会化成你最隐秘的梦,用指尖轻轻划过你的唇，把这盒还带着我体温的巧克力塞进你掌心~\n一口下去甜到发腻~心跳却“怦怦”地像在对我低语♡\n坏笑着凑近你耳边,用丝带缠住你的手腕,低声呢喃:\n“从现在起,这颗心……只能属于我了~”\n现在就闭上眼睛,等我来吻醒你吧,小笨蛋~ https://t.co/LS5V3PSq54"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会魅惑并享用钱包的公主殿下🤍\n最最最最喜欢钱包们啦～\n联系方式→2829556413←\n病毒小号@oricz233\n现任魔女学园院长!\n星辰魔女镜璃\n@jingli1840489\n桃心魔女奈奈\n@blakexiaonai\n 黑白魔女花卷\n@miaomiaomi17630\n好老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 52,
+                "username": "oricz233"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 114,
+                "start": 101,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 139,
+                "start": 123,
+                "username": "miaomiaomi17630"
+              },
+              {
+                "end": 158,
+                "start": 143,
+                "username": "chessy80978858"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "魅惑系魔女族公主-奏💜魔女学园院长版～",
+        "pinned_tweet_id": "2013314916120416537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018477066753306624/36q-3UGh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8585,
+          "following_count": 370,
+          "like_count": 647,
+          "listed_count": 36,
+          "media_count": 817,
+          "tweet_count": 2171
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-29T15:19:35.000Z",
+        "description": "最可爱最闪耀的偶像怪盗妈妈🩷\n甜甜笑脸下藏着黑心小恶魔~🖤\n今天也要把笨蛋奴隶们彻底压榨到上头~离不开~只剩“妈妈🩷”为止~\n闻闻舞台后的湿丝袜香?每天跪好闻到脑子空白?\n嗯哼~奴隶的钱包和忠诚当然也要全部上贡给本小姐才行🖤\n来吧~香香小脚丫已经准备好啦♪\n快跪下来~深深吸~永远当露露卡的专属小狗狗吧~",
+        "id": "1487445287085830145",
+        "location": "你的🤍里~",
+        "name": "🤍露露卡🩷(应援通道：3404136269)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021661129924390914/mqVIJQDw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 12,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 4
+        },
+        "username": "MoriartyRuruka",
+        "verified": false
+      }
+    ]
+  }
+}

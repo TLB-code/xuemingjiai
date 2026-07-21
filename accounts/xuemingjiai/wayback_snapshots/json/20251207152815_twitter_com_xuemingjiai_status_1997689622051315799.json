@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1997275564168839169"
+      ],
+      "media_source_tweet_id": [
+        "1997275572712710145"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "1997689622051315799",
+    "created_at": "2025-12-07T15:28:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-07T16:28:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997689622051315799"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1746153330622226432",
+          "start": 3,
+          "username": "blakexiaonai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bId2H7LGzo",
+          "end": 76,
+          "expanded_url": "https://x.com/blakexiaonai/status/1997275572712710145/photo/1",
+          "media_key": "3_1997275564168839169",
+          "start": 53,
+          "url": "https://t.co/bId2H7LGzo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997689622051315799",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997275572712710145",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @blakexiaonai: 一旦被我锁死，就再也回不了头了哦～\n人生梦想之类的，我都会替你毁掉🖤 https://t.co/bId2H7LGzo"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1997689622051315799].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1997689622051315799",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1997689622051315799"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1997275564168839169",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7e_iyjaAAETK4l.jpg",
+        "width": 731
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997275564168839169"
+          ]
+        },
+        "author_id": "1746153330622226432",
+        "conversation_id": "1997275572712710145",
+        "created_at": "2025-12-06T12:02:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T13:02:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997275572712710145"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bId2H7LGzo",
+              "end": 58,
+              "expanded_url": "https://x.com/blakexiaonai/status/1997275572712710145/photo/1",
+              "media_key": "3_1997275564168839169",
+              "start": 35,
+              "url": "https://t.co/bId2H7LGzo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997275572712710145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 374,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "一旦被我锁死，就再也回不了头了哦～\n人生梦想之类的，我都会替你毁掉🖤 https://t.co/bId2H7LGzo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n最最最最喜欢钱包们啦!\n天天挨骂真的不会腻嘛～\n擅长用爱意和温柔的语气俘虏钱包～\n联系方式→242184780←\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 77,
+                "username": "oricz233"
+              },
+              {
+                "end": 106,
+                "start": 97,
+                "username": "moelipoi"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "cutelingli"
+              },
+              {
+                "end": 146,
+                "start": 131,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 158,
+                "start": 151,
+                "username": "1xian1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍对钱包们最温柔最有好感版",
+        "pinned_tweet_id": "1976743806063063398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991861278688821248/oCQEPeIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8029,
+          "following_count": 342,
+          "like_count": 642,
+          "listed_count": 37,
+          "media_count": 762,
+          "tweet_count": 2361
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-13T12:53:18.000Z",
+        "description": "是一个喜欢爱玩顶号胁迫吸钱洗脑锁死的小男孩哦💛最爱的妈妈@xuemingjiai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 28,
+                "username": "xuemingjiai"
+              }
+            ]
+          }
+        },
+        "id": "1746153330622226432",
+        "name": "blake💛奈喵",
+        "pinned_tweet_id": "1990844204805992492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982186513178767360/zBXmHG5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 82,
+          "like_count": 164,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 149
+        },
+        "username": "blakexiaonai",
+        "verified": false
+      }
+    ]
+  }
+}

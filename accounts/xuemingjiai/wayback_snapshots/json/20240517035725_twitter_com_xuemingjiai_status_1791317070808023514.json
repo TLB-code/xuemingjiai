@@ -1,0 +1,84 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1791317070808023514",
+    "created_at": "2024-05-17T03:57:25.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-17T04:57:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1791317070808023514"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1791317070808023514",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "世界的法则，人性的光辉（丑恶）欲望的集合体，即将拉开帷幕（全新企划上线倒计时一天）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "1791317070808023514",
+        "created_at": "2024-05-17T03:57:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-17T04:57:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1791317070808023514"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1791317070808023514",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "世界的法则，人性的光辉（丑恶）欲望的集合体，即将拉开帷幕（全新企划上线倒计时一天）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "就如同推特名一样\n是传说中的网络美少女，在异世界中是名副其实的“魔女”💜\n对人类世界充满好奇，会用自己的一些方式来洗脑一些小雏男以满足自己的恶趣味，非常拜金💚征集人型钱包中..\n门牌是2829556413和2438028521（备用）\n请来送死~♡\n不涉三哦",
+        "id": "1374389254726455305",
+        "name": "请叫我魔女小姐💜（新企划上线倒计时? ）",
+        "pinned_tweet_id": "1744800330448277998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790638369040711680/qE_AOavg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4797,
+          "following_count": 155,
+          "like_count": 141,
+          "listed_count": 22,
+          "tweet_count": 928
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

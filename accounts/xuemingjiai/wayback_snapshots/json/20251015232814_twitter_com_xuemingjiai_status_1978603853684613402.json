@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1978603853684613402",
+    "created_at": "2025-10-15T23:28:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-16T00:28:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978603853684613402"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1959895750999265280",
+          "start": 3,
+          "username": "ruzhi_meng"
+        },
+        {
+          "end": 42,
+          "id": "1752181716028936192",
+          "start": 34,
+          "username": "geye_zm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978603853684613402",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975958343794782471",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ruzhi_meng: 莫西莫西~这里是鳰凪梦\n感谢葛叶前辈@geye_zm为人家做的菜单…大佬超级好（人也很可爱w）！！\n自设是邻家调皮腹黑且会叫你杂鱼的可爱（雌小鬼）年下妹妹，当然可S可M~或者扮演其他身份也超精通啦\n欢迎下单查询~会多多学习让大哥哥更舒服一点的哦♡…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1978603853684613402].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1978603853684613402",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1978603853684613402"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1975958341173317632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2wDpGibEAAUOW4.jpg",
+        "width": 700
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975958341173317632"
+          ]
+        },
+        "author_id": "1959895750999265280",
+        "conversation_id": "1975958343794782471",
+        "created_at": "2025-10-08T16:15:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T17:15:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975958343794782471"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 127,
+              "start": 124,
+              "tag": "文媛"
+            },
+            {
+              "end": 131,
+              "start": 128,
+              "tag": "接单"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 26,
+              "id": "1752181716028936192",
+              "start": 18,
+              "username": "geye_zm"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9YnPSVCIcx",
+              "end": 155,
+              "expanded_url": "https://x.com/ruzhi_meng/status/1975958343794782471/photo/1",
+              "media_key": "3_1975958341173317632",
+              "start": 132,
+              "url": "https://t.co/9YnPSVCIcx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975958343794782471",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2246,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "莫西莫西~这里是鳰凪梦\n感谢葛叶前辈@geye_zm为人家做的菜单…大佬超级好（人也很可爱w）！！\n自设是邻家调皮腹黑且会叫你杂鱼的可爱（雌小鬼）年下妹妹，当然可S可M~或者扮演其他身份也超精通啦\n欢迎下单查询~会多多学习让大哥哥更舒服一点的哦♡\n#文媛 #接单 https://t.co/9YnPSVCIcx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n最最最最喜欢钱包们啦!\n天天挨骂真的不会腻嘛～\n擅长用爱意和温柔的语气俘虏钱包～\n联系方式→3971546171←\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 78,
+                "username": "oricz233"
+              },
+              {
+                "end": 107,
+                "start": 98,
+                "username": "moelipoi"
+              },
+              {
+                "end": 125,
+                "start": 114,
+                "username": "cutelingli"
+              },
+              {
+                "end": 147,
+                "start": 132,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 159,
+                "start": 152,
+                "username": "1xian1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARosxSy"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍对钱包们最温柔最有好感版",
+        "pinned_tweet_id": "1976743806063063398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969152325731168256/ozl0k8K4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7794,
+          "following_count": 320,
+          "like_count": 640,
+          "listed_count": 34,
+          "media_count": 736,
+          "tweet_count": 2232
+        },
+        "url": "https://t.co/le8ARosxSy",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-25T08:29:03.000Z",
+        "description": "「喔！！窝很可爱，请给窝钱（理不直气不壮伸手）」莫西莫西~这里是鳰凪梦哟，人设是腹黑且超级可爱（重点）的邻家小妹~但对小狗一般是会很高冷哦//是可S可M全能系文媛还请多多捧场~♡//门牌号:1022653947（25元门槛可抵文爱）30/0.5h 55/h 无语视涉三服务",
+        "id": "1959895750999265280",
+        "location": "人家的小穴或是～足底♡",
+        "name": "鳰凪梦",
+        "pinned_tweet_id": "1975958343794782471",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974878725964771328/7Q4WJfps_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 7,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 17
+        },
+        "username": "ruzhi_meng",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-30T04:07:37.000Z",
+        "description": "这里是葛叶真明，是游戏创作者，创作各类文游，内容涵盖寸止，窒息，辱骂，倒计时等等，欢迎各位同行扩列互推喵～门槛52♡\n买游戏找客服，客服主页有咱的历史推文以及文游\n客服:\n@Medicyli",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 86,
+                "username": "Medicyli"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+Zqurf7RUye42M…",
+                "end": 23,
+                "expanded_url": "https://t.me/+Zqurf7RUye42MzM1",
+                "start": 0,
+                "url": "https://t.co/MW0XxdoPce"
+              }
+            ]
+          }
+        },
+        "id": "1752181716028936192",
+        "location": "游戏作者",
+        "name": "葛叶真明",
+        "pinned_tweet_id": "1976264127527125383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928352522969960450/19TGklH6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10163,
+          "following_count": 133,
+          "like_count": 127,
+          "listed_count": 23,
+          "media_count": 114,
+          "tweet_count": 1690
+        },
+        "url": "https://t.co/MW0XxdoPce",
+        "username": "geye_zm",
+        "verified": false
+      }
+    ]
+  }
+}

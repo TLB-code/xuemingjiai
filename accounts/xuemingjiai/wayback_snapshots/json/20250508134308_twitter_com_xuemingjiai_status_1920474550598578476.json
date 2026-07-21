@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1920474550598578476",
+    "created_at": "2025-05-08T13:43:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-08T14:43:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920474550598578476"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1312572317206159360",
+          "start": 3,
+          "username": "moelipoi"
+        },
+        {
+          "end": 109,
+          "id": "1374389254726455305",
+          "start": 97,
+          "username": "xuemingjiai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920474550598578476",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907971197125755258",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @moelipoi: 还有更多的隐藏服务等待着贱狗粉丝们探索哦~两位可爱偶像随时恭候着你们这群废物钱包~🖤但是~在下单前禁止射精哦，连撸动自己的傻逼肉棒都是不可能的呢~🖤\n魔女小姐的推特：@xuemingjiai\n那么~清空你们的钱包~尽情让超绝可爱的偶像们把你们当玩具一…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1907971194239987718",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gnp5sTpaMAYiJFl.jpg",
+        "width": 1641
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "1920474550598578476",
+        "created_at": "2025-05-08T13:43:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-08T14:43:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920474550598578476"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1312572317206159360",
+              "start": 3,
+              "username": "moelipoi"
+            },
+            {
+              "end": 109,
+              "id": "1374389254726455305",
+              "start": 97,
+              "username": "xuemingjiai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920474550598578476",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907971197125755258",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @moelipoi: 还有更多的隐藏服务等待着贱狗粉丝们探索哦~两位可爱偶像随时恭候着你们这群废物钱包~🖤但是~在下单前禁止射精哦，连撸动自己的傻逼肉棒都是不可能的呢~🖤\n魔女小姐的推特：@xuemingjiai\n那么~清空你们的钱包~尽情让超绝可爱的偶像们把你们当玩具一…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1907971194239987718"
+          ]
+        },
+        "author_id": "1312572317206159360",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1907971162061099325",
+        "created_at": "2025-04-04T01:39:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-04T02:39:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907971197125755258"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 95,
+              "id": "1374389254726455305",
+              "start": 83,
+              "username": "xuemingjiai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4N8hw3jVfZ",
+              "end": 175,
+              "expanded_url": "https://x.com/moelipoi/status/1907971197125755258/photo/1",
+              "media_key": "3_1907971194239987718",
+              "start": 152,
+              "url": "https://t.co/4N8hw3jVfZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907971197125755258",
+        "in_reply_to_user_id": "1312572317206159360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1620,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907971186979647553",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还有更多的隐藏服务等待着贱狗粉丝们探索哦~两位可爱偶像随时恭候着你们这群废物钱包~🖤但是~在下单前禁止射精哦，连撸动自己的傻逼肉棒都是不可能的呢~🖤\n魔女小姐的推特：@xuemingjiai\n那么~清空你们的钱包~尽情让超绝可爱的偶像们把你们当玩具一样玩吧~被玩坏的话...一定会很感到荣幸吧~傻逼~🖤 https://t.co/4N8hw3jVfZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "您好～这里是一直致力于为小雏男哥哥们提供“舒适”“安全”“极致射金体验”的纯真妹系小天使魔女妹妹💚\n想更加了解请翻看推文～\nqq242184780，病毒小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858\n女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 78,
+                "username": "oricz233"
+              },
+              {
+                "end": 107,
+                "start": 98,
+                "username": "moelipoi"
+              },
+              {
+                "end": 125,
+                "start": 114,
+                "username": "cutelingli"
+              },
+              {
+                "end": 147,
+                "start": 132,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 158,
+                "start": 151,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系天使偶像魔女小姐💖女仆限定版♪",
+        "pinned_tweet_id": "1912930515570835816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909108552796651520/gRlgoaOf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6842,
+          "following_count": 280,
+          "like_count": 309,
+          "listed_count": 30,
+          "media_count": 592,
+          "tweet_count": 1678
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-04T01:57:08.000Z",
+        "description": "贵安~💖这里是主擅长恋足气味调教洗脑的全能系腹黑JK绿茶偶像璃酱💛|性癖无雷点 | 句段均可|爱好养公狗当宠物💜|貢ぎ奴隷送死欢迎🖤|把脑子无意识的交给偶像温柔的美夜月鏡中吧?💙\n门牌号:1912443435/3945774391丨只接受图文♡麻烦请先看置顶再敲门\n单推偶像:@xuemingjiai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 150,
+                "start": 138,
+                "username": "xuemingjiai"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/moeliqwq",
+                "end": 23,
+                "expanded_url": "http://t.me/moeliqwq",
+                "start": 0,
+                "url": "https://t.co/ttwGimBZ9H"
+              }
+            ]
+          }
+        },
+        "id": "1312572317206159360",
+        "location": "40/0.5h 75/h 全天营业丨不接M单",
+        "name": "璃酱♪詩月璃ぴょん ❀",
+        "pinned_tweet_id": "1911036147817681330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909065476900339712/VLbacfuO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7572,
+          "following_count": 146,
+          "like_count": 278,
+          "listed_count": 10,
+          "media_count": 187,
+          "tweet_count": 1192
+        },
+        "url": "https://t.co/ttwGimBZ9H",
+        "username": "moelipoi",
+        "verified": true
+      }
+    ]
+  }
+}

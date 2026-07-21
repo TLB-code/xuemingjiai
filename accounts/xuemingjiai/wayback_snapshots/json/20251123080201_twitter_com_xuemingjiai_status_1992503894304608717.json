@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1992503894304608717",
+    "created_at": "2025-11-23T08:02:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T09:02:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992503894304608717"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1537049790009188353",
+          "start": 3,
+          "username": "afuluodite122"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992503894304608717",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992473263176372596",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @afuluodite122: 贱屌又痒了呀～一直挤在锁里尿道都伸不直🤏🏻小便都挤不出来几滴💚也难怪会痒吧💜像个妓女一样的撑开大腿🖕🏻拱起你的痒屄骚脑锁屌💅🏻让出轨女爹亲妈帮你磨锁撸锁💋很喜欢吧^幻触了哦🧠不存在的勃起软屌被撸～撸～撸🖤\n等会要背手拱屌💚看着亲妈和你的绿爹…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1992503894304608717].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1992503894304608717",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1992503894304608717"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_1992473259364028416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6av33DbkAApjPl.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992473259364028416"
+          ]
+        },
+        "author_id": "1537049790009188353",
+        "conversation_id": "1992473263176372596",
+        "created_at": "2025-11-23T06:00:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T07:00:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992473263176372596"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 141,
+              "start": 138,
+              "tag": "榨精"
+            },
+            {
+              "end": 145,
+              "start": 142,
+              "tag": "文援"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fHDurxp1A1",
+              "end": 169,
+              "expanded_url": "https://x.com/afuluodite122/status/1992473263176372596/photo/1",
+              "media_key": "3_1992473259364028416",
+              "start": 146,
+              "url": "https://t.co/fHDurxp1A1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992473263176372596",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 141,
+                "start": 138,
+                "tag": "榨精"
+              },
+              {
+                "end": 145,
+                "start": 142,
+                "tag": "文援"
+              },
+              {
+                "end": 149,
+                "start": 146,
+                "tag": "接单"
+              },
+              {
+                "end": 153,
+                "start": 150,
+                "tag": "寸止"
+              },
+              {
+                "end": 158,
+                "start": 154,
+                "tag": "贞操锁"
+              },
+              {
+                "end": 162,
+                "start": 159,
+                "tag": "管理"
+              },
+              {
+                "end": 166,
+                "start": 163,
+                "tag": "羞辱"
+              },
+              {
+                "end": 170,
+                "start": 167,
+                "tag": "m男"
+              }
+            ]
+          },
+          "text": "贱屌又痒了呀～一直挤在锁里尿道都伸不直🤏🏻小便都挤不出来几滴💚也难怪会痒吧💜像个妓女一样的撑开大腿🖕🏻拱起你的痒屄骚脑锁屌💅🏻让出轨女爹亲妈帮你磨锁撸锁💋很喜欢吧^幻触了哦🧠不存在的勃起软屌被撸～撸～撸🖤\n等会要背手拱屌💚看着亲妈和你的绿爹祖宗交配^自愿挤精虐脑废睾阉割呢💛\n#榨精 #文援 #接单 #寸止 #贞操锁 #管理 #羞辱 #m男"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 819,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "贱屌又痒了呀～一直挤在锁里尿道都伸不直🤏🏻小便都挤不出来几滴💚也难怪会痒吧💜像个妓女一样的撑开大腿🖕🏻拱起你的痒屄骚脑锁屌💅🏻让出轨女爹亲妈帮你磨锁撸锁💋很喜欢吧^幻触了哦🧠不存在的勃起软屌被撸～撸～撸🖤\n等会要背手拱屌💚看着亲妈和你的绿爹祖宗交配^自愿挤精虐脑废睾阉割呢💛\n#榨精 #文援 https://t.co/fHDurxp1A1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n最最最最喜欢钱包们啦!\n天天挨骂真的不会腻嘛～\n擅长用爱意和温柔的语气俘虏钱包～\n联系方式→242184780←\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 77,
+                "username": "oricz233"
+              },
+              {
+                "end": 106,
+                "start": 97,
+                "username": "moelipoi"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "cutelingli"
+              },
+              {
+                "end": 146,
+                "start": 131,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 158,
+                "start": 151,
+                "username": "1xian1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍对钱包们最温柔最有好感版",
+        "pinned_tweet_id": "1976743806063063398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991861278688821248/oCQEPeIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7953,
+          "following_count": 331,
+          "like_count": 640,
+          "listed_count": 36,
+          "media_count": 755,
+          "tweet_count": 2321
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-15T12:30:09.000Z",
+        "description": "ちょうきょう抖s🖕🏻变态🤏🏻黑心💋恶毒～是温柔的人哦🖤绝对不会背叛💚不会把有着变态性癖的人视做垃圾哦💜会温柔体贴的为每一位有着独特喜好的客人进行治疗（处刑💀）/🚪10-20不抵💅🏻联系Q3514805479💘备Q3893787848/全性癖精通w文爱剧情、压榨调教、榨金寸止、语c点菜～",
+        "id": "1537049790009188353",
+        "location": "锦帐春宵恋不休💞",
+        "name": "玲琳🌸",
+        "pinned_tweet_id": "1992473263176372596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991508220012290048/NUy0QlgY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6259,
+          "following_count": 155,
+          "like_count": 217,
+          "listed_count": 29,
+          "media_count": 175,
+          "tweet_count": 1719
+        },
+        "username": "afuluodite122",
+        "verified": false
+      }
+    ]
+  }
+}

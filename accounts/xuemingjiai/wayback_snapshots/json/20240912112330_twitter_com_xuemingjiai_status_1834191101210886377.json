@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1834191101210886377",
+    "created_at": "2024-09-12T11:23:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-12T12:23:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1834191101210886377"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1240949973056811009",
+          "start": 3,
+          "username": "Idol_Taoxin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1834191101210886377",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1833874614357032999",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @Idol_Taoxin: 下等的支畜贱狗是永远没办法得到你祖宗的爱💚只能对着祖宗的中指和看垃圾一样的眼神撸动自己的狗屌，被祖宗压榨出身上所有的钱后又无可奈何的把你恶心的狗精全都流出来🖤到最后只能看着自己的亲妈祖宗投身到别人的怀抱💚你在祖宗眼里只是一个ATM而已~白痴🖤…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1834191101210886377].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1834191101210886377",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1834191101210886377"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1833874611425230849"
+          ]
+        },
+        "author_id": "1240949973056811009",
+        "conversation_id": "1833874614357032999",
+        "created_at": "2024-09-11T14:25:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-11T15:25:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1833874614357032999"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 125,
+              "start": 122,
+              "tag": "压榨"
+            },
+            {
+              "end": 129,
+              "start": 126,
+              "tag": "吐金"
+            },
+            {
+              "end": 134,
+              "start": 130,
+              "tag": "绿帽奴"
+            },
+            {
+              "end": 138,
+              "start": 135,
+              "tag": "贡奴"
+            },
+            {
+              "end": 144,
+              "start": 139,
+              "tag": "ATM奴"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/w4elexovi4",
+              "end": 168,
+              "expanded_url": "https://twitter.com/Idol_Taoxin/status/1833874614357032999/photo/1",
+              "media_key": "3_1833874611425230849",
+              "start": 145,
+              "url": "https://t.co/w4ElexoVi4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833874614357032999",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 937,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "reply_settings": "following",
+        "text": "下等的支畜贱狗是永远没办法得到你祖宗的爱💚只能对着祖宗的中指和看垃圾一样的眼神撸动自己的狗屌，被祖宗压榨出身上所有的钱后又无可奈何的把你恶心的狗精全都流出来🖤到最后只能看着自己的亲妈祖宗投身到别人的怀抱💚你在祖宗眼里只是一个ATM而已~白痴🖤\n#压榨 #吐金 #绿帽奴 #贡奴 #ATM奴 https://t.co/w4ElexoVi4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "超绝可爱💖\n她就是出道即巅峰的可爱纯真小天使新人偶像魔女小姐💖\n任何人都会被她散发出的魅力所捕获，对这样的魔女小姐不能心怀任何涩涩的念想哦，不然就会变得非常糟糕...踏入无法挣脱的陷阱和牢笼里呢💘\n魔女小姐无论说什么做什么都是正确的哦，身为她的粉丝，只需要无条件用各种方式支持她就好了～\nqq2829556413",
+        "id": "1374389254726455305",
+        "name": "电波系新人偶像💖魔女小姐参上（开始接单版）",
+        "pinned_tweet_id": "1804570562511126828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833843915985936384/Kp4jMBRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5296,
+          "following_count": 183,
+          "like_count": 148,
+          "listed_count": 23,
+          "tweet_count": 1037
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-20T10:35:14.000Z",
+        "description": "这里是世界第一百变榨金偶像桃心💜准备好把你们的一切全都上贡给你们深爱着的偶像了么💚粉丝唯一的作用就是被用来榨干钱包🖤QQ2902337031，tg：https://t.co/t46nKtajlw 不涉三，🚪30傻狗3倍🖤，基本不看私信，小贱狗们有事QQ找我哦，想要互关什么的同行也可以QQ找我",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Idol_taoxin",
+                "end": 97,
+                "expanded_url": "http://t.me/Idol_taoxin",
+                "start": 74,
+                "url": "https://t.co/t46nKtajlw"
+              }
+            ]
+          }
+        },
+        "id": "1240949973056811009",
+        "name": "拜金偶像🖤桃心💜",
+        "pinned_tweet_id": "1760179907869753793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812533427649822720/Rn0ivATs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12311,
+          "following_count": 233,
+          "like_count": 8521,
+          "listed_count": 68,
+          "tweet_count": 3870
+        },
+        "username": "Idol_Taoxin",
+        "verified": false
+      }
+    ]
+  }
+}

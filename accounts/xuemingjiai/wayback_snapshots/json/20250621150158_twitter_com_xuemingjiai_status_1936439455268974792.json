@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1936439455268974792",
+    "created_at": "2025-06-21T15:01:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-21T16:01:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936439455268974792"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 17,
+          "tag": "魔女公主的日常"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1374389254726455305",
+          "start": 3,
+          "username": "xuemingjiai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936439455268974792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935067124663468230",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xuemingjiai: #魔女公主的日常\n钱包总是和一个词脱不了关系，那就是——舔狗🤍\n优秀好用的钱包一定首先得是一只合格的舔狗，舔狗不会奢求任何回报，对于本公主来说，允许舔狗们看涩图搓动下面已经是最大的奖励了～\n所以各位舔狗钱包化的时候不用犹豫，把脑子丢掉接受奖励就…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1935067121949818880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gtq9S4RbQAAa90W.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "1936439455268974792",
+        "created_at": "2025-06-21T15:01:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T16:01:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936439455268974792"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 17,
+              "tag": "魔女公主的日常"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1374389254726455305",
+              "start": 3,
+              "username": "xuemingjiai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936439455268974792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935067124663468230",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xuemingjiai: #魔女公主的日常\n钱包总是和一个词脱不了关系，那就是——舔狗🤍\n优秀好用的钱包一定首先得是一只合格的舔狗，舔狗不会奢求任何回报，对于本公主来说，允许舔狗们看涩图搓动下面已经是最大的奖励了～\n所以各位舔狗钱包化的时候不用犹豫，把脑子丢掉接受奖励就…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935067121949818880"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "1935067124663468230",
+        "created_at": "2025-06-17T20:08:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T21:08:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935067124663468230"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "魔女公主的日常"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JH5PdXMR08",
+              "end": 167,
+              "expanded_url": "https://x.com/xuemingjiai/status/1935067124663468230/photo/1",
+              "media_key": "3_1935067121949818880",
+              "start": 144,
+              "url": "https://t.co/JH5PdXMR08"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935067124663468230",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2725,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "#魔女公主的日常\n钱包总是和一个词脱不了关系，那就是——舔狗🤍\n优秀好用的钱包一定首先得是一只合格的舔狗，舔狗不会奢求任何回报，对于本公主来说，允许舔狗们看涩图搓动下面已经是最大的奖励了～\n所以各位舔狗钱包化的时候不用犹豫，把脑子丢掉接受奖励就行了，你只需要白给送钱，而本公主负责收割🤍 https://t.co/JH5PdXMR08"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n你也会因为窥视我的美貌而心甘情愿沦为钱包被我使用的对吗？\n钱包报名入口：2829556413和3971546171\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 78,
+                "username": "oricz233"
+              },
+              {
+                "end": 107,
+                "start": 98,
+                "username": "moelipoi"
+              },
+              {
+                "end": 125,
+                "start": 114,
+                "username": "cutelingli"
+              },
+              {
+                "end": 147,
+                "start": 132,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 159,
+                "start": 152,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍驯化公用钱包👛中",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931064828044713984/9qwnduVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7259,
+          "following_count": 310,
+          "like_count": 375,
+          "listed_count": 32,
+          "media_count": 697,
+          "tweet_count": 2128
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

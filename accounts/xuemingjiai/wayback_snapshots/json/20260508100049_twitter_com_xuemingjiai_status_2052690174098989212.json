@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "2052690174098989212",
+    "created_at": "2026-05-08T10:00:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T11:00:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052690174098989212"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1739976691970412544",
+          "start": 3,
+          "username": "SakiHana_effigy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052690174098989212",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049397111960338526",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SakiHana_effigy: 学长之前明明是个自尊心很强的人吧？什么都不懂♡\n被女生打骂、羞辱了，一定会反驳吧？\n但是…怎么变成这样了呢？\n明明被欺辱了，却还兴奋地花钱跪下来求咲花打你、骂你、羞辱你、迫害你...\n这样子下去，不止是身体，连心灵都会被我诅咒玩坏哦♡…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2052690174098989212].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2052690174098989212",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2052690174098989212"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1359,
+        "media_key": "3_2049397109003272192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHDrz_3aQAAHHoj.jpg",
+        "width": 850
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049397109003272192"
+          ]
+        },
+        "author_id": "1739976691970412544",
+        "conversation_id": "2049397111960338526",
+        "created_at": "2026-04-29T07:55:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T08:55:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049397111960338526"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 133,
+              "start": 130,
+              "tag": "文援"
+            },
+            {
+              "end": 137,
+              "start": 134,
+              "tag": "压榨"
+            },
+            {
+              "end": 141,
+              "start": 138,
+              "tag": "贡奴"
+            },
+            {
+              "end": 147,
+              "start": 142,
+              "tag": "atm奴"
+            },
+            {
+              "end": 151,
+              "start": 148,
+              "tag": "抖m"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QJxecM3hY6",
+              "end": 175,
+              "expanded_url": "https://x.com/SakiHana_effigy/status/2049397111960338526/photo/1",
+              "media_key": "3_2049397109003272192",
+              "start": 152,
+              "url": "https://t.co/QJxecM3hY6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049397111960338526",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1548,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "学长之前明明是个自尊心很强的人吧？什么都不懂♡\n被女生打骂、羞辱了，一定会反驳吧？\n但是…怎么变成这样了呢？\n明明被欺辱了，却还兴奋地花钱跪下来求咲花打你、骂你、羞辱你、迫害你...\n这样子下去，不止是身体，连心灵都会被我诅咒玩坏哦♡\n这样……也可以接受吗🖤\n#文援 #压榨 #贡奴 #atm奴 #抖m https://t.co/QJxecM3hY6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会魅惑并享用钱包的公主殿下🤍\n最最最最喜欢钱包们啦～\n联系方式→2829556413←\n病毒小号@oricz233\n现任魔女学园院长!\n星辰魔女镜璃\n@jingli1840489\n桃心魔女奈奈\n@blakexiaonai\n 黑白魔女花卷\n@miaomiaomi17630\n好老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 52,
+                "username": "oricz233"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 114,
+                "start": 101,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 139,
+                "start": 123,
+                "username": "miaomiaomi17630"
+              },
+              {
+                "end": 158,
+                "start": 143,
+                "username": "chessy80978858"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "魅惑系魔女族公主-奏💜魔女学园院长版～",
+        "pinned_tweet_id": "2013314916120416537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018477066753306624/36q-3UGh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8786,
+          "following_count": 361,
+          "like_count": 633,
+          "listed_count": 37,
+          "media_count": 825,
+          "tweet_count": 2186
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-27T11:49:17.000Z",
+        "description": "诞生于纯粹恶意的人偶，各位称呼我为咲花即可。擅长运用各类毒素侵蚀意志薄弱的人类大哥哥大姐姐们🖤 \n门牌1377762595，🚪20，同行可免，私信看到感兴趣的会回复，锁奴/贡奴招收中～",
+        "id": "1739976691970412544",
+        "name": "咲花✨",
+        "pinned_tweet_id": "2046235460335444305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045219683532763136/muJtJPoK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 27,
+          "like_count": 73,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 25
+        },
+        "username": "SakiHana_effigy",
+        "verified": false
+      }
+    ]
+  }
+}

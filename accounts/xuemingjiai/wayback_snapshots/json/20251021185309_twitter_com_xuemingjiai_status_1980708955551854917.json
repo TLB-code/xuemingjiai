@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1980708955551854917",
+    "created_at": "2025-10-21T18:53:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T19:53:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980708955551854917"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1979789432002940928",
+          "start": 3,
+          "username": "Shion980612"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980708955551854917",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979809316132770142",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Shion980612: 虽然不得不重新开启二周目，但这次正好也算是尝试新事物的机会呢~w\n\n当然，本小姐依然是会保持原先的风格来保证每一位“粉丝”都能重新看到熟悉的一切哦~\n\n欢迎大家像以前一样，像白痴一样傻傻的踏入本小姐所设计的一个个恶意满满的陷阱，成为本小姐的【养…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 691,
+        "media_key": "3_1979808937974108160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3mxvVcXEAAOZkd.jpg",
+        "width": 691
+      },
+      {
+        "height": 644,
+        "media_key": "3_1979808953228750848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3mxwORWcAAFlqw.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "1980708955551854917",
+        "created_at": "2025-10-21T18:53:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T19:53:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980708955551854917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1979789432002940928",
+              "start": 3,
+              "username": "Shion980612"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980708955551854917",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979809316132770142",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Shion980612: 虽然不得不重新开启二周目，但这次正好也算是尝试新事物的机会呢~w\n\n当然，本小姐依然是会保持原先的风格来保证每一位“粉丝”都能重新看到熟悉的一切哦~\n\n欢迎大家像以前一样，像白痴一样傻傻的踏入本小姐所设计的一个个恶意满满的陷阱，成为本小姐的【养…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979808937974108160",
+            "3_1979808953228750848"
+          ]
+        },
+        "author_id": "1979789432002940928",
+        "conversation_id": "1979809316132770142",
+        "created_at": "2025-10-19T07:18:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T08:18:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979809316132770142"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 131,
+              "start": 128,
+              "tag": "压榨"
+            },
+            {
+              "end": 135,
+              "start": 132,
+              "tag": "上贡"
+            },
+            {
+              "end": 141,
+              "start": 136,
+              "tag": "atm奴"
+            },
+            {
+              "end": 145,
+              "start": 142,
+              "tag": "色诱"
+            },
+            {
+              "end": 149,
+              "start": 146,
+              "tag": "洗脑"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BHkvMzPq0c",
+              "end": 173,
+              "expanded_url": "https://x.com/Shion980612/status/1979809316132770142/photo/1",
+              "media_key": "3_1979808937974108160",
+              "start": 150,
+              "url": "https://t.co/BHkvMzPq0c"
+            },
+            {
+              "display_url": "pic.x.com/BHkvMzPq0c",
+              "end": 173,
+              "expanded_url": "https://x.com/Shion980612/status/1979809316132770142/photo/1",
+              "media_key": "3_1979808953228750848",
+              "start": 150,
+              "url": "https://t.co/BHkvMzPq0c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979809316132770142",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 5741,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "虽然不得不重新开启二周目，但这次正好也算是尝试新事物的机会呢~w\n\n当然，本小姐依然是会保持原先的风格来保证每一位“粉丝”都能重新看到熟悉的一切哦~\n\n欢迎大家像以前一样，像白痴一样傻傻的踏入本小姐所设计的一个个恶意满满的陷阱，成为本小姐的【养分】吧🖤\n\n#压榨 #上贡 #atm奴 #色诱 #洗脑 https://t.co/BHkvMzPq0c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n最最最最喜欢钱包们啦!\n天天挨骂真的不会腻嘛～\n擅长用爱意和温柔的语气俘虏钱包～\n联系方式→3971546171←\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 78,
+                "username": "oricz233"
+              },
+              {
+                "end": 107,
+                "start": 98,
+                "username": "moelipoi"
+              },
+              {
+                "end": 125,
+                "start": 114,
+                "username": "cutelingli"
+              },
+              {
+                "end": 147,
+                "start": 132,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 159,
+                "start": 152,
+                "username": "1xian1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARosxSy"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍对钱包们最温柔最有好感版",
+        "pinned_tweet_id": "1976743806063063398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969152325731168256/ozl0k8K4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7863,
+          "following_count": 330,
+          "like_count": 644,
+          "listed_count": 34,
+          "media_count": 744,
+          "tweet_count": 2265
+        },
+        "url": "https://t.co/le8ARosxSy",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-19T05:59:31.000Z",
+        "description": "由于不可抗力不得不二周目重启的恶役美少女，架空虚拟大小姐偶像诗音重新开始的新起点呢\n\n既是令人沉沦的温柔小天使，也是恶意满满的黑心小恶魔~w\n\n联系方式是QQ3694939281，限时提供基础费用为100元/30min的新人福利哦~🖤",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "payhip.com/Shion97455",
+                "end": 23,
+                "expanded_url": "https://payhip.com/Shion97455",
+                "start": 0,
+                "url": "https://t.co/EWaFlfdP6z"
+              }
+            ]
+          }
+        },
+        "id": "1979789432002940928",
+        "name": "诗音🖤可可",
+        "pinned_tweet_id": "1979809316132770142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979792539155587072/PMbHwssA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 10,
+          "like_count": 2,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 8
+        },
+        "url": "https://t.co/EWaFlfdP6z",
+        "username": "Shion980612",
+        "verified": true
+      }
+    ]
+  }
+}

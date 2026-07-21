@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1926025416554250494",
+    "created_at": "2025-05-23T21:20:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-23T22:20:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926025416554250494"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1288837401335328768",
+          "start": 3,
+          "username": "YuSama_Uknwdy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926025416554250494",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925834471284113563",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YuSama_Uknwdy: 废物小鸡巴又有性欲了吗💚真是的~那就被昱昱亲妈的肥嫩腿穴榨出来雏男的废物死精吧💚能被昱昱高贵的肥臀榨精对于你这种白痴小鸡巴雏男简直是梦寐以求的天堂吧~什么都不用做哦💚只需要被昱昱的腿穴榨喷精水发出M男猪叫就可以了哦~把一切精液全部奉献给昱昱…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1926025416554250494].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1926025416554250494",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1926025416554250494"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13746,
+        "height": 568,
+        "media_key": "13_1925833905875087361",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1925833905875087361/img/0ZK1tsIkdvSAi2l2.jpg",
+        "public_metrics": {
+          "view_count": 1548
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1925833905875087361/vid/avc1/320x568/Gm2x2l6zEx_3BO5c.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1925833905875087361/pl/tA262VdColKWQqOq.m3u8"
+          }
+        ],
+        "width": 320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1925833905875087361"
+          ]
+        },
+        "author_id": "1288837401335328768",
+        "conversation_id": "1925834471284113563",
+        "created_at": "2025-05-23T08:41:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-23T09:41:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925834471284113563"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 126,
+              "start": 123,
+              "tag": "肥臀"
+            },
+            {
+              "end": 130,
+              "start": 127,
+              "tag": "女s"
+            },
+            {
+              "end": 134,
+              "start": 131,
+              "tag": "接单"
+            },
+            {
+              "end": 138,
+              "start": 135,
+              "tag": "文媛"
+            },
+            {
+              "end": 142,
+              "start": 139,
+              "tag": "羞辱"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EJlSfX5i7B",
+              "end": 166,
+              "expanded_url": "https://x.com/YuSama_Uknwdy/status/1925834471284113563/video/1",
+              "media_key": "13_1925833905875087361",
+              "start": 143,
+              "url": "https://t.co/EJlSfX5i7B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925834471284113563",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 49,
+          "impression_count": 5274,
+          "like_count": 188,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "废物小鸡巴又有性欲了吗💚真是的~那就被昱昱亲妈的肥嫩腿穴榨出来雏男的废物死精吧💚能被昱昱高贵的肥臀榨精对于你这种白痴小鸡巴雏男简直是梦寐以求的天堂吧~什么都不用做哦💚只需要被昱昱的腿穴榨喷精水发出M男猪叫就可以了哦~把一切精液全部奉献给昱昱吧💚\n#肥臀 #女s #接单 #文媛 #羞辱 https://t.co/EJlSfX5i7B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "集美貌，智慧，强大于一身的魔女族公主现身人世～区区人类，跪下向我表示臣服吧💜\n被我支配 控制 吸脑 成为奴仆💜\n挑战qq242184780，里世界小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858\n女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "oricz233"
+              },
+              {
+                "end": 104,
+                "start": 95,
+                "username": "moelipoi"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "cutelingli"
+              },
+              {
+                "end": 144,
+                "start": 129,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 155,
+                "start": 148,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏💜强势登场人间",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923161284247420929/dv1s2unV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7000,
+          "following_count": 289,
+          "like_count": 320,
+          "listed_count": 32,
+          "media_count": 618,
+          "tweet_count": 1841
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-30T14:02:47.000Z",
+        "description": "超绝文媛🩷 垃圾变态的傻逼们请自觉翘着你的烂根来送死🩷 榨取每个雏男的脑子🩷 营业时间几乎为全天哦💚丨语音验证20💚丨门槛20r可抵扣丨 傻逼不用再偷窥了赶紧夹着你的烂裆来敲门💚 门牌：3451423909",
+        "id": "1288837401335328768",
+        "name": "昱昱SexLove_超绝接单版♪💘",
+        "pinned_tweet_id": "1921487172227473735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925612784043376640/OTArHvUV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16136,
+          "following_count": 259,
+          "like_count": 684,
+          "listed_count": 76,
+          "media_count": 166,
+          "tweet_count": 2032
+        },
+        "username": "YuSama_Uknwdy",
+        "verified": true
+      }
+    ]
+  }
+}

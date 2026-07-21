@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1970156346382381112",
+    "created_at": "2025-09-22T16:00:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-22T17:00:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970156346382381112"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1374389254726455305",
+          "start": 3,
+          "username": "xuemingjiai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970156346382381112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969154496434446588",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xuemingjiai: 提问...为什么最近公主大人没更新推文呢？\n本公主再不更新推文，舔狗钱包们都要营养不良了啊～\n没办法～因为快被可爱的钱包舔狗舔废了啊..\n每天都被这种“可爱”“好用”“方便”“会自我洗脑”的舔狗舔着，甚至是反过来让本公主“必须”使用它，你们说，…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1970156346382381112].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1970156346382381112",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1970156346382381112"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1969154444269875201",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1PXiLaWcAE4Ko_.jpg",
+        "width": 327
+      },
+      {
+        "height": 2243,
+        "media_key": "3_1969154449097592832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1PXidZXkAAvA2z.jpg",
+        "width": 270
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1969154463500734464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1PXjTDWEAAp6KS.jpg",
+        "width": 450
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1969154481376890880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1PXkVpWkAAX8zs.jpg",
+        "width": 315
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969154444269875201",
+            "3_1969154449097592832",
+            "3_1969154463500734464",
+            "3_1969154481376890880"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1969154496434446588",
+        "created_at": "2025-09-19T21:39:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T22:39:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969154496434446588"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wtpSyjvVuI",
+              "end": 173,
+              "expanded_url": "https://x.com/xuemingjiai/status/1969154496434446588/photo/1",
+              "media_key": "3_1969154444269875201",
+              "start": 150,
+              "url": "https://t.co/wtpSyjvVuI"
+            },
+            {
+              "display_url": "pic.x.com/wtpSyjvVuI",
+              "end": 173,
+              "expanded_url": "https://x.com/xuemingjiai/status/1969154496434446588/photo/1",
+              "media_key": "3_1969154449097592832",
+              "start": 150,
+              "url": "https://t.co/wtpSyjvVuI"
+            },
+            {
+              "display_url": "pic.x.com/wtpSyjvVuI",
+              "end": 173,
+              "expanded_url": "https://x.com/xuemingjiai/status/1969154496434446588/photo/1",
+              "media_key": "3_1969154463500734464",
+              "start": 150,
+              "url": "https://t.co/wtpSyjvVuI"
+            },
+            {
+              "display_url": "pic.x.com/wtpSyjvVuI",
+              "end": 173,
+              "expanded_url": "https://x.com/xuemingjiai/status/1969154496434446588/photo/1",
+              "media_key": "3_1969154481376890880",
+              "start": 150,
+              "url": "https://t.co/wtpSyjvVuI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969154496434446588",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2757,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "提问...为什么最近公主大人没更新推文呢？\n本公主再不更新推文，舔狗钱包们都要营养不良了啊～\n没办法～因为快被可爱的钱包舔狗舔废了啊..\n每天都被这种“可爱”“好用”“方便”“会自我洗脑”的舔狗舔着，甚至是反过来让本公主“必须”使用它，你们说，怎么能有动力更新推文嘛～\n你还在等什么呢？快点加入吧🤍 https://t.co/wtpSyjvVuI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n我是一名钱包刽子手。\n如果你也想被我杀死的话→\n242184780←\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 55,
+                "username": "oricz233"
+              },
+              {
+                "end": 84,
+                "start": 75,
+                "username": "moelipoi"
+              },
+              {
+                "end": 102,
+                "start": 91,
+                "username": "cutelingli"
+              },
+              {
+                "end": 124,
+                "start": 109,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 136,
+                "start": 129,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍快被舔狗钱包舔废版～",
+        "pinned_tweet_id": "1945511067926536238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969152325731168256/ozl0k8K4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8267,
+          "following_count": 337,
+          "like_count": 635,
+          "listed_count": 37,
+          "media_count": 728,
+          "tweet_count": 2220
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

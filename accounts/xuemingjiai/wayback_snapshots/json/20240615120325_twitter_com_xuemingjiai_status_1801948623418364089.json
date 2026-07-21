@@ -1,0 +1,155 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1801948623418364089",
+    "created_at": "2024-06-15T12:03:25.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-15T13:03:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1801948623418364089"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "532280267",
+          "start": 3,
+          "username": "cmweidman"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1801948623418364089",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1801886188896460888",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cmweidman: 彻底被剥夺射精权，还在嚣张什么？🖤\n  人家可以去和喜欢的女孩子做爱，还不是因为人家屌大又有钱嘛～～♡而你～连勃起还要靠［祭月大人♡］亲自处理的穷逼短小处男还在幻想着和女人交配～可笑哦🖤🖤\n  拿好～（递出纸巾）醒醒吧～让你射在纸巾里面已经很便宜你…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1801948623418364089].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1801948623418364089",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1801948623418364089"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1801886185658400770"
+          ]
+        },
+        "author_id": "532280267",
+        "conversation_id": "1801886188896460888",
+        "created_at": "2024-06-15T07:55:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-15T08:55:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1801886188896460888"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 132,
+              "start": 129,
+              "tag": "文援"
+            },
+            {
+              "end": 136,
+              "start": 133,
+              "tag": "文爱"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/y9y8I3qXS7",
+              "end": 160,
+              "expanded_url": "https://twitter.com/cmweidman/status/1801886188896460888/photo/1",
+              "media_key": "3_1801886185658400770",
+              "start": 137,
+              "url": "https://t.co/y9y8I3qXS7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801886188896460888",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 339,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "彻底被剥夺射精权，还在嚣张什么？🖤\n  人家可以去和喜欢的女孩子做爱，还不是因为人家屌大又有钱嘛～～♡而你～连勃起还要靠［祭月大人♡］亲自处理的穷逼短小处男还在幻想着和女人交配～可笑哦🖤🖤\n  拿好～（递出纸巾）醒醒吧～让你射在纸巾里面已经很便宜你了吧...#文援 #文爱 https://t.co/y9y8I3qXS7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "超绝可爱💖\n她就是出道即巅峰的可爱纯真小天使新人偶像魔女小姐💖\n任何人都会被她散发出的魅力所捕获，对这样的魔女小姐不能心怀任何涩涩的念想哦，不然就会变得非常糟糕...踏入无法挣脱的陷阱和牢笼里呢💘\n魔女小姐无论说什么做什么都是正确的哦，身为她的粉丝，只需要无条件用各种方式支持她就好了～\nqq2829556413",
+        "id": "1374389254726455305",
+        "name": "电波系新人偶像💖魔女小姐参上（正能量爆表～）",
+        "pinned_tweet_id": "1798490016685195398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795799880021295104/Tsd4XdC9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4866,
+          "following_count": 173,
+          "like_count": 148,
+          "listed_count": 22,
+          "tweet_count": 982
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2012-03-21T14:41:16.000Z",
+        "description": "【瞄准下面二维码截图直接加就可】\n这里是S文援姬 祭月sama ，如果你是废物早泄小处男～那就在祖宗的丝袜脚下接受洗脑吧！准备好被压榨的话？那还不快跪下磕头！？（翘脚）\n29r/0.5h，门牌号：3386246067【扫下方二维码更快】 随时有空，有空必回！（不涉三）",
+        "id": "532280267",
+        "name": "祭月Sama（互推🖤）",
+        "pinned_tweet_id": "1800741842042151122",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1742068027414495232/vIPpBnoG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 839,
+          "following_count": 19,
+          "like_count": 5,
+          "listed_count": 1,
+          "tweet_count": 71
+        },
+        "username": "cmweidman",
+        "verified": false
+      }
+    ]
+  }
+}

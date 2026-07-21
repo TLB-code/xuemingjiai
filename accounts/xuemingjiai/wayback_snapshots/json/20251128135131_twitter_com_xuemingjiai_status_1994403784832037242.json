@@ -1,0 +1,349 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994370106353389568",
+        "3_1994370106395402240"
+      ],
+      "media_source_tweet_id": [
+        "1994370114876219489",
+        "1994370114876219489"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1994403784832037242",
+    "created_at": "2025-11-28T13:51:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T14:51:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994403784832037242"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 60,
+          "start": 57,
+          "tag": "黑心"
+        },
+        {
+          "end": 64,
+          "start": 61,
+          "tag": "压榨"
+        },
+        {
+          "end": 70,
+          "start": 65,
+          "tag": "ATM奴"
+        },
+        {
+          "end": 74,
+          "start": 71,
+          "tag": "榨金"
+        },
+        {
+          "end": 78,
+          "start": 75,
+          "tag": "女S"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1797964318572777472",
+          "start": 3,
+          "username": "manxins3"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Gkqs4CZ08w",
+          "end": 102,
+          "expanded_url": "https://x.com/manxins3/status/1994370114876219489/photo/1",
+          "media_key": "3_1994370106353389568",
+          "start": 79,
+          "url": "https://t.co/Gkqs4CZ08w"
+        },
+        {
+          "display_url": "pic.x.com/Gkqs4CZ08w",
+          "end": 102,
+          "expanded_url": "https://x.com/manxins3/status/1994370114876219489/photo/1",
+          "media_key": "3_1994370106395402240",
+          "start": 79,
+          "url": "https://t.co/Gkqs4CZ08w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994403784832037242",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994370114876219489",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @manxins3: 就算是养料—\n也是最下等的那种🖤\n幔馨不会“逼迫”别人哦\n除非真的来“自杀”的那种🖤\n#黑心 #压榨 #ATM奴 #榨金 #女S https://t.co/Gkqs4CZ08w"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1994403784832037242].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1994403784832037242",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1994403784832037242"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1994370106353389568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G61tC4vaEAACLqM.jpg",
+        "width": 720
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1994370106395402240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G61tC45bIAA1hJg.jpg",
+        "width": 1090
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994370106353389568",
+            "3_1994370106395402240"
+          ]
+        },
+        "author_id": "1797964318572777472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1994370114876219489",
+        "created_at": "2025-11-28T11:37:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T12:37:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994370114876219489"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 46,
+              "start": 43,
+              "tag": "黑心"
+            },
+            {
+              "end": 50,
+              "start": 47,
+              "tag": "压榨"
+            },
+            {
+              "end": 56,
+              "start": 51,
+              "tag": "ATM奴"
+            },
+            {
+              "end": 60,
+              "start": 57,
+              "tag": "榨金"
+            },
+            {
+              "end": 64,
+              "start": 61,
+              "tag": "女S"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Gkqs4CZ08w",
+              "end": 88,
+              "expanded_url": "https://x.com/manxins3/status/1994370114876219489/photo/1",
+              "media_key": "3_1994370106353389568",
+              "start": 65,
+              "url": "https://t.co/Gkqs4CZ08w"
+            },
+            {
+              "display_url": "pic.x.com/Gkqs4CZ08w",
+              "end": 88,
+              "expanded_url": "https://x.com/manxins3/status/1994370114876219489/photo/1",
+              "media_key": "3_1994370106395402240",
+              "start": 65,
+              "url": "https://t.co/Gkqs4CZ08w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994370114876219489",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 206,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "就算是养料—\n也是最下等的那种🖤\n幔馨不会“逼迫”别人哦\n除非真的来“自杀”的那种🖤\n#黑心 #压榨 #ATM奴 #榨金 #女S https://t.co/Gkqs4CZ08w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n最最最最喜欢钱包们啦!\n天天挨骂真的不会腻嘛～\n擅长用爱意和温柔的语气俘虏钱包～\n联系方式→242184780←\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 77,
+                "username": "oricz233"
+              },
+              {
+                "end": 106,
+                "start": 97,
+                "username": "moelipoi"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "cutelingli"
+              },
+              {
+                "end": 146,
+                "start": 131,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 158,
+                "start": 151,
+                "username": "1xian1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍对钱包们最温柔最有好感版",
+        "pinned_tweet_id": "1976743806063063398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991861278688821248/oCQEPeIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7986,
+          "following_count": 340,
+          "like_count": 639,
+          "listed_count": 36,
+          "media_count": 760,
+          "tweet_count": 2342
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-04T12:11:23.000Z",
+        "description": "洗脑 压榨 黑心文援 一次性利用 用完即丢 🖤 和好老公@kekejiangw44613 双人吸榨赴死强度✖️2 🐧3880497144 草莓小可爱@isurugikogawa 图超级好看 快去关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 28,
+                "username": "kekejiangw44613"
+              },
+              {
+                "end": 88,
+                "start": 74,
+                "username": "isurugikogawa"
+              }
+            ]
+          }
+        },
+        "id": "1797964318572777472",
+        "name": "幔馨",
+        "pinned_tweet_id": "1931528114414469210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916734792043012096/hZ8m8u_y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2484,
+          "following_count": 38,
+          "like_count": 45,
+          "listed_count": 6,
+          "media_count": 31,
+          "tweet_count": 60
+        },
+        "username": "manxins3",
+        "verified": false
+      }
+    ]
+  }
+}

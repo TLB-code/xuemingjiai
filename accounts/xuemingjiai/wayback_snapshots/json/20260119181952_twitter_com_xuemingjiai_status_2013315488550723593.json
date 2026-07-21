@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2013315470284234752"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "2013314916120416537",
+    "created_at": "2026-01-19T18:19:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T19:19:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013315488550723593"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/73djFYKYqV",
+          "end": 158,
+          "expanded_url": "https://x.com/xuemingjiai/status/2013315488550723593/photo/1",
+          "media_key": "3_2013315470284234752",
+          "start": 135,
+          "url": "https://t.co/73djFYKYqV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013315488550723593",
+    "in_reply_to_user_id": "1374389254726455305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013315384586244600",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "啊～可能有的小钱包会问本公主，有没有更经济实惠，可以长期陪伴本公主的玩法?\n嗯～当然有哦，以前本公主推出过“陪伴模块”大概就是安装以后的30天内，每天都能收到本公主精心准备的涩图+一段长文案～性价比所谓拉满，可以理解为月卡啦～\n现在新的陪伴模块也重启了哦，详情看图片🤍 https://t.co/73djFYKYqV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2013315470284234752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_C7wNMXIAARZJr.jpg",
+        "width": 1314
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2013315368060596224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_C7qQYWMAA8fbm.jpg",
+        "width": 922
+      },
+      {
+        "height": 1472,
+        "media_key": "3_2013315368039620611",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_C7qQTWIAMH_DQ.jpg",
+        "width": 832
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2013315368014561281",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_C7qQNXwAEtG8K.jpg",
+        "width": 1312
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013315470284234752"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "2013314916120416537",
+        "created_at": "2026-01-19T18:19:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T19:19:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013315488550723593"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/73djFYKYqV",
+              "end": 158,
+              "expanded_url": "https://x.com/xuemingjiai/status/2013315488550723593/photo/1",
+              "media_key": "3_2013315470284234752",
+              "start": 135,
+              "url": "https://t.co/73djFYKYqV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013315488550723593",
+        "in_reply_to_user_id": "1374389254726455305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013315384586244600",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "啊～可能有的小钱包会问本公主，有没有更经济实惠，可以长期陪伴本公主的玩法?\n嗯～当然有哦，以前本公主推出过“陪伴模块”大概就是安装以后的30天内，每天都能收到本公主精心准备的涩图+一段长文案～性价比所谓拉满，可以理解为月卡啦～\n现在新的陪伴模块也重启了哦，详情看图片🤍 https://t.co/73djFYKYqV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013315368060596224",
+            "3_2013315368039620611",
+            "3_2013315368014561281"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "2013314916120416537",
+        "created_at": "2026-01-19T18:19:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T19:19:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013315384586244600"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hqfKmCz08H",
+              "end": 169,
+              "expanded_url": "https://x.com/xuemingjiai/status/2013315384586244600/photo/1",
+              "media_key": "3_2013315368060596224",
+              "start": 146,
+              "url": "https://t.co/hqfKmCz08H"
+            },
+            {
+              "display_url": "pic.x.com/hqfKmCz08H",
+              "end": 169,
+              "expanded_url": "https://x.com/xuemingjiai/status/2013315384586244600/photo/1",
+              "media_key": "3_2013315368039620611",
+              "start": 146,
+              "url": "https://t.co/hqfKmCz08H"
+            },
+            {
+              "display_url": "pic.x.com/hqfKmCz08H",
+              "end": 169,
+              "expanded_url": "https://x.com/xuemingjiai/status/2013315384586244600/photo/1",
+              "media_key": "3_2013315368014561281",
+              "start": 146,
+              "url": "https://t.co/hqfKmCz08H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013315384586244600",
+        "in_reply_to_user_id": "1374389254726455305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013315215866183962",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "嗯～本公主的玩法多种多样，会看得眼花缭乱吧？\n所以，本公主贴心的为你们介绍一下三个目前主推的企划～\n分别是日贡钱包(进入钱包群每日定时上贡，超时罚款)\n牢笼(单人关押，体验被当做舔狗工具被本公主无情审判罚到死)\n小冷(成为被本公主设定好的电子钱包，无条件服从本公主)\n选择一个适合自己的吧🤍 https://t.co/hqfKmCz08H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🖤\n最最最最喜欢钱包们啦～\n联系方式→2829556413←\n病毒小号@oricz233\n现任魔女学园院长!\n星辰魔女镜璃\n@jingli1840489\n桃心魔女奈奈\n@blakexiaonai\n 黑白魔女花卷\n@miaomiaomi17630\n好老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 49,
+                "username": "oricz233"
+              },
+              {
+                "end": 90,
+                "start": 76,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 111,
+                "start": 98,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 136,
+                "start": 120,
+                "username": "miaomiaomi17630"
+              },
+              {
+                "end": 155,
+                "start": 140,
+                "username": "chessy80978858"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARosxSy"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🖤魔女学园院长版～",
+        "pinned_tweet_id": "2013314916120416537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012984933145276416/x6NCrC3__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8198,
+          "following_count": 348,
+          "like_count": 640,
+          "listed_count": 37,
+          "media_count": 784,
+          "tweet_count": 2112
+        },
+        "url": "https://t.co/le8ARosxSy",
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

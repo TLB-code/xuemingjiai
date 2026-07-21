@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1931837566116135069",
+    "created_at": "2025-06-09T09:48:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-09T10:48:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932011878555041900"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1710181893386407936",
+          "start": 0,
+          "username": "qi1091342595843"
+        },
+        {
+          "end": 27,
+          "id": "1765356007981715456",
+          "start": 17,
+          "username": "huixin152"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932011878555041900",
+    "in_reply_to_user_id": "1710181893386407936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932011598669070538",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qi1091342595843 @huixin152 对的，没错"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "1931837566116135069",
+        "created_at": "2025-06-09T09:48:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T10:48:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932011878555041900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1710181893386407936",
+              "start": 0,
+              "username": "qi1091342595843"
+            },
+            {
+              "end": 27,
+              "id": "1765356007981715456",
+              "start": 17,
+              "username": "huixin152"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932011878555041900",
+        "in_reply_to_user_id": "1710181893386407936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932011598669070538",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qi1091342595843 @huixin152 对的，没错"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1710181893386407936",
+        "conversation_id": "1931837566116135069",
+        "created_at": "2025-06-09T09:47:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T10:47:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932011598669070538"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1765356007981715456",
+              "start": 0,
+              "username": "huixin152"
+            },
+            {
+              "end": 23,
+              "id": "1374389254726455305",
+              "start": 11,
+              "username": "xuemingjiai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932011598669070538",
+        "in_reply_to_user_id": "1765356007981715456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931980186758893859",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huixin152 @xuemingjiai 公用应该是无论谁来都能提一点出来\n就像公共厕所那样（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n你也会因为窥视我的美貌而心甘情愿沦为钱包被我使用的对吗？\n钱包报名入口：242184780\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 66,
+                "username": "oricz233"
+              },
+              {
+                "end": 95,
+                "start": 86,
+                "username": "moelipoi"
+              },
+              {
+                "end": 113,
+                "start": 102,
+                "username": "cutelingli"
+              },
+              {
+                "end": 135,
+                "start": 120,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 147,
+                "start": 140,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍驯化公用钱包👛中",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931064828044713984/9qwnduVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7157,
+          "following_count": 302,
+          "like_count": 346,
+          "listed_count": 33,
+          "media_count": 664,
+          "tweet_count": 1985
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-06T06:35:33.000Z",
+        "description": "男m/01/无可救药的恋足狗狗/正在戴锁中\n基本是转推机器人，偶尔会被夺舍发点日常\n❗是穷学生所以不会上贡，绝！对！不！会！\n欢迎一起涩涩喵(*^ω^*)",
+        "id": "1710181893386407936",
+        "name": "qi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1710563638577147904/g0zNcgnu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 1531,
+          "like_count": 25921,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 8956
+        },
+        "username": "qi1091342595843",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-06T12:37:33.000Z",
+        "description": "INTP/Sub/ATM奴/ 一只没有钱的ATM / 身体所有权归属女爹@gugugulou / 专属钱包@wWOT1Gg8bduhTbU",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 36,
+                "username": "gugugulou"
+              },
+              {
+                "end": 69,
+                "start": 53,
+                "username": "wWOT1Gg8bduhTbU"
+              }
+            ]
+          }
+        },
+        "id": "1765356007981715456",
+        "name": "霖芝-ATM",
+        "pinned_tweet_id": "1905980014144942111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878804067381915648/PnbH0XtR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1748,
+          "following_count": 276,
+          "like_count": 1097,
+          "listed_count": 4,
+          "media_count": 88,
+          "tweet_count": 1230
+        },
+        "username": "huixin152",
+        "verified": false
+      }
+    ]
+  }
+}

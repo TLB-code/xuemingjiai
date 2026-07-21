@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1843795123983016071",
+    "created_at": "2024-10-08T23:26:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-09T00:26:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1843795123983016071"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1774950152643739648",
+          "start": 3,
+          "username": "qiranlove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1843795123983016071",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 48
+    },
+    "referenced_tweets": [
+      {
+        "id": "1843573588571369804",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qiranlove: 哼哧♡齁♡噫！野爹鸡巴的味道♡好~好棒♡唔……和巨根野爹同时沐浴的感觉……哈♡哈♡齁~齁❤️呼~好爽…好幸福♡（将整个脑袋全部埋在面前巨根亲爹祖宗的雌杀肉屌下边鼻腔张开贴合这肉屌祖宗棒身贪婪的嗅吸着面前的淫臭吞吐，仅仅是闻着面前肉屌的淫臭就已经吐舌…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1843795123983016071].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1843795123983016071",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1843795123983016071"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1843573421709406208"
+          ]
+        },
+        "author_id": "1774950152643739648",
+        "conversation_id": "1843573588571369804",
+        "created_at": "2024-10-08T08:46:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-08T09:46:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1843573588571369804"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o0oIs57hTC",
+              "end": 167,
+              "expanded_url": "https://x.com/qiranlove/status/1843573588571369804/photo/1",
+              "media_key": "3_1843573421709406208",
+              "start": 144,
+              "url": "https://t.co/o0oIs57hTC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1843573588571369804",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 6742,
+          "like_count": 87,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 48
+        },
+        "reply_settings": "everyone",
+        "text": "哼哧♡齁♡噫！野爹鸡巴的味道♡好~好棒♡唔……和巨根野爹同时沐浴的感觉……哈♡哈♡齁~齁❤️呼~好爽…好幸福♡（将整个脑袋全部埋在面前巨根亲爹祖宗的雌杀肉屌下边鼻腔张开贴合这肉屌祖宗棒身贪婪的嗅吸着面前的淫臭吞吐，仅仅是闻着面前肉屌的淫臭就已经吐舌翻着白眼不能自己臣服在野爹祖宗胯下）… https://t.co/o0oIs57hTC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "超绝可爱💖\n她就是出道即巅峰的可爱纯真小天使新人偶像魔女小姐💖\n对这样的魔女小姐不能心怀任何涩涩的念想哦，不然就会变得非常糟糕...踏入无法挣脱的陷阱和牢笼里呢💘\n魔女小姐无论说什么做什么都是正确的哦，身为她的粉丝，只需要无条件用各种方式支持她就好了～\nqq2829556413",
+        "id": "1374389254726455305",
+        "name": "电波系新人偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1839039717712724125",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843378467058135041/nnEslYVD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5433,
+          "following_count": 205,
+          "like_count": 159,
+          "listed_count": 23,
+          "tweet_count": 1124
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-02T00:01:23.000Z",
+        "description": "肉畜母婊文援姬♡身心全部都堕落沦为丧志母畜的婊子人偶玩物♡见到主人肉屌瞬间丧志的反差雌犬♡擅长服侍野爹大人们，xp全能，无下限♡可以被尽情使用。无论是被巨根征服，还是榨干废物肉虫都不在话下的肉畜精壶♡\n收费60/h\nqq门牌号：3259563015\n 2010380292\n时间中午到凌晨五点\n电报：@qiranlove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 160,
+                "start": 150,
+                "username": "qiranlove"
+              }
+            ]
+          }
+        },
+        "id": "1774950152643739648",
+        "location": "野爹胯下♡",
+        "name": "人偶肉畜柒䰯（互）",
+        "pinned_tweet_id": "1796342708568826215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774950374518181888/CPCvm9hK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7346,
+          "following_count": 91,
+          "like_count": 1485,
+          "listed_count": 32,
+          "tweet_count": 1235
+        },
+        "username": "qiranlove",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1854870819786440704"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1851563784554627239",
+    "created_at": "2024-11-08T12:57:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-08T13:57:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1854870822248423615"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xsbiQ4I9nc",
+          "end": 167,
+          "expanded_url": "https://x.com/xuemingjiai/status/1854870822248423615/photo/1",
+          "media_key": "3_1854870819786440704",
+          "start": 144,
+          "url": "https://t.co/xsbiQ4I9nc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1854870822248423615",
+    "in_reply_to_user_id": "1374389254726455305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1854870134764249267",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "最终～小男娘也成为了魔物塔当中的区域boss魔物～狩猎着前去讨伐魔物塔的勇者们～结局：堕落的伪娘天使达成!\n接下来，请各位冒险家们选择重新体验其他身份进行游戏，还是读档回到做出选择的节点～两个选择都会有不同的发展，重开将会增加新的可选择人物，读档也会增加新的剧情。\n请～做出你的选择吧💜 https://t.co/xsbiQ4I9nc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_1854870819786440704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gb3TLt2bwAAgu35.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1854870819786440704"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1851563784554627239",
+        "created_at": "2024-11-08T12:57:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-08T13:57:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1854870822248423615"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xsbiQ4I9nc",
+              "end": 167,
+              "expanded_url": "https://x.com/xuemingjiai/status/1854870822248423615/photo/1",
+              "media_key": "3_1854870819786440704",
+              "start": 144,
+              "url": "https://t.co/xsbiQ4I9nc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854870822248423615",
+        "in_reply_to_user_id": "1374389254726455305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1854870134764249267",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "最终～小男娘也成为了魔物塔当中的区域boss魔物～狩猎着前去讨伐魔物塔的勇者们～结局：堕落的伪娘天使达成!\n接下来，请各位冒险家们选择重新体验其他身份进行游戏，还是读档回到做出选择的节点～两个选择都会有不同的发展，重开将会增加新的可选择人物，读档也会增加新的剧情。\n请～做出你的选择吧💜 https://t.co/xsbiQ4I9nc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1854870131828310016"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1851563784554627239",
+        "created_at": "2024-11-08T12:54:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-08T13:54:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1854870134764249267"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/k1TRvNftfk",
+              "end": 122,
+              "expanded_url": "https://x.com/xuemingjiai/status/1854870134764249267/photo/1",
+              "media_key": "3_1854870131828310016",
+              "start": 99,
+              "url": "https://t.co/k1TRvNftfk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854870134764249267",
+        "in_reply_to_user_id": "1374389254726455305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1854869729812660488",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "啊哈...快动...动起来啊💜\n就算射不出精液来了也要给我动，射不出来精液就射血吧，反正已经把你所有的财产榨干了，接下来就是你的生命了哦，榨干以后就成为我永远的奴隶吧，成为伪娘魅魔大人永世的奴仆💜 https://t.co/k1TRvNftfk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "超绝可爱💖\n她就是出道即巅峰的可爱纯真小天使新人偶像魔女小姐💖\n对这样的魔女小姐不能心怀任何涩涩的念想哦，不然就会变得非常糟糕...踏入无法挣脱的陷阱和牢笼里呢💘\n魔女小姐无论说什么做什么都是正确的哦，身为她的粉丝，只需要无条件用各种方式支持她就好了～\nqq2829556413，碎碎念小号@oricz233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 154,
+                "start": 145,
+                "username": "oricz233"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "name": "电波系新人偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854618482215911424/R3TTJuCj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5832,
+          "following_count": 224,
+          "like_count": 184,
+          "listed_count": 24,
+          "tweet_count": 1311
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

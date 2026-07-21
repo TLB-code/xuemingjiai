@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1932896606048890880"
+      ],
+      "media_source_tweet_id": [
+        "1932897951938150806"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "1932944435459043485",
+    "created_at": "2025-06-11T23:34:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-12T00:34:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932944435459043485"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 86,
+          "start": 83,
+          "tag": "羞辱"
+        },
+        {
+          "end": 89,
+          "start": 87,
+          "tag": "足"
+        },
+        {
+          "end": 94,
+          "start": 90,
+          "tag": "NTR"
+        },
+        {
+          "end": 98,
+          "start": 95,
+          "tag": "白丝"
+        },
+        {
+          "end": 104,
+          "start": 99,
+          "tag": "星穹铁道"
+        },
+        {
+          "end": 108,
+          "start": 105,
+          "tag": "淫狼"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1084532005545492480",
+          "start": 3,
+          "username": "lanyuan411"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XwHwqIr0Yk",
+          "end": 132,
+          "expanded_url": "https://x.com/lanyuan411/status/1932897951938150806/photo/1",
+          "media_key": "3_1932896606048890880",
+          "start": 109,
+          "url": "https://t.co/XwHwqIr0Yk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932944435459043485",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932897951938150806",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lanyuan411: 今天全天接单喵~💚\n\n欢迎挺着早泄小鸡鸡过来被玲奈淫纹骚足脚底踩废小鸡巴捏💛\n\n尤其是已经握住肉棒盯视着意淫的贱狗。滚过来送死喔♡\n\n#羞辱 #足 #NTR #白丝 #星穹铁道 #淫狼 https://t.co/XwHwqIr0Yk"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1932944435459043485].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1932944435459043485",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1932944435459043485"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1932896606048890880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtMHOOcaMAALcEL.jpg",
+        "width": 2803
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932896606048890880"
+          ]
+        },
+        "author_id": "1084532005545492480",
+        "conversation_id": "1932897951938150806",
+        "created_at": "2025-06-11T20:29:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T21:29:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932897951938150806"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 70,
+              "start": 67,
+              "tag": "羞辱"
+            },
+            {
+              "end": 73,
+              "start": 71,
+              "tag": "足"
+            },
+            {
+              "end": 78,
+              "start": 74,
+              "tag": "NTR"
+            },
+            {
+              "end": 82,
+              "start": 79,
+              "tag": "白丝"
+            },
+            {
+              "end": 88,
+              "start": 83,
+              "tag": "星穹铁道"
+            },
+            {
+              "end": 92,
+              "start": 89,
+              "tag": "淫狼"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XwHwqIr0Yk",
+              "end": 116,
+              "expanded_url": "https://x.com/lanyuan411/status/1932897951938150806/photo/1",
+              "media_key": "3_1932896606048890880",
+              "start": 93,
+              "url": "https://t.co/XwHwqIr0Yk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932897951938150806",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 299,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "今天全天接单喵~💚\n\n欢迎挺着早泄小鸡鸡过来被玲奈淫纹骚足脚底踩废小鸡巴捏💛\n\n尤其是已经握住肉棒盯视着意淫的贱狗。滚过来送死喔♡\n\n#羞辱 #足 #NTR #白丝 #星穹铁道 #淫狼 https://t.co/XwHwqIr0Yk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n你也会因为窥视我的美貌而心甘情愿沦为钱包被我使用的对吗？\n钱包报名入口：2829556413\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 67,
+                "username": "oricz233"
+              },
+              {
+                "end": 96,
+                "start": 87,
+                "username": "moelipoi"
+              },
+              {
+                "end": 114,
+                "start": 103,
+                "username": "cutelingli"
+              },
+              {
+                "end": 136,
+                "start": 121,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 148,
+                "start": 141,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍驯化公用钱包👛中",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931064828044713984/9qwnduVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7194,
+          "following_count": 304,
+          "like_count": 356,
+          "listed_count": 33,
+          "media_count": 677,
+          "tweet_count": 2027
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-13T19:25:54.000Z",
+        "description": "这里是玲奈🩷\n是一个喜欢玩弄早泄雏男同时又会勾引男爹的雌萝淫婊大小姐🖤\n擅长的有：羞辱榨精丨玩弄绿奴丨调教绿狗丨送屄倒贴丨\n60/h~35/0.5h\n盯着屏幕对玲奈已经饥不择食的早泄雏男可以来敲门了~当然也欢迎男爹来光临使用玲奈的雌穴💛门牌3956547942备用3843285033（添加提示异常，就点了解详情♡",
+        "id": "1084532005545492480",
+        "location": "全天接单♡",
+        "name": "玲奈美少女_♡全天接单Sex~💚",
+        "pinned_tweet_id": "1857473827904856194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901034732064043008/ZsBmKqry_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6657,
+          "following_count": 91,
+          "like_count": 127,
+          "listed_count": 39,
+          "media_count": 110,
+          "tweet_count": 1796
+        },
+        "username": "lanyuan411",
+        "verified": true
+      }
+    ]
+  }
+}

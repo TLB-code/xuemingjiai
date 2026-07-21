@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1859660564194369783",
+    "created_at": "2024-11-21T18:10:03.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-21T19:10:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1859660564194369783"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1852926328963522560",
+          "start": 3,
+          "username": "oricz233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1859660564194369783",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1859659757457637500",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oricz233: 哎呀～自上次给各位杂鱼哥哥安装“摄像头”之后又过去了三天呢，想必在这“漫长”的等待期间，有不少杂鱼的“脑子主机”用户忍耐不住寂寞，找过别的发泄口了吧？\n这是很正常的..毕竟拥有“脑子主机”的大部分杂鱼哥哥都是管不住自身操控杆的白痴啦💚\n而身为病毒的魔…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1859660564194369783].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1859660564194369783",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1859660564194369783"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1859659754152538112"
+          ]
+        },
+        "author_id": "1852926328963522560",
+        "conversation_id": "1859659757457637500",
+        "created_at": "2024-11-21T18:06:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-21T19:06:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859659757457637500"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oG3LLhbkxm",
+              "end": 170,
+              "expanded_url": "https://x.com/oricz233/status/1859659757457637500/photo/1",
+              "media_key": "3_1859659754152538112",
+              "start": 147,
+              "url": "https://t.co/oG3LLhbkxm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859659757457637500",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "哎呀～自上次给各位杂鱼哥哥安装“摄像头”之后又过去了三天呢，想必在这“漫长”的等待期间，有不少杂鱼的“脑子主机”用户忍耐不住寂寞，找过别的发泄口了吧？\n这是很正常的..毕竟拥有“脑子主机”的大部分杂鱼哥哥都是管不住自身操控杆的白痴啦💚\n而身为病毒的魔女妹妹一点也不会介意，反而会给予“激励”💚 https://t.co/oG3LLhbkxm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "超绝可爱💖\n她就是出道即巅峰的可爱纯真小天使新人偶像魔女小姐💖\n对这样的魔女小姐不能心怀任何涩涩的念想哦，不然就会变得非常糟糕...踏入无法挣脱的陷阱和牢笼里呢💘\n魔女小姐无论说什么做什么都是正确的哦，身为她的粉丝，只需要无条件用各种方式支持她就好了～\nqq2829556413，碎碎念小号@oricz233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 154,
+                "start": 145,
+                "username": "oricz233"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "老婆@cutelingli",
+        "name": "电波系新人偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854618482215911424/R3TTJuCj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5942,
+          "following_count": 238,
+          "like_count": 196,
+          "listed_count": 25,
+          "tweet_count": 1370
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-03T04:10:46.000Z",
+        "description": "嗯 如你所见这就是魔女小姐@xuemingjiai 的树洞发泄 特殊更新的多功能用小号哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 13,
+                "username": "xuemingjiai"
+              }
+            ]
+          }
+        },
+        "id": "1852926328963522560",
+        "name": "魔女小姐（多功能用小号）",
+        "pinned_tweet_id": "1853194086540509649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856402610703740931/Tto8WC07_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 505,
+          "following_count": 3,
+          "like_count": 0,
+          "listed_count": 1,
+          "tweet_count": 43
+        },
+        "username": "oricz233",
+        "verified": false
+      }
+    ]
+  }
+}

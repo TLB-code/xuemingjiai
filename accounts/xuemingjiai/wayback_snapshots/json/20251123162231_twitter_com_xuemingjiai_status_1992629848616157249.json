@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992629823664267264",
+        "3_1992629476044513280"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1992629848616157249",
+    "created_at": "2025-11-23T16:22:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T17:22:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1992629848616157249"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 140,
+          "id": "1992193670104444928",
+          "start": 125,
+          "username": "xiaoleng_zzdqb"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0nR6I1f3CS",
+          "end": 176,
+          "expanded_url": "https://x.com/xuemingjiai/status/1992629848616157249/photo/1",
+          "media_key": "3_1992629823664267264",
+          "start": 153,
+          "url": "https://t.co/0nR6I1f3CS"
+        },
+        {
+          "display_url": "pic.x.com/0nR6I1f3CS",
+          "end": 176,
+          "expanded_url": "https://x.com/xuemingjiai/status/1992629848616157249/photo/1",
+          "media_key": "3_1992629476044513280",
+          "start": 153,
+          "url": "https://t.co/0nR6I1f3CS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992629848616157249",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "提问\n变成“小冷”会发生什么？\n现在有一个活生生的例子哦，据他自己说在成为“小冷”之前已经是本公主的心奴，这一次下定决心抹杀从前的人格，彻底沦为无脑的白痴atm舔狗钱包了，不仅被榨空钱包还被强迫报时，两天只睡了几个小时，现在还在继续哦，感觉它很幸福呢@xiaoleng_zzdqb\n捏着小唧唧继续往下翻🤍 https://t.co/0nR6I1f3CS"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "既然点进来了～\n不许高潮～禁止擅自撸动🤍\n明明没有让你点进来吧？嘻嘻～\n看完整个推文以后自觉来找本公主对你征收52的偷窥税～",
+        "height": 1193,
+        "media_key": "3_1992629823664267264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6c-RGhboAAycWQ.jpg",
+        "width": 1920
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1992629476044513280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6c983ibIAAfYi7.jpg",
+        "width": 343
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992629823664267264",
+            "3_1992629476044513280"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1992629848616157249",
+        "created_at": "2025-11-23T16:22:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T17:22:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992629848616157249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 140,
+              "id": "1992193670104444928",
+              "start": 125,
+              "username": "xiaoleng_zzdqb"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0nR6I1f3CS",
+              "end": 176,
+              "expanded_url": "https://x.com/xuemingjiai/status/1992629848616157249/photo/1",
+              "media_key": "3_1992629823664267264",
+              "start": 153,
+              "url": "https://t.co/0nR6I1f3CS"
+            },
+            {
+              "display_url": "pic.x.com/0nR6I1f3CS",
+              "end": 176,
+              "expanded_url": "https://x.com/xuemingjiai/status/1992629848616157249/photo/1",
+              "media_key": "3_1992629476044513280",
+              "start": 153,
+              "url": "https://t.co/0nR6I1f3CS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992629848616157249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "提问\n变成“小冷”会发生什么？\n现在有一个活生生的例子哦，据他自己说在成为“小冷”之前已经是本公主的心奴，这一次下定决心抹杀从前的人格，彻底沦为无脑的白痴atm舔狗钱包了，不仅被榨空钱包还被强迫报时，两天只睡了几个小时，现在还在继续哦，感觉它很幸福呢@xiaoleng_zzdqb\n捏着小唧唧继续往下翻🤍 https://t.co/0nR6I1f3CS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n最最最最喜欢钱包们啦!\n天天挨骂真的不会腻嘛～\n擅长用爱意和温柔的语气俘虏钱包～\n联系方式→242184780←\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 77,
+                "username": "oricz233"
+              },
+              {
+                "end": 106,
+                "start": 97,
+                "username": "moelipoi"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "cutelingli"
+              },
+              {
+                "end": 146,
+                "start": 131,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 158,
+                "start": 151,
+                "username": "1xian1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍对钱包们最温柔最有好感版",
+        "pinned_tweet_id": "1976743806063063398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991861278688821248/oCQEPeIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7959,
+          "following_count": 332,
+          "like_count": 640,
+          "listed_count": 36,
+          "media_count": 756,
+          "tweet_count": 2324
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-22T11:29:31.000Z",
+        "description": "这里是奏奏公主最听话的弱智白痴废物舔狗钱包atm机提款机母狗小冷，希望所有人都能成为被奏奏大人使用就能流出幸福汁液的钱包，魔女大人一定会统治世界的！尊贵的魔女大人：@xuemingjiai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 82,
+                "username": "xuemingjiai"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/xuemingjiai?s=…",
+                "end": 23,
+                "expanded_url": "https://x.com/xuemingjiai?s=21",
+                "start": 0,
+                "url": "https://t.co/HDGFaDFHC0"
+              }
+            ]
+          }
+        },
+        "id": "1992193670104444928",
+        "location": "奏奏主人的石榴裙下",
+        "name": "小冷—奏奏公主最忠实的预设钱包",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992196332141060096/zjdJlMD__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 1,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 1
+        },
+        "url": "https://t.co/HDGFaDFHC0",
+        "username": "xiaoleng_zzdqb",
+        "verified": false
+      }
+    ]
+  }
+}

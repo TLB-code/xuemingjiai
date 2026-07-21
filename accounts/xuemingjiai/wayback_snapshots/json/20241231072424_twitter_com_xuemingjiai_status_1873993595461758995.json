@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1873993595461758995",
+    "created_at": "2024-12-31T07:24:24.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-31T08:24:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1873993595461758995"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1732328434154536961",
+          "start": 3,
+          "username": "AmandaJohn59240"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873993595461758995",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1838269651966661090",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AmandaJohn59240: 稍等片刻～就停到这里不要继续翻找下去了吧！请了解一下世界最完美的茶音小姐吧♪💖\n\n只要加上茶音小姐好友就可以进行幸福的洗脑和大脑保养，让正在看着这里的你无法摆脱和拒绝，直击着你弱点的完美调教💘\n\n只是这样就已经忍不住了吗♡那就好好的控制…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1873993595461758995].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1873993595461758995",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1873993595461758995"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1838269631213244416",
+            "3_1838269641644478466"
+          ]
+        },
+        "author_id": "1732328434154536961",
+        "conversation_id": "1838269651966661090",
+        "created_at": "2024-09-23T17:30:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-23T18:30:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1838269651966661090"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 138,
+              "start": 135,
+              "tag": "文援"
+            },
+            {
+              "end": 144,
+              "start": 140,
+              "tag": "文援姬"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LkAzXWI6Gb",
+              "end": 168,
+              "expanded_url": "https://x.com/AmandaJohn59240/status/1838269651966661090/photo/1",
+              "media_key": "3_1838269631213244416",
+              "start": 145,
+              "url": "https://t.co/LkAzXWI6Gb"
+            },
+            {
+              "display_url": "pic.x.com/LkAzXWI6Gb",
+              "end": 168,
+              "expanded_url": "https://x.com/AmandaJohn59240/status/1838269651966661090/photo/1",
+              "media_key": "3_1838269641644478466",
+              "start": 145,
+              "url": "https://t.co/LkAzXWI6Gb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838269651966661090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 16153,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "稍等片刻～就停到这里不要继续翻找下去了吧！请了解一下世界最完美的茶音小姐吧♪💖\n\n只要加上茶音小姐好友就可以进行幸福的洗脑和大脑保养，让正在看着这里的你无法摆脱和拒绝，直击着你弱点的完美调教💘\n\n只是这样就已经忍不住了吗♡那就好好的控制着自己敲开大门后主动加上来吧♪💞\n#文援  #文援姬 https://t.co/LkAzXWI6Gb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "您好～这里是出道以来一直致力于为小雏男哥哥们提供“舒适”“安全”“极致快感”的纯真妹系小天使魔女妹妹💚\n想了解我请翻看我的推文～\nqq2829556413，碎碎念小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 83,
+                "username": "oricz233"
+              },
+              {
+                "end": 112,
+                "start": 103,
+                "username": "moelipoi"
+              },
+              {
+                "end": 130,
+                "start": 119,
+                "username": "cutelingli"
+              },
+              {
+                "end": 152,
+                "start": 137,
+                "username": "chessy80978858"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系天使偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871531149056696320/X1dzrRoR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6267,
+          "following_count": 243,
+          "like_count": 277,
+          "listed_count": 26,
+          "media_count": 523,
+          "tweet_count": 1441
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-06T09:17:49.000Z",
+        "description": "歡迎在茶音温柔的声音和愉悦的大脑保养中♪把脑子变成柔软疏松的海绵，一点一点坏掉💓\n或者体验情感操纵和无意识洗脑，彻底变成茶音的玩物，变成单方面的依赖💕\n做茶音小姐这样美好可爱的美少女的臣服者～把自己的M癖好和欲望放大到甘心沉沦喔💗\n\n🚪:20R\n🐧:2405552311\n💖:欢迎想要尝试吃掉茶音的同行哦。",
+        "id": "1732328434154536961",
+        "location": "日本 東京 你的心裡。",
+        "name": "茶音ちゃん",
+        "pinned_tweet_id": "1838269651966661090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833337724868431878/9j4Z7WxD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 802,
+          "following_count": 21,
+          "like_count": 243,
+          "listed_count": 5,
+          "media_count": 39,
+          "tweet_count": 68
+        },
+        "username": "AmandaJohn59240",
+        "verified": false
+      }
+    ]
+  }
+}

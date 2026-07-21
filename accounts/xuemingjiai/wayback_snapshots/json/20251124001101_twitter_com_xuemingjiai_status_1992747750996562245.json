@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992747614413230080",
+        "3_1992747703143686144",
+        "3_1992747717374943232",
+        "3_1992747729542688768"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1992747750996562245",
+    "created_at": "2025-11-24T00:11:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T01:11:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1992747750996562245"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/aD1uhakbTN",
+          "end": 159,
+          "expanded_url": "https://x.com/xuemingjiai/status/1992747750996562245/photo/1",
+          "media_key": "3_1992747614413230080",
+          "start": 136,
+          "url": "https://t.co/aD1uhakbTN"
+        },
+        {
+          "display_url": "pic.x.com/aD1uhakbTN",
+          "end": 159,
+          "expanded_url": "https://x.com/xuemingjiai/status/1992747750996562245/photo/1",
+          "media_key": "3_1992747703143686144",
+          "start": 136,
+          "url": "https://t.co/aD1uhakbTN"
+        },
+        {
+          "display_url": "pic.x.com/aD1uhakbTN",
+          "end": 159,
+          "expanded_url": "https://x.com/xuemingjiai/status/1992747750996562245/photo/1",
+          "media_key": "3_1992747717374943232",
+          "start": 136,
+          "url": "https://t.co/aD1uhakbTN"
+        },
+        {
+          "display_url": "pic.x.com/aD1uhakbTN",
+          "end": 159,
+          "expanded_url": "https://x.com/xuemingjiai/status/1992747750996562245/photo/1",
+          "media_key": "3_1992747729542688768",
+          "start": 136,
+          "url": "https://t.co/aD1uhakbTN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992747750996562245",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "据说奏奏公主只需要翘起脚～把充满汗臭的足底展示给各位小雏男们就会自动败北成为本公主的无脑白痴舔狗袜奴钱包了🤍\n报销本公主一顿等于自己三天生活费的晚餐...加上给袜子大人磕头自我洗脑的同时被处死真的会上瘾嘛...?\n作为这么脑弱的奖励当然是作为引流素材吸引更多钱包送死啦🤍 https://t.co/aD1uhakbTN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 629,
+        "media_key": "3_1992747614413230080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6epZbQbkAAxwy6.jpg",
+        "width": 589
+      },
+      {
+        "height": 4096,
+        "media_key": "3_1992747703143686144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6epelza4AAF7tu.jpg",
+        "width": 906
+      },
+      {
+        "height": 4096,
+        "media_key": "3_1992747717374943232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6epfa0aoAAmmhS.jpg",
+        "width": 831
+      },
+      {
+        "height": 1007,
+        "media_key": "3_1992747729542688768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6epgIJbsAArGSs.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992747614413230080",
+            "3_1992747703143686144",
+            "3_1992747717374943232",
+            "3_1992747729542688768"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1992747750996562245",
+        "created_at": "2025-11-24T00:11:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T01:11:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992747750996562245"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aD1uhakbTN",
+              "end": 159,
+              "expanded_url": "https://x.com/xuemingjiai/status/1992747750996562245/photo/1",
+              "media_key": "3_1992747614413230080",
+              "start": 136,
+              "url": "https://t.co/aD1uhakbTN"
+            },
+            {
+              "display_url": "pic.x.com/aD1uhakbTN",
+              "end": 159,
+              "expanded_url": "https://x.com/xuemingjiai/status/1992747750996562245/photo/1",
+              "media_key": "3_1992747703143686144",
+              "start": 136,
+              "url": "https://t.co/aD1uhakbTN"
+            },
+            {
+              "display_url": "pic.x.com/aD1uhakbTN",
+              "end": 159,
+              "expanded_url": "https://x.com/xuemingjiai/status/1992747750996562245/photo/1",
+              "media_key": "3_1992747717374943232",
+              "start": 136,
+              "url": "https://t.co/aD1uhakbTN"
+            },
+            {
+              "display_url": "pic.x.com/aD1uhakbTN",
+              "end": 159,
+              "expanded_url": "https://x.com/xuemingjiai/status/1992747750996562245/photo/1",
+              "media_key": "3_1992747729542688768",
+              "start": 136,
+              "url": "https://t.co/aD1uhakbTN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992747750996562245",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "据说奏奏公主只需要翘起脚～把充满汗臭的足底展示给各位小雏男们就会自动败北成为本公主的无脑白痴舔狗袜奴钱包了🤍\n报销本公主一顿等于自己三天生活费的晚餐...加上给袜子大人磕头自我洗脑的同时被处死真的会上瘾嘛...?\n作为这么脑弱的奖励当然是作为引流素材吸引更多钱包送死啦🤍 https://t.co/aD1uhakbTN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n最最最最喜欢钱包们啦!\n天天挨骂真的不会腻嘛～\n擅长用爱意和温柔的语气俘虏钱包～\n联系方式→242184780←\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 77,
+                "username": "oricz233"
+              },
+              {
+                "end": 106,
+                "start": 97,
+                "username": "moelipoi"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "cutelingli"
+              },
+              {
+                "end": 146,
+                "start": 131,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 158,
+                "start": 151,
+                "username": "1xian1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍对钱包们最温柔最有好感版",
+        "pinned_tweet_id": "1976743806063063398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991861278688821248/oCQEPeIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7964,
+          "following_count": 334,
+          "like_count": 640,
+          "listed_count": 36,
+          "media_count": 759,
+          "tweet_count": 2330
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

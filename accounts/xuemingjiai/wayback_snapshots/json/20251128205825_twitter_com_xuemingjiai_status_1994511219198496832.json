@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1994511219198496832",
+    "created_at": "2025-11-28T20:58:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T21:58:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994511219198496832"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1374389254726455305",
+          "start": 3,
+          "username": "xuemingjiai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994511219198496832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994470672400281780",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xuemingjiai: 小冷越来越多了...大家有什么头绪吗？\n小冷是什么～虽然已经解释很多次了，但是本公主再告诉一下新的小雏男们哦，小冷是本公主为了方便自己使用，在贡瘾问卷里最新内容推出的“预设钱包”玩法，只要你想～就能抛弃从前的身份，成为被本公主随意支配操控的母狗…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1994511219198496832].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1994511219198496832",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1994511219198496832"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1994469617964883969",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G63HjOYbIAECvbW.jpg",
+        "width": 1314
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1994469742409912322",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G63Hqd-bkAIiQP3.jpg",
+        "width": 510
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1994469744100196352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G63HqkRbQAAbRak.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994469617964883969",
+            "3_1994469742409912322",
+            "3_1994469744100196352"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1994470672400281780",
+        "created_at": "2025-11-28T18:17:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T19:17:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994470672400281780"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xuemingjiai/st…",
+              "end": 154,
+              "expanded_url": "https://x.com/xuemingjiai/status/1990473531134730380?s=20",
+              "start": 131,
+              "url": "https://t.co/uoUkGOPz4H"
+            },
+            {
+              "display_url": "pic.x.com/jQMye2MMVO",
+              "end": 178,
+              "expanded_url": "https://x.com/xuemingjiai/status/1994470672400281780/photo/1",
+              "media_key": "3_1994469617964883969",
+              "start": 155,
+              "url": "https://t.co/jQMye2MMVO"
+            },
+            {
+              "display_url": "pic.x.com/jQMye2MMVO",
+              "end": 178,
+              "expanded_url": "https://x.com/xuemingjiai/status/1994470672400281780/photo/1",
+              "media_key": "3_1994469742409912322",
+              "start": 155,
+              "url": "https://t.co/jQMye2MMVO"
+            },
+            {
+              "display_url": "pic.x.com/jQMye2MMVO",
+              "end": 178,
+              "expanded_url": "https://x.com/xuemingjiai/status/1994470672400281780/photo/1",
+              "media_key": "3_1994469744100196352",
+              "start": 155,
+              "url": "https://t.co/jQMye2MMVO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994470672400281780",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 613,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990473531134730380",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "小冷越来越多了...大家有什么头绪吗？\n小冷是什么～虽然已经解释很多次了，但是本公主再告诉一下新的小雏男们哦，小冷是本公主为了方便自己使用，在贡瘾问卷里最新内容推出的“预设钱包”玩法，只要你想～就能抛弃从前的身份，成为被本公主随意支配操控的母狗小冷，送死链接～\nhttps://t.co/uoUkGOPz4H https://t.co/jQMye2MMVO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n最最最最喜欢钱包们啦!\n天天挨骂真的不会腻嘛～\n擅长用爱意和温柔的语气俘虏钱包～\n联系方式→242184780←\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 77,
+                "username": "oricz233"
+              },
+              {
+                "end": 106,
+                "start": 97,
+                "username": "moelipoi"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "cutelingli"
+              },
+              {
+                "end": 146,
+                "start": 131,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 158,
+                "start": 151,
+                "username": "1xian1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍对钱包们最温柔最有好感版",
+        "pinned_tweet_id": "1976743806063063398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991861278688821248/oCQEPeIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7990,
+          "following_count": 344,
+          "like_count": 639,
+          "listed_count": 36,
+          "media_count": 762,
+          "tweet_count": 2345
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

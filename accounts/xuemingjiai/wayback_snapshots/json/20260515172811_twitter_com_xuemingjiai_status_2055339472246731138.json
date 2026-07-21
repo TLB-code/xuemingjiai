@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "2055339472246731138",
+    "created_at": "2026-05-15T17:28:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T18:28:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055339472246731138"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1995888113831608328",
+          "start": 3,
+          "username": "k3btuxc4431567"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055339472246731138",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055265144217940245",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @k3btuxc4431567: 这么想知道人家是怎么成为最强小洛克的嘛～当然是用沾满汗液黏糊糊的白丝小脚，只需要对着██的雄性张开脚趾勾一勾就会忍不住对着人家上交大脑🧠明明知道这个咕噜球能把人洗脑，结果还是为了在绵脚底下主动交出金币请求可以变成人家的██，说的就是你🖕🏻…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2055264297765470208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIXD_VPagAAaqC8.jpg",
+        "width": 1024
+      },
+      {
+        "height": 459,
+        "media_key": "3_2055264297773944833",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIXD_VRb0AERnFf.jpg",
+        "width": 376
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "2055339472246731138",
+        "created_at": "2026-05-15T17:28:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T18:28:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055339472246731138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1995888113831608328",
+              "start": 3,
+              "username": "k3btuxc4431567"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055339472246731138",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055265144217940245",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @k3btuxc4431567: 这么想知道人家是怎么成为最强小洛克的嘛～当然是用沾满汗液黏糊糊的白丝小脚，只需要对着██的雄性张开脚趾勾一勾就会忍不住对着人家上交大脑🧠明明知道这个咕噜球能把人洗脑，结果还是为了在绵脚底下主动交出金币请求可以变成人家的██，说的就是你🖕🏻…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055264297765470208",
+            "3_2055264297773944833"
+          ]
+        },
+        "author_id": "1995888113831608328",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2055265144217940245",
+        "created_at": "2026-05-15T12:32:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T13:32:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055265144217940245"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 123,
+              "start": 120,
+              "tag": "送死"
+            },
+            {
+              "end": 127,
+              "start": 124,
+              "tag": "压榨"
+            },
+            {
+              "end": 133,
+              "start": 128,
+              "tag": "atm奴"
+            },
+            {
+              "end": 137,
+              "start": 134,
+              "tag": "文媛"
+            },
+            {
+              "end": 141,
+              "start": 138,
+              "tag": "白给"
+            },
+            {
+              "end": 145,
+              "start": 142,
+              "tag": "贡奴"
+            },
+            {
+              "end": 149,
+              "start": 146,
+              "tag": "男娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UoM19lAWfD",
+              "end": 173,
+              "expanded_url": "https://x.com/k3btuxc4431567/status/2055265144217940245/photo/1",
+              "media_key": "3_2055264297765470208",
+              "start": 150,
+              "url": "https://t.co/UoM19lAWfD"
+            },
+            {
+              "display_url": "pic.x.com/UoM19lAWfD",
+              "end": 173,
+              "expanded_url": "https://x.com/k3btuxc4431567/status/2055265144217940245/photo/1",
+              "media_key": "3_2055264297773944833",
+              "start": 150,
+              "url": "https://t.co/UoM19lAWfD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055265144217940245",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 412,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "这么想知道人家是怎么成为最强小洛克的嘛～当然是用沾满汗液黏糊糊的白丝小脚，只需要对着██的雄性张开脚趾勾一勾就会忍不住对着人家上交大脑🧠明明知道这个咕噜球能把人洗脑，结果还是为了在绵脚底下主动交出金币请求可以变成人家的██，说的就是你🖕🏻\n#送死 #压榨 #atm奴 #文媛 #白给 #贡奴 #男娘 https://t.co/UoM19lAWfD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会魅惑并享用钱包的公主殿下🤍\n精通各种处刑钱包的方法🖤\n联系方式→2829556413←\n病毒小号@oricz233\n现任魔女学园院长\n星辰魔女镜璃\n@jingli1840489\n桃心魔女奈奈\n@blakexiaonai\n 黑白魔女花卷\n@miaomiaomi17630\n好老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "oricz233"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 114,
+                "start": 101,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 139,
+                "start": 123,
+                "username": "miaomiaomi17630"
+              },
+              {
+                "end": 158,
+                "start": 143,
+                "username": "chessy80978858"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "全能魅惑系魔女族公主-奏💜魔女学园院长版～",
+        "pinned_tweet_id": "2013314916120416537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055327575581556736/-ZRgWKku_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8818,
+          "following_count": 362,
+          "like_count": 633,
+          "listed_count": 38,
+          "media_count": 825,
+          "tweet_count": 2188
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-02T16:10:22.000Z",
+        "description": "是新人男娘文媛黑心的绵♡\n压榨雌堕羞辱什么都可以呢～\n欢迎哥哥自投罗网哦w\n也很欢迎同行交流学习♡\n树洞什么的也是可以哦！\n价格40r/30m 70r/h\nQQ2161263192",
+        "id": "1995888113831608328",
+        "location": "你的头上💚",
+        "name": "绵🖤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054433867373903872/VhUl0-Hs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 1,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 3
+        },
+        "username": "k3btuxc4431567",
+        "verified": false
+      }
+    ]
+  }
+}

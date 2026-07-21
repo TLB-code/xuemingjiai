@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2019942478179348480"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "2019942323552153738",
+    "created_at": "2026-02-07T01:13:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T02:13:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019942488191234554"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/y362aksRqm",
+          "end": 174,
+          "expanded_url": "https://x.com/xuemingjiai/status/2019942488191234554/photo/1",
+          "media_key": "3_2019942478179348480",
+          "start": 151,
+          "url": "https://t.co/y362aksRqm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019942488191234554",
+    "in_reply_to_user_id": "1374389254726455305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019942407736107347",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "告白🤍\n“说不出话很难受吧？本公主现在就解开哦～”\n“贱奴跪谢奏奏公主教化，给您磕头了啊啊..♡”(十个人全都异口同声的重复着这句告白，每说一句就对着奏奏公主磕一次头)\n“以后都要做乖宝宝知道吗～本公主养育着整个国家～是你们货真价实的妈妈，或者说神明哦～”\n“奏奏神...♡”(异口同声～同时磕头～) https://t.co/y362aksRqm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2019942478179348480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAhG-1aaMAA0hmu.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2019942396629602304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAhG6Fnb0AAdbls.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019942478179348480"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "2019942323552153738",
+        "created_at": "2026-02-07T01:13:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T02:13:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019942488191234554"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/y362aksRqm",
+              "end": 174,
+              "expanded_url": "https://x.com/xuemingjiai/status/2019942488191234554/photo/1",
+              "media_key": "3_2019942478179348480",
+              "start": 151,
+              "url": "https://t.co/y362aksRqm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019942488191234554",
+        "in_reply_to_user_id": "1374389254726455305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019942407736107347",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "告白🤍\n“说不出话很难受吧？本公主现在就解开哦～”\n“贱奴跪谢奏奏公主教化，给您磕头了啊啊..♡”(十个人全都异口同声的重复着这句告白，每说一句就对着奏奏公主磕一次头)\n“以后都要做乖宝宝知道吗～本公主养育着整个国家～是你们货真价实的妈妈，或者说神明哦～”\n“奏奏神...♡”(异口同声～同时磕头～) https://t.co/y362aksRqm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019942396629602304"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "2019942323552153738",
+        "created_at": "2026-02-07T01:12:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T02:12:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019942407736107347"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZAFeZ11knG",
+              "end": 169,
+              "expanded_url": "https://x.com/xuemingjiai/status/2019942407736107347/photo/1",
+              "media_key": "3_2019942396629602304",
+              "start": 146,
+              "url": "https://t.co/ZAFeZ11knG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019942407736107347",
+        "in_reply_to_user_id": "1374389254726455305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019942323552153738",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "审判♡\n“下面～由本公主来宣判一下大家的罪行哟～”\n“一号～二号～造谣本公主黑心～指责赋税太高～辱骂本公主～惩罚磕头十个🤍”\n“三号～四号～五号～在家里对着本公主的海报自慰射精～亵渎本公主～惩罚磕头十个🤍”\n“其余五人嘛～脑海里意淫过被本公主责罚支配剥削～奖励磕头十个🤍”\n现在～立刻执行♡ https://t.co/ZAFeZ11knG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会魅惑并享用钱包的公主殿下🤍\n最最最最喜欢钱包们啦～\n联系方式→2829556413←\n病毒小号@oricz233\n现任魔女学园院长!\n星辰魔女镜璃\n@jingli1840489\n桃心魔女奈奈\n@blakexiaonai\n 黑白魔女花卷\n@miaomiaomi17630\n好老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 52,
+                "username": "oricz233"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 114,
+                "start": 101,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 139,
+                "start": 123,
+                "username": "miaomiaomi17630"
+              },
+              {
+                "end": 158,
+                "start": 143,
+                "username": "chessy80978858"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "魅惑系魔女族公主-奏💜魔女学园院长版～",
+        "pinned_tweet_id": "2013314916120416537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018477066753306624/36q-3UGh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8321,
+          "following_count": 363,
+          "like_count": 644,
+          "listed_count": 36,
+          "media_count": 806,
+          "tweet_count": 2152
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

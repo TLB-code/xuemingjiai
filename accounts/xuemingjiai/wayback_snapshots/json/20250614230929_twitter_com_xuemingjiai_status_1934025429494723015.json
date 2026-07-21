@@ -1,0 +1,345 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1934025429494723015",
+    "created_at": "2025-06-14T23:09:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-15T00:09:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934025429494723015"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 22,
+          "start": 18,
+          "tag": "上贡奴"
+        },
+        {
+          "end": 28,
+          "start": 23,
+          "tag": "ATM奴"
+        },
+        {
+          "end": 33,
+          "start": 29,
+          "tag": "报销奴"
+        },
+        {
+          "end": 38,
+          "start": 34,
+          "tag": "工资奴"
+        },
+        {
+          "end": 43,
+          "start": 39,
+          "tag": "提款机"
+        },
+        {
+          "end": 47,
+          "start": 44,
+          "tag": "吸金"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1131829997335863296",
+          "start": 3,
+          "username": "952909762mao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934025429494723015",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933851357007818869",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @952909762mao: #上贡奴 #ATM奴 #报销奴 #工资奴 #提款机 #吸金\n今天碰到一个不付门槛试图蒙混过关的神人，虽然很想骂他，但是一想到他就是来找骂的骂了他他就爽了，我就偏不骂！所以想要被本小姐辱骂的笨笨们，就算不是贡奴只是想单纯的被骂两句也要乖乖付了门…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1933850579115368448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtZq2xDa4AA8o5Q.jpg",
+        "width": 3072
+      },
+      {
+        "height": 608,
+        "media_key": "3_1933850697512243200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtZq9qHb0AAyzEv.png",
+        "width": 569
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "1934025429494723015",
+        "created_at": "2025-06-14T23:09:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T00:09:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934025429494723015"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 18,
+              "tag": "上贡奴"
+            },
+            {
+              "end": 28,
+              "start": 23,
+              "tag": "ATM奴"
+            },
+            {
+              "end": 33,
+              "start": 29,
+              "tag": "报销奴"
+            },
+            {
+              "end": 38,
+              "start": 34,
+              "tag": "工资奴"
+            },
+            {
+              "end": 43,
+              "start": 39,
+              "tag": "提款机"
+            },
+            {
+              "end": 47,
+              "start": 44,
+              "tag": "吸金"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1131829997335863296",
+              "start": 3,
+              "username": "952909762mao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934025429494723015",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933851357007818869",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @952909762mao: #上贡奴 #ATM奴 #报销奴 #工资奴 #提款机 #吸金\n今天碰到一个不付门槛试图蒙混过关的神人，虽然很想骂他，但是一想到他就是来找骂的骂了他他就爽了，我就偏不骂！所以想要被本小姐辱骂的笨笨们，就算不是贡奴只是想单纯的被骂两句也要乖乖付了门…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933850579115368448",
+            "3_1933850697512243200"
+          ]
+        },
+        "author_id": "1131829997335863296",
+        "conversation_id": "1933851357007818869",
+        "created_at": "2025-06-14T11:37:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T12:37:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933851357007818869"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "上贡奴"
+            },
+            {
+              "end": 10,
+              "start": 5,
+              "tag": "ATM奴"
+            },
+            {
+              "end": 15,
+              "start": 11,
+              "tag": "报销奴"
+            },
+            {
+              "end": 20,
+              "start": 16,
+              "tag": "工资奴"
+            },
+            {
+              "end": 25,
+              "start": 21,
+              "tag": "提款机"
+            },
+            {
+              "end": 29,
+              "start": 26,
+              "tag": "吸金"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yMPmtEdcgL",
+              "end": 149,
+              "expanded_url": "https://x.com/952909762mao/status/1933851357007818869/photo/1",
+              "media_key": "3_1933850579115368448",
+              "start": 126,
+              "url": "https://t.co/yMPmtEdcgL"
+            },
+            {
+              "display_url": "pic.x.com/yMPmtEdcgL",
+              "end": 149,
+              "expanded_url": "https://x.com/952909762mao/status/1933851357007818869/photo/1",
+              "media_key": "3_1933850697512243200",
+              "start": 126,
+              "url": "https://t.co/yMPmtEdcgL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933851357007818869",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 387,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "#上贡奴 #ATM奴 #报销奴 #工资奴 #提款机 #吸金\n今天碰到一个不付门槛试图蒙混过关的神人，虽然很想骂他，但是一想到他就是来找骂的骂了他他就爽了，我就偏不骂！所以想要被本小姐辱骂的笨笨们，就算不是贡奴只是想单纯的被骂两句也要乖乖付了门槛再说哦 https://t.co/yMPmtEdcgL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n你也会因为窥视我的美貌而心甘情愿沦为钱包被我使用的对吗？\n钱包报名入口：3971546171\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 67,
+                "username": "oricz233"
+              },
+              {
+                "end": 96,
+                "start": 87,
+                "username": "moelipoi"
+              },
+              {
+                "end": 114,
+                "start": 103,
+                "username": "cutelingli"
+              },
+              {
+                "end": 136,
+                "start": 121,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 148,
+                "start": 141,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍驯化公用钱包👛中",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931064828044713984/9qwnduVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7203,
+          "following_count": 305,
+          "like_count": 361,
+          "listed_count": 33,
+          "media_count": 681,
+          "tweet_count": 2046
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-24T07:51:14.000Z",
+        "description": "可爱的黑心小男娘\n在线招收想要吐钱的傻逼贡奴\n🚪门槛费：20 加了好友请主动说明来意 \n门槛不付试图蒙混过关的脑瘫请麻烦死远一点谢谢\n推置顶有二维码 如果看不见希望你们把眼睛捐献给有需要的人呢\n清水良民推主 不搞黄色\nQQ952909762",
+        "id": "1131829997335863296",
+        "name": "古屋敷由良",
+        "pinned_tweet_id": "1771788955731517942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896435593334374400/g9-bSQq1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1705,
+          "following_count": 191,
+          "like_count": 444,
+          "listed_count": 10,
+          "media_count": 249,
+          "tweet_count": 1746
+        },
+        "username": "952909762mao",
+        "verified": false
+      }
+    ]
+  }
+}

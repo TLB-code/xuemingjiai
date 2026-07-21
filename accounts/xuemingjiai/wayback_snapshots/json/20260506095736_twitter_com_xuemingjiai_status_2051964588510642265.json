@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046388669351915520"
+      ],
+      "media_source_tweet_id": [
+        "2046388749672821063"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "2051964588510642265",
+    "created_at": "2026-05-06T09:57:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T10:57:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051964588510642265"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1984115707815325698",
+          "start": 3,
+          "username": "jingli1840489"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IfSl8gMo60",
+          "end": 117,
+          "expanded_url": "https://x.com/jingli1840489/status/2046388749672821063/photo/1",
+          "media_key": "3_2046388669351915520",
+          "start": 94,
+          "url": "https://t.co/IfSl8gMo60"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051964588510642265",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 33
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046388749672821063",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jingli1840489: 今天的内容是镜璃的可爱小朋友做的问卷哦~30元一份，欢迎大家来咨询哦~\n点赞、转发、评论，还会抽取五位幸运朋友赠送，欢迎朋友们参与哦~\n爱你们~❤️ https://t.co/IfSl8gMo60"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2046388669351915520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGY7pw0a8AAMN5p.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046388669351915520"
+          ],
+          "media_source_tweet_id": [
+            "2046388749672821063"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "2051964588510642265",
+        "created_at": "2026-05-06T09:57:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T10:57:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051964588510642265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1984115707815325698",
+              "start": 3,
+              "username": "jingli1840489"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IfSl8gMo60",
+              "end": 117,
+              "expanded_url": "https://x.com/jingli1840489/status/2046388749672821063/photo/1",
+              "media_key": "3_2046388669351915520",
+              "start": 94,
+              "url": "https://t.co/IfSl8gMo60"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051964588510642265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 33
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046388749672821063",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jingli1840489: 今天的内容是镜璃的可爱小朋友做的问卷哦~30元一份，欢迎大家来咨询哦~\n点赞、转发、评论，还会抽取五位幸运朋友赠送，欢迎朋友们参与哦~\n爱你们~❤️ https://t.co/IfSl8gMo60"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046388669351915520"
+          ]
+        },
+        "author_id": "1984115707815325698",
+        "conversation_id": "2046388749672821063",
+        "created_at": "2026-04-21T00:41:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T01:41:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046388749672821063"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IfSl8gMo60",
+              "end": 98,
+              "expanded_url": "https://x.com/jingli1840489/status/2046388749672821063/photo/1",
+              "media_key": "3_2046388669351915520",
+              "start": 75,
+              "url": "https://t.co/IfSl8gMo60"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046388749672821063",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 8577,
+          "like_count": 82,
+          "quote_count": 1,
+          "reply_count": 29,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "今天的内容是镜璃的可爱小朋友做的问卷哦~30元一份，欢迎大家来咨询哦~\n点赞、转发、评论，还会抽取五位幸运朋友赠送，欢迎朋友们参与哦~\n爱你们~❤️ https://t.co/IfSl8gMo60"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会魅惑并享用钱包的公主殿下🤍\n最最最最喜欢钱包们啦～\n联系方式→2829556413←\n病毒小号@oricz233\n现任魔女学园院长!\n星辰魔女镜璃\n@jingli1840489\n桃心魔女奈奈\n@blakexiaonai\n 黑白魔女花卷\n@miaomiaomi17630\n好老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 52,
+                "username": "oricz233"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 114,
+                "start": 101,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 139,
+                "start": 123,
+                "username": "miaomiaomi17630"
+              },
+              {
+                "end": 158,
+                "start": 143,
+                "username": "chessy80978858"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "魅惑系魔女族公主-奏💜魔女学园院长版～",
+        "pinned_tweet_id": "2013314916120416537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018477066753306624/36q-3UGh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8784,
+          "following_count": 360,
+          "like_count": 633,
+          "listed_count": 37,
+          "media_count": 826,
+          "tweet_count": 2185
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-31T04:31:00.000Z",
+        "description": "可以是温柔妈咪/可爱妹妹/知心姐姐~也可以是可怕残忍压榨主使用钱包哦🖤\n目前主要玩法：剧情文爱/黑心/绿茶/洗脑/榨金/寸止/催眠/模拟上贡/早泄挑战/贞操管理等💕\n门牌号：q3775591357，致力于让每位朋友都开开心心舒舒服服的喔❤️全天营业，深夜常驻，欢迎前来光顾哦~\n最可爱的奏奏：@xuemingjiai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 158,
+                "start": 146,
+                "username": "xuemingjiai"
+              }
+            ]
+          }
+        },
+        "id": "1984115707815325698",
+        "location": "镜璃的温暖小床~深夜也欢迎打扰哦~",
+        "name": "是镜璃喔~",
+        "pinned_tweet_id": "1993433669315486013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985515782550536192/bMHPg-lN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1313,
+          "following_count": 79,
+          "like_count": 274,
+          "listed_count": 2,
+          "media_count": 31,
+          "tweet_count": 154
+        },
+        "username": "jingli1840489",
+        "verified": false
+      }
+    ]
+  }
+}

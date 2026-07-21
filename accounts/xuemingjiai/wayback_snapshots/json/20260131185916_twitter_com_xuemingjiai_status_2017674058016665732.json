@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2017674047660969984"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "2017674058016665732",
+    "created_at": "2026-01-31T18:59:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T19:59:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2017674058016665732"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ytEPskY16G",
+          "end": 172,
+          "expanded_url": "https://x.com/xuemingjiai/status/2017674058016665732/photo/1",
+          "media_key": "3_2017674047660969984",
+          "start": 149,
+          "url": "https://t.co/ytEPskY16G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017674058016665732",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "和同质化的压榨主比起来的优势..?\n啊w，简单来说——是因为被本公主吸金更舒服🤍\n会对本公主精心设计的图文发情，就说明你是一只非常“聪明”“优质”的钱包..\n你这样的钱包是不会满足于那些推文都是复制黏贴，找上门只会把你骂的阳痿掉提不起一点性趣的劣质仿生人的吧？\n同样是被榨耍吸金，却有着天差地别～ https://t.co/ytEPskY16G"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2017674047660969984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAA32zNbUAA7_P3.jpg",
+        "width": 702
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017674047660969984"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "2017674058016665732",
+        "created_at": "2026-01-31T18:59:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T19:59:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017674058016665732"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ytEPskY16G",
+              "end": 172,
+              "expanded_url": "https://x.com/xuemingjiai/status/2017674058016665732/photo/1",
+              "media_key": "3_2017674047660969984",
+              "start": 149,
+              "url": "https://t.co/ytEPskY16G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017674058016665732",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和同质化的压榨主比起来的优势..?\n啊w，简单来说——是因为被本公主吸金更舒服🤍\n会对本公主精心设计的图文发情，就说明你是一只非常“聪明”“优质”的钱包..\n你这样的钱包是不会满足于那些推文都是复制黏贴，找上门只会把你骂的阳痿掉提不起一点性趣的劣质仿生人的吧？\n同样是被榨耍吸金，却有着天差地别～ https://t.co/ytEPskY16G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🖤\n最最最最喜欢钱包们啦～\n联系方式→2829556413←\n病毒小号@oricz233\n现任魔女学园院长!\n星辰魔女镜璃\n@jingli1840489\n桃心魔女奈奈\n@blakexiaonai\n 黑白魔女花卷\n@miaomiaomi17630\n好老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 49,
+                "username": "oricz233"
+              },
+              {
+                "end": 90,
+                "start": 76,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 111,
+                "start": 98,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 136,
+                "start": 120,
+                "username": "miaomiaomi17630"
+              },
+              {
+                "end": 155,
+                "start": 140,
+                "username": "chessy80978858"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🖤魔女学园院长版～",
+        "pinned_tweet_id": "2013314916120416537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016902481788489728/uJnMEm61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8290,
+          "following_count": 360,
+          "like_count": 639,
+          "listed_count": 36,
+          "media_count": 796,
+          "tweet_count": 2135
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

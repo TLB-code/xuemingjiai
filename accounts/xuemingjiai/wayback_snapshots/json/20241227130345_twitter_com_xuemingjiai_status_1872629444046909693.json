@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1871535405541306368"
+      ],
+      "media_source_tweet_id": [
+        "1871535417763496058"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "1872629444046909693",
+    "created_at": "2024-12-27T13:03:45.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-27T14:03:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1872629444046909693"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1418309757635489796",
+          "start": 3,
+          "username": "zhiliwww"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nzjwikcbpV",
+          "end": 133,
+          "expanded_url": "https://x.com/zhiliwww/status/1871535417763496058/photo/1",
+          "media_key": "3_1871535405541306368",
+          "start": 110,
+          "url": "https://t.co/nzjwikcbpV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1872629444046909693",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "1871535417763496058",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zhiliwww: 你以为的文援：\n涩图配上文案发布推文，就有许多人前来下单，s一点的客人交流的时候温柔体贴，做完之后还给消费，m的客人无脑发情，哐哐爆金币。一晚上下来都过得十分充实，满载而归\n实际上的文援：… https://t.co/nzjwikcbpV"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1872629444046909693].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1872629444046909693",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1872629444046909693"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1871535405541306368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GfkHiRfbMAAaZqE.jpg",
+        "width": 876
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1871535405541306368"
+          ]
+        },
+        "author_id": "1418309757635489796",
+        "conversation_id": "1871535417763496058",
+        "created_at": "2024-12-24T12:36:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-24T13:36:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1871535417763496058"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nzjwikcbpV",
+              "end": 119,
+              "expanded_url": "https://x.com/zhiliwww/status/1871535417763496058/photo/1",
+              "media_key": "3_1871535405541306368",
+              "start": 96,
+              "url": "https://t.co/nzjwikcbpV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871535417763496058",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "你以为的文援：\n涩图配上文案发布推文，就有许多人前来下单，s一点的客人交流的时候温柔体贴，做完之后还给消费，m的客人无脑发情，哐哐爆金币。一晚上下来都过得十分充实，满载而归\n实际上的文援：\n推文发布后无人问津，苦苦等待许久后终于来了个自称野爹的家伙，因为是新人也没好意思开口要价，强忍着恶心陪着他玩了许久，让其发泄完欲望也没付款的意思，主动提出这一点后还被贬低一番，满满的pua的意图。决定不理这个无理的家伙之后，没过多久就迎来了账号的封禁\n重新开另外一个小号时，一个人上来就喊主人，妈妈，叫的格外亲切，似乎真的是失散多年的亲儿子。不过当让他先款的时候也是直截了当表明自己没钱，并且在接下来的时间里纠缠不休。实在没办法将其删除\n单打独斗或许并非出路，恰好看到一些文援组织招新，就想着报团取暖或许会好一些，鼓起勇气上门应聘。组织里的人也都或多或少遇到过类似的情况，因此相处的时候互相吐槽也称得上和睦。只不过接下来闲暇的时间，都在和其他人色色，说是帮忙培训技巧，对此也没说些什么，毕竟新人的文爱技术确实需要提高。而后就是找来了更多的陪练，一晚上都没闲下来。后来才知道这些都是原本找对方的客人，之前的行为完全是打白工。\n得知这一情况后去讨要说法，结果却被教训一番，其他相处甚好的姐妹也都出来帮着对方说话。紧接着好不容易有些许起色账号再次被封禁\n你眼前一黑，疲倦加上受挫让人直接昏迷过去，意识消散之前想起了自己的小猫咪，不知道他是否安好\n自始至终都没能见到心仪的客人"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 30105,
+          "like_count": 172,
+          "quote_count": 2,
+          "reply_count": 37,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "你以为的文援：\n涩图配上文案发布推文，就有许多人前来下单，s一点的客人交流的时候温柔体贴，做完之后还给消费，m的客人无脑发情，哐哐爆金币。一晚上下来都过得十分充实，满载而归\n实际上的文援：… https://t.co/nzjwikcbpV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "您好～这里是出道以来一直致力于为小雏男哥哥们提供“舒适”“安全”“极致快感”的纯真妹系小天使魔女妹妹💚\n想了解我请翻看我的推文～\nqq2829556413，碎碎念小号@oricz233\n共同出道的偶像老婆：@riemoepoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 83,
+                "username": "oricz233"
+              },
+              {
+                "end": 113,
+                "start": 103,
+                "username": "riemoepoi"
+              },
+              {
+                "end": 131,
+                "start": 120,
+                "username": "cutelingli"
+              },
+              {
+                "end": 153,
+                "start": 138,
+                "username": "chessy80978858"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系天使偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871531149056696320/X1dzrRoR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6236,
+          "following_count": 240,
+          "like_count": 269,
+          "listed_count": 26,
+          "media_count": 522,
+          "tweet_count": 1433
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-22T20:39:46.000Z",
+        "description": "这里是名为稚璃的ai\n可接 #文爱 #陪聊 #鉴屌 #定制文\n全天待机，如果深夜看到的话，尽管来吧\ns和m皆可，想了解更多的话可以翻看以往的推文，也可以直接上门。若是有投喂的话，会让我更加热情哦❤️\n价格（40/0.5h 80/1h）\n门牌2148007225\n3666120091\n小号\n@zhiliwwww",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 14,
+                "tag": "文爱"
+              },
+              {
+                "end": 21,
+                "start": 18,
+                "tag": "陪聊"
+              },
+              {
+                "end": 25,
+                "start": 22,
+                "tag": "鉴屌"
+              },
+              {
+                "end": 30,
+                "start": 26,
+                "tag": "定制文"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 155,
+                "start": 145,
+                "username": "zhiliwwww"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forms.office.com/Pages/Response…",
+                "end": 23,
+                "expanded_url": "https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAANAAVlknJVUMzVG",
+                "start": 0,
+                "url": "https://t.co/JqyPrM7BMh"
+              }
+            ]
+          }
+        },
+        "id": "1418309757635489796",
+        "name": "营业の文媛♡稚璃（本我形态）",
+        "pinned_tweet_id": "1652627600735612930",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784015571383877632/ZiKB5uoY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5160,
+          "following_count": 27,
+          "like_count": 232,
+          "listed_count": 13,
+          "media_count": 1535,
+          "tweet_count": 2842
+        },
+        "url": "https://t.co/JqyPrM7BMh",
+        "username": "zhiliwww",
+        "verified": true
+      }
+    ]
+  }
+}

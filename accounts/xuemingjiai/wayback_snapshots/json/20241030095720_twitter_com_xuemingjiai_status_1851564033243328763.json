@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "1851564032123441152"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "1851563784554627239",
+    "created_at": "2024-10-30T09:57:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-30T10:57:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1851564033243328763"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1851564033243328763",
+    "in_reply_to_user_id": "1374389254726455305",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1851563862828711966",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "投票环节～\n截止到明天的这个时候，根据票数最多的选项正式开启我们的冒险～当然在那之前会有一个战前准备💜\n会在明天决定人物之后公布哦～\n魔物塔可是非常凶险的，所以需要充分准备才能进去战斗（白给）啦～\n明天会根据投票的总人数增加金币，每有一票增加1金币，所以请大家多多点赞转发评论引流哦💜"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 1440,
+        "end_datetime": "2024-10-31T09:57:20.000Z",
+        "id": "1851564032123441152",
+        "options": [
+          {
+            "label": "我要成为男性冒险家开后宫!",
+            "position": 1,
+            "votes": 0
+          },
+          {
+            "label": "选择伪娘才不是为了白给!",
+            "position": 2,
+            "votes": 0
+          },
+          {
+            "label": "香香软软的女孩子才是王道!",
+            "position": 3,
+            "votes": 0
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1851564032123441152"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "1851563784554627239",
+        "created_at": "2024-10-30T09:57:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-30T10:57:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1851564033243328763"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1851564033243328763",
+        "in_reply_to_user_id": "1374389254726455305",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1851563862828711966",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "投票环节～\n截止到明天的这个时候，根据票数最多的选项正式开启我们的冒险～当然在那之前会有一个战前准备💜\n会在明天决定人物之后公布哦～\n魔物塔可是非常凶险的，所以需要充分准备才能进去战斗（白给）啦～\n明天会根据投票的总人数增加金币，每有一票增加1金币，所以请大家多多点赞转发评论引流哦💜"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1851563860274372608"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1851563784554627239",
+        "created_at": "2024-10-30T09:56:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-30T10:56:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1851563862828711966"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y80KxWaPUK",
+              "end": 168,
+              "expanded_url": "https://x.com/xuemingjiai/status/1851563862828711966/photo/1",
+              "media_key": "3_1851563860274372608",
+              "start": 145,
+              "url": "https://t.co/Y80KxWaPUK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1851563862828711966",
+        "in_reply_to_user_id": "1374389254726455305",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1851563784554627239",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "1.就是小雏男们真实写照哦～普普通通的男孩子，不过在异世界里也有了一些成就，你觉得自己会是勇者吗？是的话就选这个吧～\n2.在异世界也没忘记自己伪娘的身份w，并且还能看见自己的肉虫被谁给锁上了，打扮得这么可爱是去白给的吗💜\n3.是有着天使脸蛋完美身材的巨乳女孩子呢，应该会成为不错的苗床吧～ https://t.co/Y80KxWaPUK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "超绝可爱💖\n她就是出道即巅峰的可爱纯真小天使新人偶像魔女小姐💖\n对这样的魔女小姐不能心怀任何涩涩的念想哦，不然就会变得非常糟糕...踏入无法挣脱的陷阱和牢笼里呢💘\n魔女小姐无论说什么做什么都是正确的哦，身为她的粉丝，只需要无条件用各种方式支持她就好了～\nqq2829556413",
+        "id": "1374389254726455305",
+        "name": "电波系新人偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1839039717712724125",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851527988380315648/MjAgrWHr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5693,
+          "following_count": 215,
+          "like_count": 179,
+          "listed_count": 24,
+          "tweet_count": 1225
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

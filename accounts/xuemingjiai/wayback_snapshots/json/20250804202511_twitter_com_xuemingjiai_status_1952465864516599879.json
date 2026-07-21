@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1952465864516599879",
+    "created_at": "2025-08-04T20:25:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-04T21:25:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952465864516599879"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1864229504107073538",
+          "start": 3,
+          "username": "ooxx12kfskdhjfg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952465864516599879",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949808088460206451",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ooxx12kfskdhjfg: ♡唔姆♡对大部分畜生而言♡多余的温柔实在没有必要呢♡\n♡哪怕嘴上说着害怕♡内心深处也在渴望着被压迫♡\n♡这就是你的本性喔♡被欺负就会兴奋的傻逼♡\n♡诶♡这样就发情啦♡掐着小唧唧私信叭♡\n♡本小姐很乐意挖掘出你的真面目♡\n♡嘻嘻♡往你扩张…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1946,
+        "media_key": "3_1949805962019434496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw8aMSMbcAA2dcE.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "1952465864516599879",
+        "created_at": "2025-08-04T20:25:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T21:25:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952465864516599879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1864229504107073538",
+              "start": 3,
+              "username": "ooxx12kfskdhjfg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952465864516599879",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949808088460206451",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ooxx12kfskdhjfg: ♡唔姆♡对大部分畜生而言♡多余的温柔实在没有必要呢♡\n♡哪怕嘴上说着害怕♡内心深处也在渴望着被压迫♡\n♡这就是你的本性喔♡被欺负就会兴奋的傻逼♡\n♡诶♡这样就发情啦♡掐着小唧唧私信叭♡\n♡本小姐很乐意挖掘出你的真面目♡\n♡嘻嘻♡往你扩张…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949805962019434496"
+          ]
+        },
+        "author_id": "1864229504107073538",
+        "conversation_id": "1949808088460206451",
+        "created_at": "2025-07-28T12:24:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T13:24:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949808088460206451"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 139,
+              "start": 136,
+              "tag": "男娘"
+            },
+            {
+              "end": 145,
+              "start": 140,
+              "tag": "atm奴"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UhCV3jCkOI",
+              "end": 169,
+              "expanded_url": "https://x.com/ooxx12kfskdhjfg/status/1949808088460206451/photo/1",
+              "media_key": "3_1949805962019434496",
+              "start": 146,
+              "url": "https://t.co/UhCV3jCkOI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949808088460206451",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3379,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "♡唔姆♡对大部分畜生而言♡多余的温柔实在没有必要呢♡\n♡哪怕嘴上说着害怕♡内心深处也在渴望着被压迫♡\n♡这就是你的本性喔♡被欺负就会兴奋的傻逼♡\n♡诶♡这样就发情啦♡掐着小唧唧私信叭♡\n♡本小姐很乐意挖掘出你的真面目♡\n♡嘻嘻♡往你扩张的马眼踩上一脚♡说不定就够了呢♡\n\n#男娘 #atm奴 https://t.co/UhCV3jCkOI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n你也会因为窥视我的美貌而心甘情愿沦为钱包被我使用的对吗？\n钱包报名入口：3971546171\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 67,
+                "username": "oricz233"
+              },
+              {
+                "end": 96,
+                "start": 87,
+                "username": "moelipoi"
+              },
+              {
+                "end": 114,
+                "start": 103,
+                "username": "cutelingli"
+              },
+              {
+                "end": 136,
+                "start": 121,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 148,
+                "start": 141,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍大规模同化魔法展开中",
+        "pinned_tweet_id": "1945511067926536238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945176725190488064/8VBohPRs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7806,
+          "following_count": 329,
+          "like_count": 601,
+          "listed_count": 33,
+          "media_count": 718,
+          "tweet_count": 2207
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-04T08:45:38.000Z",
+        "description": "❤可爱❤hentai❤的男孩子❥❥❥黑心❥❥榨金❥❥\n❥性趣❥染黑一本正经的哥哥姐姐们~~❥❥❥\n ❥不限公母，杂鱼们撅起生殖器倒贴叭~❥\n❥私信的话，居然~能得到人家的唾弃呢~❥\n❥呐，丢掉可怜的尊严嘛，好不好呀~❥\n❥警告：染上人家就等着堕落吧~❥",
+        "id": "1864229504107073538",
+        "name": "薄妃io",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864955829931380739/dqWaPU7S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 771,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 1,
+          "media_count": 84,
+          "tweet_count": 84
+        },
+        "username": "ooxx12kfskdhjfg",
+        "verified": false
+      }
+    ]
+  }
+}

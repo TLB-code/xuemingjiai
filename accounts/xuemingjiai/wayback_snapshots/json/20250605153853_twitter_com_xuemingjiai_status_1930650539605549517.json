@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1930650539605549517",
+    "created_at": "2025-06-05T15:38:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-05T16:38:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930650539605549517"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 137,
+          "start": 133,
+          "tag": "文援姬"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1702305176701341696",
+          "start": 3,
+          "username": "xiyan123466"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930650539605549517",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930496848462258408",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiyan123466: 趁着娇小可爱的萝莉过生日，怪大叔借机送上礼物，哄骗小萝莉赤脚裸足，帮他踩着邪恶的肉棒足交♥\n没想到～被嫌弃鸡巴早泄短小，白嫩玉足踩吊压榨～让你这个早泄炼铜癖足控老处男，变成萝莉祖宗脚下的贱狗🖤被黑心腹黑的萝莉榨干钱包!变成穷光蛋🖤\n#文援姬 #…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1930650539605549517].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1930650539605549517",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1930650539605549517"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1930495030395043840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gsp_AH9agAA9vl8.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930495030395043840"
+          ]
+        },
+        "author_id": "1702305176701341696",
+        "conversation_id": "1930496848462258408",
+        "created_at": "2025-06-05T05:28:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T06:28:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930496848462258408"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 120,
+              "start": 116,
+              "tag": "文援姬"
+            },
+            {
+              "end": 124,
+              "start": 121,
+              "tag": "调教"
+            },
+            {
+              "end": 128,
+              "start": 125,
+              "tag": "羞辱"
+            },
+            {
+              "end": 132,
+              "start": 129,
+              "tag": "腹黑"
+            },
+            {
+              "end": 136,
+              "start": 133,
+              "tag": "压榨"
+            },
+            {
+              "end": 140,
+              "start": 137,
+              "tag": "足交"
+            },
+            {
+              "end": 144,
+              "start": 141,
+              "tag": "胁迫"
+            },
+            {
+              "end": 148,
+              "start": 145,
+              "tag": "寸止"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8iGosqjOCk",
+              "end": 172,
+              "expanded_url": "https://x.com/xiyan123466/status/1930496848462258408/photo/1",
+              "media_key": "3_1930495030395043840",
+              "start": 149,
+              "url": "https://t.co/8iGosqjOCk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930496848462258408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1213,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "趁着娇小可爱的萝莉过生日，怪大叔借机送上礼物，哄骗小萝莉赤脚裸足，帮他踩着邪恶的肉棒足交♥\n没想到～被嫌弃鸡巴早泄短小，白嫩玉足踩吊压榨～让你这个早泄炼铜癖足控老处男，变成萝莉祖宗脚下的贱狗🖤被黑心腹黑的萝莉榨干钱包!变成穷光蛋🖤\n#文援姬 #调教 #羞辱 #腹黑 #压榨 #足交 #胁迫 #寸止 https://t.co/8iGosqjOCk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "集美貌，智慧，强大于一身的魔女族公主现身人世～区区人类，跪下向我表示臣服吧💜\n被我支配 控制 吸脑 成为奴仆💜\n挑战qq2829556413，里世界小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858\n女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 76,
+                "username": "oricz233"
+              },
+              {
+                "end": 105,
+                "start": 96,
+                "username": "moelipoi"
+              },
+              {
+                "end": 123,
+                "start": 112,
+                "username": "cutelingli"
+              },
+              {
+                "end": 145,
+                "start": 130,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 156,
+                "start": 149,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏💜散播同化病毒中～",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926028406774247424/hWplRg7q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7121,
+          "following_count": 297,
+          "like_count": 339,
+          "listed_count": 33,
+          "media_count": 648,
+          "tweet_count": 1924
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-14T12:57:28.000Z",
+        "description": "这里是腹黑傲娇的涩情大小姐～入圈四年多～擅长各种文援和剧情 调教 羞辱 胁迫 绿茶 寸止 剧情 绿帽 媚黑 压榨 胁迫 等等女s玩法都可以♥媚黑只是云玩!现实没接触过哈🖤\n接文字 文图 收奴 闲聊 树洞欢迎加QQ咨询下单\n基本上全天都在加Q都会秒回复的♥\n下面有tg在那边玩也先找QQ\n接单QQ 3140617087",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xixiyan123456",
+                "end": 23,
+                "expanded_url": "http://t.me/xixiyan123456",
+                "start": 0,
+                "url": "https://t.co/DNJLMhF9XQ"
+              }
+            ]
+          }
+        },
+        "id": "1702305176701341696",
+        "location": "想tg玩的  记得先加QQ找我",
+        "name": "夕颜香香",
+        "pinned_tweet_id": "1875472376638665051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917955734232571904/gDn0kvCo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7924,
+          "following_count": 128,
+          "like_count": 479,
+          "listed_count": 37,
+          "media_count": 473,
+          "tweet_count": 5690
+        },
+        "url": "https://t.co/DNJLMhF9XQ",
+        "username": "xiyan123466",
+        "verified": false
+      }
+    ]
+  }
+}

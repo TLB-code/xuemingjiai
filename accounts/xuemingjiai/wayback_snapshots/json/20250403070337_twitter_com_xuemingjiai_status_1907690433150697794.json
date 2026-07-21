@@ -1,0 +1,618 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1907505160651420038",
+    "created_at": "2025-04-03T07:03:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-03T08:03:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907690433150697794"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1395276094832402440",
+          "start": 0,
+          "username": "rbqrss"
+        },
+        {
+          "end": 19,
+          "id": "1826656262572179458",
+          "start": 8,
+          "username": "Ropshi1925"
+        },
+        {
+          "end": 31,
+          "id": "1696056509023625217",
+          "start": 20,
+          "username": "CuteLingli"
+        },
+        {
+          "end": 42,
+          "id": "1148204500223610880",
+          "start": 32,
+          "username": "sanwwww04"
+        },
+        {
+          "end": 55,
+          "id": "1855839508421644288",
+          "start": 43,
+          "username": "MitsuumiKoi"
+        },
+        {
+          "end": 68,
+          "id": "1316096588381515781",
+          "start": 56,
+          "username": "nianshancha"
+        },
+        {
+          "end": 81,
+          "id": "1892500388265562112",
+          "start": 69,
+          "username": "yuzijiangs1"
+        },
+        {
+          "end": 97,
+          "id": "1880515392214560770",
+          "start": 82,
+          "username": "xuanxiao250118"
+        },
+        {
+          "end": 110,
+          "id": "1772917048378810368",
+          "start": 98,
+          "username": "Yuan1196509"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907690433150697794",
+    "in_reply_to_user_id": "1395276094832402440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907505160651420038",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rbqrss @Ropshi1925 @CuteLingli @sanwwww04 @MitsuumiKoi @nianshancha @yuzijiangs1 @xuanxiao250118 @Yuan1196509 啊～那就自己来送死吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1078,
+        "media_key": "3_1907505156536807424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnjR1V6aMAANozS.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1382,
+        "media_key": "3_1907505156197093376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnjR1UpakAAwgca.jpg",
+        "width": 1382
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "1907505160651420038",
+        "created_at": "2025-04-03T07:03:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T08:03:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907690433150697794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1395276094832402440",
+              "start": 0,
+              "username": "rbqrss"
+            },
+            {
+              "end": 19,
+              "id": "1826656262572179458",
+              "start": 8,
+              "username": "Ropshi1925"
+            },
+            {
+              "end": 31,
+              "id": "1696056509023625217",
+              "start": 20,
+              "username": "CuteLingli"
+            },
+            {
+              "end": 42,
+              "id": "1148204500223610880",
+              "start": 32,
+              "username": "sanwwww04"
+            },
+            {
+              "end": 55,
+              "id": "1855839508421644288",
+              "start": 43,
+              "username": "MitsuumiKoi"
+            },
+            {
+              "end": 68,
+              "id": "1316096588381515781",
+              "start": 56,
+              "username": "nianshancha"
+            },
+            {
+              "end": 81,
+              "id": "1892500388265562112",
+              "start": 69,
+              "username": "yuzijiangs1"
+            },
+            {
+              "end": 97,
+              "id": "1880515392214560770",
+              "start": 82,
+              "username": "xuanxiao250118"
+            },
+            {
+              "end": 110,
+              "id": "1772917048378810368",
+              "start": 98,
+              "username": "Yuan1196509"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907690433150697794",
+        "in_reply_to_user_id": "1395276094832402440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907505160651420038",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rbqrss @Ropshi1925 @CuteLingli @sanwwww04 @MitsuumiKoi @nianshancha @yuzijiangs1 @xuanxiao250118 @Yuan1196509 啊～那就自己来送死吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1907505156536807424",
+            "3_1907505156197093376"
+          ]
+        },
+        "author_id": "1395276094832402440",
+        "conversation_id": "1907505160651420038",
+        "created_at": "2025-04-02T18:47:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T19:47:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907505160651420038"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 37,
+              "id": "1826656262572179458",
+              "start": 26,
+              "username": "Ropshi1925"
+            },
+            {
+              "end": 49,
+              "id": "1696056509023625217",
+              "start": 38,
+              "username": "CuteLingli"
+            },
+            {
+              "end": 60,
+              "id": "1148204500223610880",
+              "start": 50,
+              "username": "sanwwww04"
+            },
+            {
+              "end": 73,
+              "id": "1374389254726455305",
+              "start": 61,
+              "username": "xuemingjiai"
+            },
+            {
+              "end": 86,
+              "id": "1855839508421644288",
+              "start": 74,
+              "username": "MitsuumiKoi"
+            },
+            {
+              "end": 99,
+              "id": "1316096588381515781",
+              "start": 87,
+              "username": "nianshancha"
+            },
+            {
+              "end": 112,
+              "id": "1892500388265562112",
+              "start": 100,
+              "username": "yuzijiangs1"
+            },
+            {
+              "end": 128,
+              "id": "1880515392214560770",
+              "start": 113,
+              "username": "xuanxiao250118"
+            },
+            {
+              "end": 141,
+              "id": "1772917048378810368",
+              "start": 129,
+              "username": "Yuan1196509"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/T0cG0JBMf2",
+              "end": 225,
+              "expanded_url": "https://x.com/rbqrss/status/1907505160651420038/photo/1",
+              "media_key": "3_1907505156536807424",
+              "start": 202,
+              "url": "https://t.co/T0cG0JBMf2"
+            },
+            {
+              "display_url": "pic.x.com/T0cG0JBMf2",
+              "end": 225,
+              "expanded_url": "https://x.com/rbqrss/status/1907505160651420038/photo/1",
+              "media_key": "3_1907505156197093376",
+              "start": 202,
+              "url": "https://t.co/T0cG0JBMf2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907505160651420038",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 706,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "复活。\n😡你们这帮天天发atm推文的，包括但不限于 @Ropshi1925 @CuteLingli @sanwwww04 @xuemingjiai @MitsuumiKoi @nianshancha @yuzijiangs1 @xuanxiao250118 @Yuan1196509 我的下半身终究是离不开你们\n我做不到只给谁贡，看心情随便贡，想勾引我请自便私信都是广告看不到（可以评论区或者转1分钱w https://t.co/T0cG0JBMf2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "您好～这里是出道以来一直致力于为小雏男哥哥们提供“舒适”“安全”“极致射金体验”的纯真妹系小天使魔女妹妹💚\n想了解我请翻看我的推文～\nqq2829556413，碎碎念小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 85,
+                "username": "oricz233"
+              },
+              {
+                "end": 114,
+                "start": 105,
+                "username": "moelipoi"
+              },
+              {
+                "end": 132,
+                "start": 121,
+                "username": "cutelingli"
+              },
+              {
+                "end": 154,
+                "start": 139,
+                "username": "chessy80978858"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系天使偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907689949878693889/HrJZStFZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6603,
+          "following_count": 266,
+          "like_count": 305,
+          "listed_count": 28,
+          "media_count": 550,
+          "tweet_count": 1517
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-20T07:12:06.000Z",
+        "description": "发情用小号。在浙江。不要开我盒！抖M，性癖包括但不限于苦主癖，媚黑，性器崇拜，女性崇拜，恋足，圣水，上贡。想要个女主人，可爱的男孩子也行。想接盘（郭楠小软屌就该把女人上贡给黑爹，把自己的废物鸡巴锁起来🖤\n来找我犯贱的人意外地好多，从现在开始门槛是10块钱喵💜没过门槛的发情私信一律无视",
+        "id": "1395276094832402440",
+        "name": "Shigure♠️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1395276212453269504/46jzNHSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 284,
+          "like_count": 2119,
+          "listed_count": 2,
+          "media_count": 50,
+          "tweet_count": 190
+        },
+        "username": "rbqrss",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-22T16:22:58.000Z",
+        "description": "懒惰的男孩子/高中の不良诗人/性格残酷抑或温良/主要收atm/门槛15+/门牌：3862709326/喜好文学、历史、哲学//曾有君王，其人美名享尊讲经坛上，其人美德几近凌驾群星",
+        "id": "1826656262572179458",
+        "name": "启明者•若卜寻_殘響",
+        "pinned_tweet_id": "1905296906357751857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903533980911362048/eFpxPeEL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 322,
+          "like_count": 1381,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 463
+        },
+        "username": "Ropshi1925",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-28T07:06:06.000Z",
+        "description": "温柔向压榨系。请不要踏入陷阱~否则脑子和钱包都会的变得一塌糊涂。我很懒，所以不涉三。不想送死别来加我~ 门牌🚪私信获取 我只是想单纯地想要你的钱~ 老婆：@xuemingjiai  笨蛋：@LiuliDreamm 最喜欢的小狗：@tamaki_loveww",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 77,
+                "username": "xuemingjiai"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "LiuliDreamm"
+              },
+              {
+                "end": 128,
+                "start": 114,
+                "username": "tamaki_loveww"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "afdian.com/a/cutelingli",
+                "end": 23,
+                "expanded_url": "https://afdian.com/a/cutelingli",
+                "start": 0,
+                "url": "https://t.co/Di7OiY8Hx5"
+              }
+            ]
+          }
+        },
+        "id": "1696056509023625217",
+        "location": "你的心里❤️",
+        "name": "玲璃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1857458414097674240/lFZYliyL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1887,
+          "following_count": 125,
+          "like_count": 204,
+          "listed_count": 6,
+          "media_count": 93,
+          "tweet_count": 318
+        },
+        "url": "https://t.co/Di7OiY8Hx5",
+        "username": "CuteLingli",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-08T12:17:40.000Z",
+        "description": "自由散漫信仰充沛充满批判思维的天然腹黑毒舌 残暴农场主 清水暴躁日常小号@sans1517 爱玩弄感情的无趣的人 最近的人设是黑心小圣女 335尾号QQ已经被封了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 36,
+                "username": "sans1517"
+              }
+            ]
+          }
+        },
+        "id": "1148204500223610880",
+        "location": "血色教堂",
+        "name": "Neko今天吃什么",
+        "pinned_tweet_id": "1702926288032546949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907482596696797186/JedW9L3H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18331,
+          "following_count": 275,
+          "like_count": 4248,
+          "listed_count": 42,
+          "media_count": 1029,
+          "tweet_count": 3459
+        },
+        "username": "sanwwww04",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-11T05:06:43.000Z",
+        "description": "🍯大概是findom区第一位中文VTuber🎙️个人势~\n是稍~微有一点点腹黑的心机小恶魔应召女仆🖤 \n\n性癖恶化💸弱点植入👢催眠洗脑💫色诱榨取💳 \n——诸如此类的R18直播配信/技术分享/ASMR/音声创作/短篇投稿🪤\n以及三次元账号📷@Koi_irl \n\n还请尽情享用吧🖤 ご·主·人·様·🏧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 119,
+                "username": "Koi_irl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "app.unifans.io/c/mitsuumikoi",
+                "end": 23,
+                "expanded_url": "https://app.unifans.io/c/mitsuumikoi",
+                "start": 0,
+                "url": "https://t.co/TkICiUE45F"
+              }
+            ]
+          }
+        },
+        "id": "1855839508421644288",
+        "location": "https://throne.com/mitsuumikoi",
+        "name": "蜜海🧡恋@VTuber准备中",
+        "pinned_tweet_id": "1901291646563799500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856556846385106944/PwGftpo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 713,
+          "following_count": 1,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 77
+        },
+        "url": "https://t.co/TkICiUE45F",
+        "username": "MitsuumiKoi",
+        "verified": true
+      },
+      {
+        "created_at": "2020-10-13T19:20:59.000Z",
+        "description": "这里是山茶哦～知道嘛知道嘛 山茶的花语是“理想的爱♡”哦 渴望名为“喜欢”的药的话就来向咱示爱 随后溺死在咱的甜言中吧～ 门槛20/30/60 没有区别的…也许？ 🚪3396356798  敲门前请先看置顶了解我哦❤️",
+        "id": "1316096588381515781",
+        "location": "映你眼眸的深处",
+        "name": "小山茶",
+        "pinned_tweet_id": "1867920156279890406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865023421559771136/Nk7qzNwn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1487,
+          "following_count": 10,
+          "like_count": 2,
+          "listed_count": 7,
+          "media_count": 28,
+          "tweet_count": 34
+        },
+        "username": "nianshancha",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-20T09:03:57.000Z",
+        "description": "嗯..是男孩子哦♡口令优先回♡🚪40",
+        "id": "1892500388265562112",
+        "name": "鱼子酱",
+        "pinned_tweet_id": "1903104397120508271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894661367069904898/xzgKQG68_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 523,
+          "following_count": 5,
+          "like_count": 31,
+          "listed_count": 3,
+          "media_count": 15,
+          "tweet_count": 23
+        },
+        "username": "yuzijiangs1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-18T07:20:09.000Z",
+        "description": "这里是星宿之神玄枵，是男孩子～关注私信被神衹玩弄致死吧～榨金诈骗犯🖤 🚪3880337760 门槛看心情",
+        "id": "1880515392214560770",
+        "name": "玄枵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889861528893136900/qrlLTkd7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 1,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 16
+        },
+        "username": "xuanxiao250118",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-27T09:22:33.000Z",
+        "description": "🖤catfish findom🖤                   \n\n男孩子在没有射精的时间里，工资会慢慢积攒在蛋蛋里哦❤️",
+        "id": "1772917048378810368",
+        "name": "Yuan",
+        "pinned_tweet_id": "1903853045655744620",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883183296965902336/ycdnwq_K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2103,
+          "following_count": 200,
+          "like_count": 3242,
+          "listed_count": 3,
+          "media_count": 26,
+          "tweet_count": 111
+        },
+        "username": "Yuan1196509",
+        "verified": false
+      }
+    ]
+  }
+}

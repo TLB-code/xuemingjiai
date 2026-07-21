@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "2064738299634442649",
+    "created_at": "2026-06-10T15:55:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T16:55:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064738299634442649"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1629550872676954114",
+          "start": 3,
+          "username": "northblack0310"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064738299634442649",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064703195826581864",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @northblack0310: 呼呼~今天很累诶w你呢，今天也很累吗，想抱抱嘛，可以哦♡（张开手歪着脑袋）没关系的吧，在人家这里放松一下，释放自己内心的欲望，什么样人家都会接受的哦？w诶？喊人家妈妈嘛，也可以哦，在这里就不用想太多外界的事呢~只需要放松~放松♡好好享受怀…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2064738299634442649].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2064738299634442649",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2064738299634442649"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2064703184040534016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKdMm0taoAAmwsb.jpg",
+        "width": 1313
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064703184040534016"
+          ]
+        },
+        "author_id": "1629550872676954114",
+        "conversation_id": "2064703195826581864",
+        "created_at": "2026-06-10T13:36:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T14:36:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064703195826581864"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ffirP39wGP",
+              "end": 151,
+              "expanded_url": "https://x.com/northblack0310/status/2064703195826581864/photo/1",
+              "media_key": "3_2064703184040534016",
+              "start": 128,
+              "url": "https://t.co/ffirP39wGP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064703195826581864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "呼呼~今天很累诶w你呢，今天也很累吗，想抱抱嘛，可以哦♡（张开手歪着脑袋）没关系的吧，在人家这里放松一下，释放自己内心的欲望，什么样人家都会接受的哦？w诶？喊人家妈妈嘛，也可以哦，在这里就不用想太多外界的事呢~只需要放松~放松♡好好享受怀抱和安抚就好啦♡ https://t.co/ffirP39wGP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "你也觉得你面前的这只魔女可爱过头了吧？\n对的!她和别人不一样!\n邂逅方式→2829556413←\n超涩气小号@oricz233\n现任魔女学园院长\n星辰魔女镜璃\n@jingli1840489\n桃心魔女奈奈\n@blakexiaonai\n 黑白魔女花卷\n@miaomiaomyoez2\n好老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 54,
+                "username": "oricz233"
+              },
+              {
+                "end": 94,
+                "start": 80,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 115,
+                "start": 102,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 139,
+                "start": 124,
+                "username": "miaomiaomyoez2"
+              },
+              {
+                "end": 158,
+                "start": 143,
+                "username": "chessy80978858"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "超可爱超绿茶超撩人的精灵魔女-奏奏💚",
+        "pinned_tweet_id": "2013314916120416537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064079945459171328/WbF0iOyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8868,
+          "following_count": 365,
+          "like_count": 636,
+          "listed_count": 36,
+          "media_count": 830,
+          "tweet_count": 2212
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-25T18:36:33.000Z",
+        "description": "【心音所属】这里是，天才美少女夕绫desu，无口/温柔/反差/气味/可爱/调教类美少女文援姬，同时承接虚拟上贡后返还的业务，人设是一名在读高中生，无论是当温柔细腻的主人还是温柔侍奉的可爱猫娘都可以好好胜任的！s/m皆可w，如果想跟夕绫走进美妙的温柔乡可以加 q：1770867267♡欢迎各位的光临w",
+        "id": "1629550872676954114",
+        "name": "夕绫",
+        "pinned_tweet_id": "1941922403321540805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064701958498426881/MLiCDDdx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1141,
+          "following_count": 258,
+          "like_count": 501,
+          "listed_count": 6,
+          "media_count": 72,
+          "tweet_count": 766
+        },
+        "username": "northblack0310",
+        "verified": false
+      }
+    ]
+  }
+}

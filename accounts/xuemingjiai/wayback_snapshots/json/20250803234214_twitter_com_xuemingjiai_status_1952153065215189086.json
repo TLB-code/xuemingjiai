@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1951495678955495424"
+      ],
+      "media_source_tweet_id": [
+        "1951495682050892177"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "1952153065215189086",
+    "created_at": "2025-08-03T23:42:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-04T00:42:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952153065215189086"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1813090317694083076",
+          "start": 3,
+          "username": "Xiao_Xi33"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8RIByGn91g",
+          "end": 110,
+          "expanded_url": "https://x.com/Xiao_Xi33/status/1951495682050892177/photo/1",
+          "media_key": "3_1951495678955495424",
+          "start": 87,
+          "url": "https://t.co/8RIByGn91g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952153065215189086",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951495682050892177",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Xiao_Xi33: 小汐好久都没有上推特啦...不知道小狗狗们是不是还好好记得小汐呢～\n这篇是新置顶哦…价格会有一点点变化呢～\n另外小汐的新音声也在特价出售中哦～ https://t.co/8RIByGn91g"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1952153065215189086].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1952153065215189086",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1952153065215189086"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2160,
+        "media_key": "3_1951495678955495424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxUa-wTaIAAMuxy.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1951495678955495424"
+          ]
+        },
+        "author_id": "1813090317694083076",
+        "conversation_id": "1951495682050892177",
+        "created_at": "2025-08-02T04:10:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T05:10:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951495682050892177"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8RIByGn91g",
+              "end": 95,
+              "expanded_url": "https://x.com/Xiao_Xi33/status/1951495682050892177/photo/1",
+              "media_key": "3_1951495678955495424",
+              "start": 72,
+              "url": "https://t.co/8RIByGn91g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951495682050892177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 176,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "小汐好久都没有上推特啦...不知道小狗狗们是不是还好好记得小汐呢～\n这篇是新置顶哦…价格会有一点点变化呢～\n另外小汐的新音声也在特价出售中哦～ https://t.co/8RIByGn91g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n你也会因为窥视我的美貌而心甘情愿沦为钱包被我使用的对吗？\n钱包报名入口：3971546171\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 67,
+                "username": "oricz233"
+              },
+              {
+                "end": 96,
+                "start": 87,
+                "username": "moelipoi"
+              },
+              {
+                "end": 114,
+                "start": 103,
+                "username": "cutelingli"
+              },
+              {
+                "end": 136,
+                "start": 121,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 148,
+                "start": 141,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍大规模同化魔法展开中",
+        "pinned_tweet_id": "1945511067926536238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945176725190488064/8VBohPRs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7798,
+          "following_count": 328,
+          "like_count": 601,
+          "listed_count": 33,
+          "media_count": 718,
+          "tweet_count": 2203
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-16T05:56:42.000Z",
+        "description": "哈喽~这里是喜欢🖤调教小雏男的坏坏💚萝莉小汐哦🎶擅长用段的方式一点点💜洗脑小雏男哦~记得看置顶呢——\n门牌是：3857907304\n营业时间是晚上十点到次日一点哦♬\n超过营业时间单费双倍哦",
+        "id": "1813090317694083076",
+        "location": "你的脑子里🎶",
+        "name": "黑心🖤萝莉小汐",
+        "pinned_tweet_id": "1951495682050892177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873750636157960192/SXPPy-NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 8,
+          "like_count": 45,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 33
+        },
+        "username": "Xiao_Xi33",
+        "verified": false
+      }
+    ]
+  }
+}

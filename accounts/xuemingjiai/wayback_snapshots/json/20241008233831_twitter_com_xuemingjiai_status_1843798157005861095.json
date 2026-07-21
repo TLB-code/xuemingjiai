@@ -1,0 +1,127 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1843798157005861095",
+    "created_at": "2024-10-08T23:38:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-09T00:38:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1843798157005861095"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1374389254726455305",
+          "start": 3,
+          "username": "xuemingjiai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1843798157005861095",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "1822711640716103838",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xuemingjiai: 深夜诱捕计划💜\n盯～知道长期深夜刷推会发生什么吗？\n会让你变得越来越虚弱，并且钱包里的钱钱都会被轻易勾走，意志力变得薄弱低下哦💜\n即使知道会变成这样还是忍不住啦？\n请看着魔女小姐的涩图（强制）勃起，给自己找一个说服自己的借口，告诉自己真的是（最…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1843798157005861095].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1843798157005861095",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1843798157005861095"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1822711637100662784"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "1822711640716103838",
+        "created_at": "2024-08-11T19:08:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-11T20:08:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1822711640716103838"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PZFIlxlZZ3",
+              "end": 166,
+              "expanded_url": "https://x.com/xuemingjiai/status/1822711640716103838/photo/1",
+              "media_key": "3_1822711637100662784",
+              "start": 143,
+              "url": "https://t.co/PZFIlxlZZ3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822711640716103838",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 9660,
+          "like_count": 93,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "深夜诱捕计划💜\n盯～知道长期深夜刷推会发生什么吗？\n会让你变得越来越虚弱，并且钱包里的钱钱都会被轻易勾走，意志力变得薄弱低下哦💜\n即使知道会变成这样还是忍不住啦？\n请看着魔女小姐的涩图（强制）勃起，给自己找一个说服自己的借口，告诉自己真的是（最后一次）发情，然后捏着肉棒来（射金）吧💜 https://t.co/PZFIlxlZZ3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "超绝可爱💖\n她就是出道即巅峰的可爱纯真小天使新人偶像魔女小姐💖\n对这样的魔女小姐不能心怀任何涩涩的念想哦，不然就会变得非常糟糕...踏入无法挣脱的陷阱和牢笼里呢💘\n魔女小姐无论说什么做什么都是正确的哦，身为她的粉丝，只需要无条件用各种方式支持她就好了～\nqq2829556413",
+        "id": "1374389254726455305",
+        "name": "电波系新人偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1839039717712724125",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843797902491336704/2a0543Ul_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5433,
+          "following_count": 205,
+          "like_count": 159,
+          "listed_count": 23,
+          "tweet_count": 1129
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1922577627426042107",
+    "created_at": "2025-05-14T14:26:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-14T15:26:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922659805807743450"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1317722221784272897",
+          "start": 0,
+          "username": "leilan_wy_jy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922659805807743450",
+    "in_reply_to_user_id": "1317722221784272897",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922577627426042107",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@leilan_wy_jy 今天也是通宵哦w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 659,
+        "media_key": "3_1919402577466359809",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqMWeYraAAEDUbK.jpg",
+        "width": 1154
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "1922577627426042107",
+        "created_at": "2025-05-14T14:26:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T15:26:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922659805807743450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1317722221784272897",
+              "start": 0,
+              "username": "leilan_wy_jy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922659805807743450",
+        "in_reply_to_user_id": "1317722221784272897",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922577627426042107",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@leilan_wy_jy 今天也是通宵哦w"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1919402577466359809"
+          ]
+        },
+        "author_id": "1317722221784272897",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1922577627426042107",
+        "created_at": "2025-05-14T09:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T10:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1922577627426042107"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 70,
+              "start": 67,
+              "tag": "文援"
+            },
+            {
+              "end": 75,
+              "start": 71,
+              "tag": "耒兰诏"
+            },
+            {
+              "end": 79,
+              "start": 76,
+              "tag": "文爱"
+            },
+            {
+              "end": 84,
+              "start": 80,
+              "tag": "文援姬"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fWgatYAdTO",
+              "end": 108,
+              "expanded_url": "https://x.com/leilan_wy_jy/status/1922577627426042107/photo/1",
+              "media_key": "3_1919402577466359809",
+              "start": 85,
+              "url": "https://t.co/fWgatYAdTO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922577627426042107",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 832,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 32,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "【耒兰的傍晚文援公告板】\n我在小城夏天陪你遇见浪漫。\n——\n文援姬请回复自己的营业时间和价格！\n客人请回复想要的剧情和出价(重要)！\n#文援 #耒兰诏 #文爱 #文援姬 https://t.co/fWgatYAdTO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "集美貌，智慧，强大于一身的魔女族公主现身人世～区区人类，跪下向我表示臣服吧💜\n被我支配 控制 吸脑 成为奴仆💜\n挑战qq242184780，里世界小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858\n女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "oricz233"
+              },
+              {
+                "end": 104,
+                "start": 95,
+                "username": "moelipoi"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "cutelingli"
+              },
+              {
+                "end": 144,
+                "start": 129,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 155,
+                "start": 148,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏💜强势登场人间",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922178521235128320/5seow5Nb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6845,
+          "following_count": 280,
+          "like_count": 309,
+          "listed_count": 30,
+          "media_count": 599,
+          "tweet_count": 1772
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-18T07:00:50.000Z",
+        "description": "联系请私聊！\n可以帮文援姬按模板【免费推广】，\n没有次数限制但有频率限制，模板是主页置顶哦~\n设定是金毛双尾小个子狐娘！\n#耒兰访 #耒兰谊 尽力更新！\n想要我联系文援姬，也可以私信我。\n没有被投稿人转推的推文请小心。\n限制更少的（商业）推广在 @leilan_magazine",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 65,
+                "start": 61,
+                "tag": "耒兰访"
+              },
+              {
+                "end": 70,
+                "start": 66,
+                "tag": "耒兰谊"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 139,
+                "start": 123,
+                "username": "leilan_magazine"
+              }
+            ]
+          }
+        },
+        "id": "1317722221784272897",
+        "location": "离你不远。",
+        "name": "文援姬投稿推广~耒兰~leilan",
+        "pinned_tweet_id": "1740714095832396000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1540618453065019392/NEgQI_7o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12174,
+          "following_count": 682,
+          "like_count": 188,
+          "listed_count": 34,
+          "media_count": 4056,
+          "tweet_count": 4473
+        },
+        "username": "leilan_wy_jy",
+        "verified": true
+      }
+    ]
+  }
+}

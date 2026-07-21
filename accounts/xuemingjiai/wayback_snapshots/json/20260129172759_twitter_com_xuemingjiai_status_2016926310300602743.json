@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2016926297243734017"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "2016926310300602743",
+    "created_at": "2026-01-29T17:27:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T18:27:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2016926310300602743"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8ssFjsveEK",
+          "end": 173,
+          "expanded_url": "https://x.com/xuemingjiai/status/2016926310300602743/photo/1",
+          "media_key": "3_2016926297243734017",
+          "start": 150,
+          "url": "https://t.co/8ssFjsveEK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016926310300602743",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天...\n要调动小钱包们最原始的性冲动哦🤍\n谁说我们可爱的小钱包们只配看(足底)(鞋子)(马赛克)啦?\n明明就算如此下贱～小钱包们也始终是雄性嘛～那也要适当的享受“雄性快感”对不对🤍\n来～盯着图片上能够直接秒杀小处男的肥臀和溢出的雌性荷尔蒙勃起吧～\n点赞，转发，评论都将被标记上门榨“金”30哦🖤 https://t.co/8ssFjsveEK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1216,
+        "media_key": "3_2016926297243734017",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_2Px_1bUAEETQA.jpg",
+        "width": 832
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016926297243734017"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "2016926310300602743",
+        "created_at": "2026-01-29T17:27:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T18:27:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016926310300602743"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8ssFjsveEK",
+              "end": 173,
+              "expanded_url": "https://x.com/xuemingjiai/status/2016926310300602743/photo/1",
+              "media_key": "3_2016926297243734017",
+              "start": 150,
+              "url": "https://t.co/8ssFjsveEK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016926310300602743",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天...\n要调动小钱包们最原始的性冲动哦🤍\n谁说我们可爱的小钱包们只配看(足底)(鞋子)(马赛克)啦?\n明明就算如此下贱～小钱包们也始终是雄性嘛～那也要适当的享受“雄性快感”对不对🤍\n来～盯着图片上能够直接秒杀小处男的肥臀和溢出的雌性荷尔蒙勃起吧～\n点赞，转发，评论都将被标记上门榨“金”30哦🖤 https://t.co/8ssFjsveEK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🖤\n最最最最喜欢钱包们啦～\n联系方式→2829556413←\n病毒小号@oricz233\n现任魔女学园院长!\n星辰魔女镜璃\n@jingli1840489\n桃心魔女奈奈\n@blakexiaonai\n 黑白魔女花卷\n@miaomiaomi17630\n好老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 49,
+                "username": "oricz233"
+              },
+              {
+                "end": 90,
+                "start": 76,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 111,
+                "start": 98,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 136,
+                "start": 120,
+                "username": "miaomiaomi17630"
+              },
+              {
+                "end": 155,
+                "start": 140,
+                "username": "chessy80978858"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🖤魔女学园院长版～",
+        "pinned_tweet_id": "2013314916120416537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016902481788489728/uJnMEm61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8275,
+          "following_count": 352,
+          "like_count": 637,
+          "listed_count": 37,
+          "media_count": 795,
+          "tweet_count": 2129
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

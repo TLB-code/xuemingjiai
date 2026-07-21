@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1931219004191805756",
+    "created_at": "2025-06-07T05:17:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-07T06:17:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931219004191805756"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1312572317206159360",
+          "start": 3,
+          "username": "moelipoi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931219004191805756",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931213535809609772",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @moelipoi: 亲爱的小考生们:\n偶像来给你们加油打气啦～♡\n考场如战场，但请不要紧张哦！\n一定要考一门扔一门……！祝大家努力考上心仪的大学～因为只有考上理想的大学，将来才能赚到更多小钱钱上贡下单呀w\n璃酱在考场之外等着你们哦！加油吧，笨蛋考生们！爱你们(๑＞ڡ＜)…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1931213532948996096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs0MeejaIAA4LlH.jpg",
+        "width": 1239
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "1931219004191805756",
+        "created_at": "2025-06-07T05:17:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T06:17:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931219004191805756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1312572317206159360",
+              "start": 3,
+              "username": "moelipoi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931219004191805756",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931213535809609772",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @moelipoi: 亲爱的小考生们:\n偶像来给你们加油打气啦～♡\n考场如战场，但请不要紧张哦！\n一定要考一门扔一门……！祝大家努力考上心仪的大学～因为只有考上理想的大学，将来才能赚到更多小钱钱上贡下单呀w\n璃酱在考场之外等着你们哦！加油吧，笨蛋考生们！爱你们(๑＞ڡ＜)…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1931213532948996096"
+          ]
+        },
+        "author_id": "1312572317206159360",
+        "conversation_id": "1931213535809609772",
+        "created_at": "2025-06-07T04:56:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T05:56:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931213535809609772"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nqk9CqOuKs",
+              "end": 151,
+              "expanded_url": "https://x.com/moelipoi/status/1931213535809609772/photo/1",
+              "media_key": "3_1931213532948996096",
+              "start": 128,
+              "url": "https://t.co/nqk9CqOuKs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931213535809609772",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "亲爱的小考生们:\n偶像来给你们加油打气啦～♡\n考场如战场，但请不要紧张哦！\n一定要考一门扔一门……！祝大家努力考上心仪的大学～因为只有考上理想的大学，将来才能赚到更多小钱钱上贡下单呀w\n璃酱在考场之外等着你们哦！加油吧，笨蛋考生们！爱你们(๑＞ڡ＜)☆♡ https://t.co/nqk9CqOuKs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n你也会因为窥视我的美貌而心甘情愿沦为钱包被我使用的对吗？\n钱包报名入口：242184780\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 66,
+                "username": "oricz233"
+              },
+              {
+                "end": 95,
+                "start": 86,
+                "username": "moelipoi"
+              },
+              {
+                "end": 113,
+                "start": 102,
+                "username": "cutelingli"
+              },
+              {
+                "end": 135,
+                "start": 120,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 147,
+                "start": 140,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍瞄准钱包👛中",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931064828044713984/9qwnduVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7138,
+          "following_count": 297,
+          "like_count": 341,
+          "listed_count": 33,
+          "media_count": 654,
+          "tweet_count": 1942
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-04T01:57:08.000Z",
+        "description": "贵安~💖这里是主擅长恋足气味调教洗脑的全能系腹黑JK绿茶偶像璃酱/花璃💛|性癖无雷点 任何剧情都可接受 | 句段均可♪|貢ぎ奴隷送死欢迎🖤|把脑子无意识的交给偶像温柔的美夜月鏡中吧?💙\n🚪:1912443435丨只接受图文♡可验证 先看置顶再敲门 海外支持爱发电\n单推偶像:@xuemingjiai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 137,
+                "username": "xuemingjiai"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/moeliqwq",
+                "end": 23,
+                "expanded_url": "http://t.me/moeliqwq",
+                "start": 0,
+                "url": "https://t.co/ttwGimBZ9H"
+              }
+            ]
+          }
+        },
+        "id": "1312572317206159360",
+        "location": "价格:40/0.5h 75/h 全天营业丨不接M单",
+        "name": "璃酱❀",
+        "pinned_tweet_id": "1911036147817681330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925517442706792448/LSzqOBm__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9366,
+          "following_count": 127,
+          "like_count": 292,
+          "listed_count": 11,
+          "media_count": 212,
+          "tweet_count": 1459
+        },
+        "url": "https://t.co/ttwGimBZ9H",
+        "username": "moelipoi",
+        "verified": true
+      }
+    ]
+  }
+}

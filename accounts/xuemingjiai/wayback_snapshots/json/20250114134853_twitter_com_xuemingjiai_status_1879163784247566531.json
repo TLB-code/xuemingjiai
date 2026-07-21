@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1879163784247566531",
+    "created_at": "2025-01-14T13:48:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-14T14:48:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1879163784247566531"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1877411604473720833",
+          "start": 3,
+          "username": "Xiaomiansleepy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1879163784247566531",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1879083321503908002",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Xiaomiansleepy: 圆角的时候最羞耻的时刻是什么呢？\n\n不是初次见面时面对一个陌生但是注定要屈服的男性，也不是对方的身材打扮行为习惯即便不喜也要忍受的屈辱感，更不是在床上被干到高潮身体抽搐的时候。\n\n而是脱下衣着时，湿润的小穴展露出来诚实地告知对方自己很期待…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1879163784247566531].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1879163784247566531",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1879163784247566531"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1879083314994438144"
+          ]
+        },
+        "author_id": "1877411604473720833",
+        "conversation_id": "1879083321503908002",
+        "created_at": "2025-01-14T08:29:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-14T09:29:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1879083321503908002"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 139,
+              "start": 136,
+              "tag": "文援"
+            },
+            {
+              "end": 143,
+              "start": 140,
+              "tag": "文爱"
+            },
+            {
+              "end": 147,
+              "start": 144,
+              "tag": "剧情"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cMlXgjpC5s",
+              "end": 171,
+              "expanded_url": "https://x.com/Xiaomiansleepy/status/1879083321503908002/photo/1",
+              "media_key": "3_1879083314994438144",
+              "start": 148,
+              "url": "https://t.co/cMlXgjpC5s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879083321503908002",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "圆角的时候最羞耻的时刻是什么呢？\n\n不是初次见面时面对一个陌生但是注定要屈服的男性，也不是对方的身材打扮行为习惯即便不喜也要忍受的屈辱感，更不是在床上被干到高潮身体抽搐的时候。\n\n而是脱下衣着时，湿润的小穴展露出来诚实地告知对方自己很期待的时候。\n\n“才…才不是婊子…”\n#文援 #文爱 #剧情 https://t.co/cMlXgjpC5s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "您好～这里是出道以来一直致力于为小雏男哥哥们提供“舒适”“安全”“极致快感”的纯真妹系小天使魔女妹妹💚\n想了解我请翻看我的推文～\nqq2829556413，碎碎念小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 83,
+                "username": "oricz233"
+              },
+              {
+                "end": 112,
+                "start": 103,
+                "username": "moelipoi"
+              },
+              {
+                "end": 130,
+                "start": 119,
+                "username": "cutelingli"
+              },
+              {
+                "end": 152,
+                "start": 137,
+                "username": "chessy80978858"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系天使偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878142670054604800/aZFysFDs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6310,
+          "following_count": 251,
+          "like_count": 286,
+          "listed_count": 29,
+          "media_count": 532,
+          "tweet_count": 1469
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-09T17:46:29.000Z",
+        "description": "Switch文援，营业内容可以看简介，同人文会更在P站。有可抵扣的门槛，过门请私信。门牌：3843573562\n\n愿世界所有的美好都与你不期而遇。\nTG群：https://t.co/w5IG5wrxQm\n匿名问答：https://t.co/BTFbffrng9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+q9uhOcliYndkN…",
+                "end": 101,
+                "expanded_url": "https://t.me/+q9uhOcliYndkNGQ1",
+                "start": 78,
+                "url": "https://t.co/w5IG5wrxQm"
+              },
+              {
+                "display_url": "ngl.link/xiaomiansleepy",
+                "end": 130,
+                "expanded_url": "https://ngl.link/xiaomiansleepy",
+                "start": 107,
+                "url": "https://t.co/BTFbffrng9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/83977436",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/83977436",
+                "start": 0,
+                "url": "https://t.co/XmB37Ut5RA"
+              }
+            ]
+          }
+        },
+        "id": "1877411604473720833",
+        "name": "小眠睡不醒",
+        "pinned_tweet_id": "1877639041048305799",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877411700930183168/9tP4QMpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 7,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 11
+        },
+        "url": "https://t.co/XmB37Ut5RA",
+        "username": "Xiaomiansleepy",
+        "verified": false
+      }
+    ]
+  }
+}

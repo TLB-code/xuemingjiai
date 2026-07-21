@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1881335637284118703",
+    "created_at": "2025-01-20T13:39:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-20T14:39:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1881335637284118703"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1545077939510730752",
+          "start": 3,
+          "username": "molijiushiruci1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881335637284118703",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 29
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881019615893160176",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @molijiushiruci1: 就这么喜欢人家的气味吗～贱狗大哥哥🖤\n这可是茉莉穿着上了一整天学的小皮鞋呐🖤混合着皮革气味的浓郁焖湿足臭直接钻进天灵盖的感觉🖤是不是爽死贱狗哥哥了啊🖤雌化贱狗乳头～有没有犯贱的挺起来哦🖤\n\n不到两分钟被茉莉的黑丝小脚丫榨杀败北早泄投降🖤…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1881335637284118703].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1881335637284118703",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1881335637284118703"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1881019611409416192"
+          ]
+        },
+        "author_id": "1545077939510730752",
+        "conversation_id": "1881019615893160176",
+        "created_at": "2025-01-19T16:43:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T17:43:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1881019615893160176"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 135,
+              "start": 132,
+              "tag": "文媛"
+            },
+            {
+              "end": 139,
+              "start": 136,
+              "tag": "黑丝"
+            },
+            {
+              "end": 143,
+              "start": 140,
+              "tag": "调教"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/107KtUXWy5",
+              "end": 167,
+              "expanded_url": "https://x.com/molijiushiruci1/status/1881019615893160176/photo/1",
+              "media_key": "3_1881019611409416192",
+              "start": 144,
+              "url": "https://t.co/107KtUXWy5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881019615893160176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 5226,
+          "like_count": 111,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "就这么喜欢人家的气味吗～贱狗大哥哥🖤\n这可是茉莉穿着上了一整天学的小皮鞋呐🖤混合着皮革气味的浓郁焖湿足臭直接钻进天灵盖的感觉🖤是不是爽死贱狗哥哥了啊🖤雌化贱狗乳头～有没有犯贱的挺起来哦🖤\n\n不到两分钟被茉莉的黑丝小脚丫榨杀败北早泄投降🖤，真是个～大🖤～傻🖤～逼🖤\n#文媛 #黑丝 #调教 https://t.co/107KtUXWy5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "您好～这里是出道以来一直致力于为小雏男哥哥们提供“舒适”“安全”“极致快感”的纯真妹系小天使魔女妹妹💚\n想了解我请翻看我的推文～\nqq2829556413，碎碎念小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 83,
+                "username": "oricz233"
+              },
+              {
+                "end": 112,
+                "start": 103,
+                "username": "moelipoi"
+              },
+              {
+                "end": 130,
+                "start": 119,
+                "username": "cutelingli"
+              },
+              {
+                "end": 152,
+                "start": 137,
+                "username": "chessy80978858"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系天使偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878142670054604800/aZFysFDs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6321,
+          "following_count": 251,
+          "like_count": 285,
+          "listed_count": 29,
+          "media_count": 532,
+          "tweet_count": 1475
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-07T16:11:11.000Z",
+        "description": "一个擅长气味调教与羞辱的扶她魅魔女仆🖤加咱的时候记的带20r门槛哦，门牌号https://t.co/kNKviCT2T9 或是见置顶推评论区\n点击偷窥茉莉私生活→@MaidmoliS",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 81,
+                "username": "MaidmoliS"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/moli_0312",
+                "end": 60,
+                "expanded_url": "http://t.me/moli_0312",
+                "start": 37,
+                "url": "https://t.co/kNKviCT2T9"
+              }
+            ]
+          }
+        },
+        "id": "1545077939510730752",
+        "location": "在你的心里~或是踩在你的脸上♡",
+        "name": "魅魔女仆🖤茉莉（随机营业中）",
+        "pinned_tweet_id": "1769765224091918487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878292043602219008/tyh6DTAf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11863,
+          "following_count": 386,
+          "like_count": 1651,
+          "listed_count": 31,
+          "media_count": 301,
+          "tweet_count": 4898
+        },
+        "username": "molijiushiruci1",
+        "verified": false
+      }
+    ]
+  }
+}

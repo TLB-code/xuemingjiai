@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1937147244274401401",
+    "created_at": "2025-06-23T13:54:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-23T14:54:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937147244274401401"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 132,
+          "start": 129,
+          "tag": "文媛"
+        },
+        {
+          "end": 138,
+          "start": 133,
+          "tag": "媚黑航线"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1921832227996119040",
+          "start": 3,
+          "username": "shiling7651"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937147244274401401",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 33
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936102506586878114",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shiling7651: 呐，舰长，您终于回来了♡在您不在的这段日子里，我们都很想舰长呢，黑爹大人还特意让我们来一起接你哦。（绿帽龟舰长看着面前自己最爱的女孩子们全部都留下了黑人的记号，只能犯贱的挺着自己的“小肉虫”对着媚黑舰娘们磕头自慰了吧~💚）\n#文媛 #媚黑航线…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1937147244274401401].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1937147244274401401",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1937147244274401401"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1088,
+        "media_key": "3_1936102503067586561",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt5q9_gWkAECDWP.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936102503067586561"
+          ]
+        },
+        "author_id": "1921832227996119040",
+        "conversation_id": "1936102506586878114",
+        "created_at": "2025-06-20T16:43:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T17:43:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936102506586878114"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 115,
+              "start": 112,
+              "tag": "文媛"
+            },
+            {
+              "end": 121,
+              "start": 116,
+              "tag": "媚黑航线"
+            },
+            {
+              "end": 125,
+              "start": 122,
+              "tag": "绿帽"
+            },
+            {
+              "end": 130,
+              "start": 126,
+              "tag": "ntr"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Byd7YnV51B",
+              "end": 154,
+              "expanded_url": "https://x.com/shiling7651/status/1936102506586878114/photo/1",
+              "media_key": "3_1936102503067586561",
+              "start": 131,
+              "url": "https://t.co/Byd7YnV51B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936102506586878114",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 44,
+          "impression_count": 6055,
+          "like_count": 200,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "呐，舰长，您终于回来了♡在您不在的这段日子里，我们都很想舰长呢，黑爹大人还特意让我们来一起接你哦。（绿帽龟舰长看着面前自己最爱的女孩子们全部都留下了黑人的记号，只能犯贱的挺着自己的“小肉虫”对着媚黑舰娘们磕头自慰了吧~💚）\n#文媛 #媚黑航线 #绿帽 #ntr https://t.co/Byd7YnV51B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n你也会因为窥视我的美貌而心甘情愿沦为钱包被我使用的对吗？\n钱包报名入口：2829556413和3971546171\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 78,
+                "username": "oricz233"
+              },
+              {
+                "end": 107,
+                "start": 98,
+                "username": "moelipoi"
+              },
+              {
+                "end": 125,
+                "start": 114,
+                "username": "cutelingli"
+              },
+              {
+                "end": 147,
+                "start": 132,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 159,
+                "start": 152,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍驯化公用钱包👛中",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931064828044713984/9qwnduVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7275,
+          "following_count": 311,
+          "like_count": 376,
+          "listed_count": 32,
+          "media_count": 700,
+          "tweet_count": 2131
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-12T07:38:15.000Z",
+        "description": "这里是新人文媛姬诗铃~是喜欢欺负可爱的小男生♡也会好好侍奉雄性的萝莉魅魔哟~♡毕竟~这是魅魔的~进食环节♡呢~欢迎客人来访~那么~也还请客人做好被人家榨干当做魅魔食粮的准备呐♡门牌:3800716151备用:3919302576",
+        "id": "1921832227996119040",
+        "name": "诗铃♡文援(欢迎互推~)",
+        "pinned_tweet_id": "1921983886793359465",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935003283078496256/ZxuHqpFg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 822,
+          "following_count": 123,
+          "like_count": 52,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 369
+        },
+        "username": "shiling7651",
+        "verified": false
+      }
+    ]
+  }
+}

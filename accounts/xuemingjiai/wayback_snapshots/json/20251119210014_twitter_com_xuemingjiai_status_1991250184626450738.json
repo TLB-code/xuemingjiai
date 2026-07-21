@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1990703832268222468",
+        "3_1990703830905094144",
+        "3_1990703831190286337"
+      ],
+      "media_source_tweet_id": [
+        "1990703835028033589",
+        "1990703835028033589",
+        "1990703835028033589"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "1991250184626450738",
+    "created_at": "2025-11-19T21:00:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T22:00:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991250184626450738"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1219094177931317248",
+          "start": 3,
+          "username": "LiuliDreamm"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MR8p2knLSD",
+          "end": 108,
+          "expanded_url": "https://x.com/LiuliDreamm/status/1990703835028033589/photo/1",
+          "media_key": "3_1990703832268222468",
+          "start": 85,
+          "url": "https://t.co/MR8p2knLSD"
+        },
+        {
+          "display_url": "pic.x.com/MR8p2knLSD",
+          "end": 108,
+          "expanded_url": "https://x.com/LiuliDreamm/status/1990703835028033589/photo/1",
+          "media_key": "3_1990703830905094144",
+          "start": 85,
+          "url": "https://t.co/MR8p2knLSD"
+        },
+        {
+          "display_url": "pic.x.com/MR8p2knLSD",
+          "end": 108,
+          "expanded_url": "https://x.com/LiuliDreamm/status/1990703835028033589/photo/1",
+          "media_key": "3_1990703831190286337",
+          "start": 85,
+          "url": "https://t.co/MR8p2knLSD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991250184626450738",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990703835028033589",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LiuliDreamm: 好像开始有“人”染上这种坏习惯了\n大家都这样的话～琉璃也太容易了\n会很容易变得更懒的啦～\n还是说被这样对待会更爽？\n噗嗤～真是搞不懂欸 https://t.co/MR8p2knLSD"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1991250184626450738].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1991250184626450738",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1991250184626450738"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1380,
+        "media_key": "3_1990703832268222468",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6BmlpdbMAQbX99.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1277,
+        "media_key": "3_1990703830905094144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6BmlkYbgAANabb.jpg",
+        "width": 908
+      },
+      {
+        "height": 1972,
+        "media_key": "3_1990703831190286337",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6BmllcbMAERwQF.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990703832268222468",
+            "3_1990703830905094144",
+            "3_1990703831190286337"
+          ]
+        },
+        "author_id": "1219094177931317248",
+        "conversation_id": "1990703835028033589",
+        "created_at": "2025-11-18T08:49:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T09:49:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990703835028033589"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MR8p2knLSD",
+              "end": 91,
+              "expanded_url": "https://x.com/LiuliDreamm/status/1990703835028033589/photo/1",
+              "media_key": "3_1990703832268222468",
+              "start": 68,
+              "url": "https://t.co/MR8p2knLSD"
+            },
+            {
+              "display_url": "pic.x.com/MR8p2knLSD",
+              "end": 91,
+              "expanded_url": "https://x.com/LiuliDreamm/status/1990703835028033589/photo/1",
+              "media_key": "3_1990703830905094144",
+              "start": 68,
+              "url": "https://t.co/MR8p2knLSD"
+            },
+            {
+              "display_url": "pic.x.com/MR8p2knLSD",
+              "end": 91,
+              "expanded_url": "https://x.com/LiuliDreamm/status/1990703835028033589/photo/1",
+              "media_key": "3_1990703831190286337",
+              "start": 68,
+              "url": "https://t.co/MR8p2knLSD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990703835028033589",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 934,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "好像开始有“人”染上这种坏习惯了\n大家都这样的话～琉璃也太容易了\n会很容易变得更懒的啦～\n还是说被这样对待会更爽？\n噗嗤～真是搞不懂欸 https://t.co/MR8p2knLSD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n最最最最喜欢钱包们啦!\n天天挨骂真的不会腻嘛～\n擅长用爱意和温柔的语气俘虏钱包～\n联系方式→242184780←\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 77,
+                "username": "oricz233"
+              },
+              {
+                "end": 106,
+                "start": 97,
+                "username": "moelipoi"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "cutelingli"
+              },
+              {
+                "end": 146,
+                "start": 131,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 158,
+                "start": 151,
+                "username": "1xian1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍对钱包们最温柔最有好感版",
+        "pinned_tweet_id": "1976743806063063398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969152325731168256/ozl0k8K4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7930,
+          "following_count": 327,
+          "like_count": 638,
+          "listed_count": 35,
+          "media_count": 753,
+          "tweet_count": 2308
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-20T03:08:05.000Z",
+        "description": "希望你们追随我的原因，是源于我的人格魅力，而不是因我而起的欲望。\n可以随时找琉璃闲聊谈心。\n至于ATM君们~请直接给琉璃白给上贡~\n万一没了防走丢二号机@liulidemeng\n\n♡门牌2271099092♡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 76,
+                "username": "liulidemeng"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "afdian.com/a/liulidream",
+                "end": 23,
+                "expanded_url": "http://afdian.com/a/liulidream",
+                "start": 0,
+                "url": "https://t.co/MvcWdxVqmc"
+              }
+            ]
+          }
+        },
+        "id": "1219094177931317248",
+        "location": "最美好的记忆里",
+        "name": "琉璃",
+        "pinned_tweet_id": "1896084745261584610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947559304653115393/ux8L0jqu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5473,
+          "following_count": 100,
+          "like_count": 130,
+          "listed_count": 22,
+          "media_count": 418,
+          "tweet_count": 889
+        },
+        "url": "https://t.co/MvcWdxVqmc",
+        "username": "LiuliDreamm",
+        "verified": false
+      }
+    ]
+  }
+}

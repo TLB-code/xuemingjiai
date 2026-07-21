@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1928112708324577284"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "1928112600799223951",
+    "created_at": "2025-05-29T15:34:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-29T16:34:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928112711574888475"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MDEfG6wxpd",
+          "end": 165,
+          "expanded_url": "https://x.com/xuemingjiai/status/1928112711574888475/photo/1",
+          "media_key": "3_1928112708324577284",
+          "start": 142,
+          "url": "https://t.co/MDEfG6wxpd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928112711574888475",
+    "in_reply_to_user_id": "1374389254726455305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928112600799223951",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "是真正意义上的电死哦～毕竟失去了一切价值，已经白给完的虫虫就没有必要再活着了吧🖤\n会觉得本公主很冷酷无情吗？\n恰恰相反，正是这种极端的无情高压瞬间白给的快感会让虫虫们欲罢不能，活了几十年结果死亡只需要几秒钟，后面还有很多虫虫排着队等着本公主吸干之后看着屁股被电死呢，麻烦你快一点咯～ https://t.co/MDEfG6wxpd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1928112708324577284",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsIISuqaUAQndmi.jpg",
+        "width": 1358
+      },
+      {
+        "height": 968,
+        "media_key": "3_1928112598266040320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsIIMUqaUAAMeH4.jpg",
+        "width": 1004
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1928112708324577284"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "1928112600799223951",
+        "created_at": "2025-05-29T15:34:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-29T16:34:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928112711574888475"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MDEfG6wxpd",
+              "end": 165,
+              "expanded_url": "https://x.com/xuemingjiai/status/1928112711574888475/photo/1",
+              "media_key": "3_1928112708324577284",
+              "start": 142,
+              "url": "https://t.co/MDEfG6wxpd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928112711574888475",
+        "in_reply_to_user_id": "1374389254726455305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928112600799223951",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是真正意义上的电死哦～毕竟失去了一切价值，已经白给完的虫虫就没有必要再活着了吧🖤\n会觉得本公主很冷酷无情吗？\n恰恰相反，正是这种极端的无情高压瞬间白给的快感会让虫虫们欲罢不能，活了几十年结果死亡只需要几秒钟，后面还有很多虫虫排着队等着本公主吸干之后看着屁股被电死呢，麻烦你快一点咯～ https://t.co/MDEfG6wxpd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1928112598266040320"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "1928112600799223951",
+        "created_at": "2025-05-29T15:34:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-29T16:34:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928112600799223951"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "魔女公主的日常"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UayyKk5hjV",
+              "end": 162,
+              "expanded_url": "https://x.com/xuemingjiai/status/1928112600799223951/photo/1",
+              "media_key": "3_1928112598266040320",
+              "start": 139,
+              "url": "https://t.co/UayyKk5hjV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928112600799223951",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#魔女公主的日常\n最近来找本公主进行挑战的虫虫们越来越多了，为了节省时间增加效率，本公主研发了把高压电流和虫虫们下半身捆绑在一起的玩法💜\n在参加之前先上交所有的个人信息，上贡所有的财产，然后就可以参与挑战（白给）了，本公主的臀部会贴在玻璃上，虫虫们在发情勃起的瞬间就会被电死🖤 https://t.co/UayyKk5hjV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "集美貌，智慧，强大于一身的魔女族公主现身人世～区区人类，跪下向我表示臣服吧💜\n被我支配 控制 吸脑 成为奴仆💜\n挑战qq242184780，里世界小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858\n女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "oricz233"
+              },
+              {
+                "end": 104,
+                "start": 95,
+                "username": "moelipoi"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "cutelingli"
+              },
+              {
+                "end": 144,
+                "start": 129,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 155,
+                "start": 148,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏💜散播同化病毒中～",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926028406774247424/hWplRg7q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7035,
+          "following_count": 294,
+          "like_count": 331,
+          "listed_count": 32,
+          "media_count": 635,
+          "tweet_count": 1887
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

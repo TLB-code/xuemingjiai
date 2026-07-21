@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1980305426404225264",
+    "created_at": "2025-10-20T16:09:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T17:09:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980305426404225264"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1374389254726455305",
+          "start": 3,
+          "username": "xuemingjiai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980305426404225264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 32
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979283322175131973",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xuemingjiai: 叮～手机响了哦，是特别关心的提示音，而你唯一的特别关心是魔女奏奏公主殿下～\n不知道为什么，仅仅只是听见提示音，下面的操控杆就条件反射般勃起啦～这是已经被训好了嘛？\n你满怀期待的点进了聊天框，熟悉的背景图（奏奏公主赐予的）以及一张闪照...点开图…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1980305426404225264].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1980305426404225264",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1980305426404225264"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "alt_text": "嘻嘻💜被本公主吊着吸引进来啦，那就别想轻易逃掉哦～现在是硬控环节～\n本公主可是对着你这废柴抖m奏奏控奏压抑的杂鱼小雏男发起特攻M字开腿了呀～\n提问～想要对本公主做什么呢？\n想...把操控杆放进...?\n还是对着本公主...搓...?\n我说～你这舔狗钱包的笨蛋杂鱼脑袋都在幻想一些什么根本不可能发生的事情呀？\n你唯一能做的事情就是被本公主勾引发情上头跪下给本公主磕头哦💜\n然后～这其实是一篇久违的上门提款解决奏压抑的“陷阱”推文，目标就是收割舔狗钱包们口袋里的小金币～请毫不犹豫的点赞转发加评论，等待本公主对舔狗钱包进行逆推，把你的脑子和钱袋都轻轻的撬开哦～💜",
+        "height": 1870,
+        "media_key": "3_1979283317464674304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3fTsMdWsAAJptj.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979283317464674304"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "1979283322175131973",
+        "created_at": "2025-10-17T20:28:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T21:28:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979283322175131973"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FEw7fI0tCQ",
+              "end": 168,
+              "expanded_url": "https://x.com/xuemingjiai/status/1979283322175131973/photo/1",
+              "media_key": "3_1979283317464674304",
+              "start": 145,
+              "url": "https://t.co/FEw7fI0tCQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979283322175131973",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 6719,
+          "like_count": 117,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "叮～手机响了哦，是特别关心的提示音，而你唯一的特别关心是魔女奏奏公主殿下～\n不知道为什么，仅仅只是听见提示音，下面的操控杆就条件反射般勃起啦～这是已经被训好了嘛？\n你满怀期待的点进了聊天框，熟悉的背景图（奏奏公主赐予的）以及一张闪照...点开图片左下角的ALT吧🤍\n接受奏奏公主的告白吧♡ https://t.co/FEw7fI0tCQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n最最最最喜欢钱包们啦!\n天天挨骂真的不会腻嘛～\n擅长用爱意和温柔的语气俘虏钱包～\n联系方式→3971546171←\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 78,
+                "username": "oricz233"
+              },
+              {
+                "end": 107,
+                "start": 98,
+                "username": "moelipoi"
+              },
+              {
+                "end": 125,
+                "start": 114,
+                "username": "cutelingli"
+              },
+              {
+                "end": 147,
+                "start": 132,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 159,
+                "start": 152,
+                "username": "1xian1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARosxSy"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍对钱包们最温柔最有好感版",
+        "pinned_tweet_id": "1976743806063063398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969152325731168256/ozl0k8K4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7856,
+          "following_count": 330,
+          "like_count": 644,
+          "listed_count": 34,
+          "media_count": 743,
+          "tweet_count": 2262
+        },
+        "url": "https://t.co/le8ARosxSy",
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

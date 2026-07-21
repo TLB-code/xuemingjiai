@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1927182116782997504"
+      ],
+      "media_source_tweet_id": [
+        "1927182120729858478"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "1927613515302686988",
+    "created_at": "2025-05-28T06:30:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-28T07:30:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927613515302686988"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1782291909685444608",
+          "start": 3,
+          "username": "X1ranS"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FxYvnRz89v",
+          "end": 134,
+          "expanded_url": "https://x.com/X1ranS/status/1927182120729858478/photo/1",
+          "media_key": "3_1927182116782997504",
+          "start": 111,
+          "url": "https://t.co/FxYvnRz89v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927613515302686988",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 100
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927182120729858478",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @X1ranS: 傻屄贱畜的梦想不就是被剥夺人类的身份成为女爹们的吸臭脚垫～♡被女爹们各种靴子高跟鞋丝袜闷过的酸臭汗脚踩脸闷杀♡恶臭的脚泥和酸汗全部蹭在你的废物猪脸上～被不同玉足散发的足臭和雌雾熏到丧志翻白眼～♡… https://t.co/FxYvnRz89v"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1927613515302686988].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1927613515302686988",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1927613515302686988"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1561,
+        "media_key": "3_1927182116782997504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr657LBWAAAgvld.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1927182116782997504"
+          ]
+        },
+        "author_id": "1782291909685444608",
+        "conversation_id": "1927182120729858478",
+        "created_at": "2025-05-27T01:56:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T02:56:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927182120729858478"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FxYvnRz89v",
+              "end": 121,
+              "expanded_url": "https://x.com/X1ranS/status/1927182120729858478/photo/1",
+              "media_key": "3_1927182116782997504",
+              "start": 98,
+              "url": "https://t.co/FxYvnRz89v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927182120729858478",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "傻屄贱畜的梦想不就是被剥夺人类的身份成为女爹们的吸臭脚垫～♡被女爹们各种靴子高跟鞋丝袜闷过的酸臭汗脚踩脸闷杀♡恶臭的脚泥和酸汗全部蹭在你的废物猪脸上～被不同玉足散发的足臭和雌雾熏到丧志翻白眼～♡\n被臭脚包围吸臭吸到缺氧～大脑暴毙脑细胞被足臭融化～被臭脚改造人格♡看见臭脚就会无脑跪伏磕头送死祈求被酸臭玉足夺取一切～的～大～傻～逼～脚垫♡"
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 63,
+          "impression_count": 15240,
+          "like_count": 349,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 100
+        },
+        "reply_settings": "everyone",
+        "text": "傻屄贱畜的梦想不就是被剥夺人类的身份成为女爹们的吸臭脚垫～♡被女爹们各种靴子高跟鞋丝袜闷过的酸臭汗脚踩脸闷杀♡恶臭的脚泥和酸汗全部蹭在你的废物猪脸上～被不同玉足散发的足臭和雌雾熏到丧志翻白眼～♡ https://t.co/FxYvnRz89v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "集美貌，智慧，强大于一身的魔女族公主现身人世～区区人类，跪下向我表示臣服吧💜\n被我支配 控制 吸脑 成为奴仆💜\n挑战qq242184780，里世界小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858\n女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "oricz233"
+              },
+              {
+                "end": 104,
+                "start": 95,
+                "username": "moelipoi"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "cutelingli"
+              },
+              {
+                "end": 144,
+                "start": 129,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 155,
+                "start": 148,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏💜强势登场人间",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926028406774247424/hWplRg7q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7021,
+          "following_count": 290,
+          "like_count": 323,
+          "listed_count": 32,
+          "media_count": 621,
+          "tweet_count": 1865
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-22T06:14:56.000Z",
+        "description": "是文援哦💖文爱和树洞聊天价格是30r/0.5h～💕〖22点以后涨价10r〗💕门牌号3378895338（门槛10r不抵）欢迎同好小可爱敲门哦❤️〖不涉三不语音〗💗\n老公：@_Shogun_111❤️老婆：@KendallRat17471 @Charlotte_Lucif 徒儿：@Deprive_U",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 85,
+                "username": "_Shogun_111"
+              },
+              {
+                "end": 118,
+                "start": 102,
+                "username": "KendallRat17471"
+              },
+              {
+                "end": 135,
+                "start": 119,
+                "username": "Charlotte_Lucif"
+              },
+              {
+                "end": 149,
+                "start": 139,
+                "username": "Deprive_U"
+              }
+            ]
+          }
+        },
+        "id": "1782291909685444608",
+        "location": "丝足地狱🖤拜入汐门💜",
+        "name": "汐染sama💕〖文媛🖤互推私〗",
+        "pinned_tweet_id": "1927182120729858478",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878653540920590336/9t-jhWWm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11242,
+          "following_count": 187,
+          "like_count": 6072,
+          "listed_count": 51,
+          "media_count": 116,
+          "tweet_count": 6756
+        },
+        "username": "X1ranS",
+        "verified": true
+      }
+    ]
+  }
+}

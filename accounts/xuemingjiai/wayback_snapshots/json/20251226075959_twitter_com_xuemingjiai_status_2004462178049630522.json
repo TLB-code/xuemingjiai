@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "2004462178049630522",
+    "created_at": "2025-12-26T07:59:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-26T08:59:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004462178049630522"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 17,
+          "start": 12,
+          "tag": "女同性恋"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1930531252576337920",
+          "start": 3,
+          "username": "Mocxya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004462178049630522",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 28
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960574448349729164",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Mocxya: #女同性恋 妈妈…操我\n穴中光滑没有褶皱的地方被不断按压，漏出一股股不知是淫水还是尿液的混合物\n快高潮的瞬间停止刺激，全身抖如筛糠头颅高高扬起又被束手向下撕扯窒息，像一条真正的母狗随地排泄尿液\n乳头隔着衣物摩擦桌面直到红肿发痒\n眼角的泪混合口球下的口水滴…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2004462178049630522].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2004462178049630522",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2004462178049630522"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1424,
+        "media_key": "3_1960574421099274240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzVcDGVW4AAbXTG.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960574421099274240"
+          ]
+        },
+        "author_id": "1930531252576337920",
+        "conversation_id": "1960574448349729164",
+        "created_at": "2025-08-27T05:25:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T06:25:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960574448349729164"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "女同性恋"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fLsTwy2RtU",
+              "end": 167,
+              "expanded_url": "https://x.com/Mocxya/status/1960574448349729164/photo/1",
+              "media_key": "3_1960574421099274240",
+              "start": 144,
+              "url": "https://t.co/fLsTwy2RtU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960574448349729164",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 19354,
+          "like_count": 178,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "#女同性恋 妈妈…操我\n穴中光滑没有褶皱的地方被不断按压，漏出一股股不知是淫水还是尿液的混合物\n快高潮的瞬间停止刺激，全身抖如筛糠头颅高高扬起又被束手向下撕扯窒息，像一条真正的母狗随地排泄尿液\n乳头隔着衣物摩擦桌面直到红肿发痒\n眼角的泪混合口球下的口水滴滴答答，呜咽的声音伴随淫荡的喘息 https://t.co/fLsTwy2RtU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🖤\n最最最最喜欢钱包们啦～\n联系方式→2829556413←\n病毒小号@oricz233\n现任魔女学园院长!\n星辰魔女镜璃\n@jingli1840489\n桃心魔女奈奈\n@blakexiaonai\n 黑白魔女花卷\n@miaomiaomi17630",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 49,
+                "username": "oricz233"
+              },
+              {
+                "end": 90,
+                "start": 76,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 111,
+                "start": 98,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 136,
+                "start": 120,
+                "username": "miaomiaomi17630"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARosxSy"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🖤魔女学园院长版～",
+        "pinned_tweet_id": "1976743806063063398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003754231543562240/7Kw6lKLr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8088,
+          "following_count": 336,
+          "like_count": 648,
+          "listed_count": 37,
+          "media_count": 767,
+          "tweet_count": 2386
+        },
+        "url": "https://t.co/le8ARosxSy",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-05T07:45:06.000Z",
+        "description": "皮下女生 🌈0/无可救药的抖m 167/85无期迷途重度依赖\n爱自残无理取闹一点二次元。喜欢强制爱\n接文单男女都接什么类型都擅长le i  iiii sm以及各种口味的xp\n联系方式3674334595是接单小号有20🚪",
+        "id": "1930531252576337920",
+        "name": "抹茶（互推私",
+        "pinned_tweet_id": "1960574448349729164",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930580642527428608/a0wwu4eN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1354,
+          "following_count": 57,
+          "like_count": 963,
+          "listed_count": 4,
+          "media_count": 23,
+          "tweet_count": 132
+        },
+        "username": "Mocxya",
+        "verified": false
+      }
+    ]
+  }
+}

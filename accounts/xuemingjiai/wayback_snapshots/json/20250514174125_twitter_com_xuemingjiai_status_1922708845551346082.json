@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1921983883983388674",
+        "3_1921983883912044544"
+      ],
+      "media_source_tweet_id": [
+        "1921983886793359465",
+        "1921983886793359465"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "1922708845551346082",
+    "created_at": "2025-05-14T17:41:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-14T18:41:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922708845551346082"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1921832227996119040",
+          "start": 3,
+          "username": "shilingww"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XbddAJ0vRT",
+          "end": 48,
+          "expanded_url": "https://x.com/shiyao461664/status/1921983886793359465/photo/1",
+          "media_key": "3_1921983883983388674",
+          "start": 25,
+          "url": "https://t.co/XbddAJ0vRT"
+        },
+        {
+          "display_url": "pic.x.com/XbddAJ0vRT",
+          "end": 48,
+          "expanded_url": "https://x.com/shiyao461664/status/1921983886793359465/photo/1",
+          "media_key": "3_1921983883912044544",
+          "start": 25,
+          "url": "https://t.co/XbddAJ0vRT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922708845551346082",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921983886793359465",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shilingww: 以下是接单项目哦~ https://t.co/XbddAJ0vRT"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1922708845551346082].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1922708845551346082",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1922708845551346082"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1795,
+        "media_key": "3_1921983883983388674",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqxCKMzbAAIvv1A.jpg",
+        "width": 1260
+      },
+      {
+        "height": 720,
+        "media_key": "3_1921983883912044544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqxCKMiaYAAJx8y.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1921983883983388674",
+            "3_1921983883912044544"
+          ]
+        },
+        "author_id": "1921832227996119040",
+        "conversation_id": "1921983886793359465",
+        "created_at": "2025-05-12T17:40:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T18:40:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921983886793359465"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XbddAJ0vRT",
+              "end": 33,
+              "expanded_url": "https://x.com/shiyao461664/status/1921983886793359465/photo/1",
+              "media_key": "3_1921983883983388674",
+              "start": 10,
+              "url": "https://t.co/XbddAJ0vRT"
+            },
+            {
+              "display_url": "pic.x.com/XbddAJ0vRT",
+              "end": 33,
+              "expanded_url": "https://x.com/shiyao461664/status/1921983886793359465/photo/1",
+              "media_key": "3_1921983883912044544",
+              "start": 10,
+              "url": "https://t.co/XbddAJ0vRT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921983886793359465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 360,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "以下是接单项目哦~ https://t.co/XbddAJ0vRT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "集美貌，智慧，强大于一身的魔女族公主现身人世～区区人类，跪下向我表示臣服吧💜\n被我支配 控制 吸脑 成为奴仆💜\n挑战qq242184780，里世界小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858\n女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "oricz233"
+              },
+              {
+                "end": 104,
+                "start": 95,
+                "username": "moelipoi"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "cutelingli"
+              },
+              {
+                "end": 144,
+                "start": 129,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 155,
+                "start": 148,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏💜强势登场人间",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922178521235128320/5seow5Nb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6850,
+          "following_count": 282,
+          "like_count": 309,
+          "listed_count": 30,
+          "media_count": 599,
+          "tweet_count": 1775
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-12T07:38:15.000Z",
+        "description": "这里是新人文媛姬诗铃~是喜欢欺负可爱的小男生♡也会好好侍奉雄性的萝莉魅魔哟~♡毕竟~这是魅魔的~进食环节♡呢~欢迎客人来访~那么~也还请客人做好被人家榨干当做魅魔食粮的准备呐♡门牌3800716151",
+        "id": "1921832227996119040",
+        "name": "诗铃♡文援(欢迎互推~)",
+        "pinned_tweet_id": "1921983886793359465",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921832879211868160/7vVBIpnT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 72,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 17
+        },
+        "username": "shilingww",
+        "verified": false
+      }
+    ]
+  }
+}

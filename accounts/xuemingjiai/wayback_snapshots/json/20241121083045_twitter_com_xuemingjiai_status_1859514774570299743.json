@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1859514774570299743",
+    "created_at": "2024-11-21T08:30:45.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-21T09:30:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1859514774570299743"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1855050411830591488",
+          "start": 3,
+          "username": "tiannimiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1859514774570299743",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1857441956257001837",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tiannimiao: 发现有很多喜欢催眠的客人～所以发布一篇免费的任务推文哦～\n先想象一下自己最希望被催眠成什么样子～（比如变成鞋子～袜子～坐垫等等）\n想好以后要在一整天的时间，光靠想象这件事情完成3次勃起～中间间隔最少半小时～（勃起然后再软算一次）\n3次想象勃起对应…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1859514774570299743].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1859514774570299743",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1859514774570299743"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1857441948141031424"
+          ]
+        },
+        "author_id": "1855050411830591488",
+        "conversation_id": "1857441956257001837",
+        "created_at": "2024-11-15T15:14:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-15T16:14:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1857441956257001837"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yb2DqrQzG3",
+              "end": 159,
+              "expanded_url": "https://x.com/tiannimiao/status/1857441956257001837/photo/1",
+              "media_key": "3_1857441948141031424",
+              "start": 136,
+              "url": "https://t.co/yb2DqrQzG3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857441956257001837",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 4233,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "发现有很多喜欢催眠的客人～所以发布一篇免费的任务推文哦～\n先想象一下自己最希望被催眠成什么样子～（比如变成鞋子～袜子～坐垫等等）\n想好以后要在一整天的时间，光靠想象这件事情完成3次勃起～中间间隔最少半小时～（勃起然后再软算一次）\n3次想象勃起对应的内容分别为:（往下划） https://t.co/yb2DqrQzG3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "超绝可爱💖\n她就是出道即巅峰的可爱纯真小天使新人偶像魔女小姐💖\n对这样的魔女小姐不能心怀任何涩涩的念想哦，不然就会变得非常糟糕...踏入无法挣脱的陷阱和牢笼里呢💘\n魔女小姐无论说什么做什么都是正确的哦，身为她的粉丝，只需要无条件用各种方式支持她就好了～\nqq2829556413，碎碎念小号@oricz233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 154,
+                "start": 145,
+                "username": "oricz233"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "老婆@cutelingli",
+        "name": "电波系新人偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854618482215911424/R3TTJuCj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5937,
+          "following_count": 238,
+          "like_count": 195,
+          "listed_count": 25,
+          "tweet_count": 1369
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-09T00:51:14.000Z",
+        "description": "这里是甜腻酱～是某退役文援姬的任务发布系统～喜好是给听话的小m发布羞耻涩情任务～目前随机任务5.2金币～根据性癖定制任务9.9金币❤️门槛10金币～（可以用来抵扣任务）门牌号3868524342，有空的话可闲聊，不涉三～",
+        "id": "1855050411830591488",
+        "name": "甜腻酱",
+        "pinned_tweet_id": "1855566145350504710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855050575643336704/hcQ920vW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 9,
+          "like_count": 2,
+          "listed_count": 1,
+          "tweet_count": 7
+        },
+        "username": "tiannimiao",
+        "verified": false
+      }
+    ]
+  }
+}

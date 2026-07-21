@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1931771682194342249",
+    "created_at": "2025-06-08T17:53:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-08T18:53:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931771682194342249"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1485155475498831874",
+          "start": 3,
+          "username": "MeQingYun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931771682194342249",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 39
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931591555963650053",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MeQingYun: 漂泊者~🖤你再怎么努力~也改变不了你是个废物早泄绿王八的可悲事实哦~🖤你那丢人的滑稽模样我到现在都还记得呢~🖤不自量力的发起什么【男性功能决斗】叫嚣着要从黑爹手里夺回人家~🖤呵呵~结果我只是用足趾夹了一下你的小肉虫，没想到你竟然立刻就滑精光速败北投…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1931771682194342249].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1931771682194342249",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1931771682194342249"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 3600,
+        "media_key": "3_1931591145005719552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs5j6ZFbIAAmrIT.jpg",
+        "width": 2229
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1931591145005719552"
+          ]
+        },
+        "author_id": "1485155475498831874",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1931591555963650053",
+        "created_at": "2025-06-08T05:58:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T06:58:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931591555963650053"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xNGplBOZo2",
+              "end": 168,
+              "expanded_url": "https://x.com/MeQingYun/status/1931591555963650053/photo/1",
+              "media_key": "3_1931591145005719552",
+              "start": 145,
+              "url": "https://t.co/xNGplBOZo2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931591555963650053",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 293,
+                "start": 290,
+                "tag": "文媛"
+              },
+              {
+                "end": 297,
+                "start": 294,
+                "tag": "媚黑"
+              },
+              {
+                "end": 301,
+                "start": 298,
+                "tag": "绿帽"
+              },
+              {
+                "end": 306,
+                "start": 302,
+                "tag": "NTR"
+              },
+              {
+                "end": 311,
+                "start": 307,
+                "tag": "QOS"
+              },
+              {
+                "end": 315,
+                "start": 312,
+                "tag": "反差"
+              }
+            ]
+          },
+          "text": "漂泊者~🖤你再怎么努力~也改变不了你是个废物早泄绿王八的可悲事实哦~🖤你那丢人的滑稽模样我到现在都还记得呢~🖤不自量力的发起什么【男性功能决斗】叫嚣着要从黑爹手里夺回人家~🖤呵呵~结果我只是用足趾夹了一下你的小肉虫，没想到你竟然立刻就滑精光速败北投降了~🖤真是有够废物的~🖤承认吧~漂泊者🖤你在大黑鸡巴面前~根本就是一文不值，你那可怜的男性尊严被大黑鸡巴碾碎成渣才是真实而又可悲的现状~🖤明确的通知你一下好了~🖤你现在能做的，只有像条狗一样跪在地上磕头致谢~🖤窥视着我自然垂落的足尖，在我的脚下屈辱可悲的无脑滑精~🖤这才是你应该做的事哦~🖤明白了吗？废物早泄阳痿绿帽王八漂泊者~🖤#文媛 #媚黑 #绿帽 #NTR #QOS #反差"
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 6684,
+          "like_count": 190,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "漂泊者~🖤你再怎么努力~也改变不了你是个废物早泄绿王八的可悲事实哦~🖤你那丢人的滑稽模样我到现在都还记得呢~🖤不自量力的发起什么【男性功能决斗】叫嚣着要从黑爹手里夺回人家~🖤呵呵~结果我只是用足趾夹了一下你的小肉虫，没想到你竟然立刻就滑精光速败北投降了~🖤真是有够废物的~🖤承认吧~漂泊者 https://t.co/xNGplBOZo2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n你也会因为窥视我的美貌而心甘情愿沦为钱包被我使用的对吗？\n钱包报名入口：242184780\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 66,
+                "username": "oricz233"
+              },
+              {
+                "end": 95,
+                "start": 86,
+                "username": "moelipoi"
+              },
+              {
+                "end": 113,
+                "start": 102,
+                "username": "cutelingli"
+              },
+              {
+                "end": 135,
+                "start": 120,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 147,
+                "start": 140,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍瞄准钱包👛中",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931064828044713984/9qwnduVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7155,
+          "following_count": 297,
+          "like_count": 343,
+          "listed_count": 33,
+          "media_count": 660,
+          "tweet_count": 1963
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-23T07:40:46.000Z",
+        "description": "门牌号2790468154❤️入圈已有四年，较擅长的是榨精❤️调情寸止❤️NTR类剧情❤️媚黑只是XP，勿要入脑❤️擅长长文对戏以及各种脑洞大开的玩法，有想玩的剧情都可以来戳，价格是70/小时～40/0.5小时\n小号：@YunQing0915\n来不及回复可以去这里https://t.co/WNHwBf0PHX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 109,
+                "username": "YunQing0915"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/yueqingyun",
+                "end": 155,
+                "expanded_url": "https://t.me/yueqingyun",
+                "start": 132,
+                "url": "https://t.co/WNHwBf0PHX"
+              }
+            ]
+          }
+        },
+        "id": "1485155475498831874",
+        "location": "你心里",
+        "name": "清云🖤",
+        "pinned_tweet_id": "1804376109817172192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779128146186379264/LFfTwJkS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14643,
+          "following_count": 122,
+          "like_count": 2470,
+          "listed_count": 79,
+          "media_count": 209,
+          "tweet_count": 3024
+        },
+        "username": "MeQingYun",
+        "verified": true
+      }
+    ]
+  }
+}

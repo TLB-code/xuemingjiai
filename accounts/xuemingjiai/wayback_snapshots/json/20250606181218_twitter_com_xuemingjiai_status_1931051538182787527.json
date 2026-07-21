@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1931051538182787527",
+    "created_at": "2025-06-06T18:12:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-06T19:12:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931051538182787527"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1830576349469409281",
+          "start": 3,
+          "username": "Uuu1032292"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931051538182787527",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930944358490263813",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Uuu1032292: 明明是你自己主动把钱钱送上来的，为什么现在还这么害羞呢？♡\n一边喊着“不行了”，一边又乖乖打开转账页面，好可爱喔~\n\n其实你早就习惯了吧？\n把自己的愉悦、控制权、甚至钱包都交给我。\n每一次上贡，都让你更离不开我一点点，不是吗？\n\n唔～不知不觉已经…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1930944355944341504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GswXqUEboAAKSo9.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "1931051538182787527",
+        "created_at": "2025-06-06T18:12:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-06T19:12:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931051538182787527"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1830576349469409281",
+              "start": 3,
+              "username": "Uuu1032292"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931051538182787527",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930944358490263813",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Uuu1032292: 明明是你自己主动把钱钱送上来的，为什么现在还这么害羞呢？♡\n一边喊着“不行了”，一边又乖乖打开转账页面，好可爱喔~\n\n其实你早就习惯了吧？\n把自己的愉悦、控制权、甚至钱包都交给我。\n每一次上贡，都让你更离不开我一点点，不是吗？\n\n唔～不知不觉已经…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930944355944341504"
+          ]
+        },
+        "author_id": "1830576349469409281",
+        "conversation_id": "1930944358490263813",
+        "created_at": "2025-06-06T11:06:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-06T12:06:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930944358490263813"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C7GjsT2BOM",
+              "end": 152,
+              "expanded_url": "https://x.com/Uuu1032292/status/1930944358490263813/photo/1",
+              "media_key": "3_1930944355944341504",
+              "start": 129,
+              "url": "https://t.co/C7GjsT2BOM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930944358490263813",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "明明是你自己主动把钱钱送上来的，为什么现在还这么害羞呢？♡\n一边喊着“不行了”，一边又乖乖打开转账页面，好可爱喔~\n\n其实你早就习惯了吧？\n把自己的愉悦、控制权、甚至钱包都交给我。\n每一次上贡，都让你更离不开我一点点，不是吗？\n\n唔～不知不觉已经成瘾了吧？\n刷着那些关于「上贡」的图文，光是想象就让你心跳加速了呢。\n\n你努力赚钱的样子，我当然知道呀～\n但是越是辛苦挣来的，交给我时才越让你兴奋对吧？\n\n真是个乖孩子♡\n已经没法回头了哦♡"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1000,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "明明是你自己主动把钱钱送上来的，为什么现在还这么害羞呢？♡\n一边喊着“不行了”，一边又乖乖打开转账页面，好可爱喔~\n\n其实你早就习惯了吧？\n把自己的愉悦、控制权、甚至钱包都交给我。\n每一次上贡，都让你更离不开我一点点，不是吗？\n\n唔～不知不觉已经成瘾了吧？ https://t.co/C7GjsT2BOM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "集美貌，智慧，强大于一身的魔女族公主现身人世～区区人类，跪下向我表示臣服吧💜\n被我支配 控制 吸脑 成为奴仆💜\n挑战qq2829556413，里世界小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858\n女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 76,
+                "username": "oricz233"
+              },
+              {
+                "end": 105,
+                "start": 96,
+                "username": "moelipoi"
+              },
+              {
+                "end": 123,
+                "start": 112,
+                "username": "cutelingli"
+              },
+              {
+                "end": 145,
+                "start": 130,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 156,
+                "start": 149,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏💜散播同化病毒中～",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926028406774247424/hWplRg7q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7133,
+          "following_count": 297,
+          "like_count": 340,
+          "listed_count": 33,
+          "media_count": 650,
+          "tweet_count": 1931
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-02T11:59:53.000Z",
+        "description": "可爱的男孩子，想要白给的私信口令红包，或者自己来要账单。",
+        "id": "1830576349469409281",
+        "location": "日本 （是男生）",
+        "name": "千雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875116629794975744/Jl20cdFa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 72,
+          "like_count": 174,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 112
+        },
+        "username": "Uuu1032292",
+        "verified": true
+      }
+    ]
+  }
+}

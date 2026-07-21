@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1923761700907647455",
+    "created_at": "2025-05-17T15:25:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-17T16:25:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923761700907647455"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1545077939510730752",
+          "start": 3,
+          "username": "molijiushiruci1"
+        },
+        {
+          "end": 36,
+          "id": "1752181716028936192",
+          "start": 28,
+          "username": "geye_zm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923761700907647455",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923722615748952128",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @molijiushiruci1: 感谢由葛叶同学@geye_zm为茉莉制作的抖m向文游～暂定价格是40r哦\n————————————————\n魔女茉莉为害一方，\n而身为勇者的你，\n有着无比强大的力量，\n请踏上征讨魔女的征程吧♡\n嗯～一定能很轻松的打败她不是吗？\n被弱小的…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1923761700907647455].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1923761700907647455",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1923761700907647455"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "alt_text": "要是实在忍不住败北的欲望，想要直接对着茉莉的黑丝足底磕头认输的话～就请在一开始向『左』走哦，贱畜勇者🖤\n",
+        "height": 1869,
+        "media_key": "3_1923722610623336448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrJvhaSXUAA_ewJ.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1923722610623336448"
+          ]
+        },
+        "author_id": "1545077939510730752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1923722615748952128",
+        "created_at": "2025-05-17T12:49:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T13:49:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1923722615748952128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1752181716028936192",
+              "start": 7,
+              "username": "geye_zm"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4yYcxupPGQ",
+              "end": 177,
+              "expanded_url": "https://x.com/molijiushiruci1/status/1923722615748952128/photo/1",
+              "media_key": "3_1923722610623336448",
+              "start": 154,
+              "url": "https://t.co/4yYcxupPGQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923722615748952128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1513,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "感谢由葛叶同学@geye_zm为茉莉制作的抖m向文游～暂定价格是40r哦\n————————————————\n魔女茉莉为害一方，\n而身为勇者的你，\n有着无比强大的力量，\n请踏上征讨魔女的征程吧♡\n嗯～一定能很轻松的打败她不是吗？\n被弱小的魔女『控制』～『戏耍』～乃至『榨取』这种事……\n一定不会发生的～对吧🖤 https://t.co/4yYcxupPGQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "集美貌，智慧，强大于一身的魔女族公主现身人世～区区人类，跪下向我表示臣服吧💜\n被我支配 控制 吸脑 成为奴仆💜\n挑战qq242184780，里世界小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858\n女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "oricz233"
+              },
+              {
+                "end": 104,
+                "start": 95,
+                "username": "moelipoi"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "cutelingli"
+              },
+              {
+                "end": 144,
+                "start": 129,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 155,
+                "start": 148,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏💜强势登场人间",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923161284247420929/dv1s2unV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6908,
+          "following_count": 283,
+          "like_count": 314,
+          "listed_count": 31,
+          "media_count": 609,
+          "tweet_count": 1805
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-07T16:11:11.000Z",
+        "description": "一个擅长气味调教与羞辱的扶她魅魔女仆🖤加咱的时候记的带20r门槛哦，门牌见置顶推评论区，tg：https://t.co/kNKviCT2T9 \n点击偷窥茉莉私生活→@MaidmoliS",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 82,
+                "username": "MaidmoliS"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/moli_0312",
+                "end": 70,
+                "expanded_url": "http://t.me/moli_0312",
+                "start": 47,
+                "url": "https://t.co/kNKviCT2T9"
+              }
+            ]
+          }
+        },
+        "id": "1545077939510730752",
+        "location": "在你的心里~或是踩在你的脸上♡",
+        "name": "魅魔女仆🤍茉莉（可爱限定♡）",
+        "pinned_tweet_id": "1769765224091918487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917803199605694464/Zdgs57A3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14864,
+          "following_count": 403,
+          "like_count": 2228,
+          "listed_count": 37,
+          "media_count": 340,
+          "tweet_count": 5795
+        },
+        "username": "molijiushiruci1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-30T04:07:37.000Z",
+        "description": "这里是葛叶真明，游戏创作者，创作各类文游，内容涵盖寸止，窒息，辱骂等虽然写的内容都是s的但其实自己是m，欢迎各位同行扩列互推～\n买游戏找客服:@Medicyli",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 71,
+                "username": "Medicyli"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+Zqurf7RUye42M…",
+                "end": 23,
+                "expanded_url": "https://t.me/+Zqurf7RUye42MzM1",
+                "start": 0,
+                "url": "https://t.co/MW0XxdoPce"
+              }
+            ]
+          }
+        },
+        "id": "1752181716028936192",
+        "location": "游戏作者",
+        "name": "葛叶真明",
+        "pinned_tweet_id": "1918988939119177751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919451956390854656/mLuuHJAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7760,
+          "following_count": 130,
+          "like_count": 64,
+          "listed_count": 16,
+          "media_count": 48,
+          "tweet_count": 586
+        },
+        "url": "https://t.co/MW0XxdoPce",
+        "username": "geye_zm",
+        "verified": false
+      }
+    ]
+  }
+}

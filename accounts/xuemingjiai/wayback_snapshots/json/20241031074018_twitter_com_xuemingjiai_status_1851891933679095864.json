@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1849650764265947136",
+        "3_1849650764777676800"
+      ],
+      "media_source_tweet_id": [
+        "1849650772453331205",
+        "1849650772453331205"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "1851891933679095864",
+    "created_at": "2024-10-31T07:40:18.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-31T08:40:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1851891933679095864"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1668855095348563973",
+          "start": 3,
+          "username": "qnxxxxx1333"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/u0BNdMwcJ2",
+          "end": 68,
+          "expanded_url": "https://x.com/qnxxxxx1333/status/1849650772453331205/photo/1",
+          "media_key": "3_1849650764265947136",
+          "start": 45,
+          "url": "https://t.co/u0BNdMwcJ2"
+        },
+        {
+          "display_url": "pic.x.com/u0BNdMwcJ2",
+          "end": 68,
+          "expanded_url": "https://x.com/qnxxxxx1333/status/1849650772453331205/photo/1",
+          "media_key": "3_1849650764777676800",
+          "start": 45,
+          "url": "https://t.co/u0BNdMwcJ2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1851891933679095864",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 120
+    },
+    "referenced_tweets": [
+      {
+        "id": "1849650772453331205",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qnxxxxx1333: 账号居然被冻结了…\n开新号了\n关注转发点赞可领取文游。 https://t.co/u0BNdMwcJ2"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1851891933679095864].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1851891933679095864",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1851891933679095864"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1861,
+        "media_key": "3_1849650764265947136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GatHkfqaAAAbHc_.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1852,
+        "media_key": "3_1849650764777676800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GatHkhkaYAA0vjZ.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1849650764265947136",
+            "3_1849650764777676800"
+          ]
+        },
+        "author_id": "1668855095348563973",
+        "conversation_id": "1849650772453331205",
+        "created_at": "2024-10-25T03:14:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-25T04:14:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1849650772453331205"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/u0BNdMwcJ2",
+              "end": 51,
+              "expanded_url": "https://x.com/qnxxxxx1333/status/1849650772453331205/photo/1",
+              "media_key": "3_1849650764265947136",
+              "start": 28,
+              "url": "https://t.co/u0BNdMwcJ2"
+            },
+            {
+              "display_url": "pic.x.com/u0BNdMwcJ2",
+              "end": 51,
+              "expanded_url": "https://x.com/qnxxxxx1333/status/1849650772453331205/photo/1",
+              "media_key": "3_1849650764777676800",
+              "start": 28,
+              "url": "https://t.co/u0BNdMwcJ2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1849650772453331205",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 9545,
+          "like_count": 160,
+          "quote_count": 1,
+          "reply_count": 17,
+          "retweet_count": 120
+        },
+        "reply_settings": "everyone",
+        "text": "账号居然被冻结了…\n开新号了\n关注转发点赞可领取文游。 https://t.co/u0BNdMwcJ2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "超绝可爱💖\n她就是出道即巅峰的可爱纯真小天使新人偶像魔女小姐💖\n对这样的魔女小姐不能心怀任何涩涩的念想哦，不然就会变得非常糟糕...踏入无法挣脱的陷阱和牢笼里呢💘\n魔女小姐无论说什么做什么都是正确的哦，身为她的粉丝，只需要无条件用各种方式支持她就好了～\nqq2829556413",
+        "id": "1374389254726455305",
+        "name": "电波系新人偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851527988380315648/MjAgrWHr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5721,
+          "following_count": 215,
+          "like_count": 181,
+          "listed_count": 23,
+          "tweet_count": 1239
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-14T05:37:39.000Z",
+        "description": "最喜欢让贱狗痛不欲生的月月🖤sama～最喜欢压榨&胁迫上贡白给的小狗。想无脑上贡销金的ATM们跪过来吧。\n文游收支付宝口令私信～\nQQ3993065220",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/wxhnwxhn",
+                "end": 23,
+                "expanded_url": "http://t.me/wxhnwxhn",
+                "start": 0,
+                "url": "https://t.co/9vgbcoM4Vh"
+              }
+            ]
+          }
+        },
+        "id": "1668855095348563973",
+        "location": "大号被冻结的QwQ的男娘",
+        "name": "☁️月月sama🌙（互推）",
+        "pinned_tweet_id": "1849650772453331205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849649590636773377/i26eSfJQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 134,
+          "like_count": 43,
+          "listed_count": 0,
+          "tweet_count": 23
+        },
+        "url": "https://t.co/9vgbcoM4Vh",
+        "username": "qnxxxxx1333",
+        "verified": false
+      }
+    ]
+  }
+}

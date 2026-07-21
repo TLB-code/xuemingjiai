@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1932033001007063165",
+    "created_at": "2025-06-09T11:12:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-09T12:12:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932033001007063165"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1846619768574619648",
+          "start": 3,
+          "username": "Anon_2061"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932033001007063165",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931918321022283899",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Anon_2061: 送死之后不只是钱包被爱音彻底清空，就连身份信息也一起贡上来被爱音彻底掌握~🖤这样真的好吗？\n对贱狗来说当然是真的好吧w，毕竟唯二能上贡的也就这两个了不是吗？\n看着爱音，贡瘾却戒不掉，想到爱音的形象手就忍不住想上贡金钱\n话说，人家还给留了饭钱，还真是…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1932033001007063165].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1932033001007063165",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1932033001007063165"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1931918314017861632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs-NeIobMAA9nJl.jpg",
+        "width": 274
+      },
+      {
+        "height": 2112,
+        "media_key": "3_1931918314647027712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs-NeK-bgAAy98y.jpg",
+        "width": 314
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1931918314915467264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs-NeL-bkAALBG3.jpg",
+        "width": 318
+      },
+      {
+        "height": 2228,
+        "media_key": "3_1931918314370146304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs-NeJ8aoAAbfyO.jpg",
+        "width": 317
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1931918314017861632",
+            "3_1931918314647027712",
+            "3_1931918314915467264",
+            "3_1931918314370146304"
+          ]
+        },
+        "author_id": "1846619768574619648",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1931918321022283899",
+        "created_at": "2025-06-09T03:36:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T04:36:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931918321022283899"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 142,
+              "start": 135,
+              "tag": "findom"
+            },
+            {
+              "end": 148,
+              "start": 143,
+              "tag": "ATM奴"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2DDIa6OeLh",
+              "end": 172,
+              "expanded_url": "https://x.com/Anon_2061/status/1931918321022283899/photo/1",
+              "media_key": "3_1931918314017861632",
+              "start": 149,
+              "url": "https://t.co/2DDIa6OeLh"
+            },
+            {
+              "display_url": "pic.x.com/2DDIa6OeLh",
+              "end": 172,
+              "expanded_url": "https://x.com/Anon_2061/status/1931918321022283899/photo/1",
+              "media_key": "3_1931918314647027712",
+              "start": 149,
+              "url": "https://t.co/2DDIa6OeLh"
+            },
+            {
+              "display_url": "pic.x.com/2DDIa6OeLh",
+              "end": 172,
+              "expanded_url": "https://x.com/Anon_2061/status/1931918321022283899/photo/1",
+              "media_key": "3_1931918314915467264",
+              "start": 149,
+              "url": "https://t.co/2DDIa6OeLh"
+            },
+            {
+              "display_url": "pic.x.com/2DDIa6OeLh",
+              "end": 172,
+              "expanded_url": "https://x.com/Anon_2061/status/1931918321022283899/photo/1",
+              "media_key": "3_1931918314370146304",
+              "start": 149,
+              "url": "https://t.co/2DDIa6OeLh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931918321022283899",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 380,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "送死之后不只是钱包被爱音彻底清空，就连身份信息也一起贡上来被爱音彻底掌握~🖤这样真的好吗？\n对贱狗来说当然是真的好吧w，毕竟唯二能上贡的也就这两个了不是吗？\n看着爱音，贡瘾却戒不掉，想到爱音的形象手就忍不住想上贡金钱\n话说，人家还给留了饭钱，还真是大发善心，不是吗？🖤\n#findom #ATM奴 https://t.co/2DDIa6OeLh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n你也会因为窥视我的美貌而心甘情愿沦为钱包被我使用的对吗？\n钱包报名入口：242184780\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 66,
+                "username": "oricz233"
+              },
+              {
+                "end": 95,
+                "start": 86,
+                "username": "moelipoi"
+              },
+              {
+                "end": 113,
+                "start": 102,
+                "username": "cutelingli"
+              },
+              {
+                "end": 135,
+                "start": 120,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 147,
+                "start": 140,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍驯化公用钱包👛中",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931064828044713984/9qwnduVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7161,
+          "following_count": 303,
+          "like_count": 347,
+          "listed_count": 33,
+          "media_count": 664,
+          "tweet_count": 1986
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-16T18:30:57.000Z",
+        "description": "门牌：3972579833，门槛25。不发门槛一律不过好友。还有，不涉三。",
+        "id": "1846619768574619648",
+        "name": "千早爱音",
+        "pinned_tweet_id": "1925479397920014687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924942158664196096/26kDIqbr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 851,
+          "following_count": 222,
+          "like_count": 409,
+          "listed_count": 1,
+          "media_count": 120,
+          "tweet_count": 472
+        },
+        "username": "Anon_2061",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1936437011554127900",
+    "created_at": "2025-06-21T14:52:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-21T15:52:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936437011554127900"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1837733655617097728",
+          "start": 3,
+          "username": "RdReddust"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936437011554127900",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936346106478104687",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RdReddust: 没想到有不少明知道是钓鱼，还依旧无脑白给的白痴贡奴🖤看推文已经已经让你们这些贱狗的脑子都变成一滩浆糊了呢🖤偷看推文的白痴贱狗❤ 毕竟你们这些贱货，除了对着配图的臭脚和中指意淫，就只会像发情的母猪一样哼哼唧唧一边想着酸臭热气的骚臭黑丝一边又忍不住自我…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1936437011554127900].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1936437011554127900",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1936437011554127900"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1936346102610939905",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt9IhWhWUAE5_V9.jpg",
+        "width": 1357
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936346102610939905"
+          ]
+        },
+        "author_id": "1837733655617097728",
+        "conversation_id": "1936346106478104687",
+        "created_at": "2025-06-21T08:51:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T09:51:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936346106478104687"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EatKXlqsoc",
+              "end": 164,
+              "expanded_url": "https://x.com/RdReddust/status/1936346106478104687/photo/1",
+              "media_key": "3_1936346102610939905",
+              "start": 141,
+              "url": "https://t.co/EatKXlqsoc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936346106478104687",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 144,
+                "start": 141,
+                "tag": "洗脑"
+              },
+              {
+                "end": 148,
+                "start": 145,
+                "tag": "贡奴"
+              },
+              {
+                "end": 152,
+                "start": 149,
+                "tag": "杂鱼"
+              },
+              {
+                "end": 156,
+                "start": 153,
+                "tag": "母猪"
+              },
+              {
+                "end": 160,
+                "start": 157,
+                "tag": "贱货"
+              },
+              {
+                "end": 166,
+                "start": 161,
+                "tag": "偷偷意淫"
+              }
+            ]
+          },
+          "text": "没想到有不少明知道是钓鱼，还依旧无脑白给的白痴贡奴🖤看推文已经已经让你们这些贱狗的脑子都变成一滩浆糊了呢🖤偷看推文的白痴贱狗❤ 毕竟你们这些贱货，除了对着配图的臭脚和中指意淫，就只会像发情的母猪一样哼哼唧唧一边想着酸臭热气的骚臭黑丝一边又忍不住自我催眠🖤然后忍不住把钱送上来了呢❤\n#洗脑 #贡奴 #杂鱼 #母猪 #贱货 #偷偷意淫"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 951,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "没想到有不少明知道是钓鱼，还依旧无脑白给的白痴贡奴🖤看推文已经已经让你们这些贱狗的脑子都变成一滩浆糊了呢🖤偷看推文的白痴贱狗❤ 毕竟你们这些贱货，除了对着配图的臭脚和中指意淫，就只会像发情的母猪一样哼哼唧唧一边想着酸臭热气的骚臭黑丝一边又忍不住自我催眠🖤然后忍不住把钱送上来了呢❤ https://t.co/EatKXlqsoc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n你也会因为窥视我的美貌而心甘情愿沦为钱包被我使用的对吗？\n钱包报名入口：3971546171\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 67,
+                "username": "oricz233"
+              },
+              {
+                "end": 96,
+                "start": 87,
+                "username": "moelipoi"
+              },
+              {
+                "end": 114,
+                "start": 103,
+                "username": "cutelingli"
+              },
+              {
+                "end": 136,
+                "start": 121,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 148,
+                "start": 141,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍驯化公用钱包👛中",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931064828044713984/9qwnduVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7259,
+          "following_count": 310,
+          "like_count": 375,
+          "listed_count": 32,
+          "media_count": 696,
+          "tweet_count": 2123
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-22T06:00:29.000Z",
+        "description": "这里是专收看着羞辱文就硬得发抖的ATM奴、贡奴和傻狗的男娘红酱～。因为过于了解那些看一张色图和配文就忍不住意淫的杂鱼🖤所以就出道钓鱼来了🖤傻逼atm奴/臭脚控/贱狗大胆私信哦🖤，吐出你的红包和脑子🖤 只要发情就不准跑了哦～🩷🩷🩷https://t.co/PsQX0e96hb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ctt.ac/72I7t",
+                "end": 137,
+                "expanded_url": "https://ctt.ac/72I7t",
+                "start": 114,
+                "url": "https://t.co/PsQX0e96hb"
+              }
+            ]
+          }
+        },
+        "id": "1837733655617097728",
+        "name": "Misstress 红",
+        "pinned_tweet_id": "1936346106478104687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934093624628707328/uMcETvIR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 182,
+          "like_count": 95,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 34
+        },
+        "username": "RdReddust",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1852557265993445376"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1851563784554627239",
+    "created_at": "2024-11-02T03:44:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-02T04:44:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1852557271454433326"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/a1FrrtVbFB",
+          "end": 179,
+          "expanded_url": "https://x.com/xuemingjiai/status/1852557271454433326/photo/1",
+          "media_key": "3_1852557265993445376",
+          "start": 156,
+          "url": "https://t.co/a1FrrtVbFB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1852557271454433326",
+    "in_reply_to_user_id": "1374389254726455305",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1852047094489715069",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "那么～昨天最终增加的金币是306枚哦～306+244枚，哇～有550枚金币了呢💜\n加上魔女小姐得到赞助的450枚金币，一共就有1000枚金币啦～好多好多～这么多金币一定能买很多不错的装备道具了吧？可是...咦？\n她为什么忽然把脚伸了过来？\n这味道...熏得眼睛都要睁不开啦～\n脑子都会变得晕晕乎乎的哦，好可怕💜 https://t.co/a1FrrtVbFB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_1852557265993445376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GbWbBKWbsAA3C5u.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1852557265993445376"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1851563784554627239",
+        "created_at": "2024-11-02T03:44:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-02T04:44:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1852557271454433326"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/a1FrrtVbFB",
+              "end": 179,
+              "expanded_url": "https://x.com/xuemingjiai/status/1852557271454433326/photo/1",
+              "media_key": "3_1852557265993445376",
+              "start": 156,
+              "url": "https://t.co/a1FrrtVbFB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852557271454433326",
+        "in_reply_to_user_id": "1374389254726455305",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1852047094489715069",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那么～昨天最终增加的金币是306枚哦～306+244枚，哇～有550枚金币了呢💜\n加上魔女小姐得到赞助的450枚金币，一共就有1000枚金币啦～好多好多～这么多金币一定能买很多不错的装备道具了吧？可是...咦？\n她为什么忽然把脚伸了过来？\n这味道...熏得眼睛都要睁不开啦～\n脑子都会变得晕晕乎乎的哦，好可怕💜 https://t.co/a1FrrtVbFB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1852047093025902592"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "1851563784554627239",
+        "created_at": "2024-10-31T17:56:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-31T18:56:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1852047094489715069"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1852047094489715069",
+        "in_reply_to_user_id": "1374389254726455305",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1911,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1852046519513526608",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那么～\n请做出选择～\n投票时间一天～\n有多少票数就能再增加多少枚金币～\n金币也可以通过赞助魔女小姐来增加哦💜请在力所能及的情况下进行“支持”（白给）哦💜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "超绝可爱💖\n她就是出道即巅峰的可爱纯真小天使新人偶像魔女小姐💖\n对这样的魔女小姐不能心怀任何涩涩的念想哦，不然就会变得非常糟糕...踏入无法挣脱的陷阱和牢笼里呢💘\n魔女小姐无论说什么做什么都是正确的哦，身为她的粉丝，只需要无条件用各种方式支持她就好了～\nqq2829556413",
+        "id": "1374389254726455305",
+        "name": "电波系新人偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852048735020421125/2lLNSdIh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5746,
+          "following_count": 216,
+          "like_count": 181,
+          "listed_count": 23,
+          "tweet_count": 1254
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

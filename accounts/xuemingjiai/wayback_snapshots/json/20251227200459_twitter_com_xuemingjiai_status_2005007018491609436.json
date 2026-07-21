@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "2005007018491609436",
+    "created_at": "2025-12-27T20:04:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T21:04:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005007018491609436"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1374389254726455305",
+          "start": 3,
+          "username": "xuemingjiai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005007018491609436",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998878211187609776",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xuemingjiai: 有笨蛋！(绝对不是本公主!)\n刚才不小心误删关于小冷的介绍推文了...重新发一次吧～\n小冷是什么？\n是本公主在置顶问卷里推出的一款“预设钱包”，设定出来方便本公主使用～任何人都可以成为小冷，只需要换上头像和修改名字来找本公主～小冷们会对本公主绝…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2005007018491609436].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2005007018491609436",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2005007018491609436"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_1998878114605314054",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G71xDgJaMAYtZxX.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1900,
+        "media_key": "3_1998878114596925449",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G71xDgHaMAkmQTv.jpg",
+        "width": 1263
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1998878187724615681",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G71xHwiaMAEh7XS.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998878114605314054",
+            "3_1998878114596925449",
+            "3_1998878187724615681"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "1998878211187609776",
+        "created_at": "2025-12-10T22:11:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T23:11:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998878211187609776"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JtSGpgKlbJ",
+              "end": 166,
+              "expanded_url": "https://x.com/xuemingjiai/status/1998878211187609776/photo/1",
+              "media_key": "3_1998878114605314054",
+              "start": 143,
+              "url": "https://t.co/JtSGpgKlbJ"
+            },
+            {
+              "display_url": "pic.x.com/JtSGpgKlbJ",
+              "end": 166,
+              "expanded_url": "https://x.com/xuemingjiai/status/1998878211187609776/photo/1",
+              "media_key": "3_1998878114596925449",
+              "start": 143,
+              "url": "https://t.co/JtSGpgKlbJ"
+            },
+            {
+              "display_url": "pic.x.com/JtSGpgKlbJ",
+              "end": 166,
+              "expanded_url": "https://x.com/xuemingjiai/status/1998878211187609776/photo/1",
+              "media_key": "3_1998878187724615681",
+              "start": 143,
+              "url": "https://t.co/JtSGpgKlbJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998878211187609776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 23417,
+          "like_count": 43,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "有笨蛋！(绝对不是本公主!)\n刚才不小心误删关于小冷的介绍推文了...重新发一次吧～\n小冷是什么？\n是本公主在置顶问卷里推出的一款“预设钱包”，设定出来方便本公主使用～任何人都可以成为小冷，只需要换上头像和修改名字来找本公主～小冷们会对本公主绝对服从，是最忠诚的atm提款机钱包母狗🤍 https://t.co/JtSGpgKlbJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🖤\n最最最最喜欢钱包们啦～\n联系方式→2829556413←\n病毒小号@oricz233\n现任魔女学园院长!\n星辰魔女镜璃\n@jingli1840489\n桃心魔女奈奈\n@blakexiaonai\n 黑白魔女花卷\n@miaomiaomi17630\n好老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 49,
+                "username": "oricz233"
+              },
+              {
+                "end": 90,
+                "start": 76,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 111,
+                "start": 98,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 136,
+                "start": 120,
+                "username": "miaomiaomi17630"
+              },
+              {
+                "end": 155,
+                "start": 140,
+                "username": "chessy80978858"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARosxSy"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🖤魔女学园院长版～",
+        "pinned_tweet_id": "1976743806063063398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003754231543562240/7Kw6lKLr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8088,
+          "following_count": 339,
+          "like_count": 648,
+          "listed_count": 37,
+          "media_count": 768,
+          "tweet_count": 2397
+        },
+        "url": "https://t.co/le8ARosxSy",
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

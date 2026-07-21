@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1937147330253431281",
+    "created_at": "2025-06-23T13:54:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-23T14:54:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937147330253431281"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1830576349469409281",
+          "start": 3,
+          "username": "Uuu1032292"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/EeBkY",
+          "end": 139,
+          "start": 121,
+          "url": "https://t.co/EeBkY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937147330253431281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936687228551663757",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Uuu1032292: 被踩才开心的脏兮兮垃圾抖M小狗狗～🖤 我可是特地赏脸来了哦🖤先告诉你，我已经好几天没洗澡了呢\n🖤 你这贱狗反而觉得是奖励吧？🖤已经迫不及待硬了对吧？笑死～好吧，那我就好好把你这点可悲的精力和钱包通通榨干吧~🖤 https://t.co/EeBkY…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1937147330253431281].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1937147330253431281",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1937147330253431281"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1936687226290655232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuB-xXQXUAAS3ua.jpg",
+        "width": 1158
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936687226290655232"
+          ]
+        },
+        "author_id": "1830576349469409281",
+        "conversation_id": "1936687228551663757",
+        "created_at": "2025-06-22T07:26:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T08:26:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936687228551663757"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EeBkYRXUYd",
+              "end": 128,
+              "expanded_url": "https://x.com/Uuu1032292/status/1936687228551663757/photo/1",
+              "media_key": "3_1936687226290655232",
+              "start": 105,
+              "url": "https://t.co/EeBkYRXUYd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936687228551663757",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 184,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "被踩才开心的脏兮兮垃圾抖M小狗狗～🖤 我可是特地赏脸来了哦🖤先告诉你，我已经好几天没洗澡了呢\n🖤 你这贱狗反而觉得是奖励吧？🖤已经迫不及待硬了对吧？笑死～好吧，那我就好好把你这点可悲的精力和钱包通通榨干吧~🖤 https://t.co/EeBkYRXUYd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n你也会因为窥视我的美貌而心甘情愿沦为钱包被我使用的对吗？\n钱包报名入口：2829556413和3971546171\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 78,
+                "username": "oricz233"
+              },
+              {
+                "end": 107,
+                "start": 98,
+                "username": "moelipoi"
+              },
+              {
+                "end": 125,
+                "start": 114,
+                "username": "cutelingli"
+              },
+              {
+                "end": 147,
+                "start": 132,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 159,
+                "start": 152,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍驯化公用钱包👛中",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931064828044713984/9qwnduVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7275,
+          "following_count": 311,
+          "like_count": 376,
+          "listed_count": 32,
+          "media_count": 700,
+          "tweet_count": 2133
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-02T11:59:53.000Z",
+        "description": "可爱的男孩子，想要白给的私信口令红包，或者自己来要账单。主人@XiaoLinYIA",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 30,
+                "username": "XiaoLinYIA"
+              }
+            ]
+          }
+        },
+        "id": "1830576349469409281",
+        "location": "日本 （是男生）",
+        "name": "千雪",
+        "pinned_tweet_id": "1932055858797740425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933783133322944512/47DgeetR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 71,
+          "like_count": 196,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 135
+        },
+        "username": "Uuu1032292",
+        "verified": false
+      }
+    ]
+  }
+}

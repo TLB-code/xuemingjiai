@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1954330153686810625",
+        "3_1954330162641747968",
+        "3_1954330171755900928",
+        "3_1954330178882052097"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1954330183194054701",
+    "created_at": "2025-08-09T23:53:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-10T00:53:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1954330183194054701"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 8,
+          "start": 0,
+          "tag": "魔女公主的日常"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/xuemingjiai/st…",
+          "end": 154,
+          "expanded_url": "https://x.com/xuemingjiai/status/1952843112843260275?t=WkuAdLE97nnRv_-Kg35R6A&s=19",
+          "start": 131,
+          "url": "https://t.co/NCqc9kDF3v"
+        },
+        {
+          "display_url": "pic.x.com/3glLWFZ26q",
+          "end": 178,
+          "expanded_url": "https://x.com/xuemingjiai/status/1954330183194054701/photo/1",
+          "media_key": "3_1954330153686810625",
+          "start": 155,
+          "url": "https://t.co/3glLWFZ26q"
+        },
+        {
+          "display_url": "pic.x.com/3glLWFZ26q",
+          "end": 178,
+          "expanded_url": "https://x.com/xuemingjiai/status/1954330183194054701/photo/1",
+          "media_key": "3_1954330162641747968",
+          "start": 155,
+          "url": "https://t.co/3glLWFZ26q"
+        },
+        {
+          "display_url": "pic.x.com/3glLWFZ26q",
+          "end": 178,
+          "expanded_url": "https://x.com/xuemingjiai/status/1954330183194054701/photo/1",
+          "media_key": "3_1954330171755900928",
+          "start": 155,
+          "url": "https://t.co/3glLWFZ26q"
+        },
+        {
+          "display_url": "pic.x.com/3glLWFZ26q",
+          "end": 178,
+          "expanded_url": "https://x.com/xuemingjiai/status/1954330183194054701/photo/1",
+          "media_key": "3_1954330178882052097",
+          "start": 155,
+          "url": "https://t.co/3glLWFZ26q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954330183194054701",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952843112843260275",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "#魔女公主的日常\n昨天晚上处刑群迎来了第一次清算～\n一共有十二只钱包遭到本公主的无情清空以及极速毫不讲理的虐杀～\n下面随便放部分截图供其他钱包欣赏咯，同时开始征收第二批处刑钱包，请挨个排队集体憋精禁欲等待本公主把你们处死～详细规则点进这个链接去看，里面有介绍🤍\nhttps://t.co/NCqc9kDF3v https://t.co/3glLWFZ26q"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1954330183194054701].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1954330183194054701",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1954330183194054701"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2223,
+        "media_key": "3_1954330153686810625",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx8s65hWQAEm3Fm.jpg",
+        "width": 540
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1954330162641747968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx8s7a4XwAApqZh.jpg",
+        "width": 429
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1954330171755900928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx8s781WsAAPnUt.jpg",
+        "width": 375
+      },
+      {
+        "height": 2055,
+        "media_key": "3_1954330178882052097",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx8s8XYXIAEy15K.jpg",
+        "width": 1156
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1952843091066425344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxnkcdkXEAAWUF3.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1952843101212483584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxnkdDXXoAABigE.jpg",
+        "width": 1024
+      },
+      {
+        "height": 2055,
+        "media_key": "3_1952843108414017537",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxnkdeMWUAEfMYb.jpg",
+        "width": 1156
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952843091066425344",
+            "3_1952843101212483584",
+            "3_1952843108414017537"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "1952843112843260275",
+        "created_at": "2025-08-05T21:24:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T22:24:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952843112843260275"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nUp3oklYj4",
+              "end": 167,
+              "expanded_url": "https://x.com/xuemingjiai/status/1952843112843260275/photo/1",
+              "media_key": "3_1952843091066425344",
+              "start": 144,
+              "url": "https://t.co/nUp3oklYj4"
+            },
+            {
+              "display_url": "pic.x.com/nUp3oklYj4",
+              "end": 167,
+              "expanded_url": "https://x.com/xuemingjiai/status/1952843112843260275/photo/1",
+              "media_key": "3_1952843101212483584",
+              "start": 144,
+              "url": "https://t.co/nUp3oklYj4"
+            },
+            {
+              "display_url": "pic.x.com/nUp3oklYj4",
+              "end": 167,
+              "expanded_url": "https://x.com/xuemingjiai/status/1952843112843260275/photo/1",
+              "media_key": "3_1952843108414017537",
+              "start": 144,
+              "url": "https://t.co/nUp3oklYj4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952843112843260275",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 11373,
+          "like_count": 115,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "⚠️极端警告⚠️\n屏幕面前的钱包们，你们会爱上被本公主反复“杀死”的感觉\n本公主会利用色欲加上死亡的双重刺激，让钱包们感受到前所未有的快感。\n你会变得无比卑微，不管你现实的身份是什么，在本公主眼里都是一头待宰的钱包而已\n本公主希望看到你们因为一时发情冲动来让自己染上不可逆转的恶劣性癖🤍 https://t.co/nUp3oklYj4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n我是一名钱包刽子手。\n如果你也想被我杀死的话→\n242184780←\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 55,
+                "username": "oricz233"
+              },
+              {
+                "end": 84,
+                "start": 75,
+                "username": "moelipoi"
+              },
+              {
+                "end": 102,
+                "start": 91,
+                "username": "cutelingli"
+              },
+              {
+                "end": 124,
+                "start": 109,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 136,
+                "start": 129,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍魔女讨伐组织高级顾问～",
+        "pinned_tweet_id": "1945511067926536238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952517800502652928/-lp8k7Gh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7846,
+          "following_count": 331,
+          "like_count": 609,
+          "listed_count": 33,
+          "media_count": 721,
+          "tweet_count": 2214
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1953141405569683836",
+    "created_at": "2025-08-06T17:09:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T18:09:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953141405569683836"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1312572317206159360",
+          "start": 3,
+          "username": "moelipoi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953141405569683836",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953137088435724704",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @moelipoi: 下午好喵姆喵姆～♪ 祥子前辈今天的训练也很精彩呢！特别是第三首歌时的表情，简直让人移不开眼呢～\n\n“谢……谢谢……”祥子低头翻谱，试图回避话题，“不过……为什么今天不来排练呢？”\n\n“？只是有些忙而已啦～前辈为什么不愿意多聊几句呢？明明这些照片拍得这…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1953137084740583424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gxrv1JWawAAX4MW.jpg",
+        "width": 1447
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "1953141405569683836",
+        "created_at": "2025-08-06T17:09:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T18:09:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953141405569683836"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1312572317206159360",
+              "start": 3,
+              "username": "moelipoi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953141405569683836",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953137088435724704",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @moelipoi: 下午好喵姆喵姆～♪ 祥子前辈今天的训练也很精彩呢！特别是第三首歌时的表情，简直让人移不开眼呢～\n\n“谢……谢谢……”祥子低头翻谱，试图回避话题，“不过……为什么今天不来排练呢？”\n\n“？只是有些忙而已啦～前辈为什么不愿意多聊几句呢？明明这些照片拍得这…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953137084740583424"
+          ]
+        },
+        "author_id": "1312572317206159360",
+        "conversation_id": "1953137088435724704",
+        "created_at": "2025-08-06T16:52:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T17:52:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953137088435724704"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rpfTIjYu18",
+              "end": 169,
+              "expanded_url": "https://x.com/moelipoi/status/1953137088435724704/photo/1",
+              "media_key": "3_1953137084740583424",
+              "start": 146,
+              "url": "https://t.co/rpfTIjYu18"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953137088435724704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "下午好喵姆喵姆～♪ 祥子前辈今天的训练也很精彩呢！特别是第三首歌时的表情，简直让人移不开眼呢～\n\n“谢……谢谢……”祥子低头翻谱，试图回避话题，“不过……为什么今天不来排练呢？”\n\n“？只是有些忙而已啦～前辈为什么不愿意多聊几句呢？明明这些照片拍得这么好看呀～”\n\n若麦故意晃了晃手中的 U 盘：“这里面还有更多呢！要不要一起欣赏？”\n\n“等……等等……那个 U 盘里……”祥子猛地抬头，脸色惨白。\n\n“嗯？前辈是指哪些内容呢？”若麦歪头装无辜，“是练习时不小心走光的画面？还是……为了还债不惜向经纪人出卖身体的照片～”\n\n“若麦！请你删掉那些……你要多少钱……我可以想办法……大不了……去找金主再要一些……”\n\n“钱？”若麦嗤笑一声，“我不缺钱哦～为什么要删掉呢？这可都是 saki 酱非常珍贵的回忆哦！”\n\n她靠近祥子，轻轻搂住她的肩膀，笑意若有若无。\n\n“前辈，你知道吗？这些视频在粉丝中间可是抢手货呢。特别是那些……比较隐私的内容～如果要是发出去的话，粉丝们会对着大小姐撸动肉棒吧♡”\n\n“你……你竟然拿来贩卖？！”祥子震惊得说不出话。\n\n“啊哈哈～开玩笑的啦！我怎么可能做这种事呢？”若麦眨眨眼，一脸人畜无害，“不过呢……如果前辈不愿意这些东西外流的话——”\n\n“你想要什么？”祥子警惕地看着她。\n\n“也没什么啦～”若麦露出天使般的笑容，“就是想让前辈当我的小宠物而已～每天下班后来我家报道，叫声主人给我听就行了哦！”\n\n“这……这怎么可能……”\n\n“啊～前辈在犹豫吗？”若麦凑到祥子耳边，语气甜得发腻，“那我是不是该考虑把视频发给其他成员看看呢……我可很好奇 mortis 看到后会发生什么～”\n\n“不要！”祥子急忙抓住她的手腕，“我……我知道了……”\n\n“～真的吗？前辈终于想通了呢！”若麦立刻换上灿烂的笑容，“那我们现在就开始练习吧？来～叫声主人给我听听～”\n\n祥子满脸通红，羞耻地低下头。\n\n“主人……”她的声音几乎和蚊子一样小。\n\n“啊啊～太小声了啦！前辈该不会是属蚊子的吧～要更大声、更有感情才行哦～这个害羞的前辈真是太好玩了～”\n\n“你……你怎么能这样……”祥子咬着嘴唇，眼角闪着泪光。\n\n“时间不多了呢～要么现在跪下，要么明天所有人都能看到完整的版本～”\n\n祥子最终屈服。\n\n“呜……主人……汪汪汪……这样总行了吧……求你删掉……”\n\n“就知道你一定会做出正确选择的，我的小母狗～今后的生活♡就做喵姆亲的小狗吧～毕竟猫就是要比狗高贵哦♡”\n\n祥子跪在地上，垂着头，呼吸急促。\n\n“很好呢～前辈，姿势很乖哦～”若麦用指尖挑起她的下巴，视线像是在打量新买到的猫项圈。\n\n“你说过……会删掉那些东西的……”祥子声音颤抖。\n\n“会呀～”若麦笑得像天使，“但在那之前，得先确认你真的乖乖听话～”\n\n她走到柜子前，打开一个漆黑的盒子，里面静静躺着皮质项圈、细长的牵绳，还有一只银色的铃铛。\n\n“来～抬头。”\n\n祥子咬着唇，颤巍巍地抬起脖子。项圈冰凉的触感贴上皮肤，扣合声在空旷的练习室里格外清晰。铃铛轻轻一晃，发出清脆的声响。\n\n“从现在开始，你就是我的小狗了哦～”若麦的声音低了半分，“来，叫一声主人听听。”\n\n“……主人……”\n\n“乖～”她用牵绳把祥子拉近一步，眼神中闪过一丝捕猎的愉悦，“接下来，要教你一些宠物的礼仪～比如帮忙清理鞋子什么的～”\n\n祥子脸涨得通红，手指死死扣着膝盖，却还是一步步照做。\n\n若麦蹲下，与她对视，眼中闪着光。\n\n“很好呢～不过宠物可不能只会这些。”\n\n牵着绳子，带祥子绕着练习室走了一圈，铃铛声在地板上回荡。\n\n祥子的呼吸越来越乱，心脏像要从胸口跳出来，然而牵绳的束缚感却让她无法退缩。\n\n“从今天起，吃的、穿的、睡的地方，自慰的次数…都由喵姆亲来决定～懂了吗？”\n\n“……懂了……”祥子的声音已经带着无力的屈服。\n\n“乖狗狗～终于把猎物放进了笼子了～今晚回我家，毕竟…训练才刚开始呢～喵姆亲最喜欢前辈了哦～♡”"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "下午好喵姆喵姆～♪ 祥子前辈今天的训练也很精彩呢！特别是第三首歌时的表情，简直让人移不开眼呢～\n\n“谢……谢谢……”祥子低头翻谱，试图回避话题，“不过……为什么今天不来排练呢？”\n\n“？只是有些忙而已啦～前辈为什么不愿意多聊几句呢？明明这些照片拍得这么好看呀～”\n\n若麦故意晃了晃手中的 U https://t.co/rpfTIjYu18"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n我是一名钱包刽子手。\n如果你也想被我杀死的话→\n3971546171←报名热线\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 60,
+                "username": "oricz233"
+              },
+              {
+                "end": 89,
+                "start": 80,
+                "username": "moelipoi"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "cutelingli"
+              },
+              {
+                "end": 129,
+                "start": 114,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 141,
+                "start": 134,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍处刑钱包的子弹已上膛",
+        "pinned_tweet_id": "1945511067926536238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952517800502652928/-lp8k7Gh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7825,
+          "following_count": 330,
+          "like_count": 603,
+          "listed_count": 33,
+          "media_count": 719,
+          "tweet_count": 2211
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-04T01:57:08.000Z",
+        "description": "Non breath oblige.\n完全地雷系虐待狂女子……\n极其擅长气味调教/洗脑pua/绿茶/压榨/恋爱/病娇系/榨精 的文调  (图文40/0.5h 75/h)",
+        "id": "1312572317206159360",
+        "location": "QQ1912443435",
+        "name": "椛璃 るる 🌸",
+        "pinned_tweet_id": "1911036147817681330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952702940365406208/azZG1IHP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12810,
+          "following_count": 133,
+          "like_count": 347,
+          "listed_count": 16,
+          "media_count": 250,
+          "tweet_count": 1981
+        },
+        "username": "moelipoi",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "2051964292342427742",
+    "created_at": "2026-05-06T09:56:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T10:56:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051964292342427742"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1724420825632108544",
+          "start": 3,
+          "username": "banpingCO2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051964292342427742",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 44
+    },
+    "referenced_tweets": [
+      {
+        "id": "1767210136148295955",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @banpingCO2: 各位足控，气味控们💚\n这是一双在运动鞋里“工作”吸收了日日夜夜暴汗的湿臭鞋垫哦💚\n像极了为了暮春酱拼死拼活打工只为了把血汗钱全部吐干净的ATM们呢🖤🖤🖤\n凑近吸上一口，直接把大脑的理智防线直接击垮，变成挺着处男敏感唧唧降智发情漏汁的脑瘫\n要解除这…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2051964292342427742].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2051964292342427742",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2051964292342427742"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1816,
+        "media_key": "3_1767210126690459648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GIZkP0TboAAfE-x.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1767210126690459648"
+          ]
+        },
+        "author_id": "1724420825632108544",
+        "conversation_id": "1767210136148295955",
+        "created_at": "2024-03-11T15:25:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-03-11T16:25:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1767210136148295955"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GTayz5Faw7",
+              "end": 167,
+              "expanded_url": "https://x.com/banpingCO2/status/1767210136148295955/photo/1",
+              "media_key": "3_1767210126690459648",
+              "start": 144,
+              "url": "https://t.co/GTayz5Faw7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1767210136148295955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 50,
+          "impression_count": 49268,
+          "like_count": 355,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 44
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "各位足控，气味控们💚\n这是一双在运动鞋里“工作”吸收了日日夜夜暴汗的湿臭鞋垫哦💚\n像极了为了暮春酱拼死拼活打工只为了把血汗钱全部吐干净的ATM们呢🖤🖤🖤\n凑近吸上一口，直接把大脑的理智防线直接击垮，变成挺着处男敏感唧唧降智发情漏汁的脑瘫\n要解除这种状态就只能夹着烂档来敲暮春酱的门了哦💚 https://t.co/GTayz5Faw7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会魅惑并享用钱包的公主殿下🤍\n最最最最喜欢钱包们啦～\n联系方式→2829556413←\n病毒小号@oricz233\n现任魔女学园院长!\n星辰魔女镜璃\n@jingli1840489\n桃心魔女奈奈\n@blakexiaonai\n 黑白魔女花卷\n@miaomiaomi17630\n好老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 52,
+                "username": "oricz233"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 114,
+                "start": 101,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 139,
+                "start": 123,
+                "username": "miaomiaomi17630"
+              },
+              {
+                "end": 158,
+                "start": 143,
+                "username": "chessy80978858"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "魅惑系魔女族公主-奏💜魔女学园院长版～",
+        "pinned_tweet_id": "2013314916120416537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018477066753306624/36q-3UGh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8784,
+          "following_count": 360,
+          "like_count": 633,
+          "listed_count": 37,
+          "media_count": 826,
+          "tweet_count": 2184
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-14T13:35:49.000Z",
+        "description": "这里是最擅长暴虐傻逼抖M的暮春酱哦🖤极度拜金同时也热衷于剥夺性无能小处男做爱的想法🖤带着自己圆鼓鼓的钱包来3698871591被暮春酱爆耍到脑髓外泄吧💔接长期，收ATM哦",
+        "id": "1724420825632108544",
+        "location": "脑弱处男生活费提取中心♡",
+        "name": "🖤暮春（黑心限定）💔",
+        "pinned_tweet_id": "1779160364480909766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778740475786096640/g4A2onoj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2513,
+          "following_count": 19,
+          "like_count": 36,
+          "listed_count": 5,
+          "media_count": 41,
+          "tweet_count": 88
+        },
+        "username": "banpingCO2",
+        "verified": false
+      }
+    ]
+  }
+}

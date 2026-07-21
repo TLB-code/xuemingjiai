@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1930305970955268409",
+    "created_at": "2025-06-04T16:49:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-04T17:49:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930305970955268409"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 17,
+          "tag": "魔女公主的日常"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1374389254726455305",
+          "start": 3,
+          "username": "xuemingjiai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930305970955268409",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930305020307878368",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xuemingjiai: #魔女公主的日常\n其实啊w，很多贡瘾虫虫都很聪明，会保持着理智不会上当，主动上门都是极度发情的情况，甚至上门的瞬间就早泄了（笑～）\n所以为了狩猎这部分“聪明”的贡瘾虫虫，本公主决定“逆强奸”你们哦，只要给这条推文点赞～就会得到被本公主私信“强奸…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1930305970955268409].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1930305970955268409",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1930305970955268409"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_1930305010388348933",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsnSLgRasAUd9tj.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930305010388348933"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "1930305020307878368",
+        "created_at": "2025-06-04T16:45:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T17:45:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930305020307878368"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "魔女公主的日常"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3lVbApV7lE",
+              "end": 169,
+              "expanded_url": "https://x.com/xuemingjiai/status/1930305020307878368/photo/1",
+              "media_key": "3_1930305010388348933",
+              "start": 146,
+              "url": "https://t.co/3lVbApV7lE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930305020307878368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#魔女公主的日常\n其实啊w，很多贡瘾虫虫都很聪明，会保持着理智不会上当，主动上门都是极度发情的情况，甚至上门的瞬间就早泄了（笑～）\n所以为了狩猎这部分“聪明”的贡瘾虫虫，本公主决定“逆强奸”你们哦，只要给这条推文点赞～就会得到被本公主私信“强奸”的奖励，请把脑子和钱包放在一起土下座等待哦🖤 https://t.co/3lVbApV7lE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "集美貌，智慧，强大于一身的魔女族公主现身人世～区区人类，跪下向我表示臣服吧💜\n被我支配 控制 吸脑 成为奴仆💜\n挑战qq242184780，里世界小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858\n女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "oricz233"
+              },
+              {
+                "end": 104,
+                "start": 95,
+                "username": "moelipoi"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "cutelingli"
+              },
+              {
+                "end": 144,
+                "start": 129,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 155,
+                "start": 148,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏💜散播同化病毒中～",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926028406774247424/hWplRg7q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7104,
+          "following_count": 296,
+          "like_count": 335,
+          "listed_count": 33,
+          "media_count": 642,
+          "tweet_count": 1909
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

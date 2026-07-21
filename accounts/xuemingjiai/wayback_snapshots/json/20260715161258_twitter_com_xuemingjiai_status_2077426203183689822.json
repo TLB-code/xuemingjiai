@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077426193167728640"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "2077426203183689822",
+    "created_at": "2026-07-15T16:12:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T17:12:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077426203183689822"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RoqmEeTGkK",
+          "end": 169,
+          "expanded_url": "https://x.com/xuemingjiai/status/2077426203183689822/photo/1",
+          "media_key": "3_2077426193167728640",
+          "start": 146,
+          "url": "https://t.co/RoqmEeTGkK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077426203183689822",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "再次简单介绍一下：奏游\n由奏奏还有程序员宝宝200酱，主画师莱特一起运营的文字联机rpg多人在线互动贡系网游，在里面可以体验传统古老的升级打怪放置养成，也可以体验成为勇者或者魅魔和其他玩家涩涩上贡，更多内容自己来体验啦。\n可以通过简介tg频道加入，也可以扫码qq群来注册，目前开放免费体验。 https://t.co/RoqmEeTGkK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2077426193167728640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNSAHbLawAAU2Pe.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077426193167728640"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "2077426203183689822",
+        "created_at": "2026-07-15T16:12:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T17:12:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077426203183689822"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RoqmEeTGkK",
+              "end": 169,
+              "expanded_url": "https://x.com/xuemingjiai/status/2077426203183689822/photo/1",
+              "media_key": "3_2077426193167728640",
+              "start": 146,
+              "url": "https://t.co/RoqmEeTGkK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077426203183689822",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "再次简单介绍一下：奏游\n由奏奏还有程序员宝宝200酱，主画师莱特一起运营的文字联机rpg多人在线互动贡系网游，在里面可以体验传统古老的升级打怪放置养成，也可以体验成为勇者或者魅魔和其他玩家涩涩上贡，更多内容自己来体验啦。\n可以通过简介tg频道加入，也可以扫码qq群来注册，目前开放免费体验。 https://t.co/RoqmEeTGkK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "前文援，前贡系推主\n现独立网游-魔女奏奏的世界 文本策划兼运营\nhttps://t.co/nHUUcUuYh1\ntg频道，欢迎体验加入奏游!\n邂逅方式→2829556413←↓\n242184780\n涩气内容@oricz233\n星辰魔女镜璃\n@jingli1840489\n好老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 103,
+                "username": "oricz233"
+              },
+              {
+                "end": 134,
+                "start": 120,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 153,
+                "start": 138,
+                "username": "chessy80978858"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+LI_NqPcVcKc0M…",
+                "end": 55,
+                "expanded_url": "https://t.me/+LI_NqPcVcKc0MGVl",
+                "start": 32,
+                "url": "https://t.co/nHUUcUuYh1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "超可爱超绿茶超撩人的精灵魔女-奏奏💚",
+        "pinned_tweet_id": "2065914875877228650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076770038061887488/Tc3iX89H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9282,
+          "following_count": 419,
+          "like_count": 668,
+          "listed_count": 40,
+          "media_count": 842,
+          "tweet_count": 2267
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

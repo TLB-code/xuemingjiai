@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1914293377811796346",
+    "created_at": "2025-04-21T12:21:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-21T13:21:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914293377811796346"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 17,
+          "tag": "脑控魔法的第一天"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1374389254726455305",
+          "start": 3,
+          "username": "xuemingjiai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914293377811796346",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914293009065373914",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xuemingjiai: #脑控魔法的第一天\n听说有些小雏男根本不相信魔女小姐会魔法呢，那就从今天开始对你们使用“集体”的脑控魔法好了～把自己的脑子奉献出来烂掉吧💜\n现在，闭上眼睛，倒数五秒再睁开💜\n叮叮叮♪\n叮铃铃～\n集高贵美貌可爱俏皮腹黑绿茶温柔黑心于一身的天使魔女…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1914293377811796346].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1914293377811796346",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1914293377811796346"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1914292995891097600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpDvVmAbcAA8qkh.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1914292995891097600"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "1914293009065373914",
+        "created_at": "2025-04-21T12:19:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T13:19:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914293009065373914"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 0,
+              "tag": "脑控魔法的第一天"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fEbGKYUI9Z",
+              "end": 169,
+              "expanded_url": "https://x.com/xuemingjiai/status/1914293009065373914/photo/1",
+              "media_key": "3_1914292995891097600",
+              "start": 146,
+              "url": "https://t.co/fEbGKYUI9Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914293009065373914",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#脑控魔法的第一天\n听说有些小雏男根本不相信魔女小姐会魔法呢，那就从今天开始对你们使用“集体”的脑控魔法好了～把自己的脑子奉献出来烂掉吧💜\n现在，闭上眼睛，倒数五秒再睁开💜\n叮叮叮♪\n叮铃铃～\n集高贵美貌可爱俏皮腹黑绿茶温柔黑心于一身的天使魔女大人出现在你的面前.\n那么，开始舔（发情）吧♡ https://t.co/fEbGKYUI9Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "您好～这里是一直致力于为小雏男哥哥们提供“舒适”“安全”“极致射金体验”的纯真妹系小天使魔女妹妹💚\n想更加了解请翻看推文～\nqq2829556413，病毒小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858\n女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 79,
+                "username": "oricz233"
+              },
+              {
+                "end": 108,
+                "start": 99,
+                "username": "moelipoi"
+              },
+              {
+                "end": 126,
+                "start": 115,
+                "username": "cutelingli"
+              },
+              {
+                "end": 148,
+                "start": 133,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 159,
+                "start": 152,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系天使偶像魔女小姐💖女仆限定版♪",
+        "pinned_tweet_id": "1912930515570835816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909108552796651520/gRlgoaOf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6711,
+          "following_count": 273,
+          "like_count": 303,
+          "listed_count": 29,
+          "media_count": 574,
+          "tweet_count": 1586
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

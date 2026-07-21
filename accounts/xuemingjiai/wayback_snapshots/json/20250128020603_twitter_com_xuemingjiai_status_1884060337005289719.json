@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1884060337005289719",
+    "created_at": "2025-01-28T02:06:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-28T03:06:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884060337005289719"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 15,
+          "start": 12,
+          "tag": "羞辱"
+        },
+        {
+          "end": 19,
+          "start": 16,
+          "tag": "调教"
+        },
+        {
+          "end": 23,
+          "start": 20,
+          "tag": "文援"
+        },
+        {
+          "end": 27,
+          "start": 24,
+          "tag": "早泄"
+        },
+        {
+          "end": 31,
+          "start": 28,
+          "tag": "压榨"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1777598492124532736",
+          "start": 3,
+          "username": "Qilicc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884060337005289719",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 47
+    },
+    "referenced_tweets": [
+      {
+        "id": "1850784597141004716",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @Qilicc: #羞辱 #调教 #文援 #早泄 #压榨\n哥哥～自毁爽吗🖤\n当祈莉妹妹的狗吧🖤\n哥哥不在乎的吧～哥哥只会是那种～遵从本能性欲犯贱的人吧💙\n对吧哥哥♡喜欢精神和肉体一起高潮败北❤️\n再变态些的话～喜欢被当做工具利用💛喜欢被吸干剩余价值以后像垃圾一样被踩死♡…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1884060337005289719].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1884060337005289719",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1884060337005289719"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1850784594343366656"
+          ]
+        },
+        "author_id": "1777598492124532736",
+        "conversation_id": "1850784597141004716",
+        "created_at": "2024-10-28T06:20:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-28T07:20:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1850784597141004716"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "羞辱"
+            },
+            {
+              "end": 7,
+              "start": 4,
+              "tag": "调教"
+            },
+            {
+              "end": 11,
+              "start": 8,
+              "tag": "文援"
+            },
+            {
+              "end": 15,
+              "start": 12,
+              "tag": "早泄"
+            },
+            {
+              "end": 19,
+              "start": 16,
+              "tag": "压榨"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7tT2C8RD6z",
+              "end": 150,
+              "expanded_url": "https://x.com/Qilicc/status/1850784597141004716/photo/1",
+              "media_key": "3_1850784594343366656",
+              "start": 127,
+              "url": "https://t.co/7tT2C8RD6z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1850784597141004716",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 81,
+          "impression_count": 38829,
+          "like_count": 536,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 47
+        },
+        "reply_settings": "following",
+        "text": "#羞辱 #调教 #文援 #早泄 #压榨\n哥哥～自毁爽吗🖤\n当祈莉妹妹的狗吧🖤\n哥哥不在乎的吧～哥哥只会是那种～遵从本能性欲犯贱的人吧💙\n对吧哥哥♡喜欢精神和肉体一起高潮败北❤️\n再变态些的话～喜欢被当做工具利用💛喜欢被吸干剩余价值以后像垃圾一样被踩死♡ https://t.co/7tT2C8RD6z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "您好～这里是出道以来一直致力于为小雏男哥哥们提供“舒适”“安全”“极致快感”的纯真妹系小天使魔女妹妹💚\n想了解我请翻看我的推文～\nqq2829556413，碎碎念小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 83,
+                "username": "oricz233"
+              },
+              {
+                "end": 112,
+                "start": 103,
+                "username": "moelipoi"
+              },
+              {
+                "end": 130,
+                "start": 119,
+                "username": "cutelingli"
+              },
+              {
+                "end": 152,
+                "start": 137,
+                "username": "chessy80978858"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系天使偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878142670054604800/aZFysFDs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6353,
+          "following_count": 252,
+          "like_count": 287,
+          "listed_count": 29,
+          "media_count": 537,
+          "tweet_count": 1490
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-09T07:25:06.000Z",
+        "description": "一枚文援.可以陪你做喜欢的事，涉三的事除了照片以外都需要长期沉淀才行.\n私信我交流请友善一点可以发癫✉️\n请不要在私信对我发生殖器照✉️\n🚪5（不抵扣）⚠️新门牌:1725218154⚠️✉️点媒体查看我的推文✉️有Switch成分，入门闲聊免费.✉️请点点关注不要取关我. 妈咪@xuemingjiai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 140,
+                "username": "xuemingjiai"
+              }
+            ]
+          }
+        },
+        "id": "1777598492124532736",
+        "location": "あなたの幸せを祈ります🍥",
+        "name": "祈莉莉",
+        "pinned_tweet_id": "1850881152502137211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883548094568230913/ncD5S8dS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2162,
+          "following_count": 35,
+          "like_count": 247,
+          "listed_count": 7,
+          "media_count": 44,
+          "tweet_count": 246
+        },
+        "username": "Qilicc",
+        "verified": false
+      }
+    ]
+  }
+}

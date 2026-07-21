@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "2019185038986997819",
+    "created_at": "2026-02-04T23:03:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T00:03:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019185038986997819"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1992444823505354753",
+          "start": 3,
+          "username": "miaomiaomi17630"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019185038986997819",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018365263889260928",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @miaomiaomi17630: 被花卷大人施展缩小化魔法之后作为吸臭足虫，在被踩死在脚底之前拼命吸入花卷大人的足臭🖤生为人类你很清楚穿完袜子接下来要干什么，当然是鞋子（靴子）～🖤也就是说你剩下的时间不多了，是不是很期待被碾死的瞬间🖤会不会精液连同脑浆一起射出来🖤 ht…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2019185038986997819].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2019185038986997819",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2019185038986997819"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1455,
+        "media_key": "3_2018365253302775811",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAKsgQ4acAMiH1M.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018365253302775811"
+          ]
+        },
+        "author_id": "1992444823505354753",
+        "conversation_id": "2018365263889260928",
+        "created_at": "2026-02-02T16:45:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T17:45:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018365263889260928"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tU6NRQJytW",
+              "end": 139,
+              "expanded_url": "https://x.com/miaomiaomi17630/status/2018365263889260928/photo/1",
+              "media_key": "3_2018365253302775811",
+              "start": 116,
+              "url": "https://t.co/tU6NRQJytW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018365263889260928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 620,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被花卷大人施展缩小化魔法之后作为吸臭足虫，在被踩死在脚底之前拼命吸入花卷大人的足臭🖤生为人类你很清楚穿完袜子接下来要干什么，当然是鞋子（靴子）～🖤也就是说你剩下的时间不多了，是不是很期待被碾死的瞬间🖤会不会精液连同脑浆一起射出来🖤 https://t.co/tU6NRQJytW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会魅惑并享用钱包的公主殿下🤍\n最最最最喜欢钱包们啦～\n联系方式→2829556413←\n病毒小号@oricz233\n现任魔女学园院长!\n星辰魔女镜璃\n@jingli1840489\n桃心魔女奈奈\n@blakexiaonai\n 黑白魔女花卷\n@miaomiaomi17630\n好老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 52,
+                "username": "oricz233"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 114,
+                "start": 101,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 139,
+                "start": 123,
+                "username": "miaomiaomi17630"
+              },
+              {
+                "end": 158,
+                "start": 143,
+                "username": "chessy80978858"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "魅惑系魔女族公主-奏💜魔女学园院长版～",
+        "pinned_tweet_id": "2013314916120416537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018477066753306624/36q-3UGh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8301,
+          "following_count": 363,
+          "like_count": 644,
+          "listed_count": 36,
+          "media_count": 803,
+          "tweet_count": 2147
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-23T04:07:28.000Z",
+        "description": "来人间完成业绩的魅魔希望能在聊天的过程中放松来～，就算身心全部暴露出来，花卷也会温柔的对待ww～如果不满足于此，也可以来给花卷姐姐白给送死呢🖤～温柔中时不时透露出想把你吃干抹净的感觉🖤🖤，有想找花卷祈求安慰或者自毁的走这里❗️773507138❗️自备口令码，可能极度危险一不小心。最可爱的@xuemingjiai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "xuemingjiai"
+              }
+            ]
+          }
+        },
+        "id": "1992444823505354753",
+        "location": "最可爱的",
+        "name": "花卷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996989624535891968/1bjtxxcS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 465,
+          "following_count": 6,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 45
+        },
+        "username": "miaomiaomi17630",
+        "verified": false
+      }
+    ]
+  }
+}

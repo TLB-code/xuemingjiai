@@ -1,0 +1,114 @@
+{
+  "data": {
+    "author_id": "1374389254726455305",
+    "conversation_id": "1848052163672678495",
+    "created_at": "2024-10-20T17:22:25.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-20T18:22:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1848052163672678495"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1843593591463260160",
+          "start": 3,
+          "username": "YongyeBai18048"
+        }
+      ]
+    },
+    "id": "1848052163672678495",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1847934897815466110",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YongyeBai18048: 诶嘿～为了营业还是自我介绍一下吧～人家是男孩子喔，并不是s，只是XP非常混沌。\n文媛方面超级擅长ntr～如果想体验男娘碧池的话，人家也很擅长♡\n价格方面既然是刚营业～就30r半小时好了～如果大哥哥想送死的话也欢迎💚\n门牌是24961663…"
+  },
+  "includes": {
+    "tweets": [],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "您好～这里是出道以来一直致力于为小雏男哥哥们提供“舒适”“安全”“极致快感”的纯真妹系小天使魔女妹妹💚\n想了解我请翻看我的推文～\nqq2829556413，碎碎念小号@oricz233\n共同出道的偶像老婆：@moeliQWQ\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 83,
+                "username": "oricz233"
+              },
+              {
+                "end": 112,
+                "start": 103,
+                "username": "moeliQWQ"
+              },
+              {
+                "end": 130,
+                "start": 119,
+                "username": "cutelingli"
+              },
+              {
+                "end": 152,
+                "start": 137,
+                "username": "chessy80978858"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系天使偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862768210711392256/_qeQwE-8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6172,
+          "following_count": 238,
+          "like_count": 223,
+          "listed_count": 26,
+          "media_count": 511,
+          "tweet_count": 1393
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-08T10:05:48.000Z",
+        "description": "诶多～请问您身上存在多少价值呢？",
+        "id": "1843593591463260160",
+        "name": "永夜白",
+        "pinned_tweet_id": "1847934897815466110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843593719167295488/bpvP3d6w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 13,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 41
+        },
+        "username": "YongyeBai18048",
+        "verified": false
+      }
+    ]
+  }
+}

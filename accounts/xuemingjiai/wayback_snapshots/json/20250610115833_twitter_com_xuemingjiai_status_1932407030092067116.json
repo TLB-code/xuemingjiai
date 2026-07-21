@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1932407030092067116",
+    "created_at": "2025-06-10T11:58:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-10T12:58:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932407030092067116"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1846619768574619648",
+          "start": 3,
+          "username": "Anon_2061"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932407030092067116",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932350901970493818",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Anon_2061: 明明一开始是以温柔的妈妈姿态靠拢过来\n在爱音以为可以平常的对待的时候，无意中暴露了自己的母猪本性🖤\n被爱音骂傻屄就会发情🖤被踩脸就会发疯🖤大脑彻底丧智毫无思考能力，只会跟着爱音的诱导走🖤\n最后在一声声的「贡」中清空钱包🖤\n什么妈妈，不过是报销母猪🖤…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1932350898543693824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtEW53kakAABs4w.jpg",
+        "width": 292
+      },
+      {
+        "height": 2211,
+        "media_key": "3_1932350898636034049",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtEW536bkAEs_FB.jpg",
+        "width": 268
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1932350899055382528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtEW55eaUAA8GZ5.jpg",
+        "width": 281
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1932350898988290048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtEW55OakAAKTv3.jpg",
+        "width": 714
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "1932407030092067116",
+        "created_at": "2025-06-10T11:58:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T12:58:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932407030092067116"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1846619768574619648",
+              "start": 3,
+              "username": "Anon_2061"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932407030092067116",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932350901970493818",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Anon_2061: 明明一开始是以温柔的妈妈姿态靠拢过来\n在爱音以为可以平常的对待的时候，无意中暴露了自己的母猪本性🖤\n被爱音骂傻屄就会发情🖤被踩脸就会发疯🖤大脑彻底丧智毫无思考能力，只会跟着爱音的诱导走🖤\n最后在一声声的「贡」中清空钱包🖤\n什么妈妈，不过是报销母猪🖤…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932350898543693824",
+            "3_1932350898636034049",
+            "3_1932350899055382528",
+            "3_1932350898988290048"
+          ]
+        },
+        "author_id": "1846619768574619648",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1932350901970493818",
+        "created_at": "2025-06-10T08:15:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T09:15:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932350901970493818"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 130,
+              "start": 125,
+              "tag": "ATM奴"
+            },
+            {
+              "end": 134,
+              "start": 131,
+              "tag": "压榨"
+            },
+            {
+              "end": 138,
+              "start": 135,
+              "tag": "上贡"
+            },
+            {
+              "end": 143,
+              "start": 139,
+              "tag": "报销奴"
+            },
+            {
+              "end": 151,
+              "start": 144,
+              "tag": "findom"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Zc8cilD48E",
+              "end": 175,
+              "expanded_url": "https://x.com/Anon_2061/status/1932350901970493818/photo/1",
+              "media_key": "3_1932350898543693824",
+              "start": 152,
+              "url": "https://t.co/Zc8cilD48E"
+            },
+            {
+              "display_url": "pic.x.com/Zc8cilD48E",
+              "end": 175,
+              "expanded_url": "https://x.com/Anon_2061/status/1932350901970493818/photo/1",
+              "media_key": "3_1932350898636034049",
+              "start": 152,
+              "url": "https://t.co/Zc8cilD48E"
+            },
+            {
+              "display_url": "pic.x.com/Zc8cilD48E",
+              "end": 175,
+              "expanded_url": "https://x.com/Anon_2061/status/1932350901970493818/photo/1",
+              "media_key": "3_1932350899055382528",
+              "start": 152,
+              "url": "https://t.co/Zc8cilD48E"
+            },
+            {
+              "display_url": "pic.x.com/Zc8cilD48E",
+              "end": 175,
+              "expanded_url": "https://x.com/Anon_2061/status/1932350901970493818/photo/1",
+              "media_key": "3_1932350898988290048",
+              "start": 152,
+              "url": "https://t.co/Zc8cilD48E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932350901970493818",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 642,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "明明一开始是以温柔的妈妈姿态靠拢过来\n在爱音以为可以平常的对待的时候，无意中暴露了自己的母猪本性🖤\n被爱音骂傻屄就会发情🖤被踩脸就会发疯🖤大脑彻底丧智毫无思考能力，只会跟着爱音的诱导走🖤\n最后在一声声的「贡」中清空钱包🖤\n什么妈妈，不过是报销母猪🖤\n#ATM奴 #压榨 #上贡 #报销奴 #findom https://t.co/Zc8cilD48E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n你也会因为窥视我的美貌而心甘情愿沦为钱包被我使用的对吗？\n钱包报名入口：242184780\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 66,
+                "username": "oricz233"
+              },
+              {
+                "end": 95,
+                "start": 86,
+                "username": "moelipoi"
+              },
+              {
+                "end": 113,
+                "start": 102,
+                "username": "cutelingli"
+              },
+              {
+                "end": 135,
+                "start": 120,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 147,
+                "start": 140,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍驯化公用钱包👛中",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931064828044713984/9qwnduVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7184,
+          "following_count": 304,
+          "like_count": 353,
+          "listed_count": 33,
+          "media_count": 674,
+          "tweet_count": 2014
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-16T18:30:57.000Z",
+        "description": "门牌：3972579833，门槛25。不发门槛一律不过好友。还有，不涉三。",
+        "id": "1846619768574619648",
+        "name": "千早爱音",
+        "pinned_tweet_id": "1925479397920014687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924942158664196096/26kDIqbr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 861,
+          "following_count": 222,
+          "like_count": 417,
+          "listed_count": 1,
+          "media_count": 122,
+          "tweet_count": 477
+        },
+        "username": "Anon_2061",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1873422536559734843",
+    "created_at": "2024-12-29T17:35:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-29T18:35:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1873422536559734843"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1696056509023625217",
+          "start": 3,
+          "username": "CuteLingli"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873422536559734843",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872506480542572999",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CuteLingli: 嗯，今天就隐藏掉玲璃说了什么，请大家自行脑补发生了什么吧🖤\n另外一提，像这样变得脑袋融化，完全不知道在说什么，毁掉自己的样子很白痴哦🖤\n但如果你却反而更加兴奋了的话，会在变得不正常的状态里，陷得越来越深哦，会更加兴奋吗🖤那就用上贡把自己弄坏吧，一…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1873422536559734843].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1873422536559734843",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1873422536559734843"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1872506477212241920",
+            "3_1872506477870751744"
+          ]
+        },
+        "author_id": "1696056509023625217",
+        "conversation_id": "1872506480542572999",
+        "created_at": "2024-12-27T04:55:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-27T05:55:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1872506480542572999"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 136,
+              "start": 133,
+              "tag": "洗脑"
+            },
+            {
+              "end": 140,
+              "start": 137,
+              "tag": "贡奴"
+            },
+            {
+              "end": 144,
+              "start": 141,
+              "tag": "文援"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wLI08fNtLF",
+              "end": 168,
+              "expanded_url": "https://x.com/CuteLingli/status/1872506480542572999/photo/1",
+              "media_key": "3_1872506477212241920",
+              "start": 145,
+              "url": "https://t.co/wLI08fNtLF"
+            },
+            {
+              "display_url": "pic.x.com/wLI08fNtLF",
+              "end": 168,
+              "expanded_url": "https://x.com/CuteLingli/status/1872506480542572999/photo/1",
+              "media_key": "3_1872506477870751744",
+              "start": 145,
+              "url": "https://t.co/wLI08fNtLF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872506480542572999",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1255,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嗯，今天就隐藏掉玲璃说了什么，请大家自行脑补发生了什么吧🖤\n另外一提，像这样变得脑袋融化，完全不知道在说什么，毁掉自己的样子很白痴哦🖤\n但如果你却反而更加兴奋了的话，会在变得不正常的状态里，陷得越来越深哦，会更加兴奋吗🖤那就用上贡把自己弄坏吧，一直偷窥玲璃的你🖤\n\n#洗脑 #贡奴 #文援 https://t.co/wLI08fNtLF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "您好～这里是出道以来一直致力于为小雏男哥哥们提供“舒适”“安全”“极致快感”的纯真妹系小天使魔女妹妹💚\n想了解我请翻看我的推文～\nqq2829556413，碎碎念小号@oricz233\n共同出道的偶像老婆：@riemoepoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 83,
+                "username": "oricz233"
+              },
+              {
+                "end": 113,
+                "start": 103,
+                "username": "riemoepoi"
+              },
+              {
+                "end": 131,
+                "start": 120,
+                "username": "cutelingli"
+              },
+              {
+                "end": 153,
+                "start": 138,
+                "username": "chessy80978858"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系天使偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871531149056696320/X1dzrRoR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6252,
+          "following_count": 241,
+          "like_count": 272,
+          "listed_count": 26,
+          "media_count": 522,
+          "tweet_count": 1434
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-28T07:06:06.000Z",
+        "description": "温柔向压榨系，请ATM君直接给我钱~\n请看清楚哦，这是陷阱~❤️否则脑子和钱包都会的变得一塌糊涂🖤我很懒，所以没有照片，没有语音，没有视频，不想送死别来加我~ 门牌🚪私信获取 门槛自己看着给，不给也可以，越多越白痴🖤 老婆：@xuemingjiai 笨蛋：@liulidreamm",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 112,
+                "username": "xuemingjiai"
+              },
+              {
+                "end": 140,
+                "start": 128,
+                "username": "liulidreamm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "afdian.com/a/cutelingli",
+                "end": 23,
+                "expanded_url": "https://afdian.com/a/cutelingli",
+                "start": 0,
+                "url": "https://t.co/Di7OiY8Hx5"
+              }
+            ]
+          }
+        },
+        "id": "1696056509023625217",
+        "location": "你的心里❤️",
+        "name": "玲璃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1857458414097674240/lFZYliyL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1118,
+          "following_count": 71,
+          "like_count": 114,
+          "listed_count": 4,
+          "media_count": 72,
+          "tweet_count": 215
+        },
+        "url": "https://t.co/Di7OiY8Hx5",
+        "username": "CuteLingli",
+        "verified": false
+      }
+    ]
+  }
+}

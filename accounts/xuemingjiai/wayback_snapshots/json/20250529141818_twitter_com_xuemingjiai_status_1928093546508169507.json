@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1928093546508169507",
+    "created_at": "2025-05-29T14:18:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-29T15:18:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928093546508169507"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "532280267",
+          "start": 3,
+          "username": "cmweidman"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928093546508169507",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928071687884656884",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cmweidman: 漆黑的细高跟鞋内侧乳白色的浓稠液体正顺着优柔的流畅线条缓慢流动❤️勾勒出清晰可见的精斑轨迹的同时❤️这些液体已经在这双鞋里停留了许久而被密闭的空间捂得发烫发腻❤️鞋面上残留着未干涸的白色块状物❤️透过半透明的胶质内衬，还能看见液体正在缓缓渗透进皮质…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1928093546508169507].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1928093546508169507",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1928093546508169507"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1928071660789542912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsHi9crbsAAL8lE.jpg",
+        "width": 1237
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1928071660789542912"
+          ]
+        },
+        "author_id": "532280267",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1928071687884656884",
+        "created_at": "2025-05-29T12:51:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-29T13:51:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928071687884656884"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QsT3VHSdsk",
+              "end": 169,
+              "expanded_url": "https://x.com/cmweidman/status/1928071687884656884/photo/1",
+              "media_key": "3_1928071660789542912",
+              "start": 146,
+              "url": "https://t.co/QsT3VHSdsk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928071687884656884",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 567,
+                "start": 564,
+                "tag": "文爱"
+              },
+              {
+                "end": 571,
+                "start": 568,
+                "tag": "女爹"
+              },
+              {
+                "end": 575,
+                "start": 572,
+                "tag": "女S"
+              },
+              {
+                "end": 579,
+                "start": 576,
+                "tag": "调教"
+              },
+              {
+                "end": 583,
+                "start": 580,
+                "tag": "上贡"
+              },
+              {
+                "end": 587,
+                "start": 584,
+                "tag": "榨金"
+              },
+              {
+                "end": 593,
+                "start": 588,
+                "tag": "无脑白给"
+              },
+              {
+                "end": 597,
+                "start": 594,
+                "tag": "认妈"
+              },
+              {
+                "end": 601,
+                "start": 598,
+                "tag": "绿帽"
+              },
+              {
+                "end": 605,
+                "start": 602,
+                "tag": "鞋奴"
+              },
+              {
+                "end": 609,
+                "start": 606,
+                "tag": "狗奴"
+              }
+            ]
+          },
+          "text": "漆黑的细高跟鞋内侧乳白色的浓稠液体正顺着优柔的流畅线条缓慢流动❤️勾勒出清晰可见的精斑轨迹的同时❤️这些液体已经在这双鞋里停留了许久而被密闭的空间捂得发烫发腻❤️鞋面上残留着未干涸的白色块状物❤️透过半透明的胶质内衬，还能看见液体正在缓缓渗透进皮质表面，形成一圈圈扩散开来的水渍❤️鞋口边缘处凝结着厚厚的白色粉尘，那是反复冲刷却始终无法清理干净、蕴藏了脚底汗腺喷薄出来的黏腻肥熟雌汗凝结的的陈年老垢精华❤️每一次晃动都会带动粘稠液体翻涌，发出令人脸红心跳的淫靡水声，那些饱含荷尔蒙的汁液还源源不断地从鞋底往外渗漏❤️空气中既有成熟女人汗液特有的咸涩酸味，又有男性的体液经过发酵产生的浓烈腥膻❤️两种截然不同的气味完美融合在一起，就像这个房间里正在进行的背德行径一样令人血脉贲张❤️每当灯光照射到这双沾满秽物的鞋子上，就会折射出令人眩晕的糜烂光泽，那种淫靡的气息则会让每一个正在盯着推文偷偷摸摸自慰撸屌的人感到神散迷离~❤️🖤hhh~光是盯着这些就足够你们这群没用的恋臭媚脚傻逼们意淫到射出废精了吧~？♡不过究竟是想要当把精液射到祭月祖宗鞋里的精液贡狗🖤还是当只能看着自己最崇拜的女鞋祖宗被别的男人用精液灌满的超级媚鞋绿帽狗🖤选择权都在你们手上哦~💚hhh~不会真的有渣滓傻逼到能对着女爹被精液填满的鞋幻想绿帽奴的场景吧~？💚🖤💚#文爱 #女爹 #女S #调教 #上贡 #榨金 #无脑白给 #认妈 #绿帽 #鞋奴 #狗奴"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 399,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "漆黑的细高跟鞋内侧乳白色的浓稠液体正顺着优柔的流畅线条缓慢流动❤️勾勒出清晰可见的精斑轨迹的同时❤️这些液体已经在这双鞋里停留了许久而被密闭的空间捂得发烫发腻❤️鞋面上残留着未干涸的白色块状物❤️透过半透明的胶质内衬，还能看见液体正在缓缓渗透进皮质表面，形成一圈圈扩散开来的水渍❤️鞋口边缘 https://t.co/QsT3VHSdsk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "集美貌，智慧，强大于一身的魔女族公主现身人世～区区人类，跪下向我表示臣服吧💜\n被我支配 控制 吸脑 成为奴仆💜\n挑战qq242184780，里世界小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858\n女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "oricz233"
+              },
+              {
+                "end": 104,
+                "start": 95,
+                "username": "moelipoi"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "cutelingli"
+              },
+              {
+                "end": 144,
+                "start": 129,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 155,
+                "start": 148,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏💜散播同化病毒中～",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926028406774247424/hWplRg7q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7034,
+          "following_count": 294,
+          "like_count": 326,
+          "listed_count": 32,
+          "media_count": 631,
+          "tweet_count": 1880
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2012-03-21T14:41:16.000Z",
+        "description": "储臭奴的高贵长靴女爹/丝足极致淫臭榨干一切媚雌傻逼的价值/爆耍处男主动送死肉棒的同时将靴臭强行灌脑并改造为极度恋臭的丧脑垃圾——贪婪 拜金 且胃口很大～🖤\n文调🖤┃丝足气味🖤┃绿龟舔狗🖤┃提款爆耍🖤┃寸止地狱🖤┃模拟女友🖤┃\n30r/0.5h 🚪2757411931\n礼貌的男孩子优先哦～ #文爱",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 148,
+                "start": 145,
+                "tag": "文爱"
+              }
+            ]
+          }
+        },
+        "id": "532280267",
+        "location": "和你有关系吗？",
+        "name": "🖤祭月Sama",
+        "pinned_tweet_id": "1823002702127009907",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821887105301110784/Coum-iF__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6462,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 18,
+          "media_count": 79,
+          "tweet_count": 165
+        },
+        "username": "cmweidman",
+        "verified": true
+      }
+    ]
+  }
+}

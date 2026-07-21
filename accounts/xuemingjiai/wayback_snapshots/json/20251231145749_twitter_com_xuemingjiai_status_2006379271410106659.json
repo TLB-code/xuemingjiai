@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "2006379271410106659",
+    "created_at": "2025-12-31T14:57:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T15:57:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006379271410106659"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1374389254726455305",
+          "start": 3,
+          "username": "xuemingjiai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006379271410106659",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 35
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976743806063063398",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xuemingjiai: 你知道真正的贡瘾是一种什么样的体验吗？\n如果想体验更加堕落的话，来尝试一下本公主的出道问卷文游吧～文本量超级大w，目前更新了第一个小游戏，购买一次会享受后续永久更新哦～\n不过事先提醒，本公主的风格是善于用文字+图片引导，请耐心的观看“前戏”，完…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2006379271410106659].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2006379271410106659",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2006379271410106659"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1976743785427095552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G27N_-ZX0AAzci2.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976743785427095552"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1976743806063063398",
+        "created_at": "2025-10-10T20:17:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T21:17:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976743806063063398"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UQdtWRS8ka",
+              "end": 168,
+              "expanded_url": "https://x.com/xuemingjiai/status/1976743806063063398/photo/1",
+              "media_key": "3_1976743785427095552",
+              "start": 145,
+              "url": "https://t.co/UQdtWRS8ka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976743806063063398",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 87757,
+          "like_count": 194,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "你知道真正的贡瘾是一种什么样的体验吗？\n如果想体验更加堕落的话，来尝试一下本公主的出道问卷文游吧～文本量超级大w，目前更新了第一个小游戏，购买一次会享受后续永久更新哦～\n不过事先提醒，本公主的风格是善于用文字+图片引导，请耐心的观看“前戏”，完全的沉浸在其中～\n售价30金币，联系本公主哦 https://t.co/UQdtWRS8ka"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🖤\n最最最最喜欢钱包们啦～\n联系方式→2829556413←\n病毒小号@oricz233\n现任魔女学园院长!\n星辰魔女镜璃\n@jingli1840489\n桃心魔女奈奈\n@blakexiaonai\n 黑白魔女花卷\n@miaomiaomi17630\n好老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 49,
+                "username": "oricz233"
+              },
+              {
+                "end": 90,
+                "start": 76,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 111,
+                "start": 98,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 136,
+                "start": 120,
+                "username": "miaomiaomi17630"
+              },
+              {
+                "end": 155,
+                "start": 140,
+                "username": "chessy80978858"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARosxSy"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🖤魔女学园院长版～",
+        "pinned_tweet_id": "1976743806063063398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003754231543562240/7Kw6lKLr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8102,
+          "following_count": 342,
+          "like_count": 643,
+          "listed_count": 37,
+          "media_count": 770,
+          "tweet_count": 2401
+        },
+        "url": "https://t.co/le8ARosxSy",
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

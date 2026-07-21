@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1961409519176630627",
+    "created_at": "2025-08-29T12:44:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-29T13:44:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961409519176630627"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1852926328963522560",
+          "start": 3,
+          "username": "oricz233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961409519176630627",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955376930653401583",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oricz233: 呐～\n各位脑子主机用户，很遗憾的通知您，您手机里的“魔女妹妹”病毒即将失效，将在本次更新中彻底失去对您手机的掌控权🤍\n明明应该感到高兴才对吧？为什么会失落呢？\n别着急哦...不想知道失效原因是什么吗，真的不想重新“激活”魔女妹妹病毒吗，和奏奏妹妹一起…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1961409519176630627].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1961409519176630627",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1961409519176630627"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1955376926849196032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyLk9HbXYAAVXTV.jpg",
+        "width": 701
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955376926849196032"
+          ]
+        },
+        "author_id": "1852926328963522560",
+        "conversation_id": "1955376930653401583",
+        "created_at": "2025-08-12T21:12:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T22:12:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955376930653401583"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/16FERtBYhd",
+              "end": 167,
+              "expanded_url": "https://x.com/oricz233/status/1955376930653401583/photo/1",
+              "media_key": "3_1955376926849196032",
+              "start": 144,
+              "url": "https://t.co/16FERtBYhd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955376930653401583",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 9900,
+          "like_count": 66,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "呐～\n各位脑子主机用户，很遗憾的通知您，您手机里的“魔女妹妹”病毒即将失效，将在本次更新中彻底失去对您手机的掌控权🤍\n明明应该感到高兴才对吧？为什么会失落呢？\n别着急哦...不想知道失效原因是什么吗，真的不想重新“激活”魔女妹妹病毒吗，和奏奏妹妹一起先让身体和脑子重新舒服起来吧，握住🤍 https://t.co/16FERtBYhd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n我是一名钱包刽子手。\n如果你也想被我杀死的话→\n242184780←\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 55,
+                "username": "oricz233"
+              },
+              {
+                "end": 84,
+                "start": 75,
+                "username": "moelipoi"
+              },
+              {
+                "end": 102,
+                "start": 91,
+                "username": "cutelingli"
+              },
+              {
+                "end": 124,
+                "start": 109,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 136,
+                "start": 129,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍魔女讨伐组织高级顾问～",
+        "pinned_tweet_id": "1945511067926536238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952517800502652928/-lp8k7Gh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8048,
+          "following_count": 334,
+          "like_count": 629,
+          "listed_count": 36,
+          "media_count": 724,
+          "tweet_count": 2220
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-03T04:10:46.000Z",
+        "description": "嗯 如你所见这就是魔女妹妹@xuemingjiai 的树洞发泄 特殊更新的多功能用小号哦\n不喜欢我的人请从我的视线里消失～\n只想对无条件喜欢我的人好～\n家宝贝@qilicc\n最可爱的哥哥！@goldropp ← 都应该去看看\n还有一只笨蛋猪咪哥哥 @chanafenshi\n最爱的主人酱@KiaErilovez_53",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 13,
+                "username": "xuemingjiai"
+              },
+              {
+                "end": 86,
+                "start": 79,
+                "username": "qilicc"
+              },
+              {
+                "end": 103,
+                "start": 94,
+                "username": "goldropp"
+              },
+              {
+                "end": 136,
+                "start": 124,
+                "username": "chanafenshi"
+              },
+              {
+                "end": 158,
+                "start": 143,
+                "username": "KiaErilovez_53"
+              }
+            ]
+          }
+        },
+        "id": "1852926328963522560",
+        "name": "魔女妹妹（里世界版）病毒侵入持续更新中",
+        "pinned_tweet_id": "1853194086540509649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954847881946382336/-QZWuoUp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1249,
+          "following_count": 10,
+          "like_count": 6,
+          "listed_count": 4,
+          "media_count": 63,
+          "tweet_count": 109
+        },
+        "username": "oricz233",
+        "verified": false
+      }
+    ]
+  }
+}

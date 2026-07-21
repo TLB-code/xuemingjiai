@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1884060188392763838",
+    "created_at": "2025-01-28T02:05:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-28T03:05:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884060188392763838"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1084532005545492480",
+          "start": 3,
+          "username": "lanyuan411"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884060188392763838",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883978885433548923",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lanyuan411: 汇报绿毛龟舰长💚今天是玲奈当精厕的第三天，男爹们已经没在用过你准备的避孕套了💚，双腿也被刻满了淫语“荡妇♡随便操の自慰套”\n\n嗯？隔壁那个被马桶刷插着羞辱的人形飞机杯很眼熟？    \n\n“绿奴不认识了吗w她是你心爱的女神呀？”被牵过来当精盆了。已…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1884060188392763838].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1884060188392763838",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1884060188392763838"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1883978689752514560"
+          ]
+        },
+        "author_id": "1084532005545492480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1883978885433548923",
+        "created_at": "2025-01-27T20:42:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T21:42:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883978885433548923"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 136,
+              "start": 132,
+              "tag": "肉便器"
+            },
+            {
+              "end": 141,
+              "start": 137,
+              "tag": "NTR"
+            },
+            {
+              "end": 145,
+              "start": 142,
+              "tag": "绿帽"
+            },
+            {
+              "end": 149,
+              "start": 146,
+              "tag": "女神"
+            },
+            {
+              "end": 153,
+              "start": 150,
+              "tag": "文媛"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/e8NxuJCHvf",
+              "end": 177,
+              "expanded_url": "https://x.com/lanyuan411/status/1883978885433548923/photo/1",
+              "media_key": "3_1883978689752514560",
+              "start": 154,
+              "url": "https://t.co/e8NxuJCHvf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883978885433548923",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 279,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "汇报绿毛龟舰长💚今天是玲奈当精厕的第三天，男爹们已经没在用过你准备的避孕套了💚，双腿也被刻满了淫语“荡妇♡随便操の自慰套”\n\n嗯？隔壁那个被马桶刷插着羞辱的人形飞机杯很眼熟？    \n\n“绿奴不认识了吗w她是你心爱的女神呀？”被牵过来当精盆了。已被使用：73发💚\n#肉便器 #NTR #绿帽 #女神 #文媛 https://t.co/e8NxuJCHvf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "您好～这里是出道以来一直致力于为小雏男哥哥们提供“舒适”“安全”“极致快感”的纯真妹系小天使魔女妹妹💚\n想了解我请翻看我的推文～\nqq2829556413，碎碎念小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 83,
+                "username": "oricz233"
+              },
+              {
+                "end": 112,
+                "start": 103,
+                "username": "moelipoi"
+              },
+              {
+                "end": 130,
+                "start": 119,
+                "username": "cutelingli"
+              },
+              {
+                "end": 152,
+                "start": 137,
+                "username": "chessy80978858"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系天使偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878142670054604800/aZFysFDs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6353,
+          "following_count": 252,
+          "like_count": 287,
+          "listed_count": 29,
+          "media_count": 537,
+          "tweet_count": 1488
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-13T19:25:54.000Z",
+        "description": "这里是文媛姬玲奈🩷\n是一只喜欢玩弄早泄雏男同时又喜欢勾引男爹的雌萝婊子大小姐🖤\n擅长的有：羞辱榨精丨玩弄绿狗丨调戏绿狗丨送屄倒贴丨\n60/h~35/0.5h\n盯着屏幕对玲奈已经饥不择食的早泄雏男可以来敲门了哦~当然也欢迎男爹来光临使用玲奈的雌穴💛门牌3956547942（加不上可以来私信玲奈哦♡最近玩的有些过头♡",
+        "id": "1084532005545492480",
+        "name": "玲奈美少女_♡接单中",
+        "pinned_tweet_id": "1857473827904856194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881081106042339328/N9HNF1fo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2044,
+          "following_count": 60,
+          "like_count": 504,
+          "listed_count": 12,
+          "media_count": 33,
+          "tweet_count": 540
+        },
+        "username": "lanyuan411",
+        "verified": false
+      }
+    ]
+  }
+}

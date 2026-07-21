@@ -1,0 +1,126 @@
+{
+  "data": {
+    "author_id": "1374389254726455305",
+    "conversation_id": "1848052541139058777",
+    "created_at": "2024-10-20T17:23:55.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-20T18:23:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1848052541139058777"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1737114762931318784",
+          "start": 3,
+          "username": "xie_shan_tao"
+        }
+      ]
+    },
+    "id": "1848052541139058777",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 46
+    },
+    "referenced_tweets": [
+      {
+        "id": "1846472456824905859",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @xie_shan_tao: 某些贡畜已经没救了\n明知道对方的敷衍和鄙夷，但反而被恶劣的态度激起奴性，欲望上头发情上贡，被榨干价值后扔掉\n每次贡完都会后悔，看着支付记录的金额，计算这是多久的工资。可惜这只会让你认清自己是个傻逼，加重贡瘾，永远逃脱不了\n最后回看聊天记录，崇…"
+  },
+  "includes": {
+    "tweets": [],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "您好～这里是出道以来一直致力于为小雏男哥哥们提供“舒适”“安全”“极致快感”的纯真妹系小天使魔女妹妹💚\n想了解我请翻看我的推文～\nqq2829556413，碎碎念小号@oricz233\n共同出道的偶像老婆：@moeliQWQ\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 83,
+                "username": "oricz233"
+              },
+              {
+                "end": 112,
+                "start": 103,
+                "username": "moeliQWQ"
+              },
+              {
+                "end": 130,
+                "start": 119,
+                "username": "cutelingli"
+              },
+              {
+                "end": 152,
+                "start": 137,
+                "username": "chessy80978858"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系天使偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860644184996372480/BDeo83tW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5965,
+          "following_count": 238,
+          "like_count": 198,
+          "listed_count": 26,
+          "media_count": 506,
+          "tweet_count": 1374
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-19T14:17:03.000Z",
+        "description": "S系黑心文援阿桃，喜欢戏弄公狗的贵族小姐。擅长温柔洗脑/轻度s羞辱/重度辱骂/文调/网调/atm压榨/ntr/地位差/四爱/双主调教/情侣主/树洞/管理锁/长期调教，\n35/30min，70/h，血腥重口皆可，不涉三。\n●【门牌号，见置顶二维码】\n碎碎念、温柔向推文指路：@ya_ma_momo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 147,
+                "start": 136,
+                "username": "ya_ma_momo"
+              }
+            ]
+          }
+        },
+        "id": "1737114762931318784",
+        "location": "-0.04km",
+        "name": "撷山桃（文援互推",
+        "pinned_tweet_id": "1741002421718179917",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1737115673309159424/ZOAJuodw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3096,
+          "following_count": 152,
+          "like_count": 582,
+          "listed_count": 17,
+          "media_count": 48,
+          "tweet_count": 622
+        },
+        "username": "xie_shan_tao",
+        "verified": false
+      }
+    ]
+  }
+}

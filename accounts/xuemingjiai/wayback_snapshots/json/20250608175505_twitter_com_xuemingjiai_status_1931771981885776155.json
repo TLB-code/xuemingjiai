@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1931771981885776155",
+    "created_at": "2025-06-08T17:55:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-08T18:55:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931771981885776155"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 17,
+          "tag": "魔女公主的日常"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1374389254726455305",
+          "start": 3,
+          "username": "xuemingjiai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931771981885776155",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931358342854979951",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xuemingjiai: #魔女公主的日常\n深夜都是钱包们倾巢出动的时间～\n因为白天都在努力工作创造价值，只有深夜才有那么一点点“自由”的时间寻找合适的对象🤍\n推特上的压榨主那么多，每天都像挑妃子一样选择给谁送钱可是很累的对吧？\n不需要思考了，本公主已经给你看诱惑的涩图…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1931771981885776155].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1931771981885776155",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1931771981885776155"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1931358324437741569",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs2QKc4a8AE_HbF.jpg",
+        "width": 1401
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1931358324437741569"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "1931358342854979951",
+        "created_at": "2025-06-07T14:31:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T15:31:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931358342854979951"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "魔女公主的日常"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aZdfluSo2h",
+              "end": 167,
+              "expanded_url": "https://x.com/xuemingjiai/status/1931358342854979951/photo/1",
+              "media_key": "3_1931358324437741569",
+              "start": 144,
+              "url": "https://t.co/aZdfluSo2h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931358342854979951",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 3520,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "#魔女公主的日常\n深夜都是钱包们倾巢出动的时间～\n因为白天都在努力工作创造价值，只有深夜才有那么一点点“自由”的时间寻找合适的对象🤍\n推特上的压榨主那么多，每天都像挑妃子一样选择给谁送钱可是很累的对吧？\n不需要思考了，本公主已经给你看诱惑的涩图了，硬着小鸡吧来送钱吧，我很会使用钱包哦🤍 https://t.co/aZdfluSo2h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n你也会因为窥视我的美貌而心甘情愿沦为钱包被我使用的对吗？\n钱包报名入口：242184780\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 66,
+                "username": "oricz233"
+              },
+              {
+                "end": 95,
+                "start": 86,
+                "username": "moelipoi"
+              },
+              {
+                "end": 113,
+                "start": 102,
+                "username": "cutelingli"
+              },
+              {
+                "end": 135,
+                "start": 120,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 147,
+                "start": 140,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍瞄准钱包👛中",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931064828044713984/9qwnduVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7155,
+          "following_count": 297,
+          "like_count": 343,
+          "listed_count": 33,
+          "media_count": 660,
+          "tweet_count": 1966
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

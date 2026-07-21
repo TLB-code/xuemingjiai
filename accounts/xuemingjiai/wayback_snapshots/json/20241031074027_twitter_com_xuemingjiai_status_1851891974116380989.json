@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1851883253038485504"
+      ],
+      "media_source_tweet_id": [
+        "1851883255806726355"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "1851891974116380989",
+    "created_at": "2024-10-31T07:40:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-31T08:40:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1851891974116380989"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 15,
+          "start": 12,
+          "tag": "文援"
+        },
+        {
+          "end": 19,
+          "start": 16,
+          "tag": "羞辱"
+        },
+        {
+          "end": 23,
+          "start": 20,
+          "tag": "调教"
+        },
+        {
+          "end": 27,
+          "start": 24,
+          "tag": "上贡"
+        },
+        {
+          "end": 31,
+          "start": 28,
+          "tag": "贡奴"
+        },
+        {
+          "end": 35,
+          "start": 32,
+          "tag": "自毁"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1777598492124532736",
+          "start": 3,
+          "username": "Qilicc"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/a3Mk3HakQR",
+          "end": 123,
+          "expanded_url": "https://x.com/Qilicc/status/1851883255806726355/photo/1",
+          "media_key": "3_1851883253038485504",
+          "start": 100,
+          "url": "https://t.co/a3Mk3HakQR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1851891974116380989",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1851883255806726355",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Qilicc: #文援 #羞辱 #调教 #上贡 #贡奴 #自毁\n\n眨眼半个月过去啦 \n距离我第一次发推10.14过去了半个月 千粉好快～\n感谢大家对我的喜欢哦♡今后也会好好努力～\n新推奉上♡ https://t.co/a3Mk3HakQR"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1851891974116380989].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1851891974116380989",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1851891974116380989"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1851883253038485504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GbM2AcbakAA8PCJ.jpg",
+        "width": 1314
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1851883253038485504"
+          ]
+        },
+        "author_id": "1777598492124532736",
+        "conversation_id": "1851883255806726355",
+        "created_at": "2024-10-31T07:05:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-31T08:05:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1851883255806726355"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "文援"
+            },
+            {
+              "end": 7,
+              "start": 4,
+              "tag": "羞辱"
+            },
+            {
+              "end": 11,
+              "start": 8,
+              "tag": "调教"
+            },
+            {
+              "end": 15,
+              "start": 12,
+              "tag": "上贡"
+            },
+            {
+              "end": 19,
+              "start": 16,
+              "tag": "贡奴"
+            },
+            {
+              "end": 23,
+              "start": 20,
+              "tag": "自毁"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/a3Mk3HakQR",
+              "end": 111,
+              "expanded_url": "https://x.com/Qilicc/status/1851883255806726355/photo/1",
+              "media_key": "3_1851883253038485504",
+              "start": 88,
+              "url": "https://t.co/a3Mk3HakQR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1851883255806726355",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 215,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "#文援 #羞辱 #调教 #上贡 #贡奴 #自毁\n\n眨眼半个月过去啦 \n距离我第一次发推10.14过去了半个月 千粉好快～\n感谢大家对我的喜欢哦♡今后也会好好努力～\n新推奉上♡ https://t.co/a3Mk3HakQR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "超绝可爱💖\n她就是出道即巅峰的可爱纯真小天使新人偶像魔女小姐💖\n对这样的魔女小姐不能心怀任何涩涩的念想哦，不然就会变得非常糟糕...踏入无法挣脱的陷阱和牢笼里呢💘\n魔女小姐无论说什么做什么都是正确的哦，身为她的粉丝，只需要无条件用各种方式支持她就好了～\nqq2829556413",
+        "id": "1374389254726455305",
+        "name": "电波系新人偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851527988380315648/MjAgrWHr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5721,
+          "following_count": 215,
+          "like_count": 181,
+          "listed_count": 23,
+          "tweet_count": 1240
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-09T07:25:06.000Z",
+        "description": "你好呀~这里是文援姬祈莉~女S一枚♡擅长管控杂鱼雏男小鸡鸡~调教贱狗早泄♡玉足管理雏男寸止和高潮♡\n绿茶💚黑心🖤三年文援~更喜欢接受被压榨喜欢自毁的小狗狗♡接受长期~无门槛，正常单价45/0.5h\n⚠️新门牌:1725218154⚠️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MingyueKana",
+                "end": 23,
+                "expanded_url": "http://t.me/MingyueKana",
+                "start": 0,
+                "url": "https://t.co/bV0y0YdTyL"
+              }
+            ]
+          }
+        },
+        "id": "1777598492124532736",
+        "location": "Tokyo-to, Japan",
+        "name": "祈莉à",
+        "pinned_tweet_id": "1850881152502137211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851819522485026816/18mBPhx__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1089,
+          "following_count": 13,
+          "like_count": 30,
+          "listed_count": 0,
+          "tweet_count": 35
+        },
+        "url": "https://t.co/bV0y0YdTyL",
+        "username": "Qilicc",
+        "verified": false
+      }
+    ]
+  }
+}

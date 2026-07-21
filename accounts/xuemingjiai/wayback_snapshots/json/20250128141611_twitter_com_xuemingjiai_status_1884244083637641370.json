@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1884244083637641370",
+    "created_at": "2025-01-28T14:16:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-28T15:16:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884244083637641370"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 114,
+          "start": 111,
+          "tag": "文爱"
+        },
+        {
+          "end": 118,
+          "start": 115,
+          "tag": "压榨"
+        },
+        {
+          "end": 122,
+          "start": 119,
+          "tag": "洗脑"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1813090317694083076",
+          "start": 3,
+          "username": "Xiao_Xi33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884244083637641370",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1877240679551648167",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Xiao_Xi33: 大家好哦——这里是🖤萝莉小汐呢～在今天正式成为文媛姬啦❤️擅长洗脑、压榨哦～也可以用自带剧情来找小汐玩～\n小汐的价格是35r/30min，60/h以及10r的🚪哦请各位小雏男哥哥多多指教啦～\n#文爱 #压榨 #洗脑 https://t.co/xpX…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1884244083637641370].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1884244083637641370",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1884244083637641370"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1877240676519391233"
+          ]
+        },
+        "author_id": "1813090317694083076",
+        "conversation_id": "1877240679551648167",
+        "created_at": "2025-01-09T06:27:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-09T07:27:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1877240679551648167"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 99,
+              "start": 96,
+              "tag": "文爱"
+            },
+            {
+              "end": 103,
+              "start": 100,
+              "tag": "压榨"
+            },
+            {
+              "end": 107,
+              "start": 104,
+              "tag": "洗脑"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xpXZQEEXSf",
+              "end": 131,
+              "expanded_url": "https://x.com/Xiao_Xi33/status/1877240679551648167/photo/1",
+              "media_key": "3_1877240676519391233",
+              "start": 108,
+              "url": "https://t.co/xpXZQEEXSf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877240679551648167",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3514,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "大家好哦——这里是🖤萝莉小汐呢～在今天正式成为文媛姬啦❤️擅长洗脑、压榨哦～也可以用自带剧情来找小汐玩～\n小汐的价格是35r/30min，60/h以及10r的🚪哦请各位小雏男哥哥多多指教啦～\n#文爱 #压榨 #洗脑 https://t.co/xpXZQEEXSf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "您好～这里是出道以来一直致力于为小雏男哥哥们提供“舒适”“安全”“极致快感”的纯真妹系小天使魔女妹妹💚\n想了解我请翻看我的推文～\nqq2829556413，碎碎念小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 83,
+                "username": "oricz233"
+              },
+              {
+                "end": 112,
+                "start": 103,
+                "username": "moelipoi"
+              },
+              {
+                "end": 130,
+                "start": 119,
+                "username": "cutelingli"
+              },
+              {
+                "end": 152,
+                "start": 137,
+                "username": "chessy80978858"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系天使偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878142670054604800/aZFysFDs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6353,
+          "following_count": 253,
+          "like_count": 289,
+          "listed_count": 29,
+          "media_count": 538,
+          "tweet_count": 1499
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-16T05:56:42.000Z",
+        "description": "哈喽~这里是喜欢🖤调教小雏男的坏坏💚萝莉小汐哦🎶擅长用段的方式一点点💜洗脑小雏男哦~记得看置顶呢——\n门牌是：3857907304",
+        "id": "1813090317694083076",
+        "location": "你的脑子里🎶",
+        "name": "黑心🖤萝莉小汐",
+        "pinned_tweet_id": "1877240679551648167",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873750636157960192/SXPPy-NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 5,
+          "like_count": 33,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 22
+        },
+        "username": "Xiao_Xi33",
+        "verified": false
+      }
+    ]
+  }
+}

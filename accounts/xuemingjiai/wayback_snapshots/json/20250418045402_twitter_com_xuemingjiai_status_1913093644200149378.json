@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1913093644200149378",
+    "created_at": "2025-04-18T04:54:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-18T05:54:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913093644200149378"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1513022584761516035",
+          "start": 3,
+          "username": "qingjiu1919810"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913093644200149378",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "1879001713383969018",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qingjiu1919810: 这里是晴玖哦——\n目前开始重新营业~营业时间为下午两点至晚上两点~\n门牌号请“上贡”5r后获得🖤\n主营业务“黑心压榨🖤”\n“温柔榨精❤️”\n“绿帽淫妻💚”\n当然🖤废物恋足小贱狗🖤\n可以磕头跪着贡金🖤求着咱玩弄呢🖤\n期待您的到来🖤 http…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1913093644200149378].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1913093644200149378",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1913093644200149378"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1606,
+        "media_key": "3_1879001710666149888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GhOOGbibcAA1vjz.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1879001710666149888"
+          ]
+        },
+        "author_id": "1513022584761516035",
+        "conversation_id": "1879001713383969018",
+        "created_at": "2025-01-14T03:04:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-14T04:04:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1879001713383969018"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1RyVvmfRX5",
+              "end": 138,
+              "expanded_url": "https://x.com/qingjiu1919810/status/1879001713383969018/photo/1",
+              "media_key": "3_1879001710666149888",
+              "start": 115,
+              "url": "https://t.co/1RyVvmfRX5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879001713383969018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 10576,
+          "like_count": 51,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "这里是晴玖哦——\n目前开始重新营业~营业时间为下午两点至晚上两点~\n门牌号请“上贡”5r后获得🖤\n主营业务“黑心压榨🖤”\n“温柔榨精❤️”\n“绿帽淫妻💚”\n当然🖤废物恋足小贱狗🖤\n可以磕头跪着贡金🖤求着咱玩弄呢🖤\n期待您的到来🖤 https://t.co/1RyVvmfRX5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "您好～这里是出道以来一直致力于为小雏男哥哥们提供“舒适”“安全”“极致射金体验”的纯真妹系小天使魔女妹妹💚\n想了解我请翻看我的推文～\nqq2829556413，碎碎念小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 85,
+                "username": "oricz233"
+              },
+              {
+                "end": 114,
+                "start": 105,
+                "username": "moelipoi"
+              },
+              {
+                "end": 132,
+                "start": 121,
+                "username": "cutelingli"
+              },
+              {
+                "end": 154,
+                "start": 139,
+                "username": "chessy80978858"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系天使偶像魔女小姐💖女仆限定版♪",
+        "pinned_tweet_id": "1912930515570835816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909108552796651520/gRlgoaOf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6681,
+          "following_count": 274,
+          "like_count": 285,
+          "listed_count": 29,
+          "media_count": 571,
+          "tweet_count": 1560
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-10T05:14:43.000Z",
+        "description": "营业时间🖤为下午两点至晚上十二点🖤\n门槛20r🖤\n价格🖤30r/30min🖤\n神秘小通道♡1052961310♡",
+        "id": "1513022584761516035",
+        "location": "你的脸上🖤",
+        "name": "晴玖",
+        "pinned_tweet_id": "1879001713383969018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1521499585151176705/_U0SdupE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 631,
+          "following_count": 1084,
+          "like_count": 11906,
+          "listed_count": 1,
+          "media_count": 69,
+          "tweet_count": 2070
+        },
+        "username": "qingjiu1919810",
+        "verified": false
+      }
+    ]
+  }
+}

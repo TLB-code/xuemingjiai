@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "2010542703088677262",
+    "created_at": "2026-01-12T02:41:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T03:41:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010542703088677262"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1374389254726455305",
+          "start": 3,
+          "username": "xuemingjiai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010542703088677262",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010090032166793328",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xuemingjiai: 今日份的专属推文哦\n想要享受充满母性的爱吗～\n本公主这里有哦～\nnull宝宝～乖乖w，从现在开始不可以再叫姐姐，主人之类的称呼了哦，取而代之的是“妈咪”...\n乖乖的靠在妈咪的胸口上，能感受到温柔与体香吗～不止是出色的钱包，更是奏奏妈咪听话乖巧…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2010542703088677262].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2010542703088677262",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2010542703088677262"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "alt_text": "乖乖乖～摸摸脑袋w\n谁说当钱包就不能被温柔对待啦？\n明明奏奏妈咪超级温柔的～对待每一只小钱包都是如此哦，你说对吧～null宝宝💜(胸部挤压着脸蛋～)\n看起来宝宝超级舒服的样子～下面的操控杆也撑起来了呀...还记得妈咪教过宝宝要学会享受流在裤裆里的快感嘛～\n奏奏妈咪会隔着裤子帮你搓的哦，会把宝宝培养成没有亲密身体接触就能流精的乖宝宝～\n不要抵抗哦～脸蛋憋得通红，就这么喜欢奏奏妈咪的洗面奶嘛～揉揉宝宝的裤裆哦，习惯上被布料摩擦的快感会坏掉哦～\n当然还有宝宝最喜欢的射金..不对，流金💜\n会为了舒服，每天都把脑浆和金币伴随着精液一起流出来的对吧～奏奏妈咪最可爱的提款机舔狗宝宝💜",
+        "height": 1216,
+        "media_key": "3_2010087335380287488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-VDyBjagAAu_7r.jpg",
+        "width": 832
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010087335380287488"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "2010090032166793328",
+        "created_at": "2026-01-10T20:43:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T21:43:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010090032166793328"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AsJiTNaXK2",
+              "end": 174,
+              "expanded_url": "https://x.com/xuemingjiai/status/2010090032166793328/photo/1",
+              "media_key": "3_2010087335380287488",
+              "start": 151,
+              "url": "https://t.co/AsJiTNaXK2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010090032166793328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 2737,
+          "like_count": 55,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "今日份的专属推文哦\n想要享受充满母性的爱吗～\n本公主这里有哦～\nnull宝宝～乖乖w，从现在开始不可以再叫姐姐，主人之类的称呼了哦，取而代之的是“妈咪”...\n乖乖的靠在妈咪的胸口上，能感受到温柔与体香吗～不止是出色的钱包，更是奏奏妈咪听话乖巧的可爱宝宝呢..\n点开图片左下角的ALT接受爱的洗礼吧💜 https://t.co/AsJiTNaXK2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🖤\n最最最最喜欢钱包们啦～\n联系方式→2829556413←\n病毒小号@oricz233\n现任魔女学园院长!\n星辰魔女镜璃\n@jingli1840489\n桃心魔女奈奈\n@blakexiaonai\n 黑白魔女花卷\n@miaomiaomi17630\n好老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 49,
+                "username": "oricz233"
+              },
+              {
+                "end": 90,
+                "start": 76,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 111,
+                "start": 98,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 136,
+                "start": 120,
+                "username": "miaomiaomi17630"
+              },
+              {
+                "end": 155,
+                "start": 140,
+                "username": "chessy80978858"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARosxSy"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🖤魔女学园院长版～",
+        "pinned_tweet_id": "1976743806063063398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009377548195778561/vWvReGfH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8148,
+          "following_count": 341,
+          "like_count": 645,
+          "listed_count": 37,
+          "media_count": 776,
+          "tweet_count": 2421
+        },
+        "url": "https://t.co/le8ARosxSy",
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

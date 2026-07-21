@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1979154340007792641"
+      ],
+      "media_source_tweet_id": [
+        "1979154354125865314"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "1979238773906117065",
+    "created_at": "2025-10-17T17:31:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T18:31:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979238773906117065"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1969571535515238403",
+          "start": 3,
+          "username": "yiyun13141"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OY3GZ9bxy5",
+          "end": 137,
+          "expanded_url": "https://x.com/yiyun13141/status/1979154354125865314/photo/1",
+          "media_key": "3_1979154340007792641",
+          "start": 114,
+          "url": "https://t.co/OY3GZ9bxy5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979238773906117065",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979154354125865314",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yiyun13141: 用甜言蜜语来诱惑你靠近～🖤\n\n靠近耳边轻轻说句“喜欢”就会死心塌地🖤\n\n然后～辛苦工作攒下来的金钱..🖤\n\n一瞬间就输给欲望被榨取干净～🖤\n\n无法摆脱～想要更多..🖤\n\n请“自觉”来“送死”哦🖤 https://t.co/OY3GZ9bxy5"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1979238773906117065].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1979238773906117065",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1979238773906117065"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1979154340007792641",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3deYt_WUAEyc1i.jpg",
+        "width": 1365
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979154340007792641"
+          ]
+        },
+        "author_id": "1969571535515238403",
+        "conversation_id": "1979154354125865314",
+        "created_at": "2025-10-17T11:55:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T12:55:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979154354125865314"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OY3GZ9bxy5",
+              "end": 121,
+              "expanded_url": "https://x.com/yiyun13141/status/1979154354125865314/photo/1",
+              "media_key": "3_1979154340007792641",
+              "start": 98,
+              "url": "https://t.co/OY3GZ9bxy5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979154354125865314",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "用甜言蜜语来诱惑你靠近～🖤\n\n靠近耳边轻轻说句“喜欢”就会死心塌地🖤\n\n然后～辛苦工作攒下来的金钱..🖤\n\n一瞬间就输给欲望被榨取干净～🖤\n\n无法摆脱～想要更多..🖤\n\n请“自觉”来“送死”哦🖤 https://t.co/OY3GZ9bxy5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n最最最最喜欢钱包们啦!\n天天挨骂真的不会腻嘛～\n擅长用爱意和温柔的语气俘虏钱包～\n联系方式→3971546171←\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 78,
+                "username": "oricz233"
+              },
+              {
+                "end": 107,
+                "start": 98,
+                "username": "moelipoi"
+              },
+              {
+                "end": 125,
+                "start": 114,
+                "username": "cutelingli"
+              },
+              {
+                "end": 147,
+                "start": 132,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 159,
+                "start": 152,
+                "username": "1xian1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARosxSy"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍对钱包们最温柔最有好感版",
+        "pinned_tweet_id": "1976743806063063398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969152325731168256/ozl0k8K4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7813,
+          "following_count": 323,
+          "like_count": 641,
+          "listed_count": 34,
+          "media_count": 738,
+          "tweet_count": 2241
+        },
+        "url": "https://t.co/le8ARosxSy",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-21T01:17:06.000Z",
+        "description": "新人文媛哦 设定是s系吸血鬼（雌堕中） \n擅长压榨/寸止/胁迫/射精管理/剧情向 如果您也想被我玩弄 就请踏入陷阱吧\n 🚪:3361785498  60/1h\n营业时间晚上10点-凌晨1点",
+        "id": "1969571535515238403",
+        "name": "依云～新人文援营业中",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977575103752994816/yFsM3tqd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 13,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 18
+        },
+        "username": "yiyun13141",
+        "verified": true
+      }
+    ]
+  }
+}

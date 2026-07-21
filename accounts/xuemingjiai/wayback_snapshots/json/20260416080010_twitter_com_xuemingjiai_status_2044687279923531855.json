@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "2044605810580525391",
+    "created_at": "2026-04-16T08:00:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T09:00:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044687279923531855"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1816276177356726272",
+          "start": 0,
+          "username": "cbcbgjc111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044687279923531855",
+    "in_reply_to_user_id": "1816276177356726272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044670362429059526",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cbcbgjc111 看私信喔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "2044605810580525391",
+        "created_at": "2026-04-16T08:00:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T09:00:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044687279923531855"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1816276177356726272",
+              "start": 0,
+              "username": "cbcbgjc111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044687279923531855",
+        "in_reply_to_user_id": "1816276177356726272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044670362429059526",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cbcbgjc111 看私信喔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1816276177356726272",
+        "conversation_id": "2044605810580525391",
+        "created_at": "2026-04-16T06:52:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T07:52:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044670362429059526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1374389254726455305",
+              "start": 0,
+              "username": "xuemingjiai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044670362429059526",
+        "in_reply_to_user_id": "1374389254726455305",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044605810580525391",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xuemingjiai 抽奖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会魅惑并享用钱包的公主殿下🤍\n最最最最喜欢钱包们啦～\n联系方式→2829556413←\n病毒小号@oricz233\n现任魔女学园院长!\n星辰魔女镜璃\n@jingli1840489\n桃心魔女奈奈\n@blakexiaonai\n 黑白魔女花卷\n@miaomiaomi17630\n好老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 52,
+                "username": "oricz233"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 114,
+                "start": 101,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 139,
+                "start": 123,
+                "username": "miaomiaomi17630"
+              },
+              {
+                "end": 158,
+                "start": 143,
+                "username": "chessy80978858"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "魅惑系魔女族公主-奏💜魔女学园院长版～",
+        "pinned_tweet_id": "2013314916120416537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018477066753306624/36q-3UGh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8445,
+          "following_count": 349,
+          "like_count": 633,
+          "listed_count": 35,
+          "media_count": 825,
+          "tweet_count": 2183
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-25T00:56:11.000Z",
+        "description": "你好，你现在看到的是葛叶大人的淫臭鞋垫之一，我已自愿为葛叶真明贡献账号1次，我已自愿签署射精管理协议，没有主人的倒计时就无法高潮，只有闻着足臭寸止到崩溃才能高潮的鞋垫，已经控制不住的无脑发情了吗，那就握着下面，点击下面的链接查看签署协议，成为葛叶大人的众多鞋垫之一吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/geye_zm/status…",
+                "end": 23,
+                "expanded_url": "https://x.com/geye_zm/status/1959891033132507591",
+                "start": 0,
+                "url": "https://t.co/ZU4GDdjhKG"
+              }
+            ]
+          }
+        },
+        "id": "1816276177356726272",
+        "location": "查看协议→",
+        "name": "吃吧吃吧公交车",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997492730423857152/vVsNkxAg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 170,
+          "like_count": 4491,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 4
+        },
+        "url": "https://t.co/ZU4GDdjhKG",
+        "username": "cbcbgjc111",
+        "verified": false
+      }
+    ]
+  }
+}

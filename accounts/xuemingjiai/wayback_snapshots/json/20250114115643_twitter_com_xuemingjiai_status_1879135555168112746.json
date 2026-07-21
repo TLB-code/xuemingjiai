@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1878959128120541184"
+      ],
+      "media_source_tweet_id": [
+        "1878959130842714223"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "1879135555168112746",
+    "created_at": "2025-01-14T11:56:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-14T12:56:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1879135555168112746"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1813090317694083076",
+          "start": 3,
+          "username": "Xiao_Xi33"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zOFBVd9DSR",
+          "end": 122,
+          "expanded_url": "https://x.com/Xiao_Xi33/status/1878959130842714223/photo/1",
+          "media_key": "3_1878959128120541184",
+          "start": 99,
+          "url": "https://t.co/zOFBVd9DSR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1879135555168112746",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1878959130842714223",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Xiao_Xi33: 小汐知道哦～每个人都有着自己专属的秘密呢❤️比如微信的支付密码，QQ的账号密码，或者是自己的居住地址什么的💚那...今天的主题就是把自己的秘密全部都交给小汐来保管哦🎶 https://t.co/zOFBVd9DSR"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1879135555168112746].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1879135555168112746",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1879135555168112746"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_1878959128120541184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GhNnXzMaQAAM9c4.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1878959128120541184"
+          ]
+        },
+        "author_id": "1813090317694083076",
+        "conversation_id": "1878959130842714223",
+        "created_at": "2025-01-14T00:15:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-14T01:15:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1878959130842714223"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zOFBVd9DSR",
+              "end": 107,
+              "expanded_url": "https://x.com/Xiao_Xi33/status/1878959130842714223/photo/1",
+              "media_key": "3_1878959128120541184",
+              "start": 84,
+              "url": "https://t.co/zOFBVd9DSR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878959130842714223",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 124,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小汐知道哦～每个人都有着自己专属的秘密呢❤️比如微信的支付密码，QQ的账号密码，或者是自己的居住地址什么的💚那...今天的主题就是把自己的秘密全部都交给小汐来保管哦🎶 https://t.co/zOFBVd9DSR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "您好～这里是出道以来一直致力于为小雏男哥哥们提供“舒适”“安全”“极致快感”的纯真妹系小天使魔女妹妹💚\n想了解我请翻看我的推文～\nqq2829556413，碎碎念小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 83,
+                "username": "oricz233"
+              },
+              {
+                "end": 112,
+                "start": 103,
+                "username": "moelipoi"
+              },
+              {
+                "end": 130,
+                "start": 119,
+                "username": "cutelingli"
+              },
+              {
+                "end": 152,
+                "start": 137,
+                "username": "chessy80978858"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系天使偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878142670054604800/aZFysFDs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6310,
+          "following_count": 250,
+          "like_count": 286,
+          "listed_count": 29,
+          "media_count": 532,
+          "tweet_count": 1465
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-16T05:56:42.000Z",
+        "description": "哈喽~这里是喜欢🖤调教小雏男的坏坏💚萝莉小汐哦🎶擅长用段的方式一点点💜洗脑小雏男哦~记得看置顶呢——\n门牌是：3857907304",
+        "id": "1813090317694083076",
+        "location": "你的脑子里🎶",
+        "name": "黑心🖤萝莉小汐",
+        "pinned_tweet_id": "1877240679551648167",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873750636157960192/SXPPy-NK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 5,
+          "like_count": 29,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 18
+        },
+        "username": "Xiao_Xi33",
+        "verified": false
+      }
+    ]
+  }
+}

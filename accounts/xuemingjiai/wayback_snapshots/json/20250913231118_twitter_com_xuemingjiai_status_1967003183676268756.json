@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1965793669010911232"
+      ],
+      "media_source_tweet_id": [
+        "1965793677395259752"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "1967003183676268756",
+    "created_at": "2025-09-13T23:11:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T00:11:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967003183676268756"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1696056509023625217",
+          "start": 3,
+          "username": "CuteLingli"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NPW4LCwsCd",
+          "end": 70,
+          "expanded_url": "https://x.com/CuteLingli/status/1965793677395259752/photo/1",
+          "media_key": "3_1965793669010911232",
+          "start": 47,
+          "url": "https://t.co/NPW4LCwsCd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967003183676268756",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965793677395259752",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CuteLingli: 要睡觉了，那就拜托看到这条推文的人都去对着玲璃的推文寸止吧w https://t.co/NPW4LCwsCd"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1967003183676268756].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1967003183676268756",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1967003183676268756"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1965793669010911232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0fm7T8bcAAp1br.jpg",
+        "width": 1175
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965793669010911232"
+          ]
+        },
+        "author_id": "1696056509023625217",
+        "conversation_id": "1965793677395259752",
+        "created_at": "2025-09-10T15:05:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T16:05:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965793677395259752"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NPW4LCwsCd",
+              "end": 54,
+              "expanded_url": "https://x.com/CuteLingli/status/1965793677395259752/photo/1",
+              "media_key": "3_1965793669010911232",
+              "start": 31,
+              "url": "https://t.co/NPW4LCwsCd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965793677395259752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3312,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "要睡觉了，那就拜托看到这条推文的人都去对着玲璃的推文寸止吧w https://t.co/NPW4LCwsCd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n我是一名钱包刽子手。\n如果你也想被我杀死的话→\n242184780←\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 55,
+                "username": "oricz233"
+              },
+              {
+                "end": 84,
+                "start": 75,
+                "username": "moelipoi"
+              },
+              {
+                "end": 102,
+                "start": 91,
+                "username": "cutelingli"
+              },
+              {
+                "end": 124,
+                "start": 109,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 136,
+                "start": 129,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍魔女讨伐组织高级顾问～",
+        "pinned_tweet_id": "1945511067926536238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952517800502652928/-lp8k7Gh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8240,
+          "following_count": 337,
+          "like_count": 637,
+          "listed_count": 37,
+          "media_count": 725,
+          "tweet_count": 2216
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-28T07:06:06.000Z",
+        "description": "温柔向压榨系。请不要踏入陷阱~否则脑子和钱包都会的变得一塌糊涂。我很懒，所以不涉三。不想送死别来加我~ 门牌🚪3875489005，门槛会增加好感，不过请随意，我只是想单纯地想要你的钱~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "afdian.com/a/cutelingli",
+                "end": 23,
+                "expanded_url": "https://afdian.com/a/cutelingli",
+                "start": 0,
+                "url": "https://t.co/Di7OiY89Hx"
+              }
+            ]
+          }
+        },
+        "id": "1696056509023625217",
+        "location": "你的心里❤️",
+        "name": "玲璃",
+        "pinned_tweet_id": "1966302235970908641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936595198689095680/b1T5cEFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2473,
+          "following_count": 168,
+          "like_count": 299,
+          "listed_count": 8,
+          "media_count": 131,
+          "tweet_count": 486
+        },
+        "url": "https://t.co/Di7OiY89Hx",
+        "username": "CuteLingli",
+        "verified": false
+      }
+    ]
+  }
+}

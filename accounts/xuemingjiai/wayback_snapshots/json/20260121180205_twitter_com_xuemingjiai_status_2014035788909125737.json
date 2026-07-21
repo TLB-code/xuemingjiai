@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2014035594553483264",
+        "3_2014035625511460865",
+        "3_2014035647980576768",
+        "3_2014035742067138562"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2014035788909125737",
+    "created_at": "2026-01-21T18:02:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T19:02:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2014035788909125737"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lJQxrq32CY",
+          "end": 167,
+          "expanded_url": "https://x.com/xuemingjiai/status/2014035788909125737/photo/1",
+          "media_key": "3_2014035594553483264",
+          "start": 144,
+          "url": "https://t.co/lJQxrq32CY"
+        },
+        {
+          "display_url": "pic.x.com/lJQxrq32CY",
+          "end": 167,
+          "expanded_url": "https://x.com/xuemingjiai/status/2014035788909125737/photo/1",
+          "media_key": "3_2014035625511460865",
+          "start": 144,
+          "url": "https://t.co/lJQxrq32CY"
+        },
+        {
+          "display_url": "pic.x.com/lJQxrq32CY",
+          "end": 167,
+          "expanded_url": "https://x.com/xuemingjiai/status/2014035788909125737/photo/1",
+          "media_key": "3_2014035647980576768",
+          "start": 144,
+          "url": "https://t.co/lJQxrq32CY"
+        },
+        {
+          "display_url": "pic.x.com/lJQxrq32CY",
+          "end": 167,
+          "expanded_url": "https://x.com/xuemingjiai/status/2014035788909125737/photo/1",
+          "media_key": "3_2014035742067138562",
+          "start": 144,
+          "url": "https://t.co/lJQxrq32CY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014035788909125737",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "给各位小钱包介绍一下哦...\n图上的这位，和本公主认识好几年，每次被本公主吸干钱包都会消失一两个月，嘴里说着要戒掉奏奏，每次都会自己送死或者被本公主抓住再次榨干🤍\n在这里也跟某只淫乱钱包小冷说一句哦，染上奏奏，这辈子都别想拥有正常的快感了♪\n同时也出售这份超强压制压迫感拉满的榨金记录哦 https://t.co/lJQxrq32CY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2158,
+        "media_key": "3_2014035594553483264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_NKs9JaYAA4q4n.jpg",
+        "width": 540
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2014035625511460865",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_NKuweXoAEzukR.jpg",
+        "width": 674
+      },
+      {
+        "height": 2706,
+        "media_key": "3_2014035647980576768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_NKwELbIAAmvDt.jpg",
+        "width": 540
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2014035742067138562",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_NK1iraIAI-0iH.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014035594553483264",
+            "3_2014035625511460865",
+            "3_2014035647980576768",
+            "3_2014035742067138562"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2014035788909125737",
+        "created_at": "2026-01-21T18:02:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T19:02:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014035788909125737"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lJQxrq32CY",
+              "end": 167,
+              "expanded_url": "https://x.com/xuemingjiai/status/2014035788909125737/photo/1",
+              "media_key": "3_2014035594553483264",
+              "start": 144,
+              "url": "https://t.co/lJQxrq32CY"
+            },
+            {
+              "display_url": "pic.x.com/lJQxrq32CY",
+              "end": 167,
+              "expanded_url": "https://x.com/xuemingjiai/status/2014035788909125737/photo/1",
+              "media_key": "3_2014035625511460865",
+              "start": 144,
+              "url": "https://t.co/lJQxrq32CY"
+            },
+            {
+              "display_url": "pic.x.com/lJQxrq32CY",
+              "end": 167,
+              "expanded_url": "https://x.com/xuemingjiai/status/2014035788909125737/photo/1",
+              "media_key": "3_2014035647980576768",
+              "start": 144,
+              "url": "https://t.co/lJQxrq32CY"
+            },
+            {
+              "display_url": "pic.x.com/lJQxrq32CY",
+              "end": 167,
+              "expanded_url": "https://x.com/xuemingjiai/status/2014035788909125737/photo/1",
+              "media_key": "3_2014035742067138562",
+              "start": 144,
+              "url": "https://t.co/lJQxrq32CY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014035788909125737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "给各位小钱包介绍一下哦...\n图上的这位，和本公主认识好几年，每次被本公主吸干钱包都会消失一两个月，嘴里说着要戒掉奏奏，每次都会自己送死或者被本公主抓住再次榨干🤍\n在这里也跟某只淫乱钱包小冷说一句哦，染上奏奏，这辈子都别想拥有正常的快感了♪\n同时也出售这份超强压制压迫感拉满的榨金记录哦 https://t.co/lJQxrq32CY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🖤\n最最最最喜欢钱包们啦～\n联系方式→2829556413←\n病毒小号@oricz233\n现任魔女学园院长!\n星辰魔女镜璃\n@jingli1840489\n桃心魔女奈奈\n@blakexiaonai\n 黑白魔女花卷\n@miaomiaomi17630\n好老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 49,
+                "username": "oricz233"
+              },
+              {
+                "end": 90,
+                "start": 76,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 111,
+                "start": 98,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 136,
+                "start": 120,
+                "username": "miaomiaomi17630"
+              },
+              {
+                "end": 155,
+                "start": 140,
+                "username": "chessy80978858"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARosxSy"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🖤魔女学园院长版～",
+        "pinned_tweet_id": "2013314916120416537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012984933145276416/x6NCrC3__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8210,
+          "following_count": 350,
+          "like_count": 640,
+          "listed_count": 37,
+          "media_count": 789,
+          "tweet_count": 2118
+        },
+        "url": "https://t.co/le8ARosxSy",
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

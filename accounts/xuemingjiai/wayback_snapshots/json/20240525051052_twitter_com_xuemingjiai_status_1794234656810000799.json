@@ -1,0 +1,152 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1794234656810000799",
+    "created_at": "2024-05-25T05:10:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-25T06:10:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1794234656810000799"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1772824817647165440",
+          "start": 3,
+          "username": "kekemiao1234"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1794234656810000799",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1793226327816049150",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kekemiao1234: 昨天这只来犯贱白给的贱狗🖤尽管我说了没空接单🖤依然吐钱求着祖宗压榨呢🖤结果只有上贡才能得到敷衍的回复🖤对着随处可见的网图疯狂贡金🖤被马赛克戏耍到丧志🖤最后更是被命令对着图片吐钱到射～可可什么都不做就把傻逼的狗屌和钱包全部榨干了呢🖤 https…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1794234656810000799].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1794234656810000799",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1794234656810000799"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1793226318483726336",
+            "3_1793226318475374592"
+          ]
+        },
+        "author_id": "1772824817647165440",
+        "conversation_id": "1793226327816049150",
+        "created_at": "2024-05-22T10:24:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-22T11:24:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1793226327816049150"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/PTBRPg4hau",
+              "end": 139,
+              "expanded_url": "https://twitter.com/kekemiao1234/status/1793226327816049150/photo/1",
+              "media_key": "3_1793226318483726336",
+              "start": 116,
+              "url": "https://t.co/PTBRPg4hau"
+            },
+            {
+              "display_url": "pic.twitter.com/PTBRPg4hau",
+              "end": 139,
+              "expanded_url": "https://twitter.com/kekemiao1234/status/1793226327816049150/photo/1",
+              "media_key": "3_1793226318475374592",
+              "start": 116,
+              "url": "https://t.co/PTBRPg4hau"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793226327816049150",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1356,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "昨天这只来犯贱白给的贱狗🖤尽管我说了没空接单🖤依然吐钱求着祖宗压榨呢🖤结果只有上贡才能得到敷衍的回复🖤对着随处可见的网图疯狂贡金🖤被马赛克戏耍到丧志🖤最后更是被命令对着图片吐钱到射～可可什么都不做就把傻逼的狗屌和钱包全部榨干了呢🖤 https://t.co/PTBRPg4hau"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "就如同推特名一样\n是传说中的网络美少女，在异世界中是名副其实的“魔女”💜\n对人类世界充满好奇，会用自己的一些方式来洗脑一些小雏男以满足自己的恶趣味，非常拜金💚征集人型钱包中..\n门牌是2829556413和2438028521（备用）\n请来送死~♡\n不涉三哦",
+        "id": "1374389254726455305",
+        "name": "请叫我魔女小姐💜（白纸计划上线中）",
+        "pinned_tweet_id": "1791781042321571928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790638369040711680/qE_AOavg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4838,
+          "following_count": 160,
+          "like_count": 141,
+          "listed_count": 23,
+          "tweet_count": 954
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-27T03:16:02.000Z",
+        "description": "门牌3689271536，不涉三",
+        "id": "1772824817647165440",
+        "name": "可可",
+        "pinned_tweet_id": "1783511650995466731",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772824946496131072/DV1K64Wc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 732,
+          "following_count": 18,
+          "like_count": 14,
+          "listed_count": 2,
+          "tweet_count": 128
+        },
+        "username": "kekemiao1234",
+        "verified": false
+      }
+    ]
+  }
+}

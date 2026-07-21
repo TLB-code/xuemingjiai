@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1932078940832890957",
+    "created_at": "2025-06-09T14:14:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-09T15:14:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932078940832890957"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1179864401630957569",
+          "start": 3,
+          "username": "shion94755"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932078940832890957",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921534200567529493",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shion94755: 正式向各位重新做一遍自我介绍哦\n\n从今天开始，架空恶役美少女角色，诗音-可可正式开始在推特营业了哦w\n\n虽然也不会做什么特别大的改动就是了www\n\n欢迎各位新老“粉丝”来多多“接触”本小姐的一切哦w\n\n只不过，本小姐不保证在接触的过程中会不会产生…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1932078940832890957].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1932078940832890957",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1932078940832890957"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2245,
+        "media_key": "3_1921534196280963072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqqpK7kXsAApbnu.jpg",
+        "width": 1587
+      },
+      {
+        "height": 2245,
+        "media_key": "3_1921534195685367808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqqpK5WXoAAE9zv.jpg",
+        "width": 1587
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1921534196280963072",
+            "3_1921534195685367808"
+          ]
+        },
+        "author_id": "1179864401630957569",
+        "conversation_id": "1921534200567529493",
+        "created_at": "2025-05-11T11:53:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-11T12:53:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921534200567529493"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XrGnFxdtl0",
+              "end": 170,
+              "expanded_url": "https://x.com/shion94755/status/1921534200567529493/photo/1",
+              "media_key": "3_1921534196280963072",
+              "start": 147,
+              "url": "https://t.co/XrGnFxdtl0"
+            },
+            {
+              "display_url": "pic.x.com/XrGnFxdtl0",
+              "end": 170,
+              "expanded_url": "https://x.com/shion94755/status/1921534200567529493/photo/1",
+              "media_key": "3_1921534195685367808",
+              "start": 147,
+              "url": "https://t.co/XrGnFxdtl0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921534200567529493",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 36836,
+          "like_count": 62,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "正式向各位重新做一遍自我介绍哦\n\n从今天开始，架空恶役美少女角色，诗音-可可正式开始在推特营业了哦w\n\n虽然也不会做什么特别大的改动就是了www\n\n欢迎各位新老“粉丝”来多多“接触”本小姐的一切哦w\n\n只不过，本小姐不保证在接触的过程中会不会产生【不良影响】呢（笑）\n\n请一定要“想”清楚哦？ https://t.co/XrGnFxdtl0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n你也会因为窥视我的美貌而心甘情愿沦为钱包被我使用的对吗？\n钱包报名入口：242184780\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 66,
+                "username": "oricz233"
+              },
+              {
+                "end": 95,
+                "start": 86,
+                "username": "moelipoi"
+              },
+              {
+                "end": 113,
+                "start": 102,
+                "username": "cutelingli"
+              },
+              {
+                "end": 135,
+                "start": 120,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 147,
+                "start": 140,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍驯化公用钱包👛中",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931064828044713984/9qwnduVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7164,
+          "following_count": 303,
+          "like_count": 347,
+          "listed_count": 34,
+          "media_count": 668,
+          "tweet_count": 1995
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-03T21:02:56.000Z",
+        "description": "普通的，稍微有点坏心眼的架空美少女恶役角色哦❤️\n\n一旦迷上本小姐的话，后果应该会非常糟糕吧wwwwwwwwww🖤\n\n不过～实在是非常想和本小姐“接触”的话～就先请本小姐喝杯咖啡吧？这样，本小姐就能轻松的辨别出你的“真心”了呢（笑）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "payhip.com/Shion97455",
+                "end": 23,
+                "expanded_url": "https://payhip.com/Shion97455",
+                "start": 0,
+                "url": "https://t.co/LsEB3gOJgB"
+              }
+            ]
+          }
+        },
+        "id": "1179864401630957569",
+        "location": "距离你6.5公里",
+        "name": "诗音🖤可可",
+        "pinned_tweet_id": "1921534200567529493",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908135150376071169/DZY_ofOF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6454,
+          "following_count": 80,
+          "like_count": 104,
+          "listed_count": 14,
+          "media_count": 632,
+          "tweet_count": 1000
+        },
+        "url": "https://t.co/LsEB3gOJgB",
+        "username": "shion94755",
+        "verified": false
+      }
+    ]
+  }
+}

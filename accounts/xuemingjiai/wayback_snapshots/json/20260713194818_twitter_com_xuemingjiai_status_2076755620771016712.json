@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "2076755620771016712",
+    "created_at": "2026-07-13T19:48:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T20:48:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076755620771016712"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1374389254726455305",
+          "start": 3,
+          "username": "xuemingjiai"
+        }
+      ],
+      "urls": [
+        {
+          "description": "You are invited to a group chat on Telegram. Click to",
+          "display_url": "t.me/+LI_NqPcVcKc0M…",
+          "end": 40,
+          "expanded_url": "http://t.me/+LI_NqPcVcKc0MGVl",
+          "images": [
+            {
+              "height": 256,
+              "url": "https://pbs.twimg.com/news_img/2076679004770422784/E09AaUvS?format=png&name=orig",
+              "width": 256
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2076679004770422784/E09AaUvS?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 17,
+          "status": 200,
+          "title": "Join group chat on Telegram",
+          "unwound_url": "https://t.me/+LI_NqPcVcKc0MGVl",
+          "url": "https://t.co/lXP0ffToSv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076755620771016712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076679314960204221",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xuemingjiai: https://t.co/lXP0ffToSv\ntg群!因为有很多宝宝可能不太方便加qq什么的，所以在tg开了一个关于奏游的群组，同时只要进群就可以注册奏游(但是无法开通签到以及月卡权限，需要赞助)\n一起来玩奏游吧，在这里当勇者，当魅魔，涩涩，…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1216,
+        "media_key": "3_2076679299869126657",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNHY0g0bMAEHPF8.jpg",
+        "width": 832
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "2076755620771016712",
+        "created_at": "2026-07-13T19:48:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T20:48:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076755620771016712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1374389254726455305",
+              "start": 3,
+              "username": "xuemingjiai"
+            }
+          ],
+          "urls": [
+            {
+              "description": "You are invited to a group chat on Telegram. Click to",
+              "display_url": "t.me/+LI_NqPcVcKc0M…",
+              "end": 40,
+              "expanded_url": "http://t.me/+LI_NqPcVcKc0MGVl",
+              "images": [
+                {
+                  "height": 256,
+                  "url": "https://pbs.twimg.com/news_img/2076679004770422784/E09AaUvS?format=png&name=orig",
+                  "width": 256
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2076679004770422784/E09AaUvS?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Join group chat on Telegram",
+              "unwound_url": "https://t.me/+LI_NqPcVcKc0MGVl",
+              "url": "https://t.co/lXP0ffToSv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076755620771016712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076679314960204221",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xuemingjiai: https://t.co/lXP0ffToSv\ntg群!因为有很多宝宝可能不太方便加qq什么的，所以在tg开了一个关于奏游的群组，同时只要进群就可以注册奏游(但是无法开通签到以及月卡权限，需要赞助)\n一起来玩奏游吧，在这里当勇者，当魅魔，涩涩，…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076679299869126657"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "2076679314960204221",
+        "created_at": "2026-07-13T14:45:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T15:45:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076679314960204221"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "You are invited to a group chat on Telegram. Click to",
+              "display_url": "t.me/+LI_NqPcVcKc0M…",
+              "end": 23,
+              "expanded_url": "http://t.me/+LI_NqPcVcKc0MGVl",
+              "images": [
+                {
+                  "height": 256,
+                  "url": "https://pbs.twimg.com/news_img/2076679004770422784/E09AaUvS?format=png&name=orig",
+                  "width": 256
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2076679004770422784/E09AaUvS?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Join group chat on Telegram",
+              "unwound_url": "https://t.me/+LI_NqPcVcKc0MGVl",
+              "url": "https://t.co/lXP0ffToSv"
+            },
+            {
+              "display_url": "pic.x.com/fSbDVUJ7WW",
+              "end": 168,
+              "expanded_url": "https://x.com/xuemingjiai/status/2076679314960204221/photo/1",
+              "media_key": "3_2076679299869126657",
+              "start": 145,
+              "url": "https://t.co/fSbDVUJ7WW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076679314960204221",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1016,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/lXP0ffToSv\ntg群!因为有很多宝宝可能不太方便加qq什么的，所以在tg开了一个关于奏游的群组，同时只要进群就可以注册奏游(但是无法开通签到以及月卡权限，需要赞助)\n一起来玩奏游吧，在这里当勇者，当魅魔，涩涩，上贡，打牌下棋，赌博(不是)\n(这个是频道) https://t.co/fSbDVUJ7WW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "你也觉得你面前的这只魔女可爱过头了吧？\n对的!她和别人不一样!\n邂逅方式→2829556413←↓\n242184780\n涩气内容@oricz233\n星辰魔女镜璃\n@jingli1840489\n桃心魔女奈奈\n@blakexiaonai\n 黑白魔女花卷\n@miaomiaomyoez2\n好老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 64,
+                "username": "oricz233"
+              },
+              {
+                "end": 95,
+                "start": 81,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 116,
+                "start": 103,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 140,
+                "start": 125,
+                "username": "miaomiaomyoez2"
+              },
+              {
+                "end": 159,
+                "start": 144,
+                "username": "chessy80978858"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "超可爱超绿茶超撩人的精灵魔女-奏奏💚",
+        "pinned_tweet_id": "2065914875877228650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072648103233241088/u2T2ysnC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9268,
+          "following_count": 419,
+          "like_count": 675,
+          "listed_count": 40,
+          "media_count": 841,
+          "tweet_count": 2267
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

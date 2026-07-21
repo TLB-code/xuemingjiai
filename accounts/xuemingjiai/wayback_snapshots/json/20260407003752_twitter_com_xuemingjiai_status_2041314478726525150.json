@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041314259653799936",
+        "3_2041314413261836288",
+        "3_2041314437324496896",
+        "3_2041314461534109696"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "2041314478726525150",
+    "created_at": "2026-04-07T00:37:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T01:37:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041314478726525150"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/DedE5gWJ9i",
+          "end": 166,
+          "expanded_url": "https://x.com/xuemingjiai/status/2041314478726525150/photo/1",
+          "media_key": "3_2041314259653799936",
+          "start": 143,
+          "url": "https://t.co/DedE5gWJ9i"
+        },
+        {
+          "display_url": "pic.x.com/DedE5gWJ9i",
+          "end": 166,
+          "expanded_url": "https://x.com/xuemingjiai/status/2041314478726525150/photo/1",
+          "media_key": "3_2041314413261836288",
+          "start": 143,
+          "url": "https://t.co/DedE5gWJ9i"
+        },
+        {
+          "display_url": "pic.x.com/DedE5gWJ9i",
+          "end": 166,
+          "expanded_url": "https://x.com/xuemingjiai/status/2041314478726525150/photo/1",
+          "media_key": "3_2041314437324496896",
+          "start": 143,
+          "url": "https://t.co/DedE5gWJ9i"
+        },
+        {
+          "display_url": "pic.x.com/DedE5gWJ9i",
+          "end": 166,
+          "expanded_url": "https://x.com/xuemingjiai/status/2041314478726525150/photo/1",
+          "media_key": "3_2041314461534109696",
+          "start": 143,
+          "url": "https://t.co/DedE5gWJ9i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041314478726525150",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这是一封来自魔女奏奏的邀请函\n是发给所有喜欢奏奏妈咪乖宝宝的“情书”🤍\n由于推特字数限制，想对宝宝们说的话就放在第一张图里面啦~\n真的最最最喜欢宝宝们了w\n如果喜欢奏奏妈咪的推文风格，制作出来的游戏，问卷，刷到这条推文愿意停下来，花几分钟时间阅读奏奏妈咪的告白话语，妈咪会非常开心的♡ https://t.co/DedE5gWJ9i"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2041314259653799936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFQ0gPmasAAm04m.jpg",
+        "width": 603
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2041314413261836288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFQ0pL1bUAAG1NO.jpg",
+        "width": 882
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2041314437324496896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFQ0qleaYAA8GgU.jpg",
+        "width": 882
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2041314461534109696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFQ0r_qbwAAqSQv.jpg",
+        "width": 882
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041314259653799936",
+            "3_2041314413261836288",
+            "3_2041314437324496896",
+            "3_2041314461534109696"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "2041314478726525150",
+        "created_at": "2026-04-07T00:37:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T01:37:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041314478726525150"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DedE5gWJ9i",
+              "end": 166,
+              "expanded_url": "https://x.com/xuemingjiai/status/2041314478726525150/photo/1",
+              "media_key": "3_2041314259653799936",
+              "start": 143,
+              "url": "https://t.co/DedE5gWJ9i"
+            },
+            {
+              "display_url": "pic.x.com/DedE5gWJ9i",
+              "end": 166,
+              "expanded_url": "https://x.com/xuemingjiai/status/2041314478726525150/photo/1",
+              "media_key": "3_2041314413261836288",
+              "start": 143,
+              "url": "https://t.co/DedE5gWJ9i"
+            },
+            {
+              "display_url": "pic.x.com/DedE5gWJ9i",
+              "end": 166,
+              "expanded_url": "https://x.com/xuemingjiai/status/2041314478726525150/photo/1",
+              "media_key": "3_2041314437324496896",
+              "start": 143,
+              "url": "https://t.co/DedE5gWJ9i"
+            },
+            {
+              "display_url": "pic.x.com/DedE5gWJ9i",
+              "end": 166,
+              "expanded_url": "https://x.com/xuemingjiai/status/2041314478726525150/photo/1",
+              "media_key": "3_2041314461534109696",
+              "start": 143,
+              "url": "https://t.co/DedE5gWJ9i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041314478726525150",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是一封来自魔女奏奏的邀请函\n是发给所有喜欢奏奏妈咪乖宝宝的“情书”🤍\n由于推特字数限制，想对宝宝们说的话就放在第一张图里面啦~\n真的最最最喜欢宝宝们了w\n如果喜欢奏奏妈咪的推文风格，制作出来的游戏，问卷，刷到这条推文愿意停下来，花几分钟时间阅读奏奏妈咪的告白话语，妈咪会非常开心的♡ https://t.co/DedE5gWJ9i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会魅惑并享用钱包的公主殿下🤍\n最最最最喜欢钱包们啦～\n联系方式→2829556413←\n病毒小号@oricz233\n现任魔女学园院长!\n星辰魔女镜璃\n@jingli1840489\n桃心魔女奈奈\n@blakexiaonai\n 黑白魔女花卷\n@miaomiaomi17630\n好老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 52,
+                "username": "oricz233"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 114,
+                "start": 101,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 139,
+                "start": 123,
+                "username": "miaomiaomi17630"
+              },
+              {
+                "end": 158,
+                "start": 143,
+                "username": "chessy80978858"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "魅惑系魔女族公主-奏💜魔女学园院长版～",
+        "pinned_tweet_id": "2013314916120416537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018477066753306624/36q-3UGh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8627,
+          "following_count": 359,
+          "like_count": 633,
+          "listed_count": 36,
+          "media_count": 823,
+          "tweet_count": 2172
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

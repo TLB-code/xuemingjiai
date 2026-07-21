@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1995889603426091163",
+    "created_at": "2025-12-02T16:15:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T17:15:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995889603426091163"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1696056509023625217",
+          "start": 3,
+          "username": "CuteLingli"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995889603426091163",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994343962719465547",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CuteLingli: 不好意思，既然选择作为『贡奴』，就只能真的被当做提款机一样使用了哦~\n既然是提款机，我也不需要说什么额外的话了吧🖤\n只是被简单的命令把钱包清空，然后看着一条一条钱包被夺走的消息，连正常的高潮都不配拥有🖤\n悲惨地被毁掉就可以了~\n就算这样，也要不停…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1995889603426091163].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1995889603426091163",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1995889603426091163"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1945,
+        "media_key": "3_1994343959712432128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G61VQ86bAAA1yFf.jpg",
+        "width": 924
+      },
+      {
+        "height": 1951,
+        "media_key": "3_1994343959930507264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G61VQ9uakAA9NaC.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994343959712432128",
+            "3_1994343959930507264"
+          ]
+        },
+        "author_id": "1696056509023625217",
+        "conversation_id": "1994343962719465547",
+        "created_at": "2025-11-28T09:53:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T10:53:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994343962719465547"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7u6cdr3ZNP",
+              "end": 167,
+              "expanded_url": "https://x.com/CuteLingli/status/1994343962719465547/photo/1",
+              "media_key": "3_1994343959712432128",
+              "start": 144,
+              "url": "https://t.co/7u6cdr3ZNP"
+            },
+            {
+              "display_url": "pic.x.com/7u6cdr3ZNP",
+              "end": 167,
+              "expanded_url": "https://x.com/CuteLingli/status/1994343962719465547/photo/1",
+              "media_key": "3_1994343959930507264",
+              "start": 144,
+              "url": "https://t.co/7u6cdr3ZNP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994343962719465547",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1711,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "不好意思，既然选择作为『贡奴』，就只能真的被当做提款机一样使用了哦~\n既然是提款机，我也不需要说什么额外的话了吧🖤\n只是被简单的命令把钱包清空，然后看着一条一条钱包被夺走的消息，连正常的高潮都不配拥有🖤\n悲惨地被毁掉就可以了~\n就算这样，也要不停地，对人家说『■■』哦❤️\n请不要坏掉🖤 https://t.co/7u6cdr3ZNP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n最最最最喜欢钱包们啦!\n天天挨骂真的不会腻嘛～\n擅长用爱意和温柔的语气俘虏钱包～\n联系方式→242184780←\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 77,
+                "username": "oricz233"
+              },
+              {
+                "end": 106,
+                "start": 97,
+                "username": "moelipoi"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "cutelingli"
+              },
+              {
+                "end": 146,
+                "start": 131,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 158,
+                "start": 151,
+                "username": "1xian1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍对钱包们最温柔最有好感版",
+        "pinned_tweet_id": "1976743806063063398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991861278688821248/oCQEPeIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8008,
+          "following_count": 344,
+          "like_count": 642,
+          "listed_count": 36,
+          "media_count": 762,
+          "tweet_count": 2353
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-28T07:06:06.000Z",
+        "description": "温柔向压榨系。请不要踏入陷阱~否则脑子和钱包都会的变得一塌糊涂。我很懒，所以不涉三。不想送死别来加我~ 门牌🚪3875489005，门槛会增加好感，不过请随意，我只是想单纯地想要你的钱~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "afdian.com/a/cutelingli",
+                "end": 23,
+                "expanded_url": "https://afdian.com/a/cutelingli",
+                "start": 0,
+                "url": "https://t.co/Di7OiY89Hx"
+              }
+            ]
+          }
+        },
+        "id": "1696056509023625217",
+        "location": "你的心里❤️",
+        "name": "玲璃",
+        "pinned_tweet_id": "1966302235970908641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936595198689095680/b1T5cEFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2423,
+          "following_count": 165,
+          "like_count": 308,
+          "listed_count": 8,
+          "media_count": 143,
+          "tweet_count": 533
+        },
+        "url": "https://t.co/Di7OiY89Hx",
+        "username": "CuteLingli",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1927793294626414939",
+    "created_at": "2025-05-28T18:25:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-28T19:25:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1927793294626414939"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 31,
+          "id": "1238309529701384192",
+          "start": 23,
+          "username": "atmnmsl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927793294626414939",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "之前说莓莓骚扰是误会，现在已经解决啦，澄清一下@atmnmsl"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "1927793294626414939",
+        "created_at": "2025-05-28T18:25:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T19:25:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927793294626414939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 31,
+              "id": "1238309529701384192",
+              "start": 23,
+              "username": "atmnmsl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927793294626414939",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "之前说莓莓骚扰是误会，现在已经解决啦，澄清一下@atmnmsl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "集美貌，智慧，强大于一身的魔女族公主现身人世～区区人类，跪下向我表示臣服吧💜\n被我支配 控制 吸脑 成为奴仆💜\n挑战qq242184780，里世界小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858\n女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "oricz233"
+              },
+              {
+                "end": 104,
+                "start": 95,
+                "username": "moelipoi"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "cutelingli"
+              },
+              {
+                "end": 144,
+                "start": 129,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 155,
+                "start": 148,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏💜强势登场人间",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926028406774247424/hWplRg7q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7032,
+          "following_count": 291,
+          "like_count": 324,
+          "listed_count": 32,
+          "media_count": 623,
+          "tweet_count": 1868
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-13T03:43:02.000Z",
+        "description": "这个账号已经被草莓布丁病毒寄生，失去了原本的全部个人信息。如果你也想被草莓布丁女神寄生，请点击以下链接获取病毒\nhttps://t.co/epZIFmINdF",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ctt.ac/d0dUz",
+                "end": 79,
+                "expanded_url": "https://ctt.ac/d0dUz",
+                "start": 56,
+                "url": "https://t.co/epZIFmINdF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/atmnmsl",
+                "end": 23,
+                "expanded_url": "http://t.me/atmnmsl",
+                "start": 0,
+                "url": "https://t.co/minRxRhISu"
+              }
+            ]
+          }
+        },
+        "id": "1238309529701384192",
+        "location": "莓莓帝国",
+        "name": "草莓布丁（生化母体版）",
+        "pinned_tweet_id": "1847000311950606663",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761432786412662784/aWwouj9W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10398,
+          "following_count": 1,
+          "like_count": 2611,
+          "listed_count": 27,
+          "media_count": 439,
+          "tweet_count": 2744
+        },
+        "url": "https://t.co/minRxRhISu",
+        "username": "atmnmsl",
+        "verified": false
+      }
+    ]
+  }
+}

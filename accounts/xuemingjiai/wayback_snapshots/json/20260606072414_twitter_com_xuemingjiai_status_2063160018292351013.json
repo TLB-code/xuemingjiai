@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "2063160018292351013",
+    "created_at": "2026-06-06T07:24:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T08:24:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063160018292351013"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 66,
+          "start": 62,
+          "tag": "atm"
+        },
+        {
+          "end": 72,
+          "start": 67,
+          "tag": "女性崇拜"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2061050487697551360",
+          "start": 3,
+          "username": "zouzou_dom002"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063160018292351013",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061797247533424641",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zouzou_dom002: 想知道真的有贡奴很喜欢被重口辱骂吗，每次我被这样要求都感觉很尴尬，还是更喜欢温柔引导 #atm #女性崇拜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "2063160018292351013",
+        "created_at": "2026-06-06T07:24:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T08:24:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063160018292351013"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 66,
+              "start": 62,
+              "tag": "atm"
+            },
+            {
+              "end": 72,
+              "start": 67,
+              "tag": "女性崇拜"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2061050487697551360",
+              "start": 3,
+              "username": "zouzou_dom002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063160018292351013",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061797247533424641",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zouzou_dom002: 想知道真的有贡奴很喜欢被重口辱骂吗，每次我被这样要求都感觉很尴尬，还是更喜欢温柔引导 #atm #女性崇拜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061050487697551360",
+        "conversation_id": "2061797247533424641",
+        "created_at": "2026-06-02T13:09:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T14:09:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061797247533424641"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 47,
+              "start": 43,
+              "tag": "atm"
+            },
+            {
+              "end": 53,
+              "start": 48,
+              "tag": "女性崇拜"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061797247533424641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想知道真的有贡奴很喜欢被重口辱骂吗，每次我被这样要求都感觉很尴尬，还是更喜欢温柔引导 #atm #女性崇拜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会魅惑并享用钱包的公主殿下🤍\n精通各种处刑钱包的方法🖤\n联系方式→2829556413←\n病毒小号@oricz233\n现任魔女学园院长\n星辰魔女镜璃\n@jingli1840489\n桃心魔女奈奈\n@blakexiaonai\n 黑白魔女花卷\n@miaomiaomi17630\n好老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "oricz233"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 114,
+                "start": 101,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 139,
+                "start": 123,
+                "username": "miaomiaomi17630"
+              },
+              {
+                "end": 158,
+                "start": 143,
+                "username": "chessy80978858"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "全能魅惑系魔女族公主-奏💜魔女学园院长版～",
+        "pinned_tweet_id": "2013314916120416537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055327575581556736/-ZRgWKku_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8872,
+          "following_count": 367,
+          "like_count": 636,
+          "listed_count": 35,
+          "media_count": 827,
+          "tweet_count": 2199
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-31T11:43:33.000Z",
+        "description": "10月东京修士预备役🎓\n业余Coser | 日常碎片 | 榨金调教\nDominant / Findom / 温柔引导\n语言：中 / EN / JP（目前学习中）\n比起毫无营养的废话，更偏爱用实际行动替姐姐分担焦虑的乖孩子\n赛博供养 / 温柔饲养 / 强制储蓄（不玩重口❌）\n（不闲聊，请阅读置顶菜单，带着诚意私信）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "私信口令红包获取联系方式.com",
+                "end": 23,
+                "expanded_url": "https://xn--nnqwxn9e5xa1b122hg5k752btcg1meq0fhvm.com/",
+                "start": 0,
+                "url": "https://t.co/ah0YGKqikp"
+              }
+            ]
+          }
+        },
+        "id": "2061050487697551360",
+        "location": "📍 过门费28r | 过滤白嫖与无趣",
+        "name": "奏奏",
+        "pinned_tweet_id": "2061077769266843908",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061051257276841984/WpyW-tPV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 10,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 7
+        },
+        "url": "https://t.co/ah0YGKqikp",
+        "username": "zouzou_dom002",
+        "verified": false
+      }
+    ]
+  }
+}

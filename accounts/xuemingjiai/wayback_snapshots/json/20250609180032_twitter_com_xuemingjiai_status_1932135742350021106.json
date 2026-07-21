@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1932129336754422198",
+    "created_at": "2025-06-09T18:00:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-09T19:00:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932135742350021106"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1240949973056811009",
+          "start": 0,
+          "username": "Idol_Taoxin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932135742350021106",
+    "in_reply_to_user_id": "1240949973056811009",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932129336754422198",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Idol_Taoxin 老婆生日快乐"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1932129331461107712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtBNY93aMAArG9W.jpg",
+        "width": 921
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "1932129336754422198",
+        "created_at": "2025-06-09T18:00:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T19:00:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932135742350021106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1240949973056811009",
+              "start": 0,
+              "username": "Idol_Taoxin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932135742350021106",
+        "in_reply_to_user_id": "1240949973056811009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932129336754422198",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Idol_Taoxin 老婆生日快乐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932129331461107712"
+          ]
+        },
+        "author_id": "1240949973056811009",
+        "conversation_id": "1932129336754422198",
+        "created_at": "2025-06-09T17:35:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T18:35:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932129336754422198"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WUaaYZnCO2",
+              "end": 30,
+              "expanded_url": "https://x.com/Idol_Taoxin/status/1932129336754422198/photo/1",
+              "media_key": "3_1932129331461107712",
+              "start": 7,
+              "url": "https://t.co/WUaaYZnCO2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932129336754422198",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 90,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又老一岁，哎 https://t.co/WUaaYZnCO2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n你也会因为窥视我的美貌而心甘情愿沦为钱包被我使用的对吗？\n钱包报名入口：242184780\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 66,
+                "username": "oricz233"
+              },
+              {
+                "end": 95,
+                "start": 86,
+                "username": "moelipoi"
+              },
+              {
+                "end": 113,
+                "start": 102,
+                "username": "cutelingli"
+              },
+              {
+                "end": 135,
+                "start": 120,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 147,
+                "start": 140,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍驯化公用钱包👛中",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931064828044713984/9qwnduVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7169,
+          "following_count": 303,
+          "like_count": 348,
+          "listed_count": 33,
+          "media_count": 668,
+          "tweet_count": 1996
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-20T10:35:14.000Z",
+        "description": "这里是贱狗最爱的世界第一全能百变偶像桃心💜你想要的一切这里都有哦❤️白痴们准备好把你们的💰全都上贡给你们深爱着的偶像了么🖤主营PUA上贡🏧反差绿帽🖤吸号贡号💚不涉三，🚪52，无脑贡狗翻十倍🖤不够傻逼的别来🖤门牌2650209312 tg：https://t.co/t46nKtajlw 互推先互关，谢谢",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Idol_taoxin",
+                "end": 142,
+                "expanded_url": "http://t.me/Idol_taoxin",
+                "start": 119,
+                "url": "https://t.co/t46nKtajlw"
+              }
+            ]
+          }
+        },
+        "id": "1240949973056811009",
+        "name": "拜金偶像🖤桃心💜（互推私）",
+        "pinned_tweet_id": "1885975097233572173",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880060079937884160/-6fiC4Iw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14411,
+          "following_count": 331,
+          "like_count": 9041,
+          "listed_count": 76,
+          "media_count": 492,
+          "tweet_count": 5035
+        },
+        "username": "Idol_Taoxin",
+        "verified": true
+      }
+    ]
+  }
+}

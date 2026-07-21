@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1930347141538689025",
+        "3_1930347147666550784",
+        "3_1930347154780106756"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1930347161629405446",
+    "created_at": "2025-06-04T19:33:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-04T20:33:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1930347161629405446"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 8,
+          "start": 0,
+          "tag": "魔女公主的日常"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/W8t8LujsWa",
+          "end": 166,
+          "expanded_url": "https://x.com/xuemingjiai/status/1930347161629405446/photo/1",
+          "media_key": "3_1930347141538689025",
+          "start": 143,
+          "url": "https://t.co/W8t8LujsWa"
+        },
+        {
+          "display_url": "pic.x.com/W8t8LujsWa",
+          "end": 166,
+          "expanded_url": "https://x.com/xuemingjiai/status/1930347161629405446/photo/1",
+          "media_key": "3_1930347147666550784",
+          "start": 143,
+          "url": "https://t.co/W8t8LujsWa"
+        },
+        {
+          "display_url": "pic.x.com/W8t8LujsWa",
+          "end": 166,
+          "expanded_url": "https://x.com/xuemingjiai/status/1930347161629405446/photo/1",
+          "media_key": "3_1930347154780106756",
+          "start": 143,
+          "url": "https://t.co/W8t8LujsWa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930347161629405446",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#魔女公主的日常\n顺手宰了一只试图逃跑被本公主最新的推文捕获到抓回来处死的白痴虫虫～\n之前已经开发出重度贡瘾，魔女瘾，白给瘾，败北瘾了，这辈子真的还有任何逃脱的可能性吗？\n答案是完全没有咯，感受着完全不公平的待遇，对这样极端反差的败北上瘾，被本公主随意操控支配榨干吸血强奸，字字诛心🖤 https://t.co/W8t8LujsWa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1358,
+        "media_key": "3_1930347141538689025",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gsn4f3CasAEr06A.jpg",
+        "width": 540
+      },
+      {
+        "height": 1896,
+        "media_key": "3_1930347147666550784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gsn4gN3acAAdPTp.jpg",
+        "width": 540
+      },
+      {
+        "height": 1516,
+        "media_key": "3_1930347154780106756",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gsn4goXasAQVW0D.jpg",
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930347141538689025",
+            "3_1930347147666550784",
+            "3_1930347154780106756"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1930347161629405446",
+        "created_at": "2025-06-04T19:33:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T20:33:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930347161629405446"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "魔女公主的日常"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/W8t8LujsWa",
+              "end": 166,
+              "expanded_url": "https://x.com/xuemingjiai/status/1930347161629405446/photo/1",
+              "media_key": "3_1930347141538689025",
+              "start": 143,
+              "url": "https://t.co/W8t8LujsWa"
+            },
+            {
+              "display_url": "pic.x.com/W8t8LujsWa",
+              "end": 166,
+              "expanded_url": "https://x.com/xuemingjiai/status/1930347161629405446/photo/1",
+              "media_key": "3_1930347147666550784",
+              "start": 143,
+              "url": "https://t.co/W8t8LujsWa"
+            },
+            {
+              "display_url": "pic.x.com/W8t8LujsWa",
+              "end": 166,
+              "expanded_url": "https://x.com/xuemingjiai/status/1930347161629405446/photo/1",
+              "media_key": "3_1930347154780106756",
+              "start": 143,
+              "url": "https://t.co/W8t8LujsWa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930347161629405446",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#魔女公主的日常\n顺手宰了一只试图逃跑被本公主最新的推文捕获到抓回来处死的白痴虫虫～\n之前已经开发出重度贡瘾，魔女瘾，白给瘾，败北瘾了，这辈子真的还有任何逃脱的可能性吗？\n答案是完全没有咯，感受着完全不公平的待遇，对这样极端反差的败北上瘾，被本公主随意操控支配榨干吸血强奸，字字诛心🖤 https://t.co/W8t8LujsWa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "集美貌，智慧，强大于一身的魔女族公主现身人世～区区人类，跪下向我表示臣服吧💜\n被我支配 控制 吸脑 成为奴仆💜\n挑战qq242184780，里世界小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858\n女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "oricz233"
+              },
+              {
+                "end": 104,
+                "start": 95,
+                "username": "moelipoi"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "cutelingli"
+              },
+              {
+                "end": 144,
+                "start": 129,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 155,
+                "start": 148,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏💜散播同化病毒中～",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926028406774247424/hWplRg7q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7106,
+          "following_count": 296,
+          "like_count": 337,
+          "listed_count": 33,
+          "media_count": 645,
+          "tweet_count": 1913
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

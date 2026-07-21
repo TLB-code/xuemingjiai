@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1852560103389663570",
+    "created_at": "2024-11-02T03:55:22.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-02T04:55:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1852560103389663570"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 122,
+          "start": 119,
+          "tag": "压榨"
+        },
+        {
+          "end": 126,
+          "start": 123,
+          "tag": "吐金"
+        },
+        {
+          "end": 131,
+          "start": 127,
+          "tag": "工资奴"
+        },
+        {
+          "end": 135,
+          "start": 132,
+          "tag": "贡奴"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1240949973056811009",
+          "start": 3,
+          "username": "Idol_Taoxin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1852560103389663570",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1852375250442314188",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @Idol_Taoxin: 年底了，傻逼贱狗们都快发年终奖了吧🖤可惜~你们的年终奖还没有捂热就要马上全部上交给主人了🖤毕竟贱狗的手里不配有钱🖤仅仅是主人一个眼神你这条贱狗就要乖乖的爬到主人脚边给主人舔鞋子然后把年终奖都上贡出来了🖤\n#压榨 #吐金 #工资奴 #贡奴 #AT…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "1852560103389663570",
+        "created_at": "2024-11-02T03:55:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-02T04:55:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1852560103389663570"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 122,
+              "start": 119,
+              "tag": "压榨"
+            },
+            {
+              "end": 126,
+              "start": 123,
+              "tag": "吐金"
+            },
+            {
+              "end": 131,
+              "start": 127,
+              "tag": "工资奴"
+            },
+            {
+              "end": 135,
+              "start": 132,
+              "tag": "贡奴"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1240949973056811009",
+              "start": 3,
+              "username": "Idol_Taoxin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852560103389663570",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1852375250442314188",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @Idol_Taoxin: 年底了，傻逼贱狗们都快发年终奖了吧🖤可惜~你们的年终奖还没有捂热就要马上全部上交给主人了🖤毕竟贱狗的手里不配有钱🖤仅仅是主人一个眼神你这条贱狗就要乖乖的爬到主人脚边给主人舔鞋子然后把年终奖都上贡出来了🖤\n#压榨 #吐金 #工资奴 #贡奴 #AT…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1852375246826799104"
+          ]
+        },
+        "author_id": "1240949973056811009",
+        "conversation_id": "1852375250442314188",
+        "created_at": "2024-11-01T15:40:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-01T16:40:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1852375250442314188"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 105,
+              "start": 102,
+              "tag": "压榨"
+            },
+            {
+              "end": 109,
+              "start": 106,
+              "tag": "吐金"
+            },
+            {
+              "end": 114,
+              "start": 110,
+              "tag": "工资奴"
+            },
+            {
+              "end": 118,
+              "start": 115,
+              "tag": "贡奴"
+            },
+            {
+              "end": 126,
+              "start": 119,
+              "tag": "ATM打钱奴"
+            },
+            {
+              "end": 130,
+              "start": 127,
+              "tag": "贱狗"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NlYV8WV23L",
+              "end": 154,
+              "expanded_url": "https://x.com/Idol_Taoxin/status/1852375250442314188/photo/1",
+              "media_key": "3_1852375246826799104",
+              "start": 131,
+              "url": "https://t.co/NlYV8WV23L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852375250442314188",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1010,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "reply_settings": "following",
+        "text": "年底了，傻逼贱狗们都快发年终奖了吧🖤可惜~你们的年终奖还没有捂热就要马上全部上交给主人了🖤毕竟贱狗的手里不配有钱🖤仅仅是主人一个眼神你这条贱狗就要乖乖的爬到主人脚边给主人舔鞋子然后把年终奖都上贡出来了🖤\n#压榨 #吐金 #工资奴 #贡奴 #ATM打钱奴 #贱狗 https://t.co/NlYV8WV23L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "超绝可爱💖\n她就是出道即巅峰的可爱纯真小天使新人偶像魔女小姐💖\n对这样的魔女小姐不能心怀任何涩涩的念想哦，不然就会变得非常糟糕...踏入无法挣脱的陷阱和牢笼里呢💘\n魔女小姐无论说什么做什么都是正确的哦，身为她的粉丝，只需要无条件用各种方式支持她就好了～\nqq2829556413",
+        "id": "1374389254726455305",
+        "name": "电波系新人偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852048735020421125/2lLNSdIh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5746,
+          "following_count": 216,
+          "like_count": 181,
+          "listed_count": 23,
+          "tweet_count": 1258
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-20T10:35:14.000Z",
+        "description": "这里是世界第一百变榨金偶像桃心💜准备好把你们的一切全都上贡给你们深爱着的偶像了么💚粉丝唯一的作用就是被用来榨干钱包🖤QQ：2902337031，备用：2551691397，tg：https://t.co/t46nKt9LvY ，不涉三，🚪30×3算不明白的傻狗再翻3倍🖤，基本不看私信，小贱狗们有事QQ找我哦",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Idol_taoxin",
+                "end": 112,
+                "expanded_url": "http://t.me/Idol_taoxin",
+                "start": 89,
+                "url": "https://t.co/t46nKt9LvY"
+              }
+            ]
+          }
+        },
+        "id": "1240949973056811009",
+        "name": "拜金偶像🖤桃心💜",
+        "pinned_tweet_id": "1760179907869753793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812533427649822720/Rn0ivATs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12617,
+          "following_count": 256,
+          "like_count": 8602,
+          "listed_count": 67,
+          "tweet_count": 4045
+        },
+        "username": "Idol_Taoxin",
+        "verified": false
+      }
+    ]
+  }
+}

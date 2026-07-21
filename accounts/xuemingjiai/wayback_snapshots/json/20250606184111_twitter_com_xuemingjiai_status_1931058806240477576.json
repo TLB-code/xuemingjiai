@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1931058806240477576",
+    "created_at": "2025-06-06T18:41:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-06T19:41:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931058806240477576"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 17,
+          "tag": "魔女公主的日常"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1374389254726455305",
+          "start": 3,
+          "username": "xuemingjiai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931058806240477576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930355060644687965",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xuemingjiai: #魔女公主的日常\n还记得前几天的同化性癖吸脑魔法吗？\n已经有非常明显的效果了呢，明明是本公主亲自上门提款索命却慢吞吞的直接被屁股涩图强迫压制进行提款🖤\n随之而来的就是本公主的无情黑心屁股吸脑吸金时间～沦陷在言语责罚与屁股轰炸当中被吸金吸到早泄以…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1931058806240477576].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1931058806240477576",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1931058806240477576"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1930355030835740672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gsn_rE9aQAAhNPs.jpg",
+        "width": 322
+      },
+      {
+        "height": 1797,
+        "media_key": "3_1930355038159024131",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gsn_rgPasAMPGWu.jpg",
+        "width": 540
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1930355045830406144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gsn_r80asAAMFo4.jpg",
+        "width": 414
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1930355052939751432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gsn_sXTasAgMO_V.jpg",
+        "width": 364
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930355030835740672",
+            "3_1930355038159024131",
+            "3_1930355045830406144",
+            "3_1930355052939751432"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1930355060644687965",
+        "created_at": "2025-06-04T20:04:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T21:04:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930355060644687965"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "魔女公主的日常"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/leyFiEBLnN",
+              "end": 166,
+              "expanded_url": "https://x.com/xuemingjiai/status/1930355060644687965/photo/1",
+              "media_key": "3_1930355030835740672",
+              "start": 143,
+              "url": "https://t.co/leyFiEBLnN"
+            },
+            {
+              "display_url": "pic.x.com/leyFiEBLnN",
+              "end": 166,
+              "expanded_url": "https://x.com/xuemingjiai/status/1930355060644687965/photo/1",
+              "media_key": "3_1930355038159024131",
+              "start": 143,
+              "url": "https://t.co/leyFiEBLnN"
+            },
+            {
+              "display_url": "pic.x.com/leyFiEBLnN",
+              "end": 166,
+              "expanded_url": "https://x.com/xuemingjiai/status/1930355060644687965/photo/1",
+              "media_key": "3_1930355045830406144",
+              "start": 143,
+              "url": "https://t.co/leyFiEBLnN"
+            },
+            {
+              "display_url": "pic.x.com/leyFiEBLnN",
+              "end": 166,
+              "expanded_url": "https://x.com/xuemingjiai/status/1930355060644687965/photo/1",
+              "media_key": "3_1930355052939751432",
+              "start": 143,
+              "url": "https://t.co/leyFiEBLnN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930355060644687965",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2339,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "#魔女公主的日常\n还记得前几天的同化性癖吸脑魔法吗？\n已经有非常明显的效果了呢，明明是本公主亲自上门提款索命却慢吞吞的直接被屁股涩图强迫压制进行提款🖤\n随之而来的就是本公主的无情黑心屁股吸脑吸金时间～沦陷在言语责罚与屁股轰炸当中被吸金吸到早泄以后继续犯贱，成为最白痴最下贱的弱智贡奴♪ https://t.co/leyFiEBLnN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n你也会因为窥视我的美貌而心甘情愿沦为钱包被我使用的对吗？\n钱包报名入口：242184780\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 66,
+                "username": "oricz233"
+              },
+              {
+                "end": 95,
+                "start": 86,
+                "username": "moelipoi"
+              },
+              {
+                "end": 113,
+                "start": 102,
+                "username": "cutelingli"
+              },
+              {
+                "end": 135,
+                "start": 120,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 147,
+                "start": 140,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍瞄准钱包👛中",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931052690039250944/lERClEyE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7135,
+          "following_count": 297,
+          "like_count": 341,
+          "listed_count": 33,
+          "media_count": 651,
+          "tweet_count": 1937
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

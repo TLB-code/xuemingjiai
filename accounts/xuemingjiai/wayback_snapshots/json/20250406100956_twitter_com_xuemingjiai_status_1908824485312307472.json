@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1908824481638002688"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "1908821483654435017",
+    "created_at": "2025-04-06T10:09:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-06T11:09:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908824485312307472"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pvFyrUchBY",
+          "end": 164,
+          "expanded_url": "https://x.com/xuemingjiai/status/1908824485312307472/photo/1",
+          "media_key": "3_1908824481638002688",
+          "start": 141,
+          "url": "https://t.co/pvFyrUchBY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908824485312307472",
+    "in_reply_to_user_id": "1374389254726455305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908824000823972101",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "“控制图”还有个超级方便的好处\n对于总想着变得更杂鱼的抖m小处男来说，只要有人“不小心”拿到你的控制图，就能随时随地操控你🖤\n相当于你把决定自己发情、甚至生死的“遥控器”彻底交了出去～想想看，那张图一旦流出，你就再也收不回来，它会像无形的锁链，永远把你拴在魔女小姐身边，直到死亡♪ https://t.co/pvFyrUchBY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1908824481638002688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gn2BwK6aMAAjnYH.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1908823997753786368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gn2BUATbAAAe0Bf.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1908824481638002688"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "1908821483654435017",
+        "created_at": "2025-04-06T10:09:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T11:09:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908824485312307472"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pvFyrUchBY",
+              "end": 164,
+              "expanded_url": "https://x.com/xuemingjiai/status/1908824485312307472/photo/1",
+              "media_key": "3_1908824481638002688",
+              "start": 141,
+              "url": "https://t.co/pvFyrUchBY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908824485312307472",
+        "in_reply_to_user_id": "1374389254726455305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908824000823972101",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“控制图”还有个超级方便的好处\n对于总想着变得更杂鱼的抖m小处男来说，只要有人“不小心”拿到你的控制图，就能随时随地操控你🖤\n相当于你把决定自己发情、甚至生死的“遥控器”彻底交了出去～想想看，那张图一旦流出，你就再也收不回来，它会像无形的锁链，永远把你拴在魔女小姐身边，直到死亡♪ https://t.co/pvFyrUchBY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1908823997753786368"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "1908821483654435017",
+        "created_at": "2025-04-06T10:08:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T11:08:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908824000823972101"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PuLl4dTgFa",
+              "end": 169,
+              "expanded_url": "https://x.com/xuemingjiai/status/1908824000823972101/photo/1",
+              "media_key": "3_1908823997753786368",
+              "start": 146,
+              "url": "https://t.co/PuLl4dTgFa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908824000823972101",
+        "in_reply_to_user_id": "1374389254726455305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908823142900146500",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "魔女小姐这次要把选择“控制图”的权利交给杂鱼小雏男自己哦～\n想象一下这样的场景：亲手把自己的“弱点”、“控制图”、“发情开关”送到魔女小姐手里，就像是自我处刑～自毁～甚至是自杀，这样的快感...\n光是想想就快忍不住翻白眼了吧♡\n想要送死哦？\n很想把自己的“命”交到我的手上吧～\n快来送死吧❤ https://t.co/PuLl4dTgFa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "您好～这里是出道以来一直致力于为小雏男哥哥们提供“舒适”“安全”“极致射金体验”的纯真妹系小天使魔女妹妹💚\n想了解我请翻看我的推文～\nqq2829556413，碎碎念小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 85,
+                "username": "oricz233"
+              },
+              {
+                "end": 114,
+                "start": 105,
+                "username": "moelipoi"
+              },
+              {
+                "end": 132,
+                "start": 121,
+                "username": "cutelingli"
+              },
+              {
+                "end": 154,
+                "start": 139,
+                "username": "chessy80978858"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系天使偶像魔女小姐💖女仆限定版♪",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907689949878693889/HrJZStFZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6640,
+          "following_count": 267,
+          "like_count": 305,
+          "listed_count": 28,
+          "media_count": 561,
+          "tweet_count": 1534
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

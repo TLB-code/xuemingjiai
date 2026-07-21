@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1935700478580654387",
+    "created_at": "2025-06-19T14:05:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-19T15:05:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935700478580654387"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1737114762931318784",
+          "start": 3,
+          "username": "xie_shan_tao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935700478580654387",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935668286093726098",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xie_shan_tao: 戴锁奴畜太过劣等，应当童贞锁废，所以人生唯一的插穴体验，也只是戴平板锁插足穴\n\n盯着女孩泛红的足底，嗅闻气味；幻想着足底的柔嫩触感、脚心散发的热量。肉棒被勒到疼痛不堪\n\n很想要吧？上贡换取哦\n\n上贡自己的一切，然后捏着乳头，用锁顶进去卖力蹭吧…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1935700478580654387].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1935700478580654387",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1935700478580654387"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2125,
+        "media_key": "3_1935668283136782336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtzgDENbsAAAPit.jpg",
+        "width": 1505
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935668283136782336"
+          ]
+        },
+        "author_id": "1737114762931318784",
+        "conversation_id": "1935668286093726098",
+        "created_at": "2025-06-19T11:57:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T12:57:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935668286093726098"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4Sel0hoyt5",
+              "end": 167,
+              "expanded_url": "https://x.com/xie_shan_tao/status/1935668286093726098/photo/1",
+              "media_key": "3_1935668283136782336",
+              "start": 144,
+              "url": "https://t.co/4Sel0hoyt5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935668286093726098",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 391,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "戴锁奴畜太过劣等，应当童贞锁废，所以人生唯一的插穴体验，也只是戴平板锁插足穴\n\n盯着女孩泛红的足底，嗅闻气味；幻想着足底的柔嫩触感、脚心散发的热量。肉棒被勒到疼痛不堪\n\n很想要吧？上贡换取哦\n\n上贡自己的一切，然后捏着乳头，用锁顶进去卖力蹭吧；隔着锁感受足底热意，靠这种方式锁内流精哦w https://t.co/4Sel0hoyt5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n你也会因为窥视我的美貌而心甘情愿沦为钱包被我使用的对吗？\n钱包报名入口：3971546171\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 67,
+                "username": "oricz233"
+              },
+              {
+                "end": 96,
+                "start": 87,
+                "username": "moelipoi"
+              },
+              {
+                "end": 114,
+                "start": 103,
+                "username": "cutelingli"
+              },
+              {
+                "end": 136,
+                "start": 121,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 148,
+                "start": 141,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍驯化公用钱包👛中",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931064828044713984/9qwnduVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7252,
+          "following_count": 309,
+          "like_count": 371,
+          "listed_count": 32,
+          "media_count": 692,
+          "tweet_count": 2100
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-19T14:17:03.000Z",
+        "description": "叫阿桃就好，findom，散漫残酷恶劣黑心的贵族大小姐，也永远可以温柔倾听。    \n●擅长温柔洗脑/嘲笑与羞辱/聊天式调教/树洞。主玩ATM相关。\n35/30min，70/h，不涉三。   ●🚪20，【门牌号3808497963，加不了可用置顶二维码】\n日常向推文指路：@ya_ma_momo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 147,
+                "start": 136,
+                "username": "ya_ma_momo"
+              }
+            ]
+          }
+        },
+        "id": "1737114762931318784",
+        "location": "-0.04km",
+        "name": "撷山桃（文援版",
+        "pinned_tweet_id": "1741002421718179917",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1737115673309159424/ZOAJuodw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5166,
+          "following_count": 166,
+          "like_count": 1368,
+          "listed_count": 23,
+          "media_count": 71,
+          "tweet_count": 1447
+        },
+        "username": "xie_shan_tao",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1947708225429573879",
+    "created_at": "2025-07-22T17:37:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-22T18:37:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947712693097431196"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1240949973056811009",
+          "start": 0,
+          "username": "Idol_Taoxin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947712693097431196",
+    "in_reply_to_user_id": "1240949973056811009",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947708225429573879",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Idol_Taoxin 好像被挂过了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 993,
+        "media_key": "3_1947707887511379970",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwemARlXoAI2ZXU.jpg",
+        "width": 1198
+      },
+      {
+        "height": 1188,
+        "media_key": "3_1947707888568307712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwemAVhXEAApmp4.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "1947708225429573879",
+        "created_at": "2025-07-22T17:37:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T18:37:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947712693097431196"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1240949973056811009",
+              "start": 0,
+              "username": "Idol_Taoxin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947712693097431196",
+        "in_reply_to_user_id": "1240949973056811009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947708225429573879",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Idol_Taoxin 好像被挂过了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947707887511379970",
+            "3_1947707888568307712"
+          ]
+        },
+        "author_id": "1240949973056811009",
+        "conversation_id": "1947708225429573879",
+        "created_at": "2025-07-22T17:20:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T18:18:42.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947707891294556622",
+          "1947708225429573879"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/viWax5dSBL",
+              "end": 49,
+              "expanded_url": "https://x.com/Idol_Taoxin/status/1947708225429573879/photo/1",
+              "media_key": "3_1947707887511379970",
+              "start": 26,
+              "url": "https://t.co/viWax5dSBL"
+            },
+            {
+              "display_url": "pic.x.com/viWax5dSBL",
+              "end": 49,
+              "expanded_url": "https://x.com/Idol_Taoxin/status/1947708225429573879/photo/1",
+              "media_key": "3_1947707888568307712",
+              "start": 26,
+              "url": "https://t.co/viWax5dSBL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947708225429573879",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 42,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "各位同行稍微注意一下吧，一条骗子白嫖狗，嗯，就这样 https://t.co/viWax5dSBL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n你也会因为窥视我的美貌而心甘情愿沦为钱包被我使用的对吗？\n钱包报名入口：3971546171\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 67,
+                "username": "oricz233"
+              },
+              {
+                "end": 96,
+                "start": 87,
+                "username": "moelipoi"
+              },
+              {
+                "end": 114,
+                "start": 103,
+                "username": "cutelingli"
+              },
+              {
+                "end": 136,
+                "start": 121,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 148,
+                "start": 141,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍大规模同化魔法展开中",
+        "pinned_tweet_id": "1945511067926536238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945176725190488064/8VBohPRs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7677,
+          "following_count": 327,
+          "like_count": 584,
+          "listed_count": 33,
+          "media_count": 711,
+          "tweet_count": 2190
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-20T10:35:14.000Z",
+        "description": "这里是贱狗最爱的世界第一全能百变偶像桃心💜你想要的一切这里都有哦❤️白痴们准备好把你们的💰全都上贡给你们深爱着的偶像了么🖤主营PUA上贡🏧反差绿帽🖤吸号贡号💚不涉三，🚪52，无脑贡狗翻十倍🖤门牌2650209312 tg：https://t.co/t46nKt9LvY 千粉互推先互关",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Idol_taoxin",
+                "end": 134,
+                "expanded_url": "http://t.me/Idol_taoxin",
+                "start": 111,
+                "url": "https://t.co/t46nKt9LvY"
+              }
+            ]
+          }
+        },
+        "id": "1240949973056811009",
+        "name": "拜金偶像🖤桃心💜（互推私）",
+        "pinned_tweet_id": "1885975097233572173",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880060079937884160/-6fiC4Iw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14704,
+          "following_count": 340,
+          "like_count": 9110,
+          "listed_count": 75,
+          "media_count": 517,
+          "tweet_count": 5226
+        },
+        "username": "Idol_Taoxin",
+        "verified": true
+      }
+    ]
+  }
+}

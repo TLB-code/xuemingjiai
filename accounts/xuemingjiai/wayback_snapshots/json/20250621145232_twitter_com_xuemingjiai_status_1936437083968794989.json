@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1936437083968794989",
+    "created_at": "2025-06-21T14:52:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-21T15:52:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936437083968794989"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1537049790009188353",
+          "start": 3,
+          "username": "afuluodite122"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936437083968794989",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936374840115781756",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @afuluodite122: 作为脑瘫的软屌丧志牲畜，本身就毫无价值，除了你的钱包外一无是处🖤要是还不懂的主动犯贱发骚💚不懂得如何给女爹耍玩使用，那就是纯粹的渣仔活着就是浪费资源💜\n但是不要怕哦～对于你们这种想要成为吸臭丧志家畜的脑瘫💙专门推出了奴化特训服务🤎保证让你成…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1936437083968794989].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1936437083968794989",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1936437083968794989"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2075,
+        "media_key": "3_1936374827436158976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt9ipW1XMAAZZ3Z.jpg",
+        "width": 1511
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936374827436158976"
+          ]
+        },
+        "author_id": "1537049790009188353",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1936374840115781756",
+        "created_at": "2025-06-21T10:45:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-21T11:45:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936374840115781756"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 138,
+              "start": 135,
+              "tag": "文援"
+            },
+            {
+              "end": 142,
+              "start": 139,
+              "tag": "文爱"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bl5DB81T3n",
+              "end": 166,
+              "expanded_url": "https://x.com/afuluodite122/status/1936374840115781756/photo/1",
+              "media_key": "3_1936374827436158976",
+              "start": 143,
+              "url": "https://t.co/bl5DB81T3n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936374840115781756",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 138,
+                "start": 135,
+                "tag": "文援"
+              },
+              {
+                "end": 142,
+                "start": 139,
+                "tag": "文爱"
+              },
+              {
+                "end": 146,
+                "start": 143,
+                "tag": "调教"
+              }
+            ]
+          },
+          "text": "作为脑瘫的软屌丧志牲畜，本身就毫无价值，除了你的钱包外一无是处🖤要是还不懂的主动犯贱发骚💚不懂得如何给女爹耍玩使用，那就是纯粹的渣仔活着就是浪费资源💜\n但是不要怕哦～对于你们这种想要成为吸臭丧志家畜的脑瘫💙专门推出了奴化特训服务🤎保证让你成为对女爹祖宗有用的脑瘫家畜🖤\n#文援 #文爱 #调教"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 439,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "作为脑瘫的软屌丧志牲畜，本身就毫无价值，除了你的钱包外一无是处🖤要是还不懂的主动犯贱发骚💚不懂得如何给女爹耍玩使用，那就是纯粹的渣仔活着就是浪费资源💜\n但是不要怕哦～对于你们这种想要成为吸臭丧志家畜的脑瘫💙专门推出了奴化特训服务🤎保证让你成为对女爹祖宗有用的脑瘫家畜🖤\n#文援 #文爱 https://t.co/bl5DB81T3n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n你也会因为窥视我的美貌而心甘情愿沦为钱包被我使用的对吗？\n钱包报名入口：3971546171\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 67,
+                "username": "oricz233"
+              },
+              {
+                "end": 96,
+                "start": 87,
+                "username": "moelipoi"
+              },
+              {
+                "end": 114,
+                "start": 103,
+                "username": "cutelingli"
+              },
+              {
+                "end": 136,
+                "start": 121,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 148,
+                "start": 141,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍驯化公用钱包👛中",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931064828044713984/9qwnduVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7259,
+          "following_count": 310,
+          "like_count": 375,
+          "listed_count": 32,
+          "media_count": 696,
+          "tweet_count": 2125
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-15T12:30:09.000Z",
+        "description": "ちょうきょう剧情向文援🖤是温柔的人哦……温柔的碾死你❤️超超超擅长剧情向服务～会用不同的方式进行处刑💚但只要是你喜欢的，那就都可以～✨所以，请让我好好的满足一下你吧💜/🚪10-20不抵/3514805479💘/全性癖精通w文爱剧情、语c点菜～点子很多❤️可以带着想法来帮你制作针对你的服务❤️",
+        "id": "1537049790009188353",
+        "location": "锦帐春宵恋不休💞",
+        "name": "💜玲琳💀",
+        "pinned_tweet_id": "1930571666935234745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931735628565377024/HQBAqJgf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1904,
+          "following_count": 107,
+          "like_count": 75,
+          "listed_count": 11,
+          "media_count": 78,
+          "tweet_count": 253
+        },
+        "username": "afuluodite122",
+        "verified": false
+      }
+    ]
+  }
+}

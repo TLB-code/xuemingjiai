@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1927107373274939402",
+    "created_at": "2025-05-26T20:59:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-26T21:59:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927107373274939402"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1288837401335328768",
+          "start": 3,
+          "username": "YuSama_Uknwdy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927107373274939402",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 57
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926194485450428787",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YuSama_Uknwdy: 作为人妖婊子是不是你的废物肉虫跟屁穴被锁塞住就已经只能不停的在床上发出【雌猪】一样的浪叫了吧💚因为自己的废物肉虫~还有婊子淫穴都全部失去了高潮的自慰能力~只能在床上一个劲的通过【操床】来试图达到高潮环节💚可是作为杂鱼雌堕婊子的你这辈子终究只…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1927107373274939402].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1927107373274939402",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1927107373274939402"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17089,
+        "height": 1280,
+        "media_key": "13_1926191565493469185",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1926191565493469185/img/PNe47x0W-hwpk9fY.jpg",
+        "public_metrics": {
+          "view_count": 6303
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1926191565493469185/vid/avc1/320x568/t2FYyjEsfIg2b3Vp.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1926191565493469185/vid/avc1/480x852/YUxG8vRamwEe_DJw.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1926191565493469185/vid/avc1/720x1280/37Q0qoiHoBRILzNu.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1926191565493469185/pl/JVBfh7nMr6ZUvXGU.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1926191565493469185"
+          ]
+        },
+        "author_id": "1288837401335328768",
+        "conversation_id": "1926194485450428787",
+        "created_at": "2025-05-24T08:32:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-24T09:32:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926194485450428787"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Si3Gu84or1",
+              "end": 157,
+              "expanded_url": "https://x.com/YuSama_Uknwdy/status/1926194485450428787/video/1",
+              "media_key": "13_1926191565493469185",
+              "start": 134,
+              "url": "https://t.co/Si3Gu84or1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926194485450428787",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 117,
+          "impression_count": 16771,
+          "like_count": 418,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 57
+        },
+        "reply_settings": "everyone",
+        "text": "作为人妖婊子是不是你的废物肉虫跟屁穴被锁塞住就已经只能不停的在床上发出【雌猪】一样的浪叫了吧💚因为自己的废物肉虫~还有婊子淫穴都全部失去了高潮的自慰能力~只能在床上一个劲的通过【操床】来试图达到高潮环节💚可是作为杂鱼雌堕婊子的你这辈子终究只能通过【操床】来达到流精💚 https://t.co/Si3Gu84or1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "集美貌，智慧，强大于一身的魔女族公主现身人世～区区人类，跪下向我表示臣服吧💜\n被我支配 控制 吸脑 成为奴仆💜\n挑战qq242184780，里世界小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858\n女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "oricz233"
+              },
+              {
+                "end": 104,
+                "start": 95,
+                "username": "moelipoi"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "cutelingli"
+              },
+              {
+                "end": 144,
+                "start": 129,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 155,
+                "start": 148,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏💜强势登场人间",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926028406774247424/hWplRg7q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7009,
+          "following_count": 289,
+          "like_count": 322,
+          "listed_count": 32,
+          "media_count": 619,
+          "tweet_count": 1843
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-30T14:02:47.000Z",
+        "description": "超绝文媛🩷 垃圾变态的傻逼们请自觉翘着你的烂根来送死🩷 榨取每个雏男的脑子🩷 营业时间几乎为全天哦💚丨语音验证20💚丨门槛20r可抵扣丨 傻逼不用再偷窥了赶紧夹着你的烂裆来敲门💚 门牌：3451423909",
+        "id": "1288837401335328768",
+        "name": "昱昱SexLove_超绝接单版♪💘",
+        "pinned_tweet_id": "1921487172227473735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926032568291311616/n0i1z6MD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16318,
+          "following_count": 262,
+          "like_count": 685,
+          "listed_count": 77,
+          "media_count": 166,
+          "tweet_count": 2063
+        },
+        "username": "YuSama_Uknwdy",
+        "verified": true
+      }
+    ]
+  }
+}

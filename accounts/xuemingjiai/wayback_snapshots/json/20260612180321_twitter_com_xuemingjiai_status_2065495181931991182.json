@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065033865174159360",
+        "3_2065033896128032769"
+      ],
+      "media_source_tweet_id": [
+        "2065033906571956424",
+        "2065033906571956424"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "2065495181931991182",
+    "created_at": "2026-06-12T18:03:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T19:03:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065495181931991182"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1988836374083231744",
+          "start": 3,
+          "username": "xuexue_4"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PyRfONtXOw",
+          "end": 75,
+          "expanded_url": "https://x.com/xuexue_4/status/2065033906571956424/photo/1",
+          "media_key": "3_2065033865174159360",
+          "start": 52,
+          "url": "https://t.co/PyRfONtXOw"
+        },
+        {
+          "display_url": "pic.x.com/PyRfONtXOw",
+          "end": 75,
+          "expanded_url": "https://x.com/xuexue_4/status/2065033906571956424/photo/1",
+          "media_key": "3_2065033896128032769",
+          "start": 52,
+          "url": "https://t.co/PyRfONtXOw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065495181931991182",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065033906571956424",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xuexue_4: 偷偷更新一下\n应该不会有什么白痴宝宝对着紫丝露露卡无脑白给发情送死上贡吧💜 https://t.co/PyRfONtXOw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 675,
+        "media_key": "3_2065033865174159360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKh5W_7bkAADbg1.jpg",
+        "width": 1037
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2065033896128032769",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKh5YzPaMAEmfPX.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065033865174159360",
+            "3_2065033896128032769"
+          ],
+          "media_source_tweet_id": [
+            "2065033906571956424",
+            "2065033906571956424"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "2065495181931991182",
+        "created_at": "2026-06-12T18:03:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T19:03:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065495181931991182"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1988836374083231744",
+              "start": 3,
+              "username": "xuexue_4"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PyRfONtXOw",
+              "end": 75,
+              "expanded_url": "https://x.com/xuexue_4/status/2065033906571956424/photo/1",
+              "media_key": "3_2065033865174159360",
+              "start": 52,
+              "url": "https://t.co/PyRfONtXOw"
+            },
+            {
+              "display_url": "pic.x.com/PyRfONtXOw",
+              "end": 75,
+              "expanded_url": "https://x.com/xuexue_4/status/2065033906571956424/photo/1",
+              "media_key": "3_2065033896128032769",
+              "start": 52,
+              "url": "https://t.co/PyRfONtXOw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065495181931991182",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065033906571956424",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xuexue_4: 偷偷更新一下\n应该不会有什么白痴宝宝对着紫丝露露卡无脑白给发情送死上贡吧💜 https://t.co/PyRfONtXOw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065033865174159360",
+            "3_2065033896128032769"
+          ]
+        },
+        "author_id": "1988836374083231744",
+        "conversation_id": "2065033906571956424",
+        "created_at": "2026-06-11T11:30:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T12:30:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065033906571956424"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PyRfONtXOw",
+              "end": 61,
+              "expanded_url": "https://x.com/xuexue_4/status/2065033906571956424/photo/1",
+              "media_key": "3_2065033865174159360",
+              "start": 38,
+              "url": "https://t.co/PyRfONtXOw"
+            },
+            {
+              "display_url": "pic.x.com/PyRfONtXOw",
+              "end": 61,
+              "expanded_url": "https://x.com/xuexue_4/status/2065033906571956424/photo/1",
+              "media_key": "3_2065033896128032769",
+              "start": 38,
+              "url": "https://t.co/PyRfONtXOw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065033906571956424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 693,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "偷偷更新一下\n应该不会有什么白痴宝宝对着紫丝露露卡无脑白给发情送死上贡吧💜 https://t.co/PyRfONtXOw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "你也觉得你面前的这只魔女可爱过头了吧？\n对的!她和别人不一样!\n邂逅方式→2829556413←\n超涩气小号@oricz233\n现任魔女学园院长\n星辰魔女镜璃\n@jingli1840489\n桃心魔女奈奈\n@blakexiaonai\n 黑白魔女花卷\n@miaomiaomyoez2\n好老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 54,
+                "username": "oricz233"
+              },
+              {
+                "end": 94,
+                "start": 80,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 115,
+                "start": 102,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 139,
+                "start": 124,
+                "username": "miaomiaomyoez2"
+              },
+              {
+                "end": 158,
+                "start": 143,
+                "username": "chessy80978858"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "超可爱超绿茶超撩人的精灵魔女-奏奏💚",
+        "pinned_tweet_id": "2013314916120416537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064079945459171328/WbF0iOyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8883,
+          "following_count": 373,
+          "like_count": 637,
+          "listed_count": 36,
+          "media_count": 830,
+          "tweet_count": 2216
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-13T05:08:43.000Z",
+        "description": "这里是男娘文援雪雪\n门牌3496682071",
+        "id": "1988836374083231744",
+        "name": "雪雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031177203120324608/kyH63GBJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 58,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 7
+        },
+        "username": "xuexue_4",
+        "verified": false
+      }
+    ]
+  }
+}

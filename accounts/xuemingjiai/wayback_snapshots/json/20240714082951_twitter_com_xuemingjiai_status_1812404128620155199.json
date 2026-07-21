@@ -1,0 +1,139 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1812404128620155199",
+    "created_at": "2024-07-14T08:29:51.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-14T09:29:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1812404128620155199"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1374389254726455305",
+          "start": 3,
+          "username": "xuemingjiai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1812404128620155199",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "1812101462975209980",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xuemingjiai: 各位小雏男好久不见哦～\n有想念魔女小姐吗？\n嗯ww，魔女小姐是消失挺久了，不过已经回来了哦，在更新超高质量的【榨金】推文之前，要先测试一下留存下来粉丝们的忠诚度喔💜\n请按照图片上的内容，方式，来qq寻找魔女小姐，接受魔女小姐的\n【忠诚度测试】…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1812404128620155199].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1812404128620155199",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1812404128620155199"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1812101460060000256"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1812101462975209980",
+        "created_at": "2024-07-13T12:27:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-13T13:27:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1812101462975209980"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/AE1NxBt5aN",
+              "end": 167,
+              "expanded_url": "https://twitter.com/xuemingjiai/status/1812101462975209980/photo/1",
+              "media_key": "3_1812101460060000256",
+              "start": 144,
+              "url": "https://t.co/AE1NxBt5aN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1812101462975209980",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 3887,
+          "like_count": 59,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "各位小雏男好久不见哦～\n有想念魔女小姐吗？\n嗯ww，魔女小姐是消失挺久了，不过已经回来了哦，在更新超高质量的【榨金】推文之前，要先测试一下留存下来粉丝们的忠诚度喔💜\n请按照图片上的内容，方式，来qq寻找魔女小姐，接受魔女小姐的\n【忠诚度测试】\n仅供超绝单推人参与哟，珍爱钱包，慎重报名💜 https://t.co/AE1NxBt5aN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "超绝可爱💖\n她就是出道即巅峰的可爱纯真小天使新人偶像魔女小姐💖\n任何人都会被她散发出的魅力所捕获，对这样的魔女小姐不能心怀任何涩涩的念想哦，不然就会变得非常糟糕...踏入无法挣脱的陷阱和牢笼里呢💘\n魔女小姐无论说什么做什么都是正确的哦，身为她的粉丝，只需要无条件用各种方式支持她就好了～\nqq2829556413",
+        "id": "1374389254726455305",
+        "name": "电波系新人偶像💖魔女小姐参上（即将复活版）",
+        "pinned_tweet_id": "1804570562511126828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811861833260675072/2j4B4ED0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4928,
+          "following_count": 173,
+          "like_count": 147,
+          "listed_count": 23,
+          "tweet_count": 996
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1979547966038786048"
+      ],
+      "media_source_tweet_id": [
+        "1979547977153982900"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "1979676007822143637",
+    "created_at": "2025-10-18T22:28:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T23:28:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979676007822143637"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1560256306363203586",
+          "start": 3,
+          "username": "qing_qiu9999"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oifJwli7y8",
+          "end": 65,
+          "expanded_url": "https://x.com/qing_qiu9999/status/1979547977153982900/photo/1",
+          "media_key": "3_1979547966038786048",
+          "start": 42,
+          "url": "https://t.co/oifJwli7y8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979676007822143637",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979547977153982900",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qing_qiu9999: 看到脏鞋底就不自觉伸出舌头的贱狗，上贡清理费💰 https://t.co/oifJwli7y8"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1979676007822143637].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1979676007822143637",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1979676007822143637"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1979547966038786048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3jEYxOWwAAfveQ.jpg",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979547966038786048"
+          ]
+        },
+        "author_id": "1560256306363203586",
+        "conversation_id": "1979547977153982900",
+        "created_at": "2025-10-18T13:59:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T14:59:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979547977153982900"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oifJwli7y8",
+              "end": 47,
+              "expanded_url": "https://x.com/qing_qiu9999/status/1979547977153982900/photo/1",
+              "media_key": "3_1979547966038786048",
+              "start": 24,
+              "url": "https://t.co/oifJwli7y8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979547977153982900",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1330,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "看到脏鞋底就不自觉伸出舌头的贱狗，上贡清理费💰 https://t.co/oifJwli7y8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n最最最最喜欢钱包们啦!\n天天挨骂真的不会腻嘛～\n擅长用爱意和温柔的语气俘虏钱包～\n联系方式→3971546171←\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 78,
+                "username": "oricz233"
+              },
+              {
+                "end": 107,
+                "start": 98,
+                "username": "moelipoi"
+              },
+              {
+                "end": 125,
+                "start": 114,
+                "username": "cutelingli"
+              },
+              {
+                "end": 147,
+                "start": 132,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 159,
+                "start": 152,
+                "username": "1xian1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARosxSy"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍对钱包们最温柔最有好感版",
+        "pinned_tweet_id": "1976743806063063398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969152325731168256/ozl0k8K4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7847,
+          "following_count": 323,
+          "like_count": 643,
+          "listed_count": 34,
+          "media_count": 740,
+          "tweet_count": 2247
+        },
+        "url": "https://t.co/le8ARosxSy",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-18T13:24:35.000Z",
+        "description": "👑顶尖互动文游创作者 |🎀 可爱萝莉男娘\n🏩贞操管理｜🧠洗脑调教｜🖤黑心压榨｜👠高压管控｜\n收锁狗🏩贡奴🏧\n🚪52口令\n✈️https://t.co/TnYRtGlj3p\n📲@yuyuy_ing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 87,
+                "username": "yuyuy_ing"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/qing_qiu",
+                "end": 85,
+                "expanded_url": "http://t.me/qing_qiu",
+                "start": 62,
+                "url": "https://t.co/TnYRtGlj3p"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+1w3fZ7ySHioxO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+1w3fZ7ySHioxOTA9",
+                "start": 0,
+                "url": "https://t.co/caVbgZnYIE"
+              }
+            ]
+          }
+        },
+        "id": "1560256306363203586",
+        "location": "✨✨✨在亮点中查看游戏列表✨✨✨清秋的频道，置顶进入讨论组↓",
+        "name": "清`秋（互推）",
+        "pinned_tweet_id": "1973020407155532047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1692585097311182848/Q-j_gx4T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10375,
+          "following_count": 162,
+          "like_count": 136,
+          "listed_count": 24,
+          "media_count": 129,
+          "tweet_count": 2208
+        },
+        "url": "https://t.co/caVbgZnYIE",
+        "username": "qing_qiu9999",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1916905963908727118",
+    "created_at": "2025-04-28T17:22:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-28T18:22:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916905963908727118"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1702305176701341696",
+          "start": 3,
+          "username": "xiyan123466"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916905963908727118",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 30
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916055082958836037",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiyan123466: 傻逼～脑瘫～白痴～弱智～一辈子给女生当狗的废物～看看你现在到处偷窥发情的贱样子～就该被主人踩在脚下～强迫傻逼贱狗跪舔主人走了一天闷酸汗臭的丝袜脚～再踩着你的小鸡巴强迫傻逼贱狗磕头上供～你就是最贱最傻逼最恶心的公狗🖤想射?那就上供射精税🖤毕竟傻逼…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1916905963908727118].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1916905963908727118",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1916905963908727118"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1916054997894369280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gpcx3m-bEAAas6F.jpg",
+        "width": 822
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1916054997894369280"
+          ]
+        },
+        "author_id": "1702305176701341696",
+        "conversation_id": "1916055082958836037",
+        "created_at": "2025-04-26T09:01:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T10:01:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916055082958836037"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 138,
+              "start": 135,
+              "tag": "文援"
+            },
+            {
+              "end": 142,
+              "start": 139,
+              "tag": "调教"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rL6KvEDP3h",
+              "end": 166,
+              "expanded_url": "https://x.com/xiyan123466/status/1916055082958836037/photo/1",
+              "media_key": "3_1916054997894369280",
+              "start": 143,
+              "url": "https://t.co/rL6KvEDP3h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916055082958836037",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 5005,
+          "like_count": 78,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "傻逼～脑瘫～白痴～弱智～一辈子给女生当狗的废物～看看你现在到处偷窥发情的贱样子～就该被主人踩在脚下～强迫傻逼贱狗跪舔主人走了一天闷酸汗臭的丝袜脚～再踩着你的小鸡巴强迫傻逼贱狗磕头上供～你就是最贱最傻逼最恶心的公狗🖤想射?那就上供射精税🖤毕竟傻逼贱狗没有私自射精的权利🖤\n#文援 #调教 https://t.co/rL6KvEDP3h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "您好～这里是一直致力于为小雏男哥哥们提供“舒适”“安全”“极致射金体验”的纯真妹系小天使魔女妹妹💚\n想更加了解请翻看推文～\nqq242184780，病毒小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858\n女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 78,
+                "username": "oricz233"
+              },
+              {
+                "end": 107,
+                "start": 98,
+                "username": "moelipoi"
+              },
+              {
+                "end": 125,
+                "start": 114,
+                "username": "cutelingli"
+              },
+              {
+                "end": 147,
+                "start": 132,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 158,
+                "start": 151,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系天使偶像魔女小姐💖女仆限定版♪",
+        "pinned_tweet_id": "1912930515570835816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909108552796651520/gRlgoaOf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6820,
+          "following_count": 276,
+          "like_count": 306,
+          "listed_count": 29,
+          "media_count": 586,
+          "tweet_count": 1624
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-14T12:57:28.000Z",
+        "description": "这里是可爱又涩情腹黑的小魔女香香大小姐♡ 成年了却只有小萝莉的身体♡ 紫水晶般闪耀的柔顺长发披在香肩♡ 红蓝的异瞳露出狡黠♡ 乳白的肌肤~精致的脸颊♡ 俏皮的鼻梁下弯弯的樱红嘴唇♡ 流露出小魔女般的微笑♡身着哥特式萝莉裙♡ 白丝袜包裹住粉嫩的玉足♡\n擅长各种女s 调教 羞辱 寸止 绿帽 榨金等\nQQ3140617087",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xixiyan123456",
+                "end": 23,
+                "expanded_url": "http://t.me/xixiyan123456",
+                "start": 0,
+                "url": "https://t.co/DNJLMhF9XQ"
+              }
+            ]
+          }
+        },
+        "id": "1702305176701341696",
+        "location": "想tg玩的  记得先加QQ找我",
+        "name": "小魔女文援🖤香香酱（文援互推私信）",
+        "pinned_tweet_id": "1824690571476410800",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851250226029580288/4vl6NVy-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7497,
+          "following_count": 128,
+          "like_count": 438,
+          "listed_count": 33,
+          "media_count": 429,
+          "tweet_count": 5010
+        },
+        "url": "https://t.co/DNJLMhF9XQ",
+        "username": "xiyan123466",
+        "verified": false
+      }
+    ]
+  }
+}

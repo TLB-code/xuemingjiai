@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2013315080603979777"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "2013314916120416537",
+    "created_at": "2026-01-19T18:18:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T19:18:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013315112627519906"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5Mr3oYfLR0",
+          "end": 167,
+          "expanded_url": "https://x.com/xuemingjiai/status/2013315112627519906/photo/1",
+          "media_key": "3_2013315080603979777",
+          "start": 144,
+          "url": "https://t.co/5Mr3oYfLR0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013315112627519906",
+    "in_reply_to_user_id": "1374389254726455305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013314916120416537",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "1.本公主一直都是文援姬，只是现在比较懒，更倾向于压榨主，所以需要本公主文援的话也最好带上钱包♡\n2.本公主没有门槛，也非常好相处，推上的文案可能看起来会比较黑心?但其实超级软萌，看见消息就会秒回，更希望你是处于发情状态来找本公主♡\n3.喜欢的称呼有公主殿下，奏奏公主，魔女大人，妈咪♡ https://t.co/5Mr3oYfLR0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2013315080603979777",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_C7ZhhWUAEdSaI.jpg",
+        "width": 1056
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2013314899485609984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_C7O-zXUAAY6Ih.jpg",
+        "width": 1194
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013315080603979777"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "2013314916120416537",
+        "created_at": "2026-01-19T18:18:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T19:18:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013315112627519906"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5Mr3oYfLR0",
+              "end": 167,
+              "expanded_url": "https://x.com/xuemingjiai/status/2013315112627519906/photo/1",
+              "media_key": "3_2013315080603979777",
+              "start": 144,
+              "url": "https://t.co/5Mr3oYfLR0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013315112627519906",
+        "in_reply_to_user_id": "1374389254726455305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013314916120416537",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "1.本公主一直都是文援姬，只是现在比较懒，更倾向于压榨主，所以需要本公主文援的话也最好带上钱包♡\n2.本公主没有门槛，也非常好相处，推上的文案可能看起来会比较黑心?但其实超级软萌，看见消息就会秒回，更希望你是处于发情状态来找本公主♡\n3.喜欢的称呼有公主殿下，奏奏公主，魔女大人，妈咪♡ https://t.co/5Mr3oYfLR0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013314899485609984"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "2013314916120416537",
+        "created_at": "2026-01-19T18:17:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T19:17:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013314916120416537"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vYHJkXakcv",
+              "end": 168,
+              "expanded_url": "https://x.com/xuemingjiai/status/2013314916120416537/photo/1",
+              "media_key": "3_2013314899485609984",
+              "start": 145,
+              "url": "https://t.co/vYHJkXakcv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013314916120416537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嗯～你好，路过的小钱包，这是魔女公主奏奏殿下最新的置顶，稍微占用你几分钟时间，让你有机会更接近本公主，应该不会介意吧？\n还是说...这是命令对你来说会更加兴奋吗🤍\n咳咳，不管怎么样，先让自己兴奋起来吧，毕竟你一直都是这么做的不是嘛～\n本公主的推文对你来说是有魔力的，不信你看..给我勃起♡ https://t.co/vYHJkXakcv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🖤\n最最最最喜欢钱包们啦～\n联系方式→2829556413←\n病毒小号@oricz233\n现任魔女学园院长!\n星辰魔女镜璃\n@jingli1840489\n桃心魔女奈奈\n@blakexiaonai\n 黑白魔女花卷\n@miaomiaomi17630\n好老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 49,
+                "username": "oricz233"
+              },
+              {
+                "end": 90,
+                "start": 76,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 111,
+                "start": 98,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 136,
+                "start": 120,
+                "username": "miaomiaomi17630"
+              },
+              {
+                "end": 155,
+                "start": 140,
+                "username": "chessy80978858"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARosxSy"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🖤魔女学园院长版～",
+        "pinned_tweet_id": "2013314916120416537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012984933145276416/x6NCrC3__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8198,
+          "following_count": 348,
+          "like_count": 640,
+          "listed_count": 37,
+          "media_count": 781,
+          "tweet_count": 2109
+        },
+        "url": "https://t.co/le8ARosxSy",
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

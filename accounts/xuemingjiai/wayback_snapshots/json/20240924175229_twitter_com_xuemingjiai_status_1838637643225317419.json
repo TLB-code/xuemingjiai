@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1838637638993289216"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "1838503643622039953",
+    "created_at": "2024-09-24T17:52:29.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-24T18:52:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1838637643225317419"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1317722221784272897",
+          "start": 0,
+          "username": "leilan_wy_jy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ql47rbtx7a",
+          "end": 63,
+          "expanded_url": "https://twitter.com/xuemingjiai/status/1838637643225317419/photo/1",
+          "media_key": "3_1838637638993289216",
+          "start": 40,
+          "url": "https://t.co/ql47rBTx7A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1838637643225317419",
+    "in_reply_to_user_id": "1317722221784272897",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1838503643622039953",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@leilan_wy_jy 请乖乖握住肉棒添加魔女小姐，等待“抢劫”的发生哦💜 https://t.co/ql47rBTx7A"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1838637638993289216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GYQnMO7boAA3QEL.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1838637638993289216"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "1838503643622039953",
+        "created_at": "2024-09-24T17:52:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-24T18:52:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1838637643225317419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1317722221784272897",
+              "start": 0,
+              "username": "leilan_wy_jy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ql47rbtx7a",
+              "end": 63,
+              "expanded_url": "https://twitter.com/xuemingjiai/status/1838637643225317419/photo/1",
+              "media_key": "3_1838637638993289216",
+              "start": 40,
+              "url": "https://t.co/ql47rBTx7A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838637643225317419",
+        "in_reply_to_user_id": "1317722221784272897",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1838503643622039953",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@leilan_wy_jy 请乖乖握住肉棒添加魔女小姐，等待“抢劫”的发生哦💜 https://t.co/ql47rBTx7A"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1830222088214609920"
+          ]
+        },
+        "author_id": "1317722221784272897",
+        "conversation_id": "1838503643622039953",
+        "created_at": "2024-09-24T09:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-24T10:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1838503643622039953"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 104,
+              "start": 101,
+              "tag": "文援"
+            },
+            {
+              "end": 109,
+              "start": 105,
+              "tag": "耒兰诏"
+            },
+            {
+              "end": 113,
+              "start": 110,
+              "tag": "文爱"
+            },
+            {
+              "end": 118,
+              "start": 114,
+              "tag": "文援姬"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tpyloxn7wr",
+              "end": 142,
+              "expanded_url": "https://twitter.com/leilan_wy_jy/status/1838503643622039953/photo/1",
+              "media_key": "3_1830222088214609920",
+              "start": 119,
+              "url": "https://t.co/Tpyloxn7WR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838503643622039953",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1281,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 27,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "【耒兰的傍晚文援公告板】\n\"Hadithi yaendelea (Kama moto)\n战争仍在延续（就如烈火）。\"\n——\n文援姬请回复自己的营业时间和价格！\n 客人请回复想要的剧情和出价(重要)！\n #文援 #耒兰诏 #文爱 #文援姬 https://t.co/Tpyloxn7WR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "超绝可爱💖\n她就是出道即巅峰的可爱纯真小天使新人偶像魔女小姐💖\n对这样的魔女小姐不能心怀任何涩涩的念想哦，不然就会变得非常糟糕...踏入无法挣脱的陷阱和牢笼里呢💘\n魔女小姐无论说什么做什么都是正确的哦，身为她的粉丝，只需要无条件用各种方式支持她就好了～\nqq2829556413",
+        "id": "1374389254726455305",
+        "name": "电波系新人偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1804570562511126828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836438377702600704/CAqVvsCj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5433,
+          "following_count": 191,
+          "like_count": 151,
+          "listed_count": 23,
+          "tweet_count": 1072
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-18T07:00:50.000Z",
+        "description": "联系请私聊！\n可以帮文援姬按模板【免费推广】，\n没有次数限制但有频率限制，模板是主页置顶哦~\n设定是金毛双尾小个子狐娘！\n#耒兰访 #耒兰谊 尽力更新！\n想要我联系文援姬，也可以私信我。\n没有被投稿人转推的推文请小心。\n限制更少的（商业）推广在 @leilan_magazine",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 65,
+                "start": 61,
+                "tag": "耒兰访"
+              },
+              {
+                "end": 70,
+                "start": 66,
+                "tag": "耒兰谊"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 139,
+                "start": 123,
+                "username": "leilan_magazine"
+              }
+            ]
+          }
+        },
+        "id": "1317722221784272897",
+        "location": "离你不远。",
+        "name": "文援姬投稿推广~耒兰~leilan",
+        "pinned_tweet_id": "1740714095832396000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1540618453065019392/NEgQI_7o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10142,
+          "following_count": 710,
+          "like_count": 182,
+          "listed_count": 31,
+          "tweet_count": 2982
+        },
+        "username": "leilan_wy_jy",
+        "verified": true
+      }
+    ]
+  }
+}

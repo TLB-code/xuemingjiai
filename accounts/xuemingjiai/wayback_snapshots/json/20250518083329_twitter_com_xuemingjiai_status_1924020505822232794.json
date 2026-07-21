@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1924020505822232794",
+    "created_at": "2025-05-18T08:33:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-18T09:33:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924020505822232794"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1485155475498831874",
+          "start": 3,
+          "username": "MeQingYun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924020505822232794",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923998014550524140",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MeQingYun: 为什么你总是会被人家捏在掌中随意戏耍呢~开拓者💚答案其实很简单哦💚即便是生命科学领域的天才专家归根结底依然是“雌性”而已~💚在面对自己亲手造就的“强大雄性”~💚屈服在其胯下，沦为丧智发情的无脑性奴母畜已是必然之事~💚不必为此感到疑惑哦~开拓者💚征服…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1924020505822232794].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1924020505822232794",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1924020505822232794"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1923998010129747968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrNp_xZXkAAZRcv.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1923998010129747968"
+          ]
+        },
+        "author_id": "1485155475498831874",
+        "conversation_id": "1923998014550524140",
+        "created_at": "2025-05-18T07:04:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T08:04:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1923998014550524140"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YYj6JIDm4h",
+              "end": 169,
+              "expanded_url": "https://x.com/MeQingYun/status/1923998014550524140/photo/1",
+              "media_key": "3_1923998010129747968",
+              "start": 146,
+              "url": "https://t.co/YYj6JIDm4h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923998014550524140",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 297,
+                "start": 294,
+                "tag": "文媛"
+              },
+              {
+                "end": 301,
+                "start": 298,
+                "tag": "媚黑"
+              },
+              {
+                "end": 306,
+                "start": 302,
+                "tag": "反差婊"
+              },
+              {
+                "end": 310,
+                "start": 307,
+                "tag": "绿帽"
+              },
+              {
+                "end": 315,
+                "start": 311,
+                "tag": "QOS"
+              },
+              {
+                "end": 320,
+                "start": 316,
+                "tag": "NTR"
+              }
+            ]
+          },
+          "text": "为什么你总是会被人家捏在掌中随意戏耍呢~开拓者💚答案其实很简单哦💚即便是生命科学领域的天才专家归根结底依然是“雌性”而已~💚在面对自己亲手造就的“强大雄性”~💚屈服在其胯下，沦为丧智发情的无脑性奴母畜已是必然之事~💚不必为此感到疑惑哦~开拓者💚征服不了人家是你自己的问题呢~💚毕竟…没有哪个女人，会对着一根软绵绵的废物早泄肉屌发情呢~💚亲眼见证昔日将生命基因玩弄于掌中💚才情双绝的清冷旗袍女神变成只会在雄性胯下丧智发情的无脑性奴母畜~很兴奋吧~开拓者💚看在你没少给我提供试验素材的份上~💚允许你这头没用的小屌子阳痿绿王八盯着人家身上的黑桃纹身流出来哦~💚毕竟~你所剩的价值…仅此而已了💚\n#文媛 #媚黑 #反差婊 #绿帽 #QOS #NTR"
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 665,
+          "like_count": 53,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "为什么你总是会被人家捏在掌中随意戏耍呢~开拓者💚答案其实很简单哦💚即便是生命科学领域的天才专家归根结底依然是“雌性”而已~💚在面对自己亲手造就的“强大雄性”~💚屈服在其胯下，沦为丧智发情的无脑性奴母畜已是必然之事~💚不必为此感到疑惑哦~开拓者💚征服不了人家是你自己的问题呢~💚毕竟…没有哪个 https://t.co/YYj6JIDm4h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "集美貌，智慧，强大于一身的魔女族公主现身人世～区区人类，跪下向我表示臣服吧💜\n被我支配 控制 吸脑 成为奴仆💜\n挑战qq242184780，里世界小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858\n女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "oricz233"
+              },
+              {
+                "end": 104,
+                "start": 95,
+                "username": "moelipoi"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "cutelingli"
+              },
+              {
+                "end": 144,
+                "start": 129,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 155,
+                "start": 148,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏💜强势登场人间",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923161284247420929/dv1s2unV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6911,
+          "following_count": 286,
+          "like_count": 317,
+          "listed_count": 32,
+          "media_count": 611,
+          "tweet_count": 1812
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-23T07:40:46.000Z",
+        "description": "门牌号2790468154❤️入圈已有四年，较擅长的是榨精❤️调情寸止❤️NTR类剧情❤️媚黑只是XP，勿要入脑❤️擅长长文对戏以及各种脑洞大开的玩法，有想玩的剧情都可以来戳，价格是70/小时～40/0.5小时\n小号：@YunQing0915\n来不及回复可以去这里https://t.co/WNHwBf0PHX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 109,
+                "username": "YunQing0915"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/yueqingyun",
+                "end": 155,
+                "expanded_url": "https://t.me/yueqingyun",
+                "start": 132,
+                "url": "https://t.co/WNHwBf0PHX"
+              }
+            ]
+          }
+        },
+        "id": "1485155475498831874",
+        "location": "你心里",
+        "name": "清云🖤",
+        "pinned_tweet_id": "1804376109817172192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779128146186379264/LFfTwJkS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14256,
+          "following_count": 116,
+          "like_count": 2452,
+          "listed_count": 77,
+          "media_count": 204,
+          "tweet_count": 2727
+        },
+        "username": "MeQingYun",
+        "verified": true
+      }
+    ]
+  }
+}

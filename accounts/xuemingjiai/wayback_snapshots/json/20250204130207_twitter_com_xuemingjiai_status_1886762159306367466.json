@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1886762159306367466",
+    "created_at": "2025-02-04T13:02:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-04T14:02:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886762159306367466"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1312572317206159360",
+          "start": 3,
+          "username": "moelipoi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886762159306367466",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886708283303461096",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @moelipoi: 废物贱蛆已经离不开梦璃祖宗的味道了对吧？只是玩弄几天就被高贵女爹的汗臭味洗脑捕杀～🖤可怜穷蛆连房租都付不起还想讨要主人的味道恶心地吮吸亲妈祖宗的雌臭味道？🖤\n像你这种傻逼只配为梦璃亲妈物化沦为马桶的畜生只配被祖宗骑脸活活闷死～🖤想闻祖宗的足臭就拿这个…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1886762159306367466].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1886762159306367466",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1886762159306367466"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886708280279621632"
+          ]
+        },
+        "author_id": "1312572317206159360",
+        "conversation_id": "1886708283303461096",
+        "created_at": "2025-02-04T09:28:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-04T10:28:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886708283303461096"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mGCAVxtooF",
+              "end": 164,
+              "expanded_url": "https://x.com/moelipoi/status/1886708283303461096/photo/1",
+              "media_key": "3_1886708280279621632",
+              "start": 141,
+              "url": "https://t.co/mGCAVxtooF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886708283303461096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 202,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "废物贱蛆已经离不开梦璃祖宗的味道了对吧？只是玩弄几天就被高贵女爹的汗臭味洗脑捕杀～🖤可怜穷蛆连房租都付不起还想讨要主人的味道恶心地吮吸亲妈祖宗的雌臭味道？🖤\n像你这种傻逼只配为梦璃亲妈物化沦为马桶的畜生只配被祖宗骑脸活活闷死～🖤想闻祖宗的足臭就拿这个月的所有收入来换吧～傻逼贱畜🖤 https://t.co/mGCAVxtooF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "您好～这里是出道以来一直致力于为小雏男哥哥们提供“舒适”“安全”“极致快感”的纯真妹系小天使魔女妹妹💚\n想了解我请翻看我的推文～\nqq2829556413，碎碎念小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 83,
+                "username": "oricz233"
+              },
+              {
+                "end": 112,
+                "start": 103,
+                "username": "moelipoi"
+              },
+              {
+                "end": 130,
+                "start": 119,
+                "username": "cutelingli"
+              },
+              {
+                "end": 152,
+                "start": 137,
+                "username": "chessy80978858"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系天使偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884590550818701312/2kXuiPB8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6406,
+          "following_count": 251,
+          "like_count": 290,
+          "listed_count": 29,
+          "media_count": 538,
+          "tweet_count": 1505
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-04T01:57:08.000Z",
+        "description": "超人气偶像璃酱的小天地～♡ | 点击媒体看所有推文哦～♡\n【天使偶像♡ | 榨精公主♡ | 足控地狱恶魔♡ | 绿茶妖精♡】\n全能文援～ | 人设可自定义～ | 经验丰富句段均可～♡\n擅长用各种手段将粉丝们调教成宠物～♡\n门牌号：1912443435 | 会好好疼爱每个玩具哦～♡\n单推偶像：@xuemingjiai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 158,
+                "start": 146,
+                "username": "xuemingjiai"
+              }
+            ]
+          }
+        },
+        "id": "1312572317206159360",
+        "location": "营业时间：全天 价格：35/0.5h 65/h",
+        "name": "超绝可爱偶像梦璃♡天使リちゃん♡(欢迎互推|全天营业中～)",
+        "pinned_tweet_id": "1877281696661311957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886407345145794561/SlxayNxz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2493,
+          "following_count": 92,
+          "like_count": 112,
+          "listed_count": 5,
+          "media_count": 74,
+          "tweet_count": 337
+        },
+        "username": "moelipoi",
+        "verified": false
+      }
+    ]
+  }
+}

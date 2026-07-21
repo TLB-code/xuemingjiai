@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1962017372757229568",
+        "3_1962017380273410048"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1962017384572616742",
+    "created_at": "2025-08-31T04:59:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T05:59:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1962017384572616742"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RuY4tU2OYw",
+          "end": 169,
+          "expanded_url": "https://x.com/xuemingjiai/status/1962017384572616742/photo/1",
+          "media_key": "3_1962017372757229568",
+          "start": 146,
+          "url": "https://t.co/RuY4tU2OYw"
+        },
+        {
+          "display_url": "pic.x.com/RuY4tU2OYw",
+          "end": 169,
+          "expanded_url": "https://x.com/xuemingjiai/status/1962017384572616742/photo/1",
+          "media_key": "3_1962017380273410048",
+          "start": 146,
+          "url": "https://t.co/RuY4tU2OYw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962017384572616742",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "再次官宣一下本公主的小屋哦。\n这里是和众多“奏奏控”一起崇拜，近距离和本公主相处的圣地\n也是能够见识到各种“公用钱包”争先被使用的“钱包聚集地”\n在这里面待久了会不自觉的对本公主产生绝对的依恋，成为本公主的“舔狗钱包”\n二次元头像更容易通过申请，贡得越多越容易通过申请，为本公主付出一切吧。 https://t.co/RuY4tU2OYw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1216,
+        "media_key": "3_1962017372757229568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gzp8Z8JXAAAyyT3.jpg",
+        "width": 896
+      },
+      {
+        "height": 2055,
+        "media_key": "3_1962017380273410048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gzp8aYJW0AAsFbF.jpg",
+        "width": 1156
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962017372757229568",
+            "3_1962017380273410048"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1962017384572616742",
+        "created_at": "2025-08-31T04:59:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T05:59:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962017384572616742"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RuY4tU2OYw",
+              "end": 169,
+              "expanded_url": "https://x.com/xuemingjiai/status/1962017384572616742/photo/1",
+              "media_key": "3_1962017372757229568",
+              "start": 146,
+              "url": "https://t.co/RuY4tU2OYw"
+            },
+            {
+              "display_url": "pic.x.com/RuY4tU2OYw",
+              "end": 169,
+              "expanded_url": "https://x.com/xuemingjiai/status/1962017384572616742/photo/1",
+              "media_key": "3_1962017380273410048",
+              "start": 146,
+              "url": "https://t.co/RuY4tU2OYw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962017384572616742",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "再次官宣一下本公主的小屋哦。\n这里是和众多“奏奏控”一起崇拜，近距离和本公主相处的圣地\n也是能够见识到各种“公用钱包”争先被使用的“钱包聚集地”\n在这里面待久了会不自觉的对本公主产生绝对的依恋，成为本公主的“舔狗钱包”\n二次元头像更容易通过申请，贡得越多越容易通过申请，为本公主付出一切吧。 https://t.co/RuY4tU2OYw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n我是一名钱包刽子手。\n如果你也想被我杀死的话→\n242184780←\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 55,
+                "username": "oricz233"
+              },
+              {
+                "end": 84,
+                "start": 75,
+                "username": "moelipoi"
+              },
+              {
+                "end": 102,
+                "start": 91,
+                "username": "cutelingli"
+              },
+              {
+                "end": 124,
+                "start": 109,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 136,
+                "start": 129,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍魔女讨伐组织高级顾问～",
+        "pinned_tweet_id": "1945511067926536238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952517800502652928/-lp8k7Gh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8081,
+          "following_count": 334,
+          "like_count": 629,
+          "listed_count": 37,
+          "media_count": 725,
+          "tweet_count": 2222
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1829945255665492361",
+    "created_at": "2024-08-31T18:12:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-31T19:12:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1829945255665492361"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1829945255665492361",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "晚安！\n最近这段时间都在忙碌，现实充实起来就没太多时间更新啦，但是魔女小姐会一直在这里，请耐心等待我的回归吧～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "1829945255665492361",
+        "created_at": "2024-08-31T18:12:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-31T19:12:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1829945255665492361"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1829945255665492361",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晚安！\n最近这段时间都在忙碌，现实充实起来就没太多时间更新啦，但是魔女小姐会一直在这里，请耐心等待我的回归吧～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "超绝可爱💖\n她就是出道即巅峰的可爱纯真小天使新人偶像魔女小姐💖\n任何人都会被她散发出的魅力所捕获，对这样的魔女小姐不能心怀任何涩涩的念想哦，不然就会变得非常糟糕...踏入无法挣脱的陷阱和牢笼里呢💘\n魔女小姐无论说什么做什么都是正确的哦，身为她的粉丝，只需要无条件用各种方式支持她就好了～\nqq2829556413",
+        "id": "1374389254726455305",
+        "name": "电波系新人偶像💖魔女小姐参上（复活版）",
+        "pinned_tweet_id": "1804570562511126828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821974060601110528/2uCKanZH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5253,
+          "following_count": 178,
+          "like_count": 145,
+          "listed_count": 23,
+          "tweet_count": 1025
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

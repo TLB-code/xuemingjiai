@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1994543184547123552",
+    "created_at": "2025-11-28T23:05:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T00:05:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994543184547123552"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1434267090345725966",
+          "start": 3,
+          "username": "manxinsdog"
+        },
+        {
+          "end": 79,
+          "id": "1797964318572777472",
+          "start": 70,
+          "username": "manxins3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994543184547123552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994431957846155511",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @manxinsdog: 【幔馨的人肉广告牌·今日营业：活体取款机】\n废物已固定在街角当幔馨的ATM🤑\n操作流程：\n1. 关注幔馨大人@manxins3 \n2. 转账任意金额  \n3. 当场硬到翻白眼射一地\n4. 再被幔馨大人远程辱骂到射第二次🖤 \n今日特惠：\n转账满10…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1994543184547123552].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1994543184547123552",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1994543184547123552"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1994431946320220160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G62lSckbkAAPoq6.jpg",
+        "width": 473
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994431946320220160"
+          ]
+        },
+        "author_id": "1434267090345725966",
+        "conversation_id": "1994431957846155511",
+        "created_at": "2025-11-28T15:43:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T16:43:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994431957846155511"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 63,
+              "id": "1797964318572777472",
+              "start": 54,
+              "username": "manxins3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/15LBOEzONK",
+              "end": 188,
+              "expanded_url": "https://x.com/manxinsdog/status/1994431957846155511/photo/1",
+              "media_key": "3_1994431946320220160",
+              "start": 165,
+              "url": "https://t.co/15LBOEzONK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994431957846155511",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 377,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "【幔馨的人肉广告牌·今日营业：活体取款机】\n废物已固定在街角当幔馨的ATM🤑\n操作流程：\n1. 关注幔馨大人@manxins3 \n2. 转账任意金额  \n3. 当场硬到翻白眼射一地\n4. 再被幔馨大人远程辱骂到射第二次🖤 \n今日特惠：\n转账满100＝赏一句“废物”  \n转账满200＝赏一眼鞋底  \n转账到破产＝让你死在高潮里🖤 https://t.co/15LBOEzONK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n最最最最喜欢钱包们啦!\n天天挨骂真的不会腻嘛～\n擅长用爱意和温柔的语气俘虏钱包～\n联系方式→242184780←\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 77,
+                "username": "oricz233"
+              },
+              {
+                "end": 106,
+                "start": 97,
+                "username": "moelipoi"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "cutelingli"
+              },
+              {
+                "end": 146,
+                "start": 131,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 158,
+                "start": 151,
+                "username": "1xian1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍对钱包们最温柔最有好感版",
+        "pinned_tweet_id": "1976743806063063398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991861278688821248/oCQEPeIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7990,
+          "following_count": 344,
+          "like_count": 639,
+          "listed_count": 36,
+          "media_count": 762,
+          "tweet_count": 2347
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-04T21:28:27.000Z",
+        "description": "幔馨大人@manxins3的无脑舔狗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 4,
+                "username": "manxins3"
+              }
+            ]
+          }
+        },
+        "id": "1434267090345725966",
+        "name": "幔馨的人形广告牌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992880644679143424/Xj2dnArz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 35,
+          "like_count": 73,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 24
+        },
+        "username": "manxinsdog",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-04T12:11:23.000Z",
+        "description": "洗脑 压榨 黑心文援 一次性利用 用完即丢 🖤 和好老公@kekejiangw44613 双人吸榨赴死强度✖️2 🐧3880497144 草莓小可爱@isurugikogawa 图超级好看 快去关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 28,
+                "username": "kekejiangw44613"
+              },
+              {
+                "end": 88,
+                "start": 74,
+                "username": "isurugikogawa"
+              }
+            ]
+          }
+        },
+        "id": "1797964318572777472",
+        "name": "幔馨",
+        "pinned_tweet_id": "1931528114414469210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916734792043012096/hZ8m8u_y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2490,
+          "following_count": 38,
+          "like_count": 47,
+          "listed_count": 6,
+          "media_count": 32,
+          "tweet_count": 62
+        },
+        "username": "manxins3",
+        "verified": false
+      }
+    ]
+  }
+}

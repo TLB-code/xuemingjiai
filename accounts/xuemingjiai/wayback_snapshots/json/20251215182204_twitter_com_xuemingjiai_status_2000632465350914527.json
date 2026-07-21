@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "2000632465350914527",
+    "created_at": "2025-12-15T18:22:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T19:22:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000632465350914527"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1998357793229971456",
+          "start": 3,
+          "username": "yuunasese"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000632465350914527",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998536015414546726",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuunasese: 白色黑色交织的乐章～\n一体两面的不同风格♡\n绿茶💚和黑心🖤你更爱哪个呢？\n\n不论是想要治愈陪伴～还是绿茶拨弄内心的情欲开关～品味初恋般的可爱任性💚\n\n又或者是迫不及待想要发情犯贱～被调教鄙视区别对待，恶劣调教到丧志🖤\n\n感兴趣就点开个人介绍吧～期待…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2000632465350914527].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2000632465350914527",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2000632465350914527"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1998535912754655234",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7w50u6aMAI7zAg.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1998535912733773824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7w50u1bkAATR3h.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998535912754655234",
+            "3_1998535912733773824"
+          ]
+        },
+        "author_id": "1998357793229971456",
+        "conversation_id": "1998536015414546726",
+        "created_at": "2025-12-09T23:31:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T00:31:09.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998535923424965099",
+          "1998536015414546726"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 136,
+              "start": 133,
+              "tag": "文援"
+            },
+            {
+              "end": 140,
+              "start": 137,
+              "tag": "文爱"
+            },
+            {
+              "end": 144,
+              "start": 141,
+              "tag": "文调"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gTHr12nXLg",
+              "end": 168,
+              "expanded_url": "https://x.com/yuunasese/status/1998536015414546726/photo/1",
+              "media_key": "3_1998535912754655234",
+              "start": 145,
+              "url": "https://t.co/gTHr12nXLg"
+            },
+            {
+              "display_url": "pic.x.com/gTHr12nXLg",
+              "end": 168,
+              "expanded_url": "https://x.com/yuunasese/status/1998536015414546726/photo/1",
+              "media_key": "3_1998535912733773824",
+              "start": 145,
+              "url": "https://t.co/gTHr12nXLg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998536015414546726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1538,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "白色黑色交织的乐章～\n一体两面的不同风格♡\n绿茶💚和黑心🖤你更爱哪个呢？\n\n不论是想要治愈陪伴～还是绿茶拨弄内心的情欲开关～品味初恋般的可爱任性💚\n\n又或者是迫不及待想要发情犯贱～被调教鄙视区别对待，恶劣调教到丧志🖤\n\n感兴趣就点开个人介绍吧～期待我们的初次相遇哦\n#文援 #文爱 #文调 https://t.co/gTHr12nXLg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n最最最最喜欢钱包们啦!\n天天挨骂真的不会腻嘛～\n擅长用爱意和温柔的语气俘虏钱包～\n联系方式→2829556413←\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 78,
+                "username": "oricz233"
+              },
+              {
+                "end": 107,
+                "start": 98,
+                "username": "moelipoi"
+              },
+              {
+                "end": 125,
+                "start": 114,
+                "username": "cutelingli"
+              },
+              {
+                "end": 147,
+                "start": 132,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 159,
+                "start": 152,
+                "username": "1xian1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍对钱包们最温柔最有好感版",
+        "pinned_tweet_id": "1976743806063063398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991861278688821248/oCQEPeIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8023,
+          "following_count": 334,
+          "like_count": 644,
+          "listed_count": 37,
+          "media_count": 763,
+          "tweet_count": 2376
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-09T11:43:30.000Z",
+        "description": "瞧瞧，是哪位文援转生啦～\n杂鱼们要继续侍奉公主殿下哦💚文援50/半小时\nQQ门牌https://t.co/RLsg78n9zg\nTG联系方式https://t.co/raUp1hDVHe",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "i.imgs.ovh/2025/07/26/njm…",
+                "end": 63,
+                "expanded_url": "https://i.imgs.ovh/2025/07/26/njmN0.png",
+                "start": 40,
+                "url": "https://t.co/RLsg78n9zg"
+              },
+              {
+                "display_url": "t.me/misa0324",
+                "end": 93,
+                "expanded_url": "https://t.me/misa0324",
+                "start": 70,
+                "url": "https://t.co/raUp1hDVHe"
+              }
+            ]
+          }
+        },
+        "id": "1998357793229971456",
+        "name": "云奈yuuna",
+        "pinned_tweet_id": "1998536015414546726",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998359028616118272/KVzU0kbn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 10,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 13
+        },
+        "username": "yuunasese",
+        "verified": true
+      }
+    ]
+  }
+}

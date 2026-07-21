@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1824991304654491648",
+        "3_1824991907304685568"
+      ],
+      "media_source_tweet_id": [
+        "1824992447103189013",
+        "1824992447103189013"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "1934769512316063957",
+    "created_at": "2025-06-17T00:26:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-17T01:26:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934769512316063957"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1780077769772396544",
+          "start": 3,
+          "username": "christ3400"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nWXhUElzq4",
+          "end": 110,
+          "expanded_url": "https://x.com/christ3400/status/1824992447103189013/photo/1",
+          "media_key": "3_1824991304654491648",
+          "start": 87,
+          "url": "https://t.co/nWXhUElzq4"
+        },
+        {
+          "display_url": "pic.x.com/nWXhUElzq4",
+          "end": 110,
+          "expanded_url": "https://x.com/christ3400/status/1824992447103189013/photo/1",
+          "media_key": "3_1824991907304685568",
+          "start": 87,
+          "url": "https://t.co/nWXhUElzq4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934769512316063957",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1824992447103189013",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @christ3400: 放空大脑，嗅着莉音白丝足底的温香，把您可怜的稀薄精液和钱财一起射出来吧💚废物…哦不，亲爱的主人🖤只有在莉音脚下~您才有存在的意义啊，您说对吧 https://t.co/nWXhUElzq4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2388,
+        "media_key": "3_1824991304654491648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GVOr7CAbkAAFsy7.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1037,
+        "media_key": "3_1824991907304685568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GVOseHDbwAAav2R.jpg",
+        "width": 1037
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1824991304654491648",
+            "3_1824991907304685568"
+          ],
+          "media_source_tweet_id": [
+            "1824992447103189013",
+            "1824992447103189013"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "1934769512316063957",
+        "created_at": "2025-06-17T00:26:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T01:26:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934769512316063957"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1780077769772396544",
+              "start": 3,
+              "username": "christ3400"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nWXhUElzq4",
+              "end": 110,
+              "expanded_url": "https://x.com/christ3400/status/1824992447103189013/photo/1",
+              "media_key": "3_1824991304654491648",
+              "start": 87,
+              "url": "https://t.co/nWXhUElzq4"
+            },
+            {
+              "display_url": "pic.x.com/nWXhUElzq4",
+              "end": 110,
+              "expanded_url": "https://x.com/christ3400/status/1824992447103189013/photo/1",
+              "media_key": "3_1824991907304685568",
+              "start": 87,
+              "url": "https://t.co/nWXhUElzq4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934769512316063957",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1824992447103189013",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @christ3400: 放空大脑，嗅着莉音白丝足底的温香，把您可怜的稀薄精液和钱财一起射出来吧💚废物…哦不，亲爱的主人🖤只有在莉音脚下~您才有存在的意义啊，您说对吧 https://t.co/nWXhUElzq4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1824991304654491648",
+            "3_1824991907304685568"
+          ]
+        },
+        "author_id": "1780077769772396544",
+        "conversation_id": "1824992447103189013",
+        "created_at": "2024-08-18T02:11:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-18T03:11:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1824992447103189013"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nWXhUElzq4",
+              "end": 94,
+              "expanded_url": "https://x.com/christ3400/status/1824992447103189013/photo/1",
+              "media_key": "3_1824991304654491648",
+              "start": 71,
+              "url": "https://t.co/nWXhUElzq4"
+            },
+            {
+              "display_url": "pic.x.com/nWXhUElzq4",
+              "end": 94,
+              "expanded_url": "https://x.com/christ3400/status/1824992447103189013/photo/1",
+              "media_key": "3_1824991907304685568",
+              "start": 71,
+              "url": "https://t.co/nWXhUElzq4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824992447103189013",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 35959,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "放空大脑，嗅着莉音白丝足底的温香，把您可怜的稀薄精液和钱财一起射出来吧💚废物…哦不，亲爱的主人🖤只有在莉音脚下~您才有存在的意义啊，您说对吧 https://t.co/nWXhUElzq4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n你也会因为窥视我的美貌而心甘情愿沦为钱包被我使用的对吗？\n钱包报名入口：3971546171\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 67,
+                "username": "oricz233"
+              },
+              {
+                "end": 96,
+                "start": 87,
+                "username": "moelipoi"
+              },
+              {
+                "end": 114,
+                "start": 103,
+                "username": "cutelingli"
+              },
+              {
+                "end": 136,
+                "start": 121,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 148,
+                "start": 141,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍驯化公用钱包👛中",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931064828044713984/9qwnduVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7216,
+          "following_count": 309,
+          "like_count": 364,
+          "listed_count": 33,
+          "media_count": 682,
+          "tweet_count": 2063
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-16T03:36:42.000Z",
+        "description": "只为了夺走您的财产与精液，最恶劣的女仆\n请务必小心…不要为她奉上一切哦🖤\n欢迎造访女仆的足下~\n门牌号1604549690  🚪35 🧧 畜生翻倍\n如果您能跪着发送 女仆也许会很高兴哦",
+        "id": "1780077769772396544",
+        "location": "您的宅邸",
+        "name": "拜金女仆🖤莉音",
+        "pinned_tweet_id": "1824992447103189013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780077956515459072/dgk1kGJs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1692,
+          "following_count": 41,
+          "like_count": 704,
+          "listed_count": 3,
+          "media_count": 62,
+          "tweet_count": 298
+        },
+        "username": "christ3400",
+        "verified": false
+      }
+    ]
+  }
+}

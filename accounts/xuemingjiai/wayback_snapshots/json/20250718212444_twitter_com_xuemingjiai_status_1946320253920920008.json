@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1946320253920920008",
+    "created_at": "2025-07-18T21:24:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-18T22:24:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946320253920920008"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1553997956679798784",
+          "start": 3,
+          "username": "xy2333_1"
+        },
+        {
+          "end": 49,
+          "id": "1374389254726455305",
+          "start": 37,
+          "username": "xuemingjiai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946320253920920008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939177266497356069",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xy2333_1: 唔……写写最近发生了的事？\n言简意赅就是被奏奏@xuemingjiai “捕获”了，变成小钱包了。脑子和钱包都被搅得一团糟……\n\n其实很早就在阴暗的“视奸”奏奏的推文了，每次看到就会觉得好涩哦，明明没什么很重的语气词和粗口，但就是很让人有一种想要服从…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "1946320253920920008",
+        "created_at": "2025-07-18T21:24:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T22:24:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946320253920920008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1553997956679798784",
+              "start": 3,
+              "username": "xy2333_1"
+            },
+            {
+              "end": 49,
+              "id": "1374389254726455305",
+              "start": 37,
+              "username": "xuemingjiai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946320253920920008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939177266497356069",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xy2333_1: 唔……写写最近发生了的事？\n言简意赅就是被奏奏@xuemingjiai “捕获”了，变成小钱包了。脑子和钱包都被搅得一团糟……\n\n其实很早就在阴暗的“视奸”奏奏的推文了，每次看到就会觉得好涩哦，明明没什么很重的语气词和粗口，但就是很让人有一种想要服从…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1553997956679798784",
+        "conversation_id": "1939177266497356069",
+        "created_at": "2025-06-29T04:21:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T05:21:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939177266497356069"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 35,
+              "id": "1374389254726455305",
+              "start": 23,
+              "username": "xuemingjiai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939177266497356069",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 446,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唔……写写最近发生了的事？\n言简意赅就是被奏奏@xuemingjiai “捕获”了，变成小钱包了。脑子和钱包都被搅得一团糟……\n\n其实很早就在阴暗的“视奸”奏奏的推文了，每次看到就会觉得好涩哦，明明没什么很重的语气词和粗口，但就是很让人有一种想要服从的冲动，很温柔很诱惑的感觉。\n\n于是在某一天，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n你也会因为窥视我的美貌而心甘情愿沦为钱包被我使用的对吗？\n钱包报名入口：3971546171\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 67,
+                "username": "oricz233"
+              },
+              {
+                "end": 96,
+                "start": 87,
+                "username": "moelipoi"
+              },
+              {
+                "end": 114,
+                "start": 103,
+                "username": "cutelingli"
+              },
+              {
+                "end": 136,
+                "start": 121,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 148,
+                "start": 141,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍大规模同化魔法展开中",
+        "pinned_tweet_id": "1945511067926536238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945176725190488064/8VBohPRs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7509,
+          "following_count": 322,
+          "like_count": 469,
+          "listed_count": 33,
+          "media_count": 707,
+          "tweet_count": 2173
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-01T06:56:09.000Z",
+        "description": "你好，你现在看见的是奏奏公主最忠诚的舔狗钱包提款机虫虫之一，奏奏公主是世界最会使用我们的公主殿下，没有任何男性能抵抗住她的诱惑，请你握住下面，“勃起”然后点击@xuemingjiai 去关注，去白给，去送死，成为奏奏公主的众多钱包之一🤍",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 79,
+                "username": "xuemingjiai"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/xuemingjiai",
+                "end": 23,
+                "expanded_url": "http://x.com/xuemingjiai",
+                "start": 0,
+                "url": "https://t.co/odLtt4ApqH"
+              }
+            ]
+          }
+        },
+        "id": "1553997956679798784",
+        "location": "奏奏大人的屁股下",
+        "name": "hhxk233～魔女奏奏公主的弱智提款机臀垫114514号",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945541220245057538/fUp-eNU6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 264,
+          "like_count": 116,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 39
+        },
+        "url": "https://t.co/odLtt4ApqH",
+        "username": "xy2333_1",
+        "verified": false
+      }
+    ]
+  }
+}

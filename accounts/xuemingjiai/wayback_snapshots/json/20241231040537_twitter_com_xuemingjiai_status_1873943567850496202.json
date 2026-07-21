@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1873943564893511681"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "1873943567850496202",
+    "created_at": "2024-12-31T04:05:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-31T05:05:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1873943567850496202"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ij4OrzJ5KV",
+          "end": 167,
+          "expanded_url": "https://x.com/xuemingjiai/status/1873943567850496202/photo/1",
+          "media_key": "3_1873943564893511681",
+          "start": 144,
+          "url": "https://t.co/ij4OrzJ5KV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873943567850496202",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "2024年的最后一次宣传～\n魔女小姐的qq粉丝群💜\n里面能做什么呢？\n可以和魔女小姐互动，可以提前知道更新计划，可以支持（白给）魔女小姐。\n还有最重要的参加丰富多彩的群活动，包括但不限于特别训练榜单，特殊节假日的特别训练任务，在群里成为一名小训练一步步往上爬～\n除此之外还有更多惊喜哦。 https://t.co/ij4OrzJ5KV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 848,
+        "media_key": "3_1873943564893511681",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgGVvmKbYAETurK.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1873943564893511681"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "1873943567850496202",
+        "created_at": "2024-12-31T04:05:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-31T05:05:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1873943567850496202"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ij4OrzJ5KV",
+              "end": 167,
+              "expanded_url": "https://x.com/xuemingjiai/status/1873943567850496202/photo/1",
+              "media_key": "3_1873943564893511681",
+              "start": 144,
+              "url": "https://t.co/ij4OrzJ5KV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873943567850496202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "2024年的最后一次宣传～\n魔女小姐的qq粉丝群💜\n里面能做什么呢？\n可以和魔女小姐互动，可以提前知道更新计划，可以支持（白给）魔女小姐。\n还有最重要的参加丰富多彩的群活动，包括但不限于特别训练榜单，特殊节假日的特别训练任务，在群里成为一名小训练一步步往上爬～\n除此之外还有更多惊喜哦。 https://t.co/ij4OrzJ5KV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "您好～这里是出道以来一直致力于为小雏男哥哥们提供“舒适”“安全”“极致快感”的纯真妹系小天使魔女妹妹💚\n想了解我请翻看我的推文～\nqq2829556413，碎碎念小号@oricz233\n共同出道的偶像老婆：@riemoepoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 83,
+                "username": "oricz233"
+              },
+              {
+                "end": 113,
+                "start": 103,
+                "username": "riemoepoi"
+              },
+              {
+                "end": 131,
+                "start": 120,
+                "username": "cutelingli"
+              },
+              {
+                "end": 153,
+                "start": 138,
+                "username": "chessy80978858"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系天使偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871531149056696320/X1dzrRoR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6260,
+          "following_count": 242,
+          "like_count": 277,
+          "listed_count": 26,
+          "media_count": 523,
+          "tweet_count": 1437
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

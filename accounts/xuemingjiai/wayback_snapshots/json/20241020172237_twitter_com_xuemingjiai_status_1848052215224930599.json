@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1848052215224930599",
+    "created_at": "2024-10-20T17:22:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-20T18:22:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1848052215224930599"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1629314139238830080",
+          "start": 3,
+          "username": "LL_chaoH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1848052215224930599",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "1847905433958437015",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LL_chaoH: “只要用这个就可以让远方的主人操到我吗？这根玩具的确是很大啦…但是真的不是什么恶趣味吗”\n\n仔细观察…但对于早就被调教成媚屌母猪的铃来说稍微仿真一点的肉屌都会触发她的性欲，就好像飞机杯主动撕坏了自己的包装一样，雌伏在地上引导着那根长着巨根的玩具来一次…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1848052215224930599].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1848052215224930599",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1848052215224930599"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1847905431466971136"
+          ]
+        },
+        "author_id": "1629314139238830080",
+        "conversation_id": "1847905433958437015",
+        "created_at": "2024-10-20T07:39:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-20T08:39:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1847905433958437015"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 138,
+              "start": 135,
+              "tag": "文媛"
+            },
+            {
+              "end": 143,
+              "start": 139,
+              "tag": "性幻想"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gOzwzTerqi",
+              "end": 167,
+              "expanded_url": "https://x.com/LL_chaoH/status/1847905433958437015/photo/1",
+              "media_key": "3_1847905431466971136",
+              "start": 144,
+              "url": "https://t.co/gOzwzTerqi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1847905433958437015",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 3411,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "“只要用这个就可以让远方的主人操到我吗？这根玩具的确是很大啦…但是真的不是什么恶趣味吗”\n\n仔细观察…但对于早就被调教成媚屌母猪的铃来说稍微仿真一点的肉屌都会触发她的性欲，就好像飞机杯主动撕坏了自己的包装一样，雌伏在地上引导着那根长着巨根的玩具来一次次刺探殴打她的花心\n#文媛 #性幻想 https://t.co/gOzwzTerqi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "超绝可爱💖\n她就是出道即巅峰的可爱纯真小天使新人偶像魔女小姐💖\n对这样的魔女小姐不能心怀任何涩涩的念想哦，不然就会变得非常糟糕...踏入无法挣脱的陷阱和牢笼里呢💘\n魔女小姐无论说什么做什么都是正确的哦，身为她的粉丝，只需要无条件用各种方式支持她就好了～（最近的人设为男娘）\nqq2829556413",
+        "id": "1374389254726455305",
+        "name": "电波系新人偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1839039717712724125",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846217275709575172/9f-gtjIG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5658,
+          "following_count": 210,
+          "like_count": 168,
+          "listed_count": 23,
+          "tweet_count": 1181
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-25T02:55:42.000Z",
+        "description": "■我是痴女系的反差偶像♡洛璃。                                       \n■一位全天都会发情的yin乱偶像，日常把淫語掛在嘴邊的变态女，所以不要有所顾忌，自由自在的侵犯我\n           ✿  门槛13.14r/每小时66.66r 1573687158🐧",
+        "id": "1629314139238830080",
+        "location": "水龙敬公园",
+        "name": "超淫气偶像★槍間 洛离",
+        "pinned_tweet_id": "1765372199555543485",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1764272896841781248/gIluVtKm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7050,
+          "following_count": 444,
+          "like_count": 2113,
+          "listed_count": 0,
+          "tweet_count": 2783
+        },
+        "username": "LL_chaoH",
+        "verified": false
+      }
+    ]
+  }
+}

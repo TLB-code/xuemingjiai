@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1930650456621269108",
+    "created_at": "2025-06-05T15:38:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-05T16:38:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930650456621269108"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1288837401335328768",
+          "start": 3,
+          "username": "YuSama_Uknwdy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930650456621269108",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 36
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930559488324771950",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YuSama_Uknwdy: 下贱抖M贱狗也想被昱昱这样用脚脚踹爆你们的裤裆吧💚\n不要忍耐着自己恶心下贱又猥琐的想法哦💚\n昱昱会给你这辈子最难忘的体验哦💚\n被昱昱一脚踹趴在地上捂着裤裆舔着昱昱小皮鞋发誓给昱昱做一辈子的足虫奴隶💚\n让昱昱的脚底碾住你的烂根和脑子跟昱昱的脚…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1930650456621269108].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1930650456621269108",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1930650456621269108"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7333,
+        "height": 720,
+        "media_key": "13_1930557471699226624",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1930557471699226624/img/2slAKkBI19Knez8V.jpg",
+        "public_metrics": {
+          "view_count": 2081
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1930557471699226624/vid/avc1/480x270/zMI2ow7_0j-Upz6v.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1930557471699226624/vid/avc1/640x360/96CE8T6cRf7qasm5.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1930557471699226624/vid/avc1/1280x720/yD_F41D2OpMGUoSC.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1930557471699226624/pl/axFXQe_ygpxUfOfW.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1930557471699226624"
+          ]
+        },
+        "author_id": "1288837401335328768",
+        "conversation_id": "1930559488324771950",
+        "created_at": "2025-06-05T09:37:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T10:37:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930559488324771950"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 131,
+              "start": 128,
+              "tag": "女s"
+            },
+            {
+              "end": 135,
+              "start": 132,
+              "tag": "接单"
+            },
+            {
+              "end": 139,
+              "start": 136,
+              "tag": "羞辱"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JUl4MhGqoQ",
+              "end": 163,
+              "expanded_url": "https://x.com/YuSama_Uknwdy/status/1930559488324771950/video/1",
+              "media_key": "13_1930557471699226624",
+              "start": 140,
+              "url": "https://t.co/JUl4MhGqoQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930559488324771950",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 5426,
+          "like_count": 133,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "下贱抖M贱狗也想被昱昱这样用脚脚踹爆你们的裤裆吧💚\n不要忍耐着自己恶心下贱又猥琐的想法哦💚\n昱昱会给你这辈子最难忘的体验哦💚\n被昱昱一脚踹趴在地上捂着裤裆舔着昱昱小皮鞋发誓给昱昱做一辈子的足虫奴隶💚\n让昱昱的脚底碾住你的烂根和脑子跟昱昱的脚底锁死一辈子💚\n#女s #接单 #羞辱 https://t.co/JUl4MhGqoQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "集美貌，智慧，强大于一身的魔女族公主现身人世～区区人类，跪下向我表示臣服吧💜\n被我支配 控制 吸脑 成为奴仆💜\n挑战qq2829556413，里世界小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858\n女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 76,
+                "username": "oricz233"
+              },
+              {
+                "end": 105,
+                "start": 96,
+                "username": "moelipoi"
+              },
+              {
+                "end": 123,
+                "start": 112,
+                "username": "cutelingli"
+              },
+              {
+                "end": 145,
+                "start": 130,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 156,
+                "start": 149,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏💜散播同化病毒中～",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926028406774247424/hWplRg7q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7121,
+          "following_count": 297,
+          "like_count": 339,
+          "listed_count": 33,
+          "media_count": 648,
+          "tweet_count": 1923
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-30T14:02:47.000Z",
+        "description": "超绝文媛🩷 垃圾变态的傻逼们请自觉翘着你的烂根来送死🩷 榨取每个雏男的脑子🩷 营业时间几乎为全天哦💚丨语音验证20💚丨门槛20r可抵扣丨 傻逼不用再偷窥了赶紧夹着你的烂裆来敲门💚 门牌：3451423909",
+        "id": "1288837401335328768",
+        "name": "昱昱SexLove_超绝接单版♪💘",
+        "pinned_tweet_id": "1921487172227473735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926032568291311616/n0i1z6MD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16689,
+          "following_count": 263,
+          "like_count": 692,
+          "listed_count": 78,
+          "media_count": 171,
+          "tweet_count": 2203
+        },
+        "username": "YuSama_Uknwdy",
+        "verified": true
+      }
+    ]
+  }
+}

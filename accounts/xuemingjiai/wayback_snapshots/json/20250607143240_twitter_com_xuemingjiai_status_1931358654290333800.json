@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1931358654290333800",
+    "created_at": "2025-06-07T14:32:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-07T15:32:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931358654290333800"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1131829997335863296",
+          "start": 3,
+          "username": "952909762mao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931358654290333800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931276361659978099",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @952909762mao: 我这每天啊，是给你们这些贡奴又当爹又当妈又当祖宗的，下午来的傻狗张口就喊我亲爹，想要报销账单，就把昨天发的手柄订单发给他，报销的时候很自觉的把优惠券去掉了原价报销，就是要这样才行啊~原价报销才能展现你们的诚意~跪在本小姐脚下满怀感激的贡吧！…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1931358654290333800].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1931358654290333800",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1931358654290333800"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 63231,
+        "height": 1920,
+        "media_key": "13_1931275231320293376",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1931275231320293376/img/F_HkioatjGYoWio4.jpg",
+        "public_metrics": {
+          "view_count": 38
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1931275231320293376/vid/avc1/320x568/nuhWOsJUMlu9lj8m.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1931275231320293376/vid/avc1/480x852/s6tqCYDM68KBbSP4.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1931275231320293376/vid/avc1/720x1280/JTbeMaYlgMwOfzPz.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1931275231320293376/pl/QUXtOLZxuH--1ImN.m3u8?tag=14"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "height": 2712,
+        "media_key": "3_1931275437227032576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs1Exx9awAAe2We.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1931275231320293376",
+            "3_1931275437227032576"
+          ]
+        },
+        "author_id": "1131829997335863296",
+        "conversation_id": "1931276361659978099",
+        "created_at": "2025-06-07T09:05:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T10:05:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931276361659978099"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Wcm26f7VwZ",
+              "end": 144,
+              "expanded_url": "https://x.com/952909762mao/status/1931276361659978099/video/1",
+              "media_key": "13_1931275231320293376",
+              "start": 121,
+              "url": "https://t.co/Wcm26f7VwZ"
+            },
+            {
+              "display_url": "pic.x.com/Wcm26f7VwZ",
+              "end": 144,
+              "expanded_url": "https://x.com/952909762mao/status/1931276361659978099/video/1",
+              "media_key": "3_1931275437227032576",
+              "start": 121,
+              "url": "https://t.co/Wcm26f7VwZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931276361659978099",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 88,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我这每天啊，是给你们这些贡奴又当爹又当妈又当祖宗的，下午来的傻狗张口就喊我亲爹，想要报销账单，就把昨天发的手柄订单发给他，报销的时候很自觉的把优惠券去掉了原价报销，就是要这样才行啊~原价报销才能展现你们的诚意~跪在本小姐脚下满怀感激的贡吧！ https://t.co/Wcm26f7VwZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n你也会因为窥视我的美貌而心甘情愿沦为钱包被我使用的对吗？\n钱包报名入口：242184780\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 66,
+                "username": "oricz233"
+              },
+              {
+                "end": 95,
+                "start": 86,
+                "username": "moelipoi"
+              },
+              {
+                "end": 113,
+                "start": 102,
+                "username": "cutelingli"
+              },
+              {
+                "end": 135,
+                "start": 120,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 147,
+                "start": 140,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍瞄准钱包👛中",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931064828044713984/9qwnduVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7142,
+          "following_count": 297,
+          "like_count": 342,
+          "listed_count": 33,
+          "media_count": 656,
+          "tweet_count": 1947
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-24T07:51:14.000Z",
+        "description": "可爱的黑心小男娘\n在线招收想要吐钱的傻逼贡奴\n🚪门槛费：20 加了好友请主动说明来意 \n门槛不付试图蒙混过关的脑瘫请麻烦死远一点谢谢\n推置顶有二维码 如果看不见希望你们把眼睛捐献给有需要的人呢\n清水良民推主 不搞黄色\nQQ952909762",
+        "id": "1131829997335863296",
+        "name": "古屋敷由良",
+        "pinned_tweet_id": "1771788955731517942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896435593334374400/g9-bSQq1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1693,
+          "following_count": 189,
+          "like_count": 426,
+          "listed_count": 10,
+          "media_count": 242,
+          "tweet_count": 1709
+        },
+        "username": "952909762mao",
+        "verified": false
+      }
+    ]
+  }
+}

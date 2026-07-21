@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1852046516334268417"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1851563784554627239",
+    "created_at": "2024-10-31T17:54:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-31T18:54:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1852046519513526608"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mGmei2b2w6",
+          "end": 176,
+          "expanded_url": "https://x.com/xuemingjiai/status/1852046519513526608/photo/1",
+          "media_key": "3_1852046516334268417",
+          "start": 153,
+          "url": "https://t.co/mGmei2b2w6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1852046519513526608",
+    "in_reply_to_user_id": "1374389254726455305",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1852046433224216729",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "老板娘...居然是我的青梅竹马!嗯...这把贞操锁就是她给我锁上的啦！面对这么漂亮的女孩子谁能抵抗得住不（白给）嘛!不过这次可是要进入魔物塔战斗的，请大家千万千万不要选择d呀!会很糟糕的...多买一些道具...服装..我会努力的向大家证明我的实力!我就是传说中的勇者大人..!只要通关魔物塔..就能开锁💜 https://t.co/mGmei2b2w6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_1852046516334268417",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GbPKfnmakAEWiMH.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1852046516334268417"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1851563784554627239",
+        "created_at": "2024-10-31T17:54:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-31T18:54:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1852046519513526608"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mGmei2b2w6",
+              "end": 176,
+              "expanded_url": "https://x.com/xuemingjiai/status/1852046519513526608/photo/1",
+              "media_key": "3_1852046516334268417",
+              "start": 153,
+              "url": "https://t.co/mGmei2b2w6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852046519513526608",
+        "in_reply_to_user_id": "1374389254726455305",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1852046433224216729",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "老板娘...居然是我的青梅竹马!嗯...这把贞操锁就是她给我锁上的啦！面对这么漂亮的女孩子谁能抵抗得住不（白给）嘛!不过这次可是要进入魔物塔战斗的，请大家千万千万不要选择d呀!会很糟糕的...多买一些道具...服装..我会努力的向大家证明我的实力!我就是传说中的勇者大人..!只要通关魔物塔..就能开锁💜 https://t.co/mGmei2b2w6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1852046430237790213"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1851563784554627239",
+        "created_at": "2024-10-31T17:54:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-31T18:54:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1852046433224216729"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bs9o2Tfazj",
+              "end": 167,
+              "expanded_url": "https://x.com/xuemingjiai/status/1852046433224216729/photo/1",
+              "media_key": "3_1852046430237790213",
+              "start": 144,
+              "url": "https://t.co/Bs9o2Tfazj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852046433224216729",
+        "in_reply_to_user_id": "1374389254726455305",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1852046359425355923",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哇～没想到店里除了有那么多装备，道具，药水以外还有可爱的服饰呢！嗯..但是目前的情况买了衣服就买不起其他“重要的装备”啦，0金币的诅咒套装看起来就很不妙对吧！\n屏幕外的冒险者哥哥们～为了我能够正常的进入魔物塔战斗（白给），请大家多多投票以及赞助魔女小姐，我什么都会做的～（土下座鞠躬💜） https://t.co/Bs9o2Tfazj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "超绝可爱💖\n她就是出道即巅峰的可爱纯真小天使新人偶像魔女小姐💖\n对这样的魔女小姐不能心怀任何涩涩的念想哦，不然就会变得非常糟糕...踏入无法挣脱的陷阱和牢笼里呢💘\n魔女小姐无论说什么做什么都是正确的哦，身为她的粉丝，只需要无条件用各种方式支持她就好了～\nqq2829556413",
+        "id": "1374389254726455305",
+        "name": "电波系新人偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851527988380315648/MjAgrWHr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5738,
+          "following_count": 216,
+          "like_count": 181,
+          "listed_count": 23,
+          "tweet_count": 1246
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

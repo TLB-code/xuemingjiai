@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "2044566461201715487",
+    "created_at": "2026-04-16T00:00:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T01:00:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044566461201715487"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1317722221784272897",
+          "start": 3,
+          "username": "leilan_wy_jy"
+        },
+        {
+          "end": 37,
+          "id": "1312572317206159360",
+          "start": 28,
+          "username": "moelipoi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044566461201715487",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044404352664957048",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @leilan_wy_jy: 称呼：璃酱喵\n推特：@moelipoi\n收费：45/0.5h 80/h \n时间：白天到凌晨一点\n设定：学院偶像/雌小鬼魅魔/绿茶公主/可爱萝莉擅长羞辱调教、洗脑寸止、黑心压榨、闲聊树洞、精神控制、心理咨询~灵活切换人设~具体可详谈~ \n额外：…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2044404276911616000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF8u266bMAAzoF9.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "2044566461201715487",
+        "created_at": "2026-04-16T00:00:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T01:00:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044566461201715487"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1317722221784272897",
+              "start": 3,
+              "username": "leilan_wy_jy"
+            },
+            {
+              "end": 37,
+              "id": "1312572317206159360",
+              "start": 28,
+              "username": "moelipoi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044566461201715487",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044404352664957048",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @leilan_wy_jy: 称呼：璃酱喵\n推特：@moelipoi\n收费：45/0.5h 80/h \n时间：白天到凌晨一点\n设定：学院偶像/雌小鬼魅魔/绿茶公主/可爱萝莉擅长羞辱调教、洗脑寸止、黑心压榨、闲聊树洞、精神控制、心理咨询~灵活切换人设~具体可详谈~ \n额外：…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044404276911616000"
+          ]
+        },
+        "author_id": "1317722221784272897",
+        "conversation_id": "2044404352664957048",
+        "created_at": "2026-04-15T13:15:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T14:15:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044404352664957048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1312572317206159360",
+              "start": 10,
+              "username": "moelipoi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/v58KvHZe4g",
+              "end": 183,
+              "expanded_url": "https://x.com/leilan_wy_jy/status/2044404352664957048/photo/1",
+              "media_key": "3_2044404276911616000",
+              "start": 160,
+              "url": "https://t.co/v58KvHZe4g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044404352664957048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 740,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "称呼：璃酱喵\n推特：@moelipoi\n收费：45/0.5h 80/h \n时间：白天到凌晨一点\n设定：学院偶像/雌小鬼魅魔/绿茶公主/可爱萝莉擅长羞辱调教、洗脑寸止、黑心压榨、闲聊树洞、精神控制、心理咨询~灵活切换人设~具体可详谈~ \n额外：微涉三~随机掉落语音条~接受所有xp、树洞咨询、射精管理、虚拟女友、角色扮演 https://t.co/v58KvHZe4g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会魅惑并享用钱包的公主殿下🤍\n最最最最喜欢钱包们啦～\n联系方式→2829556413←\n病毒小号@oricz233\n现任魔女学园院长!\n星辰魔女镜璃\n@jingli1840489\n桃心魔女奈奈\n@blakexiaonai\n 黑白魔女花卷\n@miaomiaomi17630\n好老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 52,
+                "username": "oricz233"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 114,
+                "start": 101,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 139,
+                "start": 123,
+                "username": "miaomiaomi17630"
+              },
+              {
+                "end": 158,
+                "start": 143,
+                "username": "chessy80978858"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "魅惑系魔女族公主-奏💜魔女学园院长版～",
+        "pinned_tweet_id": "2013314916120416537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018477066753306624/36q-3UGh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8446,
+          "following_count": 348,
+          "like_count": 633,
+          "listed_count": 35,
+          "media_count": 824,
+          "tweet_count": 2178
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-18T07:00:50.000Z",
+        "description": "联系请私聊！\n可以帮文援姬按模板【免费推广】，\n单独发帖有14天一次的频率限制，模板是主页置顶哦~\n设定是金毛双尾小个子狐娘！\n#耒兰访 #耒兰谊 不太可能更新了！\n想要悬赏或者自荐的话 关注每天下午五点的定时推文！\n推文请注意回复，我会要求上当的回复对应推文。\n 小号 @leilan_magazine 基本死了",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 68,
+                "start": 64,
+                "tag": "耒兰访"
+              },
+              {
+                "end": 73,
+                "start": 69,
+                "tag": "耒兰谊"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 152,
+                "start": 136,
+                "username": "leilan_magazine"
+              }
+            ]
+          }
+        },
+        "id": "1317722221784272897",
+        "location": "14天就是日历上朝下隔一行！赞助可以提前发哦。",
+        "name": "文援姬投稿推广~耒兰~leilan",
+        "pinned_tweet_id": "1974475126352839097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960679394969837568/0Fm1LNDj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13117,
+          "following_count": 625,
+          "like_count": 207,
+          "listed_count": 37,
+          "media_count": 6476,
+          "tweet_count": 6911
+        },
+        "username": "leilan_wy_jy",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-04T01:57:08.000Z",
+        "description": "支配系偶像Dom 🎀 | 你的地雷系小恶魔\n​🖤 擅长：足控 /绿茶/太妹系/高压/寸止/压榨\n雷点:不接任何M单｜仅图文不接语音\n💌 门牌号：QQ 1912443435（加前请务必看置顶，语音验证报时52～）\n​碎碎念:@Shironekopedo｜图片如有侵权请私信喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 111,
+                "username": "Shironekopedo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/moeliqwq",
+                "end": 23,
+                "expanded_url": "http://t.me/moeliqwq",
+                "start": 0,
+                "url": "https://t.co/ttwGimBZ9H"
+              }
+            ]
+          }
+        },
+        "id": "1312572317206159360",
+        "location": "价格:图文45/0.5h 80/h 晚上12点后+15",
+        "name": "璃喵 ね🌸",
+        "pinned_tweet_id": "1986985300971974744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041817507624054790/1mF-p2nq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7031,
+          "following_count": 118,
+          "like_count": 373,
+          "listed_count": 20,
+          "media_count": 306,
+          "tweet_count": 2966
+        },
+        "url": "https://t.co/ttwGimBZ9H",
+        "username": "moelipoi",
+        "verified": true
+      }
+    ]
+  }
+}

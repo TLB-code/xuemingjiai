@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1947662527199887520",
+    "created_at": "2025-07-22T14:18:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-22T15:18:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947662527199887520"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1555861836008157184",
+          "start": 3,
+          "username": "xishshsishsj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947662527199887520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945365320539234652",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xishshsishsj: 想要~想要更多的关注，关注人家~给人家创造价值哦 很荣幸叭，什么都不用付出，只要动动手指，就能为人家【提升】人气~说不定还能满足一下内心【奉献】的想法呢~能为人家【奉献】很棒吧~噗嗤~那就~朝着500粉努力叭\ntips：到了五百分有抽奖福利哦…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1947662527199887520].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1947662527199887520",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1947662527199887520"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 738,
+        "media_key": "16_1945365270526038016",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/Gv9TaBQWEAAWTkd.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/Gv9TaBQWEAAWTkd.mp4"
+          }
+        ],
+        "width": 712
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1945365270526038016"
+          ]
+        },
+        "author_id": "1555861836008157184",
+        "conversation_id": "1945365320539234652",
+        "created_at": "2025-07-16T06:10:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T07:10:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945365320539234652"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 133,
+              "start": 130,
+              "tag": "文援"
+            },
+            {
+              "end": 137,
+              "start": 134,
+              "tag": "奖励"
+            },
+            {
+              "end": 141,
+              "start": 138,
+              "tag": "抽奖"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TbesL6fdxp",
+              "end": 165,
+              "expanded_url": "https://x.com/xishshsishsj/status/1945365320539234652/photo/1",
+              "media_key": "16_1945365270526038016",
+              "start": 142,
+              "url": "https://t.co/TbesL6fdxp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945365320539234652",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1448,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "想要~想要更多的关注，关注人家~给人家创造价值哦 很荣幸叭，什么都不用付出，只要动动手指，就能为人家【提升】人气~说不定还能满足一下内心【奉献】的想法呢~能为人家【奉献】很棒吧~噗嗤~那就~朝着500粉努力叭\ntips：到了五百分有抽奖福利哦♡欢迎期待哦~~\n#文援 #奖励 #抽奖 https://t.co/TbesL6fdxp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n你也会因为窥视我的美貌而心甘情愿沦为钱包被我使用的对吗？\n钱包报名入口：3971546171\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 67,
+                "username": "oricz233"
+              },
+              {
+                "end": 96,
+                "start": 87,
+                "username": "moelipoi"
+              },
+              {
+                "end": 114,
+                "start": 103,
+                "username": "cutelingli"
+              },
+              {
+                "end": 136,
+                "start": 121,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 148,
+                "start": 141,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍大规模同化魔法展开中",
+        "pinned_tweet_id": "1945511067926536238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945176725190488064/8VBohPRs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7672,
+          "following_count": 327,
+          "like_count": 582,
+          "listed_count": 33,
+          "media_count": 711,
+          "tweet_count": 2187
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-06T10:22:35.000Z",
+        "description": "这边是涩气文媛星尘哦♡皮下是乖巧可爱的男娘哦♡随机掉落腿子!（划掉）欢迎各位客人前来指教哦♡xp博大精深，婉拒兽交和媚黑哦♡擅长角色扮演/文调/色气文游/寸止/玩弄呢/可约长期哦~♡欢迎小抖m前来送死呢♡收ATM奴，锁奴，狗奴，脚奴哦~\n可爱妹妹@baiyanfumo\n有小门槛哦，门牌3066303361",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 123,
+                "username": "baiyanfumo"
+              }
+            ]
+          }
+        },
+        "id": "1555861836008157184",
+        "name": "🖤星尘💚（互推）",
+        "pinned_tweet_id": "1944405411312095609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1672068777444540416/r8hycVid_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 116,
+          "like_count": 167,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 307
+        },
+        "username": "xishshsishsj",
+        "verified": false
+      }
+    ]
+  }
+}

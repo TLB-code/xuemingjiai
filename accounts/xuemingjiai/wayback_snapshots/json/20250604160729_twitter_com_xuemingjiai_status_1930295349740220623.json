@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1930295349740220623",
+    "created_at": "2025-06-04T16:07:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-04T17:07:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930295349740220623"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1840915231675203587",
+          "start": 3,
+          "username": "mlpx134679"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/YA5",
+          "end": 139,
+          "start": 123,
+          "url": "https://t.co/YA5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930295349740220623",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 33
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929745542265159965",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mlpx134679: “射出来好多精液～味道好重好浓人家会全部吃掉的～以后需要释放性奴欢迎来这里找人家哦～不敢想使用哪里都可以哦♥”\n深夜的公园男厕所里穿着女仆装迎接每一个男性的肉棒精液～一边张开双腿任人使用一边将射过来的浓精全部吃下 https://t.co/YA5…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1930295349740220623].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1930295349740220623",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1930295349740220623"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 848,
+        "media_key": "3_1929745526062305280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsfVVOvX0AAx3Yl.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1929745526062305280"
+          ]
+        },
+        "author_id": "1840915231675203587",
+        "conversation_id": "1929745542265159965",
+        "created_at": "2025-06-03T03:42:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T04:42:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929745542265159965"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YA5oJP8qQd",
+              "end": 130,
+              "expanded_url": "https://x.com/mlpx134679/status/1929745542265159965/photo/1",
+              "media_key": "3_1929745526062305280",
+              "start": 107,
+              "url": "https://t.co/YA5oJP8qQd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929745542265159965",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 6940,
+          "like_count": 127,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "“射出来好多精液～味道好重好浓人家会全部吃掉的～以后需要释放性奴欢迎来这里找人家哦～不敢想使用哪里都可以哦♥”\n深夜的公园男厕所里穿着女仆装迎接每一个男性的肉棒精液～一边张开双腿任人使用一边将射过来的浓精全部吃下 https://t.co/YA5oJP8qQd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "集美貌，智慧，强大于一身的魔女族公主现身人世～区区人类，跪下向我表示臣服吧💜\n被我支配 控制 吸脑 成为奴仆💜\n挑战qq242184780，里世界小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858\n女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "oricz233"
+              },
+              {
+                "end": 104,
+                "start": 95,
+                "username": "moelipoi"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "cutelingli"
+              },
+              {
+                "end": 144,
+                "start": 129,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 155,
+                "start": 148,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏💜散播同化病毒中～",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926028406774247424/hWplRg7q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7102,
+          "following_count": 296,
+          "like_count": 335,
+          "listed_count": 33,
+          "media_count": 640,
+          "tweet_count": 1900
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-01T00:42:55.000Z",
+        "description": "伊伊已经在床上等着哥哥的大肉棒了哦♥\n嗯～还是想被伊伊狠狠榨干呢\n各种文爱剧情都擅长哦～不管是文爱剧情还是日常聊天陪伴都可以胜任喵\n全天营业中♥\n欢迎下单喵.30r/0.5h \n可包周包月～\n伊伊的门牌号喵 3921895379\n电报 https://t.co/Cx9cCJKDeF",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/mlpx268479",
+                "end": 141,
+                "expanded_url": "http://t.me/mlpx268479",
+                "start": 118,
+                "url": "https://t.co/Cx9cCJKDeF"
+              }
+            ]
+          }
+        },
+        "id": "1840915231675203587",
+        "location": "你的床上～♥",
+        "name": "是伊伊呀（文援互推喵）",
+        "pinned_tweet_id": "1911765984286847187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870699649759113216/gFLvFUzl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4654,
+          "following_count": 37,
+          "like_count": 316,
+          "listed_count": 20,
+          "media_count": 161,
+          "tweet_count": 3465
+        },
+        "username": "mlpx134679",
+        "verified": false
+      }
+    ]
+  }
+}

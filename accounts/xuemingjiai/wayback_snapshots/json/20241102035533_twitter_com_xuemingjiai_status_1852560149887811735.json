@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1852560149887811735",
+    "created_at": "2024-11-02T03:55:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-02T04:55:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1852560149887811735"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1629314139238830080",
+          "start": 3,
+          "username": "LL_chaoH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1852560149887811735",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 38
+    },
+    "referenced_tweets": [
+      {
+        "id": "1852252571387511043",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LL_chaoH: 这些动物成精的少女，最大的烦恼就是刻在身上的本能，一旦到了发情期对所有雄性都一副卑微讨好的模样，恨不得立马脱光衣服翘起屁股求人和自己交尾♡\n\n等到发情期过去就又恢复原状，但只要让这些母畜一直保持屄水上脑的发情期模样，就可以轻易驯服这帮天生就应该被男爹…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1852560149887811735].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1852560149887811735",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1852560149887811735"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1852252563598671872"
+          ]
+        },
+        "author_id": "1629314139238830080",
+        "conversation_id": "1852252571387511043",
+        "created_at": "2024-11-01T07:33:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-01T08:33:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1852252571387511043"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 137,
+              "start": 134,
+              "tag": "文媛"
+            },
+            {
+              "end": 142,
+              "start": 138,
+              "tag": "性幻想"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OsInE3vISl",
+              "end": 166,
+              "expanded_url": "https://x.com/LL_chaoH/status/1852252571387511043/photo/1",
+              "media_key": "3_1852252563598671872",
+              "start": 143,
+              "url": "https://t.co/OsInE3vISl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852252571387511043",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 6063,
+          "like_count": 75,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "这些动物成精的少女，最大的烦恼就是刻在身上的本能，一旦到了发情期对所有雄性都一副卑微讨好的模样，恨不得立马脱光衣服翘起屁股求人和自己交尾♡\n\n等到发情期过去就又恢复原状，但只要让这些母畜一直保持屄水上脑的发情期模样，就可以轻易驯服这帮天生就应该被男爹饲养的小飞机杯～\n#文媛 #性幻想 https://t.co/OsInE3vISl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "超绝可爱💖\n她就是出道即巅峰的可爱纯真小天使新人偶像魔女小姐💖\n对这样的魔女小姐不能心怀任何涩涩的念想哦，不然就会变得非常糟糕...踏入无法挣脱的陷阱和牢笼里呢💘\n魔女小姐无论说什么做什么都是正确的哦，身为她的粉丝，只需要无条件用各种方式支持她就好了～\nqq2829556413",
+        "id": "1374389254726455305",
+        "name": "电波系新人偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852048735020421125/2lLNSdIh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5746,
+          "following_count": 216,
+          "like_count": 181,
+          "listed_count": 23,
+          "tweet_count": 1260
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-25T02:55:42.000Z",
+        "description": "■我是痴女系的反差偶像♡洛璃。                                       \n■一位全天都会发情的yin乱偶像，日常把淫語掛在嘴邊的变态女，所以不要有所顾忌，自由自在的侵犯我\n           ✿  门槛13.14r/每小时66.66r 1573687158🐧",
+        "id": "1629314139238830080",
+        "location": "水龙敬公园",
+        "name": "超淫气偶像★槍間 洛离",
+        "pinned_tweet_id": "1765372199555543485",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1764272896841781248/gIluVtKm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7308,
+          "following_count": 466,
+          "like_count": 2201,
+          "listed_count": 41,
+          "tweet_count": 3029
+        },
+        "username": "LL_chaoH",
+        "verified": false
+      }
+    ]
+  }
+}

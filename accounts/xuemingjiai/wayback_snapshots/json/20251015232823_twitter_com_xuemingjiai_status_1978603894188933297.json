@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1978603894188933297",
+    "created_at": "2025-10-15T23:28:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-16T00:28:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978603894188933297"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1976376041351544832",
+          "start": 3,
+          "username": "jingli521"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978603894188933297",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978602441651191874",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jingli521: 今天是推特正式营业第二天，首先感谢这些天支持的前辈们和客人们，非常感谢各位的帮助和支持！！\n其次也想跟各位朋友简单介绍下我自己，我是很喜欢大家都开心的，所以每位客人都会尽心尽力服务，希望大家都能开开心心哦（图片来自于一位超级可爱的孩子哦~已经本人许…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1978603894188933297].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1978603894188933297",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1978603894188933297"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1891,
+        "media_key": "3_1978602437515837440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3Vobw_agAA6tjg.jpg",
+        "width": 1096
+      },
+      {
+        "height": 1505,
+        "media_key": "3_1978602437670998016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3VobxkaEAAzt4i.jpg",
+        "width": 1108
+      },
+      {
+        "height": 1732,
+        "media_key": "3_1978602438065283072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3VobzCaYAAJZJN.jpg",
+        "width": 1089
+      },
+      {
+        "height": 1866,
+        "media_key": "3_1978602438732185600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3Vob1hagAAbMVf.jpg",
+        "width": 1088
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978602437515837440",
+            "3_1978602437670998016",
+            "3_1978602438065283072",
+            "3_1978602438732185600"
+          ]
+        },
+        "author_id": "1976376041351544832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1978602441651191874",
+        "created_at": "2025-10-15T23:22:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T00:22:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978602441651191874"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6d99fS7zwe",
+              "end": 150,
+              "expanded_url": "https://x.com/jingli521/status/1978602441651191874/photo/1",
+              "media_key": "3_1978602437515837440",
+              "start": 127,
+              "url": "https://t.co/6d99fS7zwe"
+            },
+            {
+              "display_url": "pic.x.com/6d99fS7zwe",
+              "end": 150,
+              "expanded_url": "https://x.com/jingli521/status/1978602441651191874/photo/1",
+              "media_key": "3_1978602437670998016",
+              "start": 127,
+              "url": "https://t.co/6d99fS7zwe"
+            },
+            {
+              "display_url": "pic.x.com/6d99fS7zwe",
+              "end": 150,
+              "expanded_url": "https://x.com/jingli521/status/1978602441651191874/photo/1",
+              "media_key": "3_1978602438065283072",
+              "start": 127,
+              "url": "https://t.co/6d99fS7zwe"
+            },
+            {
+              "display_url": "pic.x.com/6d99fS7zwe",
+              "end": 150,
+              "expanded_url": "https://x.com/jingli521/status/1978602441651191874/photo/1",
+              "media_key": "3_1978602438732185600",
+              "start": 127,
+              "url": "https://t.co/6d99fS7zwe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978602441651191874",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "今天是推特正式营业第二天，首先感谢这些天支持的前辈们和客人们，非常感谢各位的帮助和支持！！\n其次也想跟各位朋友简单介绍下我自己，我是很喜欢大家都开心的，所以每位客人都会尽心尽力服务，希望大家都能开开心心哦（图片来自于一位超级可爱的孩子哦~已经本人许可） https://t.co/6d99fS7zwe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n最最最最喜欢钱包们啦!\n天天挨骂真的不会腻嘛～\n擅长用爱意和温柔的语气俘虏钱包～\n联系方式→3971546171←\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 78,
+                "username": "oricz233"
+              },
+              {
+                "end": 107,
+                "start": 98,
+                "username": "moelipoi"
+              },
+              {
+                "end": 125,
+                "start": 114,
+                "username": "cutelingli"
+              },
+              {
+                "end": 147,
+                "start": 132,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 159,
+                "start": 152,
+                "username": "1xian1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARosxSy"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍对钱包们最温柔最有好感版",
+        "pinned_tweet_id": "1976743806063063398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969152325731168256/ozl0k8K4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7794,
+          "following_count": 320,
+          "like_count": 640,
+          "listed_count": 34,
+          "media_count": 736,
+          "tweet_count": 2233
+        },
+        "url": "https://t.co/le8ARosxSy",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-09T19:56:14.000Z",
+        "description": "客人们好~这里是新人文媛镜璃，既可以是温柔妈咪~可以是可爱姐姐/妹妹~当然……也可以当可怕残忍的压榨主使用钱包哦🖤（不涉三哟）\n目前主要玩法有：剧情文爱/黑心/绿茶/榨金/洗脑（玩法拓展中），门牌🚪q3775591357，致力于让每位客都开开心心舒舒服服的喔❤️欢迎前来光顾~\n最可爱的奏奏：@xuemingjiai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 158,
+                "start": 146,
+                "username": "xuemingjiai"
+              }
+            ]
+          }
+        },
+        "id": "1976376041351544832",
+        "location": "镜璃的柔软小床~深夜也欢迎打扰哦~",
+        "name": "是镜璃哟~",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976382867484573696/xBv-mA-R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 48,
+          "like_count": 51,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 3
+        },
+        "username": "jingli521",
+        "verified": false
+      }
+    ]
+  }
+}

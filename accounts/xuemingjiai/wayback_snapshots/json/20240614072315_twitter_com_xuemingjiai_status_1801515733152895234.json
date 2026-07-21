@@ -1,0 +1,191 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1801515390927049180",
+    "created_at": "2024-06-14T07:23:15.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-14T08:23:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1801515733152895234"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1801515733152895234",
+    "in_reply_to_user_id": "1374389254726455305",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1801515390927049180",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "想要的话加简介的qq咨询哦～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "1801515390927049180",
+        "created_at": "2024-06-14T07:23:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-14T08:23:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1801515733152895234"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1801515733152895234",
+        "in_reply_to_user_id": "1374389254726455305",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1801515390927049180",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想要的话加简介的qq咨询哦～"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1801515376767111168",
+            "3_1801515380495761409",
+            "3_1801515384107057154",
+            "3_1801515387957481473"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1801515390927049180",
+        "created_at": "2024-06-14T07:21:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-14T08:21:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1801515390927049180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 37,
+              "id": "1659771094373658627",
+              "start": 25,
+              "username": "ddngq326458"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/srjAtctCpp",
+              "end": 167,
+              "expanded_url": "https://twitter.com/xuemingjiai/status/1801515390927049180/photo/1",
+              "media_key": "3_1801515376767111168",
+              "start": 144,
+              "url": "https://t.co/srjAtctCpp"
+            },
+            {
+              "display_url": "pic.twitter.com/srjAtctCpp",
+              "end": 167,
+              "expanded_url": "https://twitter.com/xuemingjiai/status/1801515390927049180/photo/1",
+              "media_key": "3_1801515380495761409",
+              "start": 144,
+              "url": "https://t.co/srjAtctCpp"
+            },
+            {
+              "display_url": "pic.twitter.com/srjAtctCpp",
+              "end": 167,
+              "expanded_url": "https://twitter.com/xuemingjiai/status/1801515390927049180/photo/1",
+              "media_key": "3_1801515384107057154",
+              "start": 144,
+              "url": "https://t.co/srjAtctCpp"
+            },
+            {
+              "display_url": "pic.twitter.com/srjAtctCpp",
+              "end": 167,
+              "expanded_url": "https://twitter.com/xuemingjiai/status/1801515390927049180/photo/1",
+              "media_key": "3_1801515387957481473",
+              "start": 144,
+              "url": "https://t.co/srjAtctCpp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801515390927049180",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "嗯～小雏男们最喜欢的魔女小姐最近和黑心的猫猫酱🖤@@ddngq326458\n进行了一波问卷联动～联动的内容是小雏男最喜欢的赌场系列哦💜哼哼～杂鱼小雏男同时面对黑心的猫猫酱和无敌可爱的魔女大人，真的有胜算吗～？就算有..也只会遵从欲望败北吧💖\n限时福利～以前找魔女下过单的都可以免费领取哦 https://t.co/srjAtctCpp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "超绝可爱💖\n她就是出道即巅峰的可爱纯真小天使新人偶像魔女小姐💖\n任何人都会被她散发出的魅力所捕获，对这样的魔女小姐不能心怀任何涩涩的念想哦，不然就会变得非常糟糕...踏入无法挣脱的陷阱和牢笼里呢💘\n魔女小姐无论说什么做什么都是正确的哦，身为她的粉丝，只需要无条件用各种方式支持她就好了～\nqq2829556413",
+        "id": "1374389254726455305",
+        "name": "电波系新人偶像💖魔女小姐参上（正能量爆表～）",
+        "pinned_tweet_id": "1798490016685195398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795799880021295104/Tsd4XdC9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4871,
+          "following_count": 173,
+          "like_count": 147,
+          "listed_count": 22,
+          "tweet_count": 980
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

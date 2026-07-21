@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1926025098491777490",
+    "created_at": "2025-05-23T21:19:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-23T22:19:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926025098491777490"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1485155475498831874",
+          "start": 3,
+          "username": "MeQingYun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926025098491777490",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 52
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925068072186200275",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MeQingYun: 看来你的命运和旅途…到此为止了呢~绿行者💚虽然你的某些地方确实让我刮目相看，这点我从不否认~💚但和这位黑人先生相比…~💚呵呵…你实在差得太远了~💚如纸片一样孱弱的身躯，硬起来不过5㎝的废物肉棒，轻轻摸一下就会早泄漏精…啧啧…💚作为一个男人，你已经全…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1926025098491777490].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1926025098491777490",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1926025098491777490"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1925068068625227776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Grc3NX7aoAAliiv.jpg",
+        "width": 1301
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1925068068625227776"
+          ]
+        },
+        "author_id": "1485155475498831874",
+        "conversation_id": "1925068072186200275",
+        "created_at": "2025-05-21T05:56:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T06:56:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925068072186200275"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j7GArikgnm",
+              "end": 167,
+              "expanded_url": "https://x.com/MeQingYun/status/1925068072186200275/photo/1",
+              "media_key": "3_1925068068625227776",
+              "start": 144,
+              "url": "https://t.co/j7GArikgnm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925068072186200275",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 296,
+                "start": 293,
+                "tag": "文媛"
+              },
+              {
+                "end": 300,
+                "start": 297,
+                "tag": "媚黑"
+              },
+              {
+                "end": 304,
+                "start": 301,
+                "tag": "反差"
+              },
+              {
+                "end": 308,
+                "start": 305,
+                "tag": "绿帽"
+              },
+              {
+                "end": 313,
+                "start": 309,
+                "tag": "NTR"
+              },
+              {
+                "end": 318,
+                "start": 314,
+                "tag": "qos"
+              }
+            ]
+          },
+          "text": "看来你的命运和旅途…到此为止了呢~绿行者💚虽然你的某些地方确实让我刮目相看，这点我从不否认~💚但和这位黑人先生相比…~💚呵呵…你实在差得太远了~💚如纸片一样孱弱的身躯，硬起来不过5㎝的废物肉棒，轻轻摸一下就会早泄漏精…啧啧…💚作为一个男人，你已经全方位彻底被完爆了呢~💚那根粗黑的肉棒💚在我亲自体验过后…💚我才知道自己无论再怎么强大，终究也是一个“雌性”而已💚注定是要被强大的男性所“征服”的💚为了能永远的成为黑人的性奴，我甚至主动立下了“臣服契约”💚为的就是换取臣服在真正男性身下的快感💚身上这些纹身，就是“契约”的证明哦~💚我说到这个份上，你明白了吗~废物绿王八阳痿早泄绿行者~💚\n#文媛 #媚黑 #反差 #绿帽 #NTR #qos"
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 11182,
+          "like_count": 292,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 52
+        },
+        "reply_settings": "everyone",
+        "text": "看来你的命运和旅途…到此为止了呢~绿行者💚虽然你的某些地方确实让我刮目相看，这点我从不否认~💚但和这位黑人先生相比…~💚呵呵…你实在差得太远了~💚如纸片一样孱弱的身躯，硬起来不过5㎝的废物肉棒，轻轻摸一下就会早泄漏精…啧啧…💚作为一个男人，你已经全方位彻底被完爆了呢~💚那根粗黑的肉棒💚 https://t.co/j7GArikgnm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "集美貌，智慧，强大于一身的魔女族公主现身人世～区区人类，跪下向我表示臣服吧💜\n被我支配 控制 吸脑 成为奴仆💜\n挑战qq242184780，里世界小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858\n女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "oricz233"
+              },
+              {
+                "end": 104,
+                "start": 95,
+                "username": "moelipoi"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "cutelingli"
+              },
+              {
+                "end": 144,
+                "start": 129,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 155,
+                "start": 148,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏💜强势登场人间",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923161284247420929/dv1s2unV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7000,
+          "following_count": 289,
+          "like_count": 320,
+          "listed_count": 32,
+          "media_count": 618,
+          "tweet_count": 1834
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-23T07:40:46.000Z",
+        "description": "门牌号2790468154❤️入圈已有四年，较擅长的是榨精❤️调情寸止❤️NTR类剧情❤️媚黑只是XP，勿要入脑❤️擅长长文对戏以及各种脑洞大开的玩法，有想玩的剧情都可以来戳，价格是70/小时～40/0.5小时\n小号：@YunQing0915\n来不及回复可以去这里https://t.co/WNHwBf0PHX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 109,
+                "username": "YunQing0915"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/yueqingyun",
+                "end": 155,
+                "expanded_url": "https://t.me/yueqingyun",
+                "start": 132,
+                "url": "https://t.co/WNHwBf0PHX"
+              }
+            ]
+          }
+        },
+        "id": "1485155475498831874",
+        "location": "你心里",
+        "name": "清云🖤",
+        "pinned_tweet_id": "1804376109817172192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779128146186379264/LFfTwJkS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14343,
+          "following_count": 120,
+          "like_count": 2456,
+          "listed_count": 78,
+          "media_count": 205,
+          "tweet_count": 2798
+        },
+        "username": "MeQingYun",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1926025314196439098",
+    "created_at": "2025-05-23T21:19:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-23T22:19:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926025314196439098"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 96,
+          "start": 91,
+          "tag": "全天接单"
+        },
+        {
+          "end": 100,
+          "start": 97,
+          "tag": "绿帽"
+        },
+        {
+          "end": 104,
+          "start": 101,
+          "tag": "羞辱"
+        },
+        {
+          "end": 108,
+          "start": 105,
+          "tag": "母狗"
+        },
+        {
+          "end": 112,
+          "start": 109,
+          "tag": "淫萝"
+        },
+        {
+          "end": 118,
+          "start": 113,
+          "tag": "婊子女神"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1084532005545492480",
+          "start": 3,
+          "username": "lanyuan411"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/YNoE2jy",
+          "end": 139,
+          "start": 119,
+          "url": "https://t.co/YNoE2jy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926025314196439098",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 33
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925656941780427228",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lanyuan411: 全天接单♡~被主人牵着玩弄到小穴失禁承认败北宣言当专属鸡巴套子母狗🩷\n\n还是夹着主人的高贵浓精将过来白给♡送死的绿帽贱狗当傻逼奴下奴爆骂羞辱都可以💚\n#全天接单 #绿帽 #羞辱 #母狗 #淫萝 #婊子女神 https://t.co/YNoE2jy…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1926025314196439098].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1926025314196439098",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1926025314196439098"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1925654561378680832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrlMnvsWQAARC0C.jpg",
+        "width": 1078
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1925654561378680832"
+          ]
+        },
+        "author_id": "1084532005545492480",
+        "conversation_id": "1925656941780427228",
+        "created_at": "2025-05-22T20:56:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T21:56:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925656941780427228"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 80,
+              "start": 75,
+              "tag": "全天接单"
+            },
+            {
+              "end": 84,
+              "start": 81,
+              "tag": "绿帽"
+            },
+            {
+              "end": 88,
+              "start": 85,
+              "tag": "羞辱"
+            },
+            {
+              "end": 92,
+              "start": 89,
+              "tag": "母狗"
+            },
+            {
+              "end": 96,
+              "start": 93,
+              "tag": "淫萝"
+            },
+            {
+              "end": 102,
+              "start": 97,
+              "tag": "婊子女神"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YNoE2jyHHf",
+              "end": 126,
+              "expanded_url": "https://x.com/lanyuan411/status/1925656941780427228/photo/1",
+              "media_key": "3_1925654561378680832",
+              "start": 103,
+              "url": "https://t.co/YNoE2jyHHf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925656941780427228",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 4581,
+          "like_count": 46,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "全天接单♡~被主人牵着玩弄到小穴失禁承认败北宣言当专属鸡巴套子母狗🩷\n\n还是夹着主人的高贵浓精将过来白给♡送死的绿帽贱狗当傻逼奴下奴爆骂羞辱都可以💚\n#全天接单 #绿帽 #羞辱 #母狗 #淫萝 #婊子女神 https://t.co/YNoE2jyHHf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "集美貌，智慧，强大于一身的魔女族公主现身人世～区区人类，跪下向我表示臣服吧💜\n被我支配 控制 吸脑 成为奴仆💜\n挑战qq242184780，里世界小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858\n女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "oricz233"
+              },
+              {
+                "end": 104,
+                "start": 95,
+                "username": "moelipoi"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "cutelingli"
+              },
+              {
+                "end": 144,
+                "start": 129,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 155,
+                "start": 148,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏💜强势登场人间",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923161284247420929/dv1s2unV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7000,
+          "following_count": 289,
+          "like_count": 320,
+          "listed_count": 32,
+          "media_count": 618,
+          "tweet_count": 1839
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-13T19:25:54.000Z",
+        "description": "这里是玲奈🩷\n是一个喜欢玩弄早泄雏男同时又会勾引男爹的雌萝淫婊大小姐🖤\n擅长的有：羞辱榨精丨玩弄绿奴丨调教绿狗丨送屄倒贴丨\n60/h~35/0.5h\n盯着屏幕对玲奈已经饥不择食的早泄雏男可以来敲门了哦~当然也欢迎男爹来光临使用玲奈的雌穴💛门牌3843285033备用3472256312（加不上就私信玲奈哦。",
+        "id": "1084532005545492480",
+        "location": "全天接单♡",
+        "name": "玲奈美少女_♡全天接单Sex~💚",
+        "pinned_tweet_id": "1857473827904856194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901034732064043008/ZsBmKqry_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5551,
+          "following_count": 84,
+          "like_count": 108,
+          "listed_count": 33,
+          "media_count": 94,
+          "tweet_count": 1330
+        },
+        "username": "lanyuan411",
+        "verified": true
+      }
+    ]
+  }
+}

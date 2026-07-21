@@ -1,0 +1,475 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1931830407550615702",
+    "created_at": "2025-06-08T21:47:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-08T22:47:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931830407550615702"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 66,
+          "start": 63,
+          "tag": "贡畜"
+        },
+        {
+          "end": 71,
+          "start": 67,
+          "tag": "报销奴"
+        },
+        {
+          "end": 76,
+          "start": 72,
+          "tag": "账单奴"
+        },
+        {
+          "end": 83,
+          "start": 78,
+          "tag": "ATM奴"
+        },
+        {
+          "end": 89,
+          "start": 84,
+          "tag": "提款机奴"
+        },
+        {
+          "end": 93,
+          "start": 90,
+          "tag": "贡奴"
+        },
+        {
+          "end": 97,
+          "start": 94,
+          "tag": "舔狗"
+        },
+        {
+          "end": 101,
+          "start": 98,
+          "tag": "上贡"
+        },
+        {
+          "end": 105,
+          "start": 102,
+          "tag": "榨金"
+        },
+        {
+          "end": 109,
+          "start": 106,
+          "tag": "袜奴"
+        },
+        {
+          "end": 113,
+          "start": 110,
+          "tag": "报销"
+        },
+        {
+          "end": 117,
+          "start": 114,
+          "tag": "账单"
+        },
+        {
+          "end": 121,
+          "start": 118,
+          "tag": "吐钱"
+        },
+        {
+          "end": 125,
+          "start": 122,
+          "tag": "喷金"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1684900383477710848",
+          "start": 3,
+          "username": "rbqrbqrbqq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co",
+          "end": 139,
+          "start": 126,
+          "url": "https://t.co/"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931830407550615702",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931764830932766947",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rbqrbqrbqq: 没有钱了，找一个给这个推文点赞的人做回血奴，所以不要给推文点赞，也不用尝试反杀我，没有钱吐的\n#贡畜 #报销奴 #账单奴  #ATM奴 #提款机奴 #贡奴 #舔狗 #上贡 #榨金 #袜奴 #报销 #账单 #吐钱 #喷金 https://t.co/…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1931764827539865600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs8B4C8bgAAwodL.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "1931830407550615702",
+        "created_at": "2025-06-08T21:47:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T22:47:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931830407550615702"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 66,
+              "start": 63,
+              "tag": "贡畜"
+            },
+            {
+              "end": 71,
+              "start": 67,
+              "tag": "报销奴"
+            },
+            {
+              "end": 76,
+              "start": 72,
+              "tag": "账单奴"
+            },
+            {
+              "end": 83,
+              "start": 78,
+              "tag": "ATM奴"
+            },
+            {
+              "end": 89,
+              "start": 84,
+              "tag": "提款机奴"
+            },
+            {
+              "end": 93,
+              "start": 90,
+              "tag": "贡奴"
+            },
+            {
+              "end": 97,
+              "start": 94,
+              "tag": "舔狗"
+            },
+            {
+              "end": 101,
+              "start": 98,
+              "tag": "上贡"
+            },
+            {
+              "end": 105,
+              "start": 102,
+              "tag": "榨金"
+            },
+            {
+              "end": 109,
+              "start": 106,
+              "tag": "袜奴"
+            },
+            {
+              "end": 113,
+              "start": 110,
+              "tag": "报销"
+            },
+            {
+              "end": 117,
+              "start": 114,
+              "tag": "账单"
+            },
+            {
+              "end": 121,
+              "start": 118,
+              "tag": "吐钱"
+            },
+            {
+              "end": 125,
+              "start": 122,
+              "tag": "喷金"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1684900383477710848",
+              "start": 3,
+              "username": "rbqrbqrbqq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co",
+              "end": 139,
+              "start": 126,
+              "url": "https://t.co/"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931830407550615702",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931764830932766947",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rbqrbqrbqq: 没有钱了，找一个给这个推文点赞的人做回血奴，所以不要给推文点赞，也不用尝试反杀我，没有钱吐的\n#贡畜 #报销奴 #账单奴  #ATM奴 #提款机奴 #贡奴 #舔狗 #上贡 #榨金 #袜奴 #报销 #账单 #吐钱 #喷金 https://t.co/…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1931764827539865600"
+          ]
+        },
+        "author_id": "1684900383477710848",
+        "conversation_id": "1931764830932766947",
+        "created_at": "2025-06-08T17:26:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T18:26:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931764830932766947"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 50,
+              "start": 47,
+              "tag": "贡畜"
+            },
+            {
+              "end": 55,
+              "start": 51,
+              "tag": "报销奴"
+            },
+            {
+              "end": 60,
+              "start": 56,
+              "tag": "账单奴"
+            },
+            {
+              "end": 67,
+              "start": 62,
+              "tag": "ATM奴"
+            },
+            {
+              "end": 73,
+              "start": 68,
+              "tag": "提款机奴"
+            },
+            {
+              "end": 77,
+              "start": 74,
+              "tag": "贡奴"
+            },
+            {
+              "end": 81,
+              "start": 78,
+              "tag": "舔狗"
+            },
+            {
+              "end": 85,
+              "start": 82,
+              "tag": "上贡"
+            },
+            {
+              "end": 89,
+              "start": 86,
+              "tag": "榨金"
+            },
+            {
+              "end": 93,
+              "start": 90,
+              "tag": "袜奴"
+            },
+            {
+              "end": 97,
+              "start": 94,
+              "tag": "报销"
+            },
+            {
+              "end": 101,
+              "start": 98,
+              "tag": "账单"
+            },
+            {
+              "end": 105,
+              "start": 102,
+              "tag": "吐钱"
+            },
+            {
+              "end": 109,
+              "start": 106,
+              "tag": "喷金"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8cgXsgTYiU",
+              "end": 133,
+              "expanded_url": "https://x.com/rbqrbqrbqq/status/1931764830932766947/photo/1",
+              "media_key": "3_1931764827539865600",
+              "start": 110,
+              "url": "https://t.co/8cgXsgTYiU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931764830932766947",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 233,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没有钱了，找一个给这个推文点赞的人做回血奴，所以不要给推文点赞，也不用尝试反杀我，没有钱吐的\n#贡畜 #报销奴 #账单奴  #ATM奴 #提款机奴 #贡奴 #舔狗 #上贡 #榨金 #袜奴 #报销 #账单 #吐钱 #喷金 https://t.co/8cgXsgTYiU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n你也会因为窥视我的美貌而心甘情愿沦为钱包被我使用的对吗？\n钱包报名入口：242184780\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 66,
+                "username": "oricz233"
+              },
+              {
+                "end": 95,
+                "start": 86,
+                "username": "moelipoi"
+              },
+              {
+                "end": 113,
+                "start": 102,
+                "username": "cutelingli"
+              },
+              {
+                "end": 135,
+                "start": 120,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 147,
+                "start": 140,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍瞄准钱包👛中",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931064828044713984/9qwnduVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7153,
+          "following_count": 299,
+          "like_count": 343,
+          "listed_count": 33,
+          "media_count": 661,
+          "tweet_count": 1971
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-28T12:15:39.000Z",
+        "description": "在魔女公主@xuemingjiai 的指导下，变成了任何人都可以随意使用的公交车钱包，只要您对我发送包括不限于足底，脚，鞋子，臀部，胸部相关的图片，在钱包充足的情况下就会向您支付费用，账单也可以甩给我，感谢您的使用🤍",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 5,
+                "username": "xuemingjiai"
+              }
+            ]
+          }
+        },
+        "id": "1684900383477710848",
+        "name": "我是公用钱包🤍禁止🚫私有化",
+        "pinned_tweet_id": "1931764830932766947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931824013300609024/4g0kXC86_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 2314,
+          "like_count": 4035,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 245
+        },
+        "username": "rbqrbqrbqq",
+        "verified": false
+      }
+    ]
+  }
+}

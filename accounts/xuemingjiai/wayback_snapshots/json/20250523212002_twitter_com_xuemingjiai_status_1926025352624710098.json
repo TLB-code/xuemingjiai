@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1926025352624710098",
+    "created_at": "2025-05-23T21:20:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-23T22:20:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926025352624710098"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1782291909685444608",
+          "start": 3,
+          "username": "X1ranS"
+        },
+        {
+          "end": 58,
+          "id": "1545077939510730752",
+          "start": 42,
+          "username": "molijiushiruci1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926025352624710098",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 38
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925772770761199641",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @X1ranS: 怎么了呀？你这只白痴恋足贱狗～眼睛已经无法从人家和茉莉姐姐（@molijiushiruci1 ）的酸汗臭脚底移开了吗？真是无可救药了呢～♡\n\n诶呀～小肉虫已经在裤裆内勃起流水了吗？该不会在幻想着被两位亲妈的酸臭玉足踩着你的短小早泄的肉虫足交吧♡真是痴心妄…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1926025352624710098].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1926025352624710098",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1926025352624710098"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1381,
+        "media_key": "3_1925772767049261056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Grm4IOIXoAABWry.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1925772767049261056"
+          ]
+        },
+        "author_id": "1782291909685444608",
+        "conversation_id": "1925772770761199641",
+        "created_at": "2025-05-23T04:36:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-23T05:36:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925772770761199641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 46,
+              "id": "1545077939510730752",
+              "start": 30,
+              "username": "molijiushiruci1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0fKLN7B0p0",
+              "end": 155,
+              "expanded_url": "https://x.com/X1ranS/status/1925772770761199641/photo/1",
+              "media_key": "3_1925772767049261056",
+              "start": 132,
+              "url": "https://t.co/0fKLN7B0p0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925772770761199641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 46,
+                "id": "1545077939510730752",
+                "start": 30,
+                "username": "molijiushiruci1"
+              }
+            ]
+          },
+          "text": "怎么了呀？你这只白痴恋足贱狗～眼睛已经无法从人家和茉莉姐姐（@molijiushiruci1 ）的酸汗臭脚底移开了吗？真是无可救药了呢～♡\n\n诶呀～小肉虫已经在裤裆内勃起流水了吗？该不会在幻想着被两位亲妈的酸臭玉足踩着你的短小早泄的肉虫足交吧♡真是痴心妄想呢～♡\n\n把你的狗脸贴到两位亲妈的脚底除臭～舔干净酸臭足汗和恶臭脚泥对你这只痴臭媚足贱狗来说都是赏赐哦～♡傻逼🖤"
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 8102,
+          "like_count": 127,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "怎么了呀？你这只白痴恋足贱狗～眼睛已经无法从人家和茉莉姐姐（@molijiushiruci1 ）的酸汗臭脚底移开了吗？真是无可救药了呢～♡\n\n诶呀～小肉虫已经在裤裆内勃起流水了吗？该不会在幻想着被两位亲妈的酸臭玉足踩着你的短小早泄的肉虫足交吧♡真是痴心妄想呢～♡ https://t.co/0fKLN7B0p0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "集美貌，智慧，强大于一身的魔女族公主现身人世～区区人类，跪下向我表示臣服吧💜\n被我支配 控制 吸脑 成为奴仆💜\n挑战qq242184780，里世界小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858\n女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "oricz233"
+              },
+              {
+                "end": 104,
+                "start": 95,
+                "username": "moelipoi"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "cutelingli"
+              },
+              {
+                "end": 144,
+                "start": 129,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 155,
+                "start": 148,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏💜强势登场人间",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923161284247420929/dv1s2unV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7000,
+          "following_count": 289,
+          "like_count": 320,
+          "listed_count": 32,
+          "media_count": 618,
+          "tweet_count": 1840
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-22T06:14:56.000Z",
+        "description": "是文援哦💖文爱和树洞聊天价格是30r/0.5h～💕〖22点以后涨价10r〗💕门牌号3378895338（门槛10r不抵）欢迎同好小可爱敲门哦❤️〖不涉三不语音〗💗\n老公：@_Shogun_111❤️老婆：@KendallRat17471 @Charlotte_Lucif 徒儿：@Deprive_U",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 85,
+                "username": "_Shogun_111"
+              },
+              {
+                "end": 118,
+                "start": 102,
+                "username": "KendallRat17471"
+              },
+              {
+                "end": 135,
+                "start": 119,
+                "username": "Charlotte_Lucif"
+              },
+              {
+                "end": 149,
+                "start": 139,
+                "username": "Deprive_U"
+              }
+            ]
+          }
+        },
+        "id": "1782291909685444608",
+        "location": "丝足地狱🖤拜入汐门💜",
+        "name": "汐染sama💕〖文媛🖤互推私〗",
+        "pinned_tweet_id": "1925772770761199641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878653540920590336/9t-jhWWm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11098,
+          "following_count": 187,
+          "like_count": 5982,
+          "listed_count": 51,
+          "media_count": 115,
+          "tweet_count": 6652
+        },
+        "username": "X1ranS",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-07T16:11:11.000Z",
+        "description": "一个擅长气味调教与羞辱的扶她魅魔女仆🖤加咱的时候记的带20r门槛哦，门牌见置顶推评论区，tg：https://t.co/kNKviCT2T9 \n点击偷窥茉莉私生活→@MaidmoliS",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 82,
+                "username": "MaidmoliS"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/moli_0312",
+                "end": 70,
+                "expanded_url": "http://t.me/moli_0312",
+                "start": 47,
+                "url": "https://t.co/kNKviCT2T9"
+              }
+            ]
+          }
+        },
+        "id": "1545077939510730752",
+        "location": "在你的心里~或是踩在你的脸上♡",
+        "name": "魅魔女仆🤍茉莉（可爱限定♡）",
+        "pinned_tweet_id": "1769765224091918487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917803199605694464/Zdgs57A3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14924,
+          "following_count": 402,
+          "like_count": 2229,
+          "listed_count": 37,
+          "media_count": 342,
+          "tweet_count": 5809
+        },
+        "username": "molijiushiruci1",
+        "verified": false
+      }
+    ]
+  }
+}

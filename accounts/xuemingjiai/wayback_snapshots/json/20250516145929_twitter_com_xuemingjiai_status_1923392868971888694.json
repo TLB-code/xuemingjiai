@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1923392868971888694",
+    "created_at": "2025-05-16T14:59:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-16T15:59:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923392868971888694"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1240949973056811009",
+          "start": 3,
+          "username": "Idol_Taoxin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923392868971888694",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923304220221927778",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @Idol_Taoxin: 真是时刻都在发情的傻逼贱狗，明明还在上班却还是忍不住爬过来舔亲妈的臭脚么🖤\n没办法，谁让亲妈总是这么善良，不忍心你这种傻逼发情贱狗硬着狗屌影响你给亲妈赚钱呢🖤\n来吧🖤趴在地上像条狗一样尽情的享受亲妈的臭脚然后把你的那些废物精子全都射出来🖤… h…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1923392868971888694].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1923392868971888694",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1923392868971888694"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1923304217852379136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrDy_vwaAAAr7uq.jpg",
+        "width": 956
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1923304217852379136"
+          ]
+        },
+        "author_id": "1240949973056811009",
+        "conversation_id": "1923304220221927778",
+        "created_at": "2025-05-16T09:07:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-16T10:07:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1923304220221927778"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MoUGOMP71N",
+              "end": 143,
+              "expanded_url": "https://x.com/Idol_Taoxin/status/1923304220221927778/photo/1",
+              "media_key": "3_1923304217852379136",
+              "start": 120,
+              "url": "https://t.co/MoUGOMP71N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923304220221927778",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "真是时刻都在发情的傻逼贱狗，明明还在上班却还是忍不住爬过来舔亲妈的臭脚么🖤\n没办法，谁让亲妈总是这么善良，不忍心你这种傻逼发情贱狗硬着狗屌影响你给亲妈赚钱呢🖤\n来吧🖤趴在地上像条狗一样尽情的享受亲妈的臭脚然后把你的那些废物精子全都射出来🖤\n当然，亲妈收取的代价就是🖤贱狗的所有收入🖤一分不留的全部上贡出来吐给亲妈🖤这样以后才能在你这条傻狗发情的时候随时随地都能享受到亲妈的臭脚🖤\n为了能够随时舔亲妈的脚，你这条傻逼ATM无脑贡畜贱狗一定十分愿意把自己的钱都上贡给亲妈的，对吧🖤"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 843,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "reply_settings": "following",
+        "text": "真是时刻都在发情的傻逼贱狗，明明还在上班却还是忍不住爬过来舔亲妈的臭脚么🖤\n没办法，谁让亲妈总是这么善良，不忍心你这种傻逼发情贱狗硬着狗屌影响你给亲妈赚钱呢🖤\n来吧🖤趴在地上像条狗一样尽情的享受亲妈的臭脚然后把你的那些废物精子全都射出来🖤 https://t.co/MoUGOMP71N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "集美貌，智慧，强大于一身的魔女族公主现身人世～区区人类，跪下向我表示臣服吧💜\n被我支配 控制 吸脑 成为奴仆💜\n挑战qq242184780，里世界小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858\n女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "oricz233"
+              },
+              {
+                "end": 104,
+                "start": 95,
+                "username": "moelipoi"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "cutelingli"
+              },
+              {
+                "end": 144,
+                "start": 129,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 155,
+                "start": 148,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏💜强势登场人间",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923161284247420929/dv1s2unV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6879,
+          "following_count": 283,
+          "like_count": 311,
+          "listed_count": 30,
+          "media_count": 608,
+          "tweet_count": 1799
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-20T10:35:14.000Z",
+        "description": "这里是贱狗最爱的世界第一全能百变偶像桃心💜你想要的一切这里都有哦❤️白痴们准备好把你们的💰全都上贡给你们深爱着的偶像了么🖤主营PUA上贡🏧反差绿帽🖤吸号贡号💚不涉三，🚪30，无脑贡狗翻十倍🖤不够傻逼的别来🖤门牌2650209312  tg:https://t.co/t46nKt9LvY",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Idol_taoxin",
+                "end": 143,
+                "expanded_url": "http://t.me/Idol_taoxin",
+                "start": 120,
+                "url": "https://t.co/t46nKt9LvY"
+              }
+            ]
+          }
+        },
+        "id": "1240949973056811009",
+        "name": "拜金偶像🖤桃心💜（互推私）",
+        "pinned_tweet_id": "1804708096977305721",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880060079937884160/-6fiC4Iw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14292,
+          "following_count": 330,
+          "like_count": 9044,
+          "listed_count": 74,
+          "media_count": 488,
+          "tweet_count": 4992
+        },
+        "username": "Idol_Taoxin",
+        "verified": true
+      }
+    ]
+  }
+}

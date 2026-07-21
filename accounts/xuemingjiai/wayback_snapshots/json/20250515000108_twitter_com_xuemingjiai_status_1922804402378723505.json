@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1922804398843101185"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1922804402378723505",
+    "created_at": "2025-05-15T00:01:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-15T01:01:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1922804402378723505"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/M48FE3TBBL",
+          "end": 170,
+          "expanded_url": "https://x.com/xuemingjiai/status/1922804402378723505/photo/1",
+          "media_key": "3_1922804398843101185",
+          "start": 147,
+          "url": "https://t.co/M48FE3TBBL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922804402378723505",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "众所周知本公主很少会发记录～不过下贱的白痴atm“付费”“倒贴”“白给”恳求本公主挂推那就没办法了呢，不过也只会公开他无脑发情犯贱的记录哦，废物虫子们只能被同类的记录吸引前仆后继的来送死🖤\n说着自己不是atm～其实就是想被本公主强迫变成钱包💜\n然后，自慰权主动上交，全程禁止自慰哦💜也包括你～ https://t.co/M48FE3TBBL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1480,
+        "media_key": "3_1922804398843101185",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gq8sac2aAAET4ZF.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1922804398843101185"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1922804402378723505",
+        "created_at": "2025-05-15T00:01:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-15T01:01:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1922804402378723505"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M48FE3TBBL",
+              "end": 170,
+              "expanded_url": "https://x.com/xuemingjiai/status/1922804402378723505/photo/1",
+              "media_key": "3_1922804398843101185",
+              "start": 147,
+              "url": "https://t.co/M48FE3TBBL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922804402378723505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "众所周知本公主很少会发记录～不过下贱的白痴atm“付费”“倒贴”“白给”恳求本公主挂推那就没办法了呢，不过也只会公开他无脑发情犯贱的记录哦，废物虫子们只能被同类的记录吸引前仆后继的来送死🖤\n说着自己不是atm～其实就是想被本公主强迫变成钱包💜\n然后，自慰权主动上交，全程禁止自慰哦💜也包括你～ https://t.co/M48FE3TBBL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "集美貌，智慧，强大于一身的魔女族公主现身人世～区区人类，跪下向我表示臣服吧💜\n被我支配 控制 吸脑 成为奴仆💜\n挑战qq242184780，里世界小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858\n女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "oricz233"
+              },
+              {
+                "end": 104,
+                "start": 95,
+                "username": "moelipoi"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "cutelingli"
+              },
+              {
+                "end": 144,
+                "start": 129,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 155,
+                "start": 148,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏💜强势登场人间",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922178521235128320/5seow5Nb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6850,
+          "following_count": 282,
+          "like_count": 310,
+          "listed_count": 30,
+          "media_count": 600,
+          "tweet_count": 1776
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

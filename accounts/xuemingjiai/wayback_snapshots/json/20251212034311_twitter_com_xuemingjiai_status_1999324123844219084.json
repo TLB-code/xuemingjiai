@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1999324123844219084",
+    "created_at": "2025-12-12T03:43:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T04:43:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999324123844219084"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1824458334008905733",
+          "start": 3,
+          "username": "ru12564"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999324123844219084",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999119231728955605",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ru12564: 果然好多贱狗私信我为什么突然不发推 从而没有办法撸管了\nNana当然去和男朋友享受性生活去了 哦对了 花的还是傻逼处男们的钱 除了花钱以外很难想到屌丝的性欲呢～🖤\n当然最近钱花得差不多又来忍着恶心满足蝈蝻傻逼的变态癖好 \n想白给送死的欢迎私信贡金 随机…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1999324123844219084].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1999324123844219084",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1999324123844219084"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1999119222786674689",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G75MV2Ha0AEgWQH.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999119222786674689"
+          ]
+        },
+        "author_id": "1824458334008905733",
+        "conversation_id": "1999119231728955605",
+        "created_at": "2025-12-11T14:09:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T15:09:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999119231728955605"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 137,
+              "start": 134,
+              "tag": "文援"
+            },
+            {
+              "end": 141,
+              "start": 138,
+              "tag": "压榨"
+            },
+            {
+              "end": 145,
+              "start": 142,
+              "tag": "贡奴"
+            },
+            {
+              "end": 149,
+              "start": 146,
+              "tag": "臭脚"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/g5ydWU6yU3",
+              "end": 173,
+              "expanded_url": "https://x.com/ru12564/status/1999119231728955605/photo/1",
+              "media_key": "3_1999119222786674689",
+              "start": 150,
+              "url": "https://t.co/g5ydWU6yU3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999119231728955605",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 682,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "果然好多贱狗私信我为什么突然不发推 从而没有办法撸管了\nNana当然去和男朋友享受性生活去了 哦对了 花的还是傻逼处男们的钱 除了花钱以外很难想到屌丝的性欲呢～🖤\n当然最近钱花得差不多又来忍着恶心满足蝈蝻傻逼的变态癖好 \n想白给送死的欢迎私信贡金 随机掉落脚照福利🖤\n#文援 #压榨 #贡奴 #臭脚 https://t.co/g5ydWU6yU3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n最最最最喜欢钱包们啦!\n天天挨骂真的不会腻嘛～\n擅长用爱意和温柔的语气俘虏钱包～\n联系方式→2829556413←\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 78,
+                "username": "oricz233"
+              },
+              {
+                "end": 107,
+                "start": 98,
+                "username": "moelipoi"
+              },
+              {
+                "end": 125,
+                "start": 114,
+                "username": "cutelingli"
+              },
+              {
+                "end": 147,
+                "start": 132,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 159,
+                "start": 152,
+                "username": "1xian1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍对钱包们最温柔最有好感版",
+        "pinned_tweet_id": "1976743806063063398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991861278688821248/oCQEPeIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8029,
+          "following_count": 334,
+          "like_count": 644,
+          "listed_count": 37,
+          "media_count": 763,
+          "tweet_count": 2368
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-16T14:49:12.000Z",
+        "description": "前5k粉抖s文媛 39码汗脚学姐露乃有男友 依旧是针对各位喜欢被洗脑男m营业的漂亮坏女人🖤欢迎各位无法控制大脑的杂鱼脚奴舔狗们叩响本学姐的门牌自觉送死🖤 门槛15r 压榨单可抵🚪：3943700844",
+        "id": "1824458334008905733",
+        "location": "Higashiosaka-shi, Osaka",
+        "name": "露乃Sama",
+        "pinned_tweet_id": "1986278916068417847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915449292736913412/u6FKhTk0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 919,
+          "following_count": 28,
+          "like_count": 499,
+          "listed_count": 4,
+          "media_count": 50,
+          "tweet_count": 150
+        },
+        "username": "ru12564",
+        "verified": false
+      }
+    ]
+  }
+}

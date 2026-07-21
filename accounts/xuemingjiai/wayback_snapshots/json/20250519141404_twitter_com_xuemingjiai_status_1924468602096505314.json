@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1924468589450657792",
+        "3_1924468595784126464"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1924468602096505314",
+    "created_at": "2025-05-19T14:14:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-19T15:14:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1924468602096505314"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 12,
+          "start": 0,
+          "tag": "魔女公主践踏虫子的日常"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/X2zaMuxPbE",
+          "end": 166,
+          "expanded_url": "https://x.com/xuemingjiai/status/1924468602096505314/photo/1",
+          "media_key": "3_1924468589450657792",
+          "start": 143,
+          "url": "https://t.co/X2zaMuxPbE"
+        },
+        {
+          "display_url": "pic.x.com/X2zaMuxPbE",
+          "end": 166,
+          "expanded_url": "https://x.com/xuemingjiai/status/1924468602096505314/photo/1",
+          "media_key": "3_1924468595784126464",
+          "start": 143,
+          "url": "https://t.co/X2zaMuxPbE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924468602096505314",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#魔女公主践踏虫子的日常\n笑点解析一：不像其他人（虫虫）一样见到本公主就败北～（这么说的时候千万别夹腿或者搓小唧唧哦）\n笑点解析二：预存金币来挑战（想白给就直说～）\n笑点解析三：公平起见直接上交自己的弱点（控制图）下贱的虫虫真是想方设法的想要被本公主戏耍压榨呢💜\n那就满足这只虫虫咯～ https://t.co/X2zaMuxPbE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1494,
+        "media_key": "3_1924468589450657792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrUV_F-agAAHxm_.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1500,
+        "media_key": "3_1924468595784126464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrUV_dkbkAARxIS.jpg",
+        "width": 1060
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1924468589450657792",
+            "3_1924468595784126464"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1924468602096505314",
+        "created_at": "2025-05-19T14:14:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T15:14:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1924468602096505314"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 0,
+              "tag": "魔女公主践踏虫子的日常"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/X2zaMuxPbE",
+              "end": 166,
+              "expanded_url": "https://x.com/xuemingjiai/status/1924468602096505314/photo/1",
+              "media_key": "3_1924468589450657792",
+              "start": 143,
+              "url": "https://t.co/X2zaMuxPbE"
+            },
+            {
+              "display_url": "pic.x.com/X2zaMuxPbE",
+              "end": 166,
+              "expanded_url": "https://x.com/xuemingjiai/status/1924468602096505314/photo/1",
+              "media_key": "3_1924468595784126464",
+              "start": 143,
+              "url": "https://t.co/X2zaMuxPbE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924468602096505314",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#魔女公主践踏虫子的日常\n笑点解析一：不像其他人（虫虫）一样见到本公主就败北～（这么说的时候千万别夹腿或者搓小唧唧哦）\n笑点解析二：预存金币来挑战（想白给就直说～）\n笑点解析三：公平起见直接上交自己的弱点（控制图）下贱的虫虫真是想方设法的想要被本公主戏耍压榨呢💜\n那就满足这只虫虫咯～ https://t.co/X2zaMuxPbE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "集美貌，智慧，强大于一身的魔女族公主现身人世～区区人类，跪下向我表示臣服吧💜\n被我支配 控制 吸脑 成为奴仆💜\n挑战qq242184780，里世界小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858\n女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "oricz233"
+              },
+              {
+                "end": 104,
+                "start": 95,
+                "username": "moelipoi"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "cutelingli"
+              },
+              {
+                "end": 144,
+                "start": 129,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 155,
+                "start": 148,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏💜强势登场人间",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923161284247420929/dv1s2unV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6946,
+          "following_count": 286,
+          "like_count": 318,
+          "listed_count": 32,
+          "media_count": 615,
+          "tweet_count": 1827
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

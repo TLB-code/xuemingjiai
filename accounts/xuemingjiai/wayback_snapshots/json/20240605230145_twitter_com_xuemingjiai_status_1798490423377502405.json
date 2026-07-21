@@ -1,0 +1,162 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "1798490016685195398",
+    "created_at": "2024-06-05T23:01:45.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-06T00:01:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1798490423377502405"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1798490423377502405",
+    "in_reply_to_user_id": "1374389254726455305",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1798490373138022794",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "会有自毁的想法是很正常啦，因为在如今畸形的社会里，心理亚健康的人可太多了，如果不这样来发泄欲望，还能怎么发泄呢？\n所以比起以前喜欢幸福的人们，现在的人们更喜欢看见别人过得不那么顺心，更喜欢看见别人堕落，更喜欢看见别人无脑犯贱的样子，心里巴不得说出，赶紧被玩死这样的话语来。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1798490016685195398",
+        "created_at": "2024-06-05T23:01:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-06T00:01:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1798490423377502405"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1798490423377502405",
+        "in_reply_to_user_id": "1374389254726455305",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1798490373138022794",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "会有自毁的想法是很正常啦，因为在如今畸形的社会里，心理亚健康的人可太多了，如果不这样来发泄欲望，还能怎么发泄呢？\n所以比起以前喜欢幸福的人们，现在的人们更喜欢看见别人过得不那么顺心，更喜欢看见别人堕落，更喜欢看见别人无脑犯贱的样子，心里巴不得说出，赶紧被玩死这样的话语来。"
+      },
+      {
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "1798490016685195398",
+        "created_at": "2024-06-05T23:01:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-06T00:01:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1798490373138022794"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1798490373138022794",
+        "in_reply_to_user_id": "1374389254726455305",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1798490328099639574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在发情状态下，大脑会分泌多巴胺，让小雏男们没办法思考，就会心甘情愿的把钱包敞开交给面前这个给你带来快乐的人～\n这和玩游戏氪金，出去消费，并没有本质的区别，都是为了让自己获取快乐，无非就是可能事后会觉得这笔钱花的不值，但是再次发情的时候又想沉沦于这样的快感之中"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "可爱程度百分之百💖\n她就是出道即巅峰的可爱纯真小天使新人偶像魔女小姐💖\n任何人都会被她散发出的魅力所捕获，对这样的魔女小姐不能心怀任何涩涩的念想哦，不然就会变得非常糟糕...踏入无法挣脱的陷阱和牢笼里呢💘\n魔女小姐无论说什么做什么都是正确的哦，身为她的粉丝，只需要无条件用各种方式支持她就好了💘\n私联禁止🚫",
+        "id": "1374389254726455305",
+        "name": "电波系新人偶像💖魔女小姐参上（正能量爆表～）",
+        "pinned_tweet_id": "1798467869711429837",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795799880021295104/Tsd4XdC9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4822,
+          "following_count": 168,
+          "like_count": 147,
+          "listed_count": 22,
+          "tweet_count": 976
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

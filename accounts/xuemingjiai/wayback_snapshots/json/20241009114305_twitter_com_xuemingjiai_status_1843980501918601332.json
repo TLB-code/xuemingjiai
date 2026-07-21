@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1843980159051079886",
+    "created_at": "2024-10-09T11:43:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-09T12:43:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1843980501918601332"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1843980501918601332",
+    "in_reply_to_user_id": "1374389254726455305",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1843980159051079886",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "进入粉丝群的价格很便宜～以后也会更新一些不会在推特上出现的内容，会超级划算哦ww，更重要的是～支持魔女大人是小雏男粉丝们的“义务”💜\n请捏着肉棒过来吧～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "1843980159051079886",
+        "created_at": "2024-10-09T11:43:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-09T12:43:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1843980501918601332"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1843980501918601332",
+        "in_reply_to_user_id": "1374389254726455305",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1843980159051079886",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "进入粉丝群的价格很便宜～以后也会更新一些不会在推特上出现的内容，会超级划算哦ww，更重要的是～支持魔女大人是小雏男粉丝们的“义务”💜\n请捏着肉棒过来吧～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1843980156672888832"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "1843980159051079886",
+        "created_at": "2024-10-09T11:41:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-09T12:41:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1843980159051079886"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PxAewpICaH",
+              "end": 166,
+              "expanded_url": "https://x.com/xuemingjiai/status/1843980159051079886/photo/1",
+              "media_key": "3_1843980156672888832",
+              "start": 143,
+              "url": "https://t.co/PxAewpICaH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1843980159051079886",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "新的粉丝群创建好啦～这一次加入需要一点必要的门槛呢w，当然是和之后的推文会有一些联动（是什么暂时保密哦）\n问：加入魔女大人的粉丝群能做什么？\n答：和魔女大人互动，跟很多粉丝一起崇拜魔女大人，更新内容早知道～这是对魔女大人的支持哦，而且有群内专属玩法，感兴趣就qq来找魔女大人进行审核💜 https://t.co/PxAewpICaH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "超绝可爱💖\n她就是出道即巅峰的可爱纯真小天使新人偶像魔女小姐💖\n对这样的魔女小姐不能心怀任何涩涩的念想哦，不然就会变得非常糟糕...踏入无法挣脱的陷阱和牢笼里呢💘\n魔女小姐无论说什么做什么都是正确的哦，身为她的粉丝，只需要无条件用各种方式支持她就好了～\nqq2829556413",
+        "id": "1374389254726455305",
+        "name": "电波系新人偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1839039717712724125",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843797902491336704/2a0543Ul_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5452,
+          "following_count": 205,
+          "like_count": 159,
+          "listed_count": 23,
+          "tweet_count": 1132
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

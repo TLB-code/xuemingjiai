@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1931837566116135069",
+    "created_at": "2025-06-09T09:05:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-09T10:05:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932001176285061359"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1765356007981715456",
+          "start": 0,
+          "username": "huixin152"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932001176285061359",
+    "in_reply_to_user_id": "1765356007981715456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931980186758893859",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huixin152 应该是说没有归属，但是和公用钱包差距还是蛮大的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "1931837566116135069",
+        "created_at": "2025-06-09T09:05:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T10:05:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932001176285061359"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1765356007981715456",
+              "start": 0,
+              "username": "huixin152"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932001176285061359",
+        "in_reply_to_user_id": "1765356007981715456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931980186758893859",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huixin152 应该是说没有归属，但是和公用钱包差距还是蛮大的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1765356007981715456",
+        "conversation_id": "1931837566116135069",
+        "created_at": "2025-06-09T07:42:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T08:42:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931980186758893859"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1374389254726455305",
+              "start": 0,
+              "username": "xuemingjiai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931980186758893859",
+        "in_reply_to_user_id": "1374389254726455305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931837566116135069",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xuemingjiai 应该说大部分都是公有的吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n你也会因为窥视我的美貌而心甘情愿沦为钱包被我使用的对吗？\n钱包报名入口：242184780\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 66,
+                "username": "oricz233"
+              },
+              {
+                "end": 95,
+                "start": 86,
+                "username": "moelipoi"
+              },
+              {
+                "end": 113,
+                "start": 102,
+                "username": "cutelingli"
+              },
+              {
+                "end": 135,
+                "start": 120,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 147,
+                "start": 140,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍驯化公用钱包👛中",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931064828044713984/9qwnduVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7156,
+          "following_count": 300,
+          "like_count": 344,
+          "listed_count": 33,
+          "media_count": 662,
+          "tweet_count": 1974
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-06T12:37:33.000Z",
+        "description": "INTP/Sub/ATM奴/ 一只没有钱的ATM / 身体所有权归属女爹@gugugulou / 专属钱包@wWOT1Gg8bduhTbU",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 36,
+                "username": "gugugulou"
+              },
+              {
+                "end": 69,
+                "start": 53,
+                "username": "wWOT1Gg8bduhTbU"
+              }
+            ]
+          }
+        },
+        "id": "1765356007981715456",
+        "name": "霖芝-ATM",
+        "pinned_tweet_id": "1905980014144942111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878804067381915648/PnbH0XtR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1747,
+          "following_count": 276,
+          "like_count": 1097,
+          "listed_count": 4,
+          "media_count": 88,
+          "tweet_count": 1230
+        },
+        "username": "huixin152",
+        "verified": false
+      }
+    ]
+  }
+}

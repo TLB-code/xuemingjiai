@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2003520871961624576"
+      ],
+      "media_source_tweet_id": [
+        "2003520880274800739"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "2003600744780632135",
+    "created_at": "2025-12-23T22:56:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-23T23:56:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003600744780632135"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1746153330622226432",
+          "start": 3,
+          "username": "blakexiaonai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Qy9U34VEaW",
+          "end": 101,
+          "expanded_url": "https://x.com/blakexiaonai/status/2003520880274800739/photo/1",
+          "media_key": "3_2003520871961624576",
+          "start": 78,
+          "url": "https://t.co/Qy9U34VEaW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003600744780632135",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003520880274800739",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @blakexiaonai: 人家回来了哦🖤想被扣脑吸髓，还是想被足底踩杀～\n♠️紧盯足底♠️\n媚黑改造，吸号抽脑，提款钱包…欢迎你们继续过来送死♡ https://t.co/Qy9U34VEaW"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2003600744780632135].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2003600744780632135",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2003600744780632135"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2003520871961624576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G83vnjFagAA_zLO.jpg",
+        "width": 1448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003520871961624576"
+          ]
+        },
+        "author_id": "1746153330622226432",
+        "conversation_id": "2003520880274800739",
+        "created_at": "2025-12-23T17:39:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T18:39:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003520880274800739"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qy9U34VEaW",
+              "end": 83,
+              "expanded_url": "https://x.com/blakexiaonai/status/2003520880274800739/photo/1",
+              "media_key": "3_2003520871961624576",
+              "start": 60,
+              "url": "https://t.co/Qy9U34VEaW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003520880274800739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 566,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "人家回来了哦🖤想被扣脑吸髓，还是想被足底踩杀～\n♠️紧盯足底♠️\n媚黑改造，吸号抽脑，提款钱包…欢迎你们继续过来送死♡ https://t.co/Qy9U34VEaW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🖤\n最最最最喜欢钱包们啦～\n最近在教导钱包们如何变得更加“堕落”“变态”“下流”\n联系方式→2829556413←\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 76,
+                "username": "oricz233"
+              },
+              {
+                "end": 105,
+                "start": 96,
+                "username": "moelipoi"
+              },
+              {
+                "end": 123,
+                "start": 112,
+                "username": "cutelingli"
+              },
+              {
+                "end": 145,
+                "start": 130,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 157,
+                "start": 150,
+                "username": "1xian1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARosxSy"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🖤魔女学园院长版～",
+        "pinned_tweet_id": "1976743806063063398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002052886289924096/qPezgnpX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8073,
+          "following_count": 333,
+          "like_count": 647,
+          "listed_count": 37,
+          "media_count": 765,
+          "tweet_count": 2378
+        },
+        "url": "https://t.co/le8ARosxSy",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-13T12:53:18.000Z",
+        "description": "是一个喜欢爱玩顶号胁迫吸钱洗脑锁死的小男孩哦🖤 最爱的妈妈@xuemingjiai\n 处刑传送门q 3978814398♠️ 每天下午5点到午夜1点前找我都在哦🖤\n帮畜生排精一次最低70呢 1h左右 其他价格详谈♡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 29,
+                "username": "xuemingjiai"
+              }
+            ]
+          }
+        },
+        "id": "1746153330622226432",
+        "name": "blake🖤奈喵♠️",
+        "pinned_tweet_id": "1997635752809656603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999192058129711104/SukeKjd9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 562,
+          "following_count": 103,
+          "like_count": 189,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 172
+        },
+        "username": "blakexiaonai",
+        "verified": false
+      }
+    ]
+  }
+}

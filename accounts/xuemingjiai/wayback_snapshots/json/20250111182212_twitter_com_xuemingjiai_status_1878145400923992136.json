@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1878145397828583424"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "1878145400923992136",
+    "created_at": "2025-01-11T18:22:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-11T19:22:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1878145400923992136"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LVLCuJwBef",
+          "end": 169,
+          "expanded_url": "https://x.com/xuemingjiai/status/1878145400923992136/photo/1",
+          "media_key": "3_1878145397828583424",
+          "start": 146,
+          "url": "https://t.co/LVLCuJwBef"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1878145400923992136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好久不见，小雏男男们~\n许久不见，觉得也就摆脱魔女小姐的控制啦？\n毕竟那么久不发推什么的，早就被别的“坏女人”比下去啦♪\n没关系哦，想要让屏幕面前的小雏男败北白给很简单啦，比如...\n现在，立刻，马上，握住“操控杆”，进入发情状态，这是命令💜\n开始重新送死，败北，白给，丧志，把智商丢掉吧🖤 https://t.co/LVLCuJwBef"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1878145397828583424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GhCDSdobgAAi4B3.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1878145397828583424"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "1878145400923992136",
+        "created_at": "2025-01-11T18:22:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-11T19:22:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1878145400923992136"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LVLCuJwBef",
+              "end": 169,
+              "expanded_url": "https://x.com/xuemingjiai/status/1878145400923992136/photo/1",
+              "media_key": "3_1878145397828583424",
+              "start": 146,
+              "url": "https://t.co/LVLCuJwBef"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878145400923992136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好久不见，小雏男男们~\n许久不见，觉得也就摆脱魔女小姐的控制啦？\n毕竟那么久不发推什么的，早就被别的“坏女人”比下去啦♪\n没关系哦，想要让屏幕面前的小雏男败北白给很简单啦，比如...\n现在，立刻，马上，握住“操控杆”，进入发情状态，这是命令💜\n开始重新送死，败北，白给，丧志，把智商丢掉吧🖤 https://t.co/LVLCuJwBef"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "您好～这里是出道以来一直致力于为小雏男哥哥们提供“舒适”“安全”“极致快感”的纯真妹系小天使魔女妹妹💚\n想了解我请翻看我的推文～\nqq2829556413，碎碎念小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 83,
+                "username": "oricz233"
+              },
+              {
+                "end": 112,
+                "start": 103,
+                "username": "moelipoi"
+              },
+              {
+                "end": 130,
+                "start": 119,
+                "username": "cutelingli"
+              },
+              {
+                "end": 152,
+                "start": 137,
+                "username": "chessy80978858"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系天使偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878142670054604800/aZFysFDs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6281,
+          "following_count": 250,
+          "like_count": 290,
+          "listed_count": 28,
+          "media_count": 524,
+          "tweet_count": 1456
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

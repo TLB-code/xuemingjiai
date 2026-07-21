@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1927611838369546289",
+    "created_at": "2025-05-28T06:29:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-28T07:29:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927613208648704103"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1927613208648704103",
+    "in_reply_to_user_id": "1374389254726455305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 439,
+      "like_count": 21,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927611838369546289",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "明明是可爱至极的图片和语气吧?用的符号也是最温柔的哦～请各位废物虫虫千万不要擅自对着本公主温柔（黑心）的祝福发情哦～千万不要因为本公主的命令看见这条推文就在上班上学的时间跑去最近的厕所完成接受祝福（诅咒）的仪式🖤\n那样子做了就再也没办法抵抗本公主的任何话语了，确定要人生终结吗～"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1927611824956129280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsBAvetaQAAsph9.jpg",
+        "width": 1401
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "1927611838369546289",
+        "created_at": "2025-05-28T06:29:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T07:29:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927613208648704103"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1927613208648704103",
+        "in_reply_to_user_id": "1374389254726455305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 439,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927611838369546289",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "明明是可爱至极的图片和语气吧?用的符号也是最温柔的哦～请各位废物虫虫千万不要擅自对着本公主温柔（黑心）的祝福发情哦～千万不要因为本公主的命令看见这条推文就在上班上学的时间跑去最近的厕所完成接受祝福（诅咒）的仪式🖤\n那样子做了就再也没办法抵抗本公主的任何话语了，确定要人生终结吗～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1927611824956129280"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1927611838369546289",
+        "created_at": "2025-05-28T06:24:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T07:24:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927611838369546289"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "魔女公主的祝福"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Gl7Qiib1bL",
+              "end": 170,
+              "expanded_url": "https://x.com/xuemingjiai/status/1927611838369546289/photo/1",
+              "media_key": "3_1927611824956129280",
+              "start": 147,
+              "url": "https://t.co/Gl7Qiib1bL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927611838369546289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 2147,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "#魔女公主的祝福\n今天要给屏幕面前的虫虫们施加一个祝福（诅咒）咯～接受本公主的祝福必须跪着把头贴到地板上才能生效呢～\n祝福（诅咒）虫虫们终生只能幻想意淫发泄，一辈子都没办法拥有正常性爱的快感❤\n祝福（诅咒）虫虫们染上无法自拔的“白给贡瘾”“极端自毁癖”“绝对女性崇拜”“阳痿早泄绝望寸止瘾”❤ https://t.co/Gl7Qiib1bL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "集美貌，智慧，强大于一身的魔女族公主现身人世～区区人类，跪下向我表示臣服吧💜\n被我支配 控制 吸脑 成为奴仆💜\n挑战qq242184780，里世界小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858\n女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "oricz233"
+              },
+              {
+                "end": 104,
+                "start": 95,
+                "username": "moelipoi"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "cutelingli"
+              },
+              {
+                "end": 144,
+                "start": 129,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 155,
+                "start": 148,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏💜强势登场人间",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926028406774247424/hWplRg7q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7031,
+          "following_count": 291,
+          "like_count": 323,
+          "listed_count": 32,
+          "media_count": 623,
+          "tweet_count": 1867
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

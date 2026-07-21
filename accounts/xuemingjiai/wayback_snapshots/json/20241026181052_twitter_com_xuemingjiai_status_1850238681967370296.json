@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1850238674895863808",
+        "3_1850238678884556800"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1850238361619104193",
+    "created_at": "2024-10-26T18:10:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-26T19:10:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1850238681967370296"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gv8TcRCI9G",
+          "end": 165,
+          "expanded_url": "https://x.com/xuemingjiai/status/1850238681967370296/photo/1",
+          "media_key": "3_1850238674895863808",
+          "start": 142,
+          "url": "https://t.co/gv8TcRCI9G"
+        },
+        {
+          "display_url": "pic.x.com/gv8TcRCI9G",
+          "end": 165,
+          "expanded_url": "https://x.com/xuemingjiai/status/1850238681967370296/photo/1",
+          "media_key": "3_1850238678884556800",
+          "start": 142,
+          "url": "https://t.co/gv8TcRCI9G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1850238681967370296",
+    "in_reply_to_user_id": "1374389254726455305",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1850238529860964403",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "以上就是昨天的联动现状啦～\n欢迎更多的“狂热粉丝”“优质粉丝”用自己的方式来支持魔女大人和璃酱大人哦，作为粉丝无条件支持自己喜欢的偶像，无条件相信自己喜欢的偶像是很正常的事情对吧💜\n并且现在下单联动企划，就有机会得到像前两位粉丝一样的专属定制图文一份哦～魔女大人期待着你们的到来呢～ https://t.co/gv8TcRCI9G"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_1850238674895863808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ga1eRZbbgAAIkxx.jpg",
+        "width": 1278
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1850238678884556800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ga1eRoSaIAA8uNw.jpg",
+        "width": 1641
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1850238674895863808",
+            "3_1850238678884556800"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1850238361619104193",
+        "created_at": "2024-10-26T18:10:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-26T19:10:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1850238681967370296"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gv8TcRCI9G",
+              "end": 165,
+              "expanded_url": "https://x.com/xuemingjiai/status/1850238681967370296/photo/1",
+              "media_key": "3_1850238674895863808",
+              "start": 142,
+              "url": "https://t.co/gv8TcRCI9G"
+            },
+            {
+              "display_url": "pic.x.com/gv8TcRCI9G",
+              "end": 165,
+              "expanded_url": "https://x.com/xuemingjiai/status/1850238681967370296/photo/1",
+              "media_key": "3_1850238678884556800",
+              "start": 142,
+              "url": "https://t.co/gv8TcRCI9G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1850238681967370296",
+        "in_reply_to_user_id": "1374389254726455305",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1850238529860964403",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "以上就是昨天的联动现状啦～\n欢迎更多的“狂热粉丝”“优质粉丝”用自己的方式来支持魔女大人和璃酱大人哦，作为粉丝无条件支持自己喜欢的偶像，无条件相信自己喜欢的偶像是很正常的事情对吧💜\n并且现在下单联动企划，就有机会得到像前两位粉丝一样的专属定制图文一份哦～魔女大人期待着你们的到来呢～ https://t.co/gv8TcRCI9G"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1850238523405987840",
+            "3_1850238526740443136"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "1850238361619104193",
+        "created_at": "2024-10-26T18:10:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-26T19:10:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1850238529860964403"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZcVaORZnQl",
+              "end": 163,
+              "expanded_url": "https://x.com/xuemingjiai/status/1850238529860964403/photo/1",
+              "media_key": "3_1850238523405987840",
+              "start": 140,
+              "url": "https://t.co/ZcVaORZnQl"
+            },
+            {
+              "display_url": "pic.x.com/ZcVaORZnQl",
+              "end": 163,
+              "expanded_url": "https://x.com/xuemingjiai/status/1850238529860964403/photo/1",
+              "media_key": "3_1850238526740443136",
+              "start": 140,
+              "url": "https://t.co/ZcVaORZnQl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1850238529860964403",
+        "in_reply_to_user_id": "1374389254726455305",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1850238361619104193",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "上一位是连偶像们的面都没有见上的杂鱼粉丝呢～相比之下，另外一位“优质粉丝”就非常好运了哦💜\n因为魔女大人和璃酱大人非常有人气又非常可爱嘛～所以一旦举行签售会就会有很多狂热粉丝为了见上我们一面从黄牛那里购入高价票～完全不提倡哦，因为有这个钱...完全可以享受“特殊签售服务”了哦💜 https://t.co/ZcVaORZnQl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "超绝可爱💖\n她就是出道即巅峰的可爱纯真小天使新人偶像魔女小姐💖\n对这样的魔女小姐不能心怀任何涩涩的念想哦，不然就会变得非常糟糕...踏入无法挣脱的陷阱和牢笼里呢💘\n魔女小姐无论说什么做什么都是正确的哦，身为她的粉丝，只需要无条件用各种方式支持她就好了～\nqq2829556413",
+        "id": "1374389254726455305",
+        "name": "电波系新人偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1839039717712724125",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850198775832408064/VnoVKToR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5685,
+          "following_count": 212,
+          "like_count": 171,
+          "listed_count": 23,
+          "tweet_count": 1209
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

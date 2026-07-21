@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1853991607181480004",
+    "created_at": "2024-11-06T02:43:39.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-06T03:43:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1853991607181480004"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1288837401335328768",
+          "start": 3,
+          "username": "YuSama_Uknwdy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1853991607181480004",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 31
+    },
+    "referenced_tweets": [
+      {
+        "id": "1853698695780614179",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YuSama_Uknwdy: 喜欢吗🖤废物傻逼烂屌蛆虫~被高贵的妈妈夹住你的烂屌小鸡巴🖤随便夹搓一下就要漏水不停发情白给了吧🖤被妈妈坐在鸡巴上榨出你那下贱的DNA精水都会感到兴奋发情🖤被高贵的妈妈肥臀淫丝屁股搓屌夹鸡就要败北高潮了吧💚不用忍耐控制这种感觉💚乖乖上门来被昱…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1853991607181480004].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1853991607181480004",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1853991607181480004"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1853698157399674880"
+          ]
+        },
+        "author_id": "1288837401335328768",
+        "conversation_id": "1853698695780614179",
+        "created_at": "2024-11-05T07:19:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-05T08:19:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1853698695780614179"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 137,
+              "start": 134,
+              "tag": "榨精"
+            },
+            {
+              "end": 141,
+              "start": 138,
+              "tag": "女s"
+            },
+            {
+              "end": 145,
+              "start": 142,
+              "tag": "文媛"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/muITPLbJEa",
+              "end": 169,
+              "expanded_url": "https://x.com/YuSama_Uknwdy/status/1853698695780614179/video/1",
+              "media_key": "7_1853698157399674880",
+              "start": 146,
+              "url": "https://t.co/muITPLbJEa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853698695780614179",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 53,
+          "impression_count": 6092,
+          "like_count": 194,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "喜欢吗🖤废物傻逼烂屌蛆虫~被高贵的妈妈夹住你的烂屌小鸡巴🖤随便夹搓一下就要漏水不停发情白给了吧🖤被妈妈坐在鸡巴上榨出你那下贱的DNA精水都会感到兴奋发情🖤被高贵的妈妈肥臀淫丝屁股搓屌夹鸡就要败北高潮了吧💚不用忍耐控制这种感觉💚乖乖上门来被昱昱亲妈榨出你的下贱雌水吧💚\n#榨精 #女s #文媛 https://t.co/muITPLbJEa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "超绝可爱💖\n她就是出道即巅峰的可爱纯真小天使新人偶像魔女小姐💖\n对这样的魔女小姐不能心怀任何涩涩的念想哦，不然就会变得非常糟糕...踏入无法挣脱的陷阱和牢笼里呢💘\n魔女小姐无论说什么做什么都是正确的哦，身为她的粉丝，只需要无条件用各种方式支持她就好了～\nqq2829556413，碎碎念小号@oricz233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 154,
+                "start": 145,
+                "username": "oricz233"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "name": "电波系新人偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852908791496683520/hJ-EmF1L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5812,
+          "following_count": 224,
+          "like_count": 184,
+          "listed_count": 23,
+          "tweet_count": 1281
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-30T14:02:47.000Z",
+        "description": "文媛🩷\n喜欢垃圾变态的小傻逼🩷\n你越废物人家越喜欢哦🩷\n榨取每个雏男的脑子🩷精液🩷钱包🩷请将这些全部上贡给昱昱小姐吧🩷\n营业时间几乎为全天哦💚丨语音验证20💚丨门槛10r可抵扣丨\n早泄阳痿的傻逼不用再偷窥了赶紧夹着你的烂裆来敲门💚\n门牌：3451423909",
+        "id": "1288837401335328768",
+        "location": "如果你还爱我可以为了我去爱你自己的所有吗",
+        "name": "昱昱Sex_超绝接单版💘",
+        "pinned_tweet_id": "1836174609076621692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845697370744627200/xU4Jh3Zj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9000,
+          "following_count": 208,
+          "like_count": 609,
+          "listed_count": 41,
+          "tweet_count": 978
+        },
+        "username": "YuSama_Uknwdy",
+        "verified": true
+      }
+    ]
+  }
+}

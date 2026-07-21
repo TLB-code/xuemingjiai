@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "2037177533918257205",
+    "created_at": "2026-03-26T14:39:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T15:39:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037177533918257205"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1526100693190205441",
+          "start": 3,
+          "username": "miaomiaochaoke1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037177533918257205",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037158763770372209",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @miaomiaochaoke1: 缈缈一直都是黑心又任性的婊子哦🖤被伪装欺骗落入陷阱的傻B，被吃干抹净然后无情抛弃不是理所应当的事情嘛♡\n「不吐金的话，怎么会被爱呢❤️」\n「不白给的话，怎么会舒服呢💜」\n「不上贡的话，怎么能满足呢💚」\n你的使命就是满足缈缈，你的作用就是…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2037177533918257205].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2037177533918257205",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2037177533918257205"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1216,
+        "media_key": "3_2037157512143921152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEVv9sbbYAAFn1t.jpg",
+        "width": 832
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037157512143921152"
+          ]
+        },
+        "author_id": "1526100693190205441",
+        "conversation_id": "2037158763770372209",
+        "created_at": "2026-03-26T13:24:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T14:24:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037158763770372209"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pDjMmePBc9",
+              "end": 167,
+              "expanded_url": "https://x.com/miaomiaochaoke1/status/2037158763770372209/photo/1",
+              "media_key": "3_2037157512143921152",
+              "start": 144,
+              "url": "https://t.co/pDjMmePBc9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037158763770372209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 36,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "缈缈一直都是黑心又任性的婊子哦🖤被伪装欺骗落入陷阱的傻B，被吃干抹净然后无情抛弃不是理所应当的事情嘛♡\n「不吐金的话，怎么会被爱呢❤️」\n「不白给的话，怎么会舒服呢💜」\n「不上贡的话，怎么能满足呢💚」\n你的使命就是满足缈缈，你的作用就是满足缈缈\n被人家选中的孩子，只需要献出全部就好了🖤 https://t.co/pDjMmePBc9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会魅惑并享用钱包的公主殿下🤍\n最最最最喜欢钱包们啦～\n联系方式→2829556413←\n病毒小号@oricz233\n现任魔女学园院长!\n星辰魔女镜璃\n@jingli1840489\n桃心魔女奈奈\n@blakexiaonai\n 黑白魔女花卷\n@miaomiaomi17630\n好老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 52,
+                "username": "oricz233"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 114,
+                "start": 101,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 139,
+                "start": 123,
+                "username": "miaomiaomi17630"
+              },
+              {
+                "end": 158,
+                "start": 143,
+                "username": "chessy80978858"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "魅惑系魔女族公主-奏💜魔女学园院长版～",
+        "pinned_tweet_id": "2013314916120416537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018477066753306624/36q-3UGh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8725,
+          "following_count": 363,
+          "like_count": 634,
+          "listed_count": 35,
+          "media_count": 822,
+          "tweet_count": 2171
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-16T07:22:22.000Z",
+        "description": "文援｜可爱小狗：@mosansanYYDS ｜太妹绿茶🖤超级拜金🖤女性至上💜擅长粗口羞辱压榨剧情🖤｜不接m单，不擅长胁迫可以试｜纯文字：40/0.5h，图文：50/0.5h，心理咨询恋爱咨询带基本情况问价\nq：2749165317\nwx：miaomiaochaoke1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "mosansanYYDS"
+              }
+            ]
+          }
+        },
+        "id": "1526100693190205441",
+        "location": "American",
+        "name": "缈缈🖤",
+        "pinned_tweet_id": "1998361528203161792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850610561593303041/ttMdSK-R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2140,
+          "following_count": 53,
+          "like_count": 281,
+          "listed_count": 6,
+          "media_count": 813,
+          "tweet_count": 2568
+        },
+        "username": "miaomiaochaoke1",
+        "verified": false
+      }
+    ]
+  }
+}

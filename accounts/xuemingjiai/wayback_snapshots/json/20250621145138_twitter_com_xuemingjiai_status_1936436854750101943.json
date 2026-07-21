@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1936072412153413632"
+      ],
+      "media_source_tweet_id": [
+        "1936072415563399401"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "1936436854750101943",
+    "created_at": "2025-06-21T14:51:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-21T15:51:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936436854750101943"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 45,
+          "start": 42,
+          "tag": "裸足"
+        },
+        {
+          "end": 49,
+          "start": 46,
+          "tag": "反差"
+        },
+        {
+          "end": 53,
+          "start": 50,
+          "tag": "年下"
+        },
+        {
+          "end": 58,
+          "start": 54,
+          "tag": "恋足癖"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1796815831504175104",
+          "start": 3,
+          "username": "Menai10209"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/t1xN6Y01DE",
+          "end": 82,
+          "expanded_url": "https://x.com/Menai10209/status/1936072415563399401/photo/1",
+          "media_key": "3_1936072412153413632",
+          "start": 59,
+          "url": "https://t.co/t1xN6Y01DE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936436854750101943",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936072415563399401",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Menai10209: 贱狗的每日任务（0/10）：向主人的裸足磕头请安♪ #裸足 #反差 #年下 #恋足癖 https://t.co/t1xN6Y01DE"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1936436854750101943].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1936436854750101943",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1936436854750101943"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1279,
+        "media_key": "3_1936072412153413632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt5PmeHWgAA8PWe.jpg",
+        "width": 1705
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936072412153413632"
+          ]
+        },
+        "author_id": "1796815831504175104",
+        "conversation_id": "1936072415563399401",
+        "created_at": "2025-06-20T14:43:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T15:43:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936072415563399401"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 26,
+              "tag": "裸足"
+            },
+            {
+              "end": 33,
+              "start": 30,
+              "tag": "反差"
+            },
+            {
+              "end": 37,
+              "start": 34,
+              "tag": "年下"
+            },
+            {
+              "end": 42,
+              "start": 38,
+              "tag": "恋足癖"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/t1xN6Y01DE",
+              "end": 66,
+              "expanded_url": "https://x.com/Menai10209/status/1936072415563399401/photo/1",
+              "media_key": "3_1936072412153413632",
+              "start": 43,
+              "url": "https://t.co/t1xN6Y01DE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936072415563399401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3356,
+          "like_count": 56,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "贱狗的每日任务（0/10）：向主人的裸足磕头请安♪ #裸足 #反差 #年下 #恋足癖 https://t.co/t1xN6Y01DE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n你也会因为窥视我的美貌而心甘情愿沦为钱包被我使用的对吗？\n钱包报名入口：3971546171\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 67,
+                "username": "oricz233"
+              },
+              {
+                "end": 96,
+                "start": 87,
+                "username": "moelipoi"
+              },
+              {
+                "end": 114,
+                "start": 103,
+                "username": "cutelingli"
+              },
+              {
+                "end": 136,
+                "start": 121,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 148,
+                "start": 141,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍驯化公用钱包👛中",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931064828044713984/9qwnduVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7259,
+          "following_count": 310,
+          "like_count": 375,
+          "listed_count": 32,
+          "media_count": 696,
+          "tweet_count": 2119
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-01T08:07:45.000Z",
+        "description": "这里糸乃，10年温柔压榨系抖s猫猫|初三在读休学中💤|收sub&atm👛|门槛20🚪3517387025，不要轻易踏入年下女孩子的陷阱哦♪如果不想变成无脑丧志贡猪的话～♡ 闺蜜@Mina08113",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 88,
+                "username": "Mina08113"
+              }
+            ]
+          }
+        },
+        "id": "1796815831504175104",
+        "location": "博丽神社",
+        "name": "樱井糸乃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935169887086755843/2IYgQy8z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 37,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 2
+        },
+        "username": "Menai10209",
+        "verified": false
+      }
+    ]
+  }
+}

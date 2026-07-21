@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "2044559166816285074",
+    "created_at": "2026-04-15T23:31:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T00:31:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044559166816285074"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1374389254726455305",
+          "start": 3,
+          "username": "xuemingjiai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044559166816285074",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044556043406217249",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xuemingjiai: 钱包宝宝的自我修养♡\n口袋里从来留不住钱～钱钱去哪啦？一有钱就忍不住花式上贡，好爽喔♡\n看本子，听音声，看小说完全满足不了，想恢复正常刷到最后反而更想送钱♡\n戒戒戒～刚开始戒的晚上，告诉自己，“最后贡一次”陷入死循环好舒服喔♡\n面对强迫压榨提款…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1856,
+        "media_key": "3_2044554566461751296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF-3i7HbAAA49pV.jpg",
+        "width": 832
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "2044559166816285074",
+        "created_at": "2026-04-15T23:31:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T00:31:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044559166816285074"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1374389254726455305",
+              "start": 3,
+              "username": "xuemingjiai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044559166816285074",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044556043406217249",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xuemingjiai: 钱包宝宝的自我修养♡\n口袋里从来留不住钱～钱钱去哪啦？一有钱就忍不住花式上贡，好爽喔♡\n看本子，听音声，看小说完全满足不了，想恢复正常刷到最后反而更想送钱♡\n戒戒戒～刚开始戒的晚上，告诉自己，“最后贡一次”陷入死循环好舒服喔♡\n面对强迫压榨提款…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044554566461751296"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "2044556043406217249",
+        "created_at": "2026-04-15T23:18:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T00:18:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044556043406217249"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vdJKMXjSnc",
+              "end": 167,
+              "expanded_url": "https://x.com/xuemingjiai/status/2044556043406217249/photo/1",
+              "media_key": "3_2044554566461751296",
+              "start": 144,
+              "url": "https://t.co/vdJKMXjSnc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044556043406217249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "钱包宝宝的自我修养♡\n口袋里从来留不住钱～钱钱去哪啦？一有钱就忍不住花式上贡，好爽喔♡\n看本子，听音声，看小说完全满足不了，想恢复正常刷到最后反而更想送钱♡\n戒戒戒～刚开始戒的晚上，告诉自己，“最后贡一次”陷入死循环好舒服喔♡\n面对强迫压榨提款的指令完全没办法抗拒，请狠狠使用提款机吧🖤 https://t.co/vdJKMXjSnc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会魅惑并享用钱包的公主殿下🤍\n最最最最喜欢钱包们啦～\n联系方式→2829556413←\n病毒小号@oricz233\n现任魔女学园院长!\n星辰魔女镜璃\n@jingli1840489\n桃心魔女奈奈\n@blakexiaonai\n 黑白魔女花卷\n@miaomiaomi17630\n好老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 52,
+                "username": "oricz233"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 114,
+                "start": 101,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 139,
+                "start": 123,
+                "username": "miaomiaomi17630"
+              },
+              {
+                "end": 158,
+                "start": 143,
+                "username": "chessy80978858"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "魅惑系魔女族公主-奏💜魔女学园院长版～",
+        "pinned_tweet_id": "2013314916120416537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018477066753306624/36q-3UGh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8446,
+          "following_count": 348,
+          "like_count": 632,
+          "listed_count": 35,
+          "media_count": 824,
+          "tweet_count": 2175
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

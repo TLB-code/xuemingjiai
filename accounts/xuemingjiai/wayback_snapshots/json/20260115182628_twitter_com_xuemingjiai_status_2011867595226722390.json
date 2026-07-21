@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "2011867595226722390",
+    "created_at": "2026-01-15T18:26:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-15T19:26:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011867595226722390"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1374389254726455305",
+          "start": 3,
+          "username": "xuemingjiai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011867595226722390",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010846087318483362",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xuemingjiai: 请问奏奏公主...现在魔女学园有多人压榨..不..找多位魔女下单的服务吗？\n答案是当然有哦🖤\n不管是想要最强大的魔女公主奏奏，还是温柔系的镜璃妈咪，媚黑驯化的奈子，黑心的花卷，一同伸出你梦寐以求的足底踩在你浑身想要被踩的地方...都可以满足你哦…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2011867595226722390].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2011867595226722390",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2011867595226722390"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "alt_text": "被下单..不，来送死吧？\n魔女们都是专业摄人心魄的吸血鬼🤍\n明明没有让你点进来看ALT吧？\n既然看见了，那就盯着足底，强制来找奏奏预约一次至少2位魔女的调教之旅哦🤍",
+        "height": 2247,
+        "media_key": "3_2010844539108704256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-f0dFQbwAADWWm.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010844539108704256"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "2010846087318483362",
+        "created_at": "2026-01-12T22:47:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T23:47:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010846087318483362"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sdW6A2S5C3",
+              "end": 168,
+              "expanded_url": "https://x.com/xuemingjiai/status/2010846087318483362/photo/1",
+              "media_key": "3_2010844539108704256",
+              "start": 145,
+              "url": "https://t.co/sdW6A2S5C3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010846087318483362",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 4603,
+          "like_count": 91,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "请问奏奏公主...现在魔女学园有多人压榨..不..找多位魔女下单的服务吗？\n答案是当然有哦🖤\n不管是想要最强大的魔女公主奏奏，还是温柔系的镜璃妈咪，媚黑驯化的奈子，黑心的花卷，一同伸出你梦寐以求的足底踩在你浑身想要被踩的地方...都可以满足你哦🤍\n详情请咨询任意一位魔女，被玩死概不负责～ https://t.co/sdW6A2S5C3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🖤\n最最最最喜欢钱包们啦～\n联系方式→2829556413←\n病毒小号@oricz233\n现任魔女学园院长!\n星辰魔女镜璃\n@jingli1840489\n桃心魔女奈奈\n@blakexiaonai\n 黑白魔女花卷\n@miaomiaomi17630\n好老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 49,
+                "username": "oricz233"
+              },
+              {
+                "end": 90,
+                "start": 76,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 111,
+                "start": 98,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 136,
+                "start": 120,
+                "username": "miaomiaomi17630"
+              },
+              {
+                "end": 155,
+                "start": 140,
+                "username": "chessy80978858"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARosxSy"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🖤魔女学园院长版～",
+        "pinned_tweet_id": "1976743806063063398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009377548195778561/vWvReGfH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8165,
+          "following_count": 342,
+          "like_count": 644,
+          "listed_count": 37,
+          "media_count": 777,
+          "tweet_count": 2424
+        },
+        "url": "https://t.co/le8ARosxSy",
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

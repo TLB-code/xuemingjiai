@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1868705494925451264"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1851563784554627239",
+    "created_at": "2024-12-16T17:11:24.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-16T18:11:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1868705497404391810"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8uUVmTP2OD",
+          "end": 111,
+          "expanded_url": "https://x.com/xuemingjiai/status/1868705497404391810/photo/1",
+          "media_key": "3_1868705494925451264",
+          "start": 88,
+          "url": "https://t.co/8uUVmTP2OD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868705497404391810",
+    "in_reply_to_user_id": "1374389254726455305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1868705144097177847",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "差不多该臣服了吧，真无聊，还以为能找到什么乐子，说到底，男人，公狗，都一个样子，被捏住卵蛋就会乖乖听话，没有例外，好了好了，快把你知道的一切都说出来，淫乱下贱的母猪男婊（捏） https://t.co/8uUVmTP2OD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_1868705494925451264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ge75vy7aIAA0Vsd.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1868705494925451264"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1851563784554627239",
+        "created_at": "2024-12-16T17:11:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-16T18:11:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868705497404391810"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8uUVmTP2OD",
+              "end": 111,
+              "expanded_url": "https://x.com/xuemingjiai/status/1868705497404391810/photo/1",
+              "media_key": "3_1868705494925451264",
+              "start": 88,
+              "url": "https://t.co/8uUVmTP2OD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868705497404391810",
+        "in_reply_to_user_id": "1374389254726455305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868705144097177847",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "差不多该臣服了吧，真无聊，还以为能找到什么乐子，说到底，男人，公狗，都一个样子，被捏住卵蛋就会乖乖听话，没有例外，好了好了，快把你知道的一切都说出来，淫乱下贱的母猪男婊（捏） https://t.co/8uUVmTP2OD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1868705140678758400"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1851563784554627239",
+        "created_at": "2024-12-16T17:09:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-16T18:09:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868705144097177847"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kEFedaU5TP",
+              "end": 108,
+              "expanded_url": "https://x.com/xuemingjiai/status/1868705144097177847/photo/1",
+              "media_key": "3_1868705140678758400",
+              "start": 85,
+              "url": "https://t.co/kEFedaU5TP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868705144097177847",
+        "in_reply_to_user_id": "1374389254726455305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868704771940794490",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还不说是吧，嘴硬是吧，那就只能用你最喜欢的方式对待你了，魔法电流～\n看你这副淫乱下贱的表情，很享受吧，垃圾就是垃圾呢，真正的勇者只能是本小姐，冒牌货就好好的受虐就好了～ https://t.co/kEFedaU5TP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "您好～这里是出道以来一直致力于为小雏男哥哥们提供“舒适”“安全”“极致快感”的纯真妹系小天使魔女妹妹💚\n想了解我请翻看我的推文～\nqq2829556413，碎碎念小号@oricz233\n共同出道的偶像老婆：@moeliQWQ\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 83,
+                "username": "oricz233"
+              },
+              {
+                "end": 112,
+                "start": 103,
+                "username": "moeliQWQ"
+              },
+              {
+                "end": 130,
+                "start": 119,
+                "username": "cutelingli"
+              },
+              {
+                "end": 152,
+                "start": 137,
+                "username": "chessy80978858"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系天使偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868371538053091328/WDeV3GGD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6206,
+          "following_count": 241,
+          "like_count": 251,
+          "listed_count": 26,
+          "media_count": 520,
+          "tweet_count": 1414
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

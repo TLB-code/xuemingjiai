@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1877028335533846756",
+    "created_at": "2025-01-08T16:23:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-08T17:23:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1877028335533846756"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 124,
+          "start": 119,
+          "tag": "洗脑压榨"
+        },
+        {
+          "end": 128,
+          "start": 125,
+          "tag": "贡奴"
+        },
+        {
+          "end": 134,
+          "start": 129,
+          "tag": "ATM奴"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1696056509023625217",
+          "start": 3,
+          "username": "CuteLingli"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1877028335533846756",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876110756137328951",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CuteLingli: 请不要让玲璃忍不住吃掉你🖤，被玲璃盯上的话，会像蜘蛛捕捉猎物一样一样，“彻底控制”“注入毒液”“慢慢消化”~\n被玲璃植入奇怪的开关，不停地被舒服的感觉吞噬，这样的话，会永远逃不掉的吧？\n请保护好自己哦🖤\n\n#洗脑压榨 #贡奴 #ATM奴 http…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "1877028335533846756",
+        "created_at": "2025-01-08T16:23:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-08T17:23:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877028335533846756"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 124,
+              "start": 119,
+              "tag": "洗脑压榨"
+            },
+            {
+              "end": 128,
+              "start": 125,
+              "tag": "贡奴"
+            },
+            {
+              "end": 134,
+              "start": 129,
+              "tag": "ATM奴"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1696056509023625217",
+              "start": 3,
+              "username": "CuteLingli"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877028335533846756",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876110756137328951",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CuteLingli: 请不要让玲璃忍不住吃掉你🖤，被玲璃盯上的话，会像蜘蛛捕捉猎物一样一样，“彻底控制”“注入毒液”“慢慢消化”~\n被玲璃植入奇怪的开关，不停地被舒服的感觉吞噬，这样的话，会永远逃不掉的吧？\n请保护好自己哦🖤\n\n#洗脑压榨 #贡奴 #ATM奴 http…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1876110750445645824"
+          ]
+        },
+        "author_id": "1696056509023625217",
+        "conversation_id": "1876110756137328951",
+        "created_at": "2025-01-06T03:37:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-06T04:37:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1876110756137328951"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 108,
+              "start": 103,
+              "tag": "洗脑压榨"
+            },
+            {
+              "end": 112,
+              "start": 109,
+              "tag": "贡奴"
+            },
+            {
+              "end": 118,
+              "start": 113,
+              "tag": "ATM奴"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bNH4uBSVSG",
+              "end": 142,
+              "expanded_url": "https://x.com/CuteLingli/status/1876110756137328951/photo/1",
+              "media_key": "3_1876110750445645824",
+              "start": 119,
+              "url": "https://t.co/bNH4uBSVSG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876110756137328951",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 5549,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "请不要让玲璃忍不住吃掉你🖤，被玲璃盯上的话，会像蜘蛛捕捉猎物一样一样，“彻底控制”“注入毒液”“慢慢消化”~\n被玲璃植入奇怪的开关，不停地被舒服的感觉吞噬，这样的话，会永远逃不掉的吧？\n请保护好自己哦🖤\n\n#洗脑压榨 #贡奴 #ATM奴 https://t.co/bNH4uBSVSG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "您好～这里是出道以来一直致力于为小雏男哥哥们提供“舒适”“安全”“极致快感”的纯真妹系小天使魔女妹妹💚\n想了解我请翻看我的推文～\nqq2829556413，碎碎念小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 83,
+                "username": "oricz233"
+              },
+              {
+                "end": 112,
+                "start": 103,
+                "username": "moelipoi"
+              },
+              {
+                "end": 130,
+                "start": 119,
+                "username": "cutelingli"
+              },
+              {
+                "end": 152,
+                "start": 137,
+                "username": "chessy80978858"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系天使偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871531149056696320/X1dzrRoR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6279,
+          "following_count": 250,
+          "like_count": 289,
+          "listed_count": 28,
+          "media_count": 523,
+          "tweet_count": 1447
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-28T07:06:06.000Z",
+        "description": "温柔向压榨系。请不要踏入陷阱~❤️否则脑子和钱包都会的变得一塌糊涂🖤我很懒，所以没有照片，没有语音，没有视频，不想送死别来加我~ 门牌🚪私信获取🖤 我只是想单纯地想要你的钱~ 老婆：@xuemingjiai 笨蛋：@liulidreamm",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 91,
+                "username": "xuemingjiai"
+              },
+              {
+                "end": 119,
+                "start": 107,
+                "username": "liulidreamm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "afdian.com/a/cutelingli",
+                "end": 23,
+                "expanded_url": "https://afdian.com/a/cutelingli",
+                "start": 0,
+                "url": "https://t.co/Di7OiY8Hx5"
+              }
+            ]
+          }
+        },
+        "id": "1696056509023625217",
+        "location": "你的心里❤️",
+        "name": "玲璃",
+        "pinned_tweet_id": "1873989202997903691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1857458414097674240/lFZYliyL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1222,
+          "following_count": 86,
+          "like_count": 131,
+          "listed_count": 4,
+          "media_count": 77,
+          "tweet_count": 230
+        },
+        "url": "https://t.co/Di7OiY8Hx5",
+        "username": "CuteLingli",
+        "verified": false
+      }
+    ]
+  }
+}

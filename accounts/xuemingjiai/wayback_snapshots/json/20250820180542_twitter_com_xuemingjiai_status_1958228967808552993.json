@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1957829456997023744"
+      ],
+      "media_source_tweet_id": [
+        "1957829468061614254"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "1958228967808552993",
+    "created_at": "2025-08-20T18:05:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-20T19:05:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958228967808552993"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1746153330622226432",
+          "start": 3,
+          "username": "blakexiaonai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aj7XOZ2hXf",
+          "end": 72,
+          "expanded_url": "https://x.com/blakexiaonai/status/1957829468061614254/photo/1",
+          "media_key": "3_1957829456997023744",
+          "start": 49,
+          "url": "https://t.co/aj7XOZ2hXf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958228967808552993",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957829468061614254",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @blakexiaonai: 还记得当时就是这样被奏奏提走用8天洗脑调教成了淫荡的狗狗…… https://t.co/aj7XOZ2hXf"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1958228967808552993].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1958228967808552993",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1958228967808552993"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1553,
+        "media_key": "3_1957829456997023744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyubhKMagAATvsH.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957829456997023744"
+          ]
+        },
+        "author_id": "1746153330622226432",
+        "conversation_id": "1957829468061614254",
+        "created_at": "2025-08-19T15:38:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T16:38:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957829468061614254"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aj7XOZ2hXf",
+              "end": 54,
+              "expanded_url": "https://x.com/blakexiaonai/status/1957829468061614254/photo/1",
+              "media_key": "3_1957829456997023744",
+              "start": 31,
+              "url": "https://t.co/aj7XOZ2hXf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957829468061614254",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 94,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还记得当时就是这样被奏奏提走用8天洗脑调教成了淫荡的狗狗…… https://t.co/aj7XOZ2hXf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n我是一名钱包刽子手。\n如果你也想被我杀死的话→\n242184780←\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 55,
+                "username": "oricz233"
+              },
+              {
+                "end": 84,
+                "start": 75,
+                "username": "moelipoi"
+              },
+              {
+                "end": 102,
+                "start": 91,
+                "username": "cutelingli"
+              },
+              {
+                "end": 124,
+                "start": 109,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 136,
+                "start": 129,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍魔女讨伐组织高级顾问～",
+        "pinned_tweet_id": "1945511067926536238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952517800502652928/-lp8k7Gh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7947,
+          "following_count": 331,
+          "like_count": 626,
+          "listed_count": 35,
+          "media_count": 723,
+          "tweet_count": 2213
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-13T12:53:18.000Z",
+        "description": "和喜欢的人一起玩，吃喜欢的蔬菜，调教喜欢的小小宠物，爱最爱的魔女奏奏，就是我的愿望❤️\n是小男孩哦～",
+        "id": "1746153330622226432",
+        "name": "blake💛奈喵",
+        "pinned_tweet_id": "1746156901715608047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949866364237479936/7iUgBHGL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 34,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 72
+        },
+        "username": "blakexiaonai",
+        "verified": false
+      }
+    ]
+  }
+}

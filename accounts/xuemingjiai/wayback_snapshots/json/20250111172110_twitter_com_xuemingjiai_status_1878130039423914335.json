@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1878130039423914335",
+    "created_at": "2025-01-11T17:21:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-11T18:21:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1878130039423914335"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1732328434154536961",
+          "start": 3,
+          "username": "AmandaJohn59240"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1878130039423914335",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1878071876565844080",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AmandaJohn59240: PAN-DORA\n等候了茶音小姐这么久的你💝，有做好打开新的潘多拉盒子的准备吗…💞虽然明知道越是这样期待推文和人家的言语就越会沉迷…💕不过，就像充满了“宝物”的魔盒一样💝，你也很期待打开以后珍藏在最下方的礼物吧💘无论是快感还是痛苦，都要…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "1878130039423914335",
+        "created_at": "2025-01-11T17:21:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-11T18:21:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1878130039423914335"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1732328434154536961",
+              "start": 3,
+              "username": "AmandaJohn59240"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878130039423914335",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1878071876565844080",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AmandaJohn59240: PAN-DORA\n等候了茶音小姐这么久的你💝，有做好打开新的潘多拉盒子的准备吗…💞虽然明知道越是这样期待推文和人家的言语就越会沉迷…💕不过，就像充满了“宝物”的魔盒一样💝，你也很期待打开以后珍藏在最下方的礼物吧💘无论是快感还是痛苦，都要…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1878059259516358656"
+          ]
+        },
+        "author_id": "1732328434154536961",
+        "conversation_id": "1878071876565844080",
+        "created_at": "2025-01-11T13:30:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-11T14:30:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1878071876565844080"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ri31tS2yUJ",
+              "end": 159,
+              "expanded_url": "https://x.com/AmandaJohn59240/status/1878071876565844080/photo/1",
+              "media_key": "3_1878059259516358656",
+              "start": 136,
+              "url": "https://t.co/ri31tS2yUJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878071876565844080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1411,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "PAN-DORA\n等候了茶音小姐这么久的你💝，有做好打开新的潘多拉盒子的准备吗…💞虽然明知道越是这样期待推文和人家的言语就越会沉迷…💕不过，就像充满了“宝物”的魔盒一样💝，你也很期待打开以后珍藏在最下方的礼物吧💘无论是快感还是痛苦，都要随心所欲的被茶音小姐好好的控制喔。 https://t.co/ri31tS2yUJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "您好～这里是出道以来一直致力于为小雏男哥哥们提供“舒适”“安全”“极致快感”的纯真妹系小天使魔女妹妹💚\n想了解我请翻看我的推文～\nqq2829556413，碎碎念小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 83,
+                "username": "oricz233"
+              },
+              {
+                "end": 112,
+                "start": 103,
+                "username": "moelipoi"
+              },
+              {
+                "end": 130,
+                "start": 119,
+                "username": "cutelingli"
+              },
+              {
+                "end": 152,
+                "start": 137,
+                "username": "chessy80978858"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系天使偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871531149056696320/X1dzrRoR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6281,
+          "following_count": 251,
+          "like_count": 290,
+          "listed_count": 28,
+          "media_count": 523,
+          "tweet_count": 1453
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-06T09:17:49.000Z",
+        "description": "歡迎在茶音温柔的声音和愉悦的大脑保养中♪把脑子变成柔软疏松的海绵，一点一点坏掉💓\n或者体验情感操纵和无意识洗脑，彻底变成茶音的玩物，变成单方面的依赖💕\n做茶音小姐这样美好可爱的美少女的臣服者～把自己的M癖好和欲望放大到甘心沉沦喔💗\n\n🚪:20R\n🐧:2405552311\n💖:欢迎想要尝试吃掉茶音的同行哦。",
+        "id": "1732328434154536961",
+        "location": "日本 東京 你的心裡。",
+        "name": "茶音ちゃん",
+        "pinned_tweet_id": "1838269651966661090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874038386807496707/Gq4bri7K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 872,
+          "following_count": 23,
+          "like_count": 245,
+          "listed_count": 5,
+          "media_count": 68,
+          "tweet_count": 109
+        },
+        "username": "AmandaJohn59240",
+        "verified": false
+      }
+    ]
+  }
+}

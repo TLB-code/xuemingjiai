@@ -1,0 +1,201 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1790011658762322390",
+    "created_at": "2024-05-13T13:30:10.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-13T14:30:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1790011658762322390"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1240949973056811009",
+          "start": 3,
+          "username": "Idol_Taoxin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1790011658762322390",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "1789212114198143288",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @Idol_Taoxin: 桃心的黑心银行上线🖤各位小贱狗们发了工资以后是不是就忍不住想要上贡呢🖤那么就把工资存在桃心银行帮你管理🖤每个月本金70%的利息🖤毕竟帮你管理工资很累的🖤每次想要上贡撸管就从剩余的本金里扣🖤扣到没有为止🖤这样就能帮你有效的戒贡瘾了不是么🖤\n#黑心…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1790011658762322390].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1790011658762322390",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1790011658762322390"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1789212111186616320"
+          ]
+        },
+        "author_id": "1240949973056811009",
+        "conversation_id": "1789212114198143288",
+        "created_at": "2024-05-11T08:33:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-11T09:33:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1789212114198143288"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 124,
+              "start": 119,
+              "tag": "黑心银行"
+            },
+            {
+              "end": 129,
+              "start": 125,
+              "tag": "工资奴"
+            },
+            {
+              "end": 133,
+              "start": 130,
+              "tag": "吐金"
+            },
+            {
+              "end": 137,
+              "start": 134,
+              "tag": "上贡"
+            },
+            {
+              "end": 141,
+              "start": 138,
+              "tag": "文媛"
+            },
+            {
+              "end": 147,
+              "start": 142,
+              "tag": "工资管理"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/x2IVLAxwql",
+              "end": 171,
+              "expanded_url": "https://twitter.com/Idol_Taoxin/status/1789212114198143288/photo/1",
+              "media_key": "3_1789212111186616320",
+              "start": 148,
+              "url": "https://t.co/x2IVLAxwql"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1789212114198143288",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 6393,
+          "like_count": 52,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "reply_settings": "following",
+        "text": "桃心的黑心银行上线🖤各位小贱狗们发了工资以后是不是就忍不住想要上贡呢🖤那么就把工资存在桃心银行帮你管理🖤每个月本金70%的利息🖤毕竟帮你管理工资很累的🖤每次想要上贡撸管就从剩余的本金里扣🖤扣到没有为止🖤这样就能帮你有效的戒贡瘾了不是么🖤\n#黑心银行 #工资奴 #吐金 #上贡 #文媛 #工资管理 https://t.co/x2IVLAxwql"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "就如同推特名一样\n是传说中的网络美少女，在异世界中是名副其实的“魔女”💜\n对人类世界充满好奇，会用自己的一些方式来洗脑一些小雏男以满足自己的恶趣味，非常拜金💚征集人型钱包中..\n门牌是2829556413和2438028521（备用）\n请来送死~♡\n不涉三哦",
+        "id": "1374389254726455305",
+        "name": "请叫我魔女小姐💜（新企划上线倒计时? ）",
+        "pinned_tweet_id": "1744800330448277998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788875476213387265/GOeOTGxI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4778,
+          "following_count": 155,
+          "like_count": 142,
+          "listed_count": 22,
+          "tweet_count": 922
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-20T10:35:14.000Z",
+        "description": "这里是世界第一百变榨金偶像桃心❤️ #上贡 #胁迫 #ATM #洗脑压榨 对你们说的所有话都是虚假的谎言💜准备好把你们的一切全都上贡给你们深爱着的偶像了么💚门牌2551691397，不涉三，🚪52不抵扣，加我先微信付好门槛或者支付宝口令，不然无视",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 21,
+                "start": 18,
+                "tag": "上贡"
+              },
+              {
+                "end": 25,
+                "start": 22,
+                "tag": "胁迫"
+              },
+              {
+                "end": 30,
+                "start": 26,
+                "tag": "ATM"
+              },
+              {
+                "end": 36,
+                "start": 31,
+                "tag": "洗脑压榨"
+              }
+            ]
+          }
+        },
+        "id": "1240949973056811009",
+        "name": "拜金偶像💜桃心",
+        "pinned_tweet_id": "1760179907869753793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1731185078569701376/XLGx99BE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11729,
+          "following_count": 213,
+          "like_count": 8296,
+          "listed_count": 64,
+          "tweet_count": 3477
+        },
+        "username": "Idol_Taoxin",
+        "verified": false
+      }
+    ]
+  }
+}

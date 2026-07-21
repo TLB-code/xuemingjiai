@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070789657877733376",
+        "3_2070789686797455360",
+        "3_2070789718405726208",
+        "3_2070789746289422336"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2070790362327826847",
+    "created_at": "2026-06-27T08:44:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T09:44:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070790362327826847"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vJNCL058YN",
+          "end": 168,
+          "expanded_url": "https://x.com/xuemingjiai/status/2070790362327826847/photo/1",
+          "media_key": "3_2070789657877733376",
+          "start": 145,
+          "url": "https://t.co/vJNCL058YN"
+        },
+        {
+          "display_url": "pic.x.com/vJNCL058YN",
+          "end": 168,
+          "expanded_url": "https://x.com/xuemingjiai/status/2070790362327826847/photo/1",
+          "media_key": "3_2070789686797455360",
+          "start": 145,
+          "url": "https://t.co/vJNCL058YN"
+        },
+        {
+          "display_url": "pic.x.com/vJNCL058YN",
+          "end": 168,
+          "expanded_url": "https://x.com/xuemingjiai/status/2070790362327826847/photo/1",
+          "media_key": "3_2070789718405726208",
+          "start": 145,
+          "url": "https://t.co/vJNCL058YN"
+        },
+        {
+          "display_url": "pic.x.com/vJNCL058YN",
+          "end": 168,
+          "expanded_url": "https://x.com/xuemingjiai/status/2070790362327826847/photo/1",
+          "media_key": "3_2070789746289422336",
+          "start": 145,
+          "url": "https://t.co/vJNCL058YN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070790362327826847",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "6.26最新奏游消息!\n新增了斗地主玩法，疑似魅魔们和勇者们之间的较量方式更多了？\n新人勇者和新人魅魔的较量非常精彩呢w\n邪恶的魅魔沫沫不知道吸干了多少新勇者的魔法碎片和等级，大家不要那么轻易败北呀!\n最后是两大实力强劲的战斗型魅魔，想成为她们变强道路上的垫脚石吗♡\n奏游，欢迎你的加入~ https://t.co/vJNCL058YN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1820,
+        "media_key": "3_2070789657877733376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLzsOOpa4AAk6Ns.jpg",
+        "width": 1280
+      },
+      {
+        "height": 298,
+        "media_key": "3_2070789686797455360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLzsP6Ya0AAiEF1.jpg",
+        "width": 662
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2070789718405726208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLzsRwIawAAmtZm.jpg",
+        "width": 882
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2070789746289422336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLzsTYAaMAA5gug.jpg",
+        "width": 882
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070789657877733376",
+            "3_2070789686797455360",
+            "3_2070789718405726208",
+            "3_2070789746289422336"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2070790362327826847",
+        "created_at": "2026-06-27T08:44:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T09:44:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070790362327826847"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vJNCL058YN",
+              "end": 168,
+              "expanded_url": "https://x.com/xuemingjiai/status/2070790362327826847/photo/1",
+              "media_key": "3_2070789657877733376",
+              "start": 145,
+              "url": "https://t.co/vJNCL058YN"
+            },
+            {
+              "display_url": "pic.x.com/vJNCL058YN",
+              "end": 168,
+              "expanded_url": "https://x.com/xuemingjiai/status/2070790362327826847/photo/1",
+              "media_key": "3_2070789686797455360",
+              "start": 145,
+              "url": "https://t.co/vJNCL058YN"
+            },
+            {
+              "display_url": "pic.x.com/vJNCL058YN",
+              "end": 168,
+              "expanded_url": "https://x.com/xuemingjiai/status/2070790362327826847/photo/1",
+              "media_key": "3_2070789718405726208",
+              "start": 145,
+              "url": "https://t.co/vJNCL058YN"
+            },
+            {
+              "display_url": "pic.x.com/vJNCL058YN",
+              "end": 168,
+              "expanded_url": "https://x.com/xuemingjiai/status/2070790362327826847/photo/1",
+              "media_key": "3_2070789746289422336",
+              "start": 145,
+              "url": "https://t.co/vJNCL058YN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070790362327826847",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "6.26最新奏游消息!\n新增了斗地主玩法，疑似魅魔们和勇者们之间的较量方式更多了？\n新人勇者和新人魅魔的较量非常精彩呢w\n邪恶的魅魔沫沫不知道吸干了多少新勇者的魔法碎片和等级，大家不要那么轻易败北呀!\n最后是两大实力强劲的战斗型魅魔，想成为她们变强道路上的垫脚石吗♡\n奏游，欢迎你的加入~ https://t.co/vJNCL058YN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "你也觉得你面前的这只魔女可爱过头了吧？\n对的!她和别人不一样!\n邂逅方式→2829556413←↓\n242184780\n涩气内容@oricz233\n星辰魔女镜璃\n@jingli1840489\n桃心魔女奈奈\n@blakexiaonai\n 黑白魔女花卷\n@miaomiaomyoez2\n好老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 64,
+                "username": "oricz233"
+              },
+              {
+                "end": 95,
+                "start": 81,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 116,
+                "start": 103,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 140,
+                "start": 125,
+                "username": "miaomiaomyoez2"
+              },
+              {
+                "end": 159,
+                "start": 144,
+                "username": "chessy80978858"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "超可爱超绿茶超撩人的精灵魔女-奏奏💚",
+        "pinned_tweet_id": "2065914875877228650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068510619113066496/EjupQRp9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9178,
+          "following_count": 405,
+          "like_count": 666,
+          "listed_count": 39,
+          "media_count": 836,
+          "tweet_count": 2244
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

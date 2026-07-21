@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "1852559955985108992"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "1851563784554627239",
+    "created_at": "2024-11-02T03:54:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-02T04:54:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1852559958170313183"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1852559958170313183",
+    "in_reply_to_user_id": "1374389254726455305",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1852558702366314713",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "那么～对于姐姐的模特委托，屏幕面前的冒险家们会怎么选择呢？\n完成商店老板娘的模特委托即可免费获得一套jk制服～可以在进入魔物塔以后从诅咒衣物切换为jk衣物～\n完成委托会增加商店老板娘的好感度～\n是想要继续堕落于此呢，还是义无反顾的前进寻求更多刺激呢？\n做出选择吧💜"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 1440,
+        "end_datetime": "2024-11-03T03:54:47.000Z",
+        "id": "1852559955985108992",
+        "options": [
+          {
+            "label": "我我我...愿意成为姐姐的模特!",
+            "position": 1,
+            "votes": 0
+          },
+          {
+            "label": "还是先进入魔物塔吧...!",
+            "position": 2,
+            "votes": 0
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1852559955985108992"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "1851563784554627239",
+        "created_at": "2024-11-02T03:54:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-02T04:54:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1852559958170313183"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1852559958170313183",
+        "in_reply_to_user_id": "1374389254726455305",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1852558702366314713",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那么～对于姐姐的模特委托，屏幕面前的冒险家们会怎么选择呢？\n完成商店老板娘的模特委托即可免费获得一套jk制服～可以在进入魔物塔以后从诅咒衣物切换为jk衣物～\n完成委托会增加商店老板娘的好感度～\n是想要继续堕落于此呢，还是义无反顾的前进寻求更多刺激呢？\n做出选择吧💜"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1852558693289848832"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1851563784554627239",
+        "created_at": "2024-11-02T03:49:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-02T04:49:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1852558702366314713"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ShJkQCsHdY",
+              "end": 174,
+              "expanded_url": "https://x.com/xuemingjiai/status/1852558702366314713/photo/1",
+              "media_key": "3_1852558693289848832",
+              "start": 151,
+              "url": "https://t.co/ShJkQCsHdY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852558702366314713",
+        "in_reply_to_user_id": "1374389254726455305",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1852557958905057422",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "姐姐给我换上了全套的诅咒装备...\n看起来很笨重对吧？实际上也没有那么难受...诅咒装备穿起来还是很轻松的...\n拿到了姐姐为我准备的道具..哇，好多呀，只是这些东西真的能在战斗中派上用场吗？不知道...总之现在的目标是进入魔物塔赚够金币赎身...我不可能一直保持这种模样，我要射精...想射精... https://t.co/ShJkQCsHdY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "超绝可爱💖\n她就是出道即巅峰的可爱纯真小天使新人偶像魔女小姐💖\n对这样的魔女小姐不能心怀任何涩涩的念想哦，不然就会变得非常糟糕...踏入无法挣脱的陷阱和牢笼里呢💘\n魔女小姐无论说什么做什么都是正确的哦，身为她的粉丝，只需要无条件用各种方式支持她就好了～\nqq2829556413",
+        "id": "1374389254726455305",
+        "name": "电波系新人偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852048735020421125/2lLNSdIh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5746,
+          "following_count": 216,
+          "like_count": 181,
+          "listed_count": 23,
+          "tweet_count": 1257
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

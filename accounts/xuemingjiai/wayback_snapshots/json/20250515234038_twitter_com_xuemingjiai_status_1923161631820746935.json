@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1923161631820746935",
+    "created_at": "2025-05-15T23:40:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-16T00:40:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923161631820746935"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1084532005545492480",
+          "start": 3,
+          "username": "lanyuan411"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923161631820746935",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 38
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922984576642589054",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lanyuan411: 男爹挺着根鸡巴站在你女友面前💚就算手指轻浮的把玩着女友属于你的奶子，女友都会忍不住眼神往他大鸡巴瞄过去♡~为什么会让玲奈变成这样呢~？💚\n\n都是因为你这废物白痴下贱绿狗太没用了💚满足不了女友♡天天刷着绿帽撸管♡女友只能靠野男人的大鸡巴调教解馋💚#…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1923161631820746935].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1923161631820746935",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1923161631820746935"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 3080,
+        "media_key": "3_1922982848086278144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gq_OtkFaAAAkdQL.jpg",
+        "width": 2310
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1922982848086278144"
+          ]
+        },
+        "author_id": "1084532005545492480",
+        "conversation_id": "1922984576642589054",
+        "created_at": "2025-05-15T11:57:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-15T12:57:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1922984576642589054"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 127,
+              "start": 122,
+              "tag": "全天接单"
+            },
+            {
+              "end": 132,
+              "start": 128,
+              "tag": "NTR"
+            },
+            {
+              "end": 136,
+              "start": 133,
+              "tag": "羞辱"
+            },
+            {
+              "end": 140,
+              "start": 137,
+              "tag": "绿帽"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1gJ0mC0qCX",
+              "end": 164,
+              "expanded_url": "https://x.com/lanyuan411/status/1922984576642589054/photo/1",
+              "media_key": "3_1922982848086278144",
+              "start": 141,
+              "url": "https://t.co/1gJ0mC0qCX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922984576642589054",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 3367,
+          "like_count": 98,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "男爹挺着根鸡巴站在你女友面前💚就算手指轻浮的把玩着女友属于你的奶子，女友都会忍不住眼神往他大鸡巴瞄过去♡~为什么会让玲奈变成这样呢~？💚\n\n都是因为你这废物白痴下贱绿狗太没用了💚满足不了女友♡天天刷着绿帽撸管♡女友只能靠野男人的大鸡巴调教解馋💚#全天接单 #NTR #羞辱 #绿帽 https://t.co/1gJ0mC0qCX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "集美貌，智慧，强大于一身的魔女族公主现身人世～区区人类，跪下向我表示臣服吧💜\n被我支配 控制 吸脑 成为奴仆💜\n挑战qq242184780，里世界小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858\n女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "oricz233"
+              },
+              {
+                "end": 104,
+                "start": 95,
+                "username": "moelipoi"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "cutelingli"
+              },
+              {
+                "end": 144,
+                "start": 129,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 155,
+                "start": 148,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏💜强势登场人间",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923161284247420929/dv1s2unV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6864,
+          "following_count": 282,
+          "like_count": 310,
+          "listed_count": 30,
+          "media_count": 604,
+          "tweet_count": 1786
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-13T19:25:54.000Z",
+        "description": "这里是玲奈🩷\n是一个喜欢玩弄早泄雏男同时又会勾引男爹的雌萝淫婊大小姐🖤\n擅长的有：羞辱榨精丨玩弄绿奴丨调教绿狗丨送屄倒贴丨\n60/h~35/0.5h\n盯着屏幕对玲奈已经饥不择食的早泄雏男可以来敲门了哦~当然也欢迎男爹来光临使用玲奈的雌穴💛门牌2321761285 备用3256815600（加不上可以私信玲奈",
+        "id": "1084532005545492480",
+        "location": "全天接单♡",
+        "name": "玲奈美少女_♡全天接单Sex~💚",
+        "pinned_tweet_id": "1857473827904856194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901034732064043008/ZsBmKqry_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5292,
+          "following_count": 84,
+          "like_count": 102,
+          "listed_count": 31,
+          "media_count": 89,
+          "tweet_count": 1121
+        },
+        "username": "lanyuan411",
+        "verified": true
+      }
+    ]
+  }
+}

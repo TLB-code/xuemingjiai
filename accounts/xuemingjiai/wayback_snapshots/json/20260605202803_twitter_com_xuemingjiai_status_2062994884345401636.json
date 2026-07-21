@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062993261921546240",
+        "3_2062993351461478400",
+        "3_2062993555682111488"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2062994884345401636",
+    "created_at": "2026-06-05T20:28:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T21:28:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062994884345401636"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mo8bZ2ZAuR",
+          "end": 163,
+          "expanded_url": "https://x.com/xuemingjiai/status/2062994884345401636/photo/1",
+          "media_key": "3_2062993261921546240",
+          "start": 140,
+          "url": "https://t.co/mo8bZ2ZAuR"
+        },
+        {
+          "display_url": "pic.x.com/mo8bZ2ZAuR",
+          "end": 163,
+          "expanded_url": "https://x.com/xuemingjiai/status/2062994884345401636/photo/1",
+          "media_key": "3_2062993351461478400",
+          "start": 140,
+          "url": "https://t.co/mo8bZ2ZAuR"
+        },
+        {
+          "display_url": "pic.x.com/mo8bZ2ZAuR",
+          "end": 163,
+          "expanded_url": "https://x.com/xuemingjiai/status/2062994884345401636/photo/1",
+          "media_key": "3_2062993555682111488",
+          "start": 140,
+          "url": "https://t.co/mo8bZ2ZAuR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062994884345401636",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "以为和本公主认识几年了就是好朋友了？\n钱包永远是钱包\n认清这个事实🖤\n前面还说没钱不想上贡，稍微挑逗一下就原形毕露了。\n每时每刻都有无数的舔狗钱包宝宝想要舔嗅本公主高贵的足底呢，大多数上贡得倾家荡产也只配隔空跪拜喔♪\n就像这只提款机一样，从今以后上贡再多也不配接触本公主的足底♡ https://t.co/mo8bZ2ZAuR"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2062994884345401636].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2062994884345401636",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2062994884345401636"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2269,
+        "media_key": "3_2062993261921546240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKE5cQbbsAADUCs.jpg",
+        "width": 610
+      },
+      {
+        "height": 2220,
+        "media_key": "3_2062993351461478400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKE5hd_aoAA6puc.jpg",
+        "width": 610
+      },
+      {
+        "height": 2429,
+        "media_key": "3_2062993555682111488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKE5tWxaMAAYID7.jpg",
+        "width": 610
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会魅惑并享用钱包的公主殿下🤍\n精通各种处刑钱包的方法🖤\n联系方式→2829556413←\n病毒小号@oricz233\n现任魔女学园院长\n星辰魔女镜璃\n@jingli1840489\n桃心魔女奈奈\n@blakexiaonai\n 黑白魔女花卷\n@miaomiaomi17630\n好老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "oricz233"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 114,
+                "start": 101,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 139,
+                "start": 123,
+                "username": "miaomiaomi17630"
+              },
+              {
+                "end": 158,
+                "start": 143,
+                "username": "chessy80978858"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "全能魅惑系魔女族公主-奏💜魔女学园院长版～",
+        "pinned_tweet_id": "2013314916120416537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055327575581556736/-ZRgWKku_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8870,
+          "following_count": 366,
+          "like_count": 637,
+          "listed_count": 35,
+          "media_count": 827,
+          "tweet_count": 2198
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

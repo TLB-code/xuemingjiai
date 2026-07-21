@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1864640334740988023",
+    "created_at": "2024-12-05T11:57:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-05T12:57:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1864640334740988023"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1546004457322082305",
+          "start": 3,
+          "username": "moeliQwQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1864640334740988023",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "1864566133736788244",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @moeliQwQ: ♡⁠小偶像的直播演出活动♡⁠\n\n超绝可爱小偶像璃喵喵将带着满满的元气为大家呈现一场惊艳的表演！♡⁠\n在直播的时候被偶像盯着自慰，早泄越快就可以排名越高哦~请狗狗们尽情的对着直播撸动自己的废物猪鞭以获得更高的排名哦~♡⁠如果早泄速度最快的话会有神秘奖励…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1864640334740988023].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1864640334740988023",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1864640334740988023"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1864566123435528192"
+          ]
+        },
+        "author_id": "1546004457322082305",
+        "conversation_id": "1864566133736788244",
+        "created_at": "2024-12-05T07:03:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-05T08:03:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1864566133736788244"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9ogs14ZmHW",
+              "end": 167,
+              "expanded_url": "https://x.com/moeliQwQ/status/1864566133736788244/photo/1",
+              "media_key": "3_1864566123435528192",
+              "start": 144,
+              "url": "https://t.co/9ogs14ZmHW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864566133736788244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1160,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "♡⁠小偶像的直播演出活动♡⁠\n\n超绝可爱小偶像璃喵喵将带着满满的元气为大家呈现一场惊艳的表演！♡⁠\n在直播的时候被偶像盯着自慰，早泄越快就可以排名越高哦~请狗狗们尽情的对着直播撸动自己的废物猪鞭以获得更高的排名哦~♡⁠如果早泄速度最快的话会有神秘奖励哦~要继续读下去~慢慢陷进去哦~♡⁠ https://t.co/9ogs14ZmHW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "您好～这里是出道以来一直致力于为小雏男哥哥们提供“舒适”“安全”“极致快感”的纯真妹系小天使魔女妹妹💚\n想了解我请翻看我的推文～\nqq2829556413，碎碎念小号@oricz233\n共同出道的偶像老婆：@moeliQWQ\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 83,
+                "username": "oricz233"
+              },
+              {
+                "end": 112,
+                "start": 103,
+                "username": "moeliQWQ"
+              },
+              {
+                "end": 130,
+                "start": 119,
+                "username": "cutelingli"
+              },
+              {
+                "end": 152,
+                "start": 137,
+                "username": "chessy80978858"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系天使偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862768210711392256/_qeQwE-8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6148,
+          "following_count": 238,
+          "like_count": 218,
+          "listed_count": 26,
+          "media_count": 511,
+          "tweet_count": 1391
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-10T05:32:51.000Z",
+        "description": "这里是超绝可爱偶像璃喵喵~♡⁠爱好是将粉丝们踩在足底洗脑~♡⁠「榨精魅魔♡⁠拜金偶像♡⁠萝莉小鬼♡⁠绿茶公主♡⁠」xp无下限~人设可谈 经验丰富可长可段~支持长期单♡⁠门牌号：1912443435 欢迎下单~♡⁠不涉三 里世界：@Urarasuk1 单推偶像：@xuemingjiai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 114,
+                "username": "Urarasuk1"
+              },
+              {
+                "end": 142,
+                "start": 130,
+                "username": "xuemingjiai"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/moeliqwq",
+                "end": 23,
+                "expanded_url": "http://t.me/moeliqwq",
+                "start": 0,
+                "url": "https://t.co/MUfid2947d"
+              }
+            ]
+          }
+        },
+        "id": "1546004457322082305",
+        "location": "营业时间：日常晚上六点到凌晨一点 周末全天营业",
+        "name": "璃酱 🖤 さき（欢迎互推喵~超绝赞营业中）",
+        "pinned_tweet_id": "1847115416512184503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862844024182169600/eJOs7DNj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3462,
+          "following_count": 131,
+          "like_count": 505,
+          "listed_count": 11,
+          "media_count": 182,
+          "tweet_count": 634
+        },
+        "url": "https://t.co/MUfid2947d",
+        "username": "moeliQwQ",
+        "verified": true
+      }
+    ]
+  }
+}

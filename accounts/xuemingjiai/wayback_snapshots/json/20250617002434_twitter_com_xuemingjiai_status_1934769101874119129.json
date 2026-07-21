@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1934769101874119129",
+    "created_at": "2025-06-17T00:24:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-17T01:24:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934769101874119129"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 103,
+          "start": 100,
+          "tag": "白给"
+        },
+        {
+          "end": 109,
+          "start": 104,
+          "tag": "ATM奴"
+        },
+        {
+          "end": 115,
+          "start": 110,
+          "tag": "无脑上供"
+        },
+        {
+          "end": 119,
+          "start": 116,
+          "tag": "发情"
+        },
+        {
+          "end": 123,
+          "start": 120,
+          "tag": "贡奴"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1837733655617097728",
+          "start": 3,
+          "username": "RdReddust"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/8c",
+          "end": 139,
+          "start": 124,
+          "url": "https://t.co/8c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934769101874119129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934294841888022574",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RdReddust: 晚上好❤没想到有不少明知道钓鱼还依旧无脑白给的贡奴❤所以来奖励那些偷看推文的白痴贱狗❤毕竟除了意淫臭脚和中指就只会忍不住上贡了呢❤是吧~正在看这条推文并读完的废物杂鱼❤\n#白给 #ATM奴 #无脑上供 #发情 #贡奴 https://t.co/8c…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1934769101874119129].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1934769101874119129",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1934769101874119129"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1810,
+        "media_key": "3_1934294835760189441",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gtf-56Bb0AEzJnI.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934294835760189441"
+          ]
+        },
+        "author_id": "1837733655617097728",
+        "conversation_id": "1934294841888022574",
+        "created_at": "2025-06-15T17:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T18:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934294841888022574"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 88,
+              "start": 85,
+              "tag": "白给"
+            },
+            {
+              "end": 94,
+              "start": 89,
+              "tag": "ATM奴"
+            },
+            {
+              "end": 100,
+              "start": 95,
+              "tag": "无脑上供"
+            },
+            {
+              "end": 104,
+              "start": 101,
+              "tag": "发情"
+            },
+            {
+              "end": 108,
+              "start": 105,
+              "tag": "贡奴"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8c3LddVPA8",
+              "end": 132,
+              "expanded_url": "https://x.com/RdReddust/status/1934294841888022574/photo/1",
+              "media_key": "3_1934294835760189441",
+              "start": 109,
+              "url": "https://t.co/8c3LddVPA8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934294841888022574",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1217,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "晚上好❤没想到有不少明知道钓鱼还依旧无脑白给的贡奴❤所以来奖励那些偷看推文的白痴贱狗❤毕竟除了意淫臭脚和中指就只会忍不住上贡了呢❤是吧~正在看这条推文并读完的废物杂鱼❤\n#白给 #ATM奴 #无脑上供 #发情 #贡奴 https://t.co/8c3LddVPA8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n你也会因为窥视我的美貌而心甘情愿沦为钱包被我使用的对吗？\n钱包报名入口：3971546171\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 67,
+                "username": "oricz233"
+              },
+              {
+                "end": 96,
+                "start": 87,
+                "username": "moelipoi"
+              },
+              {
+                "end": 114,
+                "start": 103,
+                "username": "cutelingli"
+              },
+              {
+                "end": 136,
+                "start": 121,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 148,
+                "start": 141,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍驯化公用钱包👛中",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931064828044713984/9qwnduVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7216,
+          "following_count": 309,
+          "like_count": 364,
+          "listed_count": 33,
+          "media_count": 682,
+          "tweet_count": 2056
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-22T06:00:29.000Z",
+        "description": "这里是专收看着羞辱文就硬得发抖的ATM奴、贡奴和傻狗的男娘红酱～。因为过于了解那些看一张色图和配文就忍不住意淫的杂鱼🖤所以就出道钓鱼来了🖤傻逼atm奴/臭脚控/贱狗大胆私信哦🖤，吐出你的红包和脑子🖤 只要发情就不准跑了哦～🩷🩷🩷",
+        "id": "1837733655617097728",
+        "name": "Misstress 红",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934093624628707328/uMcETvIR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 204,
+          "like_count": 88,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 20
+        },
+        "username": "RdReddust",
+        "verified": true
+      }
+    ]
+  }
+}

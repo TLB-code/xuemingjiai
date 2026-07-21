@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1923161491315868126",
+    "created_at": "2025-05-15T23:40:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-16T00:40:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923161491315868126"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1312572317206159360",
+          "start": 3,
+          "username": "moelipoi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923161491315868126",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922932074404589981",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @moelipoi: 呼…今天玩得好开心呀♡ 主人实在太坏了，把人家折腾得浑身发软…身上也全是精液……～还被您内射进来了…弄得人家走路都有点困难了呢♡……明晚老地方见好不好？下次想尝试更刺激的玩法哦♡\n啊，差点忘了跟男友说一声～♡就告诉他我要加班好了～他肯定又会傻乎乎地相…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1923161491315868126].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1923161491315868126",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1923161491315868126"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1922932070768066560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gq-gh71WQAAnv6_.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1922932070768066560"
+          ]
+        },
+        "author_id": "1312572317206159360",
+        "conversation_id": "1922932074404589981",
+        "created_at": "2025-05-15T08:28:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-15T09:28:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922932074404589981"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ijjLlrciqk",
+              "end": 156,
+              "expanded_url": "https://x.com/moelipoi/status/1922932074404589981/photo/1",
+              "media_key": "3_1922932070768066560",
+              "start": 133,
+              "url": "https://t.co/ijjLlrciqk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922932074404589981",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 1739,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "呼…今天玩得好开心呀♡ 主人实在太坏了，把人家折腾得浑身发软…身上也全是精液……～还被您内射进来了…弄得人家走路都有点困难了呢♡……明晚老地方见好不好？下次想尝试更刺激的玩法哦♡\n啊，差点忘了跟男友说一声～♡就告诉他我要加班好了～他肯定又会傻乎乎地相信吧？嘻嘻～♡ https://t.co/ijjLlrciqk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "集美貌，智慧，强大于一身的魔女族公主现身人世～区区人类，跪下向我表示臣服吧💜\n被我支配 控制 吸脑 成为奴仆💜\n挑战qq242184780，里世界小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858\n女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "oricz233"
+              },
+              {
+                "end": 104,
+                "start": 95,
+                "username": "moelipoi"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "cutelingli"
+              },
+              {
+                "end": 144,
+                "start": 129,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 155,
+                "start": 148,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏💜强势登场人间",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923161284247420929/dv1s2unV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6864,
+          "following_count": 282,
+          "like_count": 310,
+          "listed_count": 30,
+          "media_count": 604,
+          "tweet_count": 1784
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-04T01:57:08.000Z",
+        "description": "贵安~💖这里是主擅长恋足气味调教洗脑的全能系腹黑JK绿茶偶像璃酱💛|性癖无雷点 任何剧情都可接受 | 句段均可♪|貢ぎ奴隷送死欢迎🖤|把脑子无意识的交给偶像温柔的美夜月鏡中吧?💙\n🚪:1912443435丨只接受图文♡先看置顶再敲门\n单推偶像:@xuemingjiai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 122,
+                "username": "xuemingjiai"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/moeliqwq",
+                "end": 23,
+                "expanded_url": "http://t.me/moeliqwq",
+                "start": 0,
+                "url": "https://t.co/ttwGimBZ9H"
+              }
+            ]
+          }
+        },
+        "id": "1312572317206159360",
+        "location": "40/0.5h 75/h 全天营业丨不接M单",
+        "name": "璃酱♪詩月璃ぴょん ❀",
+        "pinned_tweet_id": "1911036147817681330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922464395688591360/D3DIqp3g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8213,
+          "following_count": 148,
+          "like_count": 280,
+          "listed_count": 10,
+          "media_count": 195,
+          "tweet_count": 1268
+        },
+        "url": "https://t.co/ttwGimBZ9H",
+        "username": "moelipoi",
+        "verified": true
+      }
+    ]
+  }
+}

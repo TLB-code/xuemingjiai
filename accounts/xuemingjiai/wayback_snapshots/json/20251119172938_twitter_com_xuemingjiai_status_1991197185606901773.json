@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1991197185606901773",
+    "created_at": "2025-11-19T17:29:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T18:29:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991197185606901773"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 125,
+          "start": 122,
+          "tag": "女s"
+        },
+        {
+          "end": 129,
+          "start": 126,
+          "tag": "接单"
+        },
+        {
+          "end": 133,
+          "start": 130,
+          "tag": "文媛"
+        },
+        {
+          "end": 137,
+          "start": 134,
+          "tag": "恋足"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1288837401335328768",
+          "start": 3,
+          "username": "YuSama_Uknwdy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991197185606901773",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 30
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991102974215811326",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YuSama_Uknwdy: 媚脚死变态又开始来找撸屌配菜了吗💚\n把你的眼睛盯在你小妈的油足脚底上面搓你的废物短屌就可以了💚\n不要有任何犹豫~只需要对着足底扭腰~顶胯~让自己的肉虫子被妈妈的骚脚油足榨出精水💚\n完成今天的媚脚脱敏训练💚\n#女s #接单 #文媛 #恋足 #…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1991197185606901773].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1991197185606901773",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1991197185606901773"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 78762,
+        "height": 960,
+        "media_key": "13_1991102432680820736",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1991102432680820736/img/ze4tPm-uoxOb60u3.jpg",
+        "public_metrics": {
+          "view_count": 1036
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1991102432680820736/vid/avc1/320x426/qz3ApFoPsZnmhYtq.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1991102432680820736/vid/avc1/480x640/zsDc4ErjHC20VZIV.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1991102432680820736/vid/avc1/720x960/zjeeA2OIWKaKw5oy.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1991102432680820736/pl/i8Z5Fp0gzPoQ18WZ.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1991102432680820736"
+          ]
+        },
+        "author_id": "1288837401335328768",
+        "conversation_id": "1991102974215811326",
+        "created_at": "2025-11-19T11:15:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T12:15:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991102974215811326"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 106,
+              "start": 103,
+              "tag": "女s"
+            },
+            {
+              "end": 110,
+              "start": 107,
+              "tag": "接单"
+            },
+            {
+              "end": 114,
+              "start": 111,
+              "tag": "文媛"
+            },
+            {
+              "end": 118,
+              "start": 115,
+              "tag": "恋足"
+            },
+            {
+              "end": 122,
+              "start": 119,
+              "tag": "羞辱"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6F9MoWE0lO",
+              "end": 146,
+              "expanded_url": "https://x.com/YuSama_Uknwdy/status/1991102974215811326/video/1",
+              "media_key": "13_1991102432680820736",
+              "start": 123,
+              "url": "https://t.co/6F9MoWE0lO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991102974215811326",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 56,
+          "impression_count": 4356,
+          "like_count": 188,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "媚脚死变态又开始来找撸屌配菜了吗💚\n把你的眼睛盯在你小妈的油足脚底上面搓你的废物短屌就可以了💚\n不要有任何犹豫~只需要对着足底扭腰~顶胯~让自己的肉虫子被妈妈的骚脚油足榨出精水💚\n完成今天的媚脚脱敏训练💚\n#女s #接单 #文媛 #恋足 #羞辱 https://t.co/6F9MoWE0lO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n最最最最喜欢钱包们啦!\n天天挨骂真的不会腻嘛～\n擅长用爱意和温柔的语气俘虏钱包～\n联系方式→242184780←\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 77,
+                "username": "oricz233"
+              },
+              {
+                "end": 106,
+                "start": 97,
+                "username": "moelipoi"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "cutelingli"
+              },
+              {
+                "end": 146,
+                "start": 131,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 158,
+                "start": 151,
+                "username": "1xian1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍对钱包们最温柔最有好感版",
+        "pinned_tweet_id": "1976743806063063398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969152325731168256/ozl0k8K4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7926,
+          "following_count": 326,
+          "like_count": 638,
+          "listed_count": 35,
+          "media_count": 753,
+          "tweet_count": 2304
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-30T14:02:47.000Z",
+        "description": "超绝文媛🖤垃圾变态的傻逼们自觉翘着你的烂根来送死🖤 性癖全能的祖宗小妈会用你最喜欢的方式玩死你🖤丨语音验证20💚丨门槛20R可抵扣丨 傻逼不用再偷窥了赶紧夹着你的烂裆来敲门💚 门牌：3451423909",
+        "id": "1288837401335328768",
+        "name": "昱昱SexLove♪💘",
+        "pinned_tweet_id": "1921487172227473735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982520374400028672/0_gLnequ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17298,
+          "following_count": 255,
+          "like_count": 684,
+          "listed_count": 80,
+          "media_count": 183,
+          "tweet_count": 2543
+        },
+        "username": "YuSama_Uknwdy",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1881340884471705600"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "1881339072754713035",
+    "created_at": "2025-01-20T13:59:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-20T14:59:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1881340887139291341"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wNhXefjtyC",
+          "end": 166,
+          "expanded_url": "https://x.com/xuemingjiai/status/1881340887139291341/photo/1",
+          "media_key": "3_1881340884471705600",
+          "start": 143,
+          "url": "https://t.co/wNhXefjtyC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881340887139291341",
+    "in_reply_to_user_id": "1374389254726455305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881339960059699527",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "最近似乎文案奴这个名词很火呢💜\n什么是文案奴呢？\n顾名思义，就是无条件为自己的主人（魔女小姐）写出优质性的推文，然后吸引更多的小雏男前来送死，那么作为魔女小姐的文案奴会得到什么奖励呢？\n白痴🖤\n光是成为文案奴这件事本身就是奖励了~可以一边发情一边写作然后禁止高潮还要被压榨倒贴白给哦🖤 https://t.co/wNhXefjtyC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1881340884471705600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GhvdkRBa8AANRn8.jpg",
+        "width": 1365
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1881340884471705600"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "1881339072754713035",
+        "created_at": "2025-01-20T13:59:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-20T14:59:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881340887139291341"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wNhXefjtyC",
+              "end": 166,
+              "expanded_url": "https://x.com/xuemingjiai/status/1881340887139291341/photo/1",
+              "media_key": "3_1881340884471705600",
+              "start": 143,
+              "url": "https://t.co/wNhXefjtyC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881340887139291341",
+        "in_reply_to_user_id": "1374389254726455305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881339960059699527",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "最近似乎文案奴这个名词很火呢💜\n什么是文案奴呢？\n顾名思义，就是无条件为自己的主人（魔女小姐）写出优质性的推文，然后吸引更多的小雏男前来送死，那么作为魔女小姐的文案奴会得到什么奖励呢？\n白痴🖤\n光是成为文案奴这件事本身就是奖励了~可以一边发情一边写作然后禁止高潮还要被压榨倒贴白给哦🖤 https://t.co/wNhXefjtyC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1881339956423262208"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "1881339072754713035",
+        "created_at": "2025-01-20T13:56:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-20T14:56:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881339960059699527"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/f6yhbPuCqe",
+              "end": 164,
+              "expanded_url": "https://x.com/xuemingjiai/status/1881339960059699527/photo/1",
+              "media_key": "3_1881339956423262208",
+              "start": 141,
+              "url": "https://t.co/f6yhbPuCqe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881339960059699527",
+        "in_reply_to_user_id": "1374389254726455305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881339072754713035",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "说起来啊～\n很多小雏男们可能都不知道什么是自己的价值呢♪\n但是光是听到要被魔女小姐剥夺价值就已经兴奋的不行了不是嘛💜\n毕竟只是杂鱼小雏男，被魔女小姐拿走属于你的一切都应该感到幸福～兴奋💜\n说不定魔女小姐开心了就会把你踩在脚下压在屁股下轻而易举的夺走利用掌控你的一切，摧毁你的人生🖤 https://t.co/f6yhbPuCqe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "您好～这里是出道以来一直致力于为小雏男哥哥们提供“舒适”“安全”“极致快感”的纯真妹系小天使魔女妹妹💚\n想了解我请翻看我的推文～\nqq2829556413，碎碎念小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 83,
+                "username": "oricz233"
+              },
+              {
+                "end": 112,
+                "start": 103,
+                "username": "moelipoi"
+              },
+              {
+                "end": 130,
+                "start": 119,
+                "username": "cutelingli"
+              },
+              {
+                "end": 152,
+                "start": 137,
+                "username": "chessy80978858"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系天使偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878142670054604800/aZFysFDs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6320,
+          "following_count": 252,
+          "like_count": 285,
+          "listed_count": 29,
+          "media_count": 535,
+          "tweet_count": 1482
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

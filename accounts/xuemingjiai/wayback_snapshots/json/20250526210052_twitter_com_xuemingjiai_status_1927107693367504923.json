@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1927107693367504923",
+    "created_at": "2025-05-26T21:00:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-26T22:00:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927107693367504923"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1735851723044839424",
+          "start": 3,
+          "username": "KendallRat17471"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927107693367504923",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 42
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926913317236265105",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KendallRat17471: 盯着祖宗精臭脚底看你妈呢～早泄锁奴贱王八公狗💚你问人家结婚纪念日干嘛去了呀～💚祖宗昨天可是侍奉了一晚上男爹呢～今天还要来敷衍你这条傻逼绿毛龟💚自己把祖宗昨天跟男爹做爱用过的精臭套套带回家供着哦～💚你也只配听着祖宗的浪叫声～挺着早泄包茎狗…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1927107693367504923].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1927107693367504923",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1927107693367504923"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1926913314593918976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr3Fc01XUAAP8Jk.jpg",
+        "width": 818
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1926913314593918976"
+          ]
+        },
+        "author_id": "1735851723044839424",
+        "conversation_id": "1926913317236265105",
+        "created_at": "2025-05-26T08:08:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T09:08:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926913317236265105"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 129,
+              "start": 126,
+              "tag": "文援"
+            },
+            {
+              "end": 133,
+              "start": 130,
+              "tag": "绿帽"
+            },
+            {
+              "end": 138,
+              "start": 134,
+              "tag": "ntr"
+            },
+            {
+              "end": 142,
+              "start": 139,
+              "tag": "羞辱"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9xm0r8sH68",
+              "end": 166,
+              "expanded_url": "https://x.com/KendallRat17471/status/1926913317236265105/photo/1",
+              "media_key": "3_1926913314593918976",
+              "start": 143,
+              "url": "https://t.co/9xm0r8sH68"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926913317236265105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 4954,
+          "like_count": 94,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 42
+        },
+        "reply_settings": "everyone",
+        "text": "盯着祖宗精臭脚底看你妈呢～早泄锁奴贱王八公狗💚你问人家结婚纪念日干嘛去了呀～💚祖宗昨天可是侍奉了一晚上男爹呢～今天还要来敷衍你这条傻逼绿毛龟💚自己把祖宗昨天跟男爹做爱用过的精臭套套带回家供着哦～💚你也只配听着祖宗的浪叫声～挺着早泄包茎狗鞭无脑滑精了💚 #文援 #绿帽 #ntr #羞辱 https://t.co/9xm0r8sH68"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "集美貌，智慧，强大于一身的魔女族公主现身人世～区区人类，跪下向我表示臣服吧💜\n被我支配 控制 吸脑 成为奴仆💜\n挑战qq242184780，里世界小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858\n女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "oricz233"
+              },
+              {
+                "end": 104,
+                "start": 95,
+                "username": "moelipoi"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "cutelingli"
+              },
+              {
+                "end": 144,
+                "start": 129,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 155,
+                "start": 148,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏💜强势登场人间",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926028406774247424/hWplRg7q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7009,
+          "following_count": 289,
+          "like_count": 322,
+          "listed_count": 32,
+          "media_count": 619,
+          "tweet_count": 1850
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-16T02:37:58.000Z",
+        "description": "这里是北北🖤～擅长调教羞辱/胁迫压榨/绿帽锁奴/角色扮演🖤～可s可m🖤详细见置顶菜单哦🖤其他服务加q详谈🖤门牌q631365212，营业时间10点到凌晨2点~宝宝:@X1ranS",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 82,
+                "username": "X1ranS"
+              }
+            ]
+          }
+        },
+        "id": "1735851723044839424",
+        "location": "全天接单中～接受无理由白给♡",
+        "name": "北北🖤（可互推）",
+        "pinned_tweet_id": "1914284789449810022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876307151322480640/8zky_u5E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3493,
+          "following_count": 1985,
+          "like_count": 18,
+          "listed_count": 12,
+          "media_count": 60,
+          "tweet_count": 1632
+        },
+        "username": "KendallRat17471",
+        "verified": false
+      }
+    ]
+  }
+}

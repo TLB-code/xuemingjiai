@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1923172737763164505",
+    "created_at": "2025-05-16T00:24:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-16T01:24:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923172737763164505"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 137,
+          "start": 134,
+          "tag": "压榨"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1555365870649708544",
+          "start": 3,
+          "username": "chessy80978858"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923172737763164505",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923015776904139004",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chessy80978858: 啊啦~这就是传说中的勇者大人吗~一下子就败给见习魅魔什么的~简直是杂鱼得一塌糊涂呢~乖哦~就这样沉沦下去吧~做个废物奴隶比当什么破勇者有意思多了~是不是呀~🖤\n【勇者状态：生命值-30% 抗性-95% 经验值急剧流失中...】\n#压榨 #…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1923172737763164505].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1923172737763164505",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1923172737763164505"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 904,
+        "media_key": "3_1923015772776931328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gq_sqCHXoAATY-f.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1923015772776931328"
+          ]
+        },
+        "author_id": "1555365870649708544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1923015776904139004",
+        "created_at": "2025-05-15T14:01:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-15T15:01:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1923015776904139004"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 117,
+              "start": 114,
+              "tag": "压榨"
+            },
+            {
+              "end": 123,
+              "start": 118,
+              "tag": "经验剥夺"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GANjoWB0Hx",
+              "end": 147,
+              "expanded_url": "https://x.com/chessy80978858/status/1923015776904139004/photo/1",
+              "media_key": "3_1923015772776931328",
+              "start": 124,
+              "url": "https://t.co/GANjoWB0Hx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923015776904139004",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 2899,
+          "like_count": 46,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "啊啦~这就是传说中的勇者大人吗~一下子就败给见习魅魔什么的~简直是杂鱼得一塌糊涂呢~乖哦~就这样沉沦下去吧~做个废物奴隶比当什么破勇者有意思多了~是不是呀~🖤\n【勇者状态：生命值-30% 抗性-95% 经验值急剧流失中...】\n#压榨 #经验剥夺 https://t.co/GANjoWB0Hx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "集美貌，智慧，强大于一身的魔女族公主现身人世～区区人类，跪下向我表示臣服吧💜\n被我支配 控制 吸脑 成为奴仆💜\n挑战qq242184780，里世界小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858\n女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "oricz233"
+              },
+              {
+                "end": 104,
+                "start": 95,
+                "username": "moelipoi"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "cutelingli"
+              },
+              {
+                "end": 144,
+                "start": 129,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 155,
+                "start": 148,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏💜强势登场人间",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923161284247420929/dv1s2unV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6866,
+          "following_count": 283,
+          "like_count": 311,
+          "listed_count": 30,
+          "media_count": 607,
+          "tweet_count": 1791
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-05T01:31:46.000Z",
+        "description": "这里简妮~s系文媛~请看置顶哦~在线榨取傻逼杂鱼精液💚金钱💜将视线移向推文~心动就敲门💖 🚪10r 门牌号q1430295633碎碎念@s793874574 友善老婆@xuemingjiai 超绝可爱の@lilix_331亲友@Sakura9OwO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 67,
+                "username": "s793874574"
+              },
+              {
+                "end": 95,
+                "start": 83,
+                "username": "xuemingjiai"
+              },
+              {
+                "end": 111,
+                "start": 101,
+                "username": "lilix_331"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "Sakura9OwO"
+              }
+            ]
+          }
+        },
+        "id": "1555365870649708544",
+        "location": "踩在你心里~全天营业绝赞接单中♡",
+        "name": "简妮♡",
+        "pinned_tweet_id": "1867933063260639686",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900015764314480643/uLFcIV1U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7663,
+          "following_count": 132,
+          "like_count": 2361,
+          "listed_count": 30,
+          "media_count": 220,
+          "tweet_count": 5155
+        },
+        "username": "chessy80978858",
+        "verified": true
+      }
+    ]
+  }
+}

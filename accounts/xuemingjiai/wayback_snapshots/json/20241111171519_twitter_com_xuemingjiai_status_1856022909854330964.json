@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "1856022907601989632"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "1851563784554627239",
+    "created_at": "2024-11-11T17:15:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-11T18:15:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1856022909854330964"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1856022909854330964",
+    "in_reply_to_user_id": "1374389254726455305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1856021920183136451",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "之前的债务是1370金币～上一期投票有232票，1370-235=1135，由于小男娘背叛了莉莉娅～债务翻倍，变成了2270枚金币💜\n重生之后在莉莉娅姐姐的帮助下击退了魅魔，现在又面临着新的选择，大家会怎么选择呢？\n本期根据投票数继续增加小男娘的债务～请好好的为莉莉娅姐姐负债到死吧～\n请做出你的选择💜"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 2880,
+        "end_datetime": "2024-11-13T17:15:19.000Z",
+        "id": "1856022907601989632",
+        "options": [
+          {
+            "label": "宝箱!我要开宝箱",
+            "position": 1,
+            "votes": 0
+          },
+          {
+            "label": "推开中间的铁门!",
+            "position": 2,
+            "votes": 0
+          },
+          {
+            "label": "向下走，去看看",
+            "position": 3,
+            "votes": 0
+          },
+          {
+            "label": "向上走，去探索",
+            "position": 4,
+            "votes": 0
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1856022907601989632"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "1851563784554627239",
+        "created_at": "2024-11-11T17:15:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-11T18:15:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1856022909854330964"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1856022909854330964",
+        "in_reply_to_user_id": "1374389254726455305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1856021920183136451",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "之前的债务是1370金币～上一期投票有232票，1370-235=1135，由于小男娘背叛了莉莉娅～债务翻倍，变成了2270枚金币💜\n重生之后在莉莉娅姐姐的帮助下击退了魅魔，现在又面临着新的选择，大家会怎么选择呢？\n本期根据投票数继续增加小男娘的债务～请好好的为莉莉娅姐姐负债到死吧～\n请做出你的选择💜"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1856021917393924102"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1851563784554627239",
+        "created_at": "2024-11-11T17:11:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-11T18:11:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1856021920183136451"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6pAXQJLQIT",
+              "end": 145,
+              "expanded_url": "https://x.com/xuemingjiai/status/1856021920183136451/photo/1",
+              "media_key": "3_1856021917393924102",
+              "start": 122,
+              "url": "https://t.co/6pAXQJLQIT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856021920183136451",
+        "in_reply_to_user_id": "1374389254726455305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 33,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1856021327163077112",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "走出房间以后，又是选择题吗？\n左边的宝箱说不定会有很值钱的道具，打开也应该没什么危险吧。\n中间...这扇门背后会是什么呢，有一种不妙的感觉..!\n右边啊，是向上和向下的楼梯，现在真的有必要直接上楼或者下楼吗？\n请各位冒险家哥哥帮我做出选择吧! https://t.co/6pAXQJLQIT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "超绝可爱💖\n她就是出道即巅峰的可爱纯真小天使新人偶像魔女小姐💖\n对这样的魔女小姐不能心怀任何涩涩的念想哦，不然就会变得非常糟糕...踏入无法挣脱的陷阱和牢笼里呢💘\n魔女小姐无论说什么做什么都是正确的哦，身为她的粉丝，只需要无条件用各种方式支持她就好了～\nqq2829556413，碎碎念小号@oricz233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 154,
+                "start": 145,
+                "username": "oricz233"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "name": "电波系新人偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854618482215911424/R3TTJuCj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5861,
+          "following_count": 226,
+          "like_count": 185,
+          "listed_count": 24,
+          "tweet_count": 1330
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

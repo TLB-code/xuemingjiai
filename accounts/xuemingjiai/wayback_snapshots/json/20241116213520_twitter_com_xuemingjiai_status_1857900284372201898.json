@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1857900284372201898",
+    "created_at": "2024-11-16T21:35:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-16T22:35:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1857900284372201898"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 132,
+          "start": 129,
+          "tag": "文援"
+        },
+        {
+          "end": 136,
+          "start": 133,
+          "tag": "压榨"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1777598492124532736",
+          "start": 3,
+          "username": "Qilicc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1857900284372201898",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1857723624758669692",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Qilicc: 又在刷色推物色坏妹妹调教你吗哥哥~?\n别挑了就我吧🩷\n想要哥哥捧着金币来送死哦♡爆不出金币的垃圾~就对着人家推文撸死算了♡\n如果哥哥真喜欢祈莉~那就应该不管祈莉变成什么样~都无条件喜欢我哦❤️就算被祈莉吸血虐死~也要心甘情愿接受呐💛\n#文援 #压榨 #绿…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1857900284372201898].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1857900284372201898",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1857900284372201898"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1857723620065488896"
+          ]
+        },
+        "author_id": "1777598492124532736",
+        "conversation_id": "1857723624758669692",
+        "created_at": "2024-11-16T09:53:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-16T10:53:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1857723624758669692"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 120,
+              "start": 117,
+              "tag": "文援"
+            },
+            {
+              "end": 124,
+              "start": 121,
+              "tag": "压榨"
+            },
+            {
+              "end": 128,
+              "start": 125,
+              "tag": "绿茶"
+            },
+            {
+              "end": 132,
+              "start": 129,
+              "tag": "贡奴"
+            },
+            {
+              "end": 136,
+              "start": 133,
+              "tag": "白给"
+            },
+            {
+              "end": 140,
+              "start": 137,
+              "tag": "喷金"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1QPnBGQdYu",
+              "end": 164,
+              "expanded_url": "https://x.com/Qilicc/status/1857723624758669692/photo/1",
+              "media_key": "3_1857723620065488896",
+              "start": 141,
+              "url": "https://t.co/1QPnBGQdYu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857723624758669692",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1660,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "又在刷色推物色坏妹妹调教你吗哥哥~?\n别挑了就我吧🩷\n想要哥哥捧着金币来送死哦♡爆不出金币的垃圾~就对着人家推文撸死算了♡\n如果哥哥真喜欢祈莉~那就应该不管祈莉变成什么样~都无条件喜欢我哦❤️就算被祈莉吸血虐死~也要心甘情愿接受呐💛\n#文援 #压榨 #绿茶 #贡奴 #白给 #喷金 https://t.co/1QPnBGQdYu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "超绝可爱💖\n她就是出道即巅峰的可爱纯真小天使新人偶像魔女小姐💖\n对这样的魔女小姐不能心怀任何涩涩的念想哦，不然就会变得非常糟糕...踏入无法挣脱的陷阱和牢笼里呢💘\n魔女小姐无论说什么做什么都是正确的哦，身为她的粉丝，只需要无条件用各种方式支持她就好了～\nqq2829556413，碎碎念小号@oricz233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 154,
+                "start": 145,
+                "username": "oricz233"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "name": "电波系新人偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854618482215911424/R3TTJuCj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5903,
+          "following_count": 233,
+          "like_count": 191,
+          "listed_count": 25,
+          "tweet_count": 1355
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-09T07:25:06.000Z",
+        "description": "女S一枚♡喜欢调教贱狗早泄♡管理白痴狗狗寸止和高潮♡\n绿茶💚黑心🖤三年文援~更喜欢接受被压榨喜欢自毁的小狗狗♡无门槛，喜欢我务必点点关注爱心~\n⚠️新门牌:1725218154⚠️❤️妈咪~@sanwwww04",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 95,
+                "username": "sanwwww04"
+              }
+            ]
+          }
+        },
+        "id": "1777598492124532736",
+        "location": "Tokyo",
+        "name": "祈莉à",
+        "pinned_tweet_id": "1850881152502137211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856665555744493568/VaY_XOuG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1336,
+          "following_count": 20,
+          "like_count": 77,
+          "listed_count": 4,
+          "tweet_count": 65
+        },
+        "username": "Qilicc",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "2004462289492250996",
+    "created_at": "2025-12-26T08:00:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-26T09:00:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004462289492250996"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1914169172260724736",
+          "start": 3,
+          "username": "loveqiran"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004462289492250996",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 31
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004198125440016781",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @loveqiran: 圣诞快乐哦♡呼…已经生锈的猪脑里……完全想不到把什么当做圣诞礼物送给野爹祖宗们了呢……呼❤️哼哧…哈❤️~~既然如此……贱屄媚屌下贱婊子母猪……噫♡噫❤️哈♡~~嘶哈……只能♡只能把自己交出来♡供亲爹祖宗们享受使用了把♡~呼……噫♡~~~噫❤️噢噢…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2004462289492250996].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2004462289492250996",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2004462289492250996"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2004198101486391298",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9BXjfqb0AIqTpf.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004198101486391298"
+          ]
+        },
+        "author_id": "1914169172260724736",
+        "conversation_id": "2004198125440016781",
+        "created_at": "2025-12-25T14:30:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T15:30:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004198125440016781"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mYycXFxH5M",
+              "end": 172,
+              "expanded_url": "https://x.com/loveqiran/status/2004198125440016781/photo/1",
+              "media_key": "3_2004198101486391298",
+              "start": 149,
+              "url": "https://t.co/mYycXFxH5M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004198125440016781",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "圣诞快乐哦♡呼…已经生锈的猪脑里……完全想不到把什么当做圣诞礼物送给野爹祖宗们了呢……呼❤️哼哧…哈❤️~~既然如此……贱屄媚屌下贱婊子母猪……噫♡噫❤️哈♡~~嘶哈……只能♡只能把自己交出来♡供亲爹祖宗们享受使用了把♡~呼……噫♡~~~噫❤️噢噢噢♡（餐桌上秀色可餐的肥乳雌畜母猪被礼带五花大绑捆成淫靡低贱的肉畜形状固定在原位♡~浑身赤裸着打开骚屄门口一开一合溢出黏腻清香涎液滋润穴口~浑身上下完全充当起被野爹玩弄享用的食物佩戴圣诞帽~美眸下妖艳迷离的深情与泛起熟韵的反差母婊脸颊一唱一和搭配在一起♡~引的野爹们食旨大开♡肥厚淫乳一对深不见底沟壑间恰巧还夹着酸甜可口草莓蛋糕~用来给野爹们涂抹解腻）噫♡不管…不管怎样使用母婊柒䰯♡~唔啊♡哈……哈❤️噢噢~齁♡♡都……都可以的♡都没问题的♡嘶哈……噫！"
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 4502,
+          "like_count": 128,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "圣诞快乐哦♡呼…已经生锈的猪脑里……完全想不到把什么当做圣诞礼物送给野爹祖宗们了呢……呼❤️哼哧…哈❤️~~既然如此……贱屄媚屌下贱婊子母猪……噫♡噫❤️哈♡~~嘶哈……只能♡只能把自己交出来♡供亲爹祖宗们享受使用了把♡~呼……噫♡~~~噫❤️噢噢噢♡（餐桌上秀色可餐的肥乳雌畜母猪被礼带五花大绑 https://t.co/mYycXFxH5M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🖤\n最最最最喜欢钱包们啦～\n联系方式→2829556413←\n病毒小号@oricz233\n现任魔女学园院长!\n星辰魔女镜璃\n@jingli1840489\n桃心魔女奈奈\n@blakexiaonai\n 黑白魔女花卷\n@miaomiaomi17630",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 49,
+                "username": "oricz233"
+              },
+              {
+                "end": 90,
+                "start": 76,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 111,
+                "start": 98,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 136,
+                "start": 120,
+                "username": "miaomiaomi17630"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARosxSy"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🖤魔女学园院长版～",
+        "pinned_tweet_id": "1976743806063063398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003754231543562240/7Kw6lKLr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8088,
+          "following_count": 336,
+          "like_count": 648,
+          "listed_count": 37,
+          "media_count": 767,
+          "tweet_count": 2387
+        },
+        "url": "https://t.co/le8ARosxSy",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-21T04:08:08.000Z",
+        "description": "母婊丧志文媛姬♡xp全能主推m，亲爹胯下无脑跪舔肉棒的丧志母婊淫畜贱屄母人，马脸阿黑颜骚屄婊子，碰到阳痿小鸡巴废物贱狗无情爆耍羞辱~出轨羞辱小鸡巴男友的绝佳红尘恋人~接单时间：中午一点到凌晨四点\n文字60/h   \n门牌:3259563015/2010380292 (小号)\n电报@qiranlove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 150,
+                "start": 140,
+                "username": "qiranlove"
+              }
+            ]
+          }
+        },
+        "id": "1914169172260724736",
+        "location": "野爹跨下",
+        "name": "人偶肉畜柒䰯（互）",
+        "pinned_tweet_id": "2002284530967666987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999713360519340032/bjM0nD2X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 883,
+          "following_count": 69,
+          "like_count": 155,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 93
+        },
+        "username": "loveqiran",
+        "verified": true
+      }
+    ]
+  }
+}

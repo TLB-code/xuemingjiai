@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1923168477596221440"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "1923164975297646716",
+    "created_at": "2025-05-16T00:07:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-16T01:07:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923168480779473140"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pt2XdujqGk",
+          "end": 168,
+          "expanded_url": "https://x.com/xuemingjiai/status/1923168480779473140/photo/1",
+          "media_key": "3_1923168477596221440",
+          "start": 145,
+          "url": "https://t.co/pt2XdujqGk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923168480779473140",
+    "in_reply_to_user_id": "1374389254726455305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923166926269768023",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "剥夺呼吸+禁止触碰+死亡倒计时\n真的会爽得虫虫们本就不充裕的大脑颅内损伤吗？本公主可是完全不懂呢💜\n不过虫虫就是虫虫，“一不小心”踩爆了玩坏了弄死了换一只不就好了～反正下贱的虫虫们多得就和沙滩上的沙子一样取之不尽用之不竭呢，你说对吧🖤\n银行卡清空的金额会是多少呢？\n好奇吗？自己来试试咯～ https://t.co/pt2XdujqGk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2094,
+        "media_key": "3_1923168477596221440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrB3in5aAAA4CUB.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1874,
+        "media_key": "3_1923166923199741952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrB2IJUaAAA27e7.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1923168477596221440"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "1923164975297646716",
+        "created_at": "2025-05-16T00:07:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-16T01:07:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923168480779473140"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pt2XdujqGk",
+              "end": 168,
+              "expanded_url": "https://x.com/xuemingjiai/status/1923168480779473140/photo/1",
+              "media_key": "3_1923168477596221440",
+              "start": 145,
+              "url": "https://t.co/pt2XdujqGk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923168480779473140",
+        "in_reply_to_user_id": "1374389254726455305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923166926269768023",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "剥夺呼吸+禁止触碰+死亡倒计时\n真的会爽得虫虫们本就不充裕的大脑颅内损伤吗？本公主可是完全不懂呢💜\n不过虫虫就是虫虫，“一不小心”踩爆了玩坏了弄死了换一只不就好了～反正下贱的虫虫们多得就和沙滩上的沙子一样取之不尽用之不竭呢，你说对吧🖤\n银行卡清空的金额会是多少呢？\n好奇吗？自己来试试咯～ https://t.co/pt2XdujqGk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1923166923199741952"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1923164975297646716",
+        "created_at": "2025-05-16T00:01:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-16T01:01:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923166926269768023"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1hGLFmIGp5",
+              "end": 172,
+              "expanded_url": "https://x.com/xuemingjiai/status/1923166926269768023/photo/1",
+              "media_key": "3_1923166923199741952",
+              "start": 149,
+              "url": "https://t.co/1hGLFmIGp5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923166926269768023",
+        "in_reply_to_user_id": "1374389254726455305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923164975297646716",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想钻进什么里面窒息～?\n本公主就破例撒一些诱饵给各位正硬着操控杆阅读推文的虫虫们当福利咯～\n“足底”\n“鞋底”\n“屁股”\n“乳沟”\n虫虫们看见这些词语就足够颅内高潮了吧，手，禁止触碰🖤\n想体验和这只虫虫一样的快感吗，送死真的很爽吗？\n不。\n只是因为给本公主送死很爽罢了💜\n你也想死在本公主手上吗～ https://t.co/1hGLFmIGp5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "集美貌，智慧，强大于一身的魔女族公主现身人世～区区人类，跪下向我表示臣服吧💜\n被我支配 控制 吸脑 成为奴仆💜\n挑战qq242184780，里世界小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858\n女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "oricz233"
+              },
+              {
+                "end": 104,
+                "start": 95,
+                "username": "moelipoi"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "cutelingli"
+              },
+              {
+                "end": 144,
+                "start": 129,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 155,
+                "start": 148,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏💜强势登场人间",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923161284247420929/dv1s2unV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6867,
+          "following_count": 282,
+          "like_count": 310,
+          "listed_count": 30,
+          "media_count": 607,
+          "tweet_count": 1790
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

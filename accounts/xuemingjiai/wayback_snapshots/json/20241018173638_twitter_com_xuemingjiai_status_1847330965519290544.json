@@ -1,0 +1,128 @@
+{
+  "data": {
+    "author_id": "1374389254726455305",
+    "conversation_id": "1847330965519290544",
+    "created_at": "2024-10-18T17:36:38.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-18T18:36:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1847330965519290544"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1801097273428078592",
+          "start": 3,
+          "username": "WuWan0404"
+        }
+      ]
+    },
+    "id": "1847330965519290544",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "1846213300969001291",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @WuWan0404: m向问卷出售哦❤️\n新问卷：狗奴调查测试问卷🖤\n该问卷略重口，包含胁迫🖤，绿帽💚，马赛克榨等内容，不要被雾婉大人彻底洗脑成下贱狗奴了哦~\n（新问卷售价40r，傻逼特供60r，内容相同🖤）\n老问卷：\n贡奴测试（黑心版）：50r\n胁迫契约：30r（傻逼…"
+  },
+  "includes": {
+    "tweets": [],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "您好～这里是出道以来一直致力于为小雏男哥哥们提供“舒适”“安全”“极致快感”的纯真妹系小天使魔女妹妹💚\n想了解我请翻看我的推文～\nqq2829556413，碎碎念小号@oricz233\n共同出道的偶像老婆：@moeliQWQ\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 83,
+                "username": "oricz233"
+              },
+              {
+                "end": 112,
+                "start": 103,
+                "username": "moeliQWQ"
+              },
+              {
+                "end": 130,
+                "start": 119,
+                "username": "cutelingli"
+              },
+              {
+                "end": 152,
+                "start": 137,
+                "username": "chessy80978858"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系天使偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862768210711392256/_qeQwE-8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6165,
+          "following_count": 238,
+          "like_count": 223,
+          "listed_count": 26,
+          "media_count": 511,
+          "tweet_count": 1393
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-13T03:40:53.000Z",
+        "description": "大号不知道为什么被封了，总之这里是雾婉2.0❤️/欢迎各位傻逼来送死哦/q门槛30r/在线时间白天不定期在线，晚上21点~1点",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "app.unifans.io/c/wuwansama",
+                "end": 23,
+                "expanded_url": "https://app.unifans.io/c/wuwansama",
+                "start": 0,
+                "url": "https://t.co/3mv1ukvnl9"
+              }
+            ]
+          }
+        },
+        "id": "1801097273428078592",
+        "name": "雾婉（互推）",
+        "pinned_tweet_id": "1860571071839379676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856604042446921728/j2iVjIFE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 797,
+          "following_count": 27,
+          "like_count": 153,
+          "listed_count": 2,
+          "media_count": 29,
+          "tweet_count": 281
+        },
+        "url": "https://t.co/3mv1ukvnl9",
+        "username": "WuWan0404",
+        "verified": false
+      }
+    ]
+  }
+}

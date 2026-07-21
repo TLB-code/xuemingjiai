@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1884977201852129280",
+        "3_1884977201864753152",
+        "3_1884977201852166144"
+      ],
+      "media_source_tweet_id": [
+        "1884977213650747495",
+        "1884977213650747495",
+        "1884977213650747495"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1887180202465460474",
+    "created_at": "2025-02-05T16:43:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-05T17:43:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887180202465460474"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 58,
+          "start": 51,
+          "tag": "findom"
+        },
+        {
+          "end": 62,
+          "start": 59,
+          "tag": "文爱"
+        },
+        {
+          "end": 66,
+          "start": 63,
+          "tag": "恋足"
+        },
+        {
+          "end": 70,
+          "start": 67,
+          "tag": "抖m"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1209517407544446977",
+          "start": 3,
+          "username": "1Xian1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Sv3DlWP5U9",
+          "end": 94,
+          "expanded_url": "https://x.com/1Xian1/status/1884977213650747495/photo/1",
+          "media_key": "3_1884977201852129280",
+          "start": 71,
+          "url": "https://t.co/Sv3DlWP5U9"
+        },
+        {
+          "display_url": "pic.x.com/Sv3DlWP5U9",
+          "end": 94,
+          "expanded_url": "https://x.com/1Xian1/status/1884977213650747495/photo/1",
+          "media_key": "3_1884977201864753152",
+          "start": 71,
+          "url": "https://t.co/Sv3DlWP5U9"
+        },
+        {
+          "display_url": "pic.x.com/Sv3DlWP5U9",
+          "end": 94,
+          "expanded_url": "https://x.com/1Xian1/status/1884977213650747495/photo/1",
+          "media_key": "3_1884977201852166144",
+          "start": 71,
+          "url": "https://t.co/Sv3DlWP5U9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887180202465460474",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884977213650747495",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @1Xian1: 姑且算是个特殊的自我介绍吧～私信免费，而且一定会回复哦，先来聊一聊也没问题～\n#findom #文爱 #恋足 #抖m https://t.co/Sv3DlWP5U9"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1887180202465460474].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1887180202465460474",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1887180202465460474"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 777,
+        "media_key": "3_1884977201852129280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GijIxy4bIAAAv2J.jpg",
+        "width": 1100
+      },
+      {
+        "height": 1216,
+        "media_key": "3_1884977201864753152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GijIxy7bwAAbEP8.jpg",
+        "width": 832
+      },
+      {
+        "height": 1216,
+        "media_key": "3_1884977201852166144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GijIxy4bsAArdCU.jpg",
+        "width": 832
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1884977201852129280",
+            "3_1884977201864753152",
+            "3_1884977201852166144"
+          ]
+        },
+        "author_id": "1209517407544446977",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1884977213650747495",
+        "created_at": "2025-01-30T14:49:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T15:49:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884977213650747495"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 46,
+              "start": 39,
+              "tag": "findom"
+            },
+            {
+              "end": 50,
+              "start": 47,
+              "tag": "文爱"
+            },
+            {
+              "end": 54,
+              "start": 51,
+              "tag": "恋足"
+            },
+            {
+              "end": 58,
+              "start": 55,
+              "tag": "抖m"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Sv3DlWP5U9",
+              "end": 82,
+              "expanded_url": "https://x.com/1Xian1/status/1884977213650747495/photo/1",
+              "media_key": "3_1884977201852129280",
+              "start": 59,
+              "url": "https://t.co/Sv3DlWP5U9"
+            },
+            {
+              "display_url": "pic.x.com/Sv3DlWP5U9",
+              "end": 82,
+              "expanded_url": "https://x.com/1Xian1/status/1884977213650747495/photo/1",
+              "media_key": "3_1884977201864753152",
+              "start": 59,
+              "url": "https://t.co/Sv3DlWP5U9"
+            },
+            {
+              "display_url": "pic.x.com/Sv3DlWP5U9",
+              "end": 82,
+              "expanded_url": "https://x.com/1Xian1/status/1884977213650747495/photo/1",
+              "media_key": "3_1884977201852166144",
+              "start": 59,
+              "url": "https://t.co/Sv3DlWP5U9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884977213650747495",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 2229,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "姑且算是个特殊的自我介绍吧～私信免费，而且一定会回复哦，先来聊一聊也没问题～\n#findom #文爱 #恋足 #抖m https://t.co/Sv3DlWP5U9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "您好～这里是出道以来一直致力于为小雏男哥哥们提供“舒适”“安全”“极致射金体验”的纯真妹系小天使魔女妹妹💚\n想了解我请翻看我的推文～\nqq2829556413，碎碎念小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 85,
+                "username": "oricz233"
+              },
+              {
+                "end": 114,
+                "start": 105,
+                "username": "moelipoi"
+              },
+              {
+                "end": 132,
+                "start": 121,
+                "username": "cutelingli"
+              },
+              {
+                "end": 154,
+                "start": 139,
+                "username": "chessy80978858"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系天使偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886796775446700032/CBetvufN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6416,
+          "following_count": 251,
+          "like_count": 291,
+          "listed_count": 29,
+          "media_count": 543,
+          "tweet_count": 1512
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-24T16:53:23.000Z",
+        "description": "普普通通男孩子，做一些马赛克色图+文字。想找我玩直接私信就好～只要发私信一定会回复的哦，聊聊天也可以呀～",
+        "id": "1209517407544446977",
+        "location": "在你身边～",
+        "name": "xian",
+        "pinned_tweet_id": "1884977213650747495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1209517522329964546/cNcVReu2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 684,
+          "like_count": 1071,
+          "listed_count": 4,
+          "media_count": 17,
+          "tweet_count": 505
+        },
+        "username": "1Xian1",
+        "verified": false
+      }
+    ]
+  }
+}

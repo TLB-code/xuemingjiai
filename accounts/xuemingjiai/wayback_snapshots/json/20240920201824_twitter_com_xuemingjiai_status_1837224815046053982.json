@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1837224815046053982",
+    "created_at": "2024-09-20T20:18:24.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-20T21:18:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1837224815046053982"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1374389254726455305",
+          "start": 3,
+          "username": "xuemingjiai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837224815046053982",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837187130231251291",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xuemingjiai: 魔女小姐的万事屋\n相传，魔女小姐的粉丝群有一些与众不同～\n加入粉丝群的头像只能是二次元头像，作为魔女小姐的粉丝，可以在群里对魔女小姐进行“互动咨询”\n咨询的内容包括但不限于（魔女小姐我可以射精吗？魔女小姐我可以xxx吗）\n请让你的一举一动都通过…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "1837224815046053982",
+        "created_at": "2024-09-20T20:18:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-20T21:18:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837224815046053982"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1374389254726455305",
+              "start": 3,
+              "username": "xuemingjiai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837224815046053982",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837187130231251291",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xuemingjiai: 魔女小姐的万事屋\n相传，魔女小姐的粉丝群有一些与众不同～\n加入粉丝群的头像只能是二次元头像，作为魔女小姐的粉丝，可以在群里对魔女小姐进行“互动咨询”\n咨询的内容包括但不限于（魔女小姐我可以射精吗？魔女小姐我可以xxx吗）\n请让你的一举一动都通过…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1837187126590590984"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "1837187130231251291",
+        "created_at": "2024-09-20T17:48:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-20T18:48:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1837187130231251291"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/m48mlkbwho",
+              "end": 159,
+              "expanded_url": "https://twitter.com/xuemingjiai/status/1837187130231251291/photo/1",
+              "media_key": "3_1837187126590590984",
+              "start": 136,
+              "url": "https://t.co/M48MlKBwho"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837187130231251291",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 316,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "魔女小姐的万事屋\n相传，魔女小姐的粉丝群有一些与众不同～\n加入粉丝群的头像只能是二次元头像，作为魔女小姐的粉丝，可以在群里对魔女小姐进行“互动咨询”\n咨询的内容包括但不限于（魔女小姐我可以射精吗？魔女小姐我可以xxx吗）\n请让你的一举一动都通过询问魔女小姐，来获取答案💜 https://t.co/M48MlKBwho"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "超绝可爱💖\n她就是出道即巅峰的可爱纯真小天使新人偶像魔女小姐💖\n任何人都会被她散发出的魅力所捕获，对这样的魔女小姐不能心怀任何涩涩的念想哦，不然就会变得非常糟糕...踏入无法挣脱的陷阱和牢笼里呢💘\n魔女小姐无论说什么做什么都是正确的哦，身为她的粉丝，只需要无条件用各种方式支持她就好了～\nqq2829556413",
+        "id": "1374389254726455305",
+        "name": "电波系新人偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1804570562511126828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836438377702600704/CAqVvsCj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5373,
+          "following_count": 190,
+          "like_count": 150,
+          "listed_count": 23,
+          "tweet_count": 1066
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

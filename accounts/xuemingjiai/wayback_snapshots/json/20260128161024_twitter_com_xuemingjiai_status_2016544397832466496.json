@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2016544383152373760"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "2016544397832466496",
+    "created_at": "2026-01-28T16:10:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T17:10:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2016544397832466496"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xuemingjiai/st…",
+          "end": 36,
+          "expanded_url": "https://x.com/xuemingjiai/status/2015423219269074957",
+          "start": 13,
+          "url": "https://t.co/TQxsUybvqA"
+        },
+        {
+          "display_url": "pic.x.com/pjOWb9u9w7",
+          "end": 60,
+          "expanded_url": "https://x.com/xuemingjiai/status/2016544397832466496/photo/1",
+          "media_key": "3_2016544383152373760",
+          "start": 37,
+          "url": "https://t.co/pjOWb9u9w7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016544397832466496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015423219269074957",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "群被封了哦w 开了新群～\nhttps://t.co/TQxsUybvqA https://t.co/pjOWb9u9w7"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2016544397832466496].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2016544397832466496",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2016544397832466496"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2016544383152373760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_w0bq-bQAAlM7x.jpg",
+        "width": 1152
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2015423149446508544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_g4rR7bsAAljGL.jpg",
+        "width": 1072
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2015423162364919808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_g4sCDbAAAG6oa.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015423149446508544",
+            "3_2015423162364919808"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "2015423219269074957",
+        "created_at": "2026-01-25T13:55:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T14:55:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015423219269074957"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1ithLJVtnM",
+              "end": 170,
+              "expanded_url": "https://x.com/xuemingjiai/status/2015423219269074957/photo/1",
+              "media_key": "3_2015423149446508544",
+              "start": 147,
+              "url": "https://t.co/1ithLJVtnM"
+            },
+            {
+              "display_url": "pic.x.com/1ithLJVtnM",
+              "end": 170,
+              "expanded_url": "https://x.com/xuemingjiai/status/2015423219269074957/photo/1",
+              "media_key": "3_2015423162364919808",
+              "start": 147,
+              "url": "https://t.co/1ithLJVtnM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015423219269074957",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 5881,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "这是一个重制版企划～\n可以说是审判小屋和叠叠乐玩法的升级版吧\n当时可是非常火爆的～\n毕竟谁不喜欢只需要扫码就能对着本公主白给射金被当成白痴耍到高潮的感觉呢🤍\n如此“高效”“便捷”“急速”的流水线屠宰处刑被使用根本没有任何小钱包能抵抗得了吧？\n那么～全新的“自动化忏悔室”等待小钱包们来排队哦♪ https://t.co/1ithLJVtnM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🖤\n最最最最喜欢钱包们啦～\n联系方式→2829556413←\n病毒小号@oricz233\n现任魔女学园院长!\n星辰魔女镜璃\n@jingli1840489\n桃心魔女奈奈\n@blakexiaonai\n 黑白魔女花卷\n@miaomiaomi17630\n好老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 49,
+                "username": "oricz233"
+              },
+              {
+                "end": 90,
+                "start": 76,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 111,
+                "start": 98,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 136,
+                "start": 120,
+                "username": "miaomiaomi17630"
+              },
+              {
+                "end": 155,
+                "start": 140,
+                "username": "chessy80978858"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARosxSy"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🖤魔女学园院长版～",
+        "pinned_tweet_id": "2013314916120416537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012984933145276416/x6NCrC3__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8272,
+          "following_count": 351,
+          "like_count": 637,
+          "listed_count": 37,
+          "media_count": 794,
+          "tweet_count": 2128
+        },
+        "url": "https://t.co/le8ARosxSy",
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

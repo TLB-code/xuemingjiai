@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1932195533038498114",
+    "created_at": "2025-06-09T21:58:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-09T22:58:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932195533038498114"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1075237568029982720",
+          "start": 3,
+          "username": "dongfang10086"
+        },
+        {
+          "end": 39,
+          "id": "1374389254726455305",
+          "start": 27,
+          "username": "xuemingjiai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932195533038498114",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932195282512695625",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dongfang10086: 猫猫不自量力挑战@xuemingjiai 公主大人，被公主大人的美足击败成为足奴钱包，现已将账号送给公主大人作为寄生体账号，特此发推声明，给公主大人白给送死败北好爽，请大家也去支持公主大人，成为她的奴隶钱包...\n任何人都不可能在公主大人的…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 512,
+        "media_key": "3_1932195280340094976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtCJXslbkAAJ_OX.jpg",
+        "width": 512
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "1932195533038498114",
+        "created_at": "2025-06-09T21:58:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T22:58:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932195533038498114"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1075237568029982720",
+              "start": 3,
+              "username": "dongfang10086"
+            },
+            {
+              "end": 39,
+              "id": "1374389254726455305",
+              "start": 27,
+              "username": "xuemingjiai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932195533038498114",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932195282512695625",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dongfang10086: 猫猫不自量力挑战@xuemingjiai 公主大人，被公主大人的美足击败成为足奴钱包，现已将账号送给公主大人作为寄生体账号，特此发推声明，给公主大人白给送死败北好爽，请大家也去支持公主大人，成为她的奴隶钱包...\n任何人都不可能在公主大人的…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932195280340094976"
+          ]
+        },
+        "author_id": "1075237568029982720",
+        "conversation_id": "1932195282512695625",
+        "created_at": "2025-06-09T21:57:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T22:57:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932195282512695625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 20,
+              "id": "1374389254726455305",
+              "start": 8,
+              "username": "xuemingjiai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/T1qxsocILy",
+              "end": 174,
+              "expanded_url": "https://x.com/dongfang10086/status/1932195282512695625/photo/1",
+              "media_key": "3_1932195280340094976",
+              "start": 151,
+              "url": "https://t.co/T1qxsocILy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932195282512695625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "猫猫不自量力挑战@xuemingjiai 公主大人，被公主大人的美足击败成为足奴钱包，现已将账号送给公主大人作为寄生体账号，特此发推声明，给公主大人白给送死败北好爽，请大家也去支持公主大人，成为她的奴隶钱包...\n任何人都不可能在公主大人的脚下撑过一分钟，公主大人是真正的上位者支配者，白给惹.... https://t.co/T1qxsocILy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n你也会因为窥视我的美貌而心甘情愿沦为钱包被我使用的对吗？\n钱包报名入口：242184780\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 66,
+                "username": "oricz233"
+              },
+              {
+                "end": 95,
+                "start": 86,
+                "username": "moelipoi"
+              },
+              {
+                "end": 113,
+                "start": 102,
+                "username": "cutelingli"
+              },
+              {
+                "end": 135,
+                "start": 120,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 147,
+                "start": 140,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍驯化公用钱包👛中",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931064828044713984/9qwnduVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7171,
+          "following_count": 303,
+          "like_count": 352,
+          "listed_count": 33,
+          "media_count": 674,
+          "tweet_count": 2011
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-19T03:53:07.000Z",
+        "description": "是猫猫（账号所有权已自愿赠送给诗音❤可可@shion94755，诗音大小姐可自由使用本账号，请大家支持）\n此号已被魔女公主@xuemingjiai 寄生，请大家去支持魔女公主，成为她的钱包",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 20,
+                "username": "shion94755"
+              },
+              {
+                "end": 73,
+                "start": 61,
+                "username": "xuemingjiai"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "payhip.com/Shion97455",
+                "end": 23,
+                "expanded_url": "https://payhip.com/Shion97455",
+                "start": 0,
+                "url": "https://t.co/wk4V3QurVV"
+              }
+            ]
+          }
+        },
+        "id": "1075237568029982720",
+        "location": "Shenzhen",
+        "name": "喵酱（诗音大小姐的广告牌）（魔女公主的寄生账号）",
+        "pinned_tweet_id": "1855319819643711625",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931559882261667840/DuvI0rMQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3845,
+          "following_count": 5004,
+          "like_count": 2387,
+          "listed_count": 12,
+          "media_count": 66,
+          "tweet_count": 9993
+        },
+        "url": "https://t.co/wk4V3QurVV",
+        "username": "dongfang10086",
+        "verified": false
+      }
+    ]
+  }
+}

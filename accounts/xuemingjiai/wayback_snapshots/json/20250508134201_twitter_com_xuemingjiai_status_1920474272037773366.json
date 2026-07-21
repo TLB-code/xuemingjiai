@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1920474272037773366",
+    "created_at": "2025-05-08T13:42:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-08T14:42:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920474272037773366"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1312572317206159360",
+          "start": 3,
+          "username": "moelipoi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920474272037773366",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914655016167858604",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @moelipoi: 哦对……本大人可不能忘了定期制造危机感呢！比如突然宣布要休息一段时间，或者减少更新量，这会让他们焦虑不安，从而更加珍惜和依赖我呢^ ^！最后一个秘诀…～就是永远保持神秘感！让他们永远猜不透下一秒璃酱会说什么、做什么，这样才能保持新鲜感，让他们欲罢不能…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2105,
+        "media_key": "3_1914655013168930818",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpI4lxda4AIwmJN.jpg",
+        "width": 1488
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "1920474272037773366",
+        "created_at": "2025-05-08T13:42:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-08T14:42:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920474272037773366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1312572317206159360",
+              "start": 3,
+              "username": "moelipoi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920474272037773366",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914655016167858604",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @moelipoi: 哦对……本大人可不能忘了定期制造危机感呢！比如突然宣布要休息一段时间，或者减少更新量，这会让他们焦虑不安，从而更加珍惜和依赖我呢^ ^！最后一个秘诀…～就是永远保持神秘感！让他们永远猜不透下一秒璃酱会说什么、做什么，这样才能保持新鲜感，让他们欲罢不能…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1914655013168930818"
+          ]
+        },
+        "author_id": "1312572317206159360",
+        "conversation_id": "1914651192166326303",
+        "created_at": "2025-04-22T12:18:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T13:18:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914655016167858604"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WNXLq6FNqC",
+              "end": 160,
+              "expanded_url": "https://x.com/moelipoi/status/1914655016167858604/photo/1",
+              "media_key": "3_1914655013168930818",
+              "start": 137,
+              "url": "https://t.co/WNXLq6FNqC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914655016167858604",
+        "in_reply_to_user_id": "1312572317206159360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1534,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914654094851264530",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哦对……本大人可不能忘了定期制造危机感呢！比如突然宣布要休息一段时间，或者减少更新量，这会让他们焦虑不安，从而更加珍惜和依赖我呢^ ^！最后一个秘诀…～就是永远保持神秘感！让他们永远猜不透下一秒璃酱会说什么、做什么，这样才能保持新鲜感，让他们欲罢不能～完全被攻破心理防线🖤 https://t.co/WNXLq6FNqC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "您好～这里是一直致力于为小雏男哥哥们提供“舒适”“安全”“极致射金体验”的纯真妹系小天使魔女妹妹💚\n想更加了解请翻看推文～\nqq242184780，病毒小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858\n女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 78,
+                "username": "oricz233"
+              },
+              {
+                "end": 107,
+                "start": 98,
+                "username": "moelipoi"
+              },
+              {
+                "end": 125,
+                "start": 114,
+                "username": "cutelingli"
+              },
+              {
+                "end": 147,
+                "start": 132,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 158,
+                "start": 151,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系天使偶像魔女小姐💖女仆限定版♪",
+        "pinned_tweet_id": "1912930515570835816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909108552796651520/gRlgoaOf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6842,
+          "following_count": 280,
+          "like_count": 309,
+          "listed_count": 30,
+          "media_count": 592,
+          "tweet_count": 1649
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-04T01:57:08.000Z",
+        "description": "贵安~💖这里是主擅长恋足气味调教洗脑的全能系腹黑JK绿茶偶像璃酱💛|性癖无雷点 | 句段均可|爱好养公狗当宠物💜|貢ぎ奴隷送死欢迎🖤|把脑子无意识的交给偶像温柔的美夜月鏡中吧?💙\n门牌号:1912443435/3945774391丨只接受图文♡麻烦请先看置顶再敲门\n单推偶像:@xuemingjiai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 150,
+                "start": 138,
+                "username": "xuemingjiai"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/moeliqwq",
+                "end": 23,
+                "expanded_url": "http://t.me/moeliqwq",
+                "start": 0,
+                "url": "https://t.co/ttwGimBZ9H"
+              }
+            ]
+          }
+        },
+        "id": "1312572317206159360",
+        "location": "40/0.5h 75/h 全天营业丨不接M单",
+        "name": "璃酱♪詩月璃ぴょん ❀",
+        "pinned_tweet_id": "1911036147817681330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909065476900339712/VLbacfuO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7572,
+          "following_count": 146,
+          "like_count": 278,
+          "listed_count": 10,
+          "media_count": 187,
+          "tweet_count": 1192
+        },
+        "url": "https://t.co/ttwGimBZ9H",
+        "username": "moelipoi",
+        "verified": true
+      }
+    ]
+  }
+}

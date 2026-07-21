@@ -1,0 +1,451 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2040776649403424770",
+        "3_2040776681850544128",
+        "3_2040776649936138240",
+        "3_2040776681959608320"
+      ],
+      "media_source_tweet_id": [
+        "2040776689459081571",
+        "2040776689459081571",
+        "2040776689459081571",
+        "2040776689459081571"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2041306711559119232",
+    "created_at": "2026-04-07T00:07:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T01:07:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041306711559119232"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1912020341100339200",
+          "start": 3,
+          "username": "GaoGaoLove_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0U2bxPFmww",
+          "end": 56,
+          "expanded_url": "https://x.com/GaoGaoLove_/status/2040776689459081571/photo/1",
+          "media_key": "3_2040776649403424770",
+          "start": 33,
+          "url": "https://t.co/0U2bxPFmww"
+        },
+        {
+          "display_url": "pic.x.com/0U2bxPFmww",
+          "end": 56,
+          "expanded_url": "https://x.com/GaoGaoLove_/status/2040776689459081571/photo/1",
+          "media_key": "3_2040776681850544128",
+          "start": 33,
+          "url": "https://t.co/0U2bxPFmww"
+        },
+        {
+          "display_url": "pic.x.com/0U2bxPFmww",
+          "end": 56,
+          "expanded_url": "https://x.com/GaoGaoLove_/status/2040776689459081571/photo/1",
+          "media_key": "3_2040776649936138240",
+          "start": 33,
+          "url": "https://t.co/0U2bxPFmww"
+        },
+        {
+          "display_url": "pic.x.com/0U2bxPFmww",
+          "end": 56,
+          "expanded_url": "https://x.com/GaoGaoLove_/status/2040776689459081571/photo/1",
+          "media_key": "3_2040776681959608320",
+          "start": 33,
+          "url": "https://t.co/0U2bxPFmww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041306711559119232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040776689459081571",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GaoGaoLove_: 糕糕和老师的私人学习内容放送🖤 https://t.co/0U2bxPFmww"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "是学习了很久的老师…但是不知道为什么总在看着糕糕的鞋子…是糕糕的鞋子脏了吗",
+        "height": 1848,
+        "media_key": "3_2040776649403424770",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFJLjNWaYAIYDFw.jpg",
+        "width": 462
+      },
+      {
+        "alt_text": "这部分内容我还没学习过…如何筛选和确认白痴恋足癖…看样子老师就是这种人…感觉是可以得到有用的东西呐♡",
+        "height": 1664,
+        "media_key": "3_2040776681850544128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFJLlGOaIAAzBxw.jpg",
+        "width": 473
+      },
+      {
+        "alt_text": "老师好像是被说中了…居然开始有奇怪的反应了诶…但是还保持着这种好为人师高高在上的态度…内心是这样子反差的想法，好恶心…好想把老师踩在脚下呢♡",
+        "height": 2048,
+        "media_key": "3_2040776649936138240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFJLjPVa8AAPkD_.jpg",
+        "width": 394
+      },
+      {
+        "alt_text": "您也是老师么…那您也是脑残废物恋足白痴？那么…试一试被年下糕糕同学抓住揭开外表暴露本性轻轻踩在小皮鞋下碾死好么🖤",
+        "height": 1386,
+        "media_key": "3_2040776681959608320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFJLlGoaUAAzDPB.jpg",
+        "width": 460
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040776649403424770",
+            "3_2040776681850544128",
+            "3_2040776649936138240",
+            "3_2040776681959608320"
+          ],
+          "media_source_tweet_id": [
+            "2040776689459081571",
+            "2040776689459081571",
+            "2040776689459081571",
+            "2040776689459081571"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2041306711559119232",
+        "created_at": "2026-04-07T00:07:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T01:07:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041306711559119232"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1912020341100339200",
+              "start": 3,
+              "username": "GaoGaoLove_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0U2bxPFmww",
+              "end": 56,
+              "expanded_url": "https://x.com/GaoGaoLove_/status/2040776689459081571/photo/1",
+              "media_key": "3_2040776649403424770",
+              "start": 33,
+              "url": "https://t.co/0U2bxPFmww"
+            },
+            {
+              "display_url": "pic.x.com/0U2bxPFmww",
+              "end": 56,
+              "expanded_url": "https://x.com/GaoGaoLove_/status/2040776689459081571/photo/1",
+              "media_key": "3_2040776681850544128",
+              "start": 33,
+              "url": "https://t.co/0U2bxPFmww"
+            },
+            {
+              "display_url": "pic.x.com/0U2bxPFmww",
+              "end": 56,
+              "expanded_url": "https://x.com/GaoGaoLove_/status/2040776689459081571/photo/1",
+              "media_key": "3_2040776649936138240",
+              "start": 33,
+              "url": "https://t.co/0U2bxPFmww"
+            },
+            {
+              "display_url": "pic.x.com/0U2bxPFmww",
+              "end": 56,
+              "expanded_url": "https://x.com/GaoGaoLove_/status/2040776689459081571/photo/1",
+              "media_key": "3_2040776681959608320",
+              "start": 33,
+              "url": "https://t.co/0U2bxPFmww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041306711559119232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040776689459081571",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GaoGaoLove_: 糕糕和老师的私人学习内容放送🖤 https://t.co/0U2bxPFmww"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040776649403424770",
+            "3_2040776681850544128",
+            "3_2040776649936138240",
+            "3_2040776681959608320"
+          ]
+        },
+        "author_id": "1912020341100339200",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2040776689459081571",
+        "created_at": "2026-04-05T13:00:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T14:00:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040776689459081571"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0U2bxPFmww",
+              "end": 39,
+              "expanded_url": "https://x.com/GaoGaoLove_/status/2040776689459081571/photo/1",
+              "media_key": "3_2040776649403424770",
+              "start": 16,
+              "url": "https://t.co/0U2bxPFmww"
+            },
+            {
+              "display_url": "pic.x.com/0U2bxPFmww",
+              "end": 39,
+              "expanded_url": "https://x.com/GaoGaoLove_/status/2040776689459081571/photo/1",
+              "media_key": "3_2040776681850544128",
+              "start": 16,
+              "url": "https://t.co/0U2bxPFmww"
+            },
+            {
+              "display_url": "pic.x.com/0U2bxPFmww",
+              "end": 39,
+              "expanded_url": "https://x.com/GaoGaoLove_/status/2040776689459081571/photo/1",
+              "media_key": "3_2040776649936138240",
+              "start": 16,
+              "url": "https://t.co/0U2bxPFmww"
+            },
+            {
+              "display_url": "pic.x.com/0U2bxPFmww",
+              "end": 39,
+              "expanded_url": "https://x.com/GaoGaoLove_/status/2040776689459081571/photo/1",
+              "media_key": "3_2040776681959608320",
+              "start": 16,
+              "url": "https://t.co/0U2bxPFmww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040776689459081571",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 5688,
+          "like_count": 76,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "糕糕和老师的私人学习内容放送🖤 https://t.co/0U2bxPFmww"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会魅惑并享用钱包的公主殿下🤍\n最最最最喜欢钱包们啦～\n联系方式→2829556413←\n病毒小号@oricz233\n现任魔女学园院长!\n星辰魔女镜璃\n@jingli1840489\n桃心魔女奈奈\n@blakexiaonai\n 黑白魔女花卷\n@miaomiaomi17630\n好老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 52,
+                "username": "oricz233"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 114,
+                "start": 101,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 139,
+                "start": 123,
+                "username": "miaomiaomi17630"
+              },
+              {
+                "end": 158,
+                "start": 143,
+                "username": "chessy80978858"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "魅惑系魔女族公主-奏💜魔女学园院长版～",
+        "pinned_tweet_id": "2013314916120416537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018477066753306624/36q-3UGh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8627,
+          "following_count": 359,
+          "like_count": 633,
+          "listed_count": 36,
+          "media_count": 822,
+          "tweet_count": 2170
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-15T05:49:27.000Z",
+        "description": "这里是人设为邻家大姐姐的糕糕哦，平时会接待一些小可爱进行“上贡教学”❤️\n🚪20  私信随机掉落神秘数字♡\n小提示：更喜欢被叫姐姐喔♡  读心的姐姐@QingMian0819 严厉S弟弟：@aiyekong\n营业时间一般在八点到12点 不在这个时间段能也是苏醒形态。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 74,
+                "username": "QingMian0819"
+              },
+              {
+                "end": 103,
+                "start": 94,
+                "username": "aiyekong"
+              }
+            ]
+          }
+        },
+        "id": "1912020341100339200",
+        "location": "🖤黑心贡主培养所🖤",
+        "name": "巧克力糕🖤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040717224995131392/9_Xfm-3H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1448,
+          "following_count": 99,
+          "like_count": 5121,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 869
+        },
+        "username": "GaoGaoLove_",
+        "verified": false
+      }
+    ]
+  }
+}

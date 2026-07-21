@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "2003238239835202001",
+    "created_at": "2025-12-22T22:56:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T23:56:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003238239835202001"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1984115707815325698",
+          "start": 3,
+          "username": "jingli1840489"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003238239835202001",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002208440241058109",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jingli1840489: 可爱brat小锁奴宝宝晨间发情，主动挑衅镜璃妈咪主人，被诱导发情丧志♡，主动请求平板锁锁死废物唧唧，禁止勃起🖤\n大额榨金后诱导发情上头的小锁奴宝宝选择被❤️最喜欢的妈咪主人❤️关闭“临时开锁”功能残忍放置🖤\n在上厕所更加困难的痛苦中被放置持…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2003238239835202001].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2003238239835202001",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2003238239835202001"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 3473,
+        "media_key": "3_2002208399438852098",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8lF7l7bMAI84tQ.jpg",
+        "width": 948
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2002208411837157376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8lF8UHaUAAo_Jp.jpg",
+        "width": 871
+      },
+      {
+        "height": 3045,
+        "media_key": "3_2002208419445682181",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8lF8wdbMAU5DFt.jpg",
+        "width": 948
+      },
+      {
+        "height": 1692,
+        "media_key": "3_2002208427989491712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8lF9QSbYAAZ0fw.jpg",
+        "width": 1224
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002208399438852098",
+            "3_2002208411837157376",
+            "3_2002208419445682181",
+            "3_2002208427989491712"
+          ]
+        },
+        "author_id": "1984115707815325698",
+        "conversation_id": "2002208440241058109",
+        "created_at": "2025-12-20T02:44:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T03:44:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002208440241058109"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 128,
+              "start": 125,
+              "tag": "上贡"
+            },
+            {
+              "end": 132,
+              "start": 129,
+              "tag": "锁死"
+            },
+            {
+              "end": 138,
+              "start": 133,
+              "tag": "锁奴调教"
+            },
+            {
+              "end": 142,
+              "start": 139,
+              "tag": "调教"
+            },
+            {
+              "end": 146,
+              "start": 143,
+              "tag": "压榨"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LOMZFQ043E",
+              "end": 170,
+              "expanded_url": "https://x.com/jingli1840489/status/2002208440241058109/photo/1",
+              "media_key": "3_2002208399438852098",
+              "start": 147,
+              "url": "https://t.co/LOMZFQ043E"
+            },
+            {
+              "display_url": "pic.x.com/LOMZFQ043E",
+              "end": 170,
+              "expanded_url": "https://x.com/jingli1840489/status/2002208440241058109/photo/1",
+              "media_key": "3_2002208411837157376",
+              "start": 147,
+              "url": "https://t.co/LOMZFQ043E"
+            },
+            {
+              "display_url": "pic.x.com/LOMZFQ043E",
+              "end": 170,
+              "expanded_url": "https://x.com/jingli1840489/status/2002208440241058109/photo/1",
+              "media_key": "3_2002208419445682181",
+              "start": 147,
+              "url": "https://t.co/LOMZFQ043E"
+            },
+            {
+              "display_url": "pic.x.com/LOMZFQ043E",
+              "end": 170,
+              "expanded_url": "https://x.com/jingli1840489/status/2002208440241058109/photo/1",
+              "media_key": "3_2002208427989491712",
+              "start": 147,
+              "url": "https://t.co/LOMZFQ043E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002208440241058109",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3621,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "可爱brat小锁奴宝宝晨间发情，主动挑衅镜璃妈咪主人，被诱导发情丧志♡，主动请求平板锁锁死废物唧唧，禁止勃起🖤\n大额榨金后诱导发情上头的小锁奴宝宝选择被❤️最喜欢的妈咪主人❤️关闭“临时开锁”功能残忍放置🖤\n在上厕所更加困难的痛苦中被放置持续发情♡\n#上贡 #锁死 #锁奴调教 #调教 #压榨 https://t.co/LOMZFQ043E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🖤\n最最最最喜欢钱包们啦～\n最近在教导钱包们如何变得更加“堕落”“变态”“下流”\n联系方式→2829556413←\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 76,
+                "username": "oricz233"
+              },
+              {
+                "end": 105,
+                "start": 96,
+                "username": "moelipoi"
+              },
+              {
+                "end": 123,
+                "start": 112,
+                "username": "cutelingli"
+              },
+              {
+                "end": 145,
+                "start": 130,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 157,
+                "start": 150,
+                "username": "1xian1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🖤黑心背德感拉满版",
+        "pinned_tweet_id": "1976743806063063398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002052886289924096/qPezgnpX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8057,
+          "following_count": 331,
+          "like_count": 646,
+          "listed_count": 37,
+          "media_count": 764,
+          "tweet_count": 2375
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-31T04:31:00.000Z",
+        "description": "可以是温柔妈咪/可爱妹妹/知心姐姐~也可以是可怕残忍压榨主使用钱包哦🖤\n目前主要玩法：剧情文爱/黑心/绿茶/洗脑/榨金/寸止/催眠/模拟上贡/早泄挑战/贞操管理等💕\n门牌号：q3775591357，致力于让每位朋友都开开心心舒舒服服的喔❤️全天营业，深夜常驻，欢迎前来光顾哦~\n最可爱的奏奏：@xuemingjiai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 158,
+                "start": 146,
+                "username": "xuemingjiai"
+              }
+            ]
+          }
+        },
+        "id": "1984115707815325698",
+        "location": "镜璃的温暖小床~深夜也欢迎打扰哦~",
+        "name": "是镜璃喔~",
+        "pinned_tweet_id": "1993433669315486013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985515782550536192/bMHPg-lN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 646,
+          "following_count": 58,
+          "like_count": 131,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 87
+        },
+        "username": "jingli1840489",
+        "verified": false
+      }
+    ]
+  }
+}

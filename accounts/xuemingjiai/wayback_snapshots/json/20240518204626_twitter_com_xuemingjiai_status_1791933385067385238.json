@@ -1,0 +1,219 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1791933385067385238",
+    "created_at": "2024-05-18T20:46:26.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-18T21:46:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1791933385067385238"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 139,
+          "start": 136,
+          "tag": "文媛"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "879412678724247553",
+          "start": 3,
+          "username": "Charlotte_Lucif"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1791933385067385238",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1791890853545513032",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Charlotte_Lucif: 欢迎来找我下各种多人单呢 爱犯贱的傻逼们\n无论是各种媚外 胁迫 压榨 榨金都欢迎来找我下单呢 像你们这些只配看女神涂满马赛克意淫的贱狗\n能被我们一群女神榨干脑浆变成只会吐钱的ATM已经是奖励了吧\n毕竟傻逼们只配当我们脚下的ATM\n#文媛…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1791933385067385238].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1791933385067385238",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1791933385067385238"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1791890849061888000",
+            "3_1791890849888182272"
+          ]
+        },
+        "author_id": "879412678724247553",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1791890853545513032",
+        "created_at": "2024-05-18T17:57:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-18T18:57:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1791890853545513032"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 118,
+              "start": 115,
+              "tag": "文媛"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/2qC51GMAej",
+              "end": 176,
+              "expanded_url": "https://twitter.com/Charlotte_Lucif/status/1791890853545513032/photo/1",
+              "media_key": "3_1791890849061888000",
+              "start": 153,
+              "url": "https://t.co/2qC51GMAej"
+            },
+            {
+              "display_url": "pic.twitter.com/2qC51GMAej",
+              "end": 176,
+              "expanded_url": "https://twitter.com/Charlotte_Lucif/status/1791890853545513032/photo/1",
+              "media_key": "3_1791890849888182272",
+              "start": 153,
+              "url": "https://t.co/2qC51GMAej"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1791890853545513032",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1034,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "欢迎来找我下各种多人单呢 爱犯贱的傻逼们\n无论是各种媚外 胁迫 压榨 榨金都欢迎来找我下单呢 像你们这些只配看女神涂满马赛克意淫的贱狗\n能被我们一群女神榨干脑浆变成只会吐钱的ATM已经是奖励了吧\n毕竟傻逼们只配当我们脚下的ATM\n#文媛\n(也接树洞 贩售群榨纪录 编辑媚X图片 上贡帐号等 可看下置顶哦) https://t.co/2qC51GMAej"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "就如同推特名一样\n是传说中的网络美少女，在异世界中是名副其实的“魔女”💜\n对人类世界充满好奇，会用自己的一些方式来洗脑一些小雏男以满足自己的恶趣味，非常拜金💚征集人型钱包中..\n门牌是2829556413和2438028521（备用）\n请来送死~♡\n不涉三哦",
+        "id": "1374389254726455305",
+        "name": "请叫我魔女小姐💜（白纸计划上线中）",
+        "pinned_tweet_id": "1744800330448277998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790638369040711680/qE_AOavg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4810,
+          "following_count": 157,
+          "like_count": 141,
+          "listed_count": 22,
+          "tweet_count": 939
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-26T18:54:56.000Z",
+        "description": "24🖤🇹🇼Findom❤️病嬌抖S🖤喜歡玩弄踩廢早洩狗💚喜愛洗腦調教脅迫榨金\n門牌號:3786777028 15:00~5:00 门槛40 88 199 30min/40 \n寶貝姊姊:@shiguyueya @suyueyueyueyue\n支那母狗:@Cotyttia413\n台灣母狗:@XuanLoveBBC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 92,
+                "username": "shiguyueya"
+              },
+              {
+                "end": 119,
+                "start": 104,
+                "username": "suyueyueyueyue"
+              },
+              {
+                "end": 137,
+                "start": 125,
+                "username": "Cotyttia413"
+              },
+              {
+                "end": 155,
+                "start": 143,
+                "username": "XuanLoveBBC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/fallen_lucifer",
+                "end": 23,
+                "expanded_url": "https://www.patreon.com/fallen_lucifer",
+                "start": 0,
+                "url": "https://t.co/Wg6cAwP9CP"
+              }
+            ]
+          }
+        },
+        "id": "879412678724247553",
+        "location": "踩在你頭上",
+        "name": "Findom♠抖S🖤姬宮路西法✡️Fallen😈Lucifer✡️ | 2DFD",
+        "pinned_tweet_id": "1791224355680100414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789108556706537472/zGjWUlu5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9074,
+          "following_count": 176,
+          "like_count": 5594,
+          "listed_count": 40,
+          "tweet_count": 4225
+        },
+        "url": "https://t.co/Wg6cAwP9CP",
+        "username": "Charlotte_Lucif",
+        "verified": true
+      }
+    ]
+  }
+}

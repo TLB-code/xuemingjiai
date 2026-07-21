@@ -1,0 +1,189 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1804570785350352896"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "1804570562511126828",
+    "created_at": "2024-06-22T17:42:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-22T18:42:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1804570789636940021"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/Jbr0Zp53oB",
+          "end": 169,
+          "expanded_url": "https://twitter.com/xuemingjiai/status/1804570789636940021/photo/1",
+          "media_key": "3_1804570785350352896",
+          "start": 146,
+          "url": "https://t.co/Jbr0Zp53oB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1804570789636940021",
+    "in_reply_to_user_id": "1374389254726455305",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1804570718396658047",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "诶嘿💝\n帮助小雏男粉丝们解决欲望什么的，这样爆炸性的发言从可爱纯真偶像嘴里说出来也未免太过涩情了吧💜\n不行不行不行不行～💚\n这样的待遇只有彻底对上“电波”，签署粉丝守则，并且愿意为魔女小姐献出一切的“忠实粉丝”才能够得到的“奖励”哦\n那么，签署粉丝守则的同时，把钱包交出来吧，成为我的死忠🖤 https://t.co/Jbr0Zp53oB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1804570785350352896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GQsfkXjbAAABOEi.jpg",
+        "width": 1338
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1804570785350352896"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "1804570562511126828",
+        "created_at": "2024-06-22T17:42:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-22T18:42:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1804570789636940021"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/Jbr0Zp53oB",
+              "end": 169,
+              "expanded_url": "https://twitter.com/xuemingjiai/status/1804570789636940021/photo/1",
+              "media_key": "3_1804570785350352896",
+              "start": 146,
+              "url": "https://t.co/Jbr0Zp53oB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804570789636940021",
+        "in_reply_to_user_id": "1374389254726455305",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1804570718396658047",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "诶嘿💝\n帮助小雏男粉丝们解决欲望什么的，这样爆炸性的发言从可爱纯真偶像嘴里说出来也未免太过涩情了吧💜\n不行不行不行不行～💚\n这样的待遇只有彻底对上“电波”，签署粉丝守则，并且愿意为魔女小姐献出一切的“忠实粉丝”才能够得到的“奖励”哦\n那么，签署粉丝守则的同时，把钱包交出来吧，成为我的死忠🖤 https://t.co/Jbr0Zp53oB"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1804570715045421056"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "1804570562511126828",
+        "created_at": "2024-06-22T17:42:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-22T18:42:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1804570718396658047"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/Tj6ffN38wN",
+              "end": 167,
+              "expanded_url": "https://twitter.com/xuemingjiai/status/1804570718396658047/photo/1",
+              "media_key": "3_1804570715045421056",
+              "start": 144,
+              "url": "https://t.co/Tj6ffN38wN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804570718396658047",
+        "in_reply_to_user_id": "1374389254726455305",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1804570648267866581",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真是的..就那么迫不及待的想要成为偶像魔女小姐的玩具，狗奴什么的嘛！\n这是不可以的哦🚫🚫🚫\n因为魔女小姐是非常正常的偶像呢～\n而小雏男们则是会用各种方法支持魔女小姐的忠实粉丝呢💜\n话说回来～对上电波的粉丝们通常在这个时候裤子都会撑起来哦，不用紧张，魔女小姐会帮助听话的粉丝们解决性欲哦♪ https://t.co/Tj6ffN38wN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "超绝可爱💖\n她就是出道即巅峰的可爱纯真小天使新人偶像魔女小姐💖\n任何人都会被她散发出的魅力所捕获，对这样的魔女小姐不能心怀任何涩涩的念想哦，不然就会变得非常糟糕...踏入无法挣脱的陷阱和牢笼里呢💘\n魔女小姐无论说什么做什么都是正确的哦，身为她的粉丝，只需要无条件用各种方式支持她就好了～\nqq2829556413",
+        "id": "1374389254726455305",
+        "name": "电波系新人偶像💖魔女小姐参上（正能量爆表～）",
+        "pinned_tweet_id": "1798490016685195398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795799880021295104/Tsd4XdC9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4892,
+          "following_count": 174,
+          "like_count": 148,
+          "listed_count": 22,
+          "tweet_count": 991
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

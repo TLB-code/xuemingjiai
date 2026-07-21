@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1928093773541544219",
+    "created_at": "2025-05-29T14:19:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-29T15:19:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928093773541544219"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 27,
+          "start": 17,
+          "tag": "魔女公主的大型魔法"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1374389254726455305",
+          "start": 3,
+          "username": "xuemingjiai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928093773541544219",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927797142120239592",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xuemingjiai: #魔女公主的大型魔法\n随着对人类世界的深入了解～本公主发现还是太高估人类虫虫们了（特别是男性）都弱的可怜～根本不值得本公主单独去“虐杀”，那样子效率太低了💜\n所以从今天开始启动大型的“吸脑”“同化”魔法，方便本公主对屏幕面前的虫虫们进行统一管理…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1928093773541544219].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1928093773541544219",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1928093773541544219"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1927797138911809541",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsDpSK_aUAU1NfG.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1927797138911809541"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "1927797142120239592",
+        "created_at": "2025-05-28T18:40:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T19:40:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927797142120239592"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 0,
+              "tag": "魔女公主的大型魔法"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fTUQ6fmBYd",
+              "end": 168,
+              "expanded_url": "https://x.com/xuemingjiai/status/1927797142120239592/photo/1",
+              "media_key": "3_1927797138911809541",
+              "start": 145,
+              "url": "https://t.co/fTUQ6fmBYd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927797142120239592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 2659,
+          "like_count": 53,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "#魔女公主的大型魔法\n随着对人类世界的深入了解～本公主发现还是太高估人类虫虫们了（特别是男性）都弱的可怜～根本不值得本公主单独去“虐杀”，那样子效率太低了💜\n所以从今天开始启动大型的“吸脑”“同化”魔法，方便本公主对屏幕面前的虫虫们进行统一管理，屠宰～\n一天发布一项改造，今天是xp改造～ https://t.co/fTUQ6fmBYd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "集美貌，智慧，强大于一身的魔女族公主现身人世～区区人类，跪下向我表示臣服吧💜\n被我支配 控制 吸脑 成为奴仆💜\n挑战qq242184780，里世界小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858\n女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "oricz233"
+              },
+              {
+                "end": 104,
+                "start": 95,
+                "username": "moelipoi"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "cutelingli"
+              },
+              {
+                "end": 144,
+                "start": 129,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 155,
+                "start": 148,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏💜散播同化病毒中～",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926028406774247424/hWplRg7q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7034,
+          "following_count": 294,
+          "like_count": 326,
+          "listed_count": 32,
+          "media_count": 631,
+          "tweet_count": 1882
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

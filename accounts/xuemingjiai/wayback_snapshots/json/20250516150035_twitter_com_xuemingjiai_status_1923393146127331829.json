@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1923393146127331829",
+    "created_at": "2025-05-16T15:00:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-16T16:00:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923393146127331829"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 19,
+          "tag": "蔷蔷广告位"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1886672091241701378",
+          "start": 3,
+          "username": "hamimelon_ovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923393146127331829",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923302892188090465",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hamimelon_ovo: ＃蔷蔷广告位\n各位还未驯化的虫虫们好哦～\n这里是魔女公主♪\n嗯，接触过本公主的虫虫们对本公主的印象大致分为以下几类\n“一旦沾染上魔女公主人生就完蛋了，堪比吸d🖤”\n“千万不能抱着侥幸心理去挑战魔女公主，会光速败北白给的❤”\n“魔女公主太高贵…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1923302888534855680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrDxyXqaUAAWHMi.jpg",
+        "width": 1151
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "1923393146127331829",
+        "created_at": "2025-05-16T15:00:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-16T16:00:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923393146127331829"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 19,
+              "tag": "蔷蔷广告位"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1886672091241701378",
+              "start": 3,
+              "username": "hamimelon_ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923393146127331829",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923302892188090465",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hamimelon_ovo: ＃蔷蔷广告位\n各位还未驯化的虫虫们好哦～\n这里是魔女公主♪\n嗯，接触过本公主的虫虫们对本公主的印象大致分为以下几类\n“一旦沾染上魔女公主人生就完蛋了，堪比吸d🖤”\n“千万不能抱着侥幸心理去挑战魔女公主，会光速败北白给的❤”\n“魔女公主太高贵…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1923302888534855680"
+          ]
+        },
+        "author_id": "1886672091241701378",
+        "conversation_id": "1923302892188090465",
+        "created_at": "2025-05-16T09:01:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-16T10:01:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1923302892188090465"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "蔷蔷广告位"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MOKN88Sqqx",
+              "end": 169,
+              "expanded_url": "https://x.com/hamimelon_ovo/status/1923302892188090465/photo/1",
+              "media_key": "3_1923302888534855680",
+              "start": 146,
+              "url": "https://t.co/MOKN88Sqqx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923302892188090465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 0,
+                "tag": "蔷蔷广告位"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.com/xuemingjiai/st…",
+                "end": 312,
+                "expanded_url": "https://twitter.com/xuemingjiai/status/1922181265479913507?t=wxK64PNVWOtUfnm3T69dfA&s=19",
+                "start": 289,
+                "url": "https://t.co/FdBA7rxUyQ"
+              }
+            ]
+          },
+          "text": "＃蔷蔷广告位\n各位还未驯化的虫虫们好哦～\n这里是魔女公主♪\n嗯，接触过本公主的虫虫们对本公主的印象大致分为以下几类\n“一旦沾染上魔女公主人生就完蛋了，堪比吸d🖤”\n“千万不能抱着侥幸心理去挑战魔女公主，会光速败北白给的❤”\n“魔女公主太高贵了完全赢不了，会无条件背叛自己..成为她的傀儡💜”\n“魔女公主太可爱了只想被她诱骗pua到破产..💚”\n那么，自以为是的虫虫们看到上面的内容只会更加兴奋吧，毕竟怎么看都只是把虫虫们骗进来杀的陷阱呢～会踩进来吗？\n答案是会的～因为虫虫们生性下贱，会像飞蛾扑火一般前仆后继的来送死自毁自杀～\n那么，下面的链接，点进去，看完就再也回不去了哦🖤\nhttps://t.co/FdBA7rxUyQ"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 885,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "＃蔷蔷广告位\n各位还未驯化的虫虫们好哦～\n这里是魔女公主♪\n嗯，接触过本公主的虫虫们对本公主的印象大致分为以下几类\n“一旦沾染上魔女公主人生就完蛋了，堪比吸d🖤”\n“千万不能抱着侥幸心理去挑战魔女公主，会光速败北白给的❤”\n“魔女公主太高贵了完全赢不了，会无条件背叛自己..成为她的傀儡💜” https://t.co/MOKN88Sqqx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "集美貌，智慧，强大于一身的魔女族公主现身人世～区区人类，跪下向我表示臣服吧💜\n被我支配 控制 吸脑 成为奴仆💜\n挑战qq242184780，里世界小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858\n女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "oricz233"
+              },
+              {
+                "end": 104,
+                "start": 95,
+                "username": "moelipoi"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "cutelingli"
+              },
+              {
+                "end": 144,
+                "start": 129,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 155,
+                "start": 148,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏💜强势登场人间",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923161284247420929/dv1s2unV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6879,
+          "following_count": 283,
+          "like_count": 311,
+          "listed_count": 30,
+          "media_count": 608,
+          "tweet_count": 1802
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-04T07:04:57.000Z",
+        "description": "各位贵安~这里是文援墙，聚合所有喜爱文援和H的灵魂信念凝聚而成。首先声明!不许调戏蔷蔷!蔷蔷项目菜单一【文援运营咨询】【文援征集悬赏】 【挂人板】【定制文】【文援收款代收】给蔷蔷发的悬赏单请截图告知蔷蔷联系热线2375565349赞助、打赏私戳咱吧w",
+        "id": "1886672091241701378",
+        "name": "文援墙",
+        "pinned_tweet_id": "1897219692991012887",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886678395649712134/LoxP2ald_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2036,
+          "following_count": 54,
+          "like_count": 21,
+          "listed_count": 5,
+          "media_count": 139,
+          "tweet_count": 425
+        },
+        "username": "hamimelon_ovo",
+        "verified": true
+      }
+    ]
+  }
+}

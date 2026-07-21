@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1931051672757027184",
+    "created_at": "2025-06-06T18:12:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-06T19:12:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931051672757027184"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "532280267",
+          "start": 3,
+          "username": "cmweidman"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931051672757027184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930933840148902277",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cmweidman: 最近没有礼貌的臭傻逼野狗好像有点儿多了呢💜麻烦在甩着你们恶心的狗屌来找祭月祖宗前先自己撸几发掂量掂量自己到底是个几斤几两💚狗鸡巴那么点儿大要求倒还真不少呢♡祭月女爹的好脸色只会给多金多财的大鸡巴真正男性，又没钱又没实力的死母渣滓郭楠还是老老实实和你…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1931051672757027184].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1931051672757027184",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1931051672757027184"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1930933820834152448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GswOFFubgAA-O_V.jpg",
+        "width": 1481
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930933820834152448"
+          ]
+        },
+        "author_id": "532280267",
+        "conversation_id": "1930933840148902277",
+        "created_at": "2025-06-06T10:24:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-06T11:24:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930933840148902277"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XRbQzhMGky",
+              "end": 164,
+              "expanded_url": "https://x.com/cmweidman/status/1930933840148902277/photo/1",
+              "media_key": "3_1930933820834152448",
+              "start": 141,
+              "url": "https://t.co/XRbQzhMGky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930933840148902277",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 379,
+                "start": 376,
+                "tag": "文爱"
+              },
+              {
+                "end": 383,
+                "start": 380,
+                "tag": "文媛"
+              },
+              {
+                "end": 387,
+                "start": 384,
+                "tag": "上贡"
+              },
+              {
+                "end": 391,
+                "start": 388,
+                "tag": "贡奴"
+              },
+              {
+                "end": 395,
+                "start": 392,
+                "tag": "黑心"
+              },
+              {
+                "end": 399,
+                "start": 396,
+                "tag": "调教"
+              },
+              {
+                "end": 403,
+                "start": 400,
+                "tag": "女S"
+              },
+              {
+                "end": 407,
+                "start": 404,
+                "tag": "女爹"
+              },
+              {
+                "end": 411,
+                "start": 408,
+                "tag": "亲妈"
+              },
+              {
+                "end": 415,
+                "start": 412,
+                "tag": "收奴"
+              },
+              {
+                "end": 420,
+                "start": 416,
+                "tag": "ATM"
+              }
+            ]
+          },
+          "text": "最近没有礼貌的臭傻逼野狗好像有点儿多了呢💜麻烦在甩着你们恶心的狗屌来找祭月祖宗前先自己撸几发掂量掂量自己到底是个几斤几两💚狗鸡巴那么点儿大要求倒还真不少呢♡祭月女爹的好脸色只会给多金多财的大鸡巴真正男性，又没钱又没实力的死母渣滓郭楠还是老老实实和你妈的骨灰盒龟缩在角落的臭老鼠洞里吧🖤每天就偷窥偷窥你祭月爹的推文捡捡地上你爹掉落的脚泥皮屑偷吃苟活供养你的臭死妈算咯~🖤与其当个只会躲起来撸屌的臭老鼠不如把攒着的积蓄一起上贡给祭月女爹🖤就算废物小屌不过关人美心善的祭月祖宗也会看在转账数额的面子上勉强赏你一个奢望的机会~🖤只是这被大金主扩张成贪欲不满的吞精淫穴不知道你的小屌子能撑住多久🖤放心~♡就算是死了祭月祖宗也会用做爱过后黏腻湿滑的焖臭爆酸油腻汗脚给你的狗脸盖上脚泥裹尸布，让你在你心心念念的祭月女爹的臭脚下幸福地当一条傻蛆死狗哦~♡傻逼~~🖤🖤🖤#文爱 #文媛 #上贡 #贡奴 #黑心 #调教 #女S #女爹 #亲妈 #收奴 #ATM"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 3893,
+          "like_count": 88,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "最近没有礼貌的臭傻逼野狗好像有点儿多了呢💜麻烦在甩着你们恶心的狗屌来找祭月祖宗前先自己撸几发掂量掂量自己到底是个几斤几两💚狗鸡巴那么点儿大要求倒还真不少呢♡祭月女爹的好脸色只会给多金多财的大鸡巴真正男性，又没钱又没实力的死母渣滓郭楠还是老老实实和你妈的骨灰盒龟缩在角落的臭老鼠洞里 https://t.co/XRbQzhMGky"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n你也会因为窥视我的美貌而心甘情愿沦为钱包被我使用的对吗？\n钱包报名入口：242184780\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 66,
+                "username": "oricz233"
+              },
+              {
+                "end": 95,
+                "start": 86,
+                "username": "moelipoi"
+              },
+              {
+                "end": 113,
+                "start": 102,
+                "username": "cutelingli"
+              },
+              {
+                "end": 135,
+                "start": 120,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 147,
+                "start": 140,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍瞄准钱包👛中",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931052690039250944/lERClEyE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7135,
+          "following_count": 297,
+          "like_count": 341,
+          "listed_count": 33,
+          "media_count": 652,
+          "tweet_count": 1938
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2012-03-21T14:41:16.000Z",
+        "description": "储臭奴的高贵长靴女爹/丝足极致淫臭榨干一切媚雌傻逼的价值/爆耍处男主动送死肉棒的同时将靴臭强行灌脑并改造为极度恋臭的丧脑垃圾——贪婪 拜金 且胃口很大～🖤\n文调🖤┃丝足气味🖤┃绿龟舔狗🖤┃提款爆耍🖤┃寸止地狱🖤┃模拟女友🖤┃\n30r/0.5h 🚪2757411931\n礼貌的男孩子优先哦～ #文爱",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 148,
+                "start": 145,
+                "tag": "文爱"
+              }
+            ]
+          }
+        },
+        "id": "532280267",
+        "location": "和你有关系吗？",
+        "name": "🖤祭月Sama",
+        "pinned_tweet_id": "1823002702127009907",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821887105301110784/Coum-iF__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6548,
+          "following_count": 35,
+          "like_count": 36,
+          "listed_count": 19,
+          "media_count": 80,
+          "tweet_count": 198
+        },
+        "username": "cmweidman",
+        "verified": true
+      }
+    ]
+  }
+}

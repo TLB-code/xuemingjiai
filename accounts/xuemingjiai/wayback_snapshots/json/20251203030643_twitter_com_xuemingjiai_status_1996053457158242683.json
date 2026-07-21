@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1996031662946484234",
+        "3_1996031663147810816"
+      ],
+      "media_source_tweet_id": [
+        "1996031671066657156",
+        "1996031671066657156"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "1996053457158242683",
+    "created_at": "2025-12-03T03:06:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T04:06:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996053457158242683"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1959962732624519168",
+          "start": 3,
+          "username": "yuyu123qaz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nzasAMmeEB",
+          "end": 56,
+          "expanded_url": "https://x.com/yuyu123qaz/status/1996031671066657156/photo/1",
+          "media_key": "3_1996031662946484234",
+          "start": 33,
+          "url": "https://t.co/nzasAMmeEB"
+        },
+        {
+          "display_url": "pic.x.com/nzasAMmeEB",
+          "end": 56,
+          "expanded_url": "https://x.com/yuyu123qaz/status/1996031671066657156/photo/1",
+          "media_key": "3_1996031663147810816",
+          "start": 33,
+          "url": "https://t.co/nzasAMmeEB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996053457158242683",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996031671066657156",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuyu123qaz: 开销有点大，想要钱包👛过来回回血 https://t.co/nzasAMmeEB"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1996053457158242683].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1996053457158242683",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1996053457158242683"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1819,
+        "media_key": "3_1996031662946484234",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7NUONZbgAo3_CI.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1996031663147810816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7NUOOJbgAAGdtF.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996031662946484234",
+            "3_1996031663147810816"
+          ]
+        },
+        "author_id": "1959962732624519168",
+        "conversation_id": "1996031671066657156",
+        "created_at": "2025-12-03T01:40:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T02:40:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996031671066657156"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nzasAMmeEB",
+              "end": 40,
+              "expanded_url": "https://x.com/yuyu123qaz/status/1996031671066657156/photo/1",
+              "media_key": "3_1996031662946484234",
+              "start": 17,
+              "url": "https://t.co/nzasAMmeEB"
+            },
+            {
+              "display_url": "pic.x.com/nzasAMmeEB",
+              "end": 40,
+              "expanded_url": "https://x.com/yuyu123qaz/status/1996031671066657156/photo/1",
+              "media_key": "3_1996031663147810816",
+              "start": 17,
+              "url": "https://t.co/nzasAMmeEB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996031671066657156",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "开销有点大，想要钱包👛过来回回血 https://t.co/nzasAMmeEB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n最最最最喜欢钱包们啦!\n天天挨骂真的不会腻嘛～\n擅长用爱意和温柔的语气俘虏钱包～\n联系方式→242184780←\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 77,
+                "username": "oricz233"
+              },
+              {
+                "end": 106,
+                "start": 97,
+                "username": "moelipoi"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "cutelingli"
+              },
+              {
+                "end": 146,
+                "start": 131,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 158,
+                "start": 151,
+                "username": "1xian1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍对钱包们最温柔最有好感版",
+        "pinned_tweet_id": "1976743806063063398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991861278688821248/oCQEPeIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8005,
+          "following_count": 347,
+          "like_count": 642,
+          "listed_count": 36,
+          "media_count": 762,
+          "tweet_count": 2358
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-25T12:55:27.000Z",
+        "description": "男娘S，喜欢被叫姐姐♡门牌是这个：3657332395 或许你知道的，欢迎上门白给♥然后呢会更新一些关于贡畜小狗喜欢的文字或者小游戏，发情点击这个：https://t.co/u6XrkoaCE1下面是引力圈网址。以前的万粉号被封了",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "forms.office.com/r/eK1JPaCVqr",
+                "end": 97,
+                "expanded_url": "https://forms.office.com/r/eK1JPaCVqr",
+                "start": 74,
+                "url": "https://t.co/u6XrkoaCE1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "app.unifans.io/c/xiaolinyai",
+                "end": 23,
+                "expanded_url": "https://app.unifans.io/c/xiaolinyai",
+                "start": 0,
+                "url": "https://t.co/PvRFAMrkdq"
+              }
+            ]
+          }
+        },
+        "id": "1959962732624519168",
+        "location": "沾染上贡瘾可就是一辈子了",
+        "name": "阿瑜和琳琳",
+        "pinned_tweet_id": "1995484252805472269",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990001267205431296/xBGlGjEa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1221,
+          "following_count": 32,
+          "like_count": 66,
+          "listed_count": 2,
+          "media_count": 39,
+          "tweet_count": 70
+        },
+        "url": "https://t.co/PvRFAMrkdq",
+        "username": "yuyu123qaz",
+        "verified": true
+      }
+    ]
+  }
+}

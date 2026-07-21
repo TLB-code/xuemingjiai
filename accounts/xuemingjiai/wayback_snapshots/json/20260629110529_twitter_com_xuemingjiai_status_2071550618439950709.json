@@ -1,0 +1,400 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "2071550618439950709",
+    "created_at": "2026-06-29T11:05:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T12:05:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071550618439950709"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 104,
+          "start": 101,
+          "tag": "文媛"
+        },
+        {
+          "end": 108,
+          "start": 105,
+          "tag": "文游"
+        },
+        {
+          "end": 112,
+          "start": 109,
+          "tag": "问卷"
+        },
+        {
+          "end": 116,
+          "start": 113,
+          "tag": "妈妈"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2042978694424109056",
+          "start": 3,
+          "username": "ly6688001"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/3GU0LmSV",
+          "end": 139,
+          "start": 118,
+          "url": "https://t.co/3GU0LmSV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071550618439950709",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071180273069568085",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ly6688001: 莉雅妈妈知道哦~♥️\n每一个男孩子都想当小宝宝～♥️\n但总是怕害羞不敢表达~♥️\n没关系，今天就让莉雅妈妈来治愈你哦♥️\n点击下方问卷~♥️\n让莉雅妈妈好好疼爱你吧~♥️\n#文媛 #文游 #问卷 #妈妈 \nhttps://t.co/3GU0LmSV…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1472,
+        "media_key": "3_2071180268636127232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL5PexHawAAlfto.jpg",
+        "width": 1152
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2071180269961551872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL5Pe2DbIAAbj_t.jpg",
+        "width": 1216
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2071180267918888960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL5PeucakAAhJc4.jpg",
+        "width": 1216
+      },
+      {
+        "height": 1472,
+        "media_key": "3_2071180268606771200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL5PexAa0AAyIH2.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "2071550618439950709",
+        "created_at": "2026-06-29T11:05:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T12:05:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071550618439950709"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 104,
+              "start": 101,
+              "tag": "文媛"
+            },
+            {
+              "end": 108,
+              "start": 105,
+              "tag": "文游"
+            },
+            {
+              "end": 112,
+              "start": 109,
+              "tag": "问卷"
+            },
+            {
+              "end": 116,
+              "start": 113,
+              "tag": "妈妈"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2042978694424109056",
+              "start": 3,
+              "username": "ly6688001"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/3GU0LmSV",
+              "end": 139,
+              "start": 118,
+              "url": "https://t.co/3GU0LmSV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071550618439950709",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071180273069568085",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ly6688001: 莉雅妈妈知道哦~♥️\n每一个男孩子都想当小宝宝～♥️\n但总是怕害羞不敢表达~♥️\n没关系，今天就让莉雅妈妈来治愈你哦♥️\n点击下方问卷~♥️\n让莉雅妈妈好好疼爱你吧~♥️\n#文媛 #文游 #问卷 #妈妈 \nhttps://t.co/3GU0LmSV…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071180268636127232",
+            "3_2071180269961551872",
+            "3_2071180267918888960",
+            "3_2071180268606771200"
+          ]
+        },
+        "author_id": "2042978694424109056",
+        "conversation_id": "2071180273069568085",
+        "created_at": "2026-06-28T10:33:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T11:33:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071180273069568085"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 89,
+              "start": 86,
+              "tag": "文媛"
+            },
+            {
+              "end": 93,
+              "start": 90,
+              "tag": "文游"
+            },
+            {
+              "end": 97,
+              "start": 94,
+              "tag": "问卷"
+            },
+            {
+              "end": 101,
+              "start": 98,
+              "tag": "妈妈"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "forms.office.com/Pages/Response…",
+              "end": 126,
+              "expanded_url": "https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__QcMQ_FUME9ZSk1BSUpNMVdUUUg3S1VORzQzMkZFVy4u",
+              "images": [
+                {
+                  "height": 900,
+                  "url": "https://pbs.twimg.com/news_img/2071180277926551552/9PZBxkjt?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2071180277926551552/9PZBxkjt?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 103,
+              "status": 200,
+              "title": "Fill | 欢迎来到莉雅妈妈的幼儿园♥",
+              "unwound_url": "https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__QcMQ_FUME9ZSk1BSUpNMVdUUUg3S1VORzQzMkZFVy4u",
+              "url": "https://t.co/3GU0LmSVIr"
+            },
+            {
+              "display_url": "pic.x.com/GZgv3YaoHK",
+              "end": 150,
+              "expanded_url": "https://x.com/ly6688001/status/2071180273069568085/photo/1",
+              "media_key": "3_2071180268636127232",
+              "start": 127,
+              "url": "https://t.co/GZgv3YaoHK"
+            },
+            {
+              "display_url": "pic.x.com/GZgv3YaoHK",
+              "end": 150,
+              "expanded_url": "https://x.com/ly6688001/status/2071180273069568085/photo/1",
+              "media_key": "3_2071180269961551872",
+              "start": 127,
+              "url": "https://t.co/GZgv3YaoHK"
+            },
+            {
+              "display_url": "pic.x.com/GZgv3YaoHK",
+              "end": 150,
+              "expanded_url": "https://x.com/ly6688001/status/2071180273069568085/photo/1",
+              "media_key": "3_2071180267918888960",
+              "start": 127,
+              "url": "https://t.co/GZgv3YaoHK"
+            },
+            {
+              "display_url": "pic.x.com/GZgv3YaoHK",
+              "end": 150,
+              "expanded_url": "https://x.com/ly6688001/status/2071180273069568085/photo/1",
+              "media_key": "3_2071180268606771200",
+              "start": 127,
+              "url": "https://t.co/GZgv3YaoHK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071180273069568085",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 664,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "莉雅妈妈知道哦~♥️\n每一个男孩子都想当小宝宝～♥️\n但总是怕害羞不敢表达~♥️\n没关系，今天就让莉雅妈妈来治愈你哦♥️\n点击下方问卷~♥️\n让莉雅妈妈好好疼爱你吧~♥️\n#文媛 #文游 #问卷 #妈妈 \nhttps://t.co/3GU0LmSVIr https://t.co/GZgv3YaoHK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "你也觉得你面前的这只魔女可爱过头了吧？\n对的!她和别人不一样!\n邂逅方式→2829556413←↓\n242184780\n涩气内容@oricz233\n星辰魔女镜璃\n@jingli1840489\n桃心魔女奈奈\n@blakexiaonai\n 黑白魔女花卷\n@miaomiaomyoez2\n好老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 64,
+                "username": "oricz233"
+              },
+              {
+                "end": 95,
+                "start": 81,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 116,
+                "start": 103,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 140,
+                "start": 125,
+                "username": "miaomiaomyoez2"
+              },
+              {
+                "end": 159,
+                "start": 144,
+                "username": "chessy80978858"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "超可爱超绿茶超撩人的精灵魔女-奏奏💚",
+        "pinned_tweet_id": "2065914875877228650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068510619113066496/EjupQRp9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9183,
+          "following_count": 409,
+          "like_count": 667,
+          "listed_count": 39,
+          "media_count": 837,
+          "tweet_count": 2247
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-11T14:51:18.000Z",
+        "description": "全职的敬业魅魔❤️莉雅\n收费：70r/小时（图文）\n🚪：867648805  备用：1185837985\n时间：中午12:00～凌晨3:00\n设定：淫乱s御姐~人妻魅魔。\n擅长：绿奴淫妻~足控羞辱~地狱寸止~戒贡洗脑~雌堕调教~气味PUA~陪聊树洞 ，可包周包月",
+        "id": "2042978694424109056",
+        "location": "Singapore",
+        "name": "莉雅♥️魅魔文媛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042979250928783363/dptWEIca_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 71,
+          "like_count": 117,
+          "listed_count": 2,
+          "media_count": 21,
+          "tweet_count": 82
+        },
+        "url": "",
+        "username": "ly6688001",
+        "verified": false
+      }
+    ]
+  }
+}

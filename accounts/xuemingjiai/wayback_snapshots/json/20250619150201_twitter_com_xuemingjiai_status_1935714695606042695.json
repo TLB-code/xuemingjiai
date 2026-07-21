@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1935714695606042695",
+    "created_at": "2025-06-19T15:02:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-19T16:02:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935714695606042695"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 17,
+          "tag": "魔女公主的日常"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1374389254726455305",
+          "start": 3,
+          "username": "xuemingjiai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935714695606042695",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932188262531269031",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xuemingjiai: #魔女公主的日常\n身为钱包...你体验过被强制使用（强奸）的快感吗....?\n身为完美钱包使用者的本公主会不定期给予优质的钱包被本公主涩图加上高频的语言输出强制使用的待遇🤍\n这是听话的奖励...这是别的钱包未曾体验过的极致快感，这是能够彻底摧毁…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1935714695606042695].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1935714695606042695",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1935714695606042695"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1604,
+        "media_key": "3_1932188249814073344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtCC-d1aAAA3EXZ.jpg",
+        "width": 540
+      },
+      {
+        "height": 1333,
+        "media_key": "3_1932188252666249216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtCC-odawAAjMAH.jpg",
+        "width": 540
+      },
+      {
+        "height": 1370,
+        "media_key": "3_1932188256625672192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtCC-3NawAAR0fE.jpg",
+        "width": 540
+      },
+      {
+        "height": 1916,
+        "media_key": "3_1932188259649765376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtCC_CeawAATIbM.jpg",
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932188249814073344",
+            "3_1932188252666249216",
+            "3_1932188256625672192",
+            "3_1932188259649765376"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1932188262531269031",
+        "created_at": "2025-06-09T21:29:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T22:29:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932188262531269031"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "魔女公主的日常"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JFJpcg7bCk",
+              "end": 173,
+              "expanded_url": "https://x.com/xuemingjiai/status/1932188262531269031/photo/1",
+              "media_key": "3_1932188249814073344",
+              "start": 150,
+              "url": "https://t.co/JFJpcg7bCk"
+            },
+            {
+              "display_url": "pic.x.com/JFJpcg7bCk",
+              "end": 173,
+              "expanded_url": "https://x.com/xuemingjiai/status/1932188262531269031/photo/1",
+              "media_key": "3_1932188252666249216",
+              "start": 150,
+              "url": "https://t.co/JFJpcg7bCk"
+            },
+            {
+              "display_url": "pic.x.com/JFJpcg7bCk",
+              "end": 173,
+              "expanded_url": "https://x.com/xuemingjiai/status/1932188262531269031/photo/1",
+              "media_key": "3_1932188256625672192",
+              "start": 150,
+              "url": "https://t.co/JFJpcg7bCk"
+            },
+            {
+              "display_url": "pic.x.com/JFJpcg7bCk",
+              "end": 173,
+              "expanded_url": "https://x.com/xuemingjiai/status/1932188262531269031/photo/1",
+              "media_key": "3_1932188259649765376",
+              "start": 150,
+              "url": "https://t.co/JFJpcg7bCk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932188262531269031",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 9527,
+          "like_count": 55,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "#魔女公主的日常\n身为钱包...你体验过被强制使用（强奸）的快感吗....?\n身为完美钱包使用者的本公主会不定期给予优质的钱包被本公主涩图加上高频的语言输出强制使用的待遇🤍\n这是听话的奖励...这是别的钱包未曾体验过的极致快感，这是能够彻底摧毁大脑奖励机制的毒品...🤍\n你也想染上本公主的毒瘾吗？ https://t.co/JFJpcg7bCk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n你也会因为窥视我的美貌而心甘情愿沦为钱包被我使用的对吗？\n钱包报名入口：3971546171\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 67,
+                "username": "oricz233"
+              },
+              {
+                "end": 96,
+                "start": 87,
+                "username": "moelipoi"
+              },
+              {
+                "end": 114,
+                "start": 103,
+                "username": "cutelingli"
+              },
+              {
+                "end": 136,
+                "start": 121,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 148,
+                "start": 141,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍驯化公用钱包👛中",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931064828044713984/9qwnduVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7253,
+          "following_count": 310,
+          "like_count": 371,
+          "listed_count": 32,
+          "media_count": 692,
+          "tweet_count": 2110
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

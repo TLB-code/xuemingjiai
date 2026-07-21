@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1946073748819304738",
+    "created_at": "2025-07-18T05:05:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-18T06:05:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946073748819304738"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1845857393655402496",
+          "start": 3,
+          "username": "djjssn60129"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946073748819304738",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946004674999456098",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @djjssn60129: 刚开始只是想问个问题 最开始挺懵的（我本来就没有什么性癖）本sm群的群主误导了 我只是个想要个类似小说那种直接控制完全没有意识的那种催眠 就像主人格沉睡醒来的不是真正的自己 太累了就想好好放松一下（也可以说在逃避现实吧）因为那种洗脑什么的 我还…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1946073748819304738].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1946073748819304738",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1946073748819304738"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1946004658008248320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwGY7RPWUAAdBNb.jpg",
+        "width": 729
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946004658008248320"
+          ]
+        },
+        "author_id": "1845857393655402496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1946004674999456098",
+        "created_at": "2025-07-18T00:30:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T01:30:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946004674999456098"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qDjUTCqmul",
+              "end": 166,
+              "expanded_url": "https://x.com/djjssn60129/status/1946004674999456098/photo/1",
+              "media_key": "3_1946004658008248320",
+              "start": 143,
+              "url": "https://t.co/qDjUTCqmul"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946004674999456098",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刚开始只是想问个问题 最开始挺懵的（我本来就没有什么性癖）本sm群的群主误导了 我只是个想要个类似小说那种直接控制完全没有意识的那种催眠 就像主人格沉睡醒来的不是真正的自己 太累了就想好好放松一下（也可以说在逃避现实吧）因为那种洗脑什么的 我还以为真的像小说一样 结果只是语言改变认知 https://t.co/qDjUTCqmul"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n你也会因为窥视我的美貌而心甘情愿沦为钱包被我使用的对吗？\n钱包报名入口：3971546171\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 67,
+                "username": "oricz233"
+              },
+              {
+                "end": 96,
+                "start": 87,
+                "username": "moelipoi"
+              },
+              {
+                "end": 114,
+                "start": 103,
+                "username": "cutelingli"
+              },
+              {
+                "end": 136,
+                "start": 121,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 148,
+                "start": 141,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍大规模同化魔法展开中",
+        "pinned_tweet_id": "1945511067926536238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945176725190488064/8VBohPRs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7474,
+          "following_count": 322,
+          "like_count": 449,
+          "listed_count": 33,
+          "media_count": 706,
+          "tweet_count": 2170
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-14T16:01:23.000Z",
+        "description": "最爱的姐姐@xuemingjiai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 5,
+                "username": "xuemingjiai"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/xuemingjiai",
+                "end": 23,
+                "expanded_url": "http://x.com/xuemingjiai",
+                "start": 0,
+                "url": "https://t.co/uMLmmaTAPV"
+              }
+            ]
+          }
+        },
+        "id": "1845857393655402496",
+        "location": "奏奏大人的鞋底",
+        "name": "奏奏姐姐的小跟班",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945843169175699456/JBgO1xql_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 1,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 34
+        },
+        "url": "https://t.co/uMLmmaTAPV",
+        "username": "djjssn60129",
+        "verified": false
+      }
+    ]
+  }
+}

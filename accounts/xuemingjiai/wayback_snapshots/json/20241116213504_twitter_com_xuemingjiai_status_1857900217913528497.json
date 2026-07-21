@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1857900217913528497",
+    "created_at": "2024-11-16T21:35:04.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-16T22:35:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1857900217913528497"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 20,
+          "tag": "贱狗快来"
+        },
+        {
+          "end": 47,
+          "start": 44,
+          "tag": "冤种"
+        },
+        {
+          "end": 73,
+          "start": 70,
+          "tag": "贱狗"
+        },
+        {
+          "end": 115,
+          "start": 112,
+          "tag": "寸止"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1618704467242672128",
+          "start": 3,
+          "username": "shuishuishui_0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1857900217913528497",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "1856961287928054030",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shuishuishui_0: #贱狗快来\n\n没更新是因为出去玩了一趟，有没有 #冤种 报销差旅费呀🖤\n\n不更新的这段时间里有多少 #贱狗 看着雨露大人以前的推文发情呢🖤\n\n脑海里幻想着被人家调教，废物早泄小鸡吧被 #寸止 到极限也不允许释放🖤\n\n如果真有这样的废物贱畜…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "1857900217913528497",
+        "created_at": "2024-11-16T21:35:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-16T22:35:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1857900217913528497"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 20,
+              "tag": "贱狗快来"
+            },
+            {
+              "end": 47,
+              "start": 44,
+              "tag": "冤种"
+            },
+            {
+              "end": 73,
+              "start": 70,
+              "tag": "贱狗"
+            },
+            {
+              "end": 115,
+              "start": 112,
+              "tag": "寸止"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1618704467242672128",
+              "start": 3,
+              "username": "shuishuishui_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857900217913528497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "1856961287928054030",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shuishuishui_0: #贱狗快来\n\n没更新是因为出去玩了一趟，有没有 #冤种 报销差旅费呀🖤\n\n不更新的这段时间里有多少 #贱狗 看着雨露大人以前的推文发情呢🖤\n\n脑海里幻想着被人家调教，废物早泄小鸡吧被 #寸止 到极限也不允许释放🖤\n\n如果真有这样的废物贱畜…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1856961280198021121"
+          ]
+        },
+        "author_id": "1618704467242672128",
+        "conversation_id": "1856961287928054030",
+        "created_at": "2024-11-14T07:24:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-14T08:24:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1856961287928054030"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "贱狗快来"
+            },
+            {
+              "end": 27,
+              "start": 24,
+              "tag": "冤种"
+            },
+            {
+              "end": 53,
+              "start": 50,
+              "tag": "贱狗"
+            },
+            {
+              "end": 95,
+              "start": 92,
+              "tag": "寸止"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dojMcq1qrp",
+              "end": 166,
+              "expanded_url": "https://x.com/shuishuishui_0/status/1856961287928054030/photo/1",
+              "media_key": "3_1856961280198021121",
+              "start": 143,
+              "url": "https://t.co/dojMcq1qrp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856961287928054030",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3904,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "#贱狗快来\n\n没更新是因为出去玩了一趟，有没有 #冤种 报销差旅费呀🖤\n\n不更新的这段时间里有多少 #贱狗 看着雨露大人以前的推文发情呢🖤\n\n脑海里幻想着被人家调教，废物早泄小鸡吧被 #寸止 到极限也不允许释放🖤\n\n如果真有这样的废物贱畜可以来找我下单哦🖤\n\n玩死你这个小❤️垃💛圾💚 https://t.co/dojMcq1qrp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "超绝可爱💖\n她就是出道即巅峰的可爱纯真小天使新人偶像魔女小姐💖\n对这样的魔女小姐不能心怀任何涩涩的念想哦，不然就会变得非常糟糕...踏入无法挣脱的陷阱和牢笼里呢💘\n魔女小姐无论说什么做什么都是正确的哦，身为她的粉丝，只需要无条件用各种方式支持她就好了～\nqq2829556413，碎碎念小号@oricz233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 154,
+                "start": 145,
+                "username": "oricz233"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "name": "电波系新人偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854618482215911424/R3TTJuCj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5903,
+          "following_count": 233,
+          "like_count": 191,
+          "listed_count": 25,
+          "tweet_count": 1352
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-26T20:16:46.000Z",
+        "description": "我说你这是已经第几次点开本小姐的主页了呢🖤这么期待被我玩弄的话～就来找雨露小姐自毁吧🖤🖤🖤🐧：2700776581 爱发电：https://t.co/7NhBoneQ6x",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "afdian.net/a/Rain3939",
+                "end": 85,
+                "expanded_url": "https://afdian.net/a/Rain3939",
+                "start": 62,
+                "url": "https://t.co/7NhBoneQ6x"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "afdian.net/a/Rain3939",
+                "end": 23,
+                "expanded_url": "https://afdian.net/a/Rain3939",
+                "start": 0,
+                "url": "https://t.co/7NhBoneQ6x"
+              }
+            ]
+          }
+        },
+        "id": "1618704467242672128",
+        "name": "雨露🖤【文援互推✨】（不涉三）",
+        "pinned_tweet_id": "1775187842576372208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726554310140682240/ru0O-Pb6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1827,
+          "following_count": 31,
+          "like_count": 210,
+          "listed_count": 9,
+          "tweet_count": 319
+        },
+        "url": "https://t.co/7NhBoneQ6x",
+        "username": "shuishuishui_0",
+        "verified": false
+      }
+    ]
+  }
+}

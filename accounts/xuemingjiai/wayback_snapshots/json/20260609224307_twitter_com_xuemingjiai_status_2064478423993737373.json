@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "2064478423993737373",
+    "created_at": "2026-06-09T22:43:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T23:43:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064478423993737373"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1374389254726455305",
+          "start": 3,
+          "username": "xuemingjiai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064478423993737373",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064077419087315255",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xuemingjiai: 1～2～3♡\n茄子!\n欧尼酱可爱又狼狈的样子都被奏奏妹妹用相机完整记录下来了哟～\n真是的w，在高考期间对着邻家的小女孩发情勃起什么的最差劲啦...\n明明奏奏只不过是很正常摆出慵懒的姿势躺在床上嘛～～\n想要奏奏保密的话除了约定好的“零花钱”以外还…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2064478423993737373].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2064478423993737373",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2064478423993737373"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1800,
+        "media_key": "3_2064075810030645249",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKUSA2ZacAE5lhG.jpg",
+        "width": 1344
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064075810030645249"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "2064077419087315255",
+        "created_at": "2026-06-08T20:09:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T21:09:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064077419087315255"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6gojqGSHq7",
+              "end": 171,
+              "expanded_url": "https://x.com/xuemingjiai/status/2064077419087315255/photo/1",
+              "media_key": "3_2064075810030645249",
+              "start": 148,
+              "url": "https://t.co/6gojqGSHq7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064077419087315255",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1732,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "1～2～3♡\n茄子!\n欧尼酱可爱又狼狈的样子都被奏奏妹妹用相机完整记录下来了哟～\n真是的w，在高考期间对着邻家的小女孩发情勃起什么的最差劲啦...\n明明奏奏只不过是很正常摆出慵懒的姿势躺在床上嘛～～\n想要奏奏保密的话除了约定好的“零花钱”以外还要把宝贵的精华射出来哟，明天请昏昏沉沉的去考试吧♪ https://t.co/6gojqGSHq7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "你也觉得你面前的这只魔女可爱过头了吧？\n对的!她和别人不一样!\n邂逅方式→2829556413←\n超涩气小号@oricz233\n现任魔女学园院长\n星辰魔女镜璃\n@jingli1840489\n桃心魔女奈奈\n@blakexiaonai\n 黑白魔女花卷\n@miaomiaomyoez2\n好老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 54,
+                "username": "oricz233"
+              },
+              {
+                "end": 94,
+                "start": 80,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 115,
+                "start": 102,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 139,
+                "start": 124,
+                "username": "miaomiaomyoez2"
+              },
+              {
+                "end": 158,
+                "start": 143,
+                "username": "chessy80978858"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "超可爱超绿茶超撩人的精灵魔女-奏奏💚",
+        "pinned_tweet_id": "2013314916120416537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064079945459171328/WbF0iOyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8866,
+          "following_count": 365,
+          "like_count": 636,
+          "listed_count": 36,
+          "media_count": 830,
+          "tweet_count": 2210
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

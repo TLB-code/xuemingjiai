@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1933244394809004321",
+    "created_at": "2025-06-12T19:25:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-12T20:25:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933244394809004321"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 22,
+          "start": 18,
+          "tag": "上贡奴"
+        },
+        {
+          "end": 28,
+          "start": 23,
+          "tag": "ATM奴"
+        },
+        {
+          "end": 33,
+          "start": 29,
+          "tag": "报销奴"
+        },
+        {
+          "end": 38,
+          "start": 34,
+          "tag": "工资奴"
+        },
+        {
+          "end": 43,
+          "start": 39,
+          "tag": "提款机"
+        },
+        {
+          "end": 47,
+          "start": 44,
+          "tag": "吸金"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1131829997335863296",
+          "start": 3,
+          "username": "952909762mao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933244394809004321",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933084194915430575",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @952909762mao: #上贡奴 #ATM奴 #报销奴 #工资奴 #提款机 #吸金\n天气越来越热了，傻狗们是不是想吃雪糕了？诶？为什么跪着爬过来舔本小姐的脚啊？觉得出了汗的脚舔起来更香？呜哇kimo，但是看在你乖乖上贡的份儿上就给允许你舔吧！ https://t.c…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3276,
+        "media_key": "3_1933083314916937728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtOxCHLb0AA8Y2E.jpg",
+        "width": 2457
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "1933244394809004321",
+        "created_at": "2025-06-12T19:25:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T20:25:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933244394809004321"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 18,
+              "tag": "上贡奴"
+            },
+            {
+              "end": 28,
+              "start": 23,
+              "tag": "ATM奴"
+            },
+            {
+              "end": 33,
+              "start": 29,
+              "tag": "报销奴"
+            },
+            {
+              "end": 38,
+              "start": 34,
+              "tag": "工资奴"
+            },
+            {
+              "end": 43,
+              "start": 39,
+              "tag": "提款机"
+            },
+            {
+              "end": 47,
+              "start": 44,
+              "tag": "吸金"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1131829997335863296",
+              "start": 3,
+              "username": "952909762mao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933244394809004321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933084194915430575",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @952909762mao: #上贡奴 #ATM奴 #报销奴 #工资奴 #提款机 #吸金\n天气越来越热了，傻狗们是不是想吃雪糕了？诶？为什么跪着爬过来舔本小姐的脚啊？觉得出了汗的脚舔起来更香？呜哇kimo，但是看在你乖乖上贡的份儿上就给允许你舔吧！ https://t.c…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933083314916937728"
+          ]
+        },
+        "author_id": "1131829997335863296",
+        "conversation_id": "1933084194915430575",
+        "created_at": "2025-06-12T08:49:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T09:49:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933084194915430575"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "上贡奴"
+            },
+            {
+              "end": 10,
+              "start": 5,
+              "tag": "ATM奴"
+            },
+            {
+              "end": 15,
+              "start": 11,
+              "tag": "报销奴"
+            },
+            {
+              "end": 20,
+              "start": 16,
+              "tag": "工资奴"
+            },
+            {
+              "end": 25,
+              "start": 21,
+              "tag": "提款机"
+            },
+            {
+              "end": 29,
+              "start": 26,
+              "tag": "吸金"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4sAtPbCaMp",
+              "end": 133,
+              "expanded_url": "https://x.com/952909762mao/status/1933084194915430575/photo/1",
+              "media_key": "3_1933083314916937728",
+              "start": 110,
+              "url": "https://t.co/4sAtPbCaMp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933084194915430575",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 340,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#上贡奴 #ATM奴 #报销奴 #工资奴 #提款机 #吸金\n天气越来越热了，傻狗们是不是想吃雪糕了？诶？为什么跪着爬过来舔本小姐的脚啊？觉得出了汗的脚舔起来更香？呜哇kimo，但是看在你乖乖上贡的份儿上就给允许你舔吧！ https://t.co/4sAtPbCaMp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n你也会因为窥视我的美貌而心甘情愿沦为钱包被我使用的对吗？\n钱包报名入口：3971546171\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 67,
+                "username": "oricz233"
+              },
+              {
+                "end": 96,
+                "start": 87,
+                "username": "moelipoi"
+              },
+              {
+                "end": 114,
+                "start": 103,
+                "username": "cutelingli"
+              },
+              {
+                "end": 136,
+                "start": 121,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 148,
+                "start": 141,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍驯化公用钱包👛中",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931064828044713984/9qwnduVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7189,
+          "following_count": 303,
+          "like_count": 357,
+          "listed_count": 33,
+          "media_count": 679,
+          "tweet_count": 2036
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-24T07:51:14.000Z",
+        "description": "可爱的黑心小男娘\n在线招收想要吐钱的傻逼贡奴\n🚪门槛费：20 加了好友请主动说明来意 \n门槛不付试图蒙混过关的脑瘫请麻烦死远一点谢谢\n推置顶有二维码 如果看不见希望你们把眼睛捐献给有需要的人呢\n清水良民推主 不搞黄色\nQQ952909762",
+        "id": "1131829997335863296",
+        "name": "古屋敷由良",
+        "pinned_tweet_id": "1771788955731517942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896435593334374400/g9-bSQq1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1699,
+          "following_count": 189,
+          "like_count": 432,
+          "listed_count": 10,
+          "media_count": 247,
+          "tweet_count": 1731
+        },
+        "username": "952909762mao",
+        "verified": false
+      }
+    ]
+  }
+}

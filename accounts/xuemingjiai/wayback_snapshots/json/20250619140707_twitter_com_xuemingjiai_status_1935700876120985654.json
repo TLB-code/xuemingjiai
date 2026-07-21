@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1935700876120985654",
+    "created_at": "2025-06-19T14:07:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-19T15:07:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935700876120985654"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1837733655617097728",
+          "start": 3,
+          "username": "RdReddust"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935700876120985654",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935370323236434057",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RdReddust: 加更一条母猪的投怀送抱🖤 真的有母猪会看这推文白给送死🖤明明知道是钓鱼但还是二话不说的下跪白给了🖤真的震惊到了，咱之前都以为是剧本之类的…结果真的有傻逼母畜会发情到丧志臣服呢🖤\n噫，雌臭味隔着屏幕都闻到了🖤\n为了保护某个猪仅剩的人设就不放出来曝光她…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1935370319499300864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtvRDTKXEAAJlic.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1935370319490920448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtvRDTIXMAA4u2a.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "1935700876120985654",
+        "created_at": "2025-06-19T14:07:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T15:07:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935700876120985654"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1837733655617097728",
+              "start": 3,
+              "username": "RdReddust"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935700876120985654",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935370323236434057",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RdReddust: 加更一条母猪的投怀送抱🖤 真的有母猪会看这推文白给送死🖤明明知道是钓鱼但还是二话不说的下跪白给了🖤真的震惊到了，咱之前都以为是剧本之类的…结果真的有傻逼母畜会发情到丧志臣服呢🖤\n噫，雌臭味隔着屏幕都闻到了🖤\n为了保护某个猪仅剩的人设就不放出来曝光她…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935370319499300864",
+            "3_1935370319490920448"
+          ]
+        },
+        "author_id": "1837733655617097728",
+        "conversation_id": "1935370323236434057",
+        "created_at": "2025-06-18T16:13:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T17:13:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935370323236434057"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cZccOEUWN0",
+              "end": 164,
+              "expanded_url": "https://x.com/RdReddust/status/1935370323236434057/photo/1",
+              "media_key": "3_1935370319499300864",
+              "start": 141,
+              "url": "https://t.co/cZccOEUWN0"
+            },
+            {
+              "display_url": "pic.x.com/cZccOEUWN0",
+              "end": 164,
+              "expanded_url": "https://x.com/RdReddust/status/1935370323236434057/photo/1",
+              "media_key": "3_1935370319490920448",
+              "start": 141,
+              "url": "https://t.co/cZccOEUWN0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935370323236434057",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 144,
+                "start": 141,
+                "tag": "白给"
+              },
+              {
+                "end": 148,
+                "start": 145,
+                "tag": "上贡"
+              },
+              {
+                "end": 154,
+                "start": 149,
+                "tag": "丧志母猪"
+              },
+              {
+                "end": 158,
+                "start": 155,
+                "tag": "傻逼"
+              },
+              {
+                "end": 164,
+                "start": 159,
+                "tag": "ATM奴"
+              }
+            ]
+          },
+          "text": "加更一条母猪的投怀送抱🖤 真的有母猪会看这推文白给送死🖤明明知道是钓鱼但还是二话不说的下跪白给了🖤真的震惊到了，咱之前都以为是剧本之类的…结果真的有傻逼母畜会发情到丧志臣服呢🖤\n噫，雌臭味隔着屏幕都闻到了🖤\n为了保护某个猪仅剩的人设就不放出来曝光她了，感恩戴德吧正在看的傻逼母猪🖤\n#白给 #上贡 #丧志母猪 #傻逼 #ATM奴"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3339,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "加更一条母猪的投怀送抱🖤 真的有母猪会看这推文白给送死🖤明明知道是钓鱼但还是二话不说的下跪白给了🖤真的震惊到了，咱之前都以为是剧本之类的…结果真的有傻逼母畜会发情到丧志臣服呢🖤\n噫，雌臭味隔着屏幕都闻到了🖤\n为了保护某个猪仅剩的人设就不放出来曝光她了，感恩戴德吧正在看的傻逼母猪🖤 https://t.co/cZccOEUWN0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n你也会因为窥视我的美貌而心甘情愿沦为钱包被我使用的对吗？\n钱包报名入口：3971546171\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 67,
+                "username": "oricz233"
+              },
+              {
+                "end": 96,
+                "start": 87,
+                "username": "moelipoi"
+              },
+              {
+                "end": 114,
+                "start": 103,
+                "username": "cutelingli"
+              },
+              {
+                "end": 136,
+                "start": 121,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 148,
+                "start": 141,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍驯化公用钱包👛中",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931064828044713984/9qwnduVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7252,
+          "following_count": 310,
+          "like_count": 371,
+          "listed_count": 32,
+          "media_count": 692,
+          "tweet_count": 2107
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-22T06:00:29.000Z",
+        "description": "这里是专收看着羞辱文就硬得发抖的ATM奴、贡奴和傻狗的男娘红酱～。因为过于了解那些看一张色图和配文就忍不住意淫的杂鱼🖤所以就出道钓鱼来了🖤傻逼atm奴/臭脚控/贱狗大胆私信哦🖤，吐出你的红包和脑子🖤 只要发情就不准跑了哦～🩷🩷🩷",
+        "id": "1837733655617097728",
+        "name": "Misstress 红",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934093624628707328/uMcETvIR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 180,
+          "like_count": 92,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 23
+        },
+        "username": "RdReddust",
+        "verified": true
+      }
+    ]
+  }
+}

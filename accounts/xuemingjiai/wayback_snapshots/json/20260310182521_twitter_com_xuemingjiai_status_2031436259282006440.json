@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2031435169245368320",
+        "3_2031435184499990528"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "2031436259282006440",
+    "created_at": "2026-03-10T18:25:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T19:25:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2031436259282006440"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/d5mgAR6ecC",
+          "end": 171,
+          "expanded_url": "https://x.com/xuemingjiai/status/2031436259282006440/photo/1",
+          "media_key": "3_2031435169245368320",
+          "start": 148,
+          "url": "https://t.co/d5mgAR6ecC"
+        },
+        {
+          "display_url": "pic.x.com/d5mgAR6ecC",
+          "end": 171,
+          "expanded_url": "https://x.com/xuemingjiai/status/2031436259282006440/photo/1",
+          "media_key": "3_2031435184499990528",
+          "start": 148,
+          "url": "https://t.co/d5mgAR6ecC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031436259282006440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "前情提要~\n偷窥了奏奏公主很久，还是忍不住加上好友，想要尝试上贡....\n然后~仅仅半小时之后，就从“第一次”想要尝试上贡，变成了图二的模样啦w\n本公主做了什么呢？\n不过就是教导他如何当好“舔狗”“龟男”灌输了一些“女性崇拜”的知识而已呐~\n现已全面掌控他的社交与生活哦，会不定时更新开发进度🤍 https://t.co/d5mgAR6ecC"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2031436259282006440].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2031436259282006440",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2031436259282006440"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2031435169245368320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDEbhf8bEAALvhg.jpg",
+        "width": 768
+      },
+      {
+        "height": 1574,
+        "media_key": "3_2031435184499990528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDEbiYxaIAAaJJg.jpg",
+        "width": 1220
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会魅惑并享用钱包的公主殿下🤍\n最最最最喜欢钱包们啦～\n联系方式→2829556413←\n病毒小号@oricz233\n现任魔女学园院长!\n星辰魔女镜璃\n@jingli1840489\n桃心魔女奈奈\n@blakexiaonai\n 黑白魔女花卷\n@miaomiaomi17630\n好老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 52,
+                "username": "oricz233"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 114,
+                "start": 101,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 139,
+                "start": 123,
+                "username": "miaomiaomi17630"
+              },
+              {
+                "end": 158,
+                "start": 143,
+                "username": "chessy80978858"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "魅惑系魔女族公主-奏💜魔女学园院长版～",
+        "pinned_tweet_id": "2013314916120416537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018477066753306624/36q-3UGh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8718,
+          "following_count": 366,
+          "like_count": 646,
+          "listed_count": 35,
+          "media_count": 820,
+          "tweet_count": 2166
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

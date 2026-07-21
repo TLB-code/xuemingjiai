@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1990532357095633194",
+    "created_at": "2025-11-17T21:27:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T22:27:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990532357095633194"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1374389254726455305",
+          "start": 3,
+          "username": "xuemingjiai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990532357095633194",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990314409391280209",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xuemingjiai: 掠夺与征服....?\n明明可以拿着那些钱去饱餐一顿，购入自己想要的任何东西，却只是因为自己的“下贱”，因为自己想要被奏奏公主毫不留情的“掠夺”自己所拥有的一切，想要被奏奏踩在脚下当做垫脚石一样“征服”，就心甘情愿的把钱送给了本公主呢...🤍\n要…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1990532357095633194].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1990532357095633194",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1990532357095633194"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "alt_text": "在点进来的瞬间～你就败北了哦🤍\n强制败北～强制勃起～强制提款～强制命令～\n不管是哪一种，都很喜欢吧？\n承认吧，你的性癖已经被本公主改造成完全为了本公主服务的存在～本公主能够非常方便，简简单单就像工厂流水线生产一样，轻轻松松的吸干一个又一个钱包～\n你最喜欢被本公主掠夺了，掠夺你的人生，你的金钱，你的一切，你渴望被本公主征服♪\n还等什么呢...简介的qq，自己找过来吧～",
+        "height": 1920,
+        "media_key": "3_1990314355314118658",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G58EXGvb0AIcY5d.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990314355314118658"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "1990314409391280209",
+        "created_at": "2025-11-17T07:01:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T08:01:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990314409391280209"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8cDLsqVovp",
+              "end": 175,
+              "expanded_url": "https://x.com/xuemingjiai/status/1990314409391280209/photo/1",
+              "media_key": "3_1990314355314118658",
+              "start": 152,
+              "url": "https://t.co/8cDLsqVovp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990314409391280209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 1966,
+          "like_count": 46,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "掠夺与征服....?\n明明可以拿着那些钱去饱餐一顿，购入自己想要的任何东西，却只是因为自己的“下贱”，因为自己想要被奏奏公主毫不留情的“掠夺”自己所拥有的一切，想要被奏奏踩在脚下当做垫脚石一样“征服”，就心甘情愿的把钱送给了本公主呢...🤍\n要和本公主玩一个绝对不可能胜利的“游戏”吗～\n点开alt吧♪ https://t.co/8cDLsqVovp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n最最最最喜欢钱包们啦!\n天天挨骂真的不会腻嘛～\n擅长用爱意和温柔的语气俘虏钱包～\n联系方式→3971546171←\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 78,
+                "username": "oricz233"
+              },
+              {
+                "end": 107,
+                "start": 98,
+                "username": "moelipoi"
+              },
+              {
+                "end": 125,
+                "start": 114,
+                "username": "cutelingli"
+              },
+              {
+                "end": 147,
+                "start": 132,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 159,
+                "start": 152,
+                "username": "1xian1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARosxSy"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍对钱包们最温柔最有好感版",
+        "pinned_tweet_id": "1976743806063063398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969152325731168256/ozl0k8K4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7884,
+          "following_count": 326,
+          "like_count": 638,
+          "listed_count": 35,
+          "media_count": 752,
+          "tweet_count": 2302
+        },
+        "url": "https://t.co/le8ARosxSy",
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

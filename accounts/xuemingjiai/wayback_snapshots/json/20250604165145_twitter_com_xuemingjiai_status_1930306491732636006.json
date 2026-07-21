@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1930306481070780416"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "1928819451031413001",
+    "created_at": "2025-06-04T16:51:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-04T17:51:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930306491732636006"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1886672091241701378",
+          "start": 0,
+          "username": "hamimelon_ovo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oOV4y5G2Sh",
+          "end": 180,
+          "expanded_url": "https://x.com/xuemingjiai/status/1930306491732636006/photo/1",
+          "media_key": "3_1930306481070780416",
+          "start": 157,
+          "url": "https://t.co/oOV4y5G2Sh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930306491732636006",
+    "in_reply_to_user_id": "1886672091241701378",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928819451031413001",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hamimelon_ovo 高傲，黑心，天生的上位者，下贱的人类虫虫们看见就应该崇拜的存在～说的就是本公主哦♪\n化身成电子魅魔，在网络中播种让人类虫虫们毫无反抗能力，心甘情愿沦为家畜的魔法💜\n全能系文援姬，详情去看置顶和过往推文，营业时间基本上是通宵，那么，虫虫～既然看见这条推文就强制勃起，来找本公主送死哦💜 https://t.co/oOV4y5G2Sh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1638,
+        "media_key": "3_1930306481070780416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsnThG_bsAA3haR.jpg",
+        "width": 1092
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930306481070780416"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "1928819451031413001",
+        "created_at": "2025-06-04T16:51:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T17:51:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930306491732636006"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1886672091241701378",
+              "start": 0,
+              "username": "hamimelon_ovo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oOV4y5G2Sh",
+              "end": 180,
+              "expanded_url": "https://x.com/xuemingjiai/status/1930306491732636006/photo/1",
+              "media_key": "3_1930306481070780416",
+              "start": 157,
+              "url": "https://t.co/oOV4y5G2Sh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930306491732636006",
+        "in_reply_to_user_id": "1886672091241701378",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928819451031413001",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hamimelon_ovo 高傲，黑心，天生的上位者，下贱的人类虫虫们看见就应该崇拜的存在～说的就是本公主哦♪\n化身成电子魅魔，在网络中播种让人类虫虫们毫无反抗能力，心甘情愿沦为家畜的魔法💜\n全能系文援姬，详情去看置顶和过往推文，营业时间基本上是通宵，那么，虫虫～既然看见这条推文就强制勃起，来找本公主送死哦💜 https://t.co/oOV4y5G2Sh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886672091241701378",
+        "conversation_id": "1928819451031413001",
+        "created_at": "2025-05-31T14:22:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T15:22:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928819451031413001"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 0,
+              "tag": "蔷蔷的深夜文援广场"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "bl.wenaiwu.net",
+              "end": 83,
+              "expanded_url": "http://bl.wenaiwu.net",
+              "start": 60,
+              "status": 200,
+              "title": "蔷蔷查询",
+              "unwound_url": "http://bl.wenaiwu.net",
+              "url": "https://t.co/Z75eW4KQCk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928819451031413001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2945,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "＃蔷蔷的深夜文援广场\n这里是每天晚十点准时的深夜广场\n旨在给深夜营业的文媛们一个接单的平台~\n以及挂人板查询系统的网站\nhttps://t.co/Z75eW4KQCk\n新增白名单文媛查询功能和赛博翻牌子功能～\n本推文下的评论均是经过墙墙的白名单审核的文援姬，可以放心安全下单，如有跑单请立刻联系墙墙进行处理~"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "集美貌，智慧，强大于一身的魔女族公主现身人世～区区人类，跪下向我表示臣服吧💜\n被我支配 控制 吸脑 成为奴仆💜\n挑战qq242184780，里世界小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858\n女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "oricz233"
+              },
+              {
+                "end": 104,
+                "start": 95,
+                "username": "moelipoi"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "cutelingli"
+              },
+              {
+                "end": 144,
+                "start": 129,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 155,
+                "start": 148,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏💜散播同化病毒中～",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926028406774247424/hWplRg7q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7104,
+          "following_count": 296,
+          "like_count": 335,
+          "listed_count": 33,
+          "media_count": 644,
+          "tweet_count": 1911
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-04T07:04:57.000Z",
+        "description": "各位贵安~这里是文援墙，聚合所有喜爱文援和H的灵魂信念凝聚而成。首先声明!不许调戏蔷蔷!蔷蔷项目菜单一【文援运营咨询】【文援征集悬赏】 【挂人板】【定制文】【文援收款代收】给蔷蔷发的悬赏单请截图告知蔷蔷联系热线2375565349赞助、打赏私戳咱吧w",
+        "id": "1886672091241701378",
+        "name": "文援墙",
+        "pinned_tweet_id": "1897219692991012887",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886678395649712134/LoxP2ald_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2474,
+          "following_count": 76,
+          "like_count": 39,
+          "listed_count": 5,
+          "media_count": 223,
+          "tweet_count": 585
+        },
+        "username": "hamimelon_ovo",
+        "verified": true
+      }
+    ]
+  }
+}

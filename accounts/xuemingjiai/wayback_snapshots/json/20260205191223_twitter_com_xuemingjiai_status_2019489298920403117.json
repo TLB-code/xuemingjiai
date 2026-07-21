@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "2019489298920403117",
+    "created_at": "2026-02-05T19:12:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T20:12:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019489298920403117"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 24,
+          "start": 17,
+          "tag": "奏奏国的往事"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1374389254726455305",
+          "start": 3,
+          "username": "xuemingjiai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019489298920403117",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947745734595420167",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xuemingjiai: #奏奏国的往事\n序章\n很久很久以前，在一块肥沃的大陆上发生了许多的故事..其中最离不开的就是战争，大国们想要吞并小国，小国为了守卫家园而在夹缝中努力寻求生机，直到一位魔女..不对，公主的出生，打破了长达几十年的战乱\n她仅仅只是坐在那里 伸出脚丫…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2019489298920403117].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2019489298920403117",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2019489298920403117"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1947745729696378880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwfIa-tWMAAy8Pu.jpg",
+        "width": 890
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947745729696378880"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "1947745734595420167",
+        "created_at": "2025-07-22T19:49:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T20:49:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947745734595420167"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "奏奏国的往事"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7XL9dbxWaY",
+              "end": 169,
+              "expanded_url": "https://x.com/xuemingjiai/status/1947745734595420167/photo/1",
+              "media_key": "3_1947745729696378880",
+              "start": 146,
+              "url": "https://t.co/7XL9dbxWaY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947745734595420167",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 15848,
+          "like_count": 51,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "#奏奏国的往事\n序章\n很久很久以前，在一块肥沃的大陆上发生了许多的故事..其中最离不开的就是战争，大国们想要吞并小国，小国为了守卫家园而在夹缝中努力寻求生机，直到一位魔女..不对，公主的出生，打破了长达几十年的战乱\n她仅仅只是坐在那里 伸出脚丫，在那一刻..战争就结束了，所有人对着她磕头🤍 https://t.co/7XL9dbxWaY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会魅惑并享用钱包的公主殿下🤍\n最最最最喜欢钱包们啦～\n联系方式→2829556413←\n病毒小号@oricz233\n现任魔女学园院长!\n星辰魔女镜璃\n@jingli1840489\n桃心魔女奈奈\n@blakexiaonai\n 黑白魔女花卷\n@miaomiaomi17630\n好老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 52,
+                "username": "oricz233"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 114,
+                "start": 101,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 139,
+                "start": 123,
+                "username": "miaomiaomi17630"
+              },
+              {
+                "end": 158,
+                "start": 143,
+                "username": "chessy80978858"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "魅惑系魔女族公主-奏💜魔女学园院长版～",
+        "pinned_tweet_id": "2013314916120416537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018477066753306624/36q-3UGh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8313,
+          "following_count": 363,
+          "like_count": 644,
+          "listed_count": 36,
+          "media_count": 803,
+          "tweet_count": 2149
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

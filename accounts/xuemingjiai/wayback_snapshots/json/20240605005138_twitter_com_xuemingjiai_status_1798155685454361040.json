@@ -1,0 +1,143 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1798155685454361040",
+    "created_at": "2024-06-05T00:51:38.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-05T01:51:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1798155685454361040"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1772824817647165440",
+          "start": 3,
+          "username": "kekemiao1234"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1798155685454361040",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1797993398835794115",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kekemiao1234: 其实很多客人本没有那么白给～\n跟我说的是“好奇”“试试看”什么的💜\n但黑心的可可并不会放过这些潜在atm呢～\n先温柔地让对方舒服和上头～脑袋逐渐被欲望填满～难以思考～❤️\n等到小雏男兴奋地撸动肉棒根本停不下的时候～就可以更过分地【挤压】钱包了…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1798155685454361040].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1798155685454361040",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1798155685454361040"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1797993390866608128"
+          ]
+        },
+        "author_id": "1772824817647165440",
+        "conversation_id": "1797993398835794115",
+        "created_at": "2024-06-04T14:06:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-04T15:06:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1797993398835794115"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/705HgwrXvR",
+              "end": 172,
+              "expanded_url": "https://twitter.com/kekemiao1234/status/1797993398835794115/photo/1",
+              "media_key": "3_1797993390866608128",
+              "start": 149,
+              "url": "https://t.co/705HgwrXvR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1797993398835794115",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 641,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "其实很多客人本没有那么白给～\n跟我说的是“好奇”“试试看”什么的💜\n但黑心的可可并不会放过这些潜在atm呢～\n先温柔地让对方舒服和上头～脑袋逐渐被欲望填满～难以思考～❤️\n等到小雏男兴奋地撸动肉棒根本停不下的时候～就可以更过分地【挤压】钱包了呢🖤\n是完全公开的陷阱哦～\n但依然会有白痴来送死的吧w https://t.co/705HgwrXvR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "可爱程度百分之百💖\n她就是出道即巅峰的可爱纯真小天使新人偶像魔女小姐💖\n任何人都会被她散发出的魅力所捕获，对这样的魔女小姐不能心怀任何涩涩的念想哦，不然就会变得非常糟糕...踏入无法挣脱的陷阱和牢笼里呢💘\n魔女小姐无论说什么做什么都是正确的哦，身为她的粉丝，只需要无条件用各种方式支持她就好了💘\n联系方式私信💝",
+        "id": "1374389254726455305",
+        "name": "电波系新人偶像💖魔女小姐参上（偶像计划筹备中）",
+        "pinned_tweet_id": "1791781042321571928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795799880021295104/Tsd4XdC9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4815,
+          "following_count": 168,
+          "like_count": 146,
+          "listed_count": 22,
+          "tweet_count": 967
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-27T03:16:02.000Z",
+        "description": "门牌3689271536，不涉三",
+        "id": "1772824817647165440",
+        "name": "可可",
+        "pinned_tweet_id": "1783511650995466731",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796123122493693953/25BDWWCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 775,
+          "following_count": 19,
+          "like_count": 14,
+          "listed_count": 1,
+          "tweet_count": 148
+        },
+        "username": "kekemiao1234",
+        "verified": false
+      }
+    ]
+  }
+}

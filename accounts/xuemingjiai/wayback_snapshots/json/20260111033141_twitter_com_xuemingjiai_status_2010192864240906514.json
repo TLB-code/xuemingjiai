@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2010192788009431043"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "2010192864240906514",
+    "created_at": "2026-01-11T03:31:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T04:31:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2010192864240906514"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/AJHazLLHkN",
+          "end": 144,
+          "expanded_url": "https://x.com/xuemingjiai/status/2010192864240906514/photo/1",
+          "media_key": "3_2010192788009431043",
+          "start": 121,
+          "url": "https://t.co/AJHazLLHkN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010192864240906514",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "限时推文，发布悬赏～\n时间十分钟♪(到时间删)\n内容～背德社会调研～\n要求：资深贡奴舔狗～无脑发情～喜欢意淫的白痴钱包～阈值高到离谱，需要极端的刺激才会发泄\n奖励：一次让你忘不掉的经历🤍\n加简介qq私聊本公主～费用：免费或者....无上限🤍 https://t.co/AJHazLLHkN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 400,
+        "media_key": "3_2010192788009431043",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-WjsLNasAMWdEz.jpg",
+        "width": 400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010192788009431043"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "2010192864240906514",
+        "created_at": "2026-01-11T03:31:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T04:31:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010192864240906514"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AJHazLLHkN",
+              "end": 144,
+              "expanded_url": "https://x.com/xuemingjiai/status/2010192864240906514/photo/1",
+              "media_key": "3_2010192788009431043",
+              "start": 121,
+              "url": "https://t.co/AJHazLLHkN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010192864240906514",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "限时推文，发布悬赏～\n时间十分钟♪(到时间删)\n内容～背德社会调研～\n要求：资深贡奴舔狗～无脑发情～喜欢意淫的白痴钱包～阈值高到离谱，需要极端的刺激才会发泄\n奖励：一次让你忘不掉的经历🤍\n加简介qq私聊本公主～费用：免费或者....无上限🤍 https://t.co/AJHazLLHkN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🖤\n最最最最喜欢钱包们啦～\n联系方式→2829556413←\n病毒小号@oricz233\n现任魔女学园院长!\n星辰魔女镜璃\n@jingli1840489\n桃心魔女奈奈\n@blakexiaonai\n 黑白魔女花卷\n@miaomiaomi17630\n好老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 49,
+                "username": "oricz233"
+              },
+              {
+                "end": 90,
+                "start": 76,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 111,
+                "start": 98,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 136,
+                "start": 120,
+                "username": "miaomiaomi17630"
+              },
+              {
+                "end": 155,
+                "start": 140,
+                "username": "chessy80978858"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARosxSy"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🖤魔女学园院长版～",
+        "pinned_tweet_id": "1976743806063063398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009377548195778561/vWvReGfH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8141,
+          "following_count": 341,
+          "like_count": 644,
+          "listed_count": 37,
+          "media_count": 777,
+          "tweet_count": 2420
+        },
+        "url": "https://t.co/le8ARosxSy",
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

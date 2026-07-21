@@ -1,0 +1,124 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1798467866762878976"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "1798467869711429837",
+    "created_at": "2024-06-05T21:32:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-05T22:32:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1798467869711429837"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/xhegpQNSZr",
+          "end": 166,
+          "expanded_url": "https://twitter.com/xuemingjiai/status/1798467869711429837/photo/1",
+          "media_key": "3_1798467866762878976",
+          "start": 143,
+          "url": "https://t.co/xhegpQNSZr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1798467869711429837",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哇呼～\n各位小雏男粉丝们晚上..该说是早上好吗？\n今天也要充满干劲的去打工赚取金币来支持我哦💖\n魔女小姐作为偶像只需要可爱就够了，而身为魔女小姐粉丝的小雏男们要考虑的事情可就多了～\n今后大概率会文援毕业，更变为单纯的运营推特，毕竟偶像是要站在舞台上发光发亮而不是成为某个人的专属对吧💜 https://t.co/xhegpQNSZr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1750,
+        "media_key": "3_1798467866762878976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GPVw_wJbIAAf0EW.jpg",
+        "width": 1313
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1798467866762878976"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "1798467869711429837",
+        "created_at": "2024-06-05T21:32:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-05T22:32:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1798467869711429837"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/xhegpQNSZr",
+              "end": 166,
+              "expanded_url": "https://twitter.com/xuemingjiai/status/1798467869711429837/photo/1",
+              "media_key": "3_1798467866762878976",
+              "start": 143,
+              "url": "https://t.co/xhegpQNSZr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1798467869711429837",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哇呼～\n各位小雏男粉丝们晚上..该说是早上好吗？\n今天也要充满干劲的去打工赚取金币来支持我哦💖\n魔女小姐作为偶像只需要可爱就够了，而身为魔女小姐粉丝的小雏男们要考虑的事情可就多了～\n今后大概率会文援毕业，更变为单纯的运营推特，毕竟偶像是要站在舞台上发光发亮而不是成为某个人的专属对吧💜 https://t.co/xhegpQNSZr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "可爱程度百分之百💖\n她就是出道即巅峰的可爱纯真小天使新人偶像魔女小姐💖\n任何人都会被她散发出的魅力所捕获，对这样的魔女小姐不能心怀任何涩涩的念想哦，不然就会变得非常糟糕...踏入无法挣脱的陷阱和牢笼里呢💘\n魔女小姐无论说什么做什么都是正确的哦，身为她的粉丝，只需要无条件用各种方式支持她就好了💘\n联系方式私信💝",
+        "id": "1374389254726455305",
+        "name": "电波系新人偶像💖魔女小姐参上（偶像计划筹备中）",
+        "pinned_tweet_id": "1791781042321571928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795799880021295104/Tsd4XdC9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4821,
+          "following_count": 168,
+          "like_count": 146,
+          "listed_count": 22,
+          "tweet_count": 968
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

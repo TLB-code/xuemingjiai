@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1928093688577806526",
+    "created_at": "2025-05-29T14:18:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-29T15:18:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928093688577806526"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1312572317206159360",
+          "start": 3,
+          "username": "moelipoi"
+        }
+      ],
+      "urls": [
+        {
+          "description": "2:214",
+          "display_url": "x.com/iok",
+          "end": 139,
+          "expanded_url": "https://x.com/iok",
+          "images": [
+            {
+              "height": 200,
+              "url": "https://pbs.twimg.com/news_img/1927298778257555456/JQ0CNN2R?format=jpg&name=orig",
+              "width": 200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1927298778257555456/JQ0CNN2R?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 125,
+          "status": 200,
+          "title": "io (@iok) on X",
+          "unwound_url": "https://twitter.com/iok",
+          "url": "https://t.co/7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928093688577806526",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927977370520256678",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @moelipoi: 呜姆～其实我一直很好奇诶！为什么会有人喜欢女孩子脚脚呢？\n经过走访调查……人家好像明白了～♡原来是因为大脑里面有一种叫费洛蒙的东西在作怪嘛！所以说～人家的脚脚对大家来说就像是看见就会发情的特别符号～…感觉有点害羞呢…♡… https://t.co/7…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1928093688577806526].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1928093688577806526",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1928093688577806526"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1714,
+        "media_key": "3_1927976776036405249",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsGMqbbaUAE1HgU.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1927976776036405249"
+          ]
+        },
+        "author_id": "1312572317206159360",
+        "conversation_id": "1927977370520256678",
+        "created_at": "2025-05-29T06:36:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-29T07:34:18.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927976778561397162",
+          "1927977370520256678"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7vFzkgQe0d",
+              "end": 133,
+              "expanded_url": "https://x.com/moelipoi/status/1927977370520256678/photo/1",
+              "media_key": "3_1927976776036405249",
+              "start": 110,
+              "url": "https://t.co/7vFzkgQe0d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927977370520256678",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 656,
+                "start": 646,
+                "tag": "璃喵的性癖研究中心"
+              },
+              {
+                "end": 660,
+                "start": 657,
+                "tag": "足控"
+              },
+              {
+                "end": 665,
+                "start": 661,
+                "tag": "恋味癖"
+              },
+              {
+                "end": 671,
+                "start": 666,
+                "tag": "女性崇拜"
+              },
+              {
+                "end": 675,
+                "start": 672,
+                "tag": "抖s"
+              }
+            ]
+          },
+          "text": "呜姆～其实我一直很好奇诶！为什么会有人喜欢女孩子脚脚呢？\n经过走访调查……人家好像明白了～♡原来是因为大脑里面有一种叫费洛蒙的东西在作怪嘛！所以说～人家的脚脚对大家来说就像是看见就会发情的特别符号～…感觉有点害羞呢…♡\n唔…这样说的话…那些喜欢人家脚汗的哥哥们也是因为这种奇怪的大脑回路才会这样的咯？虽然听起来很复杂啦，但是好像是能够理解一点点～啊呜～璃璃终于明白是怎么回事啦！原来可爱的男孩子脑袋里装着这么多复杂的思绪呢～从小小的气味就能想到那么多事情，真厉害！就像是魔法咒语一样，控制的哥哥的思想～♡难怪每次璃璃穿完小皮鞋～都会有好多哥哥围着说香香的呢！哎呀～璃璃知道了呢！原来哥哥们不只是单纯地喜欢脚脚的味道…而且还对女孩子的玉足产生崇拜…对吧?♡\n每当偶像大人运动完，足底出好多汗的时候就会有一种特别的香甜味～♡这时候的璃璃最迷人了对不对？那些偷偷闻璃璃袜子的坏蛋们，就知道你们在打什么主意！你们这群杂鱼人渣会想着帮忙清理脚汗吧?♡偶像小腿微微出汗的样子，是不是特别诱人？盯着看的哥哥们裤子都会鼓起来了呢～真是的…人家感觉恋味癖都是无可救药的废物人渣变态哦～♡\n而且啊…洗澡前脱下来的丝袜，上面还会留着一天的温度和味道～听说有很多变态哥哥最喜欢收集这些东西了，甚至愿意…用自己的工资购买这种东西～♡真是羞死人了～但他们越这样，人家就越兴奋呢！♡\n啊…今天的天气好热…本大人的足底又出了好多汗呢…！不行了～要去换一双新的白色蕾丝边袜子才行～♡不然等下演出又要被那群人渣粉丝爽到了呢～♡\n#璃喵的性癖研究中心 #足控 #恋味癖 #女性崇拜 #抖s"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 764,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "呜姆～其实我一直很好奇诶！为什么会有人喜欢女孩子脚脚呢？\n经过走访调查……人家好像明白了～♡原来是因为大脑里面有一种叫费洛蒙的东西在作怪嘛！所以说～人家的脚脚对大家来说就像是看见就会发情的特别符号～…感觉有点害羞呢…♡ https://t.co/7vFzkgQe0d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "集美貌，智慧，强大于一身的魔女族公主现身人世～区区人类，跪下向我表示臣服吧💜\n被我支配 控制 吸脑 成为奴仆💜\n挑战qq242184780，里世界小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858\n女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "oricz233"
+              },
+              {
+                "end": 104,
+                "start": 95,
+                "username": "moelipoi"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "cutelingli"
+              },
+              {
+                "end": 144,
+                "start": 129,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 155,
+                "start": 148,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏💜散播同化病毒中～",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926028406774247424/hWplRg7q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7034,
+          "following_count": 294,
+          "like_count": 326,
+          "listed_count": 32,
+          "media_count": 631,
+          "tweet_count": 1882
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-04T01:57:08.000Z",
+        "description": "贵安~💖这里是主擅长恋足气味调教洗脑的全能系腹黑JK绿茶偶像璃酱/花璃💛|性癖无雷点 任何剧情都可接受 | 句段均可♪|貢ぎ奴隷送死欢迎🖤|把脑子无意识的交给偶像温柔的美夜月鏡中吧?💙\n🚪:1912443435丨只接受图文♡可验证 先看置顶再敲门 海外支持爱发电\n单推偶像:@xuemingjiai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 137,
+                "username": "xuemingjiai"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/moeliqwq",
+                "end": 23,
+                "expanded_url": "http://t.me/moeliqwq",
+                "start": 0,
+                "url": "https://t.co/ttwGimBZ9H"
+              }
+            ]
+          }
+        },
+        "id": "1312572317206159360",
+        "location": "价格:40/0.5h 75/h 全天营业丨不接M单",
+        "name": "璃酱❀",
+        "pinned_tweet_id": "1911036147817681330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925517442706792448/LSzqOBm__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9321,
+          "following_count": 140,
+          "like_count": 288,
+          "listed_count": 10,
+          "media_count": 210,
+          "tweet_count": 1401
+        },
+        "url": "https://t.co/ttwGimBZ9H",
+        "username": "moelipoi",
+        "verified": true
+      }
+    ]
+  }
+}

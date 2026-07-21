@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "2055323584651014624",
+    "created_at": "2026-05-15T16:25:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T17:25:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055323584651014624"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1739976691970412544",
+          "start": 3,
+          "username": "SakiHana_effigy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055323584651014624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055259087231934941",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SakiHana_effigy: 很多哥哥发情的时候一副贱相，\n射完之后却妄想重新伪装成人类，\n甚至装死不回消息，\n真恶心呢。\n为了咲花小姐的幸福，\n还请您自我开盒吧🖤\n这样即使你以后想当好丈夫，成为好父亲。\n但只要一想到咲花还有上门追债的可能性，\n也只能一辈子活在恐惧…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 896,
+        "media_key": "3_2055258649392721920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIW-2jaaMAADgBV.jpg",
+        "width": 1140
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "2055323584651014624",
+        "created_at": "2026-05-15T16:25:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T17:25:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055323584651014624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1739976691970412544",
+              "start": 3,
+              "username": "SakiHana_effigy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055323584651014624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055259087231934941",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SakiHana_effigy: 很多哥哥发情的时候一副贱相，\n射完之后却妄想重新伪装成人类，\n甚至装死不回消息，\n真恶心呢。\n为了咲花小姐的幸福，\n还请您自我开盒吧🖤\n这样即使你以后想当好丈夫，成为好父亲。\n但只要一想到咲花还有上门追债的可能性，\n也只能一辈子活在恐惧…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055258649392721920"
+          ]
+        },
+        "author_id": "1739976691970412544",
+        "conversation_id": "2055259087231934941",
+        "created_at": "2026-05-15T12:08:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T13:07:31.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055258776383697123",
+          "2055259087231934941"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 132,
+              "start": 129,
+              "tag": "文援"
+            },
+            {
+              "end": 138,
+              "start": 133,
+              "tag": "atm奴"
+            },
+            {
+              "end": 142,
+              "start": 139,
+              "tag": "压榨"
+            },
+            {
+              "end": 146,
+              "start": 143,
+              "tag": "胁迫"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/72XqjlX9af",
+              "end": 170,
+              "expanded_url": "https://x.com/SakiHana_effigy/status/2055259087231934941/photo/1",
+              "media_key": "3_2055258649392721920",
+              "start": 147,
+              "url": "https://t.co/72XqjlX9af"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055259087231934941",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 159,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "很多哥哥发情的时候一副贱相，\n射完之后却妄想重新伪装成人类，\n甚至装死不回消息，\n真恶心呢。\n为了咲花小姐的幸福，\n还请您自我开盒吧🖤\n这样即使你以后想当好丈夫，成为好父亲。\n但只要一想到咲花还有上门追债的可能性，\n也只能一辈子活在恐惧之中，做我的狗儿子♡\n#文援 #atm奴 #压榨 #胁迫 https://t.co/72XqjlX9af"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会魅惑并享用钱包的公主殿下🤍\n最最最最喜欢钱包们啦～\n联系方式→2829556413←\n病毒小号@oricz233\n现任魔女学园院长!\n星辰魔女镜璃\n@jingli1840489\n桃心魔女奈奈\n@blakexiaonai\n 黑白魔女花卷\n@miaomiaomi17630\n好老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 52,
+                "username": "oricz233"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 114,
+                "start": 101,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 139,
+                "start": 123,
+                "username": "miaomiaomi17630"
+              },
+              {
+                "end": 158,
+                "start": 143,
+                "username": "chessy80978858"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "魅惑系魔女族公主-奏💜魔女学园院长版～",
+        "pinned_tweet_id": "2013314916120416537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018477066753306624/36q-3UGh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8817,
+          "following_count": 361,
+          "like_count": 633,
+          "listed_count": 38,
+          "media_count": 824,
+          "tweet_count": 2186
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-27T11:49:17.000Z",
+        "description": "诞生于纯粹恶意的人偶，各位称呼我为咲花即可。擅长运用各类毒素侵蚀意志薄弱的人类大哥哥大姐姐们🖤 \n门牌1377762595，🚪20，同行可免，私信看到感兴趣的会回复，锁奴/贡奴招收中～\n最好的姐姐大人:@qingning131",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 101,
+                "username": "qingning131"
+              }
+            ]
+          }
+        },
+        "id": "1739976691970412544",
+        "name": "咲花✨",
+        "pinned_tweet_id": "2046235460335444305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045219683532763136/muJtJPoK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 29,
+          "like_count": 94,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 38
+        },
+        "username": "SakiHana_effigy",
+        "verified": true
+      }
+    ]
+  }
+}

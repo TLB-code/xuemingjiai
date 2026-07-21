@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1927809526230593608",
+    "created_at": "2025-05-28T19:29:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-28T20:29:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927809526230593608"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 30,
+          "start": 19,
+          "tag": "蔷蔷的白名单文媛图鉴"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1886672091241701378",
+          "start": 3,
+          "username": "hamimelon_ovo"
+        },
+        {
+          "end": 85,
+          "id": "1374389254726455305",
+          "start": 73,
+          "username": "xuemingjiai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927809526230593608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926233872154407175",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @hamimelon_ovo: #蔷蔷的白名单文媛图鉴\n文援图鉴 编号026\n文媛昵称：奏奏/魔女公主\nqq号：242184780\n推特号：@xuemingjiai\n收费标准：半小时52，详情见置顶菜单\n擅长类型：绿茶pua，黑心碾压，魔法操控，气味吸脑，极端物化\n雷点：…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1927809526230593608].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1927809526230593608",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1927809526230593608"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1379,
+        "media_key": "3_1926233868748636161",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Grtbf30WwAEwUb_.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1926233868748636161"
+          ]
+        },
+        "author_id": "1886672091241701378",
+        "conversation_id": "1926233872154407175",
+        "created_at": "2025-05-24T11:08:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-24T12:08:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926233872154407175"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 0,
+              "tag": "蔷蔷的白名单文媛图鉴"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 66,
+              "id": "1374389254726455305",
+              "start": 54,
+              "username": "xuemingjiai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tC4nXe5D7f",
+              "end": 148,
+              "expanded_url": "https://x.com/hamimelon_ovo/status/1926233872154407175/photo/1",
+              "media_key": "3_1926233868748636161",
+              "start": 125,
+              "url": "https://t.co/tC4nXe5D7f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926233872154407175",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1798,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "following",
+        "text": "#蔷蔷的白名单文媛图鉴\n文援图鉴 编号026\n文媛昵称：奏奏/魔女公主\nqq号：242184780\n推特号：@xuemingjiai\n收费标准：半小时52，详情见置顶菜单\n擅长类型：绿茶pua，黑心碾压，魔法操控，气味吸脑，极端物化\n雷点：无～全能 https://t.co/tC4nXe5D7f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "集美貌，智慧，强大于一身的魔女族公主现身人世～区区人类，跪下向我表示臣服吧💜\n被我支配 控制 吸脑 成为奴仆💜\n挑战qq242184780，里世界小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858\n女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "oricz233"
+              },
+              {
+                "end": 104,
+                "start": 95,
+                "username": "moelipoi"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "cutelingli"
+              },
+              {
+                "end": 144,
+                "start": 129,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 155,
+                "start": 148,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏💜散播同化病毒中～",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926028406774247424/hWplRg7q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7034,
+          "following_count": 291,
+          "like_count": 326,
+          "listed_count": 32,
+          "media_count": 631,
+          "tweet_count": 1877
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-04T07:04:57.000Z",
+        "description": "各位贵安~这里是文援墙，聚合所有喜爱文援和H的灵魂信念凝聚而成。首先声明!不许调戏蔷蔷!蔷蔷项目菜单一【文援运营咨询】【文援征集悬赏】 【挂人板】【定制文】【文援收款代收】给蔷蔷发的悬赏单请截图告知蔷蔷联系热线2375565349赞助、打赏私戳咱吧w",
+        "id": "1886672091241701378",
+        "name": "文援墙",
+        "pinned_tweet_id": "1897219692991012887",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886678395649712134/LoxP2ald_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2333,
+          "following_count": 74,
+          "like_count": 39,
+          "listed_count": 5,
+          "media_count": 211,
+          "tweet_count": 556
+        },
+        "username": "hamimelon_ovo",
+        "verified": true
+      }
+    ]
+  }
+}

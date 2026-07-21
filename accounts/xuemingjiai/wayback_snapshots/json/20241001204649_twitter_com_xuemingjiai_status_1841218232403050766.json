@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1841218232403050766",
+    "created_at": "2024-10-01T20:46:49.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-01T21:46:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1841218232403050766"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 132,
+          "start": 127,
+          "tag": "atm奴"
+        },
+        {
+          "end": 136,
+          "start": 133,
+          "tag": "贡奴"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1835856265156956160",
+          "start": 3,
+          "username": "MaconAyrto14174"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1841218232403050766",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1841166561014661158",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MaconAyrto14174: 明明不可以吧~🖤是很重要的决定一辈子的比赛\n区区小学水平🖤~明明看清棋子就可以赢了~\n啊嘞？对面的那个废物~怎么越来越菜了~\n原来是偷偷的看了人家的脚底~每看一下脑浆就往外流一点~\n给我输吧弱智！输给小鬼头🖤\n\n#atm奴 #贡奴 #压…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "1841218232403050766",
+        "created_at": "2024-10-01T20:46:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-01T21:46:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1841218232403050766"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 132,
+              "start": 127,
+              "tag": "atm奴"
+            },
+            {
+              "end": 136,
+              "start": 133,
+              "tag": "贡奴"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1835856265156956160",
+              "start": 3,
+              "username": "MaconAyrto14174"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841218232403050766",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1841166561014661158",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MaconAyrto14174: 明明不可以吧~🖤是很重要的决定一辈子的比赛\n区区小学水平🖤~明明看清棋子就可以赢了~\n啊嘞？对面的那个废物~怎么越来越菜了~\n原来是偷偷的看了人家的脚底~每看一下脑浆就往外流一点~\n给我输吧弱智！输给小鬼头🖤\n\n#atm奴 #贡奴 #压…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1841165561151307781"
+          ]
+        },
+        "author_id": "1835856265156956160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1841166561014661158",
+        "created_at": "2024-10-01T17:21:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-01T18:21:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1841166561014661158"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 111,
+              "start": 106,
+              "tag": "atm奴"
+            },
+            {
+              "end": 115,
+              "start": 112,
+              "tag": "贡奴"
+            },
+            {
+              "end": 119,
+              "start": 116,
+              "tag": "压榨"
+            },
+            {
+              "end": 123,
+              "start": 120,
+              "tag": "洗脑"
+            },
+            {
+              "end": 127,
+              "start": 124,
+              "tag": "文援"
+            },
+            {
+              "end": 131,
+              "start": 128,
+              "tag": "上贡"
+            },
+            {
+              "end": 135,
+              "start": 132,
+              "tag": "贡奴"
+            },
+            {
+              "end": 140,
+              "start": 136,
+              "tag": "败北癖"
+            },
+            {
+              "end": 144,
+              "start": 141,
+              "tag": "白给"
+            },
+            {
+              "end": 148,
+              "start": 145,
+              "tag": "色诱"
+            },
+            {
+              "end": 152,
+              "start": 149,
+              "tag": "认输"
+            },
+            {
+              "end": 156,
+              "start": 153,
+              "tag": "抖m"
+            },
+            {
+              "end": 161,
+              "start": 157,
+              "tag": "雌小鬼"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/D9NjdldfoA",
+              "end": 185,
+              "expanded_url": "https://x.com/MaconAyrto14174/status/1841166561014661158/photo/1",
+              "media_key": "3_1841165561151307781",
+              "start": 162,
+              "url": "https://t.co/D9NjdldfoA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841166561014661158",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "明明不可以吧~🖤是很重要的决定一辈子的比赛\n区区小学水平🖤~明明看清棋子就可以赢了~\n啊嘞？对面的那个废物~怎么越来越菜了~\n原来是偷偷的看了人家的脚底~每看一下脑浆就往外流一点~\n给我输吧弱智！输给小鬼头🖤\n\n#atm奴 #贡奴 #压榨 #洗脑 #文援 #上贡 #贡奴 #败北癖 #白给 #色诱 #认输 #抖m #雌小鬼 https://t.co/D9NjdldfoA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "超绝可爱💖\n她就是出道即巅峰的可爱纯真小天使新人偶像魔女小姐💖\n对这样的魔女小姐不能心怀任何涩涩的念想哦，不然就会变得非常糟糕...踏入无法挣脱的陷阱和牢笼里呢💘\n魔女小姐无论说什么做什么都是正确的哦，身为她的粉丝，只需要无条件用各种方式支持她就好了～\nqq2829556413",
+        "id": "1374389254726455305",
+        "name": "电波系新人偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1839039717712724125",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1838988880479162368/gYDpBM6v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5420,
+          "following_count": 202,
+          "like_count": 154,
+          "listed_count": 23,
+          "tweet_count": 1101
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-17T01:40:28.000Z",
+        "description": "和我来玩游戏~被我诱惑~败北~输掉赌金~上瘾~\n自渎颓废丧志🖤闷爽循环~\n被区区小鬼控制思路~累积劣势~傻逼兮兮的输掉~\n嘻嘻~别忍着啦~\n被嘲笑也很爽~被挑衅也很刺激~\n在快赢的时候功亏一篑❤\n连脑浆都输给跳脸小鬼吧~\n\n🚪：3836512498\n门槛：10r",
+        "id": "1835856265156956160",
+        "location": "你的脑子里💙",
+        "name": "灭杀⭐败北贡畜🖤莉莉大人~吸脑棋手🖤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841162307910639616/1jY8V8xz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 44,
+          "like_count": 1,
+          "listed_count": 0,
+          "tweet_count": 1
+        },
+        "username": "MaconAyrto14174",
+        "verified": false
+      }
+    ]
+  }
+}

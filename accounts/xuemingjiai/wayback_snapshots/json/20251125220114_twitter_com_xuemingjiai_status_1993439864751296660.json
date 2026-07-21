@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1993439864751296660",
+    "created_at": "2025-11-25T22:01:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T23:01:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993439864751296660"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "3303126949",
+          "start": 3,
+          "username": "atiur2016"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993439864751296660",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993249845952577943",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @atiur2016: 喜欢把狗狗彻底踩在脚下的感觉呢🖤\n狗狗的弱点或者把柄被主人轻轻踩住～明明只是被温柔的抚摸都会感到恐惧🖤\n稍稍用力一踩🖤就会被主人彻底碾碎呢～\n害怕吗～想逃吗....\n但是为什么又兴奋成这样🖤\n来让云云彻底毁掉你吧🖤这是你的荣幸哦～ https://…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1993439864751296660].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1993439864751296660",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1993439864751296660"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1993249839933800451",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6lyKzHbwAMdA7q.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993249839933800451"
+          ]
+        },
+        "author_id": "3303126949",
+        "conversation_id": "1993249845952577943",
+        "created_at": "2025-11-25T09:26:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T10:26:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993249845952577943"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/t5bdMVxVEi",
+              "end": 139,
+              "expanded_url": "https://x.com/atiur2016/status/1993249845952577943/photo/1",
+              "media_key": "3_1993249839933800451",
+              "start": 116,
+              "url": "https://t.co/t5bdMVxVEi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993249845952577943",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 256,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "喜欢把狗狗彻底踩在脚下的感觉呢🖤\n狗狗的弱点或者把柄被主人轻轻踩住～明明只是被温柔的抚摸都会感到恐惧🖤\n稍稍用力一踩🖤就会被主人彻底碾碎呢～\n害怕吗～想逃吗....\n但是为什么又兴奋成这样🖤\n来让云云彻底毁掉你吧🖤这是你的荣幸哦～ https://t.co/t5bdMVxVEi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n最最最最喜欢钱包们啦!\n天天挨骂真的不会腻嘛～\n擅长用爱意和温柔的语气俘虏钱包～\n联系方式→242184780←\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 77,
+                "username": "oricz233"
+              },
+              {
+                "end": 106,
+                "start": 97,
+                "username": "moelipoi"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "cutelingli"
+              },
+              {
+                "end": 146,
+                "start": 131,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 158,
+                "start": 151,
+                "username": "1xian1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍对钱包们最温柔最有好感版",
+        "pinned_tweet_id": "1976743806063063398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991861278688821248/oCQEPeIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7978,
+          "following_count": 336,
+          "like_count": 642,
+          "listed_count": 37,
+          "media_count": 760,
+          "tweet_count": 2336
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2015-08-01T06:07:19.000Z",
+        "description": "是重新复活的新人文援哦 \n设定是以玩弄他人的快感和钱包为食的s系吸血鬼（雌堕中） \n擅长压榨/寸止/胁迫/射精管理/恋足/剧情向\n如果您也想被我吸干 就请踏入陷阱吧🖤\n 🚪:3361785498  60/1h\n营业时间晚上10点-凌晨1点",
+        "id": "3303126949",
+        "location": "布置陷阱中～",
+        "name": "依云～新人文媛营业中",
+        "pinned_tweet_id": "1980204487504769179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980200281682882561/NwB1MgUd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 12,
+          "like_count": 250,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 21
+        },
+        "username": "atiur2016",
+        "verified": false
+      }
+    ]
+  }
+}

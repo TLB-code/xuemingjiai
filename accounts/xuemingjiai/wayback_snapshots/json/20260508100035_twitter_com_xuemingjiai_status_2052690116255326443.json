@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "2052690116255326443",
+    "created_at": "2026-05-08T10:00:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T11:00:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052690116255326443"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1739976691970412544",
+          "start": 3,
+          "username": "SakiHana_effigy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052690116255326443",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051281120428433776",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SakiHana_effigy: 先生，请问您有什么事情吗？\n从刚才开始就时不时偷偷看我呢...\n是说，公共场合脱鞋不文明？\n可人家走一天路了，\n脚又酸又痛呢...\n啊，有了，不如您跪下来，\n帮本小姐垫脚按摩一下吧♡\n我高兴了也许就会把鞋穿回去呢~\n还请别趁机吸臭发情撸…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2051281106688004096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHedTGKb0AAEGtu.jpg",
+        "width": 1002
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "2052690116255326443",
+        "created_at": "2026-05-08T10:00:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T11:00:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052690116255326443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1739976691970412544",
+              "start": 3,
+              "username": "SakiHana_effigy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052690116255326443",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051281120428433776",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SakiHana_effigy: 先生，请问您有什么事情吗？\n从刚才开始就时不时偷偷看我呢...\n是说，公共场合脱鞋不文明？\n可人家走一天路了，\n脚又酸又痛呢...\n啊，有了，不如您跪下来，\n帮本小姐垫脚按摩一下吧♡\n我高兴了也许就会把鞋穿回去呢~\n还请别趁机吸臭发情撸…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051281106688004096"
+          ]
+        },
+        "author_id": "1739976691970412544",
+        "conversation_id": "2051281120428433776",
+        "created_at": "2026-05-04T12:41:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T13:41:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051281120428433776"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 137,
+              "start": 134,
+              "tag": "文援"
+            },
+            {
+              "end": 141,
+              "start": 138,
+              "tag": "洗脑"
+            },
+            {
+              "end": 145,
+              "start": 142,
+              "tag": "压榨"
+            },
+            {
+              "end": 149,
+              "start": 146,
+              "tag": "上贡"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GDiDsQmI8u",
+              "end": 173,
+              "expanded_url": "https://x.com/SakiHana_effigy/status/2051281120428433776/photo/1",
+              "media_key": "3_2051281106688004096",
+              "start": 150,
+              "url": "https://t.co/GDiDsQmI8u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051281120428433776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 1561,
+          "like_count": 51,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "先生，请问您有什么事情吗？\n从刚才开始就时不时偷偷看我呢...\n是说，公共场合脱鞋不文明？\n可人家走一天路了，\n脚又酸又痛呢...\n啊，有了，不如您跪下来，\n帮本小姐垫脚按摩一下吧♡\n我高兴了也许就会把鞋穿回去呢~\n还请别趁机吸臭发情撸屌哦，您可是正经体面人，对吧🖤\n＃文援 ＃洗脑 ＃压榨 ＃上贡 https://t.co/GDiDsQmI8u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会魅惑并享用钱包的公主殿下🤍\n最最最最喜欢钱包们啦～\n联系方式→2829556413←\n病毒小号@oricz233\n现任魔女学园院长!\n星辰魔女镜璃\n@jingli1840489\n桃心魔女奈奈\n@blakexiaonai\n 黑白魔女花卷\n@miaomiaomi17630\n好老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 52,
+                "username": "oricz233"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 114,
+                "start": 101,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 139,
+                "start": 123,
+                "username": "miaomiaomi17630"
+              },
+              {
+                "end": 158,
+                "start": 143,
+                "username": "chessy80978858"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "魅惑系魔女族公主-奏💜魔女学园院长版～",
+        "pinned_tweet_id": "2013314916120416537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018477066753306624/36q-3UGh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8787,
+          "following_count": 361,
+          "like_count": 633,
+          "listed_count": 37,
+          "media_count": 825,
+          "tweet_count": 2184
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-27T11:49:17.000Z",
+        "description": "诞生于纯粹恶意的人偶，各位称呼我为咲花即可。擅长运用各类毒素侵蚀意志薄弱的人类大哥哥大姐姐们🖤 \n门牌1377762595，🚪20，同行可免，私信看到感兴趣的会回复，锁奴/贡奴招收中～",
+        "id": "1739976691970412544",
+        "name": "咲花✨",
+        "pinned_tweet_id": "2046235460335444305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045219683532763136/muJtJPoK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 27,
+          "like_count": 73,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 25
+        },
+        "username": "SakiHana_effigy",
+        "verified": false
+      }
+    ]
+  }
+}

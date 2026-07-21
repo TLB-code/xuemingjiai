@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1923761744910172312",
+    "created_at": "2025-05-17T15:25:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-17T16:25:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923761744910172312"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "532280267",
+          "start": 3,
+          "username": "cmweidman"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923761744910172312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923703081902145845",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cmweidman: 看到你祭月女爹过来脸上那副白给的傻逼贱样是一点儿都收敛不住啊~❤️刷着祖宗的推文越刷狗脑越退化了是吧？❤️明明之前还是能独当一面的大人~现在倒变成和你那包茎臭软屌大小相称的脑残小婴儿了？❤️hhhh心里估计早就把祭月当成你的亲妈无脑崇拜了吧？❤️…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1923761744910172312].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1923761744910172312",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1923761744910172312"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1923702992584294400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrJdrfZXwAAIRp2.jpg",
+        "width": 1481
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1923702992584294400"
+          ]
+        },
+        "author_id": "532280267",
+        "conversation_id": "1923703081902145845",
+        "created_at": "2025-05-17T11:32:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T12:32:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1923703081902145845"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IGzH6LFLHG",
+              "end": 173,
+              "expanded_url": "https://x.com/cmweidman/status/1923703081902145845/photo/1",
+              "media_key": "3_1923702992584294400",
+              "start": 150,
+              "url": "https://t.co/IGzH6LFLHG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923703081902145845",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 407,
+                "start": 404,
+                "tag": "文爱"
+              },
+              {
+                "end": 411,
+                "start": 408,
+                "tag": "调教"
+              },
+              {
+                "end": 415,
+                "start": 412,
+                "tag": "媚臭"
+              },
+              {
+                "end": 419,
+                "start": 416,
+                "tag": "媚雌"
+              },
+              {
+                "end": 423,
+                "start": 420,
+                "tag": "傻逼"
+              },
+              {
+                "end": 427,
+                "start": 424,
+                "tag": "白给"
+              },
+              {
+                "end": 431,
+                "start": 428,
+                "tag": "女爹"
+              },
+              {
+                "end": 436,
+                "start": 432,
+                "tag": "性幻想"
+              }
+            ]
+          },
+          "text": "看到你祭月女爹过来脸上那副白给的傻逼贱样是一点儿都收敛不住啊~❤️刷着祖宗的推文越刷狗脑越退化了是吧？❤️明明之前还是能独当一面的大人~现在倒变成和你那包茎臭软屌大小相称的脑残小婴儿了？❤️hhhh心里估计早就把祭月当成你的亲妈无脑崇拜了吧？❤️❤️❤️心里对于「雌性」「母性」的崇拜之情被祭月亲妈无限开发🖤承认自己身为卑贱男性就应该臣服在祭月妈的脚下~🖤承认自己对于祭月妈的高贵魅力毫无抵抗力~🖤承认自己在祭月妈的淫熟艳美火爆雌躯面前只有撸屌的份~🖤承认只要多看祭月妈一眼大脑就再多暴毙一块直到变成真正的无脑傻逼废蛆~🖤看吧~正在看着推文的傻逼们~只有在你亲妈的引导下越来越能够领悟到自己存在的深层意义感悟到更大的快乐🖤那么还在等什么呢？听话的好儿子现在就应该甩着媚雌媚臭的废物鸡巴匍匐到亲妈的脚下🖤闻着祭月亲妈的油焖淫汗雌臭异香尽情撸动瘙痒燥热的骚狗软屌~在祭月亲妈的注视下找到自己最真实最没用的那一面🖤#文爱 #调教 #媚臭 #媚雌 #傻逼 #白给 #女爹 #性幻想"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 965,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "看到你祭月女爹过来脸上那副白给的傻逼贱样是一点儿都收敛不住啊~❤️刷着祖宗的推文越刷狗脑越退化了是吧？❤️明明之前还是能独当一面的大人~现在倒变成和你那包茎臭软屌大小相称的脑残小婴儿了？❤️hhhh心里估计早就把祭月当成你的亲妈无脑崇拜了吧？❤️❤️❤️心里对于「雌性」「母性」的崇拜之情被祭月亲妈 https://t.co/IGzH6LFLHG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "集美貌，智慧，强大于一身的魔女族公主现身人世～区区人类，跪下向我表示臣服吧💜\n被我支配 控制 吸脑 成为奴仆💜\n挑战qq242184780，里世界小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858\n女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "oricz233"
+              },
+              {
+                "end": 104,
+                "start": 95,
+                "username": "moelipoi"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "cutelingli"
+              },
+              {
+                "end": 144,
+                "start": 129,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 155,
+                "start": 148,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏💜强势登场人间",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923161284247420929/dv1s2unV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6908,
+          "following_count": 283,
+          "like_count": 314,
+          "listed_count": 31,
+          "media_count": 609,
+          "tweet_count": 1806
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2012-03-21T14:41:16.000Z",
+        "description": "储臭奴的高贵长靴女爹/丝足极致淫臭榨干一切媚雌傻逼的价值/爆耍处男主动送死肉棒的同时将靴臭强行灌脑并改造为极度恋臭的丧脑垃圾——贪婪 拜金 且胃口很大～🖤\n文调🖤┃丝足气味🖤┃绿龟舔狗🖤┃提款爆耍🖤┃寸止地狱🖤┃模拟女友🖤┃\n30r/0.5h 🚪2757411931\n礼貌的男孩子优先哦～ #文爱",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 148,
+                "start": 145,
+                "tag": "文爱"
+              }
+            ]
+          }
+        },
+        "id": "532280267",
+        "location": "和你有关系吗？",
+        "name": "🖤祭月Sama",
+        "pinned_tweet_id": "1889288821097070870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821887105301110784/Coum-iF__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6354,
+          "following_count": 35,
+          "like_count": 36,
+          "listed_count": 17,
+          "media_count": 78,
+          "tweet_count": 154
+        },
+        "username": "cmweidman",
+        "verified": true
+      }
+    ]
+  }
+}

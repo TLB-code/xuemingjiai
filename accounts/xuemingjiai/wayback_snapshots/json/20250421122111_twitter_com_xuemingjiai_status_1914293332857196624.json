@@ -1,0 +1,363 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for New Years Eve for all years.",
+          "id": "1319305164751163393",
+          "name": "New Years Eve"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for the New Year's day for all years. ",
+          "id": "1457786335108816904",
+          "name": "New Year's day"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for New Years Eve for all years.",
+          "id": "1319305164751163393",
+          "name": "New Years Eve"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for the New Year's day for all years. ",
+          "id": "1457786335108816904",
+          "name": "New Year's day"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Holidays",
+          "id": "847548225712119808",
+          "name": "Holidays"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291095284756357120",
+          "name": "Cultural events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1296381531510849536",
+          "name": "New Years Eve\t"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for the New Year's day for all years. ",
+          "id": "1457786335108816904",
+          "name": "New Year's day"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "1914293332857196624",
+    "created_at": "2025-04-21T12:21:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-21T13:21:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914293332857196624"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1545077939510730752",
+          "start": 3,
+          "username": "molijiushiruci1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914293332857196624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 39
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884587084234772818",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @molijiushiruci1: 新年快乐哦～各位贱狗粉丝！\n\n茉莉祝你们新年越来越顺利～越来越健康～开开心心的过好2025年呢——\n\n当然，也要在茉莉面前越来越下贱～越来越无脑～2025年也要跪伏在茉莉大人的白丝小皮鞋之下～翻着白眼丧志崇拜哦🖤\n\n现在，可以给茉莉压岁…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1914293332857196624].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1914293332857196624",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1914293332857196624"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "alt_text": "那么～小傻屄们🖤\n本次的任务是：2025年事事顺心～身体健康，只有这样才能好好的服侍你的茉莉祖宗，不是吗🖤\n可以给茉莉上贡13.14r的压岁钱了哦～白痴钱包贡奴🖤记得备注『压岁钱🖤』三个字哦～\n在茉莉这里献出自己的『新年第一贡』吧（笑）\n傻屄🖤",
+        "height": 1474,
+        "media_key": "3_1884587080103440386",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gidl9uHbMAIDlUO.jpg",
+        "width": 1242
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1884587080103440386"
+          ]
+        },
+        "author_id": "1545077939510730752",
+        "conversation_id": "1884587084234772818",
+        "created_at": "2025-01-29T12:59:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-29T13:59:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884587084234772818"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 134,
+              "start": 131,
+              "tag": "文媛"
+            },
+            {
+              "end": 138,
+              "start": 135,
+              "tag": "上贡"
+            },
+            {
+              "end": 142,
+              "start": 139,
+              "tag": "榨金"
+            },
+            {
+              "end": 148,
+              "start": 143,
+              "tag": "ATM奴"
+            },
+            {
+              "end": 153,
+              "start": 149,
+              "tag": "dom"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iOoTlXiG7E",
+              "end": 177,
+              "expanded_url": "https://x.com/molijiushiruci1/status/1884587084234772818/photo/1",
+              "media_key": "3_1884587080103440386",
+              "start": 154,
+              "url": "https://t.co/iOoTlXiG7E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884587084234772818",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 38886,
+          "like_count": 217,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "新年快乐哦～各位贱狗粉丝！\n\n茉莉祝你们新年越来越顺利～越来越健康～开开心心的过好2025年呢——\n\n当然，也要在茉莉面前越来越下贱～越来越无脑～2025年也要跪伏在茉莉大人的白丝小皮鞋之下～翻着白眼丧志崇拜哦🖤\n\n现在，可以给茉莉压岁钱了哦～\n傻屄白痴钱包🖤\n#文媛 #上贡 #榨金 #ATM奴 #dom https://t.co/iOoTlXiG7E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "您好～这里是一直致力于为小雏男哥哥们提供“舒适”“安全”“极致射金体验”的纯真妹系小天使魔女妹妹💚\n想更加了解请翻看推文～\nqq2829556413，病毒小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858\n女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 79,
+                "username": "oricz233"
+              },
+              {
+                "end": 108,
+                "start": 99,
+                "username": "moelipoi"
+              },
+              {
+                "end": 126,
+                "start": 115,
+                "username": "cutelingli"
+              },
+              {
+                "end": 148,
+                "start": 133,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 159,
+                "start": 152,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系天使偶像魔女小姐💖女仆限定版♪",
+        "pinned_tweet_id": "1912930515570835816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909108552796651520/gRlgoaOf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6711,
+          "following_count": 273,
+          "like_count": 303,
+          "listed_count": 29,
+          "media_count": 574,
+          "tweet_count": 1585
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-07T16:11:11.000Z",
+        "description": "一个擅长气味调教与羞辱的扶她魅魔女仆🖤加咱的时候记的带20r门槛哦，门牌见置顶推评论区，tg：https://t.co/kNKviCT2T9 \n点击偷窥茉莉私生活→@MaidmoliS",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 82,
+                "username": "MaidmoliS"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/moli_0312",
+                "end": 70,
+                "expanded_url": "http://t.me/moli_0312",
+                "start": 47,
+                "url": "https://t.co/kNKviCT2T9"
+              }
+            ]
+          }
+        },
+        "id": "1545077939510730752",
+        "location": "在你的心里~或是踩在你的脸上♡",
+        "name": "魅魔女仆🖤茉莉（随机营业中）",
+        "pinned_tweet_id": "1769765224091918487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878292043602219008/tyh6DTAf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13832,
+          "following_count": 393,
+          "like_count": 1869,
+          "listed_count": 34,
+          "media_count": 321,
+          "tweet_count": 5252
+        },
+        "username": "molijiushiruci1",
+        "verified": false
+      }
+    ]
+  }
+}

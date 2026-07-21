@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1851901451775492563",
+    "created_at": "2024-10-31T08:18:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-31T09:18:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1851901451775492563"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1629314139238830080",
+          "start": 3,
+          "username": "LL_chaoH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1851901451775492563",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1851899511863705755",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LL_chaoH: 怀孕后休学老师就再没联系过自己了，似乎就连玩物也不配做了…天天再风俗街摇晃着大奶子用极其廉价的价格赚奶粉钱♡\n\n当然对于这种学生也消费得起的价格，以前的同学也一个个来捧场，用暴力性爱来报复这个原本高高在上的反差母猪，一边回忆着当初施虐狂模样的“女王”…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1851901451775492563].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1851901451775492563",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1851901451775492563"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1851899508797640706"
+          ]
+        },
+        "author_id": "1629314139238830080",
+        "conversation_id": "1851899511863705755",
+        "created_at": "2024-10-31T08:10:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-31T09:10:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1851899511863705755"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 138,
+              "start": 135,
+              "tag": "文媛"
+            },
+            {
+              "end": 143,
+              "start": 139,
+              "tag": "性幻想"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/niD63bd47V",
+              "end": 167,
+              "expanded_url": "https://x.com/LL_chaoH/status/1851899511863705755/photo/1",
+              "media_key": "3_1851899508797640706",
+              "start": 144,
+              "url": "https://t.co/niD63bd47V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1851899511863705755",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "怀孕后休学老师就再没联系过自己了，似乎就连玩物也不配做了…天天再风俗街摇晃着大奶子用极其廉价的价格赚奶粉钱♡\n\n当然对于这种学生也消费得起的价格，以前的同学也一个个来捧场，用暴力性爱来报复这个原本高高在上的反差母猪，一边回忆着当初施虐狂模样的“女王”一边操这个浪荡妓女\n#文媛 #性幻想 https://t.co/niD63bd47V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "超绝可爱💖\n她就是出道即巅峰的可爱纯真小天使新人偶像魔女小姐💖\n对这样的魔女小姐不能心怀任何涩涩的念想哦，不然就会变得非常糟糕...踏入无法挣脱的陷阱和牢笼里呢💘\n魔女小姐无论说什么做什么都是正确的哦，身为她的粉丝，只需要无条件用各种方式支持她就好了～\nqq2829556413",
+        "id": "1374389254726455305",
+        "name": "电波系新人偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851527988380315648/MjAgrWHr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5721,
+          "following_count": 216,
+          "like_count": 181,
+          "listed_count": 23,
+          "tweet_count": 1243
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-25T02:55:42.000Z",
+        "description": "■我是痴女系的反差偶像♡洛璃。                                       \n■一位全天都会发情的yin乱偶像，日常把淫語掛在嘴邊的变态女，所以不要有所顾忌，自由自在的侵犯我\n           ✿  门槛13.14r/每小时66.66r 1573687158🐧",
+        "id": "1629314139238830080",
+        "location": "水龙敬公园",
+        "name": "超淫气偶像★槍間 洛离",
+        "pinned_tweet_id": "1765372199555543485",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1764272896841781248/gIluVtKm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7262,
+          "following_count": 460,
+          "like_count": 2178,
+          "listed_count": 40,
+          "tweet_count": 2988
+        },
+        "username": "LL_chaoH",
+        "verified": false
+      }
+    ]
+  }
+}

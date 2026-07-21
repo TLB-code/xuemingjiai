@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1980305367704957034",
+    "created_at": "2025-10-20T16:09:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T17:09:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980305367704957034"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1374389254726455305",
+          "start": 3,
+          "username": "xuemingjiai"
+        },
+        {
+          "end": 106,
+          "id": "1585357847004516353",
+          "start": 91,
+          "username": "qinqinjingli00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980305367704957034",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980255845062701269",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xuemingjiai: 上一期的问卷福利抽奖活动已经结束了哦～可以看看私信有没有收到本公主的奖励了～\n同时，第二次问卷抽奖活动开始啦\n本次依旧是转发评论，还有关注本公主女儿@qinqinjingli00 镜璃的新号就可以参与抽奖啦，本次就抽选十份问卷吧\n另外，限时活动…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1980305367704957034].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1980305367704957034",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1980305367704957034"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1528,
+        "media_key": "3_1980255842092843008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3tIMlBWAAAxXYt.jpg",
+        "width": 1016
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980255842092843008"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "1980255845062701269",
+        "created_at": "2025-10-20T12:52:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T13:52:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980255845062701269"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 89,
+              "id": "1585357847004516353",
+              "start": 74,
+              "username": "qinqinjingli00"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WmQZ5y1OJx",
+              "end": 173,
+              "expanded_url": "https://x.com/xuemingjiai/status/1980255845062701269/photo/1",
+              "media_key": "3_1980255842092843008",
+              "start": 150,
+              "url": "https://t.co/WmQZ5y1OJx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980255845062701269",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1135,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "上一期的问卷福利抽奖活动已经结束了哦～可以看看私信有没有收到本公主的奖励了～\n同时，第二次问卷抽奖活动开始啦\n本次依旧是转发评论，还有关注本公主女儿@qinqinjingli00 镜璃的新号就可以参与抽奖啦，本次就抽选十份问卷吧\n另外，限时活动开启，找镜璃下单任意时长就可以免费获得本公主的问卷哦🤍 https://t.co/WmQZ5y1OJx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n最最最最喜欢钱包们啦!\n天天挨骂真的不会腻嘛～\n擅长用爱意和温柔的语气俘虏钱包～\n联系方式→3971546171←\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 78,
+                "username": "oricz233"
+              },
+              {
+                "end": 107,
+                "start": 98,
+                "username": "moelipoi"
+              },
+              {
+                "end": 125,
+                "start": 114,
+                "username": "cutelingli"
+              },
+              {
+                "end": 147,
+                "start": 132,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 159,
+                "start": 152,
+                "username": "1xian1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARosxSy"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍对钱包们最温柔最有好感版",
+        "pinned_tweet_id": "1976743806063063398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969152325731168256/ozl0k8K4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7856,
+          "following_count": 330,
+          "like_count": 644,
+          "listed_count": 34,
+          "media_count": 743,
+          "tweet_count": 2261
+        },
+        "url": "https://t.co/le8ARosxSy",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-26T19:50:09.000Z",
+        "description": "客人们好~这里是新人文媛镜璃，既可以是温柔妈咪~可以是可爱姐姐/妹妹~当然……也可以当可怕残忍的压榨主使用钱包哦🖤（不涉三哦）目前主要玩法有：剧情文爱/黑心/绿茶/榨金/洗脑/寸止（拓展中），门牌🚪q3775591357，致力于让大家都开开心心舒舒服服的喔❤️欢迎前来光顾~最可爱的奏奏：@xuemingjiai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "xuemingjiai"
+              }
+            ]
+          }
+        },
+        "id": "1585357847004516353",
+        "location": "镜璃的柔软小床~深夜也欢迎打扰哦~",
+        "name": "镜璃哟~",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974138400816181251/PLvmSBPB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 505,
+          "like_count": 332,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 1
+        },
+        "username": "qinqinjingli00",
+        "verified": false
+      }
+    ]
+  }
+}

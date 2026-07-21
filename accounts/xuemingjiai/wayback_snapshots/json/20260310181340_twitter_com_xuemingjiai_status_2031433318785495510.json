@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2031431983755403264",
+        "3_2031432041649287169",
+        "3_2031432082279510019",
+        "3_2031432118480629760"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2031433318785495510",
+    "created_at": "2026-03-10T18:13:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T19:13:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2031433318785495510"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PKUcXvtSfE",
+          "end": 172,
+          "expanded_url": "https://x.com/xuemingjiai/status/2031433318785495510/photo/1",
+          "media_key": "3_2031431983755403264",
+          "start": 149,
+          "url": "https://t.co/PKUcXvtSfE"
+        },
+        {
+          "display_url": "pic.x.com/PKUcXvtSfE",
+          "end": 172,
+          "expanded_url": "https://x.com/xuemingjiai/status/2031433318785495510/photo/1",
+          "media_key": "3_2031432041649287169",
+          "start": 149,
+          "url": "https://t.co/PKUcXvtSfE"
+        },
+        {
+          "display_url": "pic.x.com/PKUcXvtSfE",
+          "end": 172,
+          "expanded_url": "https://x.com/xuemingjiai/status/2031433318785495510/photo/1",
+          "media_key": "3_2031432082279510019",
+          "start": 149,
+          "url": "https://t.co/PKUcXvtSfE"
+        },
+        {
+          "display_url": "pic.x.com/PKUcXvtSfE",
+          "end": 172,
+          "expanded_url": "https://x.com/xuemingjiai/status/2031433318785495510/photo/1",
+          "media_key": "3_2031432118480629760",
+          "start": 149,
+          "url": "https://t.co/PKUcXvtSfE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031433318785495510",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好不容易还清欠本公主的负债了？\n那就来结算一下利息吧🤍\n因为还得太慢，利息和本金一样也很合理吧♪\n如果感觉刺激不够，射不出来，怎么办呢？\n那就高频率往上增加利息就好了~\n再不赶紧早泄出来，利息就会滚得越来越多喔♡\n在这样的高压刺激下很快的就缴械投降了...\n那\n1100元的利息，本公主收下了喔🤍 https://t.co/PKUcXvtSfE"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2031433318785495510].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2031433318785495510",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2031433318785495510"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2031431983755403264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDEYoFEboAATyiL.jpg",
+        "width": 660
+      },
+      {
+        "height": 2789,
+        "media_key": "3_2031432041649287169",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDEYrcvaMAETJRq.jpg",
+        "width": 610
+      },
+      {
+        "height": 2371,
+        "media_key": "3_2031432082279510019",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDEYt0GaMAMHAqd.jpg",
+        "width": 610
+      },
+      {
+        "height": 2715,
+        "media_key": "3_2031432118480629760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDEYv69bcAAranM.jpg",
+        "width": 610
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会魅惑并享用钱包的公主殿下🤍\n最最最最喜欢钱包们啦～\n联系方式→2829556413←\n病毒小号@oricz233\n现任魔女学园院长!\n星辰魔女镜璃\n@jingli1840489\n桃心魔女奈奈\n@blakexiaonai\n 黑白魔女花卷\n@miaomiaomi17630\n好老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 52,
+                "username": "oricz233"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 114,
+                "start": 101,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 139,
+                "start": 123,
+                "username": "miaomiaomi17630"
+              },
+              {
+                "end": 158,
+                "start": 143,
+                "username": "chessy80978858"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "魅惑系魔女族公主-奏💜魔女学园院长版～",
+        "pinned_tweet_id": "2013314916120416537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018477066753306624/36q-3UGh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8718,
+          "following_count": 366,
+          "like_count": 646,
+          "listed_count": 35,
+          "media_count": 819,
+          "tweet_count": 2165
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

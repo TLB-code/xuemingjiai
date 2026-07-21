@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1923736672078004652",
+    "created_at": "2025-05-17T14:36:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-17T15:36:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923749346505576708"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2805327607",
+          "start": 0,
+          "username": "dokuzo2022"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923749346505576708",
+    "in_reply_to_user_id": "2805327607",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923736672078004652",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dokuzo2022 会的喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "1923736672078004652",
+        "created_at": "2025-05-17T14:36:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T15:36:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923749346505576708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2805327607",
+              "start": 0,
+              "username": "dokuzo2022"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923749346505576708",
+        "in_reply_to_user_id": "2805327607",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923736672078004652",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dokuzo2022 会的喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2805327607",
+        "conversation_id": "1923736672078004652",
+        "created_at": "2025-05-17T13:45:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T14:45:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1923736672078004652"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1923736672078004652",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "變回奏了，好好過生活捏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "集美貌，智慧，强大于一身的魔女族公主现身人世～区区人类，跪下向我表示臣服吧💜\n被我支配 控制 吸脑 成为奴仆💜\n挑战qq242184780，里世界小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858\n女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "oricz233"
+              },
+              {
+                "end": 104,
+                "start": 95,
+                "username": "moelipoi"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "cutelingli"
+              },
+              {
+                "end": 144,
+                "start": 129,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 155,
+                "start": 148,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏💜强势登场人间",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923161284247420929/dv1s2unV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6907,
+          "following_count": 283,
+          "like_count": 313,
+          "listed_count": 31,
+          "media_count": 609,
+          "tweet_count": 1804
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2014-09-12T10:00:21.000Z",
+        "description": "もううつ垢になりました",
+        "id": "2805327607",
+        "location": "台灣",
+        "name": "dokuzo",
+        "pinned_tweet_id": "1673247954302537728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1571207815343251456/zpDm5ElE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 30,
+          "like_count": 15056,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 2701
+        },
+        "username": "dokuzo2022",
+        "verified": false
+      }
+    ]
+  }
+}

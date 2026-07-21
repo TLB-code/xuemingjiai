@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "2057978522858389866",
+    "created_at": "2026-05-23T00:14:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T01:14:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057978522858389866"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1852789721409196032",
+          "start": 3,
+          "username": "ngwsssb233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057978522858389866",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057976985998238133",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ngwsssb233: 啊对了，加好友通过以后默认无人权，每一位宿主的白给犯贱记录都不会打上任何马赛克，请您放心呢🖤\n毕竟咱可是无同情心只想把您吃干抹净的吸血鬼呢🖤\n也就是说，只要一不小心精虫上脑添加好友送了门槛，就会成为本小姐的战利品，被挂出来，给所有人公开展示唾弃羞…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2057976973310529536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI9nJ1IbkAAeOBW.jpg",
+        "width": 1282
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "2057978522858389866",
+        "created_at": "2026-05-23T00:14:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T01:14:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057978522858389866"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1852789721409196032",
+              "start": 3,
+              "username": "ngwsssb233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057978522858389866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057976985998238133",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ngwsssb233: 啊对了，加好友通过以后默认无人权，每一位宿主的白给犯贱记录都不会打上任何马赛克，请您放心呢🖤\n毕竟咱可是无同情心只想把您吃干抹净的吸血鬼呢🖤\n也就是说，只要一不小心精虫上脑添加好友送了门槛，就会成为本小姐的战利品，被挂出来，给所有人公开展示唾弃羞…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057976973310529536"
+          ]
+        },
+        "author_id": "1852789721409196032",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2057976985998238133",
+        "created_at": "2026-05-23T00:08:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T01:08:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057976985998238133"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sEjHgEgHCn",
+              "end": 165,
+              "expanded_url": "https://x.com/ngwsssb233/status/2057976985998238133/photo/1",
+              "media_key": "3_2057976973310529536",
+              "start": 142,
+              "url": "https://t.co/sEjHgEgHCn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057976985998238133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "啊对了，加好友通过以后默认无人权，每一位宿主的白给犯贱记录都不会打上任何马赛克，请您放心呢🖤\n毕竟咱可是无同情心只想把您吃干抹净的吸血鬼呢🖤\n也就是说，只要一不小心精虫上脑添加好友送了门槛，就会成为本小姐的战利品，被挂出来，给所有人公开展示唾弃羞辱，您会好好享受这份背德的快感对吗🖤 https://t.co/sEjHgEgHCn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会魅惑并享用钱包的公主殿下🤍\n精通各种处刑钱包的方法🖤\n联系方式→2829556413←\n病毒小号@oricz233\n现任魔女学园院长\n星辰魔女镜璃\n@jingli1840489\n桃心魔女奈奈\n@blakexiaonai\n 黑白魔女花卷\n@miaomiaomi17630\n好老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "oricz233"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 114,
+                "start": 101,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 139,
+                "start": 123,
+                "username": "miaomiaomi17630"
+              },
+              {
+                "end": 158,
+                "start": 143,
+                "username": "chessy80978858"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "全能魅惑系魔女族公主-奏💜魔女学园院长版～",
+        "pinned_tweet_id": "2013314916120416537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055327575581556736/-ZRgWKku_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8820,
+          "following_count": 365,
+          "like_count": 636,
+          "listed_count": 37,
+          "media_count": 825,
+          "tweet_count": 2195
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-02T19:08:22.000Z",
+        "description": "当然是字面意思咯~\n生活方式就是吸食和寄生人类的血液，劳动力，金钱甚至是皮囊活下去。\n平等的瞧不起所有人，认为你们这些人类都是低我一等的垃圾，不服从命令就去死。\n嘴臭，黑心，任性，看见瞧上眼的推文或者图片无责任修改征用发推，被使用了你该给我磕头。\n无性别，问就是皮下男，傻逼怎么事那么多呢，脑残。\nq3890353740",
+        "id": "1852789721409196032",
+        "location": "東京 国立市",
+        "name": "吸血鬼🖤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057964962874871808/WbRTo3eg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 127,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 17
+        },
+        "username": "ngwsssb233",
+        "verified": false
+      }
+    ]
+  }
+}

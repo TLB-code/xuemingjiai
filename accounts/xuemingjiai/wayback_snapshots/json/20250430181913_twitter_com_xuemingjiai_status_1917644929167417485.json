@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1917644925015056387"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "1917504208796016871",
+    "created_at": "2025-04-30T18:19:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-30T19:19:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917644929167417485"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1317722221784272897",
+          "start": 0,
+          "username": "leilan_wy_jy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UBkLE5ijWv",
+          "end": 185,
+          "expanded_url": "https://x.com/xuemingjiai/status/1917644929167417485/photo/1",
+          "media_key": "3_1917644925015056387",
+          "start": 162,
+          "url": "https://t.co/UBkLE5ijWv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917644929167417485",
+    "in_reply_to_user_id": "1317722221784272897",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917504208796016871",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@leilan_wy_jy 晚上好～这里是会使用魔法的全能电波系文援姬——魔女小姐💜\n超绿茶?非常腹黑?有点可爱?极端黑心?\n沾上魔女妹妹的病毒这辈子就完了?\n以上都是屏幕面前的小雏男们给我的标签啦～听起来确实很可怕呢...\n营业时间是全天哦～深夜一般是通宵的，毕竟“吸血鬼”出没的时间都在夜晚嘛～\n点击头像置顶有菜单哦♪ https://t.co/UBkLE5ijWv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1917644925015056387",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpzX5jDaYAMB1KG.jpg",
+        "width": 1080
+      },
+      {
+        "height": 750,
+        "media_key": "3_1906694387977080832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnXwcZqa0AA38gR.jpg",
+        "width": 1312
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1917644925015056387"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "1917504208796016871",
+        "created_at": "2025-04-30T18:19:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T19:19:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917644929167417485"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1317722221784272897",
+              "start": 0,
+              "username": "leilan_wy_jy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UBkLE5ijWv",
+              "end": 185,
+              "expanded_url": "https://x.com/xuemingjiai/status/1917644929167417485/photo/1",
+              "media_key": "3_1917644925015056387",
+              "start": 162,
+              "url": "https://t.co/UBkLE5ijWv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917644929167417485",
+        "in_reply_to_user_id": "1317722221784272897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917504208796016871",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@leilan_wy_jy 晚上好～这里是会使用魔法的全能电波系文援姬——魔女小姐💜\n超绿茶?非常腹黑?有点可爱?极端黑心?\n沾上魔女妹妹的病毒这辈子就完了?\n以上都是屏幕面前的小雏男们给我的标签啦～听起来确实很可怕呢...\n营业时间是全天哦～深夜一般是通宵的，毕竟“吸血鬼”出没的时间都在夜晚嘛～\n点击头像置顶有菜单哦♪ https://t.co/UBkLE5ijWv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1906694387977080832"
+          ]
+        },
+        "author_id": "1317722221784272897",
+        "conversation_id": "1917504208796016871",
+        "created_at": "2025-04-30T09:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T10:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917504208796016871"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 81,
+              "start": 78,
+              "tag": "文援"
+            },
+            {
+              "end": 86,
+              "start": 82,
+              "tag": "耒兰诏"
+            },
+            {
+              "end": 90,
+              "start": 87,
+              "tag": "文爱"
+            },
+            {
+              "end": 95,
+              "start": 91,
+              "tag": "文援姬"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/i1OelKpS81",
+              "end": 119,
+              "expanded_url": "https://x.com/leilan_wy_jy/status/1917504208796016871/photo/1",
+              "media_key": "3_1906694387977080832",
+              "start": 96,
+              "url": "https://t.co/i1OelKpS81"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917504208796016871",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1351,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 41,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "【耒兰的傍晚文援公告板】\n有人放烟花，有人追晚风，借一缕时光，捧一片星空。\n——\n文援姬请回复自己的营业时间和价格！\n客人请回复想要的剧情和出价(重要)！\n#文援 #耒兰诏 #文爱 #文援姬 https://t.co/i1OelKpS81"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "您好～这里是一直致力于为小雏男哥哥们提供“舒适”“安全”“极致射金体验”的纯真妹系小天使魔女妹妹💚\n想更加了解请翻看推文～\nqq242184780，病毒小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858\n女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 78,
+                "username": "oricz233"
+              },
+              {
+                "end": 107,
+                "start": 98,
+                "username": "moelipoi"
+              },
+              {
+                "end": 125,
+                "start": 114,
+                "username": "cutelingli"
+              },
+              {
+                "end": 147,
+                "start": 132,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 158,
+                "start": 151,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系天使偶像魔女小姐💖女仆限定版♪",
+        "pinned_tweet_id": "1912930515570835816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909108552796651520/gRlgoaOf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6822,
+          "following_count": 278,
+          "like_count": 306,
+          "listed_count": 29,
+          "media_count": 587,
+          "tweet_count": 1629
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-18T07:00:50.000Z",
+        "description": "联系请私聊！\n可以帮文援姬按模板【免费推广】，\n没有次数限制但有频率限制，模板是主页置顶哦~\n设定是金毛双尾小个子狐娘！\n#耒兰访 #耒兰谊 尽力更新！\n想要我联系文援姬，也可以私信我。\n没有被投稿人转推的推文请小心。\n限制更少的（商业）推广在 @leilan_magazine",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 65,
+                "start": 61,
+                "tag": "耒兰访"
+              },
+              {
+                "end": 70,
+                "start": 66,
+                "tag": "耒兰谊"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 139,
+                "start": 123,
+                "username": "leilan_magazine"
+              }
+            ]
+          }
+        },
+        "id": "1317722221784272897",
+        "location": "离你不远。",
+        "name": "文援姬投稿推广~耒兰~leilan",
+        "pinned_tweet_id": "1740714095832396000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1540618453065019392/NEgQI_7o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12095,
+          "following_count": 680,
+          "like_count": 186,
+          "listed_count": 36,
+          "media_count": 3962,
+          "tweet_count": 4379
+        },
+        "username": "leilan_wy_jy",
+        "verified": true
+      }
+    ]
+  }
+}

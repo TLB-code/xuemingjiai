@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1914211249719747033",
+    "created_at": "2025-04-21T06:55:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-21T07:55:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914211249719747033"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1774950152643739648",
+          "start": 3,
+          "username": "qiranlove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914211249719747033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914205993757819293",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qiranlove: 便器母猪♡飞机杯~遵命♡按照大鸡巴祖宗主人命令♡在见到主人的时候土下座下跪磕头张嘴等待大鸡吧和圣水尿液的赏赐♡将骚臭尿液视味婊子母畜的琼浆玉液♡♡呼…（一对美眸翻出白眼失神痴倒在盆尿鸡巴底下…生怕遗漏一丝一毫的尿液咏双手承接♡等待着主人尿完吐舌清理…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1914211249719747033].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1914211249719747033",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1914211249719747033"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 600,
+        "media_key": "3_1914205861591011328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpCgFtcaUAAFjxh.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1914205861591011328"
+          ]
+        },
+        "author_id": "1774950152643739648",
+        "conversation_id": "1914205993757819293",
+        "created_at": "2025-04-21T06:34:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T07:34:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914205993757819293"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FPdAO8KU77",
+              "end": 164,
+              "expanded_url": "https://x.com/qiranlove/status/1914205993757819293/photo/1",
+              "media_key": "3_1914205861591011328",
+              "start": 141,
+              "url": "https://t.co/FPdAO8KU77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914205993757819293",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 169,
+                "start": 166,
+                "tag": "母猪"
+              },
+              {
+                "end": 174,
+                "start": 170,
+                "tag": "肉便器"
+              },
+              {
+                "end": 178,
+                "start": 175,
+                "tag": "马桶"
+              },
+              {
+                "end": 182,
+                "start": 179,
+                "tag": "圣水"
+              }
+            ]
+          },
+          "text": "便器母猪♡飞机杯~遵命♡按照大鸡巴祖宗主人命令♡在见到主人的时候土下座下跪磕头张嘴等待大鸡吧和圣水尿液的赏赐♡将骚臭尿液视味婊子母畜的琼浆玉液♡♡呼…（一对美眸翻出白眼失神痴倒在盆尿鸡巴底下…生怕遗漏一丝一毫的尿液咏双手承接♡等待着主人尿完吐舌清理鸡巴）给…给主人♡清理干净了……贱屄马桶婊子柒柒♡完成吞咽圣水任务♡祖宗主人万岁♡\n#母猪 #肉便器 #马桶 #圣水"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 92,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "便器母猪♡飞机杯~遵命♡按照大鸡巴祖宗主人命令♡在见到主人的时候土下座下跪磕头张嘴等待大鸡吧和圣水尿液的赏赐♡将骚臭尿液视味婊子母畜的琼浆玉液♡♡呼…（一对美眸翻出白眼失神痴倒在盆尿鸡巴底下…生怕遗漏一丝一毫的尿液咏双手承接♡等待着主人尿完吐舌清理鸡巴）给…给主人♡清理干净了…… https://t.co/FPdAO8KU77"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "您好～这里是一直致力于为小雏男哥哥们提供“舒适”“安全”“极致射金体验”的纯真妹系小天使魔女妹妹💚\n想更加了解请翻看推文～\nqq2829556413，病毒小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858\n女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 79,
+                "username": "oricz233"
+              },
+              {
+                "end": 108,
+                "start": 99,
+                "username": "moelipoi"
+              },
+              {
+                "end": 126,
+                "start": 115,
+                "username": "cutelingli"
+              },
+              {
+                "end": 148,
+                "start": 133,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 159,
+                "start": 152,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系天使偶像魔女小姐💖女仆限定版♪",
+        "pinned_tweet_id": "1912930515570835816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909108552796651520/gRlgoaOf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6707,
+          "following_count": 273,
+          "like_count": 285,
+          "listed_count": 29,
+          "media_count": 572,
+          "tweet_count": 1567
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-02T00:01:23.000Z",
+        "description": "肉畜母婊文援姬♡身心全部都堕落沦为丧志母畜的婊子人偶玩物♡见到主人肉屌瞬间丧志的反差雌犬♡擅长服侍野爹大人们，xp全能，无下限♡可以被尽情使用。无论是被巨根征服，还是榨干废物肉虫都不在话下的肉畜精壶♡\n收费60/h\nqq门牌号：3259563015\n 2010380292\n时间中午到凌晨五点\n电报：@qiranlove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 160,
+                "start": 150,
+                "username": "qiranlove"
+              }
+            ]
+          }
+        },
+        "id": "1774950152643739648",
+        "location": "野爹胯下♡",
+        "name": "人偶肉畜柒䰯（互）",
+        "pinned_tweet_id": "1796342708568826215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774950374518181888/CPCvm9hK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15142,
+          "following_count": 253,
+          "like_count": 3959,
+          "listed_count": 77,
+          "media_count": 159,
+          "tweet_count": 4251
+        },
+        "username": "qiranlove",
+        "verified": true
+      }
+    ]
+  }
+}

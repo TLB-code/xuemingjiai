@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "2069981958411780434",
+    "created_at": "2026-06-25T03:12:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T04:12:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069981958411780434"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 123,
+          "start": 119,
+          "tag": "报销奴"
+        },
+        {
+          "end": 127,
+          "start": 124,
+          "tag": "贡奴"
+        },
+        {
+          "end": 131,
+          "start": 128,
+          "tag": "脚奴"
+        },
+        {
+          "end": 136,
+          "start": 132,
+          "tag": "偷窥狂"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1619904228159537154",
+          "start": 3,
+          "username": "daidaifish_sama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069981958411780434",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063704257258471875",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @daidaifish_sama: 哥哥刚刚是不是在偷看人家换衣服！我要用脚踩死你这个变态哥哥！\n点赞默认偷看，欠款23.33偷窥费；点赞+转发，说明经常这样偷窥人家，喜欢人家，想当人家的报销奴，随机获得一张账单～（千万别打开图）\n#报销奴 #贡奴 #脚奴 #偷窥狂 #榨…"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "什么哥哥还想打开这张图认真查看人家的小脚！真的太变态了！那就来私聊人家，让我把踩死你，让你被我的丝袜小脚融化，永远变成我的垫脚石！",
+        "height": 1280,
+        "media_key": "3_2063704246344957952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKPAE_zbQAAtFUF.jpg",
+        "width": 906
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "2069981958411780434",
+        "created_at": "2026-06-25T03:12:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T04:12:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069981958411780434"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 123,
+              "start": 119,
+              "tag": "报销奴"
+            },
+            {
+              "end": 127,
+              "start": 124,
+              "tag": "贡奴"
+            },
+            {
+              "end": 131,
+              "start": 128,
+              "tag": "脚奴"
+            },
+            {
+              "end": 136,
+              "start": 132,
+              "tag": "偷窥狂"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1619904228159537154",
+              "start": 3,
+              "username": "daidaifish_sama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069981958411780434",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063704257258471875",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @daidaifish_sama: 哥哥刚刚是不是在偷看人家换衣服！我要用脚踩死你这个变态哥哥！\n点赞默认偷看，欠款23.33偷窥费；点赞+转发，说明经常这样偷窥人家，喜欢人家，想当人家的报销奴，随机获得一张账单～（千万别打开图）\n#报销奴 #贡奴 #脚奴 #偷窥狂 #榨…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063704246344957952"
+          ]
+        },
+        "author_id": "1619904228159537154",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2063704257258471875",
+        "created_at": "2026-06-07T19:26:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T20:26:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063704257258471875"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 102,
+              "start": 98,
+              "tag": "报销奴"
+            },
+            {
+              "end": 106,
+              "start": 103,
+              "tag": "贡奴"
+            },
+            {
+              "end": 110,
+              "start": 107,
+              "tag": "脚奴"
+            },
+            {
+              "end": 115,
+              "start": 111,
+              "tag": "偷窥狂"
+            },
+            {
+              "end": 119,
+              "start": 116,
+              "tag": "榨金"
+            },
+            {
+              "end": 123,
+              "start": 120,
+              "tag": "压榨"
+            },
+            {
+              "end": 129,
+              "start": 124,
+              "tag": "无脑白给"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LCt2KJOs4G",
+              "end": 153,
+              "expanded_url": "https://x.com/daidaifish_sama/status/2063704257258471875/photo/1",
+              "media_key": "3_2063704246344957952",
+              "start": 130,
+              "url": "https://t.co/LCt2KJOs4G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063704257258471875",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 833,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "哥哥刚刚是不是在偷看人家换衣服！我要用脚踩死你这个变态哥哥！\n点赞默认偷看，欠款23.33偷窥费；点赞+转发，说明经常这样偷窥人家，喜欢人家，想当人家的报销奴，随机获得一张账单～（千万别打开图）\n#报销奴 #贡奴 #脚奴 #偷窥狂 #榨金 #压榨 #无脑白给 https://t.co/LCt2KJOs4G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "你也觉得你面前的这只魔女可爱过头了吧？\n对的!她和别人不一样!\n邂逅方式→2829556413←↓\n242184780\n涩气内容@oricz233\n星辰魔女镜璃\n@jingli1840489\n桃心魔女奈奈\n@blakexiaonai\n 黑白魔女花卷\n@miaomiaomyoez2\n好老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 64,
+                "username": "oricz233"
+              },
+              {
+                "end": 95,
+                "start": 81,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 116,
+                "start": 103,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 140,
+                "start": 125,
+                "username": "miaomiaomyoez2"
+              },
+              {
+                "end": 159,
+                "start": 144,
+                "username": "chessy80978858"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "超可爱超绿茶超撩人的精灵魔女-奏奏💚",
+        "pinned_tweet_id": "2065914875877228650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068510619113066496/EjupQRp9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9142,
+          "following_count": 401,
+          "like_count": 662,
+          "listed_count": 39,
+          "media_count": 834,
+          "tweet_count": 2240
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-30T03:44:09.000Z",
+        "description": "这里是超级温柔的小鱼sama❤️～最喜欢与各位宝宝一起玩哦～想与人家一起玩耍的加神秘入口3862726342～爱你们哟💗💗～提一嘴人家可爱小楠娘哦～",
+        "id": "1619904228159537154",
+        "name": "小鱼sama❤️",
+        "pinned_tweet_id": "2063998300685275595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062536157561606144/S_cczUVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 42,
+          "like_count": 132,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 74
+        },
+        "url": "",
+        "username": "daidaifish_sama",
+        "verified": true
+      }
+    ]
+  }
+}

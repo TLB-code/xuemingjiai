@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1991407408137269254",
+        "3_1991407434716573699"
+      ],
+      "media_source_tweet_id": [
+        "1991407711431610423",
+        "1991407711431610423"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "1991672892657135815",
+    "created_at": "2025-11-21T00:59:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T01:59:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991672892657135815"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 77,
+          "start": 74,
+          "tag": "贡奴"
+        },
+        {
+          "end": 83,
+          "start": 78,
+          "tag": "atm奴"
+        },
+        {
+          "end": 87,
+          "start": 84,
+          "tag": "白给"
+        },
+        {
+          "end": 92,
+          "start": 88,
+          "tag": "提款机"
+        },
+        {
+          "end": 96,
+          "start": 93,
+          "tag": "上贡"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1679430880975278081",
+          "start": 3,
+          "username": "CarolynGyl46130"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/09owjGKQEX",
+          "end": 120,
+          "expanded_url": "https://x.com/CarolynGyl46130/status/1991407711431610423/photo/1",
+          "media_key": "3_1991407408137269254",
+          "start": 97,
+          "url": "https://t.co/09owjGKQEX"
+        },
+        {
+          "display_url": "pic.x.com/09owjGKQEX",
+          "end": 120,
+          "expanded_url": "https://x.com/CarolynGyl46130/status/1991407711431610423/photo/1",
+          "media_key": "3_1991407434716573699",
+          "start": 97,
+          "url": "https://t.co/09owjGKQEX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991672892657135815",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991407711431610423",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CarolynGyl46130: 明明输掉了游戏，要支付巨额的赌注~为什么这位哥哥却不断说着“谢谢小早”呢?\n“本小姐，全部都收下了哦🖤”\n#贡奴 #atm奴 #白给 #提款机 #上贡 https://t.co/09owjGKQEX"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1991672892657135815].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1991672892657135815",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1991672892657135815"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1696,
+        "media_key": "3_1991407408137269254",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6LmfJ0acAYKGhE.jpg",
+        "width": 786
+      },
+      {
+        "height": 1827,
+        "media_key": "3_1991407434716573699",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6Lmgs1acAMtahK.jpg",
+        "width": 782
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991407408137269254",
+            "3_1991407434716573699"
+          ]
+        },
+        "author_id": "1679430880975278081",
+        "conversation_id": "1991407711431610423",
+        "created_at": "2025-11-20T07:26:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-20T08:26:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991407711431610423"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 56,
+              "start": 53,
+              "tag": "贡奴"
+            },
+            {
+              "end": 62,
+              "start": 57,
+              "tag": "atm奴"
+            },
+            {
+              "end": 66,
+              "start": 63,
+              "tag": "白给"
+            },
+            {
+              "end": 71,
+              "start": 67,
+              "tag": "提款机"
+            },
+            {
+              "end": 75,
+              "start": 72,
+              "tag": "上贡"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/09owjGKQEX",
+              "end": 99,
+              "expanded_url": "https://x.com/CarolynGyl46130/status/1991407711431610423/photo/1",
+              "media_key": "3_1991407408137269254",
+              "start": 76,
+              "url": "https://t.co/09owjGKQEX"
+            },
+            {
+              "display_url": "pic.x.com/09owjGKQEX",
+              "end": 99,
+              "expanded_url": "https://x.com/CarolynGyl46130/status/1991407711431610423/photo/1",
+              "media_key": "3_1991407434716573699",
+              "start": 76,
+              "url": "https://t.co/09owjGKQEX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991407711431610423",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 702,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "明明输掉了游戏，要支付巨额的赌注~为什么这位哥哥却不断说着“谢谢小早”呢?\n“本小姐，全部都收下了哦🖤”\n#贡奴 #atm奴 #白给 #提款机 #上贡 https://t.co/09owjGKQEX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n最最最最喜欢钱包们啦!\n天天挨骂真的不会腻嘛～\n擅长用爱意和温柔的语气俘虏钱包～\n联系方式→242184780←\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 77,
+                "username": "oricz233"
+              },
+              {
+                "end": 106,
+                "start": 97,
+                "username": "moelipoi"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "cutelingli"
+              },
+              {
+                "end": 146,
+                "start": 131,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 158,
+                "start": 151,
+                "username": "1xian1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍对钱包们最温柔最有好感版",
+        "pinned_tweet_id": "1976743806063063398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969152325731168256/ozl0k8K4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7934,
+          "following_count": 329,
+          "like_count": 638,
+          "listed_count": 35,
+          "media_count": 754,
+          "tweet_count": 2316
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-13T10:01:47.000Z",
+        "description": "黑心的吸血鬼，剥削者，负责压榨和提款各位客人来让自己过上美好的生活，门槛30，两倍门槛会剥夺您的人权直接进行残酷的提款。\n小早的联系方式:264196928",
+        "id": "1679430880975278081",
+        "name": "小早",
+        "pinned_tweet_id": "1747821105816154459",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1747289710291296256/DAxZJycW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 539,
+          "following_count": 52,
+          "like_count": 114,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 55
+        },
+        "username": "CarolynGyl46130",
+        "verified": false
+      }
+    ]
+  }
+}

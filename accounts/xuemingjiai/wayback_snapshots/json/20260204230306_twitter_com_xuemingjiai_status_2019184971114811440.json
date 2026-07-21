@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2019026442479337472",
+        "3_2019026444924715008"
+      ],
+      "media_source_tweet_id": [
+        "2019026468937105918",
+        "2019026468937105918"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "2019184971114811440",
+    "created_at": "2026-02-04T23:03:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T00:03:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019184971114811440"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1746153330622226432",
+          "start": 3,
+          "username": "blakexiaonai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Kh8ph5IDjI",
+          "end": 100,
+          "expanded_url": "https://x.com/blakexiaonai/status/2019026468937105918/photo/1",
+          "media_key": "3_2019026442479337472",
+          "start": 77,
+          "url": "https://t.co/Kh8ph5IDjI"
+        },
+        {
+          "display_url": "pic.x.com/Kh8ph5IDjI",
+          "end": 100,
+          "expanded_url": "https://x.com/blakexiaonai/status/2019026468937105918/photo/1",
+          "media_key": "3_2019026444924715008",
+          "start": 77,
+          "url": "https://t.co/Kh8ph5IDjI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019184971114811440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019026468937105918",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @blakexiaonai: 不知不觉有1000多个粉丝了呢，奈子在这里隆重邀请大家加入\n[发情泄脑销金窟]🖤\n劣等黄皮小屌想被亲妈踩死的，扫码～ https://t.co/Kh8ph5IDjI"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2019184971114811440].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2019184971114811440",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2019184971114811440"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1810,
+        "media_key": "3_2019026442479337472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAUF2igaAAA7jPD.jpg",
+        "width": 1280
+      },
+      {
+        "height": 752,
+        "media_key": "3_2019026444924715008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAUF2rnbgAASKfY.jpg",
+        "width": 669
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019026442479337472",
+            "3_2019026444924715008"
+          ]
+        },
+        "author_id": "1746153330622226432",
+        "conversation_id": "2019026468937105918",
+        "created_at": "2026-02-04T12:33:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T13:33:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019026468937105918"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Kh8ph5IDjI",
+              "end": 82,
+              "expanded_url": "https://x.com/blakexiaonai/status/2019026468937105918/photo/1",
+              "media_key": "3_2019026442479337472",
+              "start": 59,
+              "url": "https://t.co/Kh8ph5IDjI"
+            },
+            {
+              "display_url": "pic.x.com/Kh8ph5IDjI",
+              "end": 82,
+              "expanded_url": "https://x.com/blakexiaonai/status/2019026468937105918/photo/1",
+              "media_key": "3_2019026444924715008",
+              "start": 59,
+              "url": "https://t.co/Kh8ph5IDjI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019026468937105918",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 389,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不知不觉有1000多个粉丝了呢，奈子在这里隆重邀请大家加入\n[发情泄脑销金窟]🖤\n劣等黄皮小屌想被亲妈踩死的，扫码～ https://t.co/Kh8ph5IDjI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会魅惑并享用钱包的公主殿下🤍\n最最最最喜欢钱包们啦～\n联系方式→2829556413←\n病毒小号@oricz233\n现任魔女学园院长!\n星辰魔女镜璃\n@jingli1840489\n桃心魔女奈奈\n@blakexiaonai\n 黑白魔女花卷\n@miaomiaomi17630\n好老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 52,
+                "username": "oricz233"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 114,
+                "start": 101,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 139,
+                "start": 123,
+                "username": "miaomiaomi17630"
+              },
+              {
+                "end": 158,
+                "start": 143,
+                "username": "chessy80978858"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "魅惑系魔女族公主-奏💜魔女学园院长版～",
+        "pinned_tweet_id": "2013314916120416537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018477066753306624/36q-3UGh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8301,
+          "following_count": 363,
+          "like_count": 644,
+          "listed_count": 36,
+          "media_count": 803,
+          "tweet_count": 2146
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-13T12:53:18.000Z",
+        "description": "是一个喜欢爱玩顶号胁迫吸钱洗脑锁死的小男孩哦🖤 最爱的妈妈@xuemingjiai 小糕老师@gaogaolove_\n 处刑传送门q 3978814398♠️ 每天下午5点到午夜1点前找我都在哦🖤\n帮畜生排精一次最低70呢 1h左右 其他价格详谈♡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 29,
+                "username": "xuemingjiai"
+              },
+              {
+                "end": 58,
+                "start": 46,
+                "username": "gaogaolove_"
+              }
+            ]
+          }
+        },
+        "id": "1746153330622226432",
+        "name": "blake🖤奈喵♠️",
+        "pinned_tweet_id": "1997635752809656603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999192058129711104/SukeKjd9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1128,
+          "following_count": 180,
+          "like_count": 287,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 201
+        },
+        "username": "blakexiaonai",
+        "verified": false
+      }
+    ]
+  }
+}

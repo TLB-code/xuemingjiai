@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "2074402477982801960",
+    "created_at": "2026-07-07T07:57:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T08:57:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074402477982801960"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1374389254726455305",
+          "start": 3,
+          "username": "xuemingjiai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074402477982801960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072078413888917842",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xuemingjiai: 6.30奏游大事件~\n大世界新增挂机采集功能，也就是俗称的挖矿，这下被魅魔们榨干的新勇者们就有了新的称呼..“人矿”🖤\n游戏果然是要人多才好玩~勇者魅魔们一起合影留念非常开心喔，然后是世界频道的超大碎片的红包雨，大家都玩得非常开心呢。\n奏游，蒸…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 434,
+        "media_key": "3_2072077262376390656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMF_SrMb0AAYcJM.jpg",
+        "width": 545
+      },
+      {
+        "height": 1541,
+        "media_key": "3_2072077319066562560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMF_V-YbMAAL7EX.jpg",
+        "width": 1018
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2072077320027017216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMF_WB9akAA01ST.jpg",
+        "width": 882
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2072077355125018624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMF_YEtbkAA1d-Q.jpg",
+        "width": 882
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "2074402477982801960",
+        "created_at": "2026-07-07T07:57:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T08:57:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074402477982801960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1374389254726455305",
+              "start": 3,
+              "username": "xuemingjiai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074402477982801960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072078413888917842",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xuemingjiai: 6.30奏游大事件~\n大世界新增挂机采集功能，也就是俗称的挖矿，这下被魅魔们榨干的新勇者们就有了新的称呼..“人矿”🖤\n游戏果然是要人多才好玩~勇者魅魔们一起合影留念非常开心喔，然后是世界频道的超大碎片的红包雨，大家都玩得非常开心呢。\n奏游，蒸…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072077262376390656",
+            "3_2072077319066562560",
+            "3_2072077320027017216",
+            "3_2072077355125018624"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2072078413888917842",
+        "created_at": "2026-06-30T22:02:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T23:02:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072078413888917842"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bS46Gjembd",
+              "end": 171,
+              "expanded_url": "https://x.com/xuemingjiai/status/2072078413888917842/photo/1",
+              "media_key": "3_2072077262376390656",
+              "start": 148,
+              "url": "https://t.co/bS46Gjembd"
+            },
+            {
+              "display_url": "pic.x.com/bS46Gjembd",
+              "end": 171,
+              "expanded_url": "https://x.com/xuemingjiai/status/2072078413888917842/photo/1",
+              "media_key": "3_2072077319066562560",
+              "start": 148,
+              "url": "https://t.co/bS46Gjembd"
+            },
+            {
+              "display_url": "pic.x.com/bS46Gjembd",
+              "end": 171,
+              "expanded_url": "https://x.com/xuemingjiai/status/2072078413888917842/photo/1",
+              "media_key": "3_2072077320027017216",
+              "start": 148,
+              "url": "https://t.co/bS46Gjembd"
+            },
+            {
+              "display_url": "pic.x.com/bS46Gjembd",
+              "end": 171,
+              "expanded_url": "https://x.com/xuemingjiai/status/2072078413888917842/photo/1",
+              "media_key": "3_2072077355125018624",
+              "start": 148,
+              "url": "https://t.co/bS46Gjembd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072078413888917842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 5207,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "6.30奏游大事件~\n大世界新增挂机采集功能，也就是俗称的挖矿，这下被魅魔们榨干的新勇者们就有了新的称呼..“人矿”🖤\n游戏果然是要人多才好玩~勇者魅魔们一起合影留念非常开心喔，然后是世界频道的超大碎片的红包雨，大家都玩得非常开心呢。\n奏游，蒸蒸日上，奏游，入股不亏!\n期待更多的勇者和魅魔加入 https://t.co/bS46Gjembd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "你也觉得你面前的这只魔女可爱过头了吧？\n对的!她和别人不一样!\n邂逅方式→2829556413←↓\n242184780\n涩气内容@oricz233\n星辰魔女镜璃\n@jingli1840489\n桃心魔女奈奈\n@blakexiaonai\n 黑白魔女花卷\n@miaomiaomyoez2\n好老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 64,
+                "username": "oricz233"
+              },
+              {
+                "end": 95,
+                "start": 81,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 116,
+                "start": 103,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 140,
+                "start": 125,
+                "username": "miaomiaomyoez2"
+              },
+              {
+                "end": 159,
+                "start": 144,
+                "username": "chessy80978858"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "超可爱超绿茶超撩人的精灵魔女-奏奏💚",
+        "pinned_tweet_id": "2065914875877228650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072648103233241088/u2T2ysnC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9239,
+          "following_count": 419,
+          "like_count": 668,
+          "listed_count": 40,
+          "media_count": 839,
+          "tweet_count": 2257
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

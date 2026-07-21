@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1841222739639877633"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1841222407048302732",
+    "created_at": "2024-10-01T21:04:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-01T22:04:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1841222743456694675"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/niFRQfJDLM",
+          "end": 180,
+          "expanded_url": "https://x.com/xuemingjiai/status/1841222743456694675/photo/1",
+          "media_key": "3_1841222739639877633",
+          "start": 157,
+          "url": "https://t.co/niFRQfJDLM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1841222743456694675",
+    "in_reply_to_user_id": "1374389254726455305",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1841222673353060708",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "吃～～～\n吃什么...？\n吃掉脑子..吃掉筹码..吃掉我的一切..\n啊！\n“笨蛋小雏男～谢谢你的宝牌哦，这一局的宝牌指示牌是四万，那么作为赤红宝牌的五万..就是宝牌*2～”\n听..听不懂..不重要...好想被小皮鞋勾引着看乳沟好想被撸好想被踩..魔女大人💜\n“看样子差不多到了收获的环节了呢，要开始回收筹码了哦” https://t.co/niFRQfJDLM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2134,
+        "media_key": "3_1841222739639877633",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GY1WU5SbQAEmKHg.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1841222739639877633"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1841222407048302732",
+        "created_at": "2024-10-01T21:04:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-01T22:04:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1841222743456694675"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/niFRQfJDLM",
+              "end": 180,
+              "expanded_url": "https://x.com/xuemingjiai/status/1841222743456694675/photo/1",
+              "media_key": "3_1841222739639877633",
+              "start": 157,
+              "url": "https://t.co/niFRQfJDLM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841222743456694675",
+        "in_reply_to_user_id": "1374389254726455305",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1841222673353060708",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "吃～～～\n吃什么...？\n吃掉脑子..吃掉筹码..吃掉我的一切..\n啊！\n“笨蛋小雏男～谢谢你的宝牌哦，这一局的宝牌指示牌是四万，那么作为赤红宝牌的五万..就是宝牌*2～”\n听..听不懂..不重要...好想被小皮鞋勾引着看乳沟好想被撸好想被踩..魔女大人💜\n“看样子差不多到了收获的环节了呢，要开始回收筹码了哦” https://t.co/niFRQfJDLM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1841222670039531520"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "1841222407048302732",
+        "created_at": "2024-10-01T21:04:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-01T22:04:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1841222673353060708"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q6DUYf32Oe",
+              "end": 169,
+              "expanded_url": "https://x.com/xuemingjiai/status/1841222673353060708/photo/1",
+              "media_key": "3_1841222670039531520",
+              "start": 146,
+              "url": "https://t.co/q6DUYf32Oe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841222673353060708",
+        "in_reply_to_user_id": "1374389254726455305",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1841222602083434505",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "光是被魔女大人握着裤裆随便搓了几下，就乖乖的打出了“关键”牌呢～\n现在是很舒服的状态吗？看你刚才抖了几下呢♪只不过被控制着打出一张关键牌都发情成这样了，那等会打出“炮牌”..对你来应该说是“送命牌”的时候，会不会直接无接触高潮在“打出的瞬间”把筹码和精液一起喷出来呀♪魔女小姐可是很期待呢💜 https://t.co/q6DUYf32Oe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "超绝可爱💖\n她就是出道即巅峰的可爱纯真小天使新人偶像魔女小姐💖\n对这样的魔女小姐不能心怀任何涩涩的念想哦，不然就会变得非常糟糕...踏入无法挣脱的陷阱和牢笼里呢💘\n魔女小姐无论说什么做什么都是正确的哦，身为她的粉丝，只需要无条件用各种方式支持她就好了～\nqq2829556413",
+        "id": "1374389254726455305",
+        "name": "电波系新人偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1839039717712724125",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1838988880479162368/gYDpBM6v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5420,
+          "following_count": 202,
+          "like_count": 154,
+          "listed_count": 23,
+          "tweet_count": 1106
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

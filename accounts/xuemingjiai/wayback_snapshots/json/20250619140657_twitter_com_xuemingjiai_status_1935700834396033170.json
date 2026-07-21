@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1935700834396033170",
+    "created_at": "2025-06-19T14:06:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-19T15:06:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935700834396033170"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1485155475498831874",
+          "start": 3,
+          "username": "MeQingYun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935700834396033170",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 38
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935567964851581026",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MeQingYun: 眼睁睁地看着自己心爱的女人们被比你更强壮、更威猛的雄性征服睡走💚心情很复杂吧~开拓者💚既生气她们对你感情的不坚定~但看着她们从未在自己面前展露过的淫荡模样💚那根没用的废物肉虫却又不自觉的勃起~💚真是~可笑至极呢~💚接受现实吧开拓者~💚你就是个没用的…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1935700834396033170].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1935700834396033170",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1935700834396033170"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1935566981702324224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtyD6i9XkAA6VdW.jpg",
+        "width": 2458
+      },
+      {
+        "height": 4096,
+        "media_key": "3_1935567473425965056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtyEXKxa4AAyVpX.jpg",
+        "width": 974
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935566981702324224",
+            "3_1935567473425965056"
+          ]
+        },
+        "author_id": "1485155475498831874",
+        "conversation_id": "1935567964851581026",
+        "created_at": "2025-06-19T05:18:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T06:18:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935567964851581026"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/b4dt6WfAqg",
+              "end": 167,
+              "expanded_url": "https://x.com/MeQingYun/status/1935567964851581026/photo/1",
+              "media_key": "3_1935566981702324224",
+              "start": 144,
+              "url": "https://t.co/b4dt6WfAqg"
+            },
+            {
+              "display_url": "pic.x.com/b4dt6WfAqg",
+              "end": 167,
+              "expanded_url": "https://x.com/MeQingYun/status/1935567964851581026/photo/1",
+              "media_key": "3_1935567473425965056",
+              "start": 144,
+              "url": "https://t.co/b4dt6WfAqg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935567964851581026",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 286,
+                "start": 283,
+                "tag": "文媛"
+              },
+              {
+                "end": 290,
+                "start": 287,
+                "tag": "媚黑"
+              },
+              {
+                "end": 294,
+                "start": 291,
+                "tag": "反差"
+              },
+              {
+                "end": 298,
+                "start": 295,
+                "tag": "绿帽"
+              },
+              {
+                "end": 303,
+                "start": 299,
+                "tag": "QOS"
+              },
+              {
+                "end": 308,
+                "start": 304,
+                "tag": "NTR"
+              }
+            ]
+          },
+          "text": "眼睁睁地看着自己心爱的女人们被比你更强壮、更威猛的雄性征服睡走💚心情很复杂吧~开拓者💚既生气她们对你感情的不坚定~但看着她们从未在自己面前展露过的淫荡模样💚那根没用的废物肉虫却又不自觉的勃起~💚真是~可笑至极呢~💚接受现实吧开拓者~💚你就是个没用的废物绿帽早泄男~💚她们对你的爱已经在黑人肉棒的攻势下转变成了淫靡的浪叫~💚而你…只配跪在床边，像条发情的舔狗一样舔舐她们那双沾满淫液的白嫩玉足~💚亲眼看着风堇被压得娇喘连连，看着遐蝶媚眼如丝地被操到连连求饶~露出你从未见过的高潮阿黑颜~💚那么，请你这个废物~💚卑微地流出那清水一样的劣质精液吧~💚绿帽早泄废物开拓者~💚#文媛 #媚黑 #反差 #绿帽 #QOS #NTR"
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 3764,
+          "like_count": 179,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "眼睁睁地看着自己心爱的女人们被比你更强壮、更威猛的雄性征服睡走💚心情很复杂吧~开拓者💚既生气她们对你感情的不坚定~但看着她们从未在自己面前展露过的淫荡模样💚那根没用的废物肉虫却又不自觉的勃起~💚真是~可笑至极呢~💚接受现实吧开拓者~💚你就是个没用的废物绿帽早泄男~💚她们对你的爱已经在黑 https://t.co/b4dt6WfAqg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n你也会因为窥视我的美貌而心甘情愿沦为钱包被我使用的对吗？\n钱包报名入口：3971546171\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 67,
+                "username": "oricz233"
+              },
+              {
+                "end": 96,
+                "start": 87,
+                "username": "moelipoi"
+              },
+              {
+                "end": 114,
+                "start": 103,
+                "username": "cutelingli"
+              },
+              {
+                "end": 136,
+                "start": 121,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 148,
+                "start": 141,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍驯化公用钱包👛中",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931064828044713984/9qwnduVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7252,
+          "following_count": 310,
+          "like_count": 371,
+          "listed_count": 32,
+          "media_count": 692,
+          "tweet_count": 2106
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-23T07:40:46.000Z",
+        "description": "门牌号2790468154❤️入圈已有四年，较擅长的是榨精❤️调情寸止❤️NTR类剧情❤️媚黑只是XP，勿要入脑❤️擅长长文对戏以及各种脑洞大开的玩法，有想玩的剧情都可以来戳，价格是70/小时～40/0.5小时\n小号：@YunQing0915\n来不及回复可以去这里https://t.co/WNHwBf0PHX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 109,
+                "username": "YunQing0915"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/yueqingyun",
+                "end": 155,
+                "expanded_url": "https://t.me/yueqingyun",
+                "start": 132,
+                "url": "https://t.co/WNHwBf0PHX"
+              }
+            ]
+          }
+        },
+        "id": "1485155475498831874",
+        "location": "你心里",
+        "name": "清云🖤",
+        "pinned_tweet_id": "1804376109817172192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779128146186379264/LFfTwJkS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14855,
+          "following_count": 122,
+          "like_count": 2466,
+          "listed_count": 81,
+          "media_count": 212,
+          "tweet_count": 3153
+        },
+        "username": "MeQingYun",
+        "verified": true
+      }
+    ]
+  }
+}

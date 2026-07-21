@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "2003895033070866626",
+    "created_at": "2025-12-24T18:26:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-24T19:26:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003895033070866626"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1374389254726455305",
+          "start": 3,
+          "username": "xuemingjiai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003895033070866626",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003852318060716180",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xuemingjiai: 今天是平安夜～明天是圣诞节哦，魔女学园的各位魔女大人们也为各位小钱包们准备了专属的“圣诞袜”活动🤍\n圣诞老人会乘着麋鹿来给听话的小钱包们挨家挨户的送上圣诞礼物哦～\n绝对～不可能是陷阱什么的♪\n就算是陷阱小钱包们也会毫不犹豫的跳进来对吧～\n那么.…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2003895033070866626].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2003895033070866626",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2003895033070866626"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2003852240407195648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G88c_uvXcAA8Epz.jpg",
+        "width": 768
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2003852252922966018",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G88dAdXW8AIzHNu.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2003852275567984640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G88dBxuWgAAzagV.jpg",
+        "width": 1096
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2003852306584924160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G88dDlRXcAA-X2w.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003852240407195648",
+            "3_2003852252922966018",
+            "3_2003852275567984640",
+            "3_2003852306584924160"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2003852318060716180",
+        "created_at": "2025-12-24T15:36:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T16:36:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003852318060716180"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ATzHDm2Hil",
+              "end": 169,
+              "expanded_url": "https://x.com/xuemingjiai/status/2003852318060716180/photo/1",
+              "media_key": "3_2003852240407195648",
+              "start": 146,
+              "url": "https://t.co/ATzHDm2Hil"
+            },
+            {
+              "display_url": "pic.x.com/ATzHDm2Hil",
+              "end": 169,
+              "expanded_url": "https://x.com/xuemingjiai/status/2003852318060716180/photo/1",
+              "media_key": "3_2003852252922966018",
+              "start": 146,
+              "url": "https://t.co/ATzHDm2Hil"
+            },
+            {
+              "display_url": "pic.x.com/ATzHDm2Hil",
+              "end": 169,
+              "expanded_url": "https://x.com/xuemingjiai/status/2003852318060716180/photo/1",
+              "media_key": "3_2003852275567984640",
+              "start": 146,
+              "url": "https://t.co/ATzHDm2Hil"
+            },
+            {
+              "display_url": "pic.x.com/ATzHDm2Hil",
+              "end": 169,
+              "expanded_url": "https://x.com/xuemingjiai/status/2003852318060716180/photo/1",
+              "media_key": "3_2003852306584924160",
+              "start": 146,
+              "url": "https://t.co/ATzHDm2Hil"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003852318060716180",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1594,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "今天是平安夜～明天是圣诞节哦，魔女学园的各位魔女大人们也为各位小钱包们准备了专属的“圣诞袜”活动🤍\n圣诞老人会乘着麋鹿来给听话的小钱包们挨家挨户的送上圣诞礼物哦～\n绝对～不可能是陷阱什么的♪\n就算是陷阱小钱包们也会毫不犹豫的跳进来对吧～\n那么...众小钱包听令!按照活动图的指令参加活动哦🤍 https://t.co/ATzHDm2Hil"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🖤\n最最最最喜欢钱包们啦～\n联系方式→2829556413←\n病毒小号@oricz233\n现任魔女学园院长!\n星辰魔女镜璃\n@jingli1840489\n桃心魔女奈奈\n@blakexiaonai\n 黑白魔女花卷\n@miaomiaomi17630",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 49,
+                "username": "oricz233"
+              },
+              {
+                "end": 90,
+                "start": 76,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 111,
+                "start": 98,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 136,
+                "start": 120,
+                "username": "miaomiaomi17630"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARosxSy"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🖤魔女学园院长版～",
+        "pinned_tweet_id": "1976743806063063398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003754231543562240/7Kw6lKLr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8085,
+          "following_count": 336,
+          "like_count": 647,
+          "listed_count": 37,
+          "media_count": 767,
+          "tweet_count": 2384
+        },
+        "url": "https://t.co/le8ARosxSy",
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

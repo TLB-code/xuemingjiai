@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "2000005958505038169",
+    "created_at": "2025-12-14T00:52:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T01:52:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000005958505038169"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1729845264092155904",
+          "start": 3,
+          "username": "ailisiyaosil"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000005958505038169",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995079408802247082",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ailisiyaosil: 各位市民注意⚠️\n最近出现的新型爱丽丝臭脚病毒会控制寄生男性的鸡巴大脑让其患上早泄阳痿症状■■傻逼■■只要看到雌性就会瞬间勃起到顶起裤裆■■操你妈■■以引起雌性来“捕猎”劣等男性⚠️该病毒还会让宿主在与女性交流时幻听到对方的爆骂■■贱畜■■若…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2000005958505038169].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2000005958505038169",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2000005958505038169"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1995079406545694720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6_yJl3acAA8sQ2.jpg",
+        "width": 954
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995079406545694720"
+          ]
+        },
+        "author_id": "1729845264092155904",
+        "conversation_id": "1995079408802247082",
+        "created_at": "2025-11-30T10:36:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T11:36:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995079408802247082"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fudu0yUjRU",
+              "end": 168,
+              "expanded_url": "https://x.com/ailisiyaosil/status/1995079408802247082/photo/1",
+              "media_key": "3_1995079406545694720",
+              "start": 145,
+              "url": "https://t.co/fudu0yUjRU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995079408802247082",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 56,
+          "impression_count": 9880,
+          "like_count": 206,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "各位市民注意⚠️\n最近出现的新型爱丽丝臭脚病毒会控制寄生男性的鸡巴大脑让其患上早泄阳痿症状■■傻逼■■只要看到雌性就会瞬间勃起到顶起裤裆■■操你妈■■以引起雌性来“捕猎”劣等男性⚠️该病毒还会让宿主在与女性交流时幻听到对方的爆骂■■贱畜■■若出现上述症状请及时来爱丽丝早泄戒榨诊所就诊⚠️ https://t.co/fudu0yUjRU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n最最最最喜欢钱包们啦!\n天天挨骂真的不会腻嘛～\n擅长用爱意和温柔的语气俘虏钱包～\n联系方式→2829556413←\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 78,
+                "username": "oricz233"
+              },
+              {
+                "end": 107,
+                "start": 98,
+                "username": "moelipoi"
+              },
+              {
+                "end": 125,
+                "start": 114,
+                "username": "cutelingli"
+              },
+              {
+                "end": 147,
+                "start": 132,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 159,
+                "start": 152,
+                "username": "1xian1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍对钱包们最温柔最有好感版",
+        "pinned_tweet_id": "1976743806063063398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991861278688821248/oCQEPeIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8024,
+          "following_count": 334,
+          "like_count": 644,
+          "listed_count": 37,
+          "media_count": 763,
+          "tweet_count": 2372
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-29T12:50:32.000Z",
+        "description": "这里是喜欢用酸汗臭脚和湿热肥臀爆熏各位傻逼老师的爱丽丝哦🖤偷窥撸废物鸡巴的白痴贱狗们不用犹豫哦🖤门牌号：3841634030 快来送死吧～～🖤门槛20🖤傻逼翻倍哦🖤白给倒贴的傻逼有特殊待遇🖤40/30min 70/1h会把各位老师洗脑成喜欢对着爱丽丝发情的贱畜呢🖤不涉三哦🖤",
+        "id": "1729845264092155904",
+        "location": "老师的心里",
+        "name": "爱丽丝（ntr版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1729845824505683968/fSs9gnzJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1922,
+          "following_count": 217,
+          "like_count": 696,
+          "listed_count": 8,
+          "media_count": 56,
+          "tweet_count": 530
+        },
+        "username": "ailisiyaosil",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1977676313680048635",
+    "created_at": "2025-10-13T10:02:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-13T11:02:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1977676313680048635"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1977676313680048635",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "如果本公主qq加不上怎么办...?\n1.直接推特私信本公主\n2.这是本公主的三个qq号 看见了都会马上添加回复的\n3971546171\n2829556413\n242184780"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "1977676313680048635",
+        "created_at": "2025-10-13T10:02:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T11:02:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977676313680048635"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1977676313680048635",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果本公主qq加不上怎么办...?\n1.直接推特私信本公主\n2.这是本公主的三个qq号 看见了都会马上添加回复的\n3971546171\n2829556413\n242184780"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n我是一名钱包刽子手。\n如果你也想被我杀死的话→\n3971546171←\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 56,
+                "username": "oricz233"
+              },
+              {
+                "end": 85,
+                "start": 76,
+                "username": "moelipoi"
+              },
+              {
+                "end": 103,
+                "start": 92,
+                "username": "cutelingli"
+              },
+              {
+                "end": 125,
+                "start": 110,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 137,
+                "start": 130,
+                "username": "1xian1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARosxSy"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍快被舔狗钱包舔废版～",
+        "pinned_tweet_id": "1976743806063063398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969152325731168256/ozl0k8K4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7744,
+          "following_count": 314,
+          "like_count": 637,
+          "listed_count": 34,
+          "media_count": 733,
+          "tweet_count": 2220
+        },
+        "url": "https://t.co/le8ARosxSy",
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

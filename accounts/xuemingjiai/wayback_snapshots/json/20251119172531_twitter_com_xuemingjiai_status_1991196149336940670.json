@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1991196131431415808",
+        "3_1991196131435638785",
+        "3_1991196131427250179",
+        "3_1991196131427250178"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "1991196149336940670",
+    "created_at": "2025-11-19T17:25:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T18:25:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1991196149336940670"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xuemingjiai/st…",
+          "end": 104,
+          "expanded_url": "https://x.com/xuemingjiai/status/1990473531134730380?s=20",
+          "start": 81,
+          "url": "https://t.co/uoUkGOPz4H"
+        },
+        {
+          "display_url": "pic.x.com/DOpegIlx45",
+          "end": 179,
+          "expanded_url": "https://x.com/xuemingjiai/status/1991196149336940670/photo/1",
+          "media_key": "3_1991196131431415808",
+          "start": 156,
+          "url": "https://t.co/DOpegIlx45"
+        },
+        {
+          "display_url": "pic.x.com/DOpegIlx45",
+          "end": 179,
+          "expanded_url": "https://x.com/xuemingjiai/status/1991196149336940670/photo/1",
+          "media_key": "3_1991196131435638785",
+          "start": 156,
+          "url": "https://t.co/DOpegIlx45"
+        },
+        {
+          "display_url": "pic.x.com/DOpegIlx45",
+          "end": 179,
+          "expanded_url": "https://x.com/xuemingjiai/status/1991196149336940670/photo/1",
+          "media_key": "3_1991196131427250179",
+          "start": 156,
+          "url": "https://t.co/DOpegIlx45"
+        },
+        {
+          "display_url": "pic.x.com/DOpegIlx45",
+          "end": 179,
+          "expanded_url": "https://x.com/xuemingjiai/status/1991196149336940670/photo/1",
+          "media_key": "3_1991196131427250178",
+          "start": 156,
+          "url": "https://t.co/DOpegIlx45"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991196149336940670",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990473531134730380",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "什么是小冷?\n是本公主在问卷里新增加的一个“同化”内容，目的就是剥夺小雏男们的思想～抹去你们的一切个性，把你们变成全心全意为了本公主服务的atm提款机“小冷”哦，https://t.co/uoUkGOPz4H\n点进去就能看见预设的内容了，想看更多内容就找本公主购买问卷 限时免门槛哦，同时放出一点小冷同化记录～ https://t.co/DOpegIlx45"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1991196149336940670].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1991196149336940670",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1991196149336940670"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2198,
+        "media_key": "3_1991196131431415808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6ImVOwaAAAwh8o.jpg",
+        "width": 540
+      },
+      {
+        "height": 4096,
+        "media_key": "3_1991196131435638785",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6ImVOxacAEP0jp.jpg",
+        "width": 805
+      },
+      {
+        "height": 2606,
+        "media_key": "3_1991196131427250179",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6ImVOvacAM6HxU.jpg",
+        "width": 540
+      },
+      {
+        "height": 2448,
+        "media_key": "3_1991196131427250178",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6ImVOvacAIn7n-.jpg",
+        "width": 540
+      },
+      {
+        "height": 2400,
+        "media_key": "3_1990473456761311233",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5-VEB0aEAEQ-E9.jpg",
+        "width": 1080
+      },
+      {
+        "height": 512,
+        "media_key": "3_1990473456761384964",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5-VEB0bMAQ5Sey.jpg",
+        "width": 340
+      },
+      {
+        "height": 808,
+        "media_key": "3_1990473456761384965",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5-VEB0bMAUKLYi.jpg",
+        "width": 807
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990473456761311233",
+            "3_1990473456761384964",
+            "3_1990473456761384965"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "1990473531134730380",
+        "created_at": "2025-11-17T17:34:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T18:34:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990473531134730380"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eVDQVxJNsk",
+              "end": 160,
+              "expanded_url": "https://x.com/xuemingjiai/status/1990473531134730380/photo/1",
+              "media_key": "3_1990473456761311233",
+              "start": 137,
+              "url": "https://t.co/eVDQVxJNsk"
+            },
+            {
+              "display_url": "pic.x.com/eVDQVxJNsk",
+              "end": 160,
+              "expanded_url": "https://x.com/xuemingjiai/status/1990473531134730380/photo/1",
+              "media_key": "3_1990473456761384964",
+              "start": 137,
+              "url": "https://t.co/eVDQVxJNsk"
+            },
+            {
+              "display_url": "pic.x.com/eVDQVxJNsk",
+              "end": 160,
+              "expanded_url": "https://x.com/xuemingjiai/status/1990473531134730380/photo/1",
+              "media_key": "3_1990473456761384965",
+              "start": 137,
+              "url": "https://t.co/eVDQVxJNsk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990473531134730380",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4122,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "问卷迎来了小小更新呢～\n更新内容是把各位小钱包变成方便本公主使用的“预设钱包”呢 在这里放出“预设钱包”的改造方案～想要知道更详细的内容，以及没有体验过置顶的这份超强贡系问卷，蠢蠢欲动的小钱包可以私信加简介qq找本公主购买哦～\n成为笨蛋“小冷”，被本公主支配使用到坏掉吧🤍 https://t.co/eVDQVxJNsk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n最最最最喜欢钱包们啦!\n天天挨骂真的不会腻嘛～\n擅长用爱意和温柔的语气俘虏钱包～\n联系方式→242184780←\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 77,
+                "username": "oricz233"
+              },
+              {
+                "end": 106,
+                "start": 97,
+                "username": "moelipoi"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "cutelingli"
+              },
+              {
+                "end": 146,
+                "start": 131,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 158,
+                "start": 151,
+                "username": "1xian1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍对钱包们最温柔最有好感版",
+        "pinned_tweet_id": "1976743806063063398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969152325731168256/ozl0k8K4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7926,
+          "following_count": 326,
+          "like_count": 638,
+          "listed_count": 35,
+          "media_count": 753,
+          "tweet_count": 2303
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

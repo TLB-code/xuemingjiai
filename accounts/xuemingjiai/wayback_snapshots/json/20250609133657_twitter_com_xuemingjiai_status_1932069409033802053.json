@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1932069384337702912"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "1932069409033802053",
+    "created_at": "2025-06-09T13:36:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-09T14:36:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1932069409033802053"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 8,
+          "start": 0,
+          "tag": "魔女公主的日常"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7L302IYu8O",
+          "end": 164,
+          "expanded_url": "https://x.com/xuemingjiai/status/1932069409033802053/photo/1",
+          "media_key": "3_1932069384337702912",
+          "start": 141,
+          "url": "https://t.co/7L302IYu8O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932069409033802053",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#魔女公主的日常\n如果有人问本公主，推特上最值得尊敬的职业是什么？\n那本公主一定会毫不犹豫的回答：是钱包\n很多人都对钱包有误解，觉得钱包就是理所应当给自己服务，其实钱包们都是很聪明的，它们渴望被认可，它们也会严格筛选适合自己的使用者。\n所以被本公主使用过的钱包，我会夸奖你很好用🤍 https://t.co/7L302IYu8O"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2028,
+        "media_key": "3_1932069384337702912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtAW3lbbQAAHtHS.jpg",
+        "width": 1456
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932069384337702912"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "1932069409033802053",
+        "created_at": "2025-06-09T13:36:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T14:36:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932069409033802053"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "魔女公主的日常"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7L302IYu8O",
+              "end": 164,
+              "expanded_url": "https://x.com/xuemingjiai/status/1932069409033802053/photo/1",
+              "media_key": "3_1932069384337702912",
+              "start": 141,
+              "url": "https://t.co/7L302IYu8O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932069409033802053",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#魔女公主的日常\n如果有人问本公主，推特上最值得尊敬的职业是什么？\n那本公主一定会毫不犹豫的回答：是钱包\n很多人都对钱包有误解，觉得钱包就是理所应当给自己服务，其实钱包们都是很聪明的，它们渴望被认可，它们也会严格筛选适合自己的使用者。\n所以被本公主使用过的钱包，我会夸奖你很好用🤍 https://t.co/7L302IYu8O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n你也会因为窥视我的美貌而心甘情愿沦为钱包被我使用的对吗？\n钱包报名入口：242184780\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 66,
+                "username": "oricz233"
+              },
+              {
+                "end": 95,
+                "start": 86,
+                "username": "moelipoi"
+              },
+              {
+                "end": 113,
+                "start": 102,
+                "username": "cutelingli"
+              },
+              {
+                "end": 135,
+                "start": 120,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 147,
+                "start": 140,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍驯化公用钱包👛中",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931064828044713984/9qwnduVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7162,
+          "following_count": 303,
+          "like_count": 347,
+          "listed_count": 33,
+          "media_count": 665,
+          "tweet_count": 1987
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

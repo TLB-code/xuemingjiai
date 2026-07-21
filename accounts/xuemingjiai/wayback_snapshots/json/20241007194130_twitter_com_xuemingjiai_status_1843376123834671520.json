@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1843376123834671520",
+    "created_at": "2024-10-07T19:41:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-07T20:41:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1843376123834671520"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 138,
+          "start": 135,
+          "tag": "压榨"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1240949973056811009",
+          "start": 3,
+          "username": "Idol_Taoxin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1843376123834671520",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "1843300620788551869",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @Idol_Taoxin: 短小废物的早泄贱狗最爱的就是自己带上锁然后跪在祖宗脚下做一只白痴锁奴请求祖宗管理并且上贡管理费🖤没有祖宗的允许连勃起的资格都没有，更不要说撸管射精了💚最后只能被祖宗爆耍压榨干净身上的余额后才勉强的施舍你让你开锁撸管🖤至于射精💚你配么💚\n#压榨…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1843376123834671520].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1843376123834671520",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1843376123834671520"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1843300617663492096"
+          ]
+        },
+        "author_id": "1240949973056811009",
+        "conversation_id": "1843300620788551869",
+        "created_at": "2024-10-07T14:41:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-07T15:41:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1843300620788551869"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 121,
+              "start": 118,
+              "tag": "压榨"
+            },
+            {
+              "end": 125,
+              "start": 122,
+              "tag": "上贡"
+            },
+            {
+              "end": 129,
+              "start": 126,
+              "tag": "吐金"
+            },
+            {
+              "end": 133,
+              "start": 130,
+              "tag": "锁奴"
+            },
+            {
+              "end": 137,
+              "start": 134,
+              "tag": "贡奴"
+            },
+            {
+              "end": 144,
+              "start": 138,
+              "tag": "贞操锁管理"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ob7e6My58s",
+              "end": 168,
+              "expanded_url": "https://x.com/Idol_Taoxin/status/1843300620788551869/photo/1",
+              "media_key": "3_1843300617663492096",
+              "start": 145,
+              "url": "https://t.co/Ob7e6My58s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1843300620788551869",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 841,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "reply_settings": "following",
+        "text": "短小废物的早泄贱狗最爱的就是自己带上锁然后跪在祖宗脚下做一只白痴锁奴请求祖宗管理并且上贡管理费🖤没有祖宗的允许连勃起的资格都没有，更不要说撸管射精了💚最后只能被祖宗爆耍压榨干净身上的余额后才勉强的施舍你让你开锁撸管🖤至于射精💚你配么💚\n#压榨 #上贡 #吐金 #锁奴 #贡奴 #贞操锁管理 https://t.co/Ob7e6My58s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "超绝可爱💖\n她就是出道即巅峰的可爱纯真小天使新人偶像魔女小姐💖\n对这样的魔女小姐不能心怀任何涩涩的念想哦，不然就会变得非常糟糕...踏入无法挣脱的陷阱和牢笼里呢💘\n魔女小姐无论说什么做什么都是正确的哦，身为她的粉丝，只需要无条件用各种方式支持她就好了～\nqq2829556413",
+        "id": "1374389254726455305",
+        "name": "电波系新人偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1839039717712724125",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841223137058570240/9ZrLZQJP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5420,
+          "following_count": 203,
+          "like_count": 158,
+          "listed_count": 23,
+          "tweet_count": 1118
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-20T10:35:14.000Z",
+        "description": "这里是世界第一百变榨金偶像桃心💜准备好把你们的一切全都上贡给你们深爱着的偶像了么💚粉丝唯一的作用就是被用来榨干钱包🖤QQ：2902337031，备用：2551691397，tg：https://t.co/t46nKt9LvY ，不涉三，🚪30×3傻狗再翻3倍🖤，基本不看私信，小贱狗们有事QQ找我哦",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Idol_taoxin",
+                "end": 112,
+                "expanded_url": "http://t.me/Idol_taoxin",
+                "start": 89,
+                "url": "https://t.co/t46nKt9LvY"
+              }
+            ]
+          }
+        },
+        "id": "1240949973056811009",
+        "name": "拜金偶像🖤桃心💜",
+        "pinned_tweet_id": "1760179907869753793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812533427649822720/Rn0ivATs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12454,
+          "following_count": 245,
+          "like_count": 8570,
+          "listed_count": 67,
+          "tweet_count": 3957
+        },
+        "username": "Idol_Taoxin",
+        "verified": false
+      }
+    ]
+  }
+}

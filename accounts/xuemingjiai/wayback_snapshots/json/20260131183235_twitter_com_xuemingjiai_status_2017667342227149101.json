@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "2017535526182834513",
+    "created_at": "2026-01-31T18:32:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T19:32:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017667342227149101"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1716073328220479489",
+          "start": 0,
+          "username": "zeiaiou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017667342227149101",
+    "in_reply_to_user_id": "1716073328220479489",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017535526182834513",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zeiaiou 看着想吐w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2017535515265011713",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_-53J0bEAE2Dxg.jpg",
+        "width": 925
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2017535515269206020",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_-53J1bEAQaQj-.jpg",
+        "width": 968
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "2017535526182834513",
+        "created_at": "2026-01-31T18:32:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T19:32:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017667342227149101"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1716073328220479489",
+              "start": 0,
+              "username": "zeiaiou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017667342227149101",
+        "in_reply_to_user_id": "1716073328220479489",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017535526182834513",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zeiaiou 看着想吐w"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017535515265011713",
+            "3_2017535515269206020"
+          ]
+        },
+        "author_id": "1716073328220479489",
+        "conversation_id": "2017535526182834513",
+        "created_at": "2026-01-31T09:48:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T10:48:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017535526182834513"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 104,
+              "start": 101,
+              "tag": "戒贡"
+            },
+            {
+              "end": 108,
+              "start": 105,
+              "tag": "上贡"
+            },
+            {
+              "end": 112,
+              "start": 109,
+              "tag": "白给"
+            },
+            {
+              "end": 116,
+              "start": 113,
+              "tag": "压榨"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/onXV0iVs6u",
+              "end": 140,
+              "expanded_url": "https://x.com/zeiaiou/status/2017535526182834513/photo/1",
+              "media_key": "3_2017535515265011713",
+              "start": 117,
+              "url": "https://t.co/onXV0iVs6u"
+            },
+            {
+              "display_url": "pic.x.com/onXV0iVs6u",
+              "end": 140,
+              "expanded_url": "https://x.com/zeiaiou/status/2017535526182834513/photo/1",
+              "media_key": "3_2017535515269206020",
+              "start": 117,
+              "url": "https://t.co/onXV0iVs6u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017535526182834513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 17679,
+          "like_count": 64,
+          "quote_count": 0,
+          "reply_count": 28,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近刷推全都是这种内容owo，不仅仅内容上比较低劣，在数量上也已经到了粗制滥造的地步呢，全都在发这样的内容，从点赞数上看这类推文还是有一定的受众，不过小浅对这种推文越来越无感了，大家是什么样的看法呢?\n＃戒贡 ＃上贡 ＃白给 ＃压榨 https://t.co/onXV0iVs6u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🖤\n最最最最喜欢钱包们啦～\n联系方式→2829556413←\n病毒小号@oricz233\n现任魔女学园院长!\n星辰魔女镜璃\n@jingli1840489\n桃心魔女奈奈\n@blakexiaonai\n 黑白魔女花卷\n@miaomiaomi17630\n好老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 49,
+                "username": "oricz233"
+              },
+              {
+                "end": 90,
+                "start": 76,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 111,
+                "start": 98,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 136,
+                "start": 120,
+                "username": "miaomiaomi17630"
+              },
+              {
+                "end": 155,
+                "start": 140,
+                "username": "chessy80978858"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🖤魔女学园院长版～",
+        "pinned_tweet_id": "2013314916120416537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016902481788489728/uJnMEm61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8289,
+          "following_count": 359,
+          "like_count": 638,
+          "listed_count": 36,
+          "media_count": 795,
+          "tweet_count": 2134
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-22T12:45:50.000Z",
+        "description": "ATM，是男孩子，年下系，喜欢单纯可爱的事物，有朋友费20元!\n主要从事帮助戒贡的业务，话疗，劝解，时间较长因此收取一定的辛苦费，也可以长时间监督你戒贡\n奴下奴和报销奴招募中，需要哥哥姐姐帮小浅回血，麻烦有这种爱好的哥哥姐姐给小浅送死呀\n小浅的qq:3675490276",
+        "id": "1716073328220479489",
+        "name": "小浅",
+        "pinned_tweet_id": "1969997790211436679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906245770661289984/L4T6_DA3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2951,
+          "following_count": 215,
+          "like_count": 1747,
+          "listed_count": 4,
+          "media_count": 91,
+          "tweet_count": 479
+        },
+        "username": "zeiaiou",
+        "verified": false
+      }
+    ]
+  }
+}

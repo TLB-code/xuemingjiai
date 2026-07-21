@@ -1,0 +1,120 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1884592556484231633",
+    "created_at": "2025-01-29T13:20:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-29T14:20:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1884592556484231633"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1884592556484231633",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "所以社交是真的很麻烦很累的一件事!\n再继续偷懒一阵吧，等什么时候有感觉了就更新（已经是常态啦）\n我是懒狗，营业完全随缘哦，我只想躺在床上让各位小雏男们自毁白给～\n聊天的话，让我不开心了就会毫不留情的把你拉黑屏蔽哦，妥妥的地雷女～\n谢谢关心我的留言，虽然我不会回复。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "1884592556484231633",
+        "created_at": "2025-01-29T13:20:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-29T14:20:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884592556484231633"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1884592556484231633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "所以社交是真的很麻烦很累的一件事!\n再继续偷懒一阵吧，等什么时候有感觉了就更新（已经是常态啦）\n我是懒狗，营业完全随缘哦，我只想躺在床上让各位小雏男们自毁白给～\n聊天的话，让我不开心了就会毫不留情的把你拉黑屏蔽哦，妥妥的地雷女～\n谢谢关心我的留言，虽然我不会回复。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "您好～这里是出道以来一直致力于为小雏男哥哥们提供“舒适”“安全”“极致快感”的纯真妹系小天使魔女妹妹💚\n想了解我请翻看我的推文～\nqq2829556413，碎碎念小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 83,
+                "username": "oricz233"
+              },
+              {
+                "end": 112,
+                "start": 103,
+                "username": "moelipoi"
+              },
+              {
+                "end": 130,
+                "start": 119,
+                "username": "cutelingli"
+              },
+              {
+                "end": 152,
+                "start": 137,
+                "username": "chessy80978858"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系天使偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884590550818701312/2kXuiPB8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6367,
+          "following_count": 252,
+          "like_count": 290,
+          "listed_count": 29,
+          "media_count": 538,
+          "tweet_count": 1502
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1922917049006768435",
+    "created_at": "2025-05-15T07:28:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-15T08:28:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922917049006768435"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1921832227996119040",
+          "start": 3,
+          "username": "shiling7651"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922917049006768435",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922734877671145483",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shiling7651: 在看吗~♡？老公大人♡呜♡(娇嫩的玉唇里突然被肉棒抵着射出滚烫的浓精被呛的口吐不清♡)\n（当着面把嘴里陌生人的精液吞咽喝下去♡)真昼♡小天使~~在♡帮大家做性处理呢~~\n这♡不就是你喜欢的样子吗~？我的♡绿帽奴老公♡好啦♡~过来♡舔干净吧~（掰…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1922917049006768435].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1922917049006768435",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1922917049006768435"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1922734875637055491",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gq7tLquaAAMRJlR.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1922734875637055491"
+          ]
+        },
+        "author_id": "1921832227996119040",
+        "conversation_id": "1922734877671145483",
+        "created_at": "2025-05-14T19:24:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T20:24:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1922734877671145483"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yFG19Cnhde",
+              "end": 170,
+              "expanded_url": "https://x.com/shilingww/status/1922734877671145483/photo/1",
+              "media_key": "3_1922734875637055491",
+              "start": 147,
+              "url": "https://t.co/yFG19Cnhde"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922734877671145483",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 351,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "在看吗~♡？老公大人♡呜♡(娇嫩的玉唇里突然被肉棒抵着射出滚烫的浓精被呛的口吐不清♡)\n（当着面把嘴里陌生人的精液吞咽喝下去♡)真昼♡小天使~~在♡帮大家做性处理呢~~\n这♡不就是你喜欢的样子吗~？我的♡绿帽奴老公♡好啦♡~过来♡舔干净吧~（掰开满是精液的嫩穴像是战利品一样展示给“老公”~） https://t.co/yFG19Cnhde"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "集美貌，智慧，强大于一身的魔女族公主现身人世～区区人类，跪下向我表示臣服吧💜\n被我支配 控制 吸脑 成为奴仆💜\n挑战qq242184780，里世界小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858\n女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "oricz233"
+              },
+              {
+                "end": 104,
+                "start": 95,
+                "username": "moelipoi"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "cutelingli"
+              },
+              {
+                "end": 144,
+                "start": 129,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 155,
+                "start": 148,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏💜强势登场人间",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922178521235128320/5seow5Nb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6853,
+          "following_count": 282,
+          "like_count": 310,
+          "listed_count": 30,
+          "media_count": 603,
+          "tweet_count": 1780
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-12T07:38:15.000Z",
+        "description": "这里是新人文媛姬诗铃~是喜欢欺负可爱的小男生♡也会好好侍奉雄性的萝莉魅魔哟~♡毕竟~这是魅魔的~进食环节♡呢~欢迎客人来访~那么~也还请客人做好被人家榨干当做魅魔食粮的准备呐♡门牌3800716151",
+        "id": "1921832227996119040",
+        "name": "诗铃♡文援(欢迎互推~)",
+        "pinned_tweet_id": "1921983886793359465",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921832879211868160/7vVBIpnT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 74,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 19
+        },
+        "username": "shiling7651",
+        "verified": false
+      }
+    ]
+  }
+}

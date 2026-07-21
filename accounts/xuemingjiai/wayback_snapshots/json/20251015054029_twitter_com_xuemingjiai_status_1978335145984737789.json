@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1978296425479073792",
+        "3_1978296425512570880"
+      ],
+      "media_source_tweet_id": [
+        "1978296428347724114",
+        "1978296428347724114"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "1978335145984737789",
+    "created_at": "2025-10-15T05:40:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-15T06:40:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978335145984737789"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1696056509023625217",
+          "start": 3,
+          "username": "CuteLingli"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/21LVK8xm5C",
+          "end": 137,
+          "expanded_url": "https://x.com/CuteLingli/status/1978296428347724114/photo/1",
+          "media_key": "3_1978296425479073792",
+          "start": 114,
+          "url": "https://t.co/21LVK8xm5C"
+        },
+        {
+          "display_url": "pic.x.com/21LVK8xm5C",
+          "end": 137,
+          "expanded_url": "https://x.com/CuteLingli/status/1978296428347724114/photo/1",
+          "media_key": "3_1978296425512570880",
+          "start": 114,
+          "url": "https://t.co/21LVK8xm5C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978335145984737789",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978296428347724114",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CuteLingli: 好久不见，就简单给大家展示一点被玩坏的孩子吧~\n再次提醒各位偷窥的『■■』，玲璃是很危险的哦，请不要随便接触❤️\n如果很简单地就对人家『■■』和『■■』的话~\n钱包，脑子，身体都会变得很糟糕哦🖤 https://t.co/21LVK8xm5C"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1918,
+        "media_key": "3_1978296425479073792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3RSHhUa8AAHSlT.jpg",
+        "width": 935
+      },
+      {
+        "height": 1759,
+        "media_key": "3_1978296425512570880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3RSHhcaEAA7Pq2.jpg",
+        "width": 939
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978296425479073792",
+            "3_1978296425512570880"
+          ],
+          "media_source_tweet_id": [
+            "1978296428347724114",
+            "1978296428347724114"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "1978335145984737789",
+        "created_at": "2025-10-15T05:40:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T06:40:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978335145984737789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1696056509023625217",
+              "start": 3,
+              "username": "CuteLingli"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/21LVK8xm5C",
+              "end": 137,
+              "expanded_url": "https://x.com/CuteLingli/status/1978296428347724114/photo/1",
+              "media_key": "3_1978296425479073792",
+              "start": 114,
+              "url": "https://t.co/21LVK8xm5C"
+            },
+            {
+              "display_url": "pic.x.com/21LVK8xm5C",
+              "end": 137,
+              "expanded_url": "https://x.com/CuteLingli/status/1978296428347724114/photo/1",
+              "media_key": "3_1978296425512570880",
+              "start": 114,
+              "url": "https://t.co/21LVK8xm5C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978335145984737789",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978296428347724114",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CuteLingli: 好久不见，就简单给大家展示一点被玩坏的孩子吧~\n再次提醒各位偷窥的『■■』，玲璃是很危险的哦，请不要随便接触❤️\n如果很简单地就对人家『■■』和『■■』的话~\n钱包，脑子，身体都会变得很糟糕哦🖤 https://t.co/21LVK8xm5C"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978296425479073792",
+            "3_1978296425512570880"
+          ]
+        },
+        "author_id": "1696056509023625217",
+        "conversation_id": "1978296428347724114",
+        "created_at": "2025-10-15T03:06:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T04:06:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978296428347724114"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/21LVK8xm5C",
+              "end": 121,
+              "expanded_url": "https://x.com/CuteLingli/status/1978296428347724114/photo/1",
+              "media_key": "3_1978296425479073792",
+              "start": 98,
+              "url": "https://t.co/21LVK8xm5C"
+            },
+            {
+              "display_url": "pic.x.com/21LVK8xm5C",
+              "end": 121,
+              "expanded_url": "https://x.com/CuteLingli/status/1978296428347724114/photo/1",
+              "media_key": "3_1978296425512570880",
+              "start": 98,
+              "url": "https://t.co/21LVK8xm5C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978296428347724114",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1653,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "好久不见，就简单给大家展示一点被玩坏的孩子吧~\n再次提醒各位偷窥的『■■』，玲璃是很危险的哦，请不要随便接触❤️\n如果很简单地就对人家『■■』和『■■』的话~\n钱包，脑子，身体都会变得很糟糕哦🖤 https://t.co/21LVK8xm5C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n我是一名钱包刽子手。\n如果你也想被我杀死的话→\n3971546171←\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 56,
+                "username": "oricz233"
+              },
+              {
+                "end": 85,
+                "start": 76,
+                "username": "moelipoi"
+              },
+              {
+                "end": 103,
+                "start": 92,
+                "username": "cutelingli"
+              },
+              {
+                "end": 125,
+                "start": 110,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 137,
+                "start": 130,
+                "username": "1xian1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARosxSy"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍快被舔狗钱包舔废版～",
+        "pinned_tweet_id": "1976743806063063398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969152325731168256/ozl0k8K4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7782,
+          "following_count": 319,
+          "like_count": 637,
+          "listed_count": 34,
+          "media_count": 734,
+          "tweet_count": 2224
+        },
+        "url": "https://t.co/le8ARosxSy",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-28T07:06:06.000Z",
+        "description": "温柔向压榨系。请不要踏入陷阱~否则脑子和钱包都会的变得一塌糊涂。我很懒，所以不涉三。不想送死别来加我~ 门牌🚪3875489005，门槛会增加好感，不过请随意，我只是想单纯地想要你的钱~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "afdian.com/a/cutelingli",
+                "end": 23,
+                "expanded_url": "https://afdian.com/a/cutelingli",
+                "start": 0,
+                "url": "https://t.co/Di7OiY89Hx"
+              }
+            ]
+          }
+        },
+        "id": "1696056509023625217",
+        "location": "你的心里❤️",
+        "name": "玲璃",
+        "pinned_tweet_id": "1966302235970908641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936595198689095680/b1T5cEFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2360,
+          "following_count": 163,
+          "like_count": 304,
+          "listed_count": 8,
+          "media_count": 137,
+          "tweet_count": 506
+        },
+        "url": "https://t.co/Di7OiY89Hx",
+        "username": "CuteLingli",
+        "verified": false
+      }
+    ]
+  }
+}

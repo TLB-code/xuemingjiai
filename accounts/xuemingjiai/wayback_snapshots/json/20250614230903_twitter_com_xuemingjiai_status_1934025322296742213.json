@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1934025322296742213",
+    "created_at": "2025-06-14T23:09:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-15T00:09:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934025322296742213"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 135,
+          "start": 132,
+          "tag": "文媛"
+        },
+        {
+          "end": 139,
+          "start": 136,
+          "tag": "调教"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1921832227996119040",
+          "start": 3,
+          "username": "shiling7651"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934025322296742213",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933934525798899976",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shiling7651: 这不就是你应该的模样吗♡“雄性”这种词汇完全和你搭不上边呢，乖乖的当个“雌堕母狗”不就好了？被主人牵着项圈， 戴上眼罩和口球全身也都绑住♡所有的触觉感受都被剥夺，只能被不断的侵犯♡射精~侵犯♡射精~直到被玩坏成“雌堕母狗”呢❤️\n#文媛 #调教…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1934025322296742213].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1934025322296742213",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1934025322296742213"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1933934523374555136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gta3M9ya0AAXinZ.jpg",
+        "width": 1392
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933934523374555136"
+          ]
+        },
+        "author_id": "1921832227996119040",
+        "conversation_id": "1933934525798899976",
+        "created_at": "2025-06-14T17:08:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T18:08:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933934525798899976"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 118,
+              "start": 115,
+              "tag": "文媛"
+            },
+            {
+              "end": 122,
+              "start": 119,
+              "tag": "调教"
+            },
+            {
+              "end": 128,
+              "start": 123,
+              "tag": "雌堕洗脑"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KHY7hoqDlB",
+              "end": 152,
+              "expanded_url": "https://x.com/shiling7651/status/1933934525798899976/photo/1",
+              "media_key": "3_1933934523374555136",
+              "start": 129,
+              "url": "https://t.co/KHY7hoqDlB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933934525798899976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 467,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "这不就是你应该的模样吗♡“雄性”这种词汇完全和你搭不上边呢，乖乖的当个“雌堕母狗”不就好了？被主人牵着项圈， 戴上眼罩和口球全身也都绑住♡所有的触觉感受都被剥夺，只能被不断的侵犯♡射精~侵犯♡射精~直到被玩坏成“雌堕母狗”呢❤️\n#文媛 #调教 #雌堕洗脑 https://t.co/KHY7hoqDlB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n你也会因为窥视我的美貌而心甘情愿沦为钱包被我使用的对吗？\n钱包报名入口：3971546171\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 67,
+                "username": "oricz233"
+              },
+              {
+                "end": 96,
+                "start": 87,
+                "username": "moelipoi"
+              },
+              {
+                "end": 114,
+                "start": 103,
+                "username": "cutelingli"
+              },
+              {
+                "end": 136,
+                "start": 121,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 148,
+                "start": 141,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍驯化公用钱包👛中",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931064828044713984/9qwnduVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7203,
+          "following_count": 305,
+          "like_count": 361,
+          "listed_count": 33,
+          "media_count": 681,
+          "tweet_count": 2044
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-12T07:38:15.000Z",
+        "description": "这里是新人文媛姬诗铃~是喜欢欺负可爱的小男生♡也会好好侍奉雄性的萝莉魅魔哟~♡毕竟~这是魅魔的~进食环节♡呢~欢迎客人来访~那么~也还请客人做好被人家榨干当做魅魔食粮的准备呐♡门牌:3800716151备用:3919302576",
+        "id": "1921832227996119040",
+        "name": "诗铃♡文援(欢迎互推~)",
+        "pinned_tweet_id": "1921983886793359465",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921832879211868160/7vVBIpnT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 576,
+          "following_count": 105,
+          "like_count": 49,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 269
+        },
+        "username": "shiling7651",
+        "verified": false
+      }
+    ]
+  }
+}

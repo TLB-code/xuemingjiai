@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "2076679314960204221",
+    "created_at": "2026-07-13T23:13:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T00:13:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076807357838106907"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "t.me/za23649",
+          "end": 47,
+          "expanded_url": "https://t.me/za23649",
+          "start": 24,
+          "unwound_url": "https://t.me/za23649",
+          "url": "https://t.co/cDze5CN1Lx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076807357838106907",
+    "in_reply_to_user_id": "1374389254726455305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076679314960204221",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "疑似tg故障 链接暂时进不去\n在tg里面搜索  https://t.co/cDze5CN1Lx或者@za23649都可以找到频道"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1216,
+        "media_key": "3_2076679299869126657",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNHY0g0bMAEHPF8.jpg",
+        "width": 832
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "2076679314960204221",
+        "created_at": "2026-07-13T23:13:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T00:13:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076807357838106907"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "t.me/za23649",
+              "end": 47,
+              "expanded_url": "https://t.me/za23649",
+              "start": 24,
+              "unwound_url": "https://t.me/za23649",
+              "url": "https://t.co/cDze5CN1Lx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076807357838106907",
+        "in_reply_to_user_id": "1374389254726455305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076679314960204221",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "疑似tg故障 链接暂时进不去\n在tg里面搜索  https://t.co/cDze5CN1Lx或者@za23649都可以找到频道"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076679299869126657"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "2076679314960204221",
+        "created_at": "2026-07-13T14:45:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T15:45:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076679314960204221"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "You are invited to a group chat on Telegram. Click to",
+              "display_url": "t.me/+LI_NqPcVcKc0M…",
+              "end": 23,
+              "expanded_url": "http://t.me/+LI_NqPcVcKc0MGVl",
+              "images": [
+                {
+                  "height": 256,
+                  "url": "https://pbs.twimg.com/news_img/2076679004770422784/E09AaUvS?format=png&name=orig",
+                  "width": 256
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2076679004770422784/E09AaUvS?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Join group chat on Telegram",
+              "unwound_url": "https://t.me/+LI_NqPcVcKc0MGVl",
+              "url": "https://t.co/lXP0ffToSv"
+            },
+            {
+              "display_url": "pic.x.com/fSbDVUJ7WW",
+              "end": 168,
+              "expanded_url": "https://x.com/xuemingjiai/status/2076679314960204221/photo/1",
+              "media_key": "3_2076679299869126657",
+              "start": 145,
+              "url": "https://t.co/fSbDVUJ7WW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076679314960204221",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1346,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/lXP0ffToSv\ntg群!因为有很多宝宝可能不太方便加qq什么的，所以在tg开了一个关于奏游的群组，同时只要进群就可以注册奏游(但是无法开通签到以及月卡权限，需要赞助)\n一起来玩奏游吧，在这里当勇者，当魅魔，涩涩，上贡，打牌下棋，赌博(不是)\n(这个是频道) https://t.co/fSbDVUJ7WW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "前文援，前贡系推主\n现独立网游-魔女奏奏的世界 文本策划兼运营\nhttps://t.co/nHUUcUuYh1\ntg频道，欢迎体验加入奏游!\n邂逅方式→2829556413←↓\n242184780\n涩气内容@oricz233\n星辰魔女镜璃\n@jingli1840489\n好老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 103,
+                "username": "oricz233"
+              },
+              {
+                "end": 134,
+                "start": 120,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 153,
+                "start": 138,
+                "username": "chessy80978858"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+LI_NqPcVcKc0M…",
+                "end": 55,
+                "expanded_url": "https://t.me/+LI_NqPcVcKc0MGVl",
+                "start": 32,
+                "url": "https://t.co/nHUUcUuYh1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "超可爱超绿茶超撩人的精灵魔女-奏奏💚",
+        "pinned_tweet_id": "2065914875877228650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076770038061887488/Tc3iX89H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9269,
+          "following_count": 419,
+          "like_count": 675,
+          "listed_count": 40,
+          "media_count": 841,
+          "tweet_count": 2267
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

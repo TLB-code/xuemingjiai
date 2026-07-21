@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1837123348347899925",
+    "created_at": "2024-09-20T13:35:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-20T14:35:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1837123348347899925"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1774950152643739648",
+          "start": 3,
+          "username": "qiranlove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837123348347899925",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 36
+    },
+    "referenced_tweets": [
+      {
+        "id": "1836975313550725175",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qiranlove: 嗯…呼♡呼♡齁♡主人…主任们♡哼哧♡齁~母畜♡母畜婊子♡噫！啊啊啊！傻屄喷卵废物雌畜…愿意以后放弃作为人的身份…齁♡一辈子变形野爹们玩弄的婊子废物畜生母狗♡齁♡嘶哈♡母猪…有自己的学生证，身份证一生起誓…要是违背大肉屌祖宗，野爹们，就在…u♡野爹们…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1837123348347899925].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1837123348347899925",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1837123348347899925"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1836975199893475329"
+          ]
+        },
+        "author_id": "1774950152643739648",
+        "conversation_id": "1836975313550725175",
+        "created_at": "2024-09-20T03:46:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-20T04:46:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1836975313550725175"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eu9h15snuv",
+              "end": 166,
+              "expanded_url": "https://twitter.com/qiranlove/status/1836975313550725175/photo/1",
+              "media_key": "3_1836975199893475329",
+              "start": 143,
+              "url": "https://t.co/eu9H15SNuv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836975313550725175",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 5223,
+          "like_count": 138,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "嗯…呼♡呼♡齁♡主人…主任们♡哼哧♡齁~母畜♡母畜婊子♡噫！啊啊啊！傻屄喷卵废物雌畜…愿意以后放弃作为人的身份…齁♡一辈子变形野爹们玩弄的婊子废物畜生母狗♡齁♡嘶哈♡母猪…有自己的学生证，身份证一生起誓…要是违背大肉屌祖宗，野爹们，就在…u♡野爹们的鸡巴上被活活肏死♡啊啊啊！（躺在… https://t.co/eu9H15SNuv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "超绝可爱💖\n她就是出道即巅峰的可爱纯真小天使新人偶像魔女小姐💖\n任何人都会被她散发出的魅力所捕获，对这样的魔女小姐不能心怀任何涩涩的念想哦，不然就会变得非常糟糕...踏入无法挣脱的陷阱和牢笼里呢💘\n魔女小姐无论说什么做什么都是正确的哦，身为她的粉丝，只需要无条件用各种方式支持她就好了～\nqq2829556413",
+        "id": "1374389254726455305",
+        "name": "电波系新人偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1804570562511126828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836438377702600704/CAqVvsCj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5359,
+          "following_count": 188,
+          "like_count": 149,
+          "listed_count": 23,
+          "tweet_count": 1055
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-02T00:01:23.000Z",
+        "description": "肉畜母婊文援姬♡身心全部都堕落沦为丧志母畜的婊子人偶玩物♡见到主人肉屌瞬间丧志的反差雌犬♡擅长服侍野爹大人们，xp全能，无下限♡可以被尽情使用。无论是被巨根征服，还是榨干废物肉虫都不在话下的肉畜精壶♡\n收费60/h\nqq门牌号：3259563015\n 2010380292\n时间中午到凌晨五点\n电报：@qiranlove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 160,
+                "start": 150,
+                "username": "qiranlove"
+              }
+            ]
+          }
+        },
+        "id": "1774950152643739648",
+        "location": "野爹胯下♡",
+        "name": "人偶肉畜柒䰯（互）",
+        "pinned_tweet_id": "1796342708568826215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774950374518181888/CPCvm9hK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6849,
+          "following_count": 84,
+          "like_count": 1405,
+          "listed_count": 28,
+          "tweet_count": 1002
+        },
+        "username": "qiranlove",
+        "verified": true
+      }
+    ]
+  }
+}

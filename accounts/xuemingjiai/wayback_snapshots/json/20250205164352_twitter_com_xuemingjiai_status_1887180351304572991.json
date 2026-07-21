@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1887180351304572991",
+    "created_at": "2025-02-05T16:43:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-05T17:43:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887180351304572991"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1374389254726455305",
+          "start": 3,
+          "username": "xuemingjiai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887180351304572991",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886800434666570180",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xuemingjiai: 各位杂鱼小雏男们晚上好～\n又是很久不见了呢，这段时间有想过你们最喜欢的魔女小姐吗～？\n好啦w，想没想过都不重要哦，重要的是...看见魔女小姐发推，意味着什么呢？\n意味着屏幕面前深夜寻找发情配菜的小雏男有福了哦💜\n话不多说～硬起来吧～撸起来吧～…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1887180351304572991].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1887180351304572991",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1887180351304572991"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886800431848022017"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1886800434666570180",
+        "created_at": "2025-02-04T15:34:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-04T16:34:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886800434666570180"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/R0Xo4Sv6dK",
+              "end": 166,
+              "expanded_url": "https://x.com/xuemingjiai/status/1886800434666570180/photo/1",
+              "media_key": "3_1886800431848022017",
+              "start": 143,
+              "url": "https://t.co/R0Xo4Sv6dK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886800434666570180",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 3443,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "各位杂鱼小雏男们晚上好～\n又是很久不见了呢，这段时间有想过你们最喜欢的魔女小姐吗～？\n好啦w，想没想过都不重要哦，重要的是...看见魔女小姐发推，意味着什么呢？\n意味着屏幕面前深夜寻找发情配菜的小雏男有福了哦💜\n话不多说～硬起来吧～撸起来吧～\n今晚的发情对象是屁股臀部哦，变态偷窥狂♪ https://t.co/R0Xo4Sv6dK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "您好～这里是出道以来一直致力于为小雏男哥哥们提供“舒适”“安全”“极致射金体验”的纯真妹系小天使魔女妹妹💚\n想了解我请翻看我的推文～\nqq2829556413，碎碎念小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 85,
+                "username": "oricz233"
+              },
+              {
+                "end": 114,
+                "start": 105,
+                "username": "moelipoi"
+              },
+              {
+                "end": 132,
+                "start": 121,
+                "username": "cutelingli"
+              },
+              {
+                "end": 154,
+                "start": 139,
+                "username": "chessy80978858"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系天使偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886796775446700032/CBetvufN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6416,
+          "following_count": 251,
+          "like_count": 291,
+          "listed_count": 29,
+          "media_count": 543,
+          "tweet_count": 1513
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

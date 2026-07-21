@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1914014966623191438",
+    "created_at": "2025-04-21T10:31:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-21T11:31:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914265733904941558"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1209517407544446977",
+          "start": 0,
+          "username": "1Xian1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914265733904941558",
+    "in_reply_to_user_id": "1209517407544446977",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914014966623191438",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1Xian1 亲亲～"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 680,
+        "media_key": "3_1914014959459295232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Go_ydvla4AARlw4.jpg",
+        "width": 680
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "1914014966623191438",
+        "created_at": "2025-04-21T10:31:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T11:31:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914265733904941558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1209517407544446977",
+              "start": 0,
+              "username": "1Xian1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914265733904941558",
+        "in_reply_to_user_id": "1209517407544446977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914014966623191438",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1Xian1 亲亲～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1914014959459295232"
+          ]
+        },
+        "author_id": "1209517407544446977",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1914014966623191438",
+        "created_at": "2025-04-20T17:55:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-20T18:55:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914014966623191438"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cUqHxq7rug",
+              "end": 26,
+              "expanded_url": "https://x.com/1Xian1/status/1914014966623191438/photo/1",
+              "media_key": "3_1914014959459295232",
+              "start": 3,
+              "url": "https://t.co/cUqHxq7rug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914014966623191438",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 178,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跟风 https://t.co/cUqHxq7rug"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "您好～这里是一直致力于为小雏男哥哥们提供“舒适”“安全”“极致射金体验”的纯真妹系小天使魔女妹妹💚\n想更加了解请翻看推文～\nqq2829556413，病毒小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858\n女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 79,
+                "username": "oricz233"
+              },
+              {
+                "end": 108,
+                "start": 99,
+                "username": "moelipoi"
+              },
+              {
+                "end": 126,
+                "start": 115,
+                "username": "cutelingli"
+              },
+              {
+                "end": 148,
+                "start": 133,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 159,
+                "start": 152,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系天使偶像魔女小姐💖女仆限定版♪",
+        "pinned_tweet_id": "1912930515570835816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909108552796651520/gRlgoaOf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6711,
+          "following_count": 273,
+          "like_count": 286,
+          "listed_count": 29,
+          "media_count": 572,
+          "tweet_count": 1571
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-24T16:53:23.000Z",
+        "description": "普普通通男孩子，做一些马赛克色图+文字。想找我玩直接私信就好～只要发私信一定会回复的哦，聊聊天也可以呀～",
+        "id": "1209517407544446977",
+        "location": "在你身边～",
+        "name": "xian",
+        "pinned_tweet_id": "1884977213650747495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1209517522329964546/cNcVReu2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 753,
+          "like_count": 1261,
+          "listed_count": 4,
+          "media_count": 36,
+          "tweet_count": 619
+        },
+        "username": "1Xian1",
+        "verified": false
+      }
+    ]
+  }
+}

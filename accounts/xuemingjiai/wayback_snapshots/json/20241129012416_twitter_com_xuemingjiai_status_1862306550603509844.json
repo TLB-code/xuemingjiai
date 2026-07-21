@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1862306550603509844",
+    "created_at": "2024-11-29T01:24:16.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-29T02:24:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1862306550603509844"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 130,
+          "start": 127,
+          "tag": "洗脑"
+        },
+        {
+          "end": 134,
+          "start": 131,
+          "tag": "抖s"
+        },
+        {
+          "end": 138,
+          "start": 135,
+          "tag": "文援"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1546004457322082305",
+          "start": 3,
+          "username": "moeliQwQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862306550603509844",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861417035680620819",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @moeliQwQ: 公狗活着的意义就是服从主人🖤\n用自毁来获得快感🖤永久剥夺射精权🖤观看推文就必须握住自己的猪鞭上下撸动直到寸止🖤慢慢被主人洗脑驯化🖤完全沦为主人的脚垫🖤像你这种恋足公狗真是无药可救呢~🖤这种垃圾就应该被主人的玉足狠狠闷死吧~🖤\n#洗脑 #抖s #文援…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "1862306550603509844",
+        "created_at": "2024-11-29T01:24:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-29T02:24:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862306550603509844"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 130,
+              "start": 127,
+              "tag": "洗脑"
+            },
+            {
+              "end": 134,
+              "start": 131,
+              "tag": "抖s"
+            },
+            {
+              "end": 138,
+              "start": 135,
+              "tag": "文援"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1546004457322082305",
+              "start": 3,
+              "username": "moeliQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862306550603509844",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861417035680620819",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @moeliQwQ: 公狗活着的意义就是服从主人🖤\n用自毁来获得快感🖤永久剥夺射精权🖤观看推文就必须握住自己的猪鞭上下撸动直到寸止🖤慢慢被主人洗脑驯化🖤完全沦为主人的脚垫🖤像你这种恋足公狗真是无药可救呢~🖤这种垃圾就应该被主人的玉足狠狠闷死吧~🖤\n#洗脑 #抖s #文援…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1861417033109512195"
+          ]
+        },
+        "author_id": "1546004457322082305",
+        "conversation_id": "1861417035680620819",
+        "created_at": "2024-11-26T14:29:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-26T15:29:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1861417035680620819"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 116,
+              "start": 113,
+              "tag": "洗脑"
+            },
+            {
+              "end": 120,
+              "start": 117,
+              "tag": "抖s"
+            },
+            {
+              "end": 124,
+              "start": 121,
+              "tag": "文援"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1bHbLudPWJ",
+              "end": 148,
+              "expanded_url": "https://x.com/moeliQwQ/status/1861417035680620819/photo/1",
+              "media_key": "3_1861417033109512195",
+              "start": 125,
+              "url": "https://t.co/1bHbLudPWJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861417035680620819",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 5881,
+          "like_count": 95,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "公狗活着的意义就是服从主人🖤\n用自毁来获得快感🖤永久剥夺射精权🖤观看推文就必须握住自己的猪鞭上下撸动直到寸止🖤慢慢被主人洗脑驯化🖤完全沦为主人的脚垫🖤像你这种恋足公狗真是无药可救呢~🖤这种垃圾就应该被主人的玉足狠狠闷死吧~🖤\n#洗脑 #抖s #文援 https://t.co/1bHbLudPWJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "您好～这里是出道以来一直致力于为小雏男哥哥们提供“舒适”“安全”“极致快感”的纯真妹系小天使魔女妹妹💚\n想了解我请翻看我的推文～\nqq2829556413，碎碎念小号@oricz233\n共同出道的偶像老婆：@moeliQWQ\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 83,
+                "username": "oricz233"
+              },
+              {
+                "end": 112,
+                "start": 103,
+                "username": "moeliQWQ"
+              },
+              {
+                "end": 130,
+                "start": 119,
+                "username": "cutelingli"
+              },
+              {
+                "end": 152,
+                "start": 137,
+                "username": "chessy80978858"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系天使偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860644184996372480/BDeo83tW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5979,
+          "following_count": 238,
+          "like_count": 199,
+          "listed_count": 26,
+          "media_count": 506,
+          "tweet_count": 1378
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-10T05:32:51.000Z",
+        "description": "这里是超绝可爱偶像璃喵喵~♡⁠爱好是将粉丝们踩在足底洗脑~♡⁠「榨精魅魔♡⁠拜金偶像♡⁠萝莉小鬼♡⁠绿茶公主♡⁠」xp无下限~人设可谈 经验丰富可长可段~支持长期单♡⁠门牌号：1912443435 欢迎下单~♡⁠不涉三 里世界：@Urarasuk1 单推偶像：@xuemingjiai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 114,
+                "username": "Urarasuk1"
+              },
+              {
+                "end": 142,
+                "start": 130,
+                "username": "xuemingjiai"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/moeliqwq",
+                "end": 23,
+                "expanded_url": "http://t.me/moeliqwq",
+                "start": 0,
+                "url": "https://t.co/MUfid2947d"
+              }
+            ]
+          }
+        },
+        "id": "1546004457322082305",
+        "location": "营业时间：日常晚上六点到凌晨一点 周末全天营业",
+        "name": "璃酱🖤（互推私信喵~）",
+        "pinned_tweet_id": "1847115416512184503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856737520589127680/7KSQnL8B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3231,
+          "following_count": 127,
+          "like_count": 484,
+          "listed_count": 11,
+          "media_count": 173,
+          "tweet_count": 566
+        },
+        "url": "https://t.co/MUfid2947d",
+        "username": "moeliQwQ",
+        "verified": true
+      }
+    ]
+  }
+}

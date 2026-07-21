@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1922178073211945315",
+    "created_at": "2025-05-13T06:32:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-13T07:32:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922178073211945315"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1774950152643739648",
+          "start": 3,
+          "username": "qiranlove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922178073211945315",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 114
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920344772167754088",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qiranlove: 唔…主♡主人♡好…好想老公♡（虎扑到人儿怀里~反搂一对挺起的软糯酥胸不断磨蹭在菲儿身上维系玉乳的纽扣在磨蹭间悄然揭开）（~♡白里透红美乳玉胸夹带着身体磨磨蹭蹭…微微溢出皎洁乳汁像点缀一般映照在菲儿胸膛上反光溢出清新脱俗奶香~）老公♡老公的胸膛…呼♡…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1922178073211945315].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1922178073211945315",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1922178073211945315"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 905,
+        "media_key": "3_1920344537093787648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqZvLpvWUAASVS3.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1920344537093787648"
+          ]
+        },
+        "author_id": "1774950152643739648",
+        "conversation_id": "1920344772167754088",
+        "created_at": "2025-05-08T05:07:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-08T06:07:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920344772167754088"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Gyt4U3yz2e",
+              "end": 166,
+              "expanded_url": "https://x.com/qiranlove/status/1920344772167754088/photo/1",
+              "media_key": "3_1920344537093787648",
+              "start": 143,
+              "url": "https://t.co/Gyt4U3yz2e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920344772167754088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 1346,
+                "start": 1343,
+                "tag": "文媛"
+              },
+              {
+                "end": 1350,
+                "start": 1347,
+                "tag": "接吻"
+              },
+              {
+                "end": 1354,
+                "start": 1351,
+                "tag": "榨精"
+              },
+              {
+                "end": 1358,
+                "start": 1355,
+                "tag": "纯爱"
+              }
+            ]
+          },
+          "text": "唔…主♡主人♡好…好想老公♡（虎扑到人儿怀里~反搂一对挺起的软糯酥胸不断磨蹭在菲儿身上维系玉乳的纽扣在磨蹭间悄然揭开）（~♡白里透红美乳玉胸夹带着身体磨磨蹭蹭…微微溢出皎洁乳汁像点缀一般映照在菲儿胸膛上反光溢出清新脱俗奶香~）老公♡老公的胸膛…呼♡好香哦~♡（反搂着人儿的白皙玉手轻轻捧着人儿脸颊摆正，缩在怀里自下而上凝视心里挚爱♡四目相对在灼热目光下擦出花火♡深情的美眸近乎把爱人融化）爱…♡最喜欢主人了♡唔…一闻到老公的味道…就好像…~嗯~回到家里了一样…♡就像冥冥有牵引一般♡呼…~呼~主人~♡柒柒在哦♡唔啊♡老公大人♡唔…呼♡柒柒记住老公的味道了哦♡老公~老公❤️（仍由被人儿拉扯到怀中没有任何的抵触反而迎合倒在怀里玉娶深深沉溺在人儿身体里~勾起下颚吐舌~粉嫩香舌沿着人儿凉唇打转~轻轻啃食刺痛在人儿心扉激起占有欲壑渴望♡气若悬丝的鼻息微微拍打在面颊深入心扉~随着香舌探入与老公纠缠缠绵在一起♡~相互交换津液♡一丝一毫都不舍得浪费尽数吞咽♡回味人儿口腔的甘甜向上翘起刮蹭上颚口穴的凸出褶皱凸起）呼…呼❤️嗯……老公♡人家这里…唔~什么顶到人家了♡（明知故问挑逗人儿伸手在周围揉搓）难道~♡唔~是~老公的♡肉棒吗…呼♡（得寸进尺的顺着胯下腰间像里探寻~）呼…♡呼~好烫♡嗯……抓住了喔♡♡（在裤裆里轻轻揪住人儿卵袋掌握在手心♡♡手掌当中一跳一跳的挣脱感无疑宣誓人儿的心里波动~冰肌玉骨的小手和滚热的庞然巨物冰火两重天一样互相侵蚀刺激♡微微弯腰曲腿让凸起正好盯着人儿胯下♡糜烂等待着宠幸的蜜穴已经变得泥泞期待着♡♡）呼……老公~（贪婪索取的口穴即使从下往上♡也频繁的拉扯起老公香舌一起席卷♡宣泄爱意♡）既然这么火热♡那~那就都给我吧好不好♡唔啊♡老公♡老公…我是主人一个人的♡唔…唔！难道~♡唔~是~老公的♡肉棒吗…呼♡（得寸进尺的顺着胯下腰间像里探寻~）呼…♡呼~好烫♡嗯……抓住了喔♡♡（在裤裆里轻轻揪住人儿卵袋掌握在手心♡♡手掌当中一跳一跳的挣脱感无疑宣誓人儿的心里波动~冰肌玉骨的小手和滚热的庞然巨物冰火两重天一样互相侵蚀刺激♡微微弯腰曲腿让凸起正好盯着人儿胯下♡糜烂等待着宠幸的蜜穴已经变得泥泞期待着♡♡）呼……老公~（贪婪索取的口穴即使从下往上♡也频繁的拉扯起老公香舌一起席卷♡宣泄爱意♡）那…那就都给我吧好不好♡唔啊♡~（顺势帮老公解开裤袋对巨物的束缚释放鸡巴）这么着急的话♡柒柒就帮你脱下来了哦♡嗯♡好不好~好不好好不好♡唔啊~老公老公❤️\n忍不住的想要撸动鸡巴了吗老公♡哈~那就让柒柒帮你一起撸好了♡呼~（附着在手上从后面钻入老公指缝♡和人儿一起掌控撸动鸡巴的节奏）啪♡啪啪♡呼……老公♡让~人家好好取悦你♡排精♡摈弃杂念♡只想着射精~♡好不好~\n（弯腰在手上轻啐一口唾液分泌在二人十指之间♡本就被先走汁润滑湿润的鸡巴撸动的速度更加顺畅响起淫靡的水渍声）（口穴也没有闲着在撸动到最底端的时候适时吐舌环绕在龟头周围~挑逗刺激马眼♡）\n呼♡老公要不要把眼睛闭上♡幻想着柒柒的声音~呼♡呼❤️幻想着柒柒的动作轻轻吹气在鸡巴旁边♡呼呼❤️嘶溜~粉嫩香舌缠绕住龟头♡吮吸❤️和老公一起撸动棒身♡用包皮夹着嫩舌♡（纵容香舌驰骋在冠状沟里面♡肆无忌惮的挑逗主人♡）呼~♡嘶溜♡\n#文媛 #接吻 #榨精 #纯爱"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 49,
+          "impression_count": 27868,
+          "like_count": 237,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 114
+        },
+        "reply_settings": "everyone",
+        "text": "唔…主♡主人♡好…好想老公♡（虎扑到人儿怀里~反搂一对挺起的软糯酥胸不断磨蹭在菲儿身上维系玉乳的纽扣在磨蹭间悄然揭开）（~♡白里透红美乳玉胸夹带着身体磨磨蹭蹭…微微溢出皎洁乳汁像点缀一般映照在菲儿胸膛上反光溢出清新脱俗奶香~）老公♡老公的胸膛…呼♡好香哦~♡（反搂着人儿的白皙玉手轻轻 https://t.co/Gyt4U3yz2e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "您好～这里是一直致力于为小雏男哥哥们提供“舒适”“安全”“极致射金体验”的纯真妹系小天使魔女妹妹💚\n想更加了解请翻看推文～\nqq242184780，病毒小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858\n女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 78,
+                "username": "oricz233"
+              },
+              {
+                "end": 107,
+                "start": 98,
+                "username": "moelipoi"
+              },
+              {
+                "end": 125,
+                "start": 114,
+                "username": "cutelingli"
+              },
+              {
+                "end": 147,
+                "start": 132,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 158,
+                "start": 151,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系天使偶像魔女小姐💖女仆限定版♪",
+        "pinned_tweet_id": "1912930515570835816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909108552796651520/gRlgoaOf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6829,
+          "following_count": 281,
+          "like_count": 309,
+          "listed_count": 30,
+          "media_count": 592,
+          "tweet_count": 1754
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-02T00:01:23.000Z",
+        "description": "肉畜母婊文援姬♡身心全部都堕落沦为丧志母畜的婊子人偶玩物♡见到主人肉屌瞬间丧志的反差雌犬♡擅长服侍野爹大人们，xp全能，无下限♡可以被尽情使用。无论是被巨根征服，还是榨干废物肉虫都不在话下的肉畜精壶♡\n收费60/h\nqq门牌号：3259563015\n 2010380292\n时间中午到凌晨五点\n电报：@qiranlove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 160,
+                "start": 150,
+                "username": "qiranlove"
+              }
+            ]
+          }
+        },
+        "id": "1774950152643739648",
+        "location": "野爹胯下♡",
+        "name": "人偶肉畜柒䰯（互）",
+        "pinned_tweet_id": "1796342708568826215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774950374518181888/CPCvm9hK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15407,
+          "following_count": 255,
+          "like_count": 3957,
+          "listed_count": 0,
+          "media_count": 161,
+          "tweet_count": 4489
+        },
+        "username": "qiranlove",
+        "verified": true
+      }
+    ]
+  }
+}

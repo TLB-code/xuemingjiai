@@ -1,0 +1,242 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1793151988727009308",
+    "created_at": "2024-05-22T05:28:43.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-22T06:28:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1793151988727009308"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 129,
+          "start": 126,
+          "tag": "文调"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "879412678724247553",
+          "start": 3,
+          "username": "Charlotte_Lucif"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1793151988727009308",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "1792237372752699885",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Charlotte_Lucif: 520不打算给主人送点什么吗（笑）阳痿短小贱狗想必也没有女朋友吧～那还不快点上贡主人～可能还能看你一眼呢\n能够帮主人报销不是很荣幸的事吗 也许能让你在我脚下多待呢\n想要帮我报销的自己私讯我 反正差不多1314\n#文调\n(也接树洞之类的通…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1793151988727009308].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1793151988727009308",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1793151988727009308"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1792237366012461056",
+            "3_1792237366809350144",
+            "3_1792237369451835392",
+            "3_1792237369854427136"
+          ]
+        },
+        "author_id": "879412678724247553",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1792237372752699885",
+        "created_at": "2024-05-19T16:54:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-19T17:54:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1792237372752699885"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 108,
+              "start": 105,
+              "tag": "文调"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/nUWUKaGNrZ",
+              "end": 173,
+              "expanded_url": "https://twitter.com/Charlotte_Lucif/status/1792237372752699885/photo/1",
+              "media_key": "3_1792237366012461056",
+              "start": 150,
+              "url": "https://t.co/nUWUKaGNrZ"
+            },
+            {
+              "display_url": "pic.twitter.com/nUWUKaGNrZ",
+              "end": 173,
+              "expanded_url": "https://twitter.com/Charlotte_Lucif/status/1792237372752699885/photo/1",
+              "media_key": "3_1792237366809350144",
+              "start": 150,
+              "url": "https://t.co/nUWUKaGNrZ"
+            },
+            {
+              "display_url": "pic.twitter.com/nUWUKaGNrZ",
+              "end": 173,
+              "expanded_url": "https://twitter.com/Charlotte_Lucif/status/1792237372752699885/photo/1",
+              "media_key": "3_1792237369451835392",
+              "start": 150,
+              "url": "https://t.co/nUWUKaGNrZ"
+            },
+            {
+              "display_url": "pic.twitter.com/nUWUKaGNrZ",
+              "end": 173,
+              "expanded_url": "https://twitter.com/Charlotte_Lucif/status/1792237372752699885/photo/1",
+              "media_key": "3_1792237369854427136",
+              "start": 150,
+              "url": "https://t.co/nUWUKaGNrZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792237372752699885",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 10170,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "520不打算给主人送点什么吗（笑）阳痿短小贱狗想必也没有女朋友吧～那还不快点上贡主人～可能还能看你一眼呢\n能够帮主人报销不是很荣幸的事吗 也许能让你在我脚下多待呢\n想要帮我报销的自己私讯我 反正差不多1314\n#文调\n(也接树洞之类的通常类型的 还有贩售群榨纪录跟编辑媚X图片 或是上贡帐号之类的) https://t.co/nUWUKaGNrZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "就如同推特名一样\n是传说中的网络美少女，在异世界中是名副其实的“魔女”💜\n对人类世界充满好奇，会用自己的一些方式来洗脑一些小雏男以满足自己的恶趣味，非常拜金💚征集人型钱包中..\n门牌是2829556413和2438028521（备用）\n请来送死~♡\n不涉三哦",
+        "id": "1374389254726455305",
+        "name": "请叫我魔女小姐💜（白纸计划上线中）",
+        "pinned_tweet_id": "1791781042321571928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790638369040711680/qE_AOavg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4833,
+          "following_count": 159,
+          "like_count": 141,
+          "listed_count": 23,
+          "tweet_count": 949
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-26T18:54:56.000Z",
+        "description": "24🖤🇹🇼Findom❤️病嬌抖S💚喜愛洗腦脅迫榨金🖤不涉三!\n門牌號:3786777028 19:00~6:00门槛40 88 199 30min/40 \n寶貝姊姊:@shiguyueya @suyueyueyueyue @acandis0 @BlackedQingXue\n支那母狗:@Cotyttia413",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 84,
+                "username": "shiguyueya"
+              },
+              {
+                "end": 111,
+                "start": 96,
+                "username": "suyueyueyueyue"
+              },
+              {
+                "end": 121,
+                "start": 112,
+                "username": "acandis0"
+              },
+              {
+                "end": 137,
+                "start": 122,
+                "username": "BlackedQingXue"
+              },
+              {
+                "end": 155,
+                "start": 143,
+                "username": "Cotyttia413"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/fallen_lucifer",
+                "end": 23,
+                "expanded_url": "https://www.patreon.com/fallen_lucifer",
+                "start": 0,
+                "url": "https://t.co/Wg6cAwP9CP"
+              }
+            ]
+          }
+        },
+        "id": "879412678724247553",
+        "location": "踩在你頭上",
+        "name": "Findom♠抖S🖤姬宮路西法✡️Fallen😈Lucifer✡️ | 2DFD",
+        "pinned_tweet_id": "1791224355680100414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789108556706537472/zGjWUlu5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9298,
+          "following_count": 178,
+          "like_count": 5613,
+          "listed_count": 41,
+          "tweet_count": 4333
+        },
+        "url": "https://t.co/Wg6cAwP9CP",
+        "username": "Charlotte_Lucif",
+        "verified": true
+      }
+    ]
+  }
+}

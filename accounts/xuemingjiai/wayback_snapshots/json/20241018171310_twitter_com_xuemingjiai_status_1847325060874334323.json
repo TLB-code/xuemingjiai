@@ -1,0 +1,100 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1847325058345422848"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "1847324789272432806",
+    "created_at": "2024-10-18T17:13:10.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-18T18:13:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1847325060874334323"
+    ],
+    "id": "1847325060874334323",
+    "in_reply_to_user_id": "1374389254726455305",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 4,
+      "impression_count": 2495,
+      "like_count": 10,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1847324921355182581",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "举个很简单的例子\n戴锁和不戴锁哪个的快感更强?\n答案肯定是前者吧？\n寸止一段时间再射精和直接射精哪个更舒服？\n肯定也是前者吧~\n用射“金”代替“射精”哪个更舒服？\n肯定还是前者对吧💜\n嗯哼w，就是这么“简单”的道理哦？\n这可是小学生都明白的道理呢~\n握着肉棒撸动的“主人”不会不明白这样的“基础常识”吧 https://t.co/5SD3z6sjc6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1230,
+        "media_key": "3_1847325058345422848",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GaMEWl9bUAAav7X.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "您好～这里是出道以来一直致力于为小雏男哥哥们提供“舒适”“安全”“极致快感”的纯真妹系小天使魔女妹妹💚\n想了解我请翻看我的推文～\nqq2829556413，碎碎念小号@oricz233\n共同出道的偶像老婆：@moeliQWQ\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 83,
+                "username": "oricz233"
+              },
+              {
+                "end": 112,
+                "start": 103,
+                "username": "moeliQWQ"
+              },
+              {
+                "end": 130,
+                "start": 119,
+                "username": "cutelingli"
+              },
+              {
+                "end": 152,
+                "start": 137,
+                "username": "chessy80978858"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系天使偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860644184996372480/BDeo83tW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5958,
+          "following_count": 238,
+          "like_count": 198,
+          "listed_count": 26,
+          "media_count": 506,
+          "tweet_count": 1374
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

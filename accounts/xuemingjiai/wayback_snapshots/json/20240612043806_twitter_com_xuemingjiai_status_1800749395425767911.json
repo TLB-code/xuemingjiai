@@ -1,0 +1,155 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1800749395425767911",
+    "created_at": "2024-06-12T04:38:06.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-12T05:38:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1800749395425767911"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "532280267",
+          "start": 3,
+          "username": "cmweidman"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1800749395425767911",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1800741842042151122",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cmweidman: 【瞄准下面二维码截图直接加就可】\n哪条贱狗看祖宗的主页呢～🖤怎么？看一眼就喷精了？🖤（翘腿）不看看自己那个废物包茎臭屌有多下贱？把那个恶心的眼神移开！高贵的祖宗可不会在你的那套献媚下心动哦～不过🖤如果你把你那些废物金币都吐出来，说不定会让祖宗看你一…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1800749395425767911].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1800749395425767911",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1800749395425767911"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1800741839009677312"
+          ]
+        },
+        "author_id": "532280267",
+        "conversation_id": "1800741842042151122",
+        "created_at": "2024-06-12T04:08:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-12T05:08:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1800741842042151122"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 134,
+              "start": 131,
+              "tag": "文爱"
+            },
+            {
+              "end": 138,
+              "start": 135,
+              "tag": "文援"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/xgbVj3UJr3",
+              "end": 162,
+              "expanded_url": "https://twitter.com/cmweidman/status/1800741842042151122/photo/1",
+              "media_key": "3_1800741839009677312",
+              "start": 139,
+              "url": "https://t.co/xgbVj3UJr3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800741842042151122",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "【瞄准下面二维码截图直接加就可】\n哪条贱狗看祖宗的主页呢～🖤怎么？看一眼就喷精了？🖤（翘腿）不看看自己那个废物包茎臭屌有多下贱？把那个恶心的眼神移开！高贵的祖宗可不会在你的那套献媚下心动哦～不过🖤如果你把你那些废物金币都吐出来，说不定会让祖宗看你一眼呢～呵呵～♡#文爱 #文援 https://t.co/xgbVj3UJr3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "可爱程度百分之百💖\n她就是出道即巅峰的可爱纯真小天使新人偶像魔女小姐💖\n任何人都会被她散发出的魅力所捕获，对这样的魔女小姐不能心怀任何涩涩的念想哦，不然就会变得非常糟糕...踏入无法挣脱的陷阱和牢笼里呢💘\n魔女小姐无论说什么做什么都是正确的哦，身为她的粉丝，只需要无条件用各种方式支持她就好了💘\n私联禁止🚫",
+        "id": "1374389254726455305",
+        "name": "电波系新人偶像💖魔女小姐参上（正能量爆表～）",
+        "pinned_tweet_id": "1798490016685195398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795799880021295104/Tsd4XdC9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4869,
+          "following_count": 173,
+          "like_count": 147,
+          "listed_count": 22,
+          "tweet_count": 979
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2012-03-21T14:41:16.000Z",
+        "description": "【瞄准下面二维码截图直接加就可】\n这里是S文援姬 祭月sama ，如果你是废物早泄小处男～那就在祖宗的丝袜脚下接受洗脑吧！准备好被压榨的话？那还不快跪下磕头！？（翘脚）\n29r/0.5h，门牌号：3386246067【扫下方二维码更快】 随时有空，有空必回！（不涉三）",
+        "id": "532280267",
+        "name": "祭月Sama",
+        "pinned_tweet_id": "1800741842042151122",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1742068027414495232/vIPpBnoG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 808,
+          "following_count": 17,
+          "like_count": 5,
+          "listed_count": 1,
+          "tweet_count": 69
+        },
+        "username": "cmweidman",
+        "verified": false
+      }
+    ]
+  }
+}

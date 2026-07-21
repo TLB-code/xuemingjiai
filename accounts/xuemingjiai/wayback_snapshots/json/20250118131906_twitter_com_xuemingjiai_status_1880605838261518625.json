@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1880605838261518625",
+    "created_at": "2025-01-18T13:19:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-18T14:19:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880605838261518625"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1312572317206159360",
+          "start": 3,
+          "username": "moelipoi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880605838261518625",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880177012922515955",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @moelipoi: 哼～今天逮到一只超级恶心的傻逼老鼠，躲在鞋柜那边一直偷闻意淫璃酱的鞋子~是在找死对吧~♡\n这种低贱的贱畜生就该被踩烂！还敢挺着那根下贱的肉棒朝拜璃酱的鞋子请求被践踏到流精？恶心死了！！\n啊啦～既然这么喜欢璃酱的鞋子，不如直接变成偶像的专属擦鞋布怎么样…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1880605838261518625].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1880605838261518625",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1880605838261518625"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1880177010041077760"
+          ]
+        },
+        "author_id": "1312572317206159360",
+        "conversation_id": "1880177012922515955",
+        "created_at": "2025-01-17T08:55:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T09:55:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880177012922515955"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3mVRQYGdiA",
+              "end": 166,
+              "expanded_url": "https://x.com/moelipoi/status/1880177012922515955/photo/1",
+              "media_key": "3_1880177010041077760",
+              "start": 143,
+              "url": "https://t.co/3mVRQYGdiA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880177012922515955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 1936,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "哼～今天逮到一只超级恶心的傻逼老鼠，躲在鞋柜那边一直偷闻意淫璃酱的鞋子~是在找死对吧~♡\n这种低贱的贱畜生就该被踩烂！还敢挺着那根下贱的肉棒朝拜璃酱的鞋子请求被践踏到流精？恶心死了！！\n啊啦～既然这么喜欢璃酱的鞋子，不如直接变成偶像的专属擦鞋布怎么样？反正你也只会流精罢了~废物傻逼♡ https://t.co/3mVRQYGdiA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "您好～这里是出道以来一直致力于为小雏男哥哥们提供“舒适”“安全”“极致快感”的纯真妹系小天使魔女妹妹💚\n想了解我请翻看我的推文～\nqq2829556413，碎碎念小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 83,
+                "username": "oricz233"
+              },
+              {
+                "end": 112,
+                "start": 103,
+                "username": "moelipoi"
+              },
+              {
+                "end": 130,
+                "start": 119,
+                "username": "cutelingli"
+              },
+              {
+                "end": 152,
+                "start": 137,
+                "username": "chessy80978858"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系天使偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878142670054604800/aZFysFDs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6318,
+          "following_count": 251,
+          "like_count": 285,
+          "listed_count": 29,
+          "media_count": 532,
+          "tweet_count": 1472
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-04T01:57:08.000Z",
+        "description": "这里是超绝可爱偶像璃酱~♡⁠点击媒体看所有推文哦~♡⁠爱好是将粉丝们踩在足底洗脑~♡⁠「榨精魅魔♡⁠拜金偶像♡⁠雌小鬼♡⁠绿茶公主♡⁠」xp无下限~人设可谈 经验丰富可句可段~支持长期单♡⁠门牌号：1912443435 欢迎下单~♡⁠不涉三 单推偶像：@xuemingjiai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 126,
+                "username": "xuemingjiai"
+              }
+            ]
+          }
+        },
+        "id": "1312572317206159360",
+        "location": "营业时间：全天 价格：35/0.5h 65/h",
+        "name": "超绝可爱抖S偶像璃酱♡⁠ （二周目超绝赞营业中~欢迎互推~）",
+        "pinned_tweet_id": "1878677885885800695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878058023555579904/qIW06_G8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1082,
+          "following_count": 72,
+          "like_count": 84,
+          "listed_count": 2,
+          "media_count": 38,
+          "tweet_count": 146
+        },
+        "username": "moelipoi",
+        "verified": false
+      }
+    ]
+  }
+}

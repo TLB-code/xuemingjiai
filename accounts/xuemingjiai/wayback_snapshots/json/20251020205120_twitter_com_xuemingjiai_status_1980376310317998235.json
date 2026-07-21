@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1980374979704139776"
+      ],
+      "media_source_tweet_id": [
+        "1980375216879726719"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1980376310317998235",
+    "created_at": "2025-10-20T20:51:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T21:51:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980376310317998235"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1746153330622226432",
+          "start": 3,
+          "username": "blakexiaonai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kxWercBJYz",
+          "end": 58,
+          "expanded_url": "https://x.com/blakexiaonai/status/1980375216879726719/photo/1",
+          "media_key": "3_1980374979704139776",
+          "start": 35,
+          "url": "https://t.co/kxWercBJYz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980376310317998235",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980375216879726719",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @blakexiaonai: 如果有想找奈奈玩的，可以私信喵♡ https://t.co/kxWercBJYz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1980374979704139776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3u0jTNWMAAfkZ8.jpg",
+        "width": 1282
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980374979704139776"
+          ],
+          "media_source_tweet_id": [
+            "1980375216879726719"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1980376310317998235",
+        "created_at": "2025-10-20T20:51:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T21:51:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980376310317998235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1746153330622226432",
+              "start": 3,
+              "username": "blakexiaonai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kxWercBJYz",
+              "end": 58,
+              "expanded_url": "https://x.com/blakexiaonai/status/1980375216879726719/photo/1",
+              "media_key": "3_1980374979704139776",
+              "start": 35,
+              "url": "https://t.co/kxWercBJYz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980376310317998235",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980375216879726719",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @blakexiaonai: 如果有想找奈奈玩的，可以私信喵♡ https://t.co/kxWercBJYz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980374979704139776"
+          ]
+        },
+        "author_id": "1746153330622226432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1980375216879726719",
+        "created_at": "2025-10-20T20:46:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T21:46:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980375216879726719"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kxWercBJYz",
+              "end": 40,
+              "expanded_url": "https://x.com/blakexiaonai/status/1980375216879726719/photo/1",
+              "media_key": "3_1980374979704139776",
+              "start": 17,
+              "url": "https://t.co/kxWercBJYz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980375216879726719",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "如果有想找奈奈玩的，可以私信喵♡ https://t.co/kxWercBJYz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n最最最最喜欢钱包们啦!\n天天挨骂真的不会腻嘛～\n擅长用爱意和温柔的语气俘虏钱包～\n联系方式→3971546171←\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 78,
+                "username": "oricz233"
+              },
+              {
+                "end": 107,
+                "start": 98,
+                "username": "moelipoi"
+              },
+              {
+                "end": 125,
+                "start": 114,
+                "username": "cutelingli"
+              },
+              {
+                "end": 147,
+                "start": 132,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 159,
+                "start": 152,
+                "username": "1xian1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARosxSy"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍对钱包们最温柔最有好感版",
+        "pinned_tweet_id": "1976743806063063398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969152325731168256/ozl0k8K4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7860,
+          "following_count": 330,
+          "like_count": 644,
+          "listed_count": 34,
+          "media_count": 743,
+          "tweet_count": 2263
+        },
+        "url": "https://t.co/le8ARosxSy",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-13T12:53:18.000Z",
+        "description": "和喜欢的人一起玩，吃喜欢的蔬菜，调教喜欢的小小宠物，爱最爱的魔女奏奏，就是我的愿望❤️\n是小男孩哦～",
+        "id": "1746153330622226432",
+        "name": "blake💛奈喵",
+        "pinned_tweet_id": "1959444406307885446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962654185901748224/i98_z63B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 48,
+          "like_count": 78,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 101
+        },
+        "username": "blakexiaonai",
+        "verified": false
+      }
+    ]
+  }
+}

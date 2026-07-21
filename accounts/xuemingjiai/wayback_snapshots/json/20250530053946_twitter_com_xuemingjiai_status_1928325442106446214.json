@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1928325442106446214",
+    "created_at": "2025-05-30T05:39:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-30T06:39:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928325442106446214"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1312572317206159360",
+          "start": 3,
+          "username": "moelipoi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928325442106446214",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928130547588739570",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @moelipoi: 有趣的实验品想被当「傻逼提款机」～居然还说看着偶像大人这么可爱下不了手之类的蠢话～…♡\n结果～短短十分钟就全身发抖沦陷跪下磕头求饶了呢…♡\n最后连收款都要求我征收「收款税」才会获得被「提款」的快感～…♡\n在这里提醒♡拜托不要对自己太自信…～♪甜蜜的陷…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1928130544359067655",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsIYg7EaUAcFm-h.jpg",
+        "width": 948
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1928130545013379073",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsIYg9gaUAE3J6s.jpg",
+        "width": 953
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1928130544715583489",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsIYg8ZaUAEa8FG.jpg",
+        "width": 1032
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1928130544837218306",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsIYg82aUAI91ZO.jpg",
+        "width": 953
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "1928325442106446214",
+        "created_at": "2025-05-30T05:39:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T06:39:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928325442106446214"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1312572317206159360",
+              "start": 3,
+              "username": "moelipoi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928325442106446214",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928130547588739570",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @moelipoi: 有趣的实验品想被当「傻逼提款机」～居然还说看着偶像大人这么可爱下不了手之类的蠢话～…♡\n结果～短短十分钟就全身发抖沦陷跪下磕头求饶了呢…♡\n最后连收款都要求我征收「收款税」才会获得被「提款」的快感～…♡\n在这里提醒♡拜托不要对自己太自信…～♪甜蜜的陷…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1928130544359067655",
+            "3_1928130545013379073",
+            "3_1928130544715583489",
+            "3_1928130544837218306"
+          ]
+        },
+        "author_id": "1312572317206159360",
+        "conversation_id": "1928130547588739570",
+        "created_at": "2025-05-29T16:45:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-29T17:45:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928130547588739570"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/u5Mr1RTLma",
+              "end": 165,
+              "expanded_url": "https://x.com/moelipoi/status/1928130547588739570/photo/1",
+              "media_key": "3_1928130544359067655",
+              "start": 142,
+              "url": "https://t.co/u5Mr1RTLma"
+            },
+            {
+              "display_url": "pic.x.com/u5Mr1RTLma",
+              "end": 165,
+              "expanded_url": "https://x.com/moelipoi/status/1928130547588739570/photo/1",
+              "media_key": "3_1928130545013379073",
+              "start": 142,
+              "url": "https://t.co/u5Mr1RTLma"
+            },
+            {
+              "display_url": "pic.x.com/u5Mr1RTLma",
+              "end": 165,
+              "expanded_url": "https://x.com/moelipoi/status/1928130547588739570/photo/1",
+              "media_key": "3_1928130544715583489",
+              "start": 142,
+              "url": "https://t.co/u5Mr1RTLma"
+            },
+            {
+              "display_url": "pic.x.com/u5Mr1RTLma",
+              "end": 165,
+              "expanded_url": "https://x.com/moelipoi/status/1928130547588739570/photo/1",
+              "media_key": "3_1928130544837218306",
+              "start": 142,
+              "url": "https://t.co/u5Mr1RTLma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928130547588739570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 909,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "有趣的实验品想被当「傻逼提款机」～居然还说看着偶像大人这么可爱下不了手之类的蠢话～…♡\n结果～短短十分钟就全身发抖沦陷跪下磕头求饶了呢…♡\n最后连收款都要求我征收「收款税」才会获得被「提款」的快感～…♡\n在这里提醒♡拜托不要对自己太自信…～♪甜蜜的陷阱才是最「 ▓  ▓」的哦～…♡ https://t.co/u5Mr1RTLma"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "集美貌，智慧，强大于一身的魔女族公主现身人世～区区人类，跪下向我表示臣服吧💜\n被我支配 控制 吸脑 成为奴仆💜\n挑战qq242184780，里世界小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858\n女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "oricz233"
+              },
+              {
+                "end": 104,
+                "start": 95,
+                "username": "moelipoi"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "cutelingli"
+              },
+              {
+                "end": 144,
+                "start": 129,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 155,
+                "start": 148,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏💜散播同化病毒中～",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926028406774247424/hWplRg7q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7042,
+          "following_count": 295,
+          "like_count": 333,
+          "listed_count": 32,
+          "media_count": 640,
+          "tweet_count": 1893
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-04T01:57:08.000Z",
+        "description": "贵安~💖这里是主擅长恋足气味调教洗脑的全能系腹黑JK绿茶偶像璃酱/花璃💛|性癖无雷点 任何剧情都可接受 | 句段均可♪|貢ぎ奴隷送死欢迎🖤|把脑子无意识的交给偶像温柔的美夜月鏡中吧?💙\n🚪:1912443435丨只接受图文♡可验证 先看置顶再敲门 海外支持爱发电\n单推偶像:@xuemingjiai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 137,
+                "username": "xuemingjiai"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/moeliqwq",
+                "end": 23,
+                "expanded_url": "http://t.me/moeliqwq",
+                "start": 0,
+                "url": "https://t.co/ttwGimBZ9H"
+              }
+            ]
+          }
+        },
+        "id": "1312572317206159360",
+        "location": "价格:40/0.5h 75/h 全天营业丨不接M单",
+        "name": "璃酱❀",
+        "pinned_tweet_id": "1911036147817681330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925517442706792448/LSzqOBm__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9211,
+          "following_count": 140,
+          "like_count": 288,
+          "listed_count": 10,
+          "media_count": 211,
+          "tweet_count": 1412
+        },
+        "url": "https://t.co/ttwGimBZ9H",
+        "username": "moelipoi",
+        "verified": true
+      }
+    ]
+  }
+}

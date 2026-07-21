@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "2067040221972307983",
+    "created_at": "2026-06-17T00:22:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T01:22:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067040221972307983"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1374389254726455305",
+          "start": 3,
+          "username": "xuemingjiai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067040221972307983",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066571791615828177",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xuemingjiai: 今天来注册和游玩游戏的人很多!\n非常感谢大家的支持，游戏就是要热闹，人多才好玩，我们也在优化和增加大家联机的体验!\n连线游戏大厅出现了很多魅魔，希望新来的勇者不要轻易进入，不然会被吸干宝贵的货币!\n如果你也想参与进来，请看上一篇推文的内容，还有…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2067040221972307983].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2067040221972307983",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2067040221972307983"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2656,
+        "media_key": "3_2066571765250494464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK3wEkKbkAAmBLv.jpg",
+        "width": 1220
+      },
+      {
+        "height": 2656,
+        "media_key": "3_2066571765275676673",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK3wEkQb0AEuqZe.jpg",
+        "width": 1220
+      },
+      {
+        "height": 2656,
+        "media_key": "3_2066571765250392065",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK3wEkKaAAE4JXq.jpg",
+        "width": 1220
+      },
+      {
+        "height": 2656,
+        "media_key": "3_2066571765271379968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK3wEkPaQAAzRmW.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066571765250494464",
+            "3_2066571765275676673",
+            "3_2066571765250392065",
+            "3_2066571765271379968"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2066571791615828177",
+        "created_at": "2026-06-15T17:21:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T18:21:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066571791615828177"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/t7oZ6DyHiu",
+              "end": 166,
+              "expanded_url": "https://x.com/xuemingjiai/status/2066571791615828177/photo/1",
+              "media_key": "3_2066571765250494464",
+              "start": 143,
+              "url": "https://t.co/t7oZ6DyHiu"
+            },
+            {
+              "display_url": "pic.x.com/t7oZ6DyHiu",
+              "end": 166,
+              "expanded_url": "https://x.com/xuemingjiai/status/2066571791615828177/photo/1",
+              "media_key": "3_2066571765275676673",
+              "start": 143,
+              "url": "https://t.co/t7oZ6DyHiu"
+            },
+            {
+              "display_url": "pic.x.com/t7oZ6DyHiu",
+              "end": 166,
+              "expanded_url": "https://x.com/xuemingjiai/status/2066571791615828177/photo/1",
+              "media_key": "3_2066571765250392065",
+              "start": 143,
+              "url": "https://t.co/t7oZ6DyHiu"
+            },
+            {
+              "display_url": "pic.x.com/t7oZ6DyHiu",
+              "end": 166,
+              "expanded_url": "https://x.com/xuemingjiai/status/2066571791615828177/photo/1",
+              "media_key": "3_2066571765271379968",
+              "start": 143,
+              "url": "https://t.co/t7oZ6DyHiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066571791615828177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3277,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "今天来注册和游玩游戏的人很多!\n非常感谢大家的支持，游戏就是要热闹，人多才好玩，我们也在优化和增加大家联机的体验!\n连线游戏大厅出现了很多魅魔，希望新来的勇者不要轻易进入，不然会被吸干宝贵的货币!\n如果你也想参与进来，请看上一篇推文的内容，还有简介的qq，第一个加不上了就加备用的喵～ https://t.co/t7oZ6DyHiu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "你也觉得你面前的这只魔女可爱过头了吧？\n对的!她和别人不一样!\n邂逅方式→2829556413←↓\n242184780\n超涩气小号@oricz233\n星辰魔女镜璃\n@jingli1840489\n桃心魔女奈奈\n@blakexiaonai\n 黑白魔女花卷\n@miaomiaomyoez2\n好老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 65,
+                "username": "oricz233"
+              },
+              {
+                "end": 96,
+                "start": 82,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 117,
+                "start": 104,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 141,
+                "start": 126,
+                "username": "miaomiaomyoez2"
+              },
+              {
+                "end": 160,
+                "start": 145,
+                "username": "chessy80978858"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "超可爱超绿茶超撩人的精灵魔女-奏奏💚",
+        "pinned_tweet_id": "2013314916120416537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064079945459171328/WbF0iOyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8983,
+          "following_count": 386,
+          "like_count": 656,
+          "listed_count": 36,
+          "media_count": 832,
+          "tweet_count": 2232
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

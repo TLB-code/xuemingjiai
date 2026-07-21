@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1933244347941871928",
+    "created_at": "2025-06-12T19:25:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-12T20:25:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933244347941871928"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1682001685215055873",
+          "start": 3,
+          "username": "QingMian0819"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933244347941871928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933093887872307293",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @QingMian0819: 吸走了某个傻逼的支付宝账户\n\n接下来是为他准备的贞操锁+负债挑战\n初始锁期30天 负债0\n关注+24h负债+80 （现1854）\n转发+18h 负债+40\n评论+12h 负债+20\n点赞+6h 负债+10\n6月14日晚上12点截止\n欢迎大家踊…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1933244347941871928].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1933244347941871928",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1933244347941871928"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1933093883195580416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtO6pRFaYAADQLE.jpg",
+        "width": 388
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1933093883610877952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtO6pSobUAAbvrM.jpg",
+        "width": 886
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1933093884969783296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtO6pXsakAAZQAo.jpg",
+        "width": 1388
+      },
+      {
+        "height": 1446,
+        "media_key": "3_1933093883468189696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtO6pSGaEAA78Ln.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933093883195580416",
+            "3_1933093883610877952",
+            "3_1933093884969783296",
+            "3_1933093883468189696"
+          ]
+        },
+        "author_id": "1682001685215055873",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1933093887872307293",
+        "created_at": "2025-06-12T09:27:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T10:27:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933093887872307293"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hcm9mDBvFt",
+              "end": 191,
+              "expanded_url": "https://x.com/QingMian0819/status/1933093887872307293/photo/1",
+              "media_key": "3_1933093883195580416",
+              "start": 168,
+              "url": "https://t.co/hcm9mDBvFt"
+            },
+            {
+              "display_url": "pic.x.com/hcm9mDBvFt",
+              "end": 191,
+              "expanded_url": "https://x.com/QingMian0819/status/1933093887872307293/photo/1",
+              "media_key": "3_1933093883610877952",
+              "start": 168,
+              "url": "https://t.co/hcm9mDBvFt"
+            },
+            {
+              "display_url": "pic.x.com/hcm9mDBvFt",
+              "end": 191,
+              "expanded_url": "https://x.com/QingMian0819/status/1933093887872307293/photo/1",
+              "media_key": "3_1933093884969783296",
+              "start": 168,
+              "url": "https://t.co/hcm9mDBvFt"
+            },
+            {
+              "display_url": "pic.x.com/hcm9mDBvFt",
+              "end": 191,
+              "expanded_url": "https://x.com/QingMian0819/status/1933093887872307293/photo/1",
+              "media_key": "3_1933093883468189696",
+              "start": 168,
+              "url": "https://t.co/hcm9mDBvFt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933093887872307293",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1967,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "吸走了某个傻逼的支付宝账户\n\n接下来是为他准备的贞操锁+负债挑战\n初始锁期30天 负债0\n关注+24h负债+80 （现1854）\n转发+18h 负债+40\n评论+12h 负债+20\n点赞+6h 负债+10\n6月14日晚上12点截止\n欢迎大家踊跃参加，帮助眠眠让这个傻逼背上一辈子的债务和再也摘不下来的贞操锁，不要对这个傻逼手下留情哦♡ https://t.co/hcm9mDBvFt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n你也会因为窥视我的美貌而心甘情愿沦为钱包被我使用的对吗？\n钱包报名入口：3971546171\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 67,
+                "username": "oricz233"
+              },
+              {
+                "end": 96,
+                "start": 87,
+                "username": "moelipoi"
+              },
+              {
+                "end": 114,
+                "start": 103,
+                "username": "cutelingli"
+              },
+              {
+                "end": 136,
+                "start": 121,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 148,
+                "start": 141,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍驯化公用钱包👛中",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931064828044713984/9qwnduVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7189,
+          "following_count": 303,
+          "like_count": 357,
+          "listed_count": 33,
+          "media_count": 679,
+          "tweet_count": 2035
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-20T12:17:19.000Z",
+        "description": "这里是清眠 新人恶役findom 只是在盯紧钱包想要把您榨干的纯真恶女 门牌号：3815883063 原号@Mian_SexLove 原号主@wan_kylea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 53,
+                "username": "Mian_SexLove"
+              },
+              {
+                "end": 80,
+                "start": 70,
+                "username": "wan_kylea"
+              }
+            ]
+          }
+        },
+        "id": "1682001685215055873",
+        "location": "你的梦里♡",
+        "name": "清眠sama",
+        "pinned_tweet_id": "1932278140896006269",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932278091138940928/zN_Z_FlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1867,
+          "following_count": 100,
+          "like_count": 235,
+          "listed_count": 5,
+          "media_count": 131,
+          "tweet_count": 484
+        },
+        "username": "QingMian0819",
+        "verified": false
+      }
+    ]
+  }
+}

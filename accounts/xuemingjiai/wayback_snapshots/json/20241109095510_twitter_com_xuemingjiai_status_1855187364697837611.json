@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1855187364697837611",
+    "created_at": "2024-11-09T09:55:10.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-09T10:55:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1855187364697837611"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1699354971697991680",
+          "start": 3,
+          "username": "loveforallLoli"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1855187364697837611",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "1855145435305750914",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @loveforallLoli: 踩脚白丝和手手并拢♡嫩白葱指与圆润的珍珠玉趾张合~勾引着肉棒插入♡\n“计时开始~1…2~”\n龟头只是刚刚没入，灵巧的手指就抓着肉棒挤压在中心♡一边是软嫩厚实的足心，一边是灵巧滑腻的指尖~只是稍稍挤压就让早泄肉棒缴械投降，白浊牛奶沾连脚心手…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1855187364697837611].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1855187364697837611",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1855187364697837611"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1855145432415944704"
+          ]
+        },
+        "author_id": "1699354971697991680",
+        "conversation_id": "1855145435305750914",
+        "created_at": "2024-11-09T07:08:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-09T08:08:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1855145435305750914"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/m66mYrb7VB",
+              "end": 170,
+              "expanded_url": "https://x.com/loveforallLoli/status/1855145435305750914/photo/1",
+              "media_key": "3_1855145432415944704",
+              "start": 147,
+              "url": "https://t.co/m66mYrb7VB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855145435305750914",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 638,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "踩脚白丝和手手并拢♡嫩白葱指与圆润的珍珠玉趾张合~勾引着肉棒插入♡\n“计时开始~1…2~”\n龟头只是刚刚没入，灵巧的手指就抓着肉棒挤压在中心♡一边是软嫩厚实的足心，一边是灵巧滑腻的指尖~只是稍稍挤压就让早泄肉棒缴械投降，白浊牛奶沾连脚心手心\n“3…噗~真不知道是小狗太废物还是主人太厉害呢♡” https://t.co/m66mYrb7VB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "超绝可爱💖\n她就是出道即巅峰的可爱纯真小天使新人偶像魔女小姐💖\n对这样的魔女小姐不能心怀任何涩涩的念想哦，不然就会变得非常糟糕...踏入无法挣脱的陷阱和牢笼里呢💘\n魔女小姐无论说什么做什么都是正确的哦，身为她的粉丝，只需要无条件用各种方式支持她就好了～\nqq2829556413，碎碎念小号@oricz233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 154,
+                "start": 145,
+                "username": "oricz233"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "name": "电波系新人偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854618482215911424/R3TTJuCj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5846,
+          "following_count": 224,
+          "like_count": 185,
+          "listed_count": 24,
+          "tweet_count": 1316
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-06T09:33:05.000Z",
+        "description": "门牌号：QQ：3325582407 纸飞机：\nhttps://t.co/ECeDcQcZJg 30元/30分，下午至晚上2点营业\n呀吼~杂鱼们，这里是伊诺，触手萝莉♡基本文爱都接，擅长足♡口♡触手♡雌堕♡犬调教等等~♡跪在地上舔着伊诺大人的脚献上你们的金币还有精液叭♡ 目前只当S，性奴：乖璃，阿雪，支持双人单捏~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/loveforallLoli",
+                "end": 46,
+                "expanded_url": "http://t.me/loveforallLoli",
+                "start": 23,
+                "url": "https://t.co/ECeDcQcZJg"
+              }
+            ]
+          }
+        },
+        "id": "1699354971697991680",
+        "location": "都看伊诺大人主页了，还不快上门臣服♡",
+        "name": "伊诺sama~♡（互推）",
+        "pinned_tweet_id": "1853692506686534137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803075243990568961/5ZHt7yVj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2893,
+          "following_count": 126,
+          "like_count": 2050,
+          "listed_count": 13,
+          "tweet_count": 2273
+        },
+        "username": "loveforallLoli",
+        "verified": false
+      }
+    ]
+  }
+}

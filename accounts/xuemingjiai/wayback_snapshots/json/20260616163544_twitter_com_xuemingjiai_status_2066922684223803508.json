@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "2066922684223803508",
+    "created_at": "2026-06-16T16:35:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T17:35:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066922684223803508"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1739976691970412544",
+          "start": 3,
+          "username": "SakiHana_effigy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066922684223803508",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066488958562037900",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SakiHana_effigy: 最近不是赌球旺季嘛~\n咲花在和圈外朋友讨论的时候，\n发现大家谈论抵制赌博，戒赌时都很严肃呢~\n可是，\n在听闻我说，\n还有一群人在戒“贡”后，\n朋友们都惊讶到忍不住笑了出来。\n没错哦，\n吸你血，要你命的性癖在大家眼里看起来就是这么好笑💚…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_2066488811425787904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK2koBFacAAAQkq.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "2066922684223803508",
+        "created_at": "2026-06-16T16:35:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T17:35:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066922684223803508"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1739976691970412544",
+              "start": 3,
+              "username": "SakiHana_effigy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066922684223803508",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066488958562037900",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SakiHana_effigy: 最近不是赌球旺季嘛~\n咲花在和圈外朋友讨论的时候，\n发现大家谈论抵制赌博，戒赌时都很严肃呢~\n可是，\n在听闻我说，\n还有一群人在戒“贡”后，\n朋友们都惊讶到忍不住笑了出来。\n没错哦，\n吸你血，要你命的性癖在大家眼里看起来就是这么好笑💚…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066488811425787904"
+          ]
+        },
+        "author_id": "1739976691970412544",
+        "conversation_id": "2066488958562037900",
+        "created_at": "2026-06-15T11:52:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T12:52:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066488958562037900"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/19SOxa093v",
+              "end": 169,
+              "expanded_url": "https://x.com/SakiHana_effigy/status/2066488958562037900/photo/1",
+              "media_key": "3_2066488811425787904",
+              "start": 146,
+              "url": "https://t.co/19SOxa093v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066488958562037900",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 151,
+                "start": 146,
+                "tag": "atm奴"
+              },
+              {
+                "end": 155,
+                "start": 152,
+                "tag": "文援"
+              },
+              {
+                "end": 159,
+                "start": 156,
+                "tag": "压榨"
+              },
+              {
+                "end": 163,
+                "start": 160,
+                "tag": "上贡"
+              }
+            ]
+          },
+          "text": "最近不是赌球旺季嘛~\n咲花在和圈外朋友讨论的时候，\n发现大家谈论抵制赌博，戒赌时都很严肃呢~\n可是，\n在听闻我说，\n还有一群人在戒“贡”后，\n朋友们都惊讶到忍不住笑了出来。\n没错哦，\n吸你血，要你命的性癖在大家眼里看起来就是这么好笑💚\n你就尽管咬紧嘴唇，继续拼死抵抗吧，我们会尽情嘲笑你的🖤\n#atm奴 #文援 #压榨 #上贡"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 2787,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "最近不是赌球旺季嘛~\n咲花在和圈外朋友讨论的时候，\n发现大家谈论抵制赌博，戒赌时都很严肃呢~\n可是，\n在听闻我说，\n还有一群人在戒“贡”后，\n朋友们都惊讶到忍不住笑了出来。\n没错哦，\n吸你血，要你命的性癖在大家眼里看起来就是这么好笑💚\n你就尽管咬紧嘴唇，继续拼死抵抗吧，我们会尽情嘲笑你的🖤 https://t.co/19SOxa093v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "你也觉得你面前的这只魔女可爱过头了吧？\n对的!她和别人不一样!\n邂逅方式→2829556413←↓\n242184780\n超涩气小号@oricz233\n星辰魔女镜璃\n@jingli1840489\n桃心魔女奈奈\n@blakexiaonai\n 黑白魔女花卷\n@miaomiaomyoez2\n好老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 65,
+                "username": "oricz233"
+              },
+              {
+                "end": 96,
+                "start": 82,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 117,
+                "start": 104,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 141,
+                "start": 126,
+                "username": "miaomiaomyoez2"
+              },
+              {
+                "end": 160,
+                "start": 145,
+                "username": "chessy80978858"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "超可爱超绿茶超撩人的精灵魔女-奏奏💚",
+        "pinned_tweet_id": "2013314916120416537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064079945459171328/WbF0iOyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8974,
+          "following_count": 381,
+          "like_count": 655,
+          "listed_count": 36,
+          "media_count": 832,
+          "tweet_count": 2229
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-27T11:49:17.000Z",
+        "description": "诞生于纯粹恶意的人偶，各位称呼我为咲花即可。擅长运用各类毒素侵蚀意志薄弱的人类大哥哥大姐姐们🖤 \n门牌1377762595，🚪20，同行可免，私信看到感兴趣的会回复，锁奴/贡奴招收中～\n最好的姐姐大人:@qingning131\n第二好的姐姐:@GaoGaoLove_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 101,
+                "username": "qingning131"
+              },
+              {
+                "end": 133,
+                "start": 121,
+                "username": "GaoGaoLove_"
+              }
+            ]
+          }
+        },
+        "id": "1739976691970412544",
+        "name": "咲花✨",
+        "pinned_tweet_id": "2046235460335444305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045219683532763136/muJtJPoK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 483,
+          "following_count": 35,
+          "like_count": 138,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 70
+        },
+        "username": "SakiHana_effigy",
+        "verified": true
+      }
+    ]
+  }
+}

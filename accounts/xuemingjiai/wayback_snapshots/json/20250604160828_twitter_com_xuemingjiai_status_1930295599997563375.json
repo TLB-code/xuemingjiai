@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1930295599997563375",
+    "created_at": "2025-06-04T16:08:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-04T17:08:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930295599997563375"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1485155475498831874",
+          "start": 3,
+          "username": "MeQingYun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930295599997563375",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 95
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929059388930838605",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MeQingYun: 看着挚爱小女友流萤被无套中出后的淫荡模样忍不住滑精了是吗~开拓者💚勃起只有3㎝的短小肉虫~💚刚插进来10秒钟就早泄的废物东西~💚自己女友的性欲竟然还需要别人帮你满足~💚你真是废得一塌糊涂啊开拓者~💚不过呢~💚你还算有点福气💚她都已经都被调教成这样了…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1930295599997563375].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1930295599997563375",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1930295599997563375"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 4093,
+        "media_key": "3_1929058934066917376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsVk4UPaMAAAmBH.jpg",
+        "width": 2894
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1929058934066917376"
+          ]
+        },
+        "author_id": "1485155475498831874",
+        "conversation_id": "1929059388930838605",
+        "created_at": "2025-06-01T06:16:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T07:16:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929059388930838605"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hOCWfUwuvJ",
+              "end": 169,
+              "expanded_url": "https://x.com/MeQingYun/status/1929059388930838605/photo/1",
+              "media_key": "3_1929058934066917376",
+              "start": 146,
+              "url": "https://t.co/hOCWfUwuvJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929059388930838605",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 304,
+                "start": 301,
+                "tag": "文媛"
+              },
+              {
+                "end": 308,
+                "start": 305,
+                "tag": "媚黑"
+              },
+              {
+                "end": 313,
+                "start": 309,
+                "tag": "反差婊"
+              },
+              {
+                "end": 317,
+                "start": 314,
+                "tag": "绿帽"
+              },
+              {
+                "end": 322,
+                "start": 318,
+                "tag": "QOS"
+              },
+              {
+                "end": 327,
+                "start": 323,
+                "tag": "ntr"
+              }
+            ]
+          },
+          "text": "看着挚爱小女友流萤被无套中出后的淫荡模样忍不住滑精了是吗~开拓者💚勃起只有3㎝的短小肉虫~💚刚插进来10秒钟就早泄的废物东西~💚自己女友的性欲竟然还需要别人帮你满足~💚你真是废得一塌糊涂啊开拓者~💚不过呢~💚你还算有点福气💚她都已经都被调教成这样了，高潮的时候嘴里喊的还是你的名字~💚没提分手也没说什么要抛弃你~💚啧啧啧~真是令人感动的情意呢~💚废物阳痿早泄绿王八开拓者~💚希望你们以后能继续像这样“幸福”下去呢~💚有这么一位如此“爱”你的女友~💚不知道是“福”还是“祸”呢~💚但至少可以肯定的是~💚以后你头上的绿帽子还会越来越多~💚这也是没办法的事~💚谁让你这阳痿早泄的废物~满足不了自己的女人呢~💚#文媛 #媚黑 #反差婊 #绿帽 #QOS #ntr"
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 130,
+          "impression_count": 19895,
+          "like_count": 509,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 95
+        },
+        "reply_settings": "everyone",
+        "text": "看着挚爱小女友流萤被无套中出后的淫荡模样忍不住滑精了是吗~开拓者💚勃起只有3㎝的短小肉虫~💚刚插进来10秒钟就早泄的废物东西~💚自己女友的性欲竟然还需要别人帮你满足~💚你真是废得一塌糊涂啊开拓者~💚不过呢~💚你还算有点福气💚她都已经都被调教成这样了，高潮的时候嘴里喊的还是你的名字~💚没提分 https://t.co/hOCWfUwuvJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "集美貌，智慧，强大于一身的魔女族公主现身人世～区区人类，跪下向我表示臣服吧💜\n被我支配 控制 吸脑 成为奴仆💜\n挑战qq242184780，里世界小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858\n女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "oricz233"
+              },
+              {
+                "end": 104,
+                "start": 95,
+                "username": "moelipoi"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "cutelingli"
+              },
+              {
+                "end": 144,
+                "start": 129,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 155,
+                "start": 148,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏💜散播同化病毒中～",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926028406774247424/hWplRg7q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7102,
+          "following_count": 296,
+          "like_count": 335,
+          "listed_count": 33,
+          "media_count": 640,
+          "tweet_count": 1904
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-23T07:40:46.000Z",
+        "description": "门牌号2790468154❤️入圈已有四年，较擅长的是榨精❤️调情寸止❤️NTR类剧情❤️媚黑只是XP，勿要入脑❤️擅长长文对戏以及各种脑洞大开的玩法，有想玩的剧情都可以来戳，价格是70/小时～40/0.5小时\n小号：@YunQing0915\n来不及回复可以去这里https://t.co/WNHwBf0PHX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 109,
+                "username": "YunQing0915"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/yueqingyun",
+                "end": 155,
+                "expanded_url": "https://t.me/yueqingyun",
+                "start": 132,
+                "url": "https://t.co/WNHwBf0PHX"
+              }
+            ]
+          }
+        },
+        "id": "1485155475498831874",
+        "location": "你心里",
+        "name": "清云🖤",
+        "pinned_tweet_id": "1804376109817172192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779128146186379264/LFfTwJkS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14606,
+          "following_count": 122,
+          "like_count": 2469,
+          "listed_count": 79,
+          "media_count": 208,
+          "tweet_count": 2960
+        },
+        "username": "MeQingYun",
+        "verified": true
+      }
+    ]
+  }
+}

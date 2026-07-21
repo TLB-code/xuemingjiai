@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1884244053027606557",
+    "created_at": "2025-01-28T14:16:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-28T15:16:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884244053027606557"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1830576349469409281",
+          "start": 3,
+          "username": "Uuu1032292"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884244053027606557",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883121513785888816",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Uuu1032292: “用手指捏着自己的抖M乳头玩弄，把自己那抖M小丁丁弄得硬邦邦的母狗男孩子💕你看，那抖M小丁丁上流出来的忍耐汁滴滴答答的💕要不要自己舔舔看，尝一尝味道呢？💕怎么样，好吃吗？💕下贱的抖M💕乖乖地打手冲，然后好好尝一尝吧💕” https://t.co/…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1884244053027606557].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1884244053027606557",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1884244053027606557"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1883121511323820033"
+          ]
+        },
+        "author_id": "1830576349469409281",
+        "conversation_id": "1883121513785888816",
+        "created_at": "2025-01-25T11:55:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T12:55:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883121513785888816"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xh3Hs5VE4b",
+              "end": 133,
+              "expanded_url": "https://x.com/Uuu1032292/status/1883121513785888816/photo/1",
+              "media_key": "3_1883121511323820033",
+              "start": 110,
+              "url": "https://t.co/Xh3Hs5VE4b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883121513785888816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 327,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "“用手指捏着自己的抖M乳头玩弄，把自己那抖M小丁丁弄得硬邦邦的母狗男孩子💕你看，那抖M小丁丁上流出来的忍耐汁滴滴答答的💕要不要自己舔舔看，尝一尝味道呢？💕怎么样，好吃吗？💕下贱的抖M💕乖乖地打手冲，然后好好尝一尝吧💕” https://t.co/Xh3Hs5VE4b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "您好～这里是出道以来一直致力于为小雏男哥哥们提供“舒适”“安全”“极致快感”的纯真妹系小天使魔女妹妹💚\n想了解我请翻看我的推文～\nqq2829556413，碎碎念小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 83,
+                "username": "oricz233"
+              },
+              {
+                "end": 112,
+                "start": 103,
+                "username": "moelipoi"
+              },
+              {
+                "end": 130,
+                "start": 119,
+                "username": "cutelingli"
+              },
+              {
+                "end": 152,
+                "start": 137,
+                "username": "chessy80978858"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系天使偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878142670054604800/aZFysFDs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6353,
+          "following_count": 253,
+          "like_count": 289,
+          "listed_count": 29,
+          "media_count": 538,
+          "tweet_count": 1499
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-02T11:59:53.000Z",
+        "description": "可爱的男孩子，想要白给的私信口令红包，或者自己来要账单。",
+        "id": "1830576349469409281",
+        "location": "日本 （是男生）",
+        "name": "千雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875116629794975744/Jl20cdFa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 32,
+          "like_count": 92,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 52
+        },
+        "username": "Uuu1032292",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1822349735359127856",
+    "created_at": "2024-08-10T19:10:09.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-10T20:10:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1822349735359127856"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1323624872979783682",
+          "start": 3,
+          "username": "coco51167078"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1822349735359127856",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1822192626126196893",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @coco51167078: 已经七夕了呢~作为奖励就让你这个傻逼贱狗闻一闻人家穿了一个月的棉袜吧~♥脚底已经全是黏糊糊冒着热气的昏黄脚垢，直接踩到你这个傻逼的脸上来回摩擦~把脚垢蹭进你的鼻孔后涂抹均匀，是对于你这个恋脚脑残最好的七夕礼物了吧？就这样被人家双脚捂住鼻子，直…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1822349735359127856].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1822349735359127856",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1822349735359127856"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1822192191021670400"
+          ]
+        },
+        "author_id": "1323624872979783682",
+        "conversation_id": "1822192626126196893",
+        "created_at": "2024-08-10T08:45:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-10T09:45:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1822192626126196893"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 140,
+              "start": 137,
+              "tag": "文媛"
+            },
+            {
+              "end": 144,
+              "start": 141,
+              "tag": "文爱"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6azpzlcvsr",
+              "end": 168,
+              "expanded_url": "https://twitter.com/coco51167078/status/1822192626126196893/photo/1",
+              "media_key": "3_1822192191021670400",
+              "start": 145,
+              "url": "https://t.co/6AZPZlCvsr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822192626126196893",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 981,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "已经七夕了呢~作为奖励就让你这个傻逼贱狗闻一闻人家穿了一个月的棉袜吧~♥脚底已经全是黏糊糊冒着热气的昏黄脚垢，直接踩到你这个傻逼的脸上来回摩擦~把脚垢蹭进你的鼻孔后涂抹均匀，是对于你这个恋脚脑残最好的七夕礼物了吧？就这样被人家双脚捂住鼻子，直接翻白眼尿裤裆吧~♥垃~圾~♥\n#文媛 #文爱 https://t.co/6AZPZlCvsr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "超绝可爱💖\n她就是出道即巅峰的可爱纯真小天使新人偶像魔女小姐💖\n任何人都会被她散发出的魅力所捕获，对这样的魔女小姐不能心怀任何涩涩的念想哦，不然就会变得非常糟糕...踏入无法挣脱的陷阱和牢笼里呢💘\n魔女小姐无论说什么做什么都是正确的哦，身为她的粉丝，只需要无条件用各种方式支持她就好了～\nqq2829556413",
+        "id": "1374389254726455305",
+        "name": "电波系新人偶像💖魔女小姐参上（复活版）",
+        "pinned_tweet_id": "1804570562511126828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821974060601110528/2uCKanZH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5122,
+          "following_count": 175,
+          "like_count": 146,
+          "listed_count": 22,
+          "tweet_count": 1016
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-03T13:55:44.000Z",
+        "description": "文援嘟酱❤抖s学姐/雌小鬼妹妹/腹黑扶她/什么人设可以哦~擅长足交口交玩弄洗脑抖m贱狗~来到人家这里什么都不用思考，人家会把你玩弄到晕乎乎的~❤️什么都没法思考脑子里只剩下嘟酱呢~❤️不涉三，文半小时40一小时70文笔有保障哦~\n门牌号:3369894465\n接定制文~千字40~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dududujiang",
+                "end": 23,
+                "expanded_url": "https://t.me/dududujiang",
+                "start": 0,
+                "url": "https://t.co/j2rtpf6zES"
+              }
+            ]
+          }
+        },
+        "id": "1323624872979783682",
+        "name": "嘟嘟嘟酱❤️(互推)",
+        "pinned_tweet_id": "1822197715285033114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1569863846889926657/y5z5qmQN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2317,
+          "following_count": 100,
+          "like_count": 51,
+          "listed_count": 18,
+          "tweet_count": 1233
+        },
+        "url": "https://t.co/j2rtpf6zES",
+        "username": "coco51167078",
+        "verified": false
+      }
+    ]
+  }
+}

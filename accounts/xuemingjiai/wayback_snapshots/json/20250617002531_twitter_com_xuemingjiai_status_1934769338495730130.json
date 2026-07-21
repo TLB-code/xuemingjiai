@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1934769338495730130",
+    "created_at": "2025-06-17T00:25:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-17T01:25:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934769338495730130"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1537049790009188353",
+          "start": 3,
+          "username": "afuluodite122"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934769338495730130",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934571893685989451",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @afuluodite122: 软屌废物们就算什么都不做，也会犯罪🖤罪名为——伪装人类罪💜身为最喜欢臭脚臭臀的脑瘫牲畜，竟然敢伪装成人类无知无觉的生活，这种事情是不可能被原谅💚应当执行——酸骚淫臭肥臀碾🧠吸肛处刑💔你的🧠所有权将会被夺走🤎自己只能拥有使用权💙每次用脑必须上…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1934769338495730130].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1934769338495730130",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1934769338495730130"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1934571886077411328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gtj64W4aAAAGdQF.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1934571886387818496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gtj64YCacAAbMee.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934571886077411328",
+            "3_1934571886387818496"
+          ]
+        },
+        "author_id": "1537049790009188353",
+        "conversation_id": "1934571893685989451",
+        "created_at": "2025-06-16T11:20:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T12:20:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934571893685989451"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ItV4duStr5",
+              "end": 166,
+              "expanded_url": "https://x.com/afuluodite122/status/1934571893685989451/photo/1",
+              "media_key": "3_1934571886077411328",
+              "start": 143,
+              "url": "https://t.co/ItV4duStr5"
+            },
+            {
+              "display_url": "pic.x.com/ItV4duStr5",
+              "end": 166,
+              "expanded_url": "https://x.com/afuluodite122/status/1934571893685989451/photo/1",
+              "media_key": "3_1934571886387818496",
+              "start": 143,
+              "url": "https://t.co/ItV4duStr5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934571893685989451",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 148,
+                "start": 145,
+                "tag": "文援"
+              },
+              {
+                "end": 152,
+                "start": 149,
+                "tag": "文爱"
+              },
+              {
+                "end": 156,
+                "start": 153,
+                "tag": "肥臀"
+              },
+              {
+                "end": 160,
+                "start": 157,
+                "tag": "调教"
+              },
+              {
+                "end": 164,
+                "start": 161,
+                "tag": "抖s"
+              },
+              {
+                "end": 168,
+                "start": 165,
+                "tag": "榨金"
+              }
+            ]
+          },
+          "text": "软屌废物们就算什么都不做，也会犯罪🖤罪名为——伪装人类罪💜身为最喜欢臭脚臭臀的脑瘫牲畜，竟然敢伪装成人类无知无觉的生活，这种事情是不可能被原谅💚应当执行——酸骚淫臭肥臀碾🧠吸肛处刑💔你的🧠所有权将会被夺走🤎自己只能拥有使用权💙每次用脑必须上缴用脑犯贱费💗至于你的脑子，则会永远在肥臀底下🖤\n#文援 #文爱 #肥臀 #调教 #抖s #榨金"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 2852,
+          "like_count": 66,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "软屌废物们就算什么都不做，也会犯罪🖤罪名为——伪装人类罪💜身为最喜欢臭脚臭臀的脑瘫牲畜，竟然敢伪装成人类无知无觉的生活，这种事情是不可能被原谅💚应当执行——酸骚淫臭肥臀碾🧠吸肛处刑💔你的🧠所有权将会被夺走🤎自己只能拥有使用权💙每次用脑必须上缴用脑犯贱费💗至于你的脑子，则会永远在肥臀底 https://t.co/ItV4duStr5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n你也会因为窥视我的美貌而心甘情愿沦为钱包被我使用的对吗？\n钱包报名入口：3971546171\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 67,
+                "username": "oricz233"
+              },
+              {
+                "end": 96,
+                "start": 87,
+                "username": "moelipoi"
+              },
+              {
+                "end": 114,
+                "start": 103,
+                "username": "cutelingli"
+              },
+              {
+                "end": 136,
+                "start": 121,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 148,
+                "start": 141,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍驯化公用钱包👛中",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931064828044713984/9qwnduVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7216,
+          "following_count": 309,
+          "like_count": 364,
+          "listed_count": 33,
+          "media_count": 682,
+          "tweet_count": 2059
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-15T12:30:09.000Z",
+        "description": "ちょうきょう剧情向文援🖤是温柔的人哦……温柔的碾死你❤️超超超擅长剧情向服务～会用不同的方式进行处刑💚但只要是你喜欢的，那就都可以～✨所以，请让我好好的满足一下你吧💜/🚪10不抵/私信掉落门槛💘/全性癖精通w文爱剧情、语c点菜～点子很多❤️可以带着想法来帮你制作针对你的服务❤️",
+        "id": "1537049790009188353",
+        "location": "锦帐春宵恋不休💞",
+        "name": "💜玲琳💀",
+        "pinned_tweet_id": "1930571666935234745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931735628565377024/HQBAqJgf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1727,
+          "following_count": 98,
+          "like_count": 61,
+          "listed_count": 10,
+          "media_count": 70,
+          "tweet_count": 204
+        },
+        "username": "afuluodite122",
+        "verified": false
+      }
+    ]
+  }
+}

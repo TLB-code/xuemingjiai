@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "2063577204878090442",
+    "created_at": "2026-06-07T11:01:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T12:01:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063577204878090442"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1739976691970412544",
+          "start": 3,
+          "username": "SakiHana_effigy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063577204878090442",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063238137447653395",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SakiHana_effigy: 明天就是高考咯！\n在这里要告诫一下大家~\n考试的时候可千万不要因为前桌女生穿的过于性感♡\n就擅自在考场内发情，勃起\n无法自慰，只能夹腿任由脑子慢慢融化掉~\n把辛苦学了十几年的知识化成水从鸡鸡里流出来哦🖤\n你这条贱命还要考上好大学，更好地…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1044,
+        "media_key": "3_2063237881997778944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKIX7BObYAAWFET.jpg",
+        "width": 744
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "2063577204878090442",
+        "created_at": "2026-06-07T11:01:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T12:01:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063577204878090442"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1739976691970412544",
+              "start": 3,
+              "username": "SakiHana_effigy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063577204878090442",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063238137447653395",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SakiHana_effigy: 明天就是高考咯！\n在这里要告诫一下大家~\n考试的时候可千万不要因为前桌女生穿的过于性感♡\n就擅自在考场内发情，勃起\n无法自慰，只能夹腿任由脑子慢慢融化掉~\n把辛苦学了十几年的知识化成水从鸡鸡里流出来哦🖤\n你这条贱命还要考上好大学，更好地…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063237881997778944"
+          ]
+        },
+        "author_id": "1739976691970412544",
+        "conversation_id": "2063238137447653395",
+        "created_at": "2026-06-06T12:34:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T13:34:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063238137447653395"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 146,
+              "start": 141,
+              "tag": "atm奴"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7qBhXFPWti",
+              "end": 170,
+              "expanded_url": "https://x.com/SakiHana_effigy/status/2063238137447653395/photo/1",
+              "media_key": "3_2063237881997778944",
+              "start": 147,
+              "url": "https://t.co/7qBhXFPWti"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063238137447653395",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 146,
+                "start": 141,
+                "tag": "atm奴"
+              },
+              {
+                "end": 150,
+                "start": 147,
+                "tag": "洗脑"
+              },
+              {
+                "end": 154,
+                "start": 151,
+                "tag": "压榨"
+              },
+              {
+                "end": 158,
+                "start": 155,
+                "tag": "文援"
+              },
+              {
+                "end": 162,
+                "start": 159,
+                "tag": "上贡"
+              }
+            ]
+          },
+          "text": "明天就是高考咯！\n在这里要告诫一下大家~\n考试的时候可千万不要因为前桌女生穿的过于性感♡\n就擅自在考场内发情，勃起\n无法自慰，只能夹腿任由脑子慢慢融化掉~\n把辛苦学了十几年的知识化成水从鸡鸡里流出来哦🖤\n你这条贱命还要考上好大学，更好地为我奉献呢，所以，还请千万要忍住哦。\n爱你♡\n#atm奴 #洗脑 #压榨 #文援 #上贡"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 805,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "明天就是高考咯！\n在这里要告诫一下大家~\n考试的时候可千万不要因为前桌女生穿的过于性感♡\n就擅自在考场内发情，勃起\n无法自慰，只能夹腿任由脑子慢慢融化掉~\n把辛苦学了十几年的知识化成水从鸡鸡里流出来哦🖤\n你这条贱命还要考上好大学，更好地为我奉献呢，所以，还请千万要忍住哦。\n爱你♡\n#atm奴 https://t.co/7qBhXFPWti"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会魅惑并享用钱包的公主殿下🤍\n精通各种处刑钱包的方法🖤\n联系方式→2829556413←\n病毒小号@oricz233\n现任魔女学园院长\n星辰魔女镜璃\n@jingli1840489\n桃心魔女奈奈\n@blakexiaonai\n 黑白魔女花卷\n@miaomiaomi17630\n好老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "oricz233"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 114,
+                "start": 101,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 139,
+                "start": 123,
+                "username": "miaomiaomi17630"
+              },
+              {
+                "end": 158,
+                "start": 143,
+                "username": "chessy80978858"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "全能魅惑系魔女族公主-奏💜魔女学园院长版～",
+        "pinned_tweet_id": "2013314916120416537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055327575581556736/-ZRgWKku_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8860,
+          "following_count": 366,
+          "like_count": 636,
+          "listed_count": 36,
+          "media_count": 827,
+          "tweet_count": 2201
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-27T11:49:17.000Z",
+        "description": "诞生于纯粹恶意的人偶，各位称呼我为咲花即可。擅长运用各类毒素侵蚀意志薄弱的人类大哥哥大姐姐们🖤 \n门牌1377762595，🚪20，同行可免，私信看到感兴趣的会回复，锁奴/贡奴招收中～\n最好的姐姐大人:@qingning131\n第二好的姐姐:@GaoGaoLove_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 101,
+                "username": "qingning131"
+              },
+              {
+                "end": 133,
+                "start": 121,
+                "username": "GaoGaoLove_"
+              }
+            ]
+          }
+        },
+        "id": "1739976691970412544",
+        "name": "咲花✨",
+        "pinned_tweet_id": "2046235460335444305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045219683532763136/muJtJPoK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 402,
+          "following_count": 31,
+          "like_count": 119,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 53
+        },
+        "username": "SakiHana_effigy",
+        "verified": true
+      }
+    ]
+  }
+}

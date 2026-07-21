@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1947058800843743236"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "1947058805306753121",
+    "created_at": "2025-07-20T22:19:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-20T23:19:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1947058805306753121"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nlrVuERofO",
+          "end": 169,
+          "expanded_url": "https://x.com/xuemingjiai/status/1947058805306753121/photo/1",
+          "media_key": "3_1947058800843743236",
+          "start": 146,
+          "url": "https://t.co/nlrVuERofO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947058805306753121",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 2,
+      "impression_count": 2493,
+      "like_count": 59,
+      "quote_count": 0,
+      "reply_count": 3,
+      "retweet_count": 15
+    },
+    "reply_settings": "everyone",
+    "text": "其实\n剥夺账号最色的是一个个活生生的人被同化成一个没有思想的玩具钱包\n彻底失去人权，失去思考能力，不管从前作为人拥有过多少荣誉感情，都随着成为“物品”烟消云散..\n这意味着，你将成为本公主的财产之一，并且是可以随意被替代使用的“消耗品”\n真的很过分，但是本公主知道，光是想想，你就要高潮了🤍 https://t.co/nlrVuERofO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1604,
+        "media_key": "3_1947058800843743236",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwVXqdUW4AQNAI5.jpg",
+        "width": 1036
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947058800843743236"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "1947058805306753121",
+        "created_at": "2025-07-20T22:19:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T23:19:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947058805306753121"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nlrVuERofO",
+              "end": 169,
+              "expanded_url": "https://x.com/xuemingjiai/status/1947058805306753121/photo/1",
+              "media_key": "3_1947058800843743236",
+              "start": 146,
+              "url": "https://t.co/nlrVuERofO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947058805306753121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2493,
+          "like_count": 59,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "其实\n剥夺账号最色的是一个个活生生的人被同化成一个没有思想的玩具钱包\n彻底失去人权，失去思考能力，不管从前作为人拥有过多少荣誉感情，都随着成为“物品”烟消云散..\n这意味着，你将成为本公主的财产之一，并且是可以随意被替代使用的“消耗品”\n真的很过分，但是本公主知道，光是想想，你就要高潮了🤍 https://t.co/nlrVuERofO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n你也会因为窥视我的美貌而心甘情愿沦为钱包被我使用的对吗？\n钱包报名入口：3971546171\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 67,
+                "username": "oricz233"
+              },
+              {
+                "end": 96,
+                "start": 87,
+                "username": "moelipoi"
+              },
+              {
+                "end": 114,
+                "start": 103,
+                "username": "cutelingli"
+              },
+              {
+                "end": 136,
+                "start": 121,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 148,
+                "start": 141,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍大规模同化魔法展开中",
+        "pinned_tweet_id": "1945511067926536238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945176725190488064/8VBohPRs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7634,
+          "following_count": 327,
+          "like_count": 491,
+          "listed_count": 33,
+          "media_count": 710,
+          "tweet_count": 2182
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

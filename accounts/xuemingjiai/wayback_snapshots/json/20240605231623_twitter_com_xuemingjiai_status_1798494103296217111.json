@@ -1,0 +1,134 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1798490016685195398",
+    "created_at": "2024-06-05T23:16:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-06T00:16:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1798494103296217111"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1798494103296217111",
+    "in_reply_to_user_id": "1374389254726455305",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1798491485010358738",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "每个人都是值得被温柔相待的！\n我相信在这个污浊的世界上拥有善念的人还是占大多数，开开心心～幸福的生活着～好好的珍惜来之不易的人生。\n放平心态，停下步伐，整理好情绪，静下心来去发现生活的快乐，而不是止步于欲望的泥潭不能自拔！\n魔女小姐的初衷：让世界上所有人都能获得幸福❤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "1798490016685195398",
+        "created_at": "2024-06-05T23:16:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-06T00:16:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1798494103296217111"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1798494103296217111",
+        "in_reply_to_user_id": "1374389254726455305",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1798491485010358738",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "每个人都是值得被温柔相待的！\n我相信在这个污浊的世界上拥有善念的人还是占大多数，开开心心～幸福的生活着～好好的珍惜来之不易的人生。\n放平心态，停下步伐，整理好情绪，静下心来去发现生活的快乐，而不是止步于欲望的泥潭不能自拔！\n魔女小姐的初衷：让世界上所有人都能获得幸福❤"
+      },
+      {
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "1798490016685195398",
+        "created_at": "2024-06-05T23:05:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-06T00:05:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1798491485010358738"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1798491485010358738",
+        "in_reply_to_user_id": "1374389254726455305",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1798490674037399937",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "魔女小姐的作品都是完全免费的～\n之后也会继续写出能够让你们舒舒服服发泄欲望的作品，会越来越用心越来越认真去创作～\n而你们需要做的就是跟随我，陪伴我，支持我就足够啦～\n在发情的时候被最喜欢的偶像提走一些打工的报酬也无所厚非吧？\n因为对着偶像发情所以用各种形式支持她也是理所当然的吧💜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "可爱程度百分之百💖\n她就是出道即巅峰的可爱纯真小天使新人偶像魔女小姐💖\n任何人都会被她散发出的魅力所捕获，对这样的魔女小姐不能心怀任何涩涩的念想哦，不然就会变得非常糟糕...踏入无法挣脱的陷阱和牢笼里呢💘\n魔女小姐无论说什么做什么都是正确的哦，身为她的粉丝，只需要无条件用各种方式支持她就好了💘\n私联禁止🚫",
+        "id": "1374389254726455305",
+        "name": "电波系新人偶像💖魔女小姐参上（正能量爆表～）",
+        "pinned_tweet_id": "1798490016685195398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795799880021295104/Tsd4XdC9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4822,
+          "following_count": 168,
+          "like_count": 147,
+          "listed_count": 22,
+          "tweet_count": 982
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

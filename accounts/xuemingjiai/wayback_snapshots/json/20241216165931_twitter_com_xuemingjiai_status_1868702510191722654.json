@@ -1,0 +1,349 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1868566126608969729",
+        "3_1868566127242330112",
+        "3_1868566127368171520",
+        "3_1868566127619764224"
+      ],
+      "media_source_tweet_id": [
+        "1868566135001767966",
+        "1868566135001767966",
+        "1868566135001767966",
+        "1868566135001767966"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "1868702510191722654",
+    "created_at": "2024-12-16T16:59:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-16T17:59:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1868702510191722654"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 87,
+          "start": 84,
+          "tag": "洗脑"
+        },
+        {
+          "end": 91,
+          "start": 88,
+          "tag": "压榨"
+        },
+        {
+          "end": 95,
+          "start": 92,
+          "tag": "贡奴"
+        },
+        {
+          "end": 101,
+          "start": 96,
+          "tag": "ATM奴"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1696056509023625217",
+          "start": 3,
+          "username": "CuteLingli"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fRYRLVxydx",
+          "end": 125,
+          "expanded_url": "https://x.com/CuteLingli/status/1868566135001767966/photo/1",
+          "media_key": "3_1868566126608969729",
+          "start": 102,
+          "url": "https://t.co/fRYRLVxydx"
+        },
+        {
+          "display_url": "pic.x.com/fRYRLVxydx",
+          "end": 125,
+          "expanded_url": "https://x.com/CuteLingli/status/1868566135001767966/photo/1",
+          "media_key": "3_1868566127242330112",
+          "start": 102,
+          "url": "https://t.co/fRYRLVxydx"
+        },
+        {
+          "display_url": "pic.x.com/fRYRLVxydx",
+          "end": 125,
+          "expanded_url": "https://x.com/CuteLingli/status/1868566135001767966/photo/1",
+          "media_key": "3_1868566127368171520",
+          "start": 102,
+          "url": "https://t.co/fRYRLVxydx"
+        },
+        {
+          "display_url": "pic.x.com/fRYRLVxydx",
+          "end": 125,
+          "expanded_url": "https://x.com/CuteLingli/status/1868566135001767966/photo/1",
+          "media_key": "3_1868566127619764224",
+          "start": 102,
+          "url": "https://t.co/fRYRLVxydx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868702510191722654",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1868566135001767966",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CuteLingli: 是被控制了吗？是被洗脑了吗？什么时候开始的？为什么会变成这样？\n其实你从一开始就有答案吧？\n再多坏掉一点，毁掉自己一点，也没关系哦🖤\n\n#洗脑 #压榨 #贡奴 #ATM奴 https://t.co/fRYRLVxydx"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1868702510191722654].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1868702510191722654",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1868702510191722654"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1798,
+        "media_key": "3_1868566126608969729",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ge56_ffa8AEyChI.jpg",
+        "width": 463
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1868566127242330112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ge56_h2bQAAMm8x.jpg",
+        "width": 363
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1868566127368171520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ge56_iUbcAAVFGr.jpg",
+        "width": 333
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1868566127619764224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ge56_jQacAAfEDN.jpg",
+        "width": 905
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1868566126608969729",
+            "3_1868566127242330112",
+            "3_1868566127368171520",
+            "3_1868566127619764224"
+          ]
+        },
+        "author_id": "1696056509023625217",
+        "conversation_id": "1868566135001767966",
+        "created_at": "2024-12-16T07:57:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-16T08:57:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1868566135001767966"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 71,
+              "start": 68,
+              "tag": "洗脑"
+            },
+            {
+              "end": 75,
+              "start": 72,
+              "tag": "压榨"
+            },
+            {
+              "end": 79,
+              "start": 76,
+              "tag": "贡奴"
+            },
+            {
+              "end": 85,
+              "start": 80,
+              "tag": "ATM奴"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fRYRLVxydx",
+              "end": 109,
+              "expanded_url": "https://x.com/CuteLingli/status/1868566135001767966/photo/1",
+              "media_key": "3_1868566126608969729",
+              "start": 86,
+              "url": "https://t.co/fRYRLVxydx"
+            },
+            {
+              "display_url": "pic.x.com/fRYRLVxydx",
+              "end": 109,
+              "expanded_url": "https://x.com/CuteLingli/status/1868566135001767966/photo/1",
+              "media_key": "3_1868566127242330112",
+              "start": 86,
+              "url": "https://t.co/fRYRLVxydx"
+            },
+            {
+              "display_url": "pic.x.com/fRYRLVxydx",
+              "end": 109,
+              "expanded_url": "https://x.com/CuteLingli/status/1868566135001767966/photo/1",
+              "media_key": "3_1868566127368171520",
+              "start": 86,
+              "url": "https://t.co/fRYRLVxydx"
+            },
+            {
+              "display_url": "pic.x.com/fRYRLVxydx",
+              "end": 109,
+              "expanded_url": "https://x.com/CuteLingli/status/1868566135001767966/photo/1",
+              "media_key": "3_1868566127619764224",
+              "start": 86,
+              "url": "https://t.co/fRYRLVxydx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868566135001767966",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 580,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "是被控制了吗？是被洗脑了吗？什么时候开始的？为什么会变成这样？\n其实你从一开始就有答案吧？\n再多坏掉一点，毁掉自己一点，也没关系哦🖤\n\n#洗脑 #压榨 #贡奴 #ATM奴 https://t.co/fRYRLVxydx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "您好～这里是出道以来一直致力于为小雏男哥哥们提供“舒适”“安全”“极致快感”的纯真妹系小天使魔女妹妹💚\n想了解我请翻看我的推文～\nqq2829556413，碎碎念小号@oricz233\n共同出道的偶像老婆：@moeliQWQ\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 83,
+                "username": "oricz233"
+              },
+              {
+                "end": 112,
+                "start": 103,
+                "username": "moeliQWQ"
+              },
+              {
+                "end": 130,
+                "start": 119,
+                "username": "cutelingli"
+              },
+              {
+                "end": 152,
+                "start": 137,
+                "username": "chessy80978858"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系天使偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868371538053091328/WDeV3GGD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6206,
+          "following_count": 241,
+          "like_count": 247,
+          "listed_count": 26,
+          "media_count": 516,
+          "tweet_count": 1409
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-28T07:06:06.000Z",
+        "description": "温柔向压榨系，请ATM君直接给我钱~\n请看清楚哦，这是陷阱~❤️否则脑子和钱包都会的变得一塌糊涂🖤我很懒，所以没有照片，没有语音，没有视频，不想送死别来加我~ 门牌🚪3875489005 门槛自己看着给，不给也可以，越多越白痴🖤 老婆：@xuemingjiai 笨蛋：@liulidreamm",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 118,
+                "username": "xuemingjiai"
+              },
+              {
+                "end": 146,
+                "start": 134,
+                "username": "liulidreamm"
+              }
+            ]
+          }
+        },
+        "id": "1696056509023625217",
+        "location": "你的心里❤️",
+        "name": "玲璃",
+        "pinned_tweet_id": "1861338484633739286",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1857458414097674240/lFZYliyL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1025,
+          "following_count": 62,
+          "like_count": 100,
+          "listed_count": 3,
+          "media_count": 66,
+          "tweet_count": 197
+        },
+        "username": "CuteLingli",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1935303731157024831",
+    "created_at": "2025-06-18T11:49:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-18T12:49:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935303731157024831"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1837733655617097728",
+          "start": 3,
+          "username": "RdReddust"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935303731157024831",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935011923927388598",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RdReddust: 你刚刚盯着我的鞋底看了吧🖤视线恶心死了啊贱猪～这傻逼发情的脸拍下来发给你全家好了🖤废物鸡巴都硬了吧，贱货🖤\n哈？随便踩两下就在裤裆射了吗？这种早泄阴茎是怎么做爱的啊🖤切 真小🖤\n真白痴🖤 看着表情不会又意淫那种画面了吧又流水了哦🖤不会有人盯着中指丧…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1935303731157024831].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1935303731157024831",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1935303731157024831"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16020,
+        "height": 1280,
+        "media_key": "13_1935011872073207816",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1935011872073207816/img/4nUFB0TlcCC7RAI_.jpg",
+        "public_metrics": {
+          "view_count": 1271
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1935011872073207816/vid/avc1/320x568/oVPtUGkZK2Rj_cSo.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1935011872073207816/vid/avc1/480x852/CX-dVDyR57YKsS2G.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1935011872073207816/vid/avc1/720x1280/YmarkSqDfCzhWE_V.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1935011872073207816/pl/Lx6JzryJ62eC99a1.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1935011872073207816"
+          ]
+        },
+        "author_id": "1837733655617097728",
+        "conversation_id": "1935011923927388598",
+        "created_at": "2025-06-17T16:29:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T17:29:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935011923927388598"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BuCnBi8eSC",
+              "end": 167,
+              "expanded_url": "https://x.com/RdReddust/status/1935011923927388598/video/1",
+              "media_key": "13_1935011872073207816",
+              "start": 144,
+              "url": "https://t.co/BuCnBi8eSC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935011923927388598",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 147,
+                "start": 144,
+                "tag": "母猪"
+              },
+              {
+                "end": 151,
+                "start": 148,
+                "tag": "傻逼"
+              },
+              {
+                "end": 155,
+                "start": 152,
+                "tag": "抖M"
+              },
+              {
+                "end": 159,
+                "start": 156,
+                "tag": "母畜"
+              },
+              {
+                "end": 165,
+                "start": 160,
+                "tag": "丧志贡奴"
+              }
+            ]
+          },
+          "text": "你刚刚盯着我的鞋底看了吧🖤视线恶心死了啊贱猪～这傻逼发情的脸拍下来发给你全家好了🖤废物鸡巴都硬了吧，贱货🖤\n哈？随便踩两下就在裤裆射了吗？这种早泄阴茎是怎么做爱的啊🖤切 真小🖤\n真白痴🖤 看着表情不会又意淫那种画面了吧又流水了哦🖤不会有人盯着中指丧志了吧🖤\n 贱畜骚屄也湿透了吧🖤傻逼🖤\n#母猪 #傻逼 #抖M #母畜 #丧志贡奴"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 3642,
+          "like_count": 77,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "你刚刚盯着我的鞋底看了吧🖤视线恶心死了啊贱猪～这傻逼发情的脸拍下来发给你全家好了🖤废物鸡巴都硬了吧，贱货🖤\n哈？随便踩两下就在裤裆射了吗？这种早泄阴茎是怎么做爱的啊🖤切 真小🖤\n真白痴🖤 看着表情不会又意淫那种画面了吧又流水了哦🖤不会有人盯着中指丧志了吧🖤\n 贱畜骚屄也湿透了吧🖤傻逼🖤 https://t.co/BuCnBi8eSC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n你也会因为窥视我的美貌而心甘情愿沦为钱包被我使用的对吗？\n钱包报名入口：3971546171\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 67,
+                "username": "oricz233"
+              },
+              {
+                "end": 96,
+                "start": 87,
+                "username": "moelipoi"
+              },
+              {
+                "end": 114,
+                "start": 103,
+                "username": "cutelingli"
+              },
+              {
+                "end": 136,
+                "start": 121,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 148,
+                "start": 141,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍驯化公用钱包👛中",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931064828044713984/9qwnduVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7237,
+          "following_count": 308,
+          "like_count": 369,
+          "listed_count": 33,
+          "media_count": 689,
+          "tweet_count": 2089
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-22T06:00:29.000Z",
+        "description": "这里是专收看着羞辱文就硬得发抖的ATM奴、贡奴和傻狗的男娘红酱～。因为过于了解那些看一张色图和配文就忍不住意淫的杂鱼🖤所以就出道钓鱼来了🖤傻逼atm奴/臭脚控/贱狗大胆私信哦🖤，吐出你的红包和脑子🖤 只要发情就不准跑了哦～🩷🩷🩷",
+        "id": "1837733655617097728",
+        "name": "Misstress 红",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934093624628707328/uMcETvIR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 204,
+          "like_count": 89,
+          "listed_count": 3,
+          "media_count": 5,
+          "tweet_count": 22
+        },
+        "username": "RdReddust",
+        "verified": true
+      }
+    ]
+  }
+}

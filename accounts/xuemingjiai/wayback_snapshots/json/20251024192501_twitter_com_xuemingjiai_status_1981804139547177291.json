@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1981737599447228416",
+        "3_1981737599472390144",
+        "3_1981737599476645888",
+        "3_1981737599447248896"
+      ],
+      "media_source_tweet_id": [
+        "1981738006265401644",
+        "1981738006265401644",
+        "1981738006265401644",
+        "1981738006265401644"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1981804139547177291",
+    "created_at": "2025-10-24T19:25:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T20:25:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981804139547177291"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1585357847004516353",
+          "start": 3,
+          "username": "qinqinjingli00"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/I19Wk5NCJV",
+          "end": 111,
+          "expanded_url": "https://x.com/qinqinjingli00/status/1981738006265401644/photo/1",
+          "media_key": "3_1981737599447228416",
+          "start": 88,
+          "url": "https://t.co/I19Wk5NCJV"
+        },
+        {
+          "display_url": "pic.x.com/I19Wk5NCJV",
+          "end": 111,
+          "expanded_url": "https://x.com/qinqinjingli00/status/1981738006265401644/photo/1",
+          "media_key": "3_1981737599472390144",
+          "start": 88,
+          "url": "https://t.co/I19Wk5NCJV"
+        },
+        {
+          "display_url": "pic.x.com/I19Wk5NCJV",
+          "end": 111,
+          "expanded_url": "https://x.com/qinqinjingli00/status/1981738006265401644/photo/1",
+          "media_key": "3_1981737599476645888",
+          "start": 88,
+          "url": "https://t.co/I19Wk5NCJV"
+        },
+        {
+          "display_url": "pic.x.com/I19Wk5NCJV",
+          "end": 111,
+          "expanded_url": "https://x.com/qinqinjingli00/status/1981738006265401644/photo/1",
+          "media_key": "3_1981737599447248896",
+          "start": 88,
+          "url": "https://t.co/I19Wk5NCJV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981804139547177291",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981738006265401644",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qinqinjingli00: 深夜客人前来找虐，被镜璃羞辱洗脑丧志，磕头败北自愿曝光ww\n想要试试多了解下镜璃的朋友们也欢迎拜访哦❤️❤️\n（此安塞尔非彼安塞尔哦） https://t.co/I19Wk5NCJV"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1981804139547177291].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1981804139547177291",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1981804139547177291"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 3267,
+        "media_key": "3_1981737599447228416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4CL2NUWYAAfJYy.jpg",
+        "width": 948
+      },
+      {
+        "height": 3219,
+        "media_key": "3_1981737599472390144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4CL2NaWUAA8b8g.jpg",
+        "width": 948
+      },
+      {
+        "height": 3258,
+        "media_key": "3_1981737599476645888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4CL2NbXQAAoGky.jpg",
+        "width": 948
+      },
+      {
+        "height": 2496,
+        "media_key": "3_1981737599447248896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4CL2NUWsAA76Cm.jpg",
+        "width": 1262
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981737599447228416",
+            "3_1981737599472390144",
+            "3_1981737599476645888",
+            "3_1981737599447248896"
+          ]
+        },
+        "author_id": "1585357847004516353",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1981738006265401644",
+        "created_at": "2025-10-24T15:02:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T16:02:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981738006265401644"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I19Wk5NCJV",
+              "end": 91,
+              "expanded_url": "https://x.com/qinqinjingli00/status/1981738006265401644/photo/1",
+              "media_key": "3_1981737599447228416",
+              "start": 68,
+              "url": "https://t.co/I19Wk5NCJV"
+            },
+            {
+              "display_url": "pic.x.com/I19Wk5NCJV",
+              "end": 91,
+              "expanded_url": "https://x.com/qinqinjingli00/status/1981738006265401644/photo/1",
+              "media_key": "3_1981737599472390144",
+              "start": 68,
+              "url": "https://t.co/I19Wk5NCJV"
+            },
+            {
+              "display_url": "pic.x.com/I19Wk5NCJV",
+              "end": 91,
+              "expanded_url": "https://x.com/qinqinjingli00/status/1981738006265401644/photo/1",
+              "media_key": "3_1981737599476645888",
+              "start": 68,
+              "url": "https://t.co/I19Wk5NCJV"
+            },
+            {
+              "display_url": "pic.x.com/I19Wk5NCJV",
+              "end": 91,
+              "expanded_url": "https://x.com/qinqinjingli00/status/1981738006265401644/photo/1",
+              "media_key": "3_1981737599447248896",
+              "start": 68,
+              "url": "https://t.co/I19Wk5NCJV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981738006265401644",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 209,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "深夜客人前来找虐，被镜璃羞辱洗脑丧志，磕头败北自愿曝光ww\n想要试试多了解下镜璃的朋友们也欢迎拜访哦❤️❤️\n（此安塞尔非彼安塞尔哦） https://t.co/I19Wk5NCJV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n最最最最喜欢钱包们啦!\n天天挨骂真的不会腻嘛～\n擅长用爱意和温柔的语气俘虏钱包～\n联系方式→3971546171←\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 78,
+                "username": "oricz233"
+              },
+              {
+                "end": 107,
+                "start": 98,
+                "username": "moelipoi"
+              },
+              {
+                "end": 125,
+                "start": 114,
+                "username": "cutelingli"
+              },
+              {
+                "end": 147,
+                "start": 132,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 159,
+                "start": 152,
+                "username": "1xian1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARosxSy"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍对钱包们最温柔最有好感版",
+        "pinned_tweet_id": "1976743806063063398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969152325731168256/ozl0k8K4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7884,
+          "following_count": 331,
+          "like_count": 645,
+          "listed_count": 35,
+          "media_count": 746,
+          "tweet_count": 2273
+        },
+        "url": "https://t.co/le8ARosxSy",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-26T19:50:09.000Z",
+        "description": "客人们好~这里是新人文媛镜璃，既可以是温柔妈咪~可以是可爱姐姐/妹妹~当然……也可以当可怕残忍的压榨主使用钱包哦🖤（不涉三哦）目前主要玩法有：剧情文爱/黑心/绿茶/榨金/洗脑/寸止（拓展中），门牌🚪q3775591357，致力于让大家都开开心心舒舒服服的喔❤️欢迎前来光顾~最可爱的奏奏：@xuemingjiai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "xuemingjiai"
+              }
+            ]
+          }
+        },
+        "id": "1585357847004516353",
+        "location": "镜璃的柔软小床~深夜也欢迎打扰哦~",
+        "name": "镜璃哟~",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974138400816181251/PLvmSBPB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 519,
+          "like_count": 350,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 11
+        },
+        "username": "qinqinjingli00",
+        "verified": false
+      }
+    ]
+  }
+}

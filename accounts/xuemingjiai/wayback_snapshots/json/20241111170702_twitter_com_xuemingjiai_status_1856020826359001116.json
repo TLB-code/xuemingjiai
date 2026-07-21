@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1856020823729156097"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "1851563784554627239",
+    "created_at": "2024-11-11T17:07:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-11T18:07:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1856020826359001116"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/iD4gz4v2f3",
+          "end": 102,
+          "expanded_url": "https://x.com/xuemingjiai/status/1856020826359001116/photo/1",
+          "media_key": "3_1856020823729156097",
+          "start": 79,
+          "url": "https://t.co/iD4gz4v2f3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1856020826359001116",
+    "in_reply_to_user_id": "1374389254726455305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1856020537295978920",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "白..白给!\n绝对不会再白给了!!!\n怎么跑得那么快..我还没时间拿起武器呢...算了，好好整理下装备然后出发吧，在魔物塔里面进行探索..\n嗯？这是...？ https://t.co/iD4gz4v2f3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_1856020823729156097",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GcHpGwYasAEXfxe.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1856020823729156097"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "1851563784554627239",
+        "created_at": "2024-11-11T17:07:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-11T18:07:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1856020826359001116"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iD4gz4v2f3",
+              "end": 102,
+              "expanded_url": "https://x.com/xuemingjiai/status/1856020826359001116/photo/1",
+              "media_key": "3_1856020823729156097",
+              "start": 79,
+              "url": "https://t.co/iD4gz4v2f3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856020826359001116",
+        "in_reply_to_user_id": "1374389254726455305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1856020537295978920",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "白..白给!\n绝对不会再白给了!!!\n怎么跑得那么快..我还没时间拿起武器呢...算了，好好整理下装备然后出发吧，在魔物塔里面进行探索..\n嗯？这是...？ https://t.co/iD4gz4v2f3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1856020534259261440"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "1851563784554627239",
+        "created_at": "2024-11-11T17:05:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-11T18:05:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1856020537295978920"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qZ3ybAPsy9",
+              "end": 83,
+              "expanded_url": "https://x.com/xuemingjiai/status/1856020537295978920/photo/1",
+              "media_key": "3_1856020534259261440",
+              "start": 60,
+              "url": "https://t.co/qZ3ybAPsy9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856020537295978920",
+        "in_reply_to_user_id": "1374389254726455305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1856020074328621359",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "果然!莉莉娅姐姐的魔力好厉害！\n真的击退了这只魅魔，她到底是什么人啊？\n不管那么多了，重要的是赶紧击败这只魅魔!别跑! https://t.co/qZ3ybAPsy9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "超绝可爱💖\n她就是出道即巅峰的可爱纯真小天使新人偶像魔女小姐💖\n对这样的魔女小姐不能心怀任何涩涩的念想哦，不然就会变得非常糟糕...踏入无法挣脱的陷阱和牢笼里呢💘\n魔女小姐无论说什么做什么都是正确的哦，身为她的粉丝，只需要无条件用各种方式支持她就好了～\nqq2829556413，碎碎念小号@oricz233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 154,
+                "start": 145,
+                "username": "oricz233"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "name": "电波系新人偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854618482215911424/R3TTJuCj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5861,
+          "following_count": 226,
+          "like_count": 185,
+          "listed_count": 24,
+          "tweet_count": 1326
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

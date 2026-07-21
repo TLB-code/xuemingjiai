@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1932215448374051248",
+    "created_at": "2025-06-09T23:17:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-10T00:17:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932215448374051248"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1830576349469409281",
+          "start": 3,
+          "username": "Uuu1032292"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932215448374051248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932055858797740425",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Uuu1032292: 如果你如果点赞并转发此贴，那就说明你已经默认接受了一项规则：从这一刻起，我可以随时命令你不需要经过你的同意，也不必顾及你那廉价的自尊和毫无意义的底线。只要我在你的主页上看到你转载了这条内容，你就已经自动签署了奴役协议，彻底放弃了作为一个“人”应有…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1216,
+        "media_key": "3_1932055855983378432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtAKkIYaQAA0Sv8.jpg",
+        "width": 832
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "1932215448374051248",
+        "created_at": "2025-06-09T23:17:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T00:17:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932215448374051248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1830576349469409281",
+              "start": 3,
+              "username": "Uuu1032292"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932215448374051248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932055858797740425",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Uuu1032292: 如果你如果点赞并转发此贴，那就说明你已经默认接受了一项规则：从这一刻起，我可以随时命令你不需要经过你的同意，也不必顾及你那廉价的自尊和毫无意义的底线。只要我在你的主页上看到你转载了这条内容，你就已经自动签署了奴役协议，彻底放弃了作为一个“人”应有…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932055855983378432"
+          ]
+        },
+        "author_id": "1830576349469409281",
+        "conversation_id": "1932055858797740425",
+        "created_at": "2025-06-09T12:43:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T13:43:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932055858797740425"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TWFNbqIPG8",
+              "end": 165,
+              "expanded_url": "https://x.com/Uuu1032292/status/1932055858797740425/photo/1",
+              "media_key": "3_1932055855983378432",
+              "start": 142,
+              "url": "https://t.co/TWFNbqIPG8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932055858797740425",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "如果你如果点赞并转发此贴，那就说明你已经默认接受了一项规则：从这一刻起，我可以随时命令你不需要经过你的同意，也不必顾及你那廉价的自尊和毫无意义的底线。只要我在你的主页上看到你转载了这条内容，你就已经自动签署了奴役协议，彻底放弃了作为一个“人”应有的尊严。你不再是独立的个体，而是我随意拿捏的玩物，是供人取乐的可悲道具。你甘愿献上自己那点可怜的价值，换取一丝虚假的参与感。\n你不过是个无脑的提款机，一个没有骨气的行尸走肉，是彻底丧失意志的牲畜。你选择放弃思考，选择放弃反抗，选择跪着活着，那我就把你当牲畜对待：你是谁不重要，你想什么不重要，你愿不愿意也不重要。从此以后，我可以羞辱你，使用你，而你没有任何资格说“不”。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2421,
+          "like_count": 37,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "如果你如果点赞并转发此贴，那就说明你已经默认接受了一项规则：从这一刻起，我可以随时命令你不需要经过你的同意，也不必顾及你那廉价的自尊和毫无意义的底线。只要我在你的主页上看到你转载了这条内容，你就已经自动签署了奴役协议，彻底放弃了作为一个“人”应有的尊严。你不再是独立的个体，而是我随 https://t.co/TWFNbqIPG8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n你也会因为窥视我的美貌而心甘情愿沦为钱包被我使用的对吗？\n钱包报名入口：242184780\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 66,
+                "username": "oricz233"
+              },
+              {
+                "end": 95,
+                "start": 86,
+                "username": "moelipoi"
+              },
+              {
+                "end": 113,
+                "start": 102,
+                "username": "cutelingli"
+              },
+              {
+                "end": 135,
+                "start": 120,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 147,
+                "start": 140,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍驯化公用钱包👛中",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931064828044713984/9qwnduVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7172,
+          "following_count": 304,
+          "like_count": 353,
+          "listed_count": 33,
+          "media_count": 674,
+          "tweet_count": 2013
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-02T11:59:53.000Z",
+        "description": "可爱的男孩子，想要白给的私信口令红包，或者自己来要账单。主人@XiaoLinYIA",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 30,
+                "username": "XiaoLinYIA"
+              }
+            ]
+          }
+        },
+        "id": "1830576349469409281",
+        "location": "日本 （是男生）",
+        "name": "千雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875116629794975744/Jl20cdFa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 69,
+          "like_count": 183,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 120
+        },
+        "username": "Uuu1032292",
+        "verified": false
+      }
+    ]
+  }
+}

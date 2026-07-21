@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1937147785947869455",
+    "created_at": "2025-06-23T13:56:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-23T14:56:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937147785947869455"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1735851723044839424",
+          "start": 3,
+          "username": "KendallRat17471"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937147785947869455",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 30
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937051323675127817",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KendallRat17471: 对傻逼绿奴公狗最好的奖赏..当然是跪在边上攥紧早泄狗鞭💚看着自己高贵的亲妈祖宗侍奉男爹臭屌咯💚～怎么盯着祖宗淫穴露出一副蠢样啊脑残绿毛龟💚还不赶紧滚过来把祖宗穴里的狗精舔干净💚看祖宗被操的同时～被祖宗用臭脚操烂你的骚臭嘴穴哦～烂货绿奴公…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1937147785947869455].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1937147785947869455",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1937147785947869455"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1937051319191076864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuHJ6XAWAAAt_yj.jpg",
+        "width": 1402
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1937051319648321536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuHJ6YtXAAAy_bL.jpg",
+        "width": 1402
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937051319191076864",
+            "3_1937051319648321536"
+          ]
+        },
+        "author_id": "1735851723044839424",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1937051323675127817",
+        "created_at": "2025-06-23T07:33:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T08:33:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937051323675127817"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 124,
+              "start": 121,
+              "tag": "文援"
+            },
+            {
+              "end": 129,
+              "start": 125,
+              "tag": "ntr"
+            },
+            {
+              "end": 133,
+              "start": 130,
+              "tag": "绿帽"
+            },
+            {
+              "end": 137,
+              "start": 134,
+              "tag": "锁奴"
+            },
+            {
+              "end": 141,
+              "start": 138,
+              "tag": "上贡"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mXhk7dtanq",
+              "end": 165,
+              "expanded_url": "https://x.com/KendallRat17471/status/1937051323675127817/photo/1",
+              "media_key": "3_1937051319191076864",
+              "start": 142,
+              "url": "https://t.co/mXhk7dtanq"
+            },
+            {
+              "display_url": "pic.x.com/mXhk7dtanq",
+              "end": 165,
+              "expanded_url": "https://x.com/KendallRat17471/status/1937051323675127817/photo/1",
+              "media_key": "3_1937051319648321536",
+              "start": 142,
+              "url": "https://t.co/mXhk7dtanq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937051323675127817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 2245,
+          "like_count": 53,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "对傻逼绿奴公狗最好的奖赏..当然是跪在边上攥紧早泄狗鞭💚看着自己高贵的亲妈祖宗侍奉男爹臭屌咯💚～怎么盯着祖宗淫穴露出一副蠢样啊脑残绿毛龟💚还不赶紧滚过来把祖宗穴里的狗精舔干净💚看祖宗被操的同时～被祖宗用臭脚操烂你的骚臭嘴穴哦～烂货绿奴公狗💚 #文援 #ntr #绿帽 #锁奴 #上贡 https://t.co/mXhk7dtanq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n你也会因为窥视我的美貌而心甘情愿沦为钱包被我使用的对吗？\n钱包报名入口：2829556413和3971546171\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 78,
+                "username": "oricz233"
+              },
+              {
+                "end": 107,
+                "start": 98,
+                "username": "moelipoi"
+              },
+              {
+                "end": 125,
+                "start": 114,
+                "username": "cutelingli"
+              },
+              {
+                "end": 147,
+                "start": 132,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 159,
+                "start": 152,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍驯化公用钱包👛中",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931064828044713984/9qwnduVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7275,
+          "following_count": 311,
+          "like_count": 376,
+          "listed_count": 32,
+          "media_count": 700,
+          "tweet_count": 2144
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-16T02:37:58.000Z",
+        "description": "这里是北北🖤～擅长调教羞辱/胁迫压榨/绿帽锁奴/角色扮演/语音连麦🖤～可s可m🖤详细见置顶菜单哦🖤其他服务加q详谈🖤门牌q3384273525～备用q3827887572（加不上请加备用q）💚营业时间10点到凌晨2点~宝宝:@X1ranS",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 112,
+                "username": "X1ranS"
+              }
+            ]
+          }
+        },
+        "id": "1735851723044839424",
+        "location": "全天接单中～接受无理由白给♡",
+        "name": "北北🖤（可互推）",
+        "pinned_tweet_id": "1929587569425309864",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876307151322480640/8zky_u5E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4508,
+          "following_count": 2096,
+          "like_count": 18,
+          "listed_count": 13,
+          "media_count": 74,
+          "tweet_count": 2177
+        },
+        "username": "KendallRat17471",
+        "verified": false
+      }
+    ]
+  }
+}

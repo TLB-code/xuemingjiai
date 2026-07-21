@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1851157642091352277",
+    "created_at": "2024-10-29T10:08:15.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-29T11:08:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1851204390851658236"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1777598492124532736",
+          "start": 0,
+          "username": "Qilicc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1851204390851658236",
+    "in_reply_to_user_id": "1777598492124532736",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1851157642091352277",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Qilicc 妈妈来啦～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "1851157642091352277",
+        "created_at": "2024-10-29T10:08:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-29T11:08:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1851204390851658236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1777598492124532736",
+              "start": 0,
+              "username": "Qilicc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1851204390851658236",
+        "in_reply_to_user_id": "1777598492124532736",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1851157642091352277",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qilicc 妈妈来啦～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1851157638392004611",
+            "3_1851157638731726848",
+            "3_1851157639314751489"
+          ]
+        },
+        "author_id": "1777598492124532736",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1851157642091352277",
+        "created_at": "2024-10-29T07:02:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-29T08:02:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1851157642091352277"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "Encore"
+            },
+            {
+              "end": 11,
+              "start": 8,
+              "tag": "安可"
+            },
+            {
+              "end": 15,
+              "start": 12,
+              "tag": "鳴潮"
+            },
+            {
+              "end": 19,
+              "start": 16,
+              "tag": "鸣潮"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FYe14WBs2A",
+              "end": 59,
+              "expanded_url": "https://x.com/Qilicc/status/1851157642091352277/photo/1",
+              "media_key": "3_1851157638392004611",
+              "start": 36,
+              "url": "https://t.co/FYe14WBs2A"
+            },
+            {
+              "display_url": "pic.x.com/FYe14WBs2A",
+              "end": 59,
+              "expanded_url": "https://x.com/Qilicc/status/1851157642091352277/photo/1",
+              "media_key": "3_1851157638731726848",
+              "start": 36,
+              "url": "https://t.co/FYe14WBs2A"
+            },
+            {
+              "display_url": "pic.x.com/FYe14WBs2A",
+              "end": 59,
+              "expanded_url": "https://x.com/Qilicc/status/1851157642091352277/photo/1",
+              "media_key": "3_1851157639314751489",
+              "start": 36,
+              "url": "https://t.co/FYe14WBs2A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1851157642091352277",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 300,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#Encore #安可 #鳴潮 #鸣潮\n心血来潮给大家分享一下我的故事 https://t.co/FYe14WBs2A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "超绝可爱💖\n她就是出道即巅峰的可爱纯真小天使新人偶像魔女小姐💖\n对这样的魔女小姐不能心怀任何涩涩的念想哦，不然就会变得非常糟糕...踏入无法挣脱的陷阱和牢笼里呢💘\n魔女小姐无论说什么做什么都是正确的哦，身为她的粉丝，只需要无条件用各种方式支持她就好了～\nqq2829556413",
+        "id": "1374389254726455305",
+        "name": "电波系新人偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1839039717712724125",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850198775832408064/VnoVKToR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5687,
+          "following_count": 215,
+          "like_count": 178,
+          "listed_count": 23,
+          "tweet_count": 1216
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-09T07:25:06.000Z",
+        "description": "你好呀~这里是文援姬祈莉~女S一枚♡擅长管控杂鱼雏男小鸡鸡~调教贱狗早泄♡玉足管理雏男寸止和高潮♡\n绿茶💚黑心🖤三年文援~更喜欢接受被压榨喜欢自毁的小狗狗♡接受长期~无门槛，正常单价45/0.5h\n⚠️新门牌:1725218154⚠️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MingyueKana",
+                "end": 23,
+                "expanded_url": "http://t.me/MingyueKana",
+                "start": 0,
+                "url": "https://t.co/bV0y0YdTyL"
+              }
+            ]
+          }
+        },
+        "id": "1777598492124532736",
+        "location": "Tokyo-to, Japan",
+        "name": "祈莉à",
+        "pinned_tweet_id": "1850881152502137211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845652223151542272/awz2qVIt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 960,
+          "following_count": 12,
+          "like_count": 25,
+          "listed_count": 0,
+          "tweet_count": 26
+        },
+        "url": "https://t.co/bV0y0YdTyL",
+        "username": "Qilicc",
+        "verified": false
+      }
+    ]
+  }
+}

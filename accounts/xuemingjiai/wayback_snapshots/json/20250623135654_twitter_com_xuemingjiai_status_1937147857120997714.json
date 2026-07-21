@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1937147857120997714",
+    "created_at": "2025-06-23T13:56:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-23T14:56:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937147857120997714"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1537049790009188353",
+          "start": 3,
+          "username": "afuluodite122"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937147857120997714",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937052292752326974",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @afuluodite122: 亲爱的，我出去旅游这几天拍了不错的vr视频哦🖤要不要试试看呢～……哎～亲爱的你说这是什么？💚当然是咱对黑爹送屄的vr录像啦💜哎呀，我还很担心亲爱的会不会有感觉哦💙没想到小鸡巴这就已经勃起了？勃起了也这么软呀🖤和黑爹的对比简直是垃圾💗可以撸哦…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1937147857120997714].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1937147857120997714",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1937147857120997714"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2147,
+        "media_key": "3_1937052274884263936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuHKx_PWwAARhs7.jpg",
+        "width": 1400
+      },
+      {
+        "height": 2160,
+        "media_key": "3_1937052275156860928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuHKyAQWQAAVibT.jpg",
+        "width": 2151
+      },
+      {
+        "height": 2160,
+        "media_key": "3_1937052276134195200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuHKyD5XMAApLBI.jpg",
+        "width": 2077
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937052274884263936",
+            "3_1937052275156860928",
+            "3_1937052276134195200"
+          ]
+        },
+        "author_id": "1537049790009188353",
+        "conversation_id": "1937052292752326974",
+        "created_at": "2025-06-23T07:37:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T08:37:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937052292752326974"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/obnTimR4b8",
+              "end": 167,
+              "expanded_url": "https://x.com/afuluodite122/status/1937052292752326974/photo/1",
+              "media_key": "3_1937052274884263936",
+              "start": 144,
+              "url": "https://t.co/obnTimR4b8"
+            },
+            {
+              "display_url": "pic.x.com/obnTimR4b8",
+              "end": 167,
+              "expanded_url": "https://x.com/afuluodite122/status/1937052292752326974/photo/1",
+              "media_key": "3_1937052275156860928",
+              "start": 144,
+              "url": "https://t.co/obnTimR4b8"
+            },
+            {
+              "display_url": "pic.x.com/obnTimR4b8",
+              "end": 167,
+              "expanded_url": "https://x.com/afuluodite122/status/1937052292752326974/photo/1",
+              "media_key": "3_1937052276134195200",
+              "start": 144,
+              "url": "https://t.co/obnTimR4b8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937052292752326974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 171,
+                "start": 168,
+                "tag": "文援"
+              },
+              {
+                "end": 175,
+                "start": 172,
+                "tag": "调教"
+              },
+              {
+                "end": 180,
+                "start": 176,
+                "tag": "ntr"
+              },
+              {
+                "end": 184,
+                "start": 181,
+                "tag": "抖m"
+              }
+            ]
+          },
+          "text": "亲爱的，我出去旅游这几天拍了不错的vr视频哦🖤要不要试试看呢～……哎～亲爱的你说这是什么？💚当然是咱对黑爹送屄的vr录像啦💜哎呀，我还很担心亲爱的会不会有感觉哦💙没想到小鸡巴这就已经勃起了？勃起了也这么软呀🖤和黑爹的对比简直是垃圾💗可以撸哦，看着心爱的人被黑爹肏来撸屌🖤毕竟等你摘下vr以后就再也不可能撸的了了💚\n咔哒～❤️「上锁🖤」\n#文援 #调教 #ntr #抖m"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 1114,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "亲爱的，我出去旅游这几天拍了不错的vr视频哦🖤要不要试试看呢～……哎～亲爱的你说这是什么？💚当然是咱对黑爹送屄的vr录像啦💜哎呀，我还很担心亲爱的会不会有感觉哦💙没想到小鸡巴这就已经勃起了？勃起了也这么软呀🖤和黑爹的对比简直是垃圾💗可以撸哦，看着心爱的人被黑爹肏来撸屌🖤毕竟等你摘下vr https://t.co/obnTimR4b8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n你也会因为窥视我的美貌而心甘情愿沦为钱包被我使用的对吗？\n钱包报名入口：2829556413和3971546171\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 78,
+                "username": "oricz233"
+              },
+              {
+                "end": 107,
+                "start": 98,
+                "username": "moelipoi"
+              },
+              {
+                "end": 125,
+                "start": 114,
+                "username": "cutelingli"
+              },
+              {
+                "end": 147,
+                "start": 132,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 159,
+                "start": 152,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍驯化公用钱包👛中",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931064828044713984/9qwnduVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7275,
+          "following_count": 311,
+          "like_count": 376,
+          "listed_count": 32,
+          "media_count": 700,
+          "tweet_count": 2146
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-15T12:30:09.000Z",
+        "description": "ちょうきょう剧情向文援🖤是温柔的人哦……温柔的碾死你❤️超超超擅长剧情向服务～会用不同的方式进行处刑💚但只要是你喜欢的，那就都可以～✨所以，请让我好好的满足一下你吧💜/🚪10-20不抵/3514805479💘/全性癖精通w文爱剧情、语c点菜～点子很多❤️可以带着想法来帮你制作针对你的服务❤️",
+        "id": "1537049790009188353",
+        "location": "锦帐春宵恋不休💞",
+        "name": "💜玲琳💀",
+        "pinned_tweet_id": "1930571666935234745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931735628565377024/HQBAqJgf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2078,
+          "following_count": 108,
+          "like_count": 78,
+          "listed_count": 12,
+          "media_count": 80,
+          "tweet_count": 271
+        },
+        "username": "afuluodite122",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1934769573557096639",
+    "created_at": "2025-06-17T00:26:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-17T01:26:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934769573557096639"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "532280267",
+          "start": 3,
+          "username": "cmweidman"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934769573557096639",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934293978314330130",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cmweidman: 慕名而来的脑瘫贱畜们，在口嗨之前先好好想想怎么能过你祖宗的杀男雌臭淫脚再说吧💜不是所有的贱狗都能荣幸地获得和祖宗对谈的机会的，你们的女爹可不会像你们一样有那么多的时间对着足臭淫靴撸屌发情，多数的死妈傻狗只需要抬抬脚赏张臭脸就足够他们犯贱自毁到死了🖤…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1934769573557096639].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1934769573557096639",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1934769573557096639"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1934293962883469313",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gtf-HGTaEAEZ7BM.jpg",
+        "width": 1055
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934293962883469313"
+          ]
+        },
+        "author_id": "532280267",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1934293978314330130",
+        "created_at": "2025-06-15T16:56:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T17:56:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934293978314330130"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E0YVdSz0oc",
+              "end": 164,
+              "expanded_url": "https://x.com/cmweidman/status/1934293978314330130/photo/1",
+              "media_key": "3_1934293962883469313",
+              "start": 141,
+              "url": "https://t.co/E0YVdSz0oc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934293978314330130",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 357,
+                "start": 354,
+                "tag": "文爱"
+              },
+              {
+                "end": 361,
+                "start": 358,
+                "tag": "上贡"
+              },
+              {
+                "end": 365,
+                "start": 362,
+                "tag": "贡奴"
+              },
+              {
+                "end": 369,
+                "start": 366,
+                "tag": "脚奴"
+              },
+              {
+                "end": 373,
+                "start": 370,
+                "tag": "除臭"
+              },
+              {
+                "end": 377,
+                "start": 374,
+                "tag": "臭脚"
+              },
+              {
+                "end": 381,
+                "start": 378,
+                "tag": "傻逼"
+              },
+              {
+                "end": 385,
+                "start": 382,
+                "tag": "女S"
+              },
+              {
+                "end": 389,
+                "start": 386,
+                "tag": "犯贱"
+              },
+              {
+                "end": 393,
+                "start": 390,
+                "tag": "认主"
+              }
+            ]
+          },
+          "text": "慕名而来的脑瘫贱畜们，在口嗨之前先好好想想怎么能过你祖宗的杀男雌臭淫脚再说吧💜不是所有的贱狗都能荣幸地获得和祖宗对谈的机会的，你们的女爹可不会像你们一样有那么多的时间对着足臭淫靴撸屌发情，多数的死妈傻狗只需要抬抬脚赏张臭脸就足够他们犯贱自毁到死了🖤不用担心~这已经是绰绰有余的恩赐了🖤当祖宗浓缩爆汗淫酸雌臭的水光黑丝臭脚从紧脚塑腿皮靴里抽出来对着你们的死妈傻逼狗脸喷薄焖湿淫热脚臭浓雾的时候，又有多少条狗能忍住不腿软犯贱病，跪下来撸着狗屌对着祖宗的臭脚喷精认妈的呢？你以为自己拥有的什么狗屁人格尊严，在看到你妈抬起黑丝臭脚的一瞬间都会自动销毁报废，明白这只脚上的油垢黑泥碎屑才是你这傻逼的同类，用你们之前那婊子贱妈的骨灰尸油给祖宗的黑丝臭脚做个保养，然后盯着祖宗露出看傻逼的嘲笑臭脸再一脚踩碎你的狗脑，懂？🖤#文爱 #上贡 #贡奴 #脚奴 #除臭 #臭脚 #傻逼 #女S #犯贱 #认主"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 6972,
+          "like_count": 149,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "慕名而来的脑瘫贱畜们，在口嗨之前先好好想想怎么能过你祖宗的杀男雌臭淫脚再说吧💜不是所有的贱狗都能荣幸地获得和祖宗对谈的机会的，你们的女爹可不会像你们一样有那么多的时间对着足臭淫靴撸屌发情，多数的死妈傻狗只需要抬抬脚赏张臭脸就足够他们犯贱自毁到死了🖤不用担心~这已经是绰绰有余的恩赐 https://t.co/E0YVdSz0oc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n你也会因为窥视我的美貌而心甘情愿沦为钱包被我使用的对吗？\n钱包报名入口：3971546171\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 67,
+                "username": "oricz233"
+              },
+              {
+                "end": 96,
+                "start": 87,
+                "username": "moelipoi"
+              },
+              {
+                "end": 114,
+                "start": 103,
+                "username": "cutelingli"
+              },
+              {
+                "end": 136,
+                "start": 121,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 148,
+                "start": 141,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍驯化公用钱包👛中",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931064828044713984/9qwnduVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7216,
+          "following_count": 309,
+          "like_count": 364,
+          "listed_count": 33,
+          "media_count": 682,
+          "tweet_count": 2064
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2012-03-21T14:41:16.000Z",
+        "description": "储臭奴的高贵长靴女爹/丝足极致淫臭榨干一切媚雌傻逼的价值/爆耍处男主动送死肉棒的同时将靴臭强行灌脑并改造为极度恋臭的丧脑垃圾——贪婪 拜金 且胃口很大～🖤\n文调🖤┃丝足气味🖤┃绿龟舔狗🖤┃提款爆耍🖤┃寸止地狱🖤┃模拟女友🖤┃\n30r/0.5h 🚪2757411931\n礼貌的男孩子优先哦～ #文爱",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 148,
+                "start": 145,
+                "tag": "文爱"
+              }
+            ]
+          }
+        },
+        "id": "532280267",
+        "location": "和你有关系吗？",
+        "name": "🖤祭月Sama",
+        "pinned_tweet_id": "1823002702127009907",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821887105301110784/Coum-iF__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6685,
+          "following_count": 35,
+          "like_count": 36,
+          "listed_count": 19,
+          "media_count": 82,
+          "tweet_count": 188
+        },
+        "username": "cmweidman",
+        "verified": true
+      }
+    ]
+  }
+}

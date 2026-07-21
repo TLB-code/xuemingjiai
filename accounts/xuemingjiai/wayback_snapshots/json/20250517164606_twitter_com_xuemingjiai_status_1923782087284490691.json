@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1923766295218040832"
+      ],
+      "media_source_tweet_id": [
+        "1923766513988927775"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "1923782087284490691",
+    "created_at": "2025-05-17T16:46:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-17T17:46:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923782087284490691"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 33,
+          "start": 29,
+          "tag": "马赛克"
+        },
+        {
+          "end": 39,
+          "start": 34,
+          "tag": "beta"
+        },
+        {
+          "end": 45,
+          "start": 40,
+          "tag": "视线剥夺"
+        },
+        {
+          "end": 49,
+          "start": 46,
+          "tag": "寸止"
+        },
+        {
+          "end": 56,
+          "start": 50,
+          "tag": "马赛克图片"
+        },
+        {
+          "end": 63,
+          "start": 57,
+          "tag": "马赛克洗脑"
+        },
+        {
+          "end": 70,
+          "start": 64,
+          "tag": "马赛克挑战"
+        },
+        {
+          "end": 74,
+          "start": 71,
+          "tag": "足控"
+        },
+        {
+          "end": 78,
+          "start": 75,
+          "tag": "丝足"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1752181716028936192",
+          "start": 3,
+          "username": "geye_zm"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/B4YT5Vy0Jx",
+          "end": 102,
+          "expanded_url": "https://x.com/geye_zm/status/1923766513988927775/photo/1",
+          "media_key": "3_1923766295218040832",
+          "start": 79,
+          "url": "https://t.co/B4YT5Vy0Jx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923782087284490691",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923766513988927775",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @geye_zm: 一点素材，马赛克已经不太会做了\n#马赛克 #beta #视线剥夺 #寸止 #马赛克图片 #马赛克洗脑 #马赛克挑战 #足控 #丝足 https://t.co/B4YT5Vy0Jx"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1923782087284490691].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1923782087284490691",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1923782087284490691"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 731,
+        "media_key": "3_1923766295218040832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrKXQMFXMAAaO0W.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1923766295218040832"
+          ]
+        },
+        "author_id": "1752181716028936192",
+        "conversation_id": "1923766513988927775",
+        "created_at": "2025-05-17T15:44:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T16:44:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923766513988927775"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 16,
+              "tag": "马赛克"
+            },
+            {
+              "end": 26,
+              "start": 21,
+              "tag": "beta"
+            },
+            {
+              "end": 32,
+              "start": 27,
+              "tag": "视线剥夺"
+            },
+            {
+              "end": 36,
+              "start": 33,
+              "tag": "寸止"
+            },
+            {
+              "end": 43,
+              "start": 37,
+              "tag": "马赛克图片"
+            },
+            {
+              "end": 50,
+              "start": 44,
+              "tag": "马赛克洗脑"
+            },
+            {
+              "end": 57,
+              "start": 51,
+              "tag": "马赛克挑战"
+            },
+            {
+              "end": 61,
+              "start": 58,
+              "tag": "足控"
+            },
+            {
+              "end": 65,
+              "start": 62,
+              "tag": "丝足"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/B4YT5Vy0Jx",
+              "end": 89,
+              "expanded_url": "https://x.com/geye_zm/status/1923766513988927775/photo/1",
+              "media_key": "3_1923766295218040832",
+              "start": 66,
+              "url": "https://t.co/B4YT5Vy0Jx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923766513988927775",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 447,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "一点素材，马赛克已经不太会做了\n#马赛克 #beta #视线剥夺 #寸止 #马赛克图片 #马赛克洗脑 #马赛克挑战 #足控 #丝足 https://t.co/B4YT5Vy0Jx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "集美貌，智慧，强大于一身的魔女族公主现身人世～区区人类，跪下向我表示臣服吧💜\n被我支配 控制 吸脑 成为奴仆💜\n挑战qq242184780，里世界小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858\n女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "oricz233"
+              },
+              {
+                "end": 104,
+                "start": 95,
+                "username": "moelipoi"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "cutelingli"
+              },
+              {
+                "end": 144,
+                "start": 129,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 155,
+                "start": 148,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏💜强势登场人间",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923161284247420929/dv1s2unV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6910,
+          "following_count": 284,
+          "like_count": 316,
+          "listed_count": 31,
+          "media_count": 609,
+          "tweet_count": 1808
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-30T04:07:37.000Z",
+        "description": "这里是葛叶真明，游戏创作者，创作各类文游，内容涵盖寸止，窒息，辱骂等虽然写的内容都是s的但其实自己是m，欢迎各位同行扩列互推～\n买游戏找客服:@Medicyli",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 71,
+                "username": "Medicyli"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+Zqurf7RUye42M…",
+                "end": 23,
+                "expanded_url": "https://t.me/+Zqurf7RUye42MzM1",
+                "start": 0,
+                "url": "https://t.co/MW0XxdoPce"
+              }
+            ]
+          }
+        },
+        "id": "1752181716028936192",
+        "location": "游戏作者",
+        "name": "葛叶真明",
+        "pinned_tweet_id": "1918988939119177751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919451956390854656/mLuuHJAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7767,
+          "following_count": 130,
+          "like_count": 65,
+          "listed_count": 16,
+          "media_count": 52,
+          "tweet_count": 600
+        },
+        "url": "https://t.co/MW0XxdoPce",
+        "username": "geye_zm",
+        "verified": false
+      }
+    ]
+  }
+}

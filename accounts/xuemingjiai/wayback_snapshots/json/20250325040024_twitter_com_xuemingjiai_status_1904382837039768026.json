@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1904382837039768026",
+    "created_at": "2025-03-25T04:00:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-25T05:00:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904382837039768026"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1312572317206159360",
+          "start": 3,
+          "username": "moelipoi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904382837039768026",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903404675145314546",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @moelipoi: 抖M奴隶们发工资的第一时间就该主动上交全部～🖤最下贱的贱奴就应该被“奉献”“射金”“送死”的快感彻底锁死～🖤每次听到都会条件反射失去思考能力变成只能顺从命令的吐金傻逼～🖤\n彻底习惯被射金快感支配～🖤沦为连吐钱都要磕头乞求主人大发慈悲收款的傻逼贱畜…🖤…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1904382837039768026].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1904382837039768026",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1904382837039768026"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1903404672087703552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmpAdu-bQAA4KaC.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1903404672087703552"
+          ]
+        },
+        "author_id": "1312572317206159360",
+        "conversation_id": "1903404675145314546",
+        "created_at": "2025-03-22T11:13:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T12:13:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903404675145314546"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VyyK12dJcp",
+              "end": 165,
+              "expanded_url": "https://x.com/moelipoi/status/1903404675145314546/photo/1",
+              "media_key": "3_1903404672087703552",
+              "start": 142,
+              "url": "https://t.co/VyyK12dJcp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903404675145314546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 11475,
+          "like_count": 142,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "抖M奴隶们发工资的第一时间就该主动上交全部～🖤最下贱的贱奴就应该被“奉献”“射金”“送死”的快感彻底锁死～🖤每次听到都会条件反射失去思考能力变成只能顺从命令的吐金傻逼～🖤\n彻底习惯被射金快感支配～🖤沦为连吐钱都要磕头乞求主人大发慈悲收款的傻逼贱畜…🖤心甘情愿地主动奉上一切价值吧～🖤 https://t.co/VyyK12dJcp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "您好～这里是出道以来一直致力于为小雏男哥哥们提供“舒适”“安全”“极致射金体验”的纯真妹系小天使魔女妹妹💚\n想了解我请翻看我的推文～\nqq2829556413，碎碎念小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 85,
+                "username": "oricz233"
+              },
+              {
+                "end": 114,
+                "start": 105,
+                "username": "moelipoi"
+              },
+              {
+                "end": 132,
+                "start": 121,
+                "username": "cutelingli"
+              },
+              {
+                "end": 154,
+                "start": 139,
+                "username": "chessy80978858"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系天使偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897994610389180416/-gYTgIu-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6551,
+          "following_count": 263,
+          "like_count": 300,
+          "listed_count": 28,
+          "media_count": 545,
+          "tweet_count": 1504
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-04T01:57:08.000Z",
+        "description": "贵安~💖这里是主擅长恋足气味调教洗脑的全能系JK偶像璃酱💛|性癖无雷点 | 句段均可|爱好养公狗当宠物💜|貢ぎ奴隷送死欢迎🖤|把脑子无意识的交给偶像温柔的美夜月鏡中吧?💙\n门牌号:1912443435 \n单推偶像:@xuemingjiai \n亲友喵喵@hinaishero\n日常:@hikikimori7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 107,
+                "username": "xuemingjiai"
+              },
+              {
+                "end": 136,
+                "start": 125,
+                "username": "hinaishero"
+              },
+              {
+                "end": 152,
+                "start": 140,
+                "username": "hikikimori7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/moeliqwq",
+                "end": 23,
+                "expanded_url": "http://t.me/moeliqwq",
+                "start": 0,
+                "url": "https://t.co/ttwGimBZ9H"
+              }
+            ]
+          }
+        },
+        "id": "1312572317206159360",
+        "location": "35/0.5h 65/h 全天营业丨不接M单",
+        "name": "鵺❀",
+        "pinned_tweet_id": "1877281696661311957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902381531672539137/L8hXr2mg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5175,
+          "following_count": 121,
+          "like_count": 217,
+          "listed_count": 6,
+          "media_count": 126,
+          "tweet_count": 757
+        },
+        "url": "https://t.co/ttwGimBZ9H",
+        "username": "moelipoi",
+        "verified": true
+      }
+    ]
+  }
+}

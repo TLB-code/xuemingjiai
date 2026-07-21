@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "2065497323711709329",
+    "created_at": "2026-06-12T18:11:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T19:11:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065497323711709329"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2041416903638364160",
+          "start": 3,
+          "username": "AfufuLei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065497323711709329",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054195858732949810",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AfufuLei: 不知道有没有小傻逼看出来了咱大号就是专门榨金的蝾螈老板娘的～\n但是不管怎么样，能刷到这个帖子的差不多都是一些看到能给主人吐钱就止不住跪着把钱吐出来还要感谢主人收钱的傻逼吧～\n既然这样的话如果敢点赞那就主动吐30出来吧，转发的话翻倍也就是60哦，到时候…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2054195849979432960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIH4PfEbEAAX6Fj.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1037,
+        "media_key": "3_2054195851204112384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIH4PjoaMAA11FU.jpg",
+        "width": 1037
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "2065497323711709329",
+        "created_at": "2026-06-12T18:11:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T19:11:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065497323711709329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2041416903638364160",
+              "start": 3,
+              "username": "AfufuLei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065497323711709329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054195858732949810",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AfufuLei: 不知道有没有小傻逼看出来了咱大号就是专门榨金的蝾螈老板娘的～\n但是不管怎么样，能刷到这个帖子的差不多都是一些看到能给主人吐钱就止不住跪着把钱吐出来还要感谢主人收钱的傻逼吧～\n既然这样的话如果敢点赞那就主动吐30出来吧，转发的话翻倍也就是60哦，到时候…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054195849979432960",
+            "3_2054195851204112384"
+          ]
+        },
+        "author_id": "2041416903638364160",
+        "conversation_id": "2054195858732949810",
+        "created_at": "2026-05-12T13:43:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T14:43:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054195858732949810"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QP9KK2u2YX",
+              "end": 161,
+              "expanded_url": "https://x.com/AfufuLei/status/2054195858732949810/photo/1",
+              "media_key": "3_2054195849979432960",
+              "start": 138,
+              "url": "https://t.co/QP9KK2u2YX"
+            },
+            {
+              "display_url": "pic.x.com/QP9KK2u2YX",
+              "end": 161,
+              "expanded_url": "https://x.com/AfufuLei/status/2054195858732949810/photo/1",
+              "media_key": "3_2054195851204112384",
+              "start": 138,
+              "url": "https://t.co/QP9KK2u2YX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054195858732949810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 166,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "不知道有没有小傻逼看出来了咱大号就是专门榨金的蝾螈老板娘的～\n但是不管怎么样，能刷到这个帖子的差不多都是一些看到能给主人吐钱就止不住跪着把钱吐出来还要感谢主人收钱的傻逼吧～\n既然这样的话如果敢点赞那就主动吐30出来吧，转发的话翻倍也就是60哦，到时候主人会上门讨债的哦～❤️ https://t.co/QP9KK2u2YX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "你也觉得你面前的这只魔女可爱过头了吧？\n对的!她和别人不一样!\n邂逅方式→2829556413←\n超涩气小号@oricz233\n现任魔女学园院长\n星辰魔女镜璃\n@jingli1840489\n桃心魔女奈奈\n@blakexiaonai\n 黑白魔女花卷\n@miaomiaomyoez2\n好老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 54,
+                "username": "oricz233"
+              },
+              {
+                "end": 94,
+                "start": 80,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 115,
+                "start": 102,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 139,
+                "start": 124,
+                "username": "miaomiaomyoez2"
+              },
+              {
+                "end": 158,
+                "start": 143,
+                "username": "chessy80978858"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "超可爱超绿茶超撩人的精灵魔女-奏奏💚",
+        "pinned_tweet_id": "2013314916120416537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064079945459171328/WbF0iOyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8883,
+          "following_count": 373,
+          "like_count": 640,
+          "listed_count": 36,
+          "media_count": 830,
+          "tweet_count": 2215
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-07T07:25:08.000Z",
+        "description": "有事请加Q3403741791，皮上温柔大安安，如有要求的话也可以是严厉大安安。\n有在当贡主榨ATM，只不过大号被封了之后不敢那么造次了，所以有想被榨的可以加Q找咱～❤️\n当然啦，咱也是有自己的贡主的，如果通过推特加咱好友的话只接受给咱吐钱的哦，想榨咱钱的，达咩～❤️\n唯一贡主亲妈 @fei0lilis",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 142,
+                "username": "fei0lilis"
+              }
+            ]
+          }
+        },
+        "id": "2041416903638364160",
+        "name": "Drea安",
+        "pinned_tweet_id": "2044414596665270734",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041417437841895424/V7my_5Z4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 128,
+          "like_count": 263,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 21
+        },
+        "username": "AfufuLei",
+        "verified": false
+      }
+    ]
+  }
+}

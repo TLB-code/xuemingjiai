@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1927107657120272597",
+    "created_at": "2025-05-26T21:00:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-26T22:00:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927107657120272597"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1485155475498831874",
+          "start": 3,
+          "username": "MeQingYun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927107657120272597",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 42
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926888943225548994",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MeQingYun: 看来…胜负已分~💚真是显而易见的差距呢~开拓者💚真不知道你这绿帽贱狗到底是哪来的勇气~💚竟然不自量力的向黑爹大人发起“男性功能决斗”~💚这种还没我尾指长的肉棒…哦不~💚应该称之为“肉虫”才对呢~💚你这根东西，已经不能用“棒”来形容了~💚差距就是如此…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1927107657120272597].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1927107657120272597",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1927107657120272597"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1926888934744752128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr2vRu0XgAAyxwj.jpg",
+        "width": 776
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1926888939610075136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr2vSA8WcAAvSbT.jpg",
+        "width": 993
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1926888934744752128",
+            "3_1926888939610075136"
+          ]
+        },
+        "author_id": "1485155475498831874",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1926888943225548994",
+        "created_at": "2025-05-26T06:31:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T07:31:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926888943225548994"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NC94j5YVEs",
+              "end": 171,
+              "expanded_url": "https://x.com/MeQingYun/status/1926888943225548994/photo/1",
+              "media_key": "3_1926888934744752128",
+              "start": 148,
+              "url": "https://t.co/NC94j5YVEs"
+            },
+            {
+              "display_url": "pic.x.com/NC94j5YVEs",
+              "end": 171,
+              "expanded_url": "https://x.com/MeQingYun/status/1926888943225548994/photo/1",
+              "media_key": "3_1926888939610075136",
+              "start": 148,
+              "url": "https://t.co/NC94j5YVEs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926888943225548994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 282,
+                "start": 279,
+                "tag": "文媛"
+              },
+              {
+                "end": 286,
+                "start": 283,
+                "tag": "媚黑"
+              },
+              {
+                "end": 291,
+                "start": 287,
+                "tag": "反差婊"
+              },
+              {
+                "end": 295,
+                "start": 292,
+                "tag": "绿帽"
+              },
+              {
+                "end": 300,
+                "start": 296,
+                "tag": "QOS"
+              },
+              {
+                "end": 305,
+                "start": 301,
+                "tag": "ntr"
+              }
+            ]
+          },
+          "text": "看来…胜负已分~💚真是显而易见的差距呢~开拓者💚真不知道你这绿帽贱狗到底是哪来的勇气~💚竟然不自量力的向黑爹大人发起“男性功能决斗”~💚这种还没我尾指长的肉棒…哦不~💚应该称之为“肉虫”才对呢~💚你这根东西，已经不能用“棒”来形容了~💚差距就是如此的明显，现在知道自己有多么废物了吗~开拓者💚身边的女人一个个的离你远去~还不知道原因吗~💚没有女孩子会喜欢你这种疲软无力还早泄的废物肉棒呢~💚像你这种废物到了极点的垃圾肉棒~💚就该永远被锁在贞操锁里~💚蹲在门口听着自己心爱女人的浪叫无脑流出劣等废物死精~💚这样的结局~才配得上你“废物绿王八畜生”的称号呢~💚\n#文媛 #媚黑 #反差婊 #绿帽 #QOS #ntr"
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 48,
+          "impression_count": 6590,
+          "like_count": 205,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 42
+        },
+        "reply_settings": "everyone",
+        "text": "看来…胜负已分~💚真是显而易见的差距呢~开拓者💚真不知道你这绿帽贱狗到底是哪来的勇气~💚竟然不自量力的向黑爹大人发起“男性功能决斗”~💚这种还没我尾指长的肉棒…哦不~💚应该称之为“肉虫”才对呢~💚你这根东西，已经不能用“棒”来形容了~💚差距就是如此的明显，现在知道自己有多么废物了吗~开拓者💚身 https://t.co/NC94j5YVEs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "集美貌，智慧，强大于一身的魔女族公主现身人世～区区人类，跪下向我表示臣服吧💜\n被我支配 控制 吸脑 成为奴仆💜\n挑战qq242184780，里世界小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858\n女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "oricz233"
+              },
+              {
+                "end": 104,
+                "start": 95,
+                "username": "moelipoi"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "cutelingli"
+              },
+              {
+                "end": 144,
+                "start": 129,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 155,
+                "start": 148,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏💜强势登场人间",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926028406774247424/hWplRg7q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7009,
+          "following_count": 289,
+          "like_count": 322,
+          "listed_count": 32,
+          "media_count": 619,
+          "tweet_count": 1849
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-23T07:40:46.000Z",
+        "description": "门牌号2790468154❤️入圈已有四年，较擅长的是榨精❤️调情寸止❤️NTR类剧情❤️媚黑只是XP，勿要入脑❤️擅长长文对戏以及各种脑洞大开的玩法，有想玩的剧情都可以来戳，价格是70/小时～40/0.5小时\n小号：@YunQing0915\n来不及回复可以去这里https://t.co/WNHwBf0PHX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 109,
+                "username": "YunQing0915"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/yueqingyun",
+                "end": 155,
+                "expanded_url": "https://t.me/yueqingyun",
+                "start": 132,
+                "url": "https://t.co/WNHwBf0PHX"
+              }
+            ]
+          }
+        },
+        "id": "1485155475498831874",
+        "location": "你心里",
+        "name": "清云🖤",
+        "pinned_tweet_id": "1804376109817172192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779128146186379264/LFfTwJkS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14398,
+          "following_count": 120,
+          "like_count": 2465,
+          "listed_count": 78,
+          "media_count": 206,
+          "tweet_count": 2854
+        },
+        "username": "MeQingYun",
+        "verified": true
+      }
+    ]
+  }
+}

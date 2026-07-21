@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1585790663575994368",
+          "name": "Magical girl"
+        }
+      }
+    ],
+    "conversation_id": "1884244178286297444",
+    "created_at": "2025-01-28T14:16:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-28T15:16:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884244178286297444"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1857066503931154432",
+          "start": 3,
+          "username": "xufei141592"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884244178286297444",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884204683415412800",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xufei141592: 杂鱼小处男们听说过魔法赌局吗~听说在那里会有美丽的魔法少女和光鲜亮丽的赌场~自己的一切都可以被拿来当作筹码~只要胜利了就可以拿到大量的金币，实现想要的梦想~每个人都想参与其中，胜利之后似乎很美好哦~那杂鱼小处男要来试试嘛💜～ https://t…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585790663575994368",
+              "name": "Magical girl"
+            }
+          }
+        ],
+        "conversation_id": "1884244178286297444",
+        "created_at": "2025-01-28T14:16:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-28T15:16:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884244178286297444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1857066503931154432",
+              "start": 3,
+              "username": "xufei141592"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884244178286297444",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884204683415412800",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xufei141592: 杂鱼小处男们听说过魔法赌局吗~听说在那里会有美丽的魔法少女和光鲜亮丽的赌场~自己的一切都可以被拿来当作筹码~只要胜利了就可以拿到大量的金币，实现想要的梦想~每个人都想参与其中，胜利之后似乎很美好哦~那杂鱼小处男要来试试嘛💜～ https://t…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1884204663228227584"
+          ]
+        },
+        "author_id": "1857066503931154432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585790663575994368",
+              "name": "Magical girl"
+            }
+          }
+        ],
+        "conversation_id": "1884204683415412800",
+        "created_at": "2025-01-28T11:39:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-28T12:39:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884204683415412800"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QmMGy7hZot",
+              "end": 136,
+              "expanded_url": "https://x.com/xufei141592/status/1884204683415412800/photo/1",
+              "media_key": "3_1884204663228227584",
+              "start": 113,
+              "url": "https://t.co/QmMGy7hZot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884204683415412800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "杂鱼小处男们听说过魔法赌局吗~听说在那里会有美丽的魔法少女和光鲜亮丽的赌场~自己的一切都可以被拿来当作筹码~只要胜利了就可以拿到大量的金币，实现想要的梦想~每个人都想参与其中，胜利之后似乎很美好哦~那杂鱼小处男要来试试嘛💜～ https://t.co/QmMGy7hZot"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "您好～这里是出道以来一直致力于为小雏男哥哥们提供“舒适”“安全”“极致快感”的纯真妹系小天使魔女妹妹💚\n想了解我请翻看我的推文～\nqq2829556413，碎碎念小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 83,
+                "username": "oricz233"
+              },
+              {
+                "end": 112,
+                "start": 103,
+                "username": "moelipoi"
+              },
+              {
+                "end": 130,
+                "start": 119,
+                "username": "cutelingli"
+              },
+              {
+                "end": 152,
+                "start": 137,
+                "username": "chessy80978858"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系天使偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878142670054604800/aZFysFDs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6353,
+          "following_count": 253,
+          "like_count": 289,
+          "listed_count": 29,
+          "media_count": 538,
+          "tweet_count": 1500
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-14T14:22:19.000Z",
+        "description": "这里是刚刚被魔女大人恶堕魔法少女真白~现在是超绝抖s的邪恶魔法少女，把杂鱼们都变成真白的杂鱼战斗员压榨上供🖤，有想被温柔恶堕的正义伙伴也可以来找真白❤️~欢迎杂鱼小处男们来主动白给送死。门牌3870371054（备用号3933283778）价格暂定60r/h，魔女大人@xuemingjiai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 146,
+                "start": 134,
+                "username": "xuemingjiai"
+              }
+            ]
+          }
+        },
+        "id": "1857066503931154432",
+        "name": "魔法少女真白",
+        "pinned_tweet_id": "1857076100913901811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1857066864813187073/0LePKPpB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 15,
+          "like_count": 34,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 36
+        },
+        "username": "xufei141592",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1947745934177116160"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "1947745734595420167",
+    "created_at": "2025-07-22T19:49:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-22T20:49:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947745939000586330"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LBAThPpVf3",
+          "end": 170,
+          "expanded_url": "https://x.com/xuemingjiai/status/1947745939000586330/photo/1",
+          "media_key": "3_1947745934177116160",
+          "start": 147,
+          "url": "https://t.co/LBAThPpVf3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947745939000586330",
+    "in_reply_to_user_id": "1374389254726455305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947745839834714312",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "奏奏公主的慷慨是面向全世界的，在奏奏公主赐予的特制药水畅销后，人类的生活品质提高了一大截，再也不会被疾病困扰\n只是...喝下的人们都会对奏奏公主言听计从，某一天..奏奏公主长出了一对黑色的羽翼，那是魔族的特征，原来奏奏公主是魔族的公主🖤\n奏奏国新历01年1月13日，在广场上，大规模集体释放🤍 https://t.co/LBAThPpVf3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1947745934177116160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwfIm4dWoAAtLak.jpg",
+        "width": 1312
+      },
+      {
+        "height": 1216,
+        "media_key": "3_1947745835615227905",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwfIhJSXkAEe6ae.jpg",
+        "width": 832
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947745934177116160"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "1947745734595420167",
+        "created_at": "2025-07-22T19:49:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T20:49:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947745939000586330"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LBAThPpVf3",
+              "end": 170,
+              "expanded_url": "https://x.com/xuemingjiai/status/1947745939000586330/photo/1",
+              "media_key": "3_1947745934177116160",
+              "start": 147,
+              "url": "https://t.co/LBAThPpVf3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947745939000586330",
+        "in_reply_to_user_id": "1374389254726455305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947745839834714312",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "奏奏公主的慷慨是面向全世界的，在奏奏公主赐予的特制药水畅销后，人类的生活品质提高了一大截，再也不会被疾病困扰\n只是...喝下的人们都会对奏奏公主言听计从，某一天..奏奏公主长出了一对黑色的羽翼，那是魔族的特征，原来奏奏公主是魔族的公主🖤\n奏奏国新历01年1月13日，在广场上，大规模集体释放🤍 https://t.co/LBAThPpVf3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947745835615227905"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "1947745734595420167",
+        "created_at": "2025-07-22T19:49:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T20:49:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947745839834714312"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/92y5wKRD1E",
+              "end": 164,
+              "expanded_url": "https://x.com/xuemingjiai/status/1947745839834714312/photo/1",
+              "media_key": "3_1947745835615227905",
+              "start": 141,
+              "url": "https://t.co/92y5wKRD1E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947745839834714312",
+        "in_reply_to_user_id": "1374389254726455305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947745734595420167",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "就这样，战争很轻松就结束了，以一种近乎荒缪的形式被一个小女孩翘起脚终结了\n那之后，上天派来的天使奏奏来到了因战乱受损最严重的国家，消耗了大量的魔力治愈伤员，重建国家设施，当民众们纷纷推崇她成为女皇的时候，她拒绝了，而选择了公主这一特殊的称呼。\n于是，奏奏公主成为了这个国家的信仰🤍 https://t.co/92y5wKRD1E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n你也会因为窥视我的美貌而心甘情愿沦为钱包被我使用的对吗？\n钱包报名入口：3971546171\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 67,
+                "username": "oricz233"
+              },
+              {
+                "end": 96,
+                "start": 87,
+                "username": "moelipoi"
+              },
+              {
+                "end": 114,
+                "start": 103,
+                "username": "cutelingli"
+              },
+              {
+                "end": 136,
+                "start": 121,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 148,
+                "start": 141,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍大规模同化魔法展开中",
+        "pinned_tweet_id": "1945511067926536238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945176725190488064/8VBohPRs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7678,
+          "following_count": 327,
+          "like_count": 584,
+          "listed_count": 33,
+          "media_count": 714,
+          "tweet_count": 2193
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

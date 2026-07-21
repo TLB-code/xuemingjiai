@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1856492142916710771",
+    "created_at": "2024-11-13T00:19:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-13T01:19:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1856492142916710771"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1852926328963522560",
+          "start": 3,
+          "username": "oricz233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1856492142916710771",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1856399702310433126",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oricz233: 我已经看见了哦？\n刚才，主人很兴奋的点了是（yes）吧？\n很棒很棒哦～勇敢的在性欲支配的状态下迈出了给自己安装“自毁”病毒的第一步，值得夸奖!\n您做得很好哦，是个乖宝宝，所以乖宝宝就应该得到奖励，奖励就是您可以舒舒服服的握着下半身的操控杆撸动，但是不…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1856492142916710771].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1856492142916710771",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1856492142916710771"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1856399699802238976"
+          ]
+        },
+        "author_id": "1852926328963522560",
+        "conversation_id": "1856399702310433126",
+        "created_at": "2024-11-12T18:12:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-12T19:12:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1856399702310433126"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2ScGF5us1z",
+              "end": 165,
+              "expanded_url": "https://x.com/oricz233/status/1856399702310433126/photo/1",
+              "media_key": "3_1856399699802238976",
+              "start": 142,
+              "url": "https://t.co/2ScGF5us1z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856399702310433126",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 829,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "我已经看见了哦？\n刚才，主人很兴奋的点了是（yes）吧？\n很棒很棒哦～勇敢的在性欲支配的状态下迈出了给自己安装“自毁”病毒的第一步，值得夸奖!\n您做得很好哦，是个乖宝宝，所以乖宝宝就应该得到奖励，奖励就是您可以舒舒服服的握着下半身的操控杆撸动，但是不可以射出来，因为那是“不对的”💜 https://t.co/2ScGF5us1z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "超绝可爱💖\n她就是出道即巅峰的可爱纯真小天使新人偶像魔女小姐💖\n对这样的魔女小姐不能心怀任何涩涩的念想哦，不然就会变得非常糟糕...踏入无法挣脱的陷阱和牢笼里呢💘\n魔女小姐无论说什么做什么都是正确的哦，身为她的粉丝，只需要无条件用各种方式支持她就好了～\nqq2829556413，碎碎念小号@oricz233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 154,
+                "start": 145,
+                "username": "oricz233"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "name": "电波系新人偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854618482215911424/R3TTJuCj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5872,
+          "following_count": 229,
+          "like_count": 187,
+          "listed_count": 24,
+          "tweet_count": 1336
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-03T04:10:46.000Z",
+        "description": "嗯 如你所见这就是魔女小姐@xuemingjiai 的树洞发泄 特殊更新的多功能用小号哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 13,
+                "username": "xuemingjiai"
+              }
+            ]
+          }
+        },
+        "id": "1852926328963522560",
+        "name": "魔女小姐（多功能用小号）",
+        "pinned_tweet_id": "1853194086540509649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856402610703740931/Tto8WC07_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 2,
+          "like_count": 0,
+          "listed_count": 0,
+          "tweet_count": 28
+        },
+        "username": "oricz233",
+        "verified": false
+      }
+    ]
+  }
+}

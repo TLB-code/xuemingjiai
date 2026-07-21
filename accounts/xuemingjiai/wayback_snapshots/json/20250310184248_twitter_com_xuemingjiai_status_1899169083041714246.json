@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1899169083041714246",
+    "created_at": "2025-03-10T18:42:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-10T19:42:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1899169083041714246"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1777598492124532736",
+          "start": 3,
+          "username": "Qilicc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899169083041714246",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898777600665014327",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Qilicc: 被收作可爱妹妹的提款机应该没有小处男会拒绝吧❤️\n我知道~哥哥你赚钱很辛苦~很累~那~可以请你把日夜辛苦赚到的钱喷给我吗🖤用这种方式表达自己的喜欢~祈求我允许你高潮💛求我最后用脚底处死你这个傻逼~~\n请你以后都为我而活好吗?傻逼~ https://t.c…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1899169083041714246].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1899169083041714246",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1899169083041714246"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1898777597007564800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlnQKhEbEAATeKx.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1898777597007564800"
+          ]
+        },
+        "author_id": "1777598492124532736",
+        "conversation_id": "1898777600665014327",
+        "created_at": "2025-03-09T16:47:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T17:47:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898777600665014327"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rr2tw39DwW",
+              "end": 139,
+              "expanded_url": "https://x.com/Qilicc/status/1898777600665014327/photo/1",
+              "media_key": "3_1898777597007564800",
+              "start": 116,
+              "url": "https://t.co/rr2tw39DwW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898777600665014327",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2016,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "被收作可爱妹妹的提款机应该没有小处男会拒绝吧❤️\n我知道~哥哥你赚钱很辛苦~很累~那~可以请你把日夜辛苦赚到的钱喷给我吗🖤用这种方式表达自己的喜欢~祈求我允许你高潮💛求我最后用脚底处死你这个傻逼~~\n请你以后都为我而活好吗?傻逼~ https://t.co/rr2tw39DwW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "您好～这里是出道以来一直致力于为小雏男哥哥们提供“舒适”“安全”“极致射金体验”的纯真妹系小天使魔女妹妹💚\n想了解我请翻看我的推文～\nqq2829556413，碎碎念小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 85,
+                "username": "oricz233"
+              },
+              {
+                "end": 114,
+                "start": 105,
+                "username": "moelipoi"
+              },
+              {
+                "end": 132,
+                "start": 121,
+                "username": "cutelingli"
+              },
+              {
+                "end": 154,
+                "start": 139,
+                "username": "chessy80978858"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系天使偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897994610389180416/-gYTgIu-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6478,
+          "following_count": 259,
+          "like_count": 295,
+          "listed_count": 29,
+          "media_count": 543,
+          "tweet_count": 1521
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-09T07:25:06.000Z",
+        "description": "一枚文援.可以陪你做喜欢的事，涉三的事除了照片以外都需要长期沉淀才行.\n私信我交流请友善一点可以发癫✉️\n请不要在私信对我发生殖器照✉️\n🚪5（不抵扣）⚠️新门牌:1725218154⚠️✉️点媒体查看我的推文✉️有Switch成分，入门闲聊免费.✉️请点点关注不要取关我. 妈咪@xuemingjiai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 140,
+                "username": "xuemingjiai"
+              }
+            ]
+          }
+        },
+        "id": "1777598492124532736",
+        "location": "あなたの幸せを祈ります🍥",
+        "name": "祈莉莉",
+        "pinned_tweet_id": "1850881152502137211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898775323501817856/rYOJIiqX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2194,
+          "following_count": 34,
+          "like_count": 258,
+          "listed_count": 6,
+          "media_count": 45,
+          "tweet_count": 256
+        },
+        "username": "Qilicc",
+        "verified": false
+      }
+    ]
+  }
+}

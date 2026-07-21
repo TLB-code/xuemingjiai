@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1935700532276179272",
+    "created_at": "2025-06-19T14:05:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-19T15:05:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935700532276179272"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1288837401335328768",
+          "start": 3,
+          "username": "YuSama_Uknwdy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935700532276179272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935659104963600647",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YuSama_Uknwdy: 白痴小雏男又来发情了吗🖤真是的~隔了这么多天你的废物小鸡巴还是这么没用~被媚黑女神的玉手随便撸搓一下就会撸搓出废精🖤\n反正也是完全没用的低劣基因精子憋在你个废物雏男身体里也是毫无作用的🖤就让媚黑女神替你把你的死精撸出来吧🖤再给你的废物睾丸精…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1935700532276179272].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1935700532276179272",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1935700532276179272"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 3560,
+        "media_key": "3_1935656217566691328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtzVEwdWwAAU7oZ.jpg",
+        "width": 2400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935656217566691328"
+          ]
+        },
+        "author_id": "1288837401335328768",
+        "conversation_id": "1935659104963600647",
+        "created_at": "2025-06-19T11:21:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T12:21:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935659104963600647"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bigut2t2NM",
+              "end": 164,
+              "expanded_url": "https://x.com/YuSama_Uknwdy/status/1935659104963600647/photo/1",
+              "media_key": "3_1935656217566691328",
+              "start": 141,
+              "url": "https://t.co/Bigut2t2NM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935659104963600647",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 1031,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "白痴小雏男又来发情了吗🖤真是的~隔了这么多天你的废物小鸡巴还是这么没用~被媚黑女神的玉手随便撸搓一下就会撸搓出废精🖤\n反正也是完全没用的低劣基因精子憋在你个废物雏男身体里也是毫无作用的🖤就让媚黑女神替你把你的死精撸出来吧🖤再给你的废物睾丸精囊注射黑爹高贵的雄性基因改造的低劣猪鞭🖤 https://t.co/Bigut2t2NM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n你也会因为窥视我的美貌而心甘情愿沦为钱包被我使用的对吗？\n钱包报名入口：3971546171\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 67,
+                "username": "oricz233"
+              },
+              {
+                "end": 96,
+                "start": 87,
+                "username": "moelipoi"
+              },
+              {
+                "end": 114,
+                "start": 103,
+                "username": "cutelingli"
+              },
+              {
+                "end": 136,
+                "start": 121,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 148,
+                "start": 141,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍驯化公用钱包👛中",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931064828044713984/9qwnduVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7252,
+          "following_count": 309,
+          "like_count": 371,
+          "listed_count": 32,
+          "media_count": 692,
+          "tweet_count": 2101
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-30T14:02:47.000Z",
+        "description": "超绝文媛🖤垃圾变态的傻逼们请自觉翘着你的烂根来送死🖤 性癖全能会用你最喜欢的方式玩死你的哦🖤丨语音验证20💚丨门槛20r可抵扣丨 傻逼不用再偷窥了赶紧夹着你的烂裆来敲门💚 门牌：3451423909",
+        "id": "1288837401335328768",
+        "name": "昱昱SexLove_超绝接单版♪💘",
+        "pinned_tweet_id": "1921487172227473735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926032568291311616/n0i1z6MD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17681,
+          "following_count": 264,
+          "like_count": 698,
+          "listed_count": 82,
+          "media_count": 176,
+          "tweet_count": 2446
+        },
+        "username": "YuSama_Uknwdy",
+        "verified": true
+      }
+    ]
+  }
+}

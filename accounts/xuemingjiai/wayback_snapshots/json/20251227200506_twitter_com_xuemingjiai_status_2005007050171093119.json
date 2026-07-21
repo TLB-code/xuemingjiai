@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "2005007050171093119",
+    "created_at": "2025-12-27T20:05:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T21:05:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005007050171093119"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1374389254726455305",
+          "start": 3,
+          "username": "xuemingjiai"
+        },
+        {
+          "end": 112,
+          "id": "1984115707815325698",
+          "start": 98,
+          "username": "jingli1840489"
+        },
+        {
+          "end": 129,
+          "id": "1746153330622226432",
+          "start": 116,
+          "username": "blakexiaonai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005007050171093119",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003254171487863271",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xuemingjiai: 哐当～\n本公主为了更好的管理小钱包们（洗脑管理）更广泛的让小钱包们享受舒适的流金体验，特此成立魔女学园～\n目前由包括本公主在内的四名实力强大的魔女组成，分别是镜璃@jingli1840489 \n奈奈@blakexiaonai 花卷@miaomi…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2005007050171093119].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2005007050171093119",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2005007050171093119"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "alt_text": "呐～杂鱼小狗狗们猜猜本大人是谁？\n哼哼，猜不到吧～没事，只要把脚踩在你的脸上，你闻到熟悉的味道就会想起我哦～没错，我就是除开奏奏妈咪以外的第一位魔女——星辰魔女镜璃💚\n嘻嘻，你问为什么在闻到我的足香之前都想不起我是谁？那当然是因为你中了本大人独特的“足香魔法”，在平日里你会忘掉一切正常的生活，而每到夜晚就会接触到镜璃大人特别为你量身定做的“迷情袜”，看见就会忍不住去接触像小狗一样迫不及待的拿到鼻子边大口的嗅，开始自慰～发情～满脑子都是镜璃大人～又因为“禁欲魔法”的拘束无法自行射精，最后只能哭着来找镜璃大人寻求高潮的办法～每次都会被榨取不少的“射精税”呢💚\n不管你是新的小狗还是熟悉的小狗，都要乖乖听镜璃大人和其他魔女的话哦～成为我们的专属宠物吧～\n还没关注镜璃大人要马上关注并且转发我最新的三条推文哦～最近主推的玩法是“模拟上贡”....当然了，会彻底染上贡瘾被镜璃大人征服还是在一次次抵抗中逃离最后堕入深渊，就看你的意志力了💚\n在看完四个介绍之前～都要握着下面撸动哦，但是禁止擅自高潮～奏奏妈咪会告诉你们答案的～",
+        "height": 1200,
+        "media_key": "3_2003247148197117956",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8z2qumagAQdcki.jpg",
+        "width": 821
+      },
+      {
+        "alt_text": "哈喽♠️\n这里是桃心魔女——奈奈♠️\n虽然是魔女但本体是男孩子哦，不过....是男孩子的奈奈会让你更加兴奋对吗变态♡\n如果对着奈奈这样的媚黑媚奏奏妈咪的贡奴男孩子感兴趣发情了想要当奴下奴，下场会超级惨哦🖤\n奈奈和其他的魔女姐姐一样都是奏奏妈咪的忠诚女儿呢，舔狗贡奴哥哥上贡给奈奈的每一分钱都会被奈奈原封不动的全额上交给奏奏妈咪哦🖤\n诶诶～废柴大哥哥问奈奈的魔女能力是什么吗？\n大概就是♠️魔法～会让来找奈奈的大哥哥小杂鱼们最后都变成无意识的♠️傀儡战斗员哦～\n变成只会被奈奈插脑控制，无脑顶胯敬礼，对♠️上瘾无药可救的最低级战斗员～每天接受奈奈的洗脑～加深对奈奈以及奏奏妈咪的崇拜～这样子看来奈子是不是很温柔啊🖤\n毕竟杂鱼媚♠️傀儡战斗员们都是超级幸福的对不对\n奈奈也有布置给预备役战斗员们的任务哦，那就是关注奈奈并且转发我的每一条推文，点赞，引流～然后来找奈奈进行媚♠️化训练～",
+        "height": 2048,
+        "media_key": "3_2003249970821173248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8z5PBsbkAA_G4p.jpg",
+        "width": 1401
+      },
+      {
+        "alt_text": "花卷来咯🤍\n活泼可爱又黑心的本小姐到底是谁呢？\n那只能是你们的花卷大小姐啦～我也被叫做黑白魔女呢～\n作为奏奏妈咪最年轻的女儿，但总是让小狗们欲罢不能呢，因为我是真的超级黑心不会手软不留余地那种哦🤍\n因为太可爱了所以黑心起来特别狠，但正是这种强烈的反差才会让你们这群傻逼抖m钱包爽到不行吧～\n所以说你们这群废物舔狗钱包能不能赶紧跪下来把本大小姐的足底舔干净让我随意支配蹂躏玩坏你们啊～\n嘘....本小姐也可以接线下哦，但也不是每只狗狗都能得到本大小姐的青睐，先自觉成为我的舔狗财布吧♡\n本大小姐也有需要你们做的任务哦，关注转发我的推文，每转发一次给本大小姐磕10个头，奖励奖励你们",
+        "height": 1276,
+        "media_key": "3_2003251597703626752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8z6tuTbwAAHi8D.jpg",
+        "width": 1080
+      },
+      {
+        "alt_text": "嗯哼～终于看到最后啦？\n杂鱼小钱包们没有偷偷漏精吧～那种事情是绝对🚫的哦💜\n本公主就是魔女学园的院长～世界上最强的凌驾魔女奏奏哦，凌驾在所有人之上的魔女～绝对的实力碾压～不止是对小钱包们来说哦，也是对其他魔女来说的呢，毕竟是大家的“奏奏妈咪”💜\n为什么选这张图作为本公主的宣传图呢？\n那当然是因为此时此刻也坐在某一头女儿身上，支配鞭策着她服务，榨取着你们的钱包，然后再从这头母猪手里抽走她今天需要上贡的钱罢了～\n不会真的有最底层的舔狗钱包看到这里忍不住膝盖一软跪下了吧？没跪的话就给本公主跪下～不许站起来～谁叫本公主是最厉害的“万物之王”呢💜\n搓吧撸吧蹭吧～本公主不会禁止你们加深对本公主的崇拜，并且对着本公主发情的～就是要这样～看见你们越来越杂鱼，越来越废物，本公主就会越来越高贵哦～\n那么～本公主给予你们的任务就是～来找本公主土下座磕头～接受本公主的绝对指令～这个指令可能是任何背德的指令，也可能是单纯的提款指令，还可能是把你甩给母猪们练手的指令，不过不管是什么指令，你都会乖乖接受的对吧？毕竟最低级的舔狗杂鱼足奴战斗员财布工具是没有任何人权的💜💜💜",
+        "height": 1920,
+        "media_key": "3_2003254147806855169",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8z9CKLbAAE6dwX.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003247148197117956",
+            "3_2003249970821173248",
+            "3_2003251597703626752",
+            "3_2003254147806855169"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "2003254171487863271",
+        "created_at": "2025-12-22T23:59:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T00:59:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003254171487863271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 95,
+              "id": "1984115707815325698",
+              "start": 81,
+              "username": "jingli1840489"
+            },
+            {
+              "end": 112,
+              "id": "1746153330622226432",
+              "start": 99,
+              "username": "blakexiaonai"
+            },
+            {
+              "end": 131,
+              "id": "1992444823505354753",
+              "start": 115,
+              "username": "miaomiaomi17630"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AhDDAghDB1",
+              "end": 190,
+              "expanded_url": "https://x.com/xuemingjiai/status/2003254171487863271/photo/1",
+              "media_key": "3_2003247148197117956",
+              "start": 167,
+              "url": "https://t.co/AhDDAghDB1"
+            },
+            {
+              "display_url": "pic.x.com/AhDDAghDB1",
+              "end": 190,
+              "expanded_url": "https://x.com/xuemingjiai/status/2003254171487863271/photo/1",
+              "media_key": "3_2003249970821173248",
+              "start": 167,
+              "url": "https://t.co/AhDDAghDB1"
+            },
+            {
+              "display_url": "pic.x.com/AhDDAghDB1",
+              "end": 190,
+              "expanded_url": "https://x.com/xuemingjiai/status/2003254171487863271/photo/1",
+              "media_key": "3_2003251597703626752",
+              "start": 167,
+              "url": "https://t.co/AhDDAghDB1"
+            },
+            {
+              "display_url": "pic.x.com/AhDDAghDB1",
+              "end": 190,
+              "expanded_url": "https://x.com/xuemingjiai/status/2003254171487863271/photo/1",
+              "media_key": "3_2003254147806855169",
+              "start": 167,
+              "url": "https://t.co/AhDDAghDB1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003254171487863271",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 7794,
+          "like_count": 116,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "哐当～\n本公主为了更好的管理小钱包们（洗脑管理）更广泛的让小钱包们享受舒适的流金体验，特此成立魔女学园～\n目前由包括本公主在内的四名实力强大的魔女组成，分别是镜璃@jingli1840489 \n奈奈@blakexiaonai 花卷@miaomiaomi17630\n众小钱包听令～点进每张图片左下角的ALT观看魔女简语，接受魔女洗礼🤍 https://t.co/AhDDAghDB1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🖤\n最最最最喜欢钱包们啦～\n联系方式→2829556413←\n病毒小号@oricz233\n现任魔女学园院长!\n星辰魔女镜璃\n@jingli1840489\n桃心魔女奈奈\n@blakexiaonai\n 黑白魔女花卷\n@miaomiaomi17630\n好老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 49,
+                "username": "oricz233"
+              },
+              {
+                "end": 90,
+                "start": 76,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 111,
+                "start": 98,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 136,
+                "start": 120,
+                "username": "miaomiaomi17630"
+              },
+              {
+                "end": 155,
+                "start": 140,
+                "username": "chessy80978858"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARosxSy"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🖤魔女学园院长版～",
+        "pinned_tweet_id": "1976743806063063398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003754231543562240/7Kw6lKLr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8088,
+          "following_count": 339,
+          "like_count": 648,
+          "listed_count": 37,
+          "media_count": 768,
+          "tweet_count": 2397
+        },
+        "url": "https://t.co/le8ARosxSy",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-31T04:31:00.000Z",
+        "description": "可以是温柔妈咪/可爱妹妹/知心姐姐~也可以是可怕残忍压榨主使用钱包哦🖤\n目前主要玩法：剧情文爱/黑心/绿茶/洗脑/榨金/寸止/催眠/模拟上贡/早泄挑战/贞操管理等💕\n门牌号：q3775591357，致力于让每位朋友都开开心心舒舒服服的喔❤️全天营业，深夜常驻，欢迎前来光顾哦~\n最可爱的奏奏：@xuemingjiai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 158,
+                "start": 146,
+                "username": "xuemingjiai"
+              }
+            ]
+          }
+        },
+        "id": "1984115707815325698",
+        "location": "镜璃的温暖小床~深夜也欢迎打扰哦~",
+        "name": "是镜璃喔~",
+        "pinned_tweet_id": "1993433669315486013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985515782550536192/bMHPg-lN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 757,
+          "following_count": 59,
+          "like_count": 135,
+          "listed_count": 2,
+          "media_count": 16,
+          "tweet_count": 91
+        },
+        "username": "jingli1840489",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-13T12:53:18.000Z",
+        "description": "是一个喜欢爱玩顶号胁迫吸钱洗脑锁死的小男孩哦🖤 最爱的妈妈@xuemingjiai\n 处刑传送门q 3978814398♠️ 每天下午5点到午夜1点前找我都在哦🖤\n帮畜生排精一次最低70呢 1h左右 其他价格详谈♡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 29,
+                "username": "xuemingjiai"
+              }
+            ]
+          }
+        },
+        "id": "1746153330622226432",
+        "name": "blake🖤奈喵♠️",
+        "pinned_tweet_id": "1997635752809656603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999192058129711104/SukeKjd9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 719,
+          "following_count": 109,
+          "like_count": 194,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 179
+        },
+        "username": "blakexiaonai",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1931476768185360385"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "1931476771381395783",
+    "created_at": "2025-06-07T22:22:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-07T23:22:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1931476771381395783"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 8,
+          "start": 0,
+          "tag": "魔女公主的日常"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/m9nU3mTIWF",
+          "end": 165,
+          "expanded_url": "https://x.com/xuemingjiai/status/1931476771381395783/photo/1",
+          "media_key": "3_1931476768185360385",
+          "start": 142,
+          "url": "https://t.co/m9nU3mTIWF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931476771381395783",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#魔女公主的日常\n钱包就只是钱包而已，何时使用，怎么使用，使用多少，与你何干🤍\n它们只不过是拥有人类的躯壳，日夜不停工作存储金钱的人肉钱袋罢了，和等待蜜蜂采集的蜂蜜，成熟后摘下的可口果实并没有任何本质的区别🤍\n而本公主也只是顺理成章的使用它们，从钱包里拿走属于自己的金钱，仅此而已🤍 https://t.co/m9nU3mTIWF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1821,
+        "media_key": "3_1931476768185360385",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs374yOboAE0cEV.jpg",
+        "width": 1935
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1931476768185360385"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "1931476771381395783",
+        "created_at": "2025-06-07T22:22:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T23:22:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931476771381395783"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "魔女公主的日常"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/m9nU3mTIWF",
+              "end": 165,
+              "expanded_url": "https://x.com/xuemingjiai/status/1931476771381395783/photo/1",
+              "media_key": "3_1931476768185360385",
+              "start": 142,
+              "url": "https://t.co/m9nU3mTIWF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931476771381395783",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#魔女公主的日常\n钱包就只是钱包而已，何时使用，怎么使用，使用多少，与你何干🤍\n它们只不过是拥有人类的躯壳，日夜不停工作存储金钱的人肉钱袋罢了，和等待蜜蜂采集的蜂蜜，成熟后摘下的可口果实并没有任何本质的区别🤍\n而本公主也只是顺理成章的使用它们，从钱包里拿走属于自己的金钱，仅此而已🤍 https://t.co/m9nU3mTIWF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n你也会因为窥视我的美貌而心甘情愿沦为钱包被我使用的对吗？\n钱包报名入口：242184780\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 66,
+                "username": "oricz233"
+              },
+              {
+                "end": 95,
+                "start": 86,
+                "username": "moelipoi"
+              },
+              {
+                "end": 113,
+                "start": 102,
+                "username": "cutelingli"
+              },
+              {
+                "end": 135,
+                "start": 120,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 147,
+                "start": 140,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍瞄准钱包👛中",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931064828044713984/9qwnduVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7149,
+          "following_count": 297,
+          "like_count": 342,
+          "listed_count": 33,
+          "media_count": 657,
+          "tweet_count": 1952
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

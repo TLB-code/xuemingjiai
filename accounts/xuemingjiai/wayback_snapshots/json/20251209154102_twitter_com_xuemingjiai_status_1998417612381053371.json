@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1998417612381053371",
+    "created_at": "2025-12-09T15:41:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T16:41:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998417612381053371"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "3303126949",
+          "start": 3,
+          "username": "atiur2016"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998417612381053371",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998276662715363411",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @atiur2016: 比起一瞬间就结束的自慰...\n上交自己的射精权～在主人脚下悲惨的祈求射精许可♡\n在一次次的寸止命令中发情～精液变得浓稠♡被支配的快感逐渐占据大脑...\n被羞辱..被嘲笑..被鄙视..被控制～\n最彻底缴械投降～成为主人脚下的奴隶♡\n光是想想就会兴奋到…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1998417612381053371].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1998417612381053371",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1998417612381053371"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1998276658298798080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7tOCIzawAAFFpD.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998276658298798080"
+          ]
+        },
+        "author_id": "3303126949",
+        "conversation_id": "1998276662715363411",
+        "created_at": "2025-12-09T06:20:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T07:20:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998276662715363411"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HCR43xO61b",
+              "end": 155,
+              "expanded_url": "https://x.com/atiur2016/status/1998276662715363411/photo/1",
+              "media_key": "3_1998276658298798080",
+              "start": 132,
+              "url": "https://t.co/HCR43xO61b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998276662715363411",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 76,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "比起一瞬间就结束的自慰...\n上交自己的射精权～在主人脚下悲惨的祈求射精许可♡\n在一次次的寸止命令中发情～精液变得浓稠♡被支配的快感逐渐占据大脑...\n被羞辱..被嘲笑..被鄙视..被控制～\n最彻底缴械投降～成为主人脚下的奴隶♡\n光是想想就会兴奋到不行吧～蠢狗🖤 https://t.co/HCR43xO61b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n最最最最喜欢钱包们啦!\n天天挨骂真的不会腻嘛～\n擅长用爱意和温柔的语气俘虏钱包～\n联系方式→2829556413←\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 78,
+                "username": "oricz233"
+              },
+              {
+                "end": 107,
+                "start": 98,
+                "username": "moelipoi"
+              },
+              {
+                "end": 125,
+                "start": 114,
+                "username": "cutelingli"
+              },
+              {
+                "end": 147,
+                "start": 132,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 159,
+                "start": 152,
+                "username": "1xian1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍对钱包们最温柔最有好感版",
+        "pinned_tweet_id": "1976743806063063398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991861278688821248/oCQEPeIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8026,
+          "following_count": 337,
+          "like_count": 643,
+          "listed_count": 37,
+          "media_count": 762,
+          "tweet_count": 2364
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2015-08-01T06:07:19.000Z",
+        "description": "是重新复活的新人文援哦 \n设定是以玩弄他人的快感和钱包为食的s系吸血鬼（雌堕中） \n擅长压榨/寸止/胁迫/射精管理/恋足/剧情向\n如果您也想被我吸干 就请踏入陷阱吧🖤\n 🚪:3361785498  60/1h\n营业时间晚上10点-凌晨1点",
+        "id": "3303126949",
+        "location": "布置陷阱中～",
+        "name": "依云～新人文媛营业中",
+        "pinned_tweet_id": "1980204487504769179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980200281682882561/NwB1MgUd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 11,
+          "like_count": 299,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 22
+        },
+        "username": "atiur2016",
+        "verified": false
+      }
+    ]
+  }
+}

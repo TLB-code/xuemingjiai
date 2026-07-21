@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1897994645071970639",
+    "created_at": "2025-03-07T12:56:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-07T13:56:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897994645071970639"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1316096588381515781",
+          "start": 3,
+          "username": "nianshancha"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897994645071970639",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1894830194424455242",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nianshancha: 所谓 XP ～\n往往是 青春期性欲 因为“无法发泄”\n而产生的一种 “移情” 哦w\n\n随着 刺激阈值的 不断提高～\n完全～会有变得【糟糕】的可能哦ww\n要是最后变得【没救】了\n作为女友的小山茶\n可是会～很伤脑筋的☆\n\n所以小山茶决定——\n开始…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1897994645071970639].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1897994645071970639",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1897994645071970639"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1894830185863897088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkvKA8oa4AAKegc.jpg",
+        "width": 1412
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1894830185863897088"
+          ]
+        },
+        "author_id": "1316096588381515781",
+        "conversation_id": "1894830194424455242",
+        "created_at": "2025-02-26T19:21:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-26T20:21:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1894830194424455242"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 134,
+              "start": 126,
+              "tag": "山茶のXP治疗"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/k62GuIAgZG",
+              "end": 187,
+              "expanded_url": "https://x.com/nianshancha/status/1894830194424455242/photo/1",
+              "media_key": "3_1894830185863897088",
+              "start": 164,
+              "url": "https://t.co/k62GuIAgZG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894830194424455242",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4468,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "所谓 XP ～\n往往是 青春期性欲 因为“无法发泄”\n而产生的一种 “移情” 哦w\n\n随着 刺激阈值的 不断提高～\n完全～会有变得【糟糕】的可能哦ww\n要是最后变得【没救】了\n作为女友的小山茶\n可是会～很伤脑筋的☆\n\n所以小山茶决定——\n开始 试营业 #山茶のXP治疗 项目♡\n\n欢迎各位『试验品』客人\n\n前 来 试 吃 ❤️ https://t.co/k62GuIAgZG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "您好～这里是出道以来一直致力于为小雏男哥哥们提供“舒适”“安全”“极致射金体验”的纯真妹系小天使魔女妹妹💚\n想了解我请翻看我的推文～\nqq2829556413，碎碎念小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 85,
+                "username": "oricz233"
+              },
+              {
+                "end": 114,
+                "start": 105,
+                "username": "moelipoi"
+              },
+              {
+                "end": 132,
+                "start": 121,
+                "username": "cutelingli"
+              },
+              {
+                "end": 154,
+                "start": 139,
+                "username": "chessy80978858"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系天使偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897994610389180416/-gYTgIu-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6474,
+          "following_count": 261,
+          "like_count": 295,
+          "listed_count": 29,
+          "media_count": 543,
+          "tweet_count": 1518
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-13T19:20:59.000Z",
+        "description": "这里是山茶哦～知道嘛知道嘛 山茶的花语是“理想的爱♡”哦 渴望名为“喜欢”的药的话就来向咱示爱 随后溺死在咱的甜言中吧～ 门槛20/30/60 没有区别的…也许？ 🚪3396356798  敲门前请先看置顶了解我哦❤️",
+        "id": "1316096588381515781",
+        "location": "映你眼眸的深处",
+        "name": "小山茶",
+        "pinned_tweet_id": "1867920156279890406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865023421559771136/Nk7qzNwn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1318,
+          "following_count": 9,
+          "like_count": 2,
+          "listed_count": 5,
+          "media_count": 24,
+          "tweet_count": 25
+        },
+        "username": "nianshancha",
+        "verified": false
+      }
+    ]
+  }
+}

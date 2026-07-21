@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1926025227617677626",
+    "created_at": "2025-05-23T21:19:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-23T22:19:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926025227617677626"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1752181716028936192",
+          "start": 3,
+          "username": "geye_zm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926025227617677626",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925454761157083159",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @geye_zm: 大家知道［袜子］吗\n［袜子］是每个人都所需要的一种东西\n但是［袜子］其实很辛苦的呢～❤️\n需要每天吸收主人的足臭、足汗❤️\n虽然说［清洗］什么的也很方便❤️\n但是［袜子］在清洗了很多次之后会逐渐老化——也就是变硬❤️\n［袜子］变硬之后原本作为袜子的功能…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1925454748737839104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GriW5HmboAA-OQa.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "1926025227617677626",
+        "created_at": "2025-05-23T21:19:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-23T22:19:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926025227617677626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1752181716028936192",
+              "start": 3,
+              "username": "geye_zm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926025227617677626",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925454761157083159",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @geye_zm: 大家知道［袜子］吗\n［袜子］是每个人都所需要的一种东西\n但是［袜子］其实很辛苦的呢～❤️\n需要每天吸收主人的足臭、足汗❤️\n虽然说［清洗］什么的也很方便❤️\n但是［袜子］在清洗了很多次之后会逐渐老化——也就是变硬❤️\n［袜子］变硬之后原本作为袜子的功能…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1925454748737839104"
+          ]
+        },
+        "author_id": "1752181716028936192",
+        "conversation_id": "1925454761157083159",
+        "created_at": "2025-05-22T07:32:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T08:32:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925454761157083159"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4sLG1H3Zss",
+              "end": 172,
+              "expanded_url": "https://x.com/geye_zm/status/1925454761157083159/photo/1",
+              "media_key": "3_1925454748737839104",
+              "start": 149,
+              "url": "https://t.co/4sLG1H3Zss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925454761157083159",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 6562,
+          "like_count": 83,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "大家知道［袜子］吗\n［袜子］是每个人都所需要的一种东西\n但是［袜子］其实很辛苦的呢～❤️\n需要每天吸收主人的足臭、足汗❤️\n虽然说［清洗］什么的也很方便❤️\n但是［袜子］在清洗了很多次之后会逐渐老化——也就是变硬❤️\n［袜子］变硬之后原本作为袜子的功能性会大打折扣，所以需要定期更换［袜子］哦❤️ https://t.co/4sLG1H3Zss"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "集美貌，智慧，强大于一身的魔女族公主现身人世～区区人类，跪下向我表示臣服吧💜\n被我支配 控制 吸脑 成为奴仆💜\n挑战qq242184780，里世界小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858\n女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "oricz233"
+              },
+              {
+                "end": 104,
+                "start": 95,
+                "username": "moelipoi"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "cutelingli"
+              },
+              {
+                "end": 144,
+                "start": 129,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 155,
+                "start": 148,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏💜强势登场人间",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923161284247420929/dv1s2unV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7000,
+          "following_count": 289,
+          "like_count": 320,
+          "listed_count": 32,
+          "media_count": 618,
+          "tweet_count": 1837
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-30T04:07:37.000Z",
+        "description": "这里是葛叶真明，游戏创作者，创作各类文游，内容涵盖寸止，窒息，辱骂等虽然写的内容都是s的但其实自己是m，欢迎各位同行扩列互推～\n买游戏找客服:@Medicyli",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 71,
+                "username": "Medicyli"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+Zqurf7RUye42M…",
+                "end": 23,
+                "expanded_url": "https://t.me/+Zqurf7RUye42MzM1",
+                "start": 0,
+                "url": "https://t.co/MW0XxdoPce"
+              }
+            ]
+          }
+        },
+        "id": "1752181716028936192",
+        "location": "游戏作者",
+        "name": "葛叶真明",
+        "pinned_tweet_id": "1918988939119177751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919451956390854656/mLuuHJAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7947,
+          "following_count": 130,
+          "like_count": 66,
+          "listed_count": 16,
+          "media_count": 53,
+          "tweet_count": 637
+        },
+        "url": "https://t.co/MW0XxdoPce",
+        "username": "geye_zm",
+        "verified": false
+      }
+    ]
+  }
+}

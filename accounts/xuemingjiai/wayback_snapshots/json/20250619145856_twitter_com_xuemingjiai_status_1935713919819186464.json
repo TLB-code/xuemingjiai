@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1935713919819186464",
+    "created_at": "2025-06-19T14:58:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-19T15:58:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935713919819186464"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1682001685215055873",
+          "start": 3,
+          "username": "QingMian0819"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935713919819186464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935702868021162331",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @QingMian0819: 晚上好呀老师，又忍不住想要送死了吗\n\n明明是受人尊敬的老师，但在眠眠这里却更像一条对着自己的学生发情，亲手贡出贞操锁钥匙的『锁畜贡狗』\n\n被当做钱包榨取，被当做傻逼暴耍，被贞操锁阻断射精，被榨金毁掉大脑\n\n只要看到眠眠，就会想到被恶劣欺负的快…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1935713919819186464].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1935713919819186464",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1935713919819186464"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1271,
+        "media_key": "3_1935702865160339458",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gtz_gASWgAIQnF-.jpg",
+        "width": 1018
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935702865160339458"
+          ]
+        },
+        "author_id": "1682001685215055873",
+        "conversation_id": "1935702868021162331",
+        "created_at": "2025-06-19T14:15:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T15:15:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935702868021162331"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 139,
+              "start": 136,
+              "tag": "文援"
+            },
+            {
+              "end": 143,
+              "start": 140,
+              "tag": "压榨"
+            },
+            {
+              "end": 147,
+              "start": 144,
+              "tag": "贡奴"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vUGAgsoZuA",
+              "end": 171,
+              "expanded_url": "https://x.com/QingMian0819/status/1935702868021162331/photo/1",
+              "media_key": "3_1935702865160339458",
+              "start": 148,
+              "url": "https://t.co/vUGAgsoZuA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935702868021162331",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 156,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "晚上好呀老师，又忍不住想要送死了吗\n\n明明是受人尊敬的老师，但在眠眠这里却更像一条对着自己的学生发情，亲手贡出贞操锁钥匙的『锁畜贡狗』\n\n被当做钱包榨取，被当做傻逼暴耍，被贞操锁阻断射精，被榨金毁掉大脑\n\n只要看到眠眠，就会想到被恶劣欺负的快感不停想要送死\n\n『清空🖤』\n#文援 #压榨 #贡奴 https://t.co/vUGAgsoZuA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n你也会因为窥视我的美貌而心甘情愿沦为钱包被我使用的对吗？\n钱包报名入口：3971546171\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 67,
+                "username": "oricz233"
+              },
+              {
+                "end": 96,
+                "start": 87,
+                "username": "moelipoi"
+              },
+              {
+                "end": 114,
+                "start": 103,
+                "username": "cutelingli"
+              },
+              {
+                "end": 136,
+                "start": 121,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 148,
+                "start": 141,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍驯化公用钱包👛中",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931064828044713984/9qwnduVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7253,
+          "following_count": 310,
+          "like_count": 371,
+          "listed_count": 32,
+          "media_count": 692,
+          "tweet_count": 2110
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-20T12:17:19.000Z",
+        "description": "这里是清眠 新人恶役findom 只是在盯紧钱包想要把您榨干的纯真恶女 门牌号：3815883063  原号@Mian_SexLove 原号主@wan_kylea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 54,
+                "username": "Mian_SexLove"
+              },
+              {
+                "end": 81,
+                "start": 71,
+                "username": "wan_kylea"
+              }
+            ]
+          }
+        },
+        "id": "1682001685215055873",
+        "location": "你的梦里♡",
+        "name": "清眠sama",
+        "pinned_tweet_id": "1934659329887752401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932278091138940928/zN_Z_FlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1958,
+          "following_count": 103,
+          "like_count": 237,
+          "listed_count": 5,
+          "media_count": 141,
+          "tweet_count": 520
+        },
+        "username": "QingMian0819",
+        "verified": false
+      }
+    ]
+  }
+}

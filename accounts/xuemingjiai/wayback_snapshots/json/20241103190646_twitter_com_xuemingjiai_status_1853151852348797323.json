@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "1853151851329536000"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "1851563784554627239",
+    "created_at": "2024-11-03T19:06:46.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-03T20:06:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1853151852348797323"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1853151852348797323",
+    "in_reply_to_user_id": "1374389254726455305",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1853150944588116381",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "帮助小男娘做出选择～\n本次投票时间为两天～（周一休息一天!）\n按照投票最多的选择正式进入魔物塔!\n同时～本投票推文每有一次投票和一次点赞，就会让小男娘的债务增加1枚金币～没错ww，是债务增加哦💜💜💜\n也欢迎各位冒险家们添加魔女小姐简介qq，提供意见，帮助，还有最重要的赞助💜"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 2880,
+        "end_datetime": "2024-11-05T19:06:45.000Z",
+        "id": "1853151851329536000",
+        "options": [
+          {
+            "label": "前往第一层!区区史莱姆哥布林!",
+            "position": 1,
+            "votes": 0
+          },
+          {
+            "label": "前往第二层!我要挑战高难度!",
+            "position": 2,
+            "votes": 0
+          },
+          {
+            "label": "前往第三层!拯救天使刻不容缓!",
+            "position": 3,
+            "votes": 0
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1853151851329536000"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "1851563784554627239",
+        "created_at": "2024-11-03T19:06:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-03T20:06:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1853151852348797323"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1853151852348797323",
+        "in_reply_to_user_id": "1374389254726455305",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1853150944588116381",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "帮助小男娘做出选择～\n本次投票时间为两天～（周一休息一天!）\n按照投票最多的选择正式进入魔物塔!\n同时～本投票推文每有一次投票和一次点赞，就会让小男娘的债务增加1枚金币～没错ww，是债务增加哦💜💜💜\n也欢迎各位冒险家们添加魔女小姐简介qq，提供意见，帮助，还有最重要的赞助💜"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1853150941698248704"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1851563784554627239",
+        "created_at": "2024-11-03T19:03:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-03T20:03:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1853150944588116381"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ft5X3b1Lh4",
+              "end": 134,
+              "expanded_url": "https://x.com/xuemingjiai/status/1853150944588116381/photo/1",
+              "media_key": "3_1853150941698248704",
+              "start": 111,
+              "url": "https://t.co/ft5X3b1Lh4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853150944588116381",
+        "in_reply_to_user_id": "1374389254726455305",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1853150541557411937",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "啊啊啊啊...\n到底该怎么选择呢？好纠结...\n不过这个劣质的小型传送器也太不舒服了吧...只能把身体蜷缩成这样了...\n那...我接下来要去的地方到底应该是哪一层呢？\n请屏幕面前的各位冒险家们帮我做出选择吧...♡♡♡ https://t.co/ft5X3b1Lh4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "超绝可爱💖\n她就是出道即巅峰的可爱纯真小天使新人偶像魔女小姐💖\n对这样的魔女小姐不能心怀任何涩涩的念想哦，不然就会变得非常糟糕...踏入无法挣脱的陷阱和牢笼里呢💘\n魔女小姐无论说什么做什么都是正确的哦，身为她的粉丝，只需要无条件用各种方式支持她就好了～\nqq2829556413",
+        "id": "1374389254726455305",
+        "name": "电波系新人偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852908791496683520/hJ-EmF1L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5772,
+          "following_count": 224,
+          "like_count": 182,
+          "listed_count": 23,
+          "tweet_count": 1275
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

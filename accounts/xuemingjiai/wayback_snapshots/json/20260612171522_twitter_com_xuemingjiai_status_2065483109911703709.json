@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "2065483109911703709",
+    "created_at": "2026-06-12T17:15:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T18:15:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065483109911703709"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1716073328220479489",
+          "start": 3,
+          "username": "zeiaiou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065483109911703709",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065014953850110256",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zeiaiou: 哥哥姐姐来和小浅做一个游戏吧w\n已知小浅刚刚支付了一笔出行的账单——人家自己掏钱真的很心疼嘛\n于是小浅想出来了如下的游戏w\n1.任何参与者可以通过赞赏码或者加好友私信的方式(后者依然需要提供朋友费...)向小浅支付任意金额的小钱钱~哪怕是一块钱也可以~…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065014951333531648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKhoKEYbEAALCLK.jpg",
+        "width": 1188
+      },
+      {
+        "height": 962,
+        "media_key": "3_2065000612211941376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKhbHa_bYAAZ4M3.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1382,
+        "media_key": "3_2065000613050724352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKhbHeHaMAAt2HJ.jpg",
+        "width": 1382
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "2065483109911703709",
+        "created_at": "2026-06-12T17:15:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T18:15:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065483109911703709"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1716073328220479489",
+              "start": 3,
+              "username": "zeiaiou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065483109911703709",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065014953850110256",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zeiaiou: 哥哥姐姐来和小浅做一个游戏吧w\n已知小浅刚刚支付了一笔出行的账单——人家自己掏钱真的很心疼嘛\n于是小浅想出来了如下的游戏w\n1.任何参与者可以通过赞赏码或者加好友私信的方式(后者依然需要提供朋友费...)向小浅支付任意金额的小钱钱~哪怕是一块钱也可以~…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065014951333531648",
+            "3_2065000612211941376",
+            "3_2065000613050724352"
+          ]
+        },
+        "author_id": "1716073328220479489",
+        "conversation_id": "2065014953850110256",
+        "created_at": "2026-06-11T10:15:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T10:18:07.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065000616548880711",
+          "2065014953850110256"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9MvKmkuJNA",
+              "end": 151,
+              "expanded_url": "https://x.com/zeiaiou/status/2065014953850110256/photo/1",
+              "media_key": "3_2065014951333531648",
+              "start": 128,
+              "url": "https://t.co/9MvKmkuJNA"
+            },
+            {
+              "display_url": "pic.x.com/9MvKmkuJNA",
+              "end": 151,
+              "expanded_url": "https://x.com/zeiaiou/status/2065014953850110256/photo/1",
+              "media_key": "3_2065000612211941376",
+              "start": 128,
+              "url": "https://t.co/9MvKmkuJNA"
+            },
+            {
+              "display_url": "pic.x.com/9MvKmkuJNA",
+              "end": 151,
+              "expanded_url": "https://x.com/zeiaiou/status/2065014953850110256/photo/1",
+              "media_key": "3_2065000613050724352",
+              "start": 128,
+              "url": "https://t.co/9MvKmkuJNA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065014953850110256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 463,
+                "start": 460,
+                "tag": "上贡"
+              },
+              {
+                "end": 467,
+                "start": 464,
+                "tag": "贡奴"
+              },
+              {
+                "end": 471,
+                "start": 468,
+                "tag": "白给"
+              },
+              {
+                "end": 477,
+                "start": 472,
+                "tag": "atm奴"
+              },
+              {
+                "end": 485,
+                "start": 478,
+                "tag": "findom"
+              },
+              {
+                "end": 491,
+                "start": 486,
+                "tag": "上贡游戏"
+              },
+              {
+                "end": 495,
+                "start": 492,
+                "tag": "压榨"
+              }
+            ]
+          },
+          "text": "哥哥姐姐来和小浅做一个游戏吧w\n已知小浅刚刚支付了一笔出行的账单——人家自己掏钱真的很心疼嘛\n于是小浅想出来了如下的游戏w\n1.任何参与者可以通过赞赏码或者加好友私信的方式(后者依然需要提供朋友费...)向小浅支付任意金额的小钱钱~哪怕是一块钱也可以~w\n2.所有人的所有的金额将会累加，但是如果此时金额没有超过账单，你什么也不会得到，只能作为小浅的垫脚石去为了人家的开心生活添砖加瓦...\n3.如果你的报销金额，哪怕是只有5块钱~但是和其他人累加刚好超过了账单，你就会获得账单十分之一的金钱作为奖励哦~当然啦...你也可以选择不要这笔奖励...而是双倍支付小浅的账单...🖤应该没有人会那么傻逼吧...🖤\n4.为了让游戏更有意思...各位可以在评论区留下任何的评论...包括自己已经支付了多少钱~运用假消息和各种策略去让自己获得最后的胜利~🖤也可以转发让更多的人付钱去成为你的耗材~这样你就能更轻松的获胜了不是吗~🖤\n5.本游戏的解释权归小浅所有~仅供娱乐，游戏永不结束...新的胜利者出现后会金额清空进行新的轮回~\n#上贡 #贡奴 #白给 #atm奴 #findom #上贡游戏 #压榨"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3060,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "哥哥姐姐来和小浅做一个游戏吧w\n已知小浅刚刚支付了一笔出行的账单——人家自己掏钱真的很心疼嘛\n于是小浅想出来了如下的游戏w\n1.任何参与者可以通过赞赏码或者加好友私信的方式(后者依然需要提供朋友费...)向小浅支付任意金额的小钱钱~哪怕是一块钱也可以~w https://t.co/9MvKmkuJNA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "你也觉得你面前的这只魔女可爱过头了吧？\n对的!她和别人不一样!\n邂逅方式→2829556413←\n超涩气小号@oricz233\n现任魔女学园院长\n星辰魔女镜璃\n@jingli1840489\n桃心魔女奈奈\n@blakexiaonai\n 黑白魔女花卷\n@miaomiaomyoez2\n好老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 54,
+                "username": "oricz233"
+              },
+              {
+                "end": 94,
+                "start": 80,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 115,
+                "start": 102,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 139,
+                "start": 124,
+                "username": "miaomiaomyoez2"
+              },
+              {
+                "end": 158,
+                "start": 143,
+                "username": "chessy80978858"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "超可爱超绿茶超撩人的精灵魔女-奏奏💚",
+        "pinned_tweet_id": "2013314916120416537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064079945459171328/WbF0iOyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8880,
+          "following_count": 371,
+          "like_count": 637,
+          "listed_count": 36,
+          "media_count": 830,
+          "tweet_count": 2214
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-22T12:45:50.000Z",
+        "description": "上贡和戒贡咨询，年下系，喜欢可爱的事物，有朋友费25元!\n有帮助戒贡的业务，话疗劝解，时间较长因此收取一定的辛苦费，也可以长时间监督你戒贡\n奴下奴和报销奴招募中，麻烦有这种爱好的哥哥姐姐给小浅送死呀\nS不要加我不要提款我会直接拉黑!是男孩子哦\nqq:3675490276\n请认真回答好友申请说明来意，拒绝任何恶意申请",
+        "id": "1716073328220479489",
+        "name": "小浅",
+        "pinned_tweet_id": "2057380012874174894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906245770661289984/L4T6_DA3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3294,
+          "following_count": 279,
+          "like_count": 2463,
+          "listed_count": 8,
+          "media_count": 124,
+          "tweet_count": 697
+        },
+        "username": "zeiaiou",
+        "verified": true
+      }
+    ]
+  }
+}

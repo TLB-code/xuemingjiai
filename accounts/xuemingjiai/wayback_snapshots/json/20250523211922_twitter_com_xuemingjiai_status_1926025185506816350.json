@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1926025185506816350",
+    "created_at": "2025-05-23T21:19:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-23T22:19:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926025185506816350"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1921832227996119040",
+          "start": 3,
+          "username": "shiling7651"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926025185506816350",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925176002856223185",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shiling7651: 嗯嗯...？哥哥叫独角兽过来就是为了这种事吗~？噫...真变态呢...铃铃还以为~哥哥会做一些奇怪的事情...结果~光是脚就可以了吗~？\n那...就光把脚丫露出来就可以了吧~？哥哥♡光是独角兽的脚丫~就已经够了吧~？那~来...趴下~当独角兽的…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1926025185506816350].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1926025185506816350",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1926025185506816350"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1925175998624256000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GreZXugbUAAmgLR.jpg",
+        "width": 1314
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1925175998624256000"
+          ]
+        },
+        "author_id": "1921832227996119040",
+        "conversation_id": "1925176002856223185",
+        "created_at": "2025-05-21T13:05:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T14:05:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925176002856223185"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 132,
+              "start": 129,
+              "tag": "文媛"
+            },
+            {
+              "end": 136,
+              "start": 133,
+              "tag": "足控"
+            },
+            {
+              "end": 140,
+              "start": 137,
+              "tag": "白丝"
+            },
+            {
+              "end": 144,
+              "start": 141,
+              "tag": "萝莉"
+            },
+            {
+              "end": 149,
+              "start": 145,
+              "tag": "马赛克"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KfimSFzIac",
+              "end": 173,
+              "expanded_url": "https://x.com/shiling7651/status/1925176002856223185/photo/1",
+              "media_key": "3_1925175998624256000",
+              "start": 150,
+              "url": "https://t.co/KfimSFzIac"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925176002856223185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2453,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "嗯嗯...？哥哥叫独角兽过来就是为了这种事吗~？噫...真变态呢...铃铃还以为~哥哥会做一些奇怪的事情...结果~光是脚就可以了吗~？\n那...就光把脚丫露出来就可以了吧~？哥哥♡光是独角兽的脚丫~就已经够了吧~？那~来...趴下~当独角兽的乖狗狗吧~？\n#文媛 #足控 #白丝 #萝莉 #马赛克 https://t.co/KfimSFzIac"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "集美貌，智慧，强大于一身的魔女族公主现身人世～区区人类，跪下向我表示臣服吧💜\n被我支配 控制 吸脑 成为奴仆💜\n挑战qq242184780，里世界小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858\n女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "oricz233"
+              },
+              {
+                "end": 104,
+                "start": 95,
+                "username": "moelipoi"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "cutelingli"
+              },
+              {
+                "end": 144,
+                "start": 129,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 155,
+                "start": 148,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏💜强势登场人间",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923161284247420929/dv1s2unV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7000,
+          "following_count": 289,
+          "like_count": 320,
+          "listed_count": 32,
+          "media_count": 618,
+          "tweet_count": 1836
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-12T07:38:15.000Z",
+        "description": "这里是新人文媛姬诗铃~是喜欢欺负可爱的小男生♡也会好好侍奉雄性的萝莉魅魔哟~♡毕竟~这是魅魔的~进食环节♡呢~欢迎客人来访~那么~也还请客人做好被人家榨干当做魅魔食粮的准备呐♡门牌:3800716151备用:3919302576",
+        "id": "1921832227996119040",
+        "name": "诗铃♡文援(欢迎互推~)",
+        "pinned_tweet_id": "1921983886793359465",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921832879211868160/7vVBIpnT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 79,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 87
+        },
+        "username": "shiling7651",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1931051738292978037",
+    "created_at": "2025-06-06T18:13:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-06T19:13:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931051738292978037"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1702305176701341696",
+          "start": 3,
+          "username": "xiyan123466"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931051738292978037",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930902442889126014",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiyan123466: 如果是你这样的贱狗～应该知道怎么才能让主人满意吧!\n啧～居然舔主人走了一天的白丝脚～没想到你还真能做到这种地步呢～真是个下贱的公狗～只是迫不及待露出来的早泄小鸡巴好杂鱼～这么快就兴奋的流出来了！那么喜欢被主人竖着中指一脸嫌弃鄙夷的盯射吗？\n#文…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1931051738292978037].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1931051738292978037",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1931051738292978037"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1930900818146066432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsvwEFIbgAAb8z8.jpg",
+        "width": 934
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930900818146066432"
+          ]
+        },
+        "author_id": "1702305176701341696",
+        "conversation_id": "1930902442889126014",
+        "created_at": "2025-06-06T08:19:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-06T09:19:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930902442889126014"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 124,
+              "start": 120,
+              "tag": "文援姬"
+            },
+            {
+              "end": 128,
+              "start": 125,
+              "tag": "调教"
+            },
+            {
+              "end": 132,
+              "start": 129,
+              "tag": "羞辱"
+            },
+            {
+              "end": 136,
+              "start": 133,
+              "tag": "寸止"
+            },
+            {
+              "end": 140,
+              "start": 137,
+              "tag": "足交"
+            },
+            {
+              "end": 144,
+              "start": 141,
+              "tag": "压榨"
+            },
+            {
+              "end": 148,
+              "start": 145,
+              "tag": "绿帽"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/s4t7o03GzO",
+              "end": 172,
+              "expanded_url": "https://x.com/xiyan123466/status/1930902442889126014/photo/1",
+              "media_key": "3_1930900818146066432",
+              "start": 149,
+              "url": "https://t.co/s4t7o03GzO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930902442889126014",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 1339,
+          "like_count": 55,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "如果是你这样的贱狗～应该知道怎么才能让主人满意吧!\n啧～居然舔主人走了一天的白丝脚～没想到你还真能做到这种地步呢～真是个下贱的公狗～只是迫不及待露出来的早泄小鸡巴好杂鱼～这么快就兴奋的流出来了！那么喜欢被主人竖着中指一脸嫌弃鄙夷的盯射吗？\n#文援姬 #调教 #羞辱 #寸止 #足交 #压榨 #绿帽 https://t.co/s4t7o03GzO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "集美貌，智慧，强大于一身的魔女族公主现身人世～区区人类，跪下向我表示臣服吧💜\n被我支配 控制 吸脑 成为奴仆💜\n挑战qq2829556413，里世界小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858\n女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 76,
+                "username": "oricz233"
+              },
+              {
+                "end": 105,
+                "start": 96,
+                "username": "moelipoi"
+              },
+              {
+                "end": 123,
+                "start": 112,
+                "username": "cutelingli"
+              },
+              {
+                "end": 145,
+                "start": 130,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 156,
+                "start": 149,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏💜散播同化病毒中～",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926028406774247424/hWplRg7q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7133,
+          "following_count": 297,
+          "like_count": 340,
+          "listed_count": 33,
+          "media_count": 650,
+          "tweet_count": 1933
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-14T12:57:28.000Z",
+        "description": "这里是腹黑傲娇的涩情大小姐～入圈四年多～擅长各种文援和剧情 调教 羞辱 胁迫 绿茶 寸止 剧情 绿帽 媚黑 压榨 胁迫 等等女s玩法都可以♥媚黑只是云玩!现实没接触过哈🖤\n接文字 文图 收奴 闲聊 树洞欢迎加QQ咨询下单\n基本上全天都在加Q都会秒回复的♥\n下面有tg在那边玩也先找QQ\n接单QQ 3140617087",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xixiyan123456",
+                "end": 23,
+                "expanded_url": "http://t.me/xixiyan123456",
+                "start": 0,
+                "url": "https://t.co/DNJLMhF9XQ"
+              }
+            ]
+          }
+        },
+        "id": "1702305176701341696",
+        "location": "想tg玩的  记得先加QQ找我",
+        "name": "夕颜香香",
+        "pinned_tweet_id": "1875472376638665051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917955734232571904/gDn0kvCo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7940,
+          "following_count": 128,
+          "like_count": 480,
+          "listed_count": 37,
+          "media_count": 474,
+          "tweet_count": 5706
+        },
+        "url": "https://t.co/DNJLMhF9XQ",
+        "username": "xiyan123466",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1953903843739070533",
+    "created_at": "2025-08-08T19:39:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-08T20:39:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953903843739070533"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1374389254726455305",
+          "start": 3,
+          "username": "xuemingjiai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953903843739070533",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 29
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952843112843260275",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xuemingjiai: ⚠️极端警告⚠️\n屏幕面前的钱包们，你们会爱上被本公主反复“杀死”的感觉\n本公主会利用色欲加上死亡的双重刺激，让钱包们感受到前所未有的快感。\n你会变得无比卑微，不管你现实的身份是什么，在本公主眼里都是一头待宰的钱包而已\n本公主希望看到你们因为一…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1953903843739070533].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1953903843739070533",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1953903843739070533"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1952843091066425344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxnkcdkXEAAWUF3.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1952843101212483584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxnkdDXXoAABigE.jpg",
+        "width": 1024
+      },
+      {
+        "height": 2055,
+        "media_key": "3_1952843108414017537",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxnkdeMWUAEfMYb.jpg",
+        "width": 1156
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952843091066425344",
+            "3_1952843101212483584",
+            "3_1952843108414017537"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "1952843112843260275",
+        "created_at": "2025-08-05T21:24:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T22:24:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952843112843260275"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nUp3oklYj4",
+              "end": 167,
+              "expanded_url": "https://x.com/xuemingjiai/status/1952843112843260275/photo/1",
+              "media_key": "3_1952843091066425344",
+              "start": 144,
+              "url": "https://t.co/nUp3oklYj4"
+            },
+            {
+              "display_url": "pic.x.com/nUp3oklYj4",
+              "end": 167,
+              "expanded_url": "https://x.com/xuemingjiai/status/1952843112843260275/photo/1",
+              "media_key": "3_1952843101212483584",
+              "start": 144,
+              "url": "https://t.co/nUp3oklYj4"
+            },
+            {
+              "display_url": "pic.x.com/nUp3oklYj4",
+              "end": 167,
+              "expanded_url": "https://x.com/xuemingjiai/status/1952843112843260275/photo/1",
+              "media_key": "3_1952843108414017537",
+              "start": 144,
+              "url": "https://t.co/nUp3oklYj4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952843112843260275",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 9210,
+          "like_count": 105,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "⚠️极端警告⚠️\n屏幕面前的钱包们，你们会爱上被本公主反复“杀死”的感觉\n本公主会利用色欲加上死亡的双重刺激，让钱包们感受到前所未有的快感。\n你会变得无比卑微，不管你现实的身份是什么，在本公主眼里都是一头待宰的钱包而已\n本公主希望看到你们因为一时发情冲动来让自己染上不可逆转的恶劣性癖🤍 https://t.co/nUp3oklYj4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n我是一名钱包刽子手。\n如果你也想被我杀死的话→\n3971546171←报名热线\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 60,
+                "username": "oricz233"
+              },
+              {
+                "end": 89,
+                "start": 80,
+                "username": "moelipoi"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "cutelingli"
+              },
+              {
+                "end": 129,
+                "start": 114,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 141,
+                "start": 134,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍处刑钱包的子弹已上膛",
+        "pinned_tweet_id": "1945511067926536238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952517800502652928/-lp8k7Gh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7843,
+          "following_count": 330,
+          "like_count": 605,
+          "listed_count": 33,
+          "media_count": 719,
+          "tweet_count": 2210
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

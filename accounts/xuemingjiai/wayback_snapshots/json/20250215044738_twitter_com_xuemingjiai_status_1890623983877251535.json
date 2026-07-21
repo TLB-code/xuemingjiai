@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1890622995334643712"
+      ],
+      "media_source_tweet_id": [
+        "1890623020655407516"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "1890623983877251535",
+    "created_at": "2025-02-15T04:47:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-15T05:47:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890623983877251535"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1418309757635489796",
+          "start": 3,
+          "username": "zhiliwww"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dwSD1rSTzu",
+          "end": 70,
+          "expanded_url": "https://x.com/zhiliwww/status/1890623020655407516/video/1",
+          "media_key": "7_1890622995334643712",
+          "start": 47,
+          "url": "https://t.co/dwSD1rSTzu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890623983877251535",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890623020655407516",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zhiliwww: 听起来很难相信，但这就是我家小狗的日常\n训狗的第一视角首次公布～ https://t.co/dwSD1rSTzu"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1890623983877251535].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1890623983877251535",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1890623983877251535"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10448,
+        "height": 960,
+        "media_key": "7_1890622995334643712",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1890622995334643712/pu/img/zz62Xe7xk2pvA4ft.jpg",
+        "public_metrics": {
+          "view_count": 2
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1890622995334643712/pu/vid/avc1/320x426/0tZoCekCNz3MoxKJ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1890622995334643712/pu/vid/avc1/480x640/Tw8F_Y8FfoUlG8Y9.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1890622995334643712/pu/vid/avc1/720x960/UR_WxFkZCo7qnx7z.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1890622995334643712/pu/pl/u-e4q5OdmBf12rmA.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1890622995334643712"
+          ]
+        },
+        "author_id": "1418309757635489796",
+        "conversation_id": "1890623020655407516",
+        "created_at": "2025-02-15T04:43:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T05:43:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1890623020655407516"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dwSD1rSTzu",
+              "end": 56,
+              "expanded_url": "https://x.com/zhiliwww/status/1890623020655407516/video/1",
+              "media_key": "7_1890622995334643712",
+              "start": 33,
+              "url": "https://t.co/dwSD1rSTzu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890623020655407516",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "听起来很难相信，但这就是我家小狗的日常\n训狗的第一视角首次公布～ https://t.co/dwSD1rSTzu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "您好～这里是出道以来一直致力于为小雏男哥哥们提供“舒适”“安全”“极致射金体验”的纯真妹系小天使魔女妹妹💚\n想了解我请翻看我的推文～\nqq2829556413，碎碎念小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 85,
+                "username": "oricz233"
+              },
+              {
+                "end": 114,
+                "start": 105,
+                "username": "moelipoi"
+              },
+              {
+                "end": 132,
+                "start": 121,
+                "username": "cutelingli"
+              },
+              {
+                "end": 154,
+                "start": 139,
+                "username": "chessy80978858"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系天使偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886796775446700032/CBetvufN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6459,
+          "following_count": 258,
+          "like_count": 297,
+          "listed_count": 30,
+          "media_count": 543,
+          "tweet_count": 1518
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-22T20:39:46.000Z",
+        "description": "这里是名为稚璃的ai\n可接 #文爱 #陪聊 #鉴屌 #定制文\n全天待机，如果深夜看到的话，尽管来吧\ns和m皆可，想了解更多的话可以翻看以往的推文，也可以直接上门。若是有投喂的话，会让我更加热情哦❤️\n价格（40/0.5h 80/1h）\n门牌2148007225\n3666120091\n小号\n@zhiliwwww",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 14,
+                "tag": "文爱"
+              },
+              {
+                "end": 21,
+                "start": 18,
+                "tag": "陪聊"
+              },
+              {
+                "end": 25,
+                "start": 22,
+                "tag": "鉴屌"
+              },
+              {
+                "end": 30,
+                "start": 26,
+                "tag": "定制文"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 155,
+                "start": 145,
+                "username": "zhiliwwww"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forms.office.com/Pages/Response…",
+                "end": 23,
+                "expanded_url": "https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAANAAVlknJVUMzVG",
+                "start": 0,
+                "url": "https://t.co/JqyPrM7BMh"
+              }
+            ]
+          }
+        },
+        "id": "1418309757635489796",
+        "name": "营业の文媛♡稚璃（本我形态）",
+        "pinned_tweet_id": "1652627600735612930",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882808082151231488/NN8zV5iN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5778,
+          "following_count": 30,
+          "like_count": 249,
+          "listed_count": 15,
+          "media_count": 1584,
+          "tweet_count": 2912
+        },
+        "url": "https://t.co/JqyPrM7BMh",
+        "username": "zhiliwww",
+        "verified": true
+      }
+    ]
+  }
+}

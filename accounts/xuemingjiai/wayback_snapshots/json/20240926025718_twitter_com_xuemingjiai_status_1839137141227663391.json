@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1839137141227663391",
+    "created_at": "2024-09-26T02:57:18.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-26T03:57:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1839137141227663391"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1530149864968888321",
+          "start": 3,
+          "username": "mengshenglu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1839137141227663391",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1839065807109931138",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mengshenglu: 深夜还在刷推的你，是失眠了吗w\n没关系哦，小鹿知道，人之所以会失眠，是因为对当天生活的不满足哦。\n所以～来找小鹿吧，帮你填补上白天内心的空虚，再顺便刻入一点容易让人上瘾的东西～\n骗你的啦，只有后半句是真的🖤 https://t.co/w3W7m…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1839137141227663391].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1839137141227663391",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1839137141227663391"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1839065797018198016"
+          ]
+        },
+        "author_id": "1530149864968888321",
+        "conversation_id": "1839065807109931138",
+        "created_at": "2024-09-25T22:13:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-25T23:13:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1839065807109931138"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/w3w7mubf9k",
+              "end": 127,
+              "expanded_url": "https://twitter.com/mengshenglu/status/1839065807109931138/photo/1",
+              "media_key": "3_1839065797018198016",
+              "start": 104,
+              "url": "https://t.co/w3W7mUbF9k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839065807109931138",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "深夜还在刷推的你，是失眠了吗w\n没关系哦，小鹿知道，人之所以会失眠，是因为对当天生活的不满足哦。\n所以～来找小鹿吧，帮你填补上白天内心的空虚，再顺便刻入一点容易让人上瘾的东西～\n骗你的啦，只有后半句是真的🖤 https://t.co/w3W7mUbF9k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "超绝可爱💖\n她就是出道即巅峰的可爱纯真小天使新人偶像魔女小姐💖\n对这样的魔女小姐不能心怀任何涩涩的念想哦，不然就会变得非常糟糕...踏入无法挣脱的陷阱和牢笼里呢💘\n魔女小姐无论说什么做什么都是正确的哦，身为她的粉丝，只需要无条件用各种方式支持她就好了～\nqq2829556413",
+        "id": "1374389254726455305",
+        "name": "电波系新人偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1839039717712724125",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1838988880479162368/gYDpBM6v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5408,
+          "following_count": 199,
+          "like_count": 152,
+          "listed_count": 23,
+          "tweet_count": 1091
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-27T11:32:23.000Z",
+        "description": "这里是新届超絶元気可愛的地下美少女偶像—梦生鹿！不管是绿茶💚还是黑心🖤，对小鹿来说，拿捏小雏男粉丝还不是手到擒来～诶！就你呢！刷到小鹿推特的粉丝，快点捏着肉棒，前来送死～🚪 1849297119",
+        "id": "1530149864968888321",
+        "name": "梦生鹿",
+        "pinned_tweet_id": "1839029734338080792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839120567628099584/P_Ug4Hcf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 46,
+          "like_count": 43,
+          "listed_count": 0,
+          "tweet_count": 52
+        },
+        "username": "mengshenglu",
+        "verified": false
+      }
+    ]
+  }
+}

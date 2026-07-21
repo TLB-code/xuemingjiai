@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1953921411849867264",
+        "3_1953921421056348160",
+        "3_1953921429549858816",
+        "3_1953921436214579200"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1953921440065237321",
+    "created_at": "2025-08-08T20:49:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-08T21:49:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1953921440065237321"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 62,
+          "id": "1795518224999804930",
+          "start": 50,
+          "username": "a_qing71408"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PJxK0xIFk6",
+          "end": 177,
+          "expanded_url": "https://x.com/xuemingjiai/status/1953921440065237321/photo/1",
+          "media_key": "3_1953921411849867264",
+          "start": 154,
+          "url": "https://t.co/PJxK0xIFk6"
+        },
+        {
+          "display_url": "pic.x.com/PJxK0xIFk6",
+          "end": 177,
+          "expanded_url": "https://x.com/xuemingjiai/status/1953921440065237321/photo/1",
+          "media_key": "3_1953921421056348160",
+          "start": 154,
+          "url": "https://t.co/PJxK0xIFk6"
+        },
+        {
+          "display_url": "pic.x.com/PJxK0xIFk6",
+          "end": 177,
+          "expanded_url": "https://x.com/xuemingjiai/status/1953921440065237321/photo/1",
+          "media_key": "3_1953921429549858816",
+          "start": 154,
+          "url": "https://t.co/PJxK0xIFk6"
+        },
+        {
+          "display_url": "pic.x.com/PJxK0xIFk6",
+          "end": 177,
+          "expanded_url": "https://x.com/xuemingjiai/status/1953921440065237321/photo/1",
+          "media_key": "3_1953921436214579200",
+          "start": 154,
+          "url": "https://t.co/PJxK0xIFk6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953921440065237321",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "sss级副本——讨伐魔女现已开启🤍\n特此成立“魔女奏奏讨伐组织”\n魔女奏奏为组织的“高级顾问”\n感谢@a_qing71408 “魔女奏奏讨伐组织”的会长白羽制作的文游问卷“讨伐魔女”呢，内容相当相当丰富哦～售价52枚金币，再次感谢白羽会长“送”给本公主的版权，以及每售出一份需要对本公主支付的“版权费”呢🤍 https://t.co/PJxK0xIFk6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1254,
+        "media_key": "3_1953921411849867264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx25K_hXUAAvA--.jpg",
+        "width": 1771
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1953921421056348160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx25Lh0XEAARUlv.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1953921429549858816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx25MBdXwAAGpTn.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1953921436214579200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gx25MaSXUAAcGZY.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953921411849867264",
+            "3_1953921421056348160",
+            "3_1953921429549858816",
+            "3_1953921436214579200"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1953921440065237321",
+        "created_at": "2025-08-08T20:49:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T21:49:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953921440065237321"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 62,
+              "id": "1795518224999804930",
+              "start": 50,
+              "username": "a_qing71408"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PJxK0xIFk6",
+              "end": 177,
+              "expanded_url": "https://x.com/xuemingjiai/status/1953921440065237321/photo/1",
+              "media_key": "3_1953921411849867264",
+              "start": 154,
+              "url": "https://t.co/PJxK0xIFk6"
+            },
+            {
+              "display_url": "pic.x.com/PJxK0xIFk6",
+              "end": 177,
+              "expanded_url": "https://x.com/xuemingjiai/status/1953921440065237321/photo/1",
+              "media_key": "3_1953921421056348160",
+              "start": 154,
+              "url": "https://t.co/PJxK0xIFk6"
+            },
+            {
+              "display_url": "pic.x.com/PJxK0xIFk6",
+              "end": 177,
+              "expanded_url": "https://x.com/xuemingjiai/status/1953921440065237321/photo/1",
+              "media_key": "3_1953921429549858816",
+              "start": 154,
+              "url": "https://t.co/PJxK0xIFk6"
+            },
+            {
+              "display_url": "pic.x.com/PJxK0xIFk6",
+              "end": 177,
+              "expanded_url": "https://x.com/xuemingjiai/status/1953921440065237321/photo/1",
+              "media_key": "3_1953921436214579200",
+              "start": 154,
+              "url": "https://t.co/PJxK0xIFk6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953921440065237321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "sss级副本——讨伐魔女现已开启🤍\n特此成立“魔女奏奏讨伐组织”\n魔女奏奏为组织的“高级顾问”\n感谢@a_qing71408 “魔女奏奏讨伐组织”的会长白羽制作的文游问卷“讨伐魔女”呢，内容相当相当丰富哦～售价52枚金币，再次感谢白羽会长“送”给本公主的版权，以及每售出一份需要对本公主支付的“版权费”呢🤍 https://t.co/PJxK0xIFk6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n我是一名钱包刽子手。\n如果你也想被我杀死的话→\n3971546171←报名热线\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 60,
+                "username": "oricz233"
+              },
+              {
+                "end": 89,
+                "start": 80,
+                "username": "moelipoi"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "cutelingli"
+              },
+              {
+                "end": 129,
+                "start": 114,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 141,
+                "start": 134,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍魔女讨伐组织高级顾问～",
+        "pinned_tweet_id": "1945511067926536238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952517800502652928/-lp8k7Gh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7844,
+          "following_count": 330,
+          "like_count": 605,
+          "listed_count": 33,
+          "media_count": 720,
+          "tweet_count": 2212
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-28T18:11:40.000Z",
+        "description": "",
+        "id": "1795518224999804930",
+        "name": "喜欢碎碎念",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949864837833797632/dqn6N0vB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 3,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "username": "a_qing71408",
+        "verified": false
+      }
+    ]
+  }
+}

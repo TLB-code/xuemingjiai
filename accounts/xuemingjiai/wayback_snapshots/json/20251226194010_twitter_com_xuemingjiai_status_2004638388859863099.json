@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2004633756221493248"
+      ],
+      "media_source_tweet_id": [
+        "2004633759589826915"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "2004638388859863099",
+    "created_at": "2025-12-26T19:40:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-26T20:40:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004638388859863099"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1746153330622226432",
+          "start": 3,
+          "username": "blakexiaonai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Vq1nuUzRd4",
+          "end": 65,
+          "expanded_url": "https://x.com/blakexiaonai/status/2004633759589826915/photo/1",
+          "media_key": "3_2004633756221493248",
+          "start": 42,
+          "url": "https://t.co/Vq1nuUzRd4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004638388859863099",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004633759589826915",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @blakexiaonai: 不带钱来找我我会先逗你一下，然后戛然而止恶心你 https://t.co/Vq1nuUzRd4"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2004638388859863099].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2004638388859863099",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2004638388859863099"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2004633756221493248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9Hjx8BW0AAI_zf.jpg",
+        "width": 1234
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004633756221493248"
+          ]
+        },
+        "author_id": "1746153330622226432",
+        "conversation_id": "2004633759589826915",
+        "created_at": "2025-12-26T19:21:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T20:21:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004633759589826915"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Vq1nuUzRd4",
+              "end": 47,
+              "expanded_url": "https://x.com/blakexiaonai/status/2004633759589826915/photo/1",
+              "media_key": "3_2004633756221493248",
+              "start": 24,
+              "url": "https://t.co/Vq1nuUzRd4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004633759589826915",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "不带钱来找我我会先逗你一下，然后戛然而止恶心你 https://t.co/Vq1nuUzRd4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🖤\n最最最最喜欢钱包们啦～\n联系方式→2829556413←\n病毒小号@oricz233\n现任魔女学园院长!\n星辰魔女镜璃\n@jingli1840489\n桃心魔女奈奈\n@blakexiaonai\n 黑白魔女花卷\n@miaomiaomi17630\n好老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 49,
+                "username": "oricz233"
+              },
+              {
+                "end": 90,
+                "start": 76,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 111,
+                "start": 98,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 136,
+                "start": 120,
+                "username": "miaomiaomi17630"
+              },
+              {
+                "end": 155,
+                "start": 140,
+                "username": "chessy80978858"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARosxSy"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🖤魔女学园院长版～",
+        "pinned_tweet_id": "1976743806063063398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003754231543562240/7Kw6lKLr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8090,
+          "following_count": 339,
+          "like_count": 648,
+          "listed_count": 37,
+          "media_count": 767,
+          "tweet_count": 2387
+        },
+        "url": "https://t.co/le8ARosxSy",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-13T12:53:18.000Z",
+        "description": "是一个喜欢爱玩顶号胁迫吸钱洗脑锁死的小男孩哦🖤 最爱的妈妈@xuemingjiai\n 处刑传送门q 3978814398♠️ 每天下午5点到午夜1点前找我都在哦🖤\n帮畜生排精一次最低70呢 1h左右 其他价格详谈♡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 29,
+                "username": "xuemingjiai"
+              }
+            ]
+          }
+        },
+        "id": "1746153330622226432",
+        "name": "blake🖤奈喵♠️",
+        "pinned_tweet_id": "1997635752809656603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999192058129711104/SukeKjd9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 695,
+          "following_count": 106,
+          "like_count": 193,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 178
+        },
+        "username": "blakexiaonai",
+        "verified": false
+      }
+    ]
+  }
+}

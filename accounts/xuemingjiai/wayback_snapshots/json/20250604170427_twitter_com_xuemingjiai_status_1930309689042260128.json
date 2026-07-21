@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1930305020307878368",
+    "created_at": "2025-06-04T17:04:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-04T18:04:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930309689042260128"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1028672289527685120",
+          "start": 0,
+          "username": "9YLDmiz53NIcq7H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930309689042260128",
+    "in_reply_to_user_id": "1028672289527685120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930309258291360218",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@9YLDmiz53NIcq7H 尊嘟假嘟w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "1930305020307878368",
+        "created_at": "2025-06-04T17:04:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T18:04:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930309689042260128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1028672289527685120",
+              "start": 0,
+              "username": "9YLDmiz53NIcq7H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930309689042260128",
+        "in_reply_to_user_id": "1028672289527685120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930309258291360218",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@9YLDmiz53NIcq7H 尊嘟假嘟w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1028672289527685120",
+        "conversation_id": "1930305020307878368",
+        "created_at": "2025-06-04T17:02:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T18:02:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930309258291360218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1374389254726455305",
+              "start": 0,
+              "username": "xuemingjiai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930309258291360218",
+        "in_reply_to_user_id": "1374389254726455305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930305020307878368",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xuemingjiai 请小心因为私信别人太多次被判定成骚扰账号（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "集美貌，智慧，强大于一身的魔女族公主现身人世～区区人类，跪下向我表示臣服吧💜\n被我支配 控制 吸脑 成为奴仆💜\n挑战qq242184780，里世界小号@oricz233\n共同出道的偶像老婆：@moelipoi\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858\n女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "oricz233"
+              },
+              {
+                "end": 104,
+                "start": 95,
+                "username": "moelipoi"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "cutelingli"
+              },
+              {
+                "end": 144,
+                "start": 129,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 155,
+                "start": 148,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏💜散播同化病毒中～",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926028406774247424/hWplRg7q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7105,
+          "following_count": 296,
+          "like_count": 335,
+          "listed_count": 33,
+          "media_count": 644,
+          "tweet_count": 1912
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-12T15:59:20.000Z",
+        "description": "有亡国，有亡天下。亡国与亡天下奚辨？易姓改号，谓之亡国；仁义充塞，而至于率兽食人，人将相食，谓之亡天下。是故知保天下，然后知保其国。保国者，其君其臣肉食者谋之；保天下者，匹夫之贱与有责焉耳矣。",
+        "id": "1028672289527685120",
+        "name": "Aozora☭⃠",
+        "pinned_tweet_id": "1571555080406728705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1507004117234827271/wLMMFEoD_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 504,
+          "like_count": 27256,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 2971
+        },
+        "username": "9YLDmiz53NIcq7H",
+        "verified": false
+      }
+    ]
+  }
+}

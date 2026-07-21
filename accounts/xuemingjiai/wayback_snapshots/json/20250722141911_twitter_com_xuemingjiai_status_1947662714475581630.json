@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1947662714475581630",
+    "created_at": "2025-07-22T14:19:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-22T15:19:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947662714475581630"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 17,
+          "tag": "魔女公主的日常"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1374389254726455305",
+          "start": 3,
+          "username": "xuemingjiai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947662714475581630",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945973920202727923",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xuemingjiai: #魔女公主的日常\n嗯，距大规模同化魔法发动已经过去一天多了呢，本公主来做一个总结，以及对钱包们一些感兴趣的话题进行一些简短的回复～\n效果嘛，那是当然很好的，可是还不够，需要各位钱包广告牌们继续努力为本公主创造价值，吸引更多的人同化成为本公主的引…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1606,
+        "media_key": "3_1945973897221857280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwF88wYXYAAMmy7.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1376,
+        "media_key": "3_1945973909938954240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwF89fwW4AAj6si.jpg",
+        "width": 1728
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "1947662714475581630",
+        "created_at": "2025-07-22T14:19:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T15:19:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947662714475581630"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 17,
+              "tag": "魔女公主的日常"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1374389254726455305",
+              "start": 3,
+              "username": "xuemingjiai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947662714475581630",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945973920202727923",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xuemingjiai: #魔女公主的日常\n嗯，距大规模同化魔法发动已经过去一天多了呢，本公主来做一个总结，以及对钱包们一些感兴趣的话题进行一些简短的回复～\n效果嘛，那是当然很好的，可是还不够，需要各位钱包广告牌们继续努力为本公主创造价值，吸引更多的人同化成为本公主的引…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945973897221857280",
+            "3_1945973909938954240"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "1945973920202727923",
+        "created_at": "2025-07-17T22:28:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T23:28:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945973920202727923"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "魔女公主的日常"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/11d0L4rmEC",
+              "end": 161,
+              "expanded_url": "https://x.com/xuemingjiai/status/1945973920202727923/photo/1",
+              "media_key": "3_1945973897221857280",
+              "start": 138,
+              "url": "https://t.co/11d0L4rmEC"
+            },
+            {
+              "display_url": "pic.x.com/11d0L4rmEC",
+              "end": 161,
+              "expanded_url": "https://x.com/xuemingjiai/status/1945973920202727923/photo/1",
+              "media_key": "3_1945973909938954240",
+              "start": 138,
+              "url": "https://t.co/11d0L4rmEC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945973920202727923",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 15275,
+          "like_count": 88,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "#魔女公主的日常\n嗯，距大规模同化魔法发动已经过去一天多了呢，本公主来做一个总结，以及对钱包们一些感兴趣的话题进行一些简短的回复～\n效果嘛，那是当然很好的，可是还不够，需要各位钱包广告牌们继续努力为本公主创造价值，吸引更多的人同化成为本公主的引流广告工具钱包，并以此为荣哦🤍 https://t.co/11d0L4rmEC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n你也会因为窥视我的美貌而心甘情愿沦为钱包被我使用的对吗？\n钱包报名入口：3971546171\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 67,
+                "username": "oricz233"
+              },
+              {
+                "end": 96,
+                "start": 87,
+                "username": "moelipoi"
+              },
+              {
+                "end": 114,
+                "start": 103,
+                "username": "cutelingli"
+              },
+              {
+                "end": 136,
+                "start": 121,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 148,
+                "start": 141,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍大规模同化魔法展开中",
+        "pinned_tweet_id": "1945511067926536238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945176725190488064/8VBohPRs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7672,
+          "following_count": 327,
+          "like_count": 581,
+          "listed_count": 33,
+          "media_count": 711,
+          "tweet_count": 2189
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

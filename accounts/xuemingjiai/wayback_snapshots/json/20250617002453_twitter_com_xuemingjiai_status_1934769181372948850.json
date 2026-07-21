@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1934769181372948850",
+    "created_at": "2025-06-17T00:24:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-17T01:24:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934769181372948850"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1084532005545492480",
+          "start": 3,
+          "username": "lanyuan411"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934769181372948850",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934699514423857609",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lanyuan411: 不用意淫了💚你心爱的女神就是某个肥猪绿爹用钱就能扇逼的母猪。\n\n你的女神就是绿爹给她戴着♡狗项圈，还恬不知耻穿上白丝妓女服侍伺候绿爹的淫贱母猪💛\n\n而你这傻逼呢💛？只需捏着贱畜龟屌滚过来被玲奈爆骂羞辱💛一边看着女友骑在别人鸡巴上搔首弄姿就够了♡好…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1934769181372948850].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1934769181372948850",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1934769181372948850"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1824,
+        "media_key": "3_1934697997373464576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtltlAEa4AA9dDU.jpg",
+        "width": 1248
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934697997373464576"
+          ]
+        },
+        "author_id": "1084532005545492480",
+        "conversation_id": "1934699514423857609",
+        "created_at": "2025-06-16T19:48:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T20:48:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934699514423857609"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 133,
+              "start": 128,
+              "tag": "全天接单"
+            },
+            {
+              "end": 137,
+              "start": 134,
+              "tag": "羞辱"
+            },
+            {
+              "end": 141,
+              "start": 138,
+              "tag": "绿帽"
+            },
+            {
+              "end": 146,
+              "start": 142,
+              "tag": "NTR"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EjqE0qpQ1O",
+              "end": 170,
+              "expanded_url": "https://x.com/lanyuan411/status/1934699514423857609/photo/1",
+              "media_key": "3_1934697997373464576",
+              "start": 147,
+              "url": "https://t.co/EjqE0qpQ1O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934699514423857609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 133,
+                "start": 128,
+                "tag": "全天接单"
+              },
+              {
+                "end": 137,
+                "start": 134,
+                "tag": "羞辱"
+              },
+              {
+                "end": 141,
+                "start": 138,
+                "tag": "绿帽"
+              },
+              {
+                "end": 146,
+                "start": 142,
+                "tag": "NTR"
+              },
+              {
+                "end": 152,
+                "start": 147,
+                "tag": "婊子女神"
+              }
+            ]
+          },
+          "text": "不用意淫了💚你心爱的女神就是某个肥猪绿爹用钱就能扇逼的母猪。\n\n你的女神就是绿爹给她戴着♡狗项圈，还恬不知耻穿上白丝妓女服侍伺候绿爹的淫贱母猪💛\n\n而你这傻逼呢💛？只需捏着贱畜龟屌滚过来被玲奈爆骂羞辱💛一边看着女友骑在别人鸡巴上搔首弄姿就够了♡好不好💚\n（#全天接单）#羞辱 #绿帽 #NTR #婊子女神"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 546,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "不用意淫了💚你心爱的女神就是某个肥猪绿爹用钱就能扇逼的母猪。\n\n你的女神就是绿爹给她戴着♡狗项圈，还恬不知耻穿上白丝妓女服侍伺候绿爹的淫贱母猪💛\n\n而你这傻逼呢💛？只需捏着贱畜龟屌滚过来被玲奈爆骂羞辱💛一边看着女友骑在别人鸡巴上搔首弄姿就够了♡好不好💚\n（#全天接单）#羞辱 #绿帽 #NTR https://t.co/EjqE0qpQ1O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n你也会因为窥视我的美貌而心甘情愿沦为钱包被我使用的对吗？\n钱包报名入口：3971546171\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 67,
+                "username": "oricz233"
+              },
+              {
+                "end": 96,
+                "start": 87,
+                "username": "moelipoi"
+              },
+              {
+                "end": 114,
+                "start": 103,
+                "username": "cutelingli"
+              },
+              {
+                "end": 136,
+                "start": 121,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 148,
+                "start": 141,
+                "username": "1xian1"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍驯化公用钱包👛中",
+        "pinned_tweet_id": "1922181265479913507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931064828044713984/9qwnduVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7216,
+          "following_count": 309,
+          "like_count": 364,
+          "listed_count": 33,
+          "media_count": 682,
+          "tweet_count": 2057
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-13T19:25:54.000Z",
+        "description": "这里是玲奈🩷\n是一个喜欢玩弄早泄雏男同时又会勾引男爹的雌萝淫婊大小姐🖤\n擅长的有：羞辱榨精丨玩弄绿奴丨调教绿狗丨送屄倒贴丨\n60/h~35/0.5h\n盯着屏幕对玲奈已经饥不择食的早泄雏男可以来敲门了~当然也欢迎男爹来光临使用玲奈的雌穴💛门牌3956547942备用3843285033（添加提示异常，就点了解详情♡",
+        "id": "1084532005545492480",
+        "location": "全天接单♡",
+        "name": "玲奈美少女_♡全天接单Sex~💚",
+        "pinned_tweet_id": "1857473827904856194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901034732064043008/ZsBmKqry_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6871,
+          "following_count": 96,
+          "like_count": 131,
+          "listed_count": 39,
+          "media_count": 113,
+          "tweet_count": 1932
+        },
+        "username": "lanyuan411",
+        "verified": true
+      }
+    ]
+  }
+}

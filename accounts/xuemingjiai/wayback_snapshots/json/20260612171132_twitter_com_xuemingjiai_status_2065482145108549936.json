@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "2065482145108549936",
+    "created_at": "2026-06-12T17:11:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T18:11:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065482145108549936"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1912020341100339200",
+          "start": 3,
+          "username": "GaoGaoLove_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065482145108549936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065447706089427298",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GaoGaoLove_: 宰杀贱猪🖤\n我发现家畜虽然有不同种类，但是智商加起来都没有糕糕多噢~\n不信的话，来挑战糕糕祖宗叭♡\n通过打败糕糕证明自己不是白痴~或者认输拿到🖤低能白痴🖤证书哦\n\n过于腼腆不知道怎么说的话……私信糕糕说“家畜智商挑战”获得糕糕门牌♡ https…"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "智商-20~\n自动获取挑战赛资格🖤",
+        "height": 1920,
+        "media_key": "3_2065447677408722944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKnxuCoaQAACEpH.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "2065482145108549936",
+        "created_at": "2026-06-12T17:11:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T18:11:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065482145108549936"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1912020341100339200",
+              "start": 3,
+              "username": "GaoGaoLove_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065482145108549936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065447706089427298",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GaoGaoLove_: 宰杀贱猪🖤\n我发现家畜虽然有不同种类，但是智商加起来都没有糕糕多噢~\n不信的话，来挑战糕糕祖宗叭♡\n通过打败糕糕证明自己不是白痴~或者认输拿到🖤低能白痴🖤证书哦\n\n过于腼腆不知道怎么说的话……私信糕糕说“家畜智商挑战”获得糕糕门牌♡ https…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065447677408722944"
+          ]
+        },
+        "author_id": "1912020341100339200",
+        "conversation_id": "2065447706089427298",
+        "created_at": "2026-06-12T14:54:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T15:54:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065447706089427298"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JLDWIuOkYD",
+              "end": 140,
+              "expanded_url": "https://x.com/GaoGaoLove_/status/2065447706089427298/photo/1",
+              "media_key": "3_2065447677408722944",
+              "start": 117,
+              "url": "https://t.co/JLDWIuOkYD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065447706089427298",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 455,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "宰杀贱猪🖤\n我发现家畜虽然有不同种类，但是智商加起来都没有糕糕多噢~\n不信的话，来挑战糕糕祖宗叭♡\n通过打败糕糕证明自己不是白痴~或者认输拿到🖤低能白痴🖤证书哦\n\n过于腼腆不知道怎么说的话……私信糕糕说“家畜智商挑战”获得糕糕门牌♡ https://t.co/JLDWIuOkYD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "你也觉得你面前的这只魔女可爱过头了吧？\n对的!她和别人不一样!\n邂逅方式→2829556413←\n超涩气小号@oricz233\n现任魔女学园院长\n星辰魔女镜璃\n@jingli1840489\n桃心魔女奈奈\n@blakexiaonai\n 黑白魔女花卷\n@miaomiaomyoez2\n好老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 54,
+                "username": "oricz233"
+              },
+              {
+                "end": 94,
+                "start": 80,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 115,
+                "start": 102,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 139,
+                "start": 124,
+                "username": "miaomiaomyoez2"
+              },
+              {
+                "end": 158,
+                "start": 143,
+                "username": "chessy80978858"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "超可爱超绿茶超撩人的精灵魔女-奏奏💚",
+        "pinned_tweet_id": "2013314916120416537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064079945459171328/WbF0iOyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8880,
+          "following_count": 371,
+          "like_count": 637,
+          "listed_count": 36,
+          "media_count": 830,
+          "tweet_count": 2210
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-15T05:49:27.000Z",
+        "description": "人设是邻家大姐姐的糕糕，作为合格的findom，在平时会接待一些小可爱进行“上贡教学”❤️\n🚪20  私信随机掉落神秘数字♡\n读心姐姐@QingMian0819 严厉S弟弟：@aiyekong\n营业时间一般在八点到12点 不在这个时间段能也是苏醒形态。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "QingMian0819"
+              },
+              {
+                "end": 96,
+                "start": 87,
+                "username": "aiyekong"
+              }
+            ]
+          }
+        },
+        "id": "1912020341100339200",
+        "location": "🖤黑心贡主培养所🖤",
+        "name": "巧克力糕🖤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040717224995131392/9_Xfm-3H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1814,
+          "following_count": 106,
+          "like_count": 5289,
+          "listed_count": 1,
+          "media_count": 132,
+          "tweet_count": 946
+        },
+        "username": "GaoGaoLove_",
+        "verified": false
+      }
+    ]
+  }
+}

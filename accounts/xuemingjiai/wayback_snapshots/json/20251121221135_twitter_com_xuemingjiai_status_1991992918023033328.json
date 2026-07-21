@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1991992918023033328",
+    "created_at": "2025-11-21T22:11:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T23:11:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991992918023033328"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1374389254726455305",
+          "start": 3,
+          "username": "xuemingjiai"
+        },
+        {
+          "end": 138,
+          "id": "1984115707815325698",
+          "start": 124,
+          "username": "jingli1840489"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991992918023033328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991676775739584724",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xuemingjiai: 这是一条引流推文。\n很简单粗暴，就是本公主要给自己的女儿镜璃引流，让更多的小雏男小钱包去关注她，去下单。\n这种引流宣传推文都伴随着一些奖励机制，比如转发关注可以获得本公主给予的一些福利，这次也不例外哦，点赞转发关注@jingli1840489…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1991992918023033328].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1991992918023033328",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1991992918023033328"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "alt_text": "对于渴望被本公主利用支配控制的小雏男小钱包们来说，关注点赞转发完成本公主的任务就是专属福利本身对吧🤍\n有意识到自己被耍了，完完全全被本公主当做一个引流工具使用了吗？\n本公主允许你兴奋起来，允许你勃起～\n毕竟能够被本公主使用是你的荣幸～\n如果能在完成任务之后再给本公主的联系方式里土下座磕头会让自己更爽吧？\n被本公主的推文洗脑寖泡久了以后脑子就会坏掉哦～\n会完完全全沦为被本公主随意操控奴役的傀儡人偶钱包工具。\n今后也要努力完成本公主发布的命令哦🤍",
+        "height": 1200,
+        "media_key": "3_1991674837547511814",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6PZtmAacAYkX5V.jpg",
+        "width": 686
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991674837547511814"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "1991676775739584724",
+        "created_at": "2025-11-21T01:15:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T02:15:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991676775739584724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 121,
+              "id": "1984115707815325698",
+              "start": 107,
+              "username": "jingli1840489"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0P5XH7ftmN",
+              "end": 165,
+              "expanded_url": "https://x.com/xuemingjiai/status/1991676775739584724/photo/1",
+              "media_key": "3_1991674837547511814",
+              "start": 142,
+              "url": "https://t.co/0P5XH7ftmN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991676775739584724",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2303,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "这是一条引流推文。\n很简单粗暴，就是本公主要给自己的女儿镜璃引流，让更多的小雏男小钱包去关注她，去下单。\n这种引流宣传推文都伴随着一些奖励机制，比如转发关注可以获得本公主给予的一些福利，这次也不例外哦，点赞转发关注@jingli1840489  然后点进ALT领取自己的专属福利吧🤍 https://t.co/0P5XH7ftmN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n最最最最喜欢钱包们啦!\n天天挨骂真的不会腻嘛～\n擅长用爱意和温柔的语气俘虏钱包～\n联系方式→242184780←\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 77,
+                "username": "oricz233"
+              },
+              {
+                "end": 106,
+                "start": 97,
+                "username": "moelipoi"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "cutelingli"
+              },
+              {
+                "end": 146,
+                "start": 131,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 158,
+                "start": 151,
+                "username": "1xian1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARosxSy"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍对钱包们最温柔最有好感版",
+        "pinned_tweet_id": "1976743806063063398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991861278688821248/oCQEPeIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7937,
+          "following_count": 330,
+          "like_count": 639,
+          "listed_count": 36,
+          "media_count": 755,
+          "tweet_count": 2316
+        },
+        "url": "https://t.co/le8ARosxSy",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-31T04:31:00.000Z",
+        "description": "新人文媛镜璃回来啦！可以是温柔妈咪~可以是可爱妹妹/知心姐姐~也可以是可怕残忍压榨主使用钱包哦🖤\n目前主要玩法：剧情文爱/黑心/绿茶/洗脑/榨金等💕\n门牌号：q2749521274，致力于让每位朋友都开开心心舒舒服服的喔❤️全天营业，深夜常驻，欢迎前来光顾哦~\n最可爱的奏奏：@xuemingjiai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 150,
+                "start": 138,
+                "username": "xuemingjiai"
+              }
+            ]
+          }
+        },
+        "id": "1984115707815325698",
+        "location": "镜璃的温暖小床~深夜也欢迎打扰哦~",
+        "name": "是镜璃喔~",
+        "pinned_tweet_id": "1991096707346792478",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985515782550536192/bMHPg-lN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 21,
+          "like_count": 39,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 27
+        },
+        "username": "jingli1840489",
+        "verified": false
+      }
+    ]
+  }
+}

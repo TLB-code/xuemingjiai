@@ -1,0 +1,597 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2006634154801377289",
+        "3_2006634154763689984",
+        "3_2006634153211736064",
+        "3_2006634206345207808"
+      ],
+      "media_source_tweet_id": [
+        "2006634414927917424",
+        "2006634414927917424",
+        "2006634414927917424",
+        "2006634414927917424"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for New Years Eve for all years.",
+          "id": "1319305164751163393",
+          "name": "New Years Eve"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for the New Year's day for all years. ",
+          "id": "1457786335108816904",
+          "name": "New Year's day"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for New Years Eve for all years.",
+          "id": "1319305164751163393",
+          "name": "New Years Eve"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for the New Year's day for all years. ",
+          "id": "1457786335108816904",
+          "name": "New Year's day"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Holidays",
+          "id": "847548225712119808",
+          "name": "Holidays"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291095284756357120",
+          "name": "Cultural events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1296381531510849536",
+          "name": "New Years Eve\t"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for the New Year's day for all years. ",
+          "id": "1457786335108816904",
+          "name": "New Year's day"
+        }
+      }
+    ],
+    "conversation_id": "2006639877253984674",
+    "created_at": "2026-01-01T08:13:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T09:13:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006639877253984674"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 84,
+          "start": 81,
+          "tag": "文援"
+        },
+        {
+          "end": 88,
+          "start": 85,
+          "tag": "调教"
+        },
+        {
+          "end": 92,
+          "start": 89,
+          "tag": "压榨"
+        },
+        {
+          "end": 96,
+          "start": 93,
+          "tag": "足控"
+        },
+        {
+          "end": 100,
+          "start": 97,
+          "tag": "洗脑"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1559243585207164928",
+          "start": 3,
+          "username": "be69991127"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qLX1pyF2JX",
+          "end": 124,
+          "expanded_url": "https://x.com/be69991127/status/2006634414927917424/photo/1",
+          "media_key": "3_2006634154801377289",
+          "start": 101,
+          "url": "https://t.co/qLX1pyF2JX"
+        },
+        {
+          "display_url": "pic.x.com/qLX1pyF2JX",
+          "end": 124,
+          "expanded_url": "https://x.com/be69991127/status/2006634414927917424/photo/1",
+          "media_key": "3_2006634154763689984",
+          "start": 101,
+          "url": "https://t.co/qLX1pyF2JX"
+        },
+        {
+          "display_url": "pic.x.com/qLX1pyF2JX",
+          "end": 124,
+          "expanded_url": "https://x.com/be69991127/status/2006634414927917424/photo/1",
+          "media_key": "3_2006634153211736064",
+          "start": 101,
+          "url": "https://t.co/qLX1pyF2JX"
+        },
+        {
+          "display_url": "pic.x.com/qLX1pyF2JX",
+          "end": 124,
+          "expanded_url": "https://x.com/be69991127/status/2006634414927917424/photo/1",
+          "media_key": "3_2006634206345207808",
+          "start": 101,
+          "url": "https://t.co/qLX1pyF2JX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006639877253984674",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006634414927917424",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @be69991127: 某只迫不及待在新年第一天就送死上瘾的白痴💚求着我曝光游行公示🥰吃干抹净～榨干价值💚今后成为广告牌为妈妈继续提供仅剩的利用价值哦🥰\n#文援 #调教 #压榨 #足控 #洗脑 https://t.co/qLX1pyF2JX"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2006639877253984674].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2006639877253984674",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2006639877253984674"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1835,
+        "media_key": "3_2006634154801377289",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9j_IdcaMAk_vXu.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1818,
+        "media_key": "3_2006634154763689984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9j_IdTbIAAq4yn.jpg",
+        "width": 1080
+      },
+      {
+        "height": 417,
+        "media_key": "3_2006634153211736064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9j_IXhaMAAPjQY.jpg",
+        "width": 814
+      },
+      {
+        "height": 1156,
+        "media_key": "3_2006634206345207808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9j_LddaoAAq83N.jpg",
+        "width": 439
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006634154801377289",
+            "3_2006634154763689984",
+            "3_2006634153211736064",
+            "3_2006634206345207808"
+          ]
+        },
+        "author_id": "1559243585207164928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296381531510849536",
+              "name": "New Years Eve\t"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          }
+        ],
+        "conversation_id": "2006634414927917424",
+        "created_at": "2026-01-01T07:51:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T08:51:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006634414927917424"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 68,
+              "start": 65,
+              "tag": "文援"
+            },
+            {
+              "end": 72,
+              "start": 69,
+              "tag": "调教"
+            },
+            {
+              "end": 76,
+              "start": 73,
+              "tag": "压榨"
+            },
+            {
+              "end": 80,
+              "start": 77,
+              "tag": "足控"
+            },
+            {
+              "end": 84,
+              "start": 81,
+              "tag": "洗脑"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qLX1pyF2JX",
+              "end": 108,
+              "expanded_url": "https://x.com/be69991127/status/2006634414927917424/photo/1",
+              "media_key": "3_2006634154801377289",
+              "start": 85,
+              "url": "https://t.co/qLX1pyF2JX"
+            },
+            {
+              "display_url": "pic.x.com/qLX1pyF2JX",
+              "end": 108,
+              "expanded_url": "https://x.com/be69991127/status/2006634414927917424/photo/1",
+              "media_key": "3_2006634154763689984",
+              "start": 85,
+              "url": "https://t.co/qLX1pyF2JX"
+            },
+            {
+              "display_url": "pic.x.com/qLX1pyF2JX",
+              "end": 108,
+              "expanded_url": "https://x.com/be69991127/status/2006634414927917424/photo/1",
+              "media_key": "3_2006634153211736064",
+              "start": 85,
+              "url": "https://t.co/qLX1pyF2JX"
+            },
+            {
+              "display_url": "pic.x.com/qLX1pyF2JX",
+              "end": 108,
+              "expanded_url": "https://x.com/be69991127/status/2006634414927917424/photo/1",
+              "media_key": "3_2006634206345207808",
+              "start": 85,
+              "url": "https://t.co/qLX1pyF2JX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006634414927917424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "某只迫不及待在新年第一天就送死上瘾的白痴💚求着我曝光游行公示🥰吃干抹净～榨干价值💚今后成为广告牌为妈妈继续提供仅剩的利用价值哦🥰\n#文援 #调教 #压榨 #足控 #洗脑 https://t.co/qLX1pyF2JX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🖤\n最最最最喜欢钱包们啦～\n联系方式→2829556413←\n病毒小号@oricz233\n现任魔女学园院长!\n星辰魔女镜璃\n@jingli1840489\n桃心魔女奈奈\n@blakexiaonai\n 黑白魔女花卷\n@miaomiaomi17630\n好老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 49,
+                "username": "oricz233"
+              },
+              {
+                "end": 90,
+                "start": 76,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 111,
+                "start": 98,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 136,
+                "start": 120,
+                "username": "miaomiaomi17630"
+              },
+              {
+                "end": 155,
+                "start": 140,
+                "username": "chessy80978858"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARosxSy"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🖤魔女学园院长版～",
+        "pinned_tweet_id": "1976743806063063398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003754231543562240/7Kw6lKLr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8100,
+          "following_count": 342,
+          "like_count": 644,
+          "listed_count": 37,
+          "media_count": 771,
+          "tweet_count": 2405
+        },
+        "url": "https://t.co/le8ARosxSy",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-15T18:20:28.000Z",
+        "description": "🖤2948038562\n胁迫🖤恋足🖤戏耍🖤上瘾🖤是戒不掉的哦\n而半夜上门 的杂鱼们～会受到梦梦“弱点猛击”特别对待🖤",
+        "id": "1559243585207164928",
+        "name": "叫小梦",
+        "pinned_tweet_id": "1995630803808920014",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963274890343297024/XkGfM5MI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 952,
+          "following_count": 20,
+          "like_count": 13,
+          "listed_count": 5,
+          "media_count": 75,
+          "tweet_count": 140
+        },
+        "username": "be69991127",
+        "verified": false
+      }
+    ]
+  }
+}

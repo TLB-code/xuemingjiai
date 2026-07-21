@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1868726720431636619",
+    "created_at": "2024-12-16T18:35:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-16T19:35:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1868726720431636619"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1855050411830591488",
+          "start": 3,
+          "username": "tiannimiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868726720431636619",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1859994694203425238",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tiannimiao: 任务为什么这么便宜？\n因为～\n当你怀着好奇的心情购买一份任务，并按照要求一点一点的完成～\n在这过程中～已经逐渐习惯了被甜腻酱控制呢～慢慢的不再需要任务～就会理所应当的听从甜腻的命令～💚\n所以甜腻酱的任务准确的说～是钓听话小雏男的陷阱哦💚\n知道是这…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1868726720431636619].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1868726720431636619",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1868726720431636619"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1859994690273374208"
+          ]
+        },
+        "author_id": "1855050411830591488",
+        "conversation_id": "1859994694203425238",
+        "created_at": "2024-11-22T16:17:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-22T17:17:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1859994694203425238"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fvDQJkRApO",
+              "end": 167,
+              "expanded_url": "https://x.com/tiannimiao/status/1859994694203425238/photo/1",
+              "media_key": "3_1859994690273374208",
+              "start": 144,
+              "url": "https://t.co/fvDQJkRApO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859994694203425238",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 7230,
+          "like_count": 67,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "任务为什么这么便宜？\n因为～\n当你怀着好奇的心情购买一份任务，并按照要求一点一点的完成～\n在这过程中～已经逐渐习惯了被甜腻酱控制呢～慢慢的不再需要任务～就会理所应当的听从甜腻的命令～💚\n所以甜腻酱的任务准确的说～是钓听话小雏男的陷阱哦💚\n知道是这样反而更想主动咬钩了吧～\n可以乖乖过来咯 https://t.co/fvDQJkRApO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "您好～这里是出道以来一直致力于为小雏男哥哥们提供“舒适”“安全”“极致快感”的纯真妹系小天使魔女妹妹💚\n想了解我请翻看我的推文～\nqq2829556413，碎碎念小号@oricz233\n共同出道的偶像老婆：@moeliQWQ\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 83,
+                "username": "oricz233"
+              },
+              {
+                "end": 112,
+                "start": 103,
+                "username": "moeliQWQ"
+              },
+              {
+                "end": 130,
+                "start": 119,
+                "username": "cutelingli"
+              },
+              {
+                "end": 152,
+                "start": 137,
+                "username": "chessy80978858"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系天使偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868371538053091328/WDeV3GGD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6206,
+          "following_count": 241,
+          "like_count": 251,
+          "listed_count": 26,
+          "media_count": 521,
+          "tweet_count": 1419
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-09T00:51:14.000Z",
+        "description": "这里是甜腻酱～是某退役文援姬的任务发布系统～喜好是给听话的小m发布羞耻涩情任务～目前随机任务5.2金币～根据性癖定制任务9.9金币❤️门槛10金币～（可以用来抵扣任务）门牌号3868524342，有空的话可闲聊，不涉三～",
+        "id": "1855050411830591488",
+        "name": "甜腻酱",
+        "pinned_tweet_id": "1855566145350504710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855050575643336704/hcQ920vW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 14,
+          "like_count": 11,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 23
+        },
+        "username": "tiannimiao",
+        "verified": false
+      }
+    ]
+  }
+}

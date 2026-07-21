@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1863656375781560541",
+    "created_at": "2024-12-02T18:47:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-02T19:47:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1863656375781560541"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1315225371462127616",
+          "start": 3,
+          "username": "mazo9512"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863656375781560541",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1863589270885396848",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mazo9512: 【奇怪的XP】\n作为帮凶～或者说作为【背叛者】\n直接或间接的诱使自己的【同类】\n堕落的更深🖤\n直白来说w\n咱喜欢看到其他m或者sub\n去到s的身边～～【败北白给】❤️\n—————————————\n有意向的各位s可以叩响咱的门扉～\n也许可以随机给各位提…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1863656375781560541].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1863656375781560541",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1863656375781560541"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1863589261884432384",
+            "3_1863589261884416001",
+            "3_1863589261880242177"
+          ]
+        },
+        "author_id": "1315225371462127616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1863589270885396848",
+        "created_at": "2024-12-02T14:21:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-02T15:21:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1863589270885396848"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 137,
+              "start": 134,
+              "tag": "催眠"
+            },
+            {
+              "end": 143,
+              "start": 138,
+              "tag": "为虎作伥"
+            },
+            {
+              "end": 147,
+              "start": 144,
+              "tag": "洗脑"
+            },
+            {
+              "end": 151,
+              "start": 148,
+              "tag": "贡奴"
+            },
+            {
+              "end": 155,
+              "start": 152,
+              "tag": "m男"
+            },
+            {
+              "end": 159,
+              "start": 156,
+              "tag": "堕落"
+            },
+            {
+              "end": 163,
+              "start": 160,
+              "tag": "暗示"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PhM3d3lP1O",
+              "end": 187,
+              "expanded_url": "https://x.com/mazo9512/status/1863589270885396848/photo/1",
+              "media_key": "3_1863589261884432384",
+              "start": 164,
+              "url": "https://t.co/PhM3d3lP1O"
+            },
+            {
+              "display_url": "pic.x.com/PhM3d3lP1O",
+              "end": 187,
+              "expanded_url": "https://x.com/mazo9512/status/1863589270885396848/photo/1",
+              "media_key": "3_1863589261884416001",
+              "start": 164,
+              "url": "https://t.co/PhM3d3lP1O"
+            },
+            {
+              "display_url": "pic.x.com/PhM3d3lP1O",
+              "end": 187,
+              "expanded_url": "https://x.com/mazo9512/status/1863589270885396848/photo/1",
+              "media_key": "3_1863589261880242177",
+              "start": 164,
+              "url": "https://t.co/PhM3d3lP1O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863589270885396848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 513,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "【奇怪的XP】\n作为帮凶～或者说作为【背叛者】\n直接或间接的诱使自己的【同类】\n堕落的更深🖤\n直白来说w\n咱喜欢看到其他m或者sub\n去到s的身边～～【败北白给】❤️\n—————————————\n有意向的各位s可以叩响咱的门扉～\n也许可以随机给各位提供一些【小帮助】\n#催眠 #为虎作伥 #洗脑 #贡奴 #m男 #堕落 #暗示 https://t.co/PhM3d3lP1O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "您好～这里是出道以来一直致力于为小雏男哥哥们提供“舒适”“安全”“极致快感”的纯真妹系小天使魔女妹妹💚\n想了解我请翻看我的推文～\nqq2829556413，碎碎念小号@oricz233\n共同出道的偶像老婆：@moeliQWQ\n温柔榨金老婆@cutelingli\n体贴善良老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 83,
+                "username": "oricz233"
+              },
+              {
+                "end": 112,
+                "start": 103,
+                "username": "moeliQWQ"
+              },
+              {
+                "end": 130,
+                "start": 119,
+                "username": "cutelingli"
+              },
+              {
+                "end": 152,
+                "start": 137,
+                "username": "chessy80978858"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系天使偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862768210711392256/_qeQwE-8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6065,
+          "following_count": 237,
+          "like_count": 213,
+          "listed_count": 26,
+          "media_count": 507,
+          "tweet_count": 1383
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-11T09:40:07.000Z",
+        "description": "性别男 爱好女 isfp 定位上海。 中文 日本語🆗 催眠 50R/次（周末进行 不涉三） #催眠 #洗脑 #控制 QQ:760550930 加好友请说明来意 /亲爱主人：@Reset_one_ 白依姐姐@baiyq1471869",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 49,
+                "start": 46,
+                "tag": "催眠"
+              },
+              {
+                "end": 53,
+                "start": 50,
+                "tag": "洗脑"
+              },
+              {
+                "end": 57,
+                "start": 54,
+                "tag": "控制"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 97,
+                "start": 86,
+                "username": "Reset_one_"
+              },
+              {
+                "end": 115,
+                "start": 102,
+                "username": "baiyq1471869"
+              }
+            ]
+          }
+        },
+        "id": "1315225371462127616",
+        "location": "白依的小屋",
+        "name": "小松こまつ（催眠师形态",
+        "pinned_tweet_id": "1554436291453825024",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860731640601034752/WNc9mG2U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 182,
+          "like_count": 1307,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 211
+        },
+        "username": "mazo9512",
+        "verified": false
+      }
+    ]
+  }
+}

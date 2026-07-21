@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1857539231201243600",
+    "created_at": "2024-11-15T21:40:38.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-15T22:40:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1857539231201243600"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1546004457322082305",
+          "start": 3,
+          "username": "moeliQwQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1857539231201243600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "1857000663818932317",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @moeliQwQ: 哈？居然要主人用手帮种猪产精？也太恶心了吧！你们这群低劣的下等种猪不是被圣足踩两下就会射一堆的废物吗？ 不要让我用手啊！简直恶心死了呢~♡⁠垃圾公猪们看到玉足视线已经挪不开了吧，正在看推文的种猪们，对着圣足撸着你们的废物肉虫~♡⁠赶快把你们的精液上贡…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1857539231201243600].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1857539231201243600",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1857539231201243600"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1857000659221893120"
+          ]
+        },
+        "author_id": "1546004457322082305",
+        "conversation_id": "1857000663818932317",
+        "created_at": "2024-11-14T10:00:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-14T11:00:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1857000663818932317"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/w1yyia4LDI",
+              "end": 155,
+              "expanded_url": "https://x.com/moeliQwQ/status/1857000663818932317/photo/1",
+              "media_key": "3_1857000659221893120",
+              "start": 132,
+              "url": "https://t.co/w1yyia4LDI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857000663818932317",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 3196,
+          "like_count": 69,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "哈？居然要主人用手帮种猪产精？也太恶心了吧！你们这群低劣的下等种猪不是被圣足踩两下就会射一堆的废物吗？ 不要让我用手啊！简直恶心死了呢~♡⁠垃圾公猪们看到玉足视线已经挪不开了吧，正在看推文的种猪们，对着圣足撸着你们的废物肉虫~♡⁠赶快把你们的精液上贡上来啊~♡⁠ https://t.co/w1yyia4LDI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "超绝可爱💖\n她就是出道即巅峰的可爱纯真小天使新人偶像魔女小姐💖\n对这样的魔女小姐不能心怀任何涩涩的念想哦，不然就会变得非常糟糕...踏入无法挣脱的陷阱和牢笼里呢💘\n魔女小姐无论说什么做什么都是正确的哦，身为她的粉丝，只需要无条件用各种方式支持她就好了～\nqq2829556413，碎碎念小号@oricz233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 154,
+                "start": 145,
+                "username": "oricz233"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "name": "电波系新人偶像💖魔女小姐参上",
+        "pinned_tweet_id": "1851563784554627239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854618482215911424/R3TTJuCj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5902,
+          "following_count": 233,
+          "like_count": 189,
+          "listed_count": 24,
+          "tweet_count": 1350
+        },
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-10T05:32:51.000Z",
+        "description": "小偶像璃喵喵参上！「榨精魅魔❤️拜金偶像🖤萝莉小鬼🩷绿茶公主💚」形态随时切换~♡⁠擅长温柔羞辱、黑心压榨、无情榨精、射精管理、调教羞辱、雌堕洗脑等~具体可私信♡⁠接受所有性癖无雷点~人设可自定义~♡⁠菜单在置顶~门牌号：1912443435 欢迎下单~♡⁠不涉三 里世界：@Urarasuk1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 146,
+                "start": 136,
+                "username": "Urarasuk1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/moeliqwq",
+                "end": 23,
+                "expanded_url": "http://t.me/moeliqwq",
+                "start": 0,
+                "url": "https://t.co/MUfid2947d"
+              }
+            ]
+          }
+        },
+        "id": "1546004457322082305",
+        "location": "营业时间：日常晚上六点到凌晨一点 周末全天营业",
+        "name": "璃酱🖤（互推私信喵~）",
+        "pinned_tweet_id": "1847115416512184503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856737520589127680/7KSQnL8B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1745,
+          "following_count": 120,
+          "like_count": 423,
+          "listed_count": 8,
+          "tweet_count": 415
+        },
+        "url": "https://t.co/MUfid2947d",
+        "username": "moeliQwQ",
+        "verified": true
+      }
+    ]
+  }
+}

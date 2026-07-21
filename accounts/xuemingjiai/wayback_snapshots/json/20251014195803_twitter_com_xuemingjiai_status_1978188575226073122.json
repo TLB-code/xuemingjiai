@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "1978188575226073122",
+    "created_at": "2025-10-14T19:58:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T20:58:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978188575226073122"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1976376041351544832",
+          "start": 3,
+          "username": "jingli521"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978188575226073122",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978187700302667803",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jingli521: 客人们好~这里是新人文媛镜璃哦（叉腰），既可以是温柔妈咪~也可以是可爱妹妹~当然……也可以当可怕残忍的压榨主使用钱包哦🖤（不涉三哟）\n目前主要玩法有：剧情文爱/黑心/绿茶/榨金/洗脑（玩法拓展中），致力于让每位客都开开心心舒舒服服的喔❤️欢迎前来光…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1947,
+        "media_key": "3_1978187695655616512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3PvOnKaAAAz37K.jpg",
+        "width": 1094
+      },
+      {
+        "height": 1689,
+        "media_key": "3_1978187696163233792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3PvOpDboAAB-2g.jpg",
+        "width": 1092
+      },
+      {
+        "height": 2005,
+        "media_key": "3_1978187696343584768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3PvOpubkAA8km5.jpg",
+        "width": 1072
+      },
+      {
+        "height": 1200,
+        "media_key": "3_1978187697148821504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3PvOsuagAAioRV.jpg",
+        "width": 821
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "1978188575226073122",
+        "created_at": "2025-10-14T19:58:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T20:58:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978188575226073122"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1976376041351544832",
+              "start": 3,
+              "username": "jingli521"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978188575226073122",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978187700302667803",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jingli521: 客人们好~这里是新人文媛镜璃哦（叉腰），既可以是温柔妈咪~也可以是可爱妹妹~当然……也可以当可怕残忍的压榨主使用钱包哦🖤（不涉三哟）\n目前主要玩法有：剧情文爱/黑心/绿茶/榨金/洗脑（玩法拓展中），致力于让每位客都开开心心舒舒服服的喔❤️欢迎前来光…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978187695655616512",
+            "3_1978187696163233792",
+            "3_1978187696343584768",
+            "3_1978187697148821504"
+          ]
+        },
+        "author_id": "1976376041351544832",
+        "conversation_id": "1978187700302667803",
+        "created_at": "2025-10-14T19:54:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T20:54:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978187700302667803"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jtUeKbpMKb",
+              "end": 169,
+              "expanded_url": "https://x.com/jingli521/status/1978187700302667803/photo/1",
+              "media_key": "3_1978187695655616512",
+              "start": 146,
+              "url": "https://t.co/jtUeKbpMKb"
+            },
+            {
+              "display_url": "pic.x.com/jtUeKbpMKb",
+              "end": 169,
+              "expanded_url": "https://x.com/jingli521/status/1978187700302667803/photo/1",
+              "media_key": "3_1978187696163233792",
+              "start": 146,
+              "url": "https://t.co/jtUeKbpMKb"
+            },
+            {
+              "display_url": "pic.x.com/jtUeKbpMKb",
+              "end": 169,
+              "expanded_url": "https://x.com/jingli521/status/1978187700302667803/photo/1",
+              "media_key": "3_1978187696343584768",
+              "start": 146,
+              "url": "https://t.co/jtUeKbpMKb"
+            },
+            {
+              "display_url": "pic.x.com/jtUeKbpMKb",
+              "end": 169,
+              "expanded_url": "https://x.com/jingli521/status/1978187700302667803/photo/1",
+              "media_key": "3_1978187697148821504",
+              "start": 146,
+              "url": "https://t.co/jtUeKbpMKb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978187700302667803",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "客人们好~这里是新人文媛镜璃哦（叉腰），既可以是温柔妈咪~也可以是可爱妹妹~当然……也可以当可怕残忍的压榨主使用钱包哦🖤（不涉三哟）\n目前主要玩法有：剧情文爱/黑心/绿茶/榨金/洗脑（玩法拓展中），致力于让每位客都开开心心舒舒服服的喔❤️欢迎前来光顾呀~爱你们❤️\n（深夜也欢迎打扰喔ww） https://t.co/jtUeKbpMKb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "世界上最会享用钱包的美丽公主🤍\n我是一名钱包刽子手。\n如果你也想被我杀死的话→\n3971546171←\n病毒小号@oricz233\n超绝可爱的偶像老婆：@moelipoi\n温柔腹黑老婆@cutelingli\n体贴善良老婆@chessy80978858\n好女仆：@1xian1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 56,
+                "username": "oricz233"
+              },
+              {
+                "end": 85,
+                "start": 76,
+                "username": "moelipoi"
+              },
+              {
+                "end": 103,
+                "start": 92,
+                "username": "cutelingli"
+              },
+              {
+                "end": 125,
+                "start": 110,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 137,
+                "start": 130,
+                "username": "1xian1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARosxSy"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "电波系魔女族公主-奏🤍快被舔狗钱包舔废版～",
+        "pinned_tweet_id": "1976743806063063398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969152325731168256/ozl0k8K4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7782,
+          "following_count": 318,
+          "like_count": 637,
+          "listed_count": 34,
+          "media_count": 733,
+          "tweet_count": 2221
+        },
+        "url": "https://t.co/le8ARosxSy",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-09T19:56:14.000Z",
+        "description": "客人们好~这里是新人文媛镜璃，既可以是温柔妈咪~可以是可爱姐姐/妹妹~当然……也可以当可怕残忍的压榨主使用钱包哦🖤（不涉三哟）\n目前主要玩法有：剧情文爱/黑心/绿茶/榨金/洗脑（玩法拓展中），门牌🚪q3775591357，致力于让每位客都开开心心舒舒服服的喔❤️欢迎前来光顾~\n最可爱的奏奏：@xuemingjiai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 158,
+                "start": 146,
+                "username": "xuemingjiai"
+              }
+            ]
+          }
+        },
+        "id": "1976376041351544832",
+        "location": "镜璃的柔软小床~深夜也欢迎打扰哦~",
+        "name": "是镜璃哟~",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976382867484573696/xBv-mA-R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 7,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 1
+        },
+        "username": "jingli521",
+        "verified": false
+      }
+    ]
+  }
+}
