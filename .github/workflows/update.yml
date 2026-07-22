@@ -5,6 +5,10 @@ on:
     - cron: '0 2 * * 0'
   workflow_dispatch:
 
+concurrency:
+  group: incremental-archive-${{ github.ref }}
+  cancel-in-progress: false
+
 jobs:
   update-html-image:
     name: 增量 HTML+图片
@@ -55,17 +59,14 @@ jobs:
         if: steps.check.outputs.skip == 'false'
         run: pip install requests beautifulsoup4 lxml
 
-      - name: 拉取最新 archive.py 和前端文件
+      - name: 验证仓库内归档脚本
         if: steps.check.outputs.skip == 'false'
         run: |
-          curl -fsSL "https://raw.githubusercontent.com/sjshb57/Test/main/archive.py" \
-            -o /tmp/archive.py
-          curl -fsSL "https://raw.githubusercontent.com/sjshb57/Test/main/index.html" \
-            -o index.html || true
-          ACCOUNTS="${{ steps.info.outputs.accounts }}"
-          ACCOUNTS_JSON=$(echo "$ACCOUNTS" | awk '{printf "'\''%s'\'', ", $0}' | sed "s/, $//")
-          sed -i "s/const ACCOUNTS_HARDCODED = \[.*\]/const ACCOUNTS_HARDCODED = [${ACCOUNTS_JSON}]/" index.html || true
-          echo "✅ archive.py ($(wc -l < /tmp/archive.py) 行)"
+          test -f archive.py
+          test -f index.html
+          test -f legacy_html_archive.py
+          test -f apply_reader_overrides.py
+          echo "✅ 使用仓库内已审核的 archive.py，不覆盖 index.html"
 
       - name: fetch-cdx
         if: steps.check.outputs.skip == 'false'
@@ -73,7 +74,7 @@ jobs:
           while IFS= read -r U; do
             if [ -z "$U" ]; then continue; fi
             if [ ! -d "accounts/${U}/wayback_snapshots" ]; then continue; fi
-            cd accounts/${U} && python3 /tmp/archive.py fetch-cdx "$U" || true
+            cd accounts/${U} && python3 ../../archive.py fetch-cdx "$U" || true
             cd ../..
           done <<< "${{ steps.info.outputs.accounts }}"
 
@@ -83,7 +84,7 @@ jobs:
           while IFS= read -r U; do
             if [ -z "$U" ]; then continue; fi
             if [ ! -d "accounts/${U}/wayback_snapshots" ]; then continue; fi
-            cd accounts/${U} && python3 /tmp/archive.py fetch-html || true
+            cd accounts/${U} && python3 ../../archive.py fetch-html || true
             cd ../..
           done <<< "${{ steps.info.outputs.accounts }}"
 
@@ -93,7 +94,7 @@ jobs:
           while IFS= read -r U; do
             if [ -z "$U" ]; then continue; fi
             if [ ! -d "accounts/${U}/wayback_snapshots" ]; then continue; fi
-            cd accounts/${U} && python3 /tmp/archive.py fetch-image || true
+            cd accounts/${U} && python3 ../../archive.py fetch-image || true
             cd ../..
           done <<< "${{ steps.info.outputs.accounts }}"
 
@@ -103,17 +104,7 @@ jobs:
           while IFS= read -r U; do
             if [ -z "$U" ]; then continue; fi
             if [ ! -d "accounts/${U}/wayback_snapshots" ]; then continue; fi
-            cd accounts/${U} && python3 /tmp/archive.py retry --image-failed || true
-            cd ../..
-          done <<< "${{ steps.info.outputs.accounts }}"
-
-      - name: clean-html --force
-        if: steps.check.outputs.skip == 'false'
-        run: |
-          while IFS= read -r U; do
-            if [ -z "$U" ]; then continue; fi
-            if [ ! -d "accounts/${U}/wayback_snapshots" ]; then continue; fi
-            cd accounts/${U} && python3 /tmp/archive.py clean-html --force || true
+            cd accounts/${U} && python3 ../../archive.py retry --image-failed || true
             cd ../..
           done <<< "${{ steps.info.outputs.accounts }}"
 
@@ -170,15 +161,15 @@ jobs:
       - name: 安装依赖
         run: pip install requests beautifulsoup4 lxml
 
-      - name: 拉取最新 archive.py
-        run: curl -fsSL "https://raw.githubusercontent.com/sjshb57/Test/main/archive.py" -o /tmp/archive.py
+      - name: 验证仓库内归档脚本
+        run: test -f archive.py
 
       - name: fetch-video
         run: |
           while IFS= read -r U; do
             if [ -z "$U" ]; then continue; fi
             if [ ! -d "accounts/${U}/wayback_snapshots" ]; then continue; fi
-            cd accounts/${U} && python3 /tmp/archive.py fetch-video || true
+            cd accounts/${U} && python3 ../../archive.py fetch-video || true
             cd ../..
           done <<< "${{ steps.info.outputs.accounts }}"
 
@@ -187,16 +178,7 @@ jobs:
           while IFS= read -r U; do
             if [ -z "$U" ]; then continue; fi
             if [ ! -d "accounts/${U}/wayback_snapshots" ]; then continue; fi
-            cd accounts/${U} && python3 /tmp/archive.py retry --video-failed || true
-            cd ../..
-          done <<< "${{ steps.info.outputs.accounts }}"
-
-      - name: clean-html --force
-        run: |
-          while IFS= read -r U; do
-            if [ -z "$U" ]; then continue; fi
-            if [ ! -d "accounts/${U}/wayback_snapshots" ]; then continue; fi
-            cd accounts/${U} && python3 /tmp/archive.py clean-html --force || true
+            cd accounts/${U} && python3 ../../archive.py retry --video-failed || true
             cd ../..
           done <<< "${{ steps.info.outputs.accounts }}"
 
@@ -252,15 +234,18 @@ jobs:
       - name: 安装依赖
         run: pip install requests beautifulsoup4 lxml
 
-      - name: 拉取最新 archive.py
-        run: curl -fsSL "https://raw.githubusercontent.com/sjshb57/Test/main/archive.py" -o /tmp/archive.py
+      - name: 验证仓库内归档脚本
+        run: |
+          test -f archive.py
+          test -f legacy_html_archive.py
+          test -f apply_reader_overrides.py
 
       - name: fetch-avatars
         run: |
           while IFS= read -r U; do
             if [ -z "$U" ]; then continue; fi
             if [ ! -d "accounts/${U}/wayback_snapshots" ]; then continue; fi
-            cd accounts/${U} && python3 /tmp/archive.py fetch-avatars || true
+            cd accounts/${U} && python3 ../../archive.py fetch-avatars || true
             cd ../..
           done <<< "${{ steps.info.outputs.accounts }}"
 
@@ -269,16 +254,41 @@ jobs:
           while IFS= read -r U; do
             if [ -z "$U" ]; then continue; fi
             if [ ! -d "accounts/${U}/wayback_snapshots" ]; then continue; fi
-            cd accounts/${U} && python3 /tmp/archive.py retry --avatar-failed || true
+            cd accounts/${U} && python3 ../../archive.py retry --avatar-failed || true
             cd ../..
           done <<< "${{ steps.info.outputs.accounts }}"
+
+      - name: 合并 Wayback text-html 档案
+        run: |
+          if [ -d accounts/zouzoudamowang/wayback_snapshots ]; then
+            python3 legacy_html_archive.py manifest \
+              --username zouzoudamowang \
+              --account-dir accounts/zouzoudamowang \
+              --from-year 2021 \
+              --to-year "$(date -u +%Y)" || echo "⚠️ Wayback HTML 清单更新失败，继续使用现有清单"
+            python3 legacy_html_archive.py download \
+              --username zouzoudamowang \
+              --account-dir accounts/zouzoudamowang \
+              --from-year 2021 \
+              --to-year "$(date -u +%Y)" \
+              --workers 1 \
+              --delay 2 || echo "⚠️ 部分 Wayback HTML 下载失败，继续导入已保存文件"
+            python3 legacy_html_archive.py import \
+              --username zouzoudamowang \
+              --account-dir accounts/zouzoudamowang \
+              --from-year 2021 \
+              --to-year "$(date -u +%Y)"
+          fi
+
+      - name: 重建前应用阅读器覆盖
+        run: python3 apply_reader_overrides.py
 
       - name: clean-html --force
         run: |
           while IFS= read -r U; do
             if [ -z "$U" ]; then continue; fi
             if [ ! -d "accounts/${U}/wayback_snapshots" ]; then continue; fi
-            cd accounts/${U} && python3 /tmp/archive.py clean-html --force || true
+            cd accounts/${U} && python3 ../../archive.py clean-html --force
             cd ../..
           done <<< "${{ steps.info.outputs.accounts }}"
 
@@ -287,9 +297,20 @@ jobs:
           while IFS= read -r U; do
             if [ -z "$U" ]; then continue; fi
             if [ ! -d "accounts/${U}/wayback_snapshots" ]; then continue; fi
-            cd accounts/${U} && python3 /tmp/archive.py build-index || true
+            cd accounts/${U} && python3 ../../archive.py build-index
             cd ../..
           done <<< "${{ steps.info.outputs.accounts }}"
+
+      - name: 应用覆盖并验证阅读器
+        run: |
+          python3 apply_reader_overrides.py
+          python3 apply_reader_overrides.py --check
+          python3 -m unittest discover -s tests -v
+          python3 -c "import json; p='accounts/zouzoudamowang/wayback_snapshots/index.json'; data=json.load(open(p, encoding='utf-8')); assert len(data) >= 399, f'legacy index shrank to {len(data)} records'"
+          if grep -R -F 'YYYYYYY' accounts/zouzoudamowang/wayback_snapshots/html; then
+            echo "❌ 生成 HTML 中仍有占位名称"
+            exit 1
+          fi
 
       - name: 推送
         run: |
