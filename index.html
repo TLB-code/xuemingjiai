@@ -1802,6 +1802,7 @@ function onFrameLoad(iframe) {
   }
   // 所有iframe都做图片精确处理（基于 wanted_images / embedded_images）
   fixImagesInFrame(iframe);
+  observeFrameSize(iframe);
   autoHeight(iframe);  // 处理完所有DOM操作后再算高度
   // 关键：等 100ms 让 fixImagesInFrame 内部 80ms 的 setTimeout（折叠 embedded + 重算高度）跑完
   // 然后再标记 loaded —— jumpToRecent 依赖此标记判定 iframe 高度是否真正稳定
@@ -2308,6 +2309,38 @@ function autoHeight(iframe) {
     // 恢复滚动位置
     if (col) col.scrollTop = savedTop;
   } catch(e) { iframe.style.height = '400px'; }
+}
+
+/* 图片采用 lazy loading，iframe 的 load 事件可能早于图片完成。
+   图片加载及正文尺寸变化后重新计算高度，避免完整图片被 iframe 边界裁切。 */
+function observeFrameSize(iframe) {
+  try {
+    const doc = iframe.contentDocument || iframe.contentWindow?.document;
+    if (!doc || !doc.body) return;
+
+    let heightUpdatePending = false;
+    const scheduleHeightUpdate = () => {
+      if (heightUpdatePending || !iframe.isConnected) return;
+      heightUpdatePending = true;
+      requestAnimationFrame(() => {
+        heightUpdatePending = false;
+        if (iframe.isConnected) autoHeight(iframe);
+      });
+    };
+
+    doc.querySelectorAll('img').forEach(img => {
+      if (!img.complete) {
+        img.addEventListener('load', scheduleHeightUpdate, { once: true });
+        img.addEventListener('error', scheduleHeightUpdate, { once: true });
+      }
+    });
+
+    if (iframe.__readerResizeObserver) iframe.__readerResizeObserver.disconnect();
+    if (window.ResizeObserver) {
+      iframe.__readerResizeObserver = new ResizeObserver(scheduleHeightUpdate);
+      iframe.__readerResizeObserver.observe(doc.body);
+    }
+  } catch(e) {}
 }
 
 /* ── 主题注入 iframe ──────────────────────────────────── */
