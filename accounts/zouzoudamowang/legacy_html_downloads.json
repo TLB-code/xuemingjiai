@@ -819,15 +819,13 @@
     "status": "downloaded",
     "path": "accounts/zouzoudamowang/wayback_snapshots/legacy_html/1470261549377875969/20211213052237.html",
     "bytes": 611633,
-    "sha256": "f8a5b6d1de6773a0d7af7847114caa5100308f088d152424a43b757e48df0694",
-    "final_url": "https://web.archive.org/web/20211213052237if_/https://twitter.com/zouzoudamowang/status/1470261549377875969"
+    "sha256": "f8a5b6d1de6773a0d7af7847114caa5100308f088d152424a43b757e48df0694"
   },
   "20211213055254|https://twitter.com/zouzoudamowang/status/1470269196928192517": {
     "status": "downloaded",
     "path": "accounts/zouzoudamowang/wayback_snapshots/legacy_html/1470269196928192517/20211213055254.html",
     "bytes": 626616,
-    "sha256": "089ae2d09cb7e11e74dbe7245b28d5eb0cde82e48bed1a1ddd31af72048dee1a",
-    "final_url": "https://web.archive.org/web/20211213055254if_/https://twitter.com/zouzoudamowang/status/1470269196928192517"
+    "sha256": "089ae2d09cb7e11e74dbe7245b28d5eb0cde82e48bed1a1ddd31af72048dee1a"
   },
   "20211213060557|https://twitter.com/zouzoudamowang/status/1470273748784021506": {
     "status": "downloaded",
@@ -1301,20 +1299,20 @@
     "status": "downloaded",
     "path": "accounts/zouzoudamowang/wayback_snapshots/legacy_html/1475400826760101892/20211227094410.html",
     "bytes": 582587,
-    "sha256": "081d2aefebecb8f8609a109aac92118012fd42c72fcb129f0e4a83168eae3f9b",
-    "final_url": "https://web.archive.org/web/20211227094410if_/https://twitter.com/zouzoudamowang/status/1475400826760101892"
+    "sha256": "081d2aefebecb8f8609a109aac92118012fd42c72fcb129f0e4a83168eae3f9b"
   },
   "20211227100455|https://twitter.com/zouzoudamowang/status/1475406045241491456": {
     "status": "downloaded",
     "path": "accounts/zouzoudamowang/wayback_snapshots/legacy_html/1475406045241491456/20211227100455.html",
     "bytes": 586877,
-    "sha256": "8b3efe99cbc4c2c7537cef7675f5262bf7336ee8d31f37ecf7561cd56799d557",
-    "final_url": "https://web.archive.org/web/20211227100455if_/https://twitter.com/zouzoudamowang/status/1475406045241491456"
+    "sha256": "8b3efe99cbc4c2c7537cef7675f5262bf7336ee8d31f37ecf7561cd56799d557"
   },
   "20211229002513|https://twitter.com/zouzoudamowang/status/1475984949031608321": {
-    "status": "failed",
+    "status": "downloaded",
     "path": "accounts/zouzoudamowang/wayback_snapshots/legacy_html/1475984949031608321/20211229002513.html",
-    "error": "SSLError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20211229002513if_/https://twitter.com/zouzoudamowang/status/1475984949031608321 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)')))"
+    "bytes": 590087,
+    "sha256": "7b4335efdb9befb71a116d247945ee8d788b592965035e47594fe1968bc0ca3d",
+    "final_url": "https://web.archive.org/web/20211229002513if_/https://twitter.com/zouzoudamowang/status/1475984949031608321"
   },
   "20211229002635|https://twitter.com/zouzoudamowang/status/1475985248475545600": {
     "status": "downloaded",
@@ -1623,9 +1621,11 @@
     "sha256": "5adb85706540804c1ba4abb8699f5e6d2b846dc978e6efae78df0c1c321b8909"
   },
   "20220203034241|https://twitter.com/zouzoudamowang/status/1396353541820751875": {
-    "status": "failed",
+    "status": "downloaded",
     "path": "accounts/zouzoudamowang/wayback_snapshots/legacy_html/1396353541820751875/20220203034241.html",
-    "error": "SSLError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20220203034241if_/https://twitter.com/zouzoudamowang/status/1396353541820751875 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)')))"
+    "bytes": 535264,
+    "sha256": "8783c207789a1634e29a8178c4d4eac77b9282cd76e8ca99f71dd32194752301",
+    "final_url": "https://web.archive.org/web/20220203034241if_/https://twitter.com/zouzoudamowang/status/1396353541820751875"
   },
   "20220211190041|https://twitter.com/zouzoudamowang/status/1492210729466089473": {
     "status": "downloaded",
@@ -1826,9 +1826,11 @@
     "sha256": "aba283bb82d4c0f1bf34e02b7c3a486ce222aa65f369ff9758b19e12fef07723"
   },
   "20220228190150|https://twitter.com/zouzoudamowang/status/1498372816185425921": {
-    "status": "failed",
+    "status": "downloaded",
     "path": "accounts/zouzoudamowang/wayback_snapshots/legacy_html/1498372816185425921/20220228190150.html",
-    "error": "SSLError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20220228190150if_/https://twitter.com/zouzoudamowang/status/1498372816185425921 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)')))"
+    "bytes": 495730,
+    "sha256": "0ae0eae4f517a140546b7a8520b840faa3815737644d4f6c577cf571990649f3",
+    "final_url": "https://web.archive.org/web/20220228190150if_/https://twitter.com/zouzoudamowang/status/1498372816185425921"
   },
   "20220302155524|https://twitter.com/zouzoudamowang/status/1499050702877851649": {
     "status": "downloaded",
@@ -1843,9 +1845,11 @@
     "sha256": "2b68710cf5d1608d5bd4c46c3396c3dc8c2df899fc9dc90f4e7ccce15a2d7b91"
   },
   "20220302155003|https://twitter.com/zouzoudamowang/status/1499049246711975937": {
-    "status": "failed",
+    "status": "downloaded",
     "path": "accounts/zouzoudamowang/wayback_snapshots/legacy_html/1499049246711975937/20220302155003.html",
-    "error": "SSLError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20220302155003if_/https://twitter.com/zouzoudamowang/status/1499049246711975937 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)')))"
+    "bytes": 474201,
+    "sha256": "08594ca092a3c0bd0108f41b25ce86aee12f4ca41bacc7dd7815c88f2c7cbce2",
+    "final_url": "https://web.archive.org/web/20220302155003if_/https://twitter.com/zouzoudamowang/status/1499049246711975937"
   },
   "20220302160818|https://twitter.com/zouzoudamowang/status/1499053881979904002": {
     "status": "downloaded",
@@ -1869,8 +1873,7 @@
     "status": "downloaded",
     "path": "accounts/zouzoudamowang/wayback_snapshots/legacy_html/1499052704366153729/20220302160343.html",
     "bytes": 505831,
-    "sha256": "339f72b2c3cc70a6e354d132248676c0bdc88f5a092e0a030471429a8d5093a4",
-    "final_url": "https://web.archive.org/web/20220302160343if_/https://twitter.com/zouzoudamowang/status/1499052704366153729"
+    "sha256": "339f72b2c3cc70a6e354d132248676c0bdc88f5a092e0a030471429a8d5093a4"
   },
   "20220302170405|https://twitter.com/zouzoudamowang/status/1499067966771458051": {
     "status": "downloaded",
@@ -2224,8 +2227,7 @@
     "status": "downloaded",
     "path": "accounts/zouzoudamowang/wayback_snapshots/legacy_html/1530104437720526848/20220527091639.html",
     "bytes": 549935,
-    "sha256": "0767fc6b86aae464214b2dfd16ea132e1e9f71331a6c0143e4db7fdc3fd5abc0",
-    "final_url": "https://web.archive.org/web/20220527091639if_/https://twitter.com/zouzoudamowang/status/1530104437720526848"
+    "sha256": "0767fc6b86aae464214b2dfd16ea132e1e9f71331a6c0143e4db7fdc3fd5abc0"
   },
   "20220601154212|https://twitter.com/zouzoudamowang/status/1530836388173979649": {
     "status": "downloaded",
