@@ -1,0 +1,528 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile gaming",
+          "id": "847527946864607232",
+          "name": "Mobile gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "Video Game Hardware",
+          "id": "79",
+          "name": "Video Game Hardware"
+        },
+        "entity": {
+          "description": "Mobile gaming",
+          "id": "847527946864607232",
+          "name": "Mobile gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Mobile gaming",
+          "id": "847527946864607232",
+          "name": "Mobile gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Video Game Hardware",
+          "id": "1070028376662888448",
+          "name": "Console gaming"
+        }
+      }
+    ],
+    "conversation_id": "2087192274195411133",
+    "created_at": "2026-08-11T14:59:50.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T15:59:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087192274195411133"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1374389254726455305",
+          "start": 3,
+          "username": "xuemingjiai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087192274195411133",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084268666212974834",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xuemingjiai: 各位杂鱼们~\n最近是不是又在市面上那些千篇一律的手游里打\n转，转着转着就腻了呀？那些重复的刷刷刷、毫无\n新意的数值膨胀...是不是已经提不起劲了呢？嘻\n嘻，来吧，来姐姐这里，试试奏游这杯特别调制的\n“毒酒”如何～?\n奏游可是由魅魔阵营与勇者阵营…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1652,
+        "media_key": "3_2084268202411081728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOzO4x1awAAadut.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1512,
+        "media_key": "3_2084268202461446145",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOzO4yBbQAE0Kls.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2084268202427813888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOzO4x5aEAAe9bs.jpg",
+        "width": 1138
+      },
+      {
+        "height": 1216,
+        "media_key": "3_2084268418333904896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOzPFWNbkAALkkZ.jpg",
+        "width": 832
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Hardware",
+              "id": "1070028376662888448",
+              "name": "Console gaming"
+            }
+          }
+        ],
+        "conversation_id": "2087192274195411133",
+        "created_at": "2026-08-11T14:59:50.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T15:59:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087192274195411133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1374389254726455305",
+              "start": 3,
+              "username": "xuemingjiai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087192274195411133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084268666212974834",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xuemingjiai: 各位杂鱼们~\n最近是不是又在市面上那些千篇一律的手游里打\n转，转着转着就腻了呀？那些重复的刷刷刷、毫无\n新意的数值膨胀...是不是已经提不起劲了呢？嘻\n嘻，来吧，来姐姐这里，试试奏游这杯特别调制的\n“毒酒”如何～?\n奏游可是由魅魔阵营与勇者阵营…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084268202411081728",
+            "3_2084268202461446145",
+            "3_2084268202427813888",
+            "3_2084268418333904896"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Hardware",
+              "id": "1070028376662888448",
+              "name": "Console gaming"
+            }
+          }
+        ],
+        "conversation_id": "2084268666212974834",
+        "created_at": "2026-08-03T13:22:28.000Z",
+        "display_text_range": [
+          0,
+          130
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-03T14:22:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084268666212974834"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4r889N51UJ",
+              "end": 154,
+              "expanded_url": "https://x.com/xuemingjiai/status/2084268666212974834/photo/1",
+              "media_key": "3_2084268202411081728",
+              "start": 131,
+              "url": "https://t.co/4r889N51UJ"
+            },
+            {
+              "display_url": "pic.x.com/4r889N51UJ",
+              "end": 154,
+              "expanded_url": "https://x.com/xuemingjiai/status/2084268666212974834/photo/1",
+              "media_key": "3_2084268202461446145",
+              "start": 131,
+              "url": "https://t.co/4r889N51UJ"
+            },
+            {
+              "display_url": "pic.x.com/4r889N51UJ",
+              "end": 154,
+              "expanded_url": "https://x.com/xuemingjiai/status/2084268666212974834/photo/1",
+              "media_key": "3_2084268202427813888",
+              "start": 131,
+              "url": "https://t.co/4r889N51UJ"
+            },
+            {
+              "display_url": "pic.x.com/4r889N51UJ",
+              "end": 154,
+              "expanded_url": "https://x.com/xuemingjiai/status/2084268666212974834/photo/1",
+              "media_key": "3_2084268418333904896",
+              "start": 131,
+              "url": "https://t.co/4r889N51UJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084268666212974834",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2084268202411081728"
+          },
+          {
+            "media_key": "3_2084268202461446145"
+          },
+          {
+            "media_key": "3_2084268202427813888"
+          },
+          {
+            "media_key": "3_2084268418333904896"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "各位杂鱼们~\n最近是不是又在市面上那些千篇一律的手游里打\n转，转着转着就腻了呀？那些重复的刷刷刷、毫无\n新意的数值膨胀...是不是已经提不起劲了呢？嘻\n嘻，来吧，来姐姐这里，试试奏游这杯特别调制的\n“毒酒”如何～?\n奏游可是由魅魔阵营与勇者阵营共同编织的甜蜜战\n场哦。在这里，你们这些自诩正义的勇者，既能痛\n快地打怪升级、探索副本，享受纯粹的PVE成长快\n感；也能在棋盘上与其他人正面较量，炫耀自己真\n正的棋力与策略。\n想要更刺激、更心跳加速的吗？轮盘赌随时恭候.\n那些一掷千金的瞬间，足够让你们血脉偾张～而喜\n欢悠闲放松的杂鱼们，也可以来赌马场坐坐，看着\n数字狂飙，一夜暴富的幻想与瞬间清空的绝望交\n织，那种灵魂被彻底玩弄的滋味..姐姐可是很推\n荐的呢❤\n不过呀，最最最诱人的，还是我们魅魔与勇者之间\n那纠缠不清的故事。\n你们这些勇者，要小心翼翼地收集散落在各处的\n“碎片”才行哦~稍不留神，就会被潜伏在暗处的魅魔姐妹们盯上。被抓住的话....呵呵，碎片会被悉\n数夺走，然后呢？就是勇者彻底的大败北啦~从高\n傲的英雄，沦为被魅魔玩弄于股掌之间的可爱模\n样…….想想就觉得有趣，对吧？\n来吧，来吧~\n别再犹豫了，杂鱼勇者们。\n姐姐已经在游戏里张开翅膀，等着你们自己送上门\n来呢❤\n奏游的链接就在下方，快点点击体验吧。\n第一次被魅魔抓住的滋味..…..可要好好记住哦~\n(快来玩呀~姐姐会温柔……还是稍微粗暴一点地\n欢迎你们呢？嘻嘻。)\n奏游宣传贴~扫码就可以加入新人群一起玩哦"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 26167,
+          "like_count": 135,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "各位杂鱼们~\n最近是不是又在市面上那些千篇一律的手游里打\n转，转着转着就腻了呀？那些重复的刷刷刷、毫无\n新意的数值膨胀...是不是已经提不起劲了呢？嘻\n嘻，来吧，来姐姐这里，试试奏游这杯特别调制的\n“毒酒”如何～?\n奏游可是由魅魔阵营与勇者阵营共同编织的甜蜜战 https://t.co/4r889N51UJ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "超绝可爱文援姬，黑心偶像贡系推主\n独立网游-魔女奏奏的世界 文本策划兼运营\n欢迎体验加入奏游\n里世界发情小号@oricz233\n星辰魔女镜璃\n@jingli1840489\n好老婆@chessy80978858\n亲爱的黑心天使小亦@choeycholote\nqq2829556413←添加上就会被提款当做钱包使用喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 54,
+                "username": "oricz233"
+              },
+              {
+                "end": 85,
+                "start": 71,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 104,
+                "start": 89,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 127,
+                "start": 114,
+                "username": "choeycholote"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARosxSy"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "is_identity_verified": false,
+        "location": "小猪老婆@Reset_one_",
+        "most_recent_tweet_id": "2087192274195411133",
+        "name": "超可爱超绿茶超撩人的精灵魔女-奏奏💚",
+        "pinned_tweet_id": "2082056419176767686",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1374389254726455305/1780949984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081260158194458624/DeyvE0-y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9580,
+          "following_count": 436,
+          "like_count": 682,
+          "listed_count": 41,
+          "media_count": 850,
+          "tweet_count": 2240
+        },
+        "url": "https://t.co/le8ARosxSy",
+        "username": "xuemingjiai",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

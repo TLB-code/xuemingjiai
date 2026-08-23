@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "2084651365478117575",
+    "created_at": "2026-08-04T14:43:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T15:43:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084651365478117575"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1852926328963522560",
+          "start": 3,
+          "username": "oricz233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084651365478117575",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084641358321693178",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oricz233: 其实奏奏基本属于全天发情状态，但是很挑人，时间，电波，意思就是想要我对你发情其实很简单，你按照我的性癖来我就会发情!\n美少女头像(最好二次元)然后给我发涩图(直接的足底 鞋子 屁股 臀部 不要裸足 屁股和足底同框 诱惑的姿势，不在乎是不是男娘啦，二次…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2084641162665803777",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO4iF7DaQAEaCvA.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "2084651365478117575",
+        "created_at": "2026-08-04T14:43:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T15:43:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084651365478117575"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1852926328963522560",
+              "start": 3,
+              "username": "oricz233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084651365478117575",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084641358321693178",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @oricz233: 其实奏奏基本属于全天发情状态，但是很挑人，时间，电波，意思就是想要我对你发情其实很简单，你按照我的性癖来我就会发情!\n美少女头像(最好二次元)然后给我发涩图(直接的足底 鞋子 屁股 臀部 不要裸足 屁股和足底同框 诱惑的姿势，不在乎是不是男娘啦，二次…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084641162665803777"
+          ]
+        },
+        "author_id": "1852926328963522560",
+        "conversation_id": "2084641358321693178",
+        "created_at": "2026-08-04T14:03:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T15:03:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084641358321693178"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DIw7RGSYPG",
+              "end": 171,
+              "expanded_url": "https://x.com/oricz233/status/2084641358321693178/photo/1",
+              "media_key": "3_2084641162665803777",
+              "start": 148,
+              "url": "https://t.co/DIw7RGSYPG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084641358321693178",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 201,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "其实奏奏基本属于全天发情状态，但是很挑人，时间，电波，意思就是想要我对你发情其实很简单，你按照我的性癖来我就会发情!\n美少女头像(最好二次元)然后给我发涩图(直接的足底 鞋子 屁股 臀部 不要裸足 屁股和足底同框 诱惑的姿势，不在乎是不是男娘啦，二次元三次元都可以不要露脸!)大概率就会被诱惑! https://t.co/DIw7RGSYPG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "佛系文援，贡系推主\n独立网游-魔女奏奏的世界 文本策划兼运营\nhttps://t.co/nHUUcUuqrt\ntg频道，欢迎体验加入奏游\n里世界发情小号@oricz233\n星辰魔女镜璃\n@jingli1840489\n好老婆@chessy80978858\n亲爱的黑心天使小亦@choeycholote",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 76,
+                "username": "oricz233"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 126,
+                "start": 111,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 149,
+                "start": 136,
+                "username": "choeycholote"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+LI_NqPcVcKc0M…",
+                "end": 54,
+                "expanded_url": "https://t.me/+LI_NqPcVcKc0MGVl",
+                "start": 31,
+                "url": "https://t.co/nHUUcUuqrt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARosxSy"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "超可爱超绿茶超撩人的精灵魔女-奏奏💚",
+        "pinned_tweet_id": "2082056419176767686",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081260158194458624/DeyvE0-y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9508,
+          "following_count": 433,
+          "like_count": 671,
+          "listed_count": 39,
+          "media_count": 847,
+          "tweet_count": 2298
+        },
+        "url": "https://t.co/le8ARosxSy",
+        "username": "xuemingjiai",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-03T04:10:46.000Z",
+        "description": "嗯 如你所见这就是魔女妹妹@xuemingjiai 的小号哦\n是经过深思熟虑后向大家展示的另外一面\n有s属性有m属性并不丢人好不好!相反应该是超级可爱的属性才对吧，所以不接受诋毁喵♡\n以后会在这个号上更新自己的m性癖分享，上贡分享喵\n啊啊啊忍不了了，发情♡已上贡金额2505♡\nqq2829556413喵，欢迎上门提款♡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 13,
+                "username": "xuemingjiai"
+              }
+            ]
+          }
+        },
+        "id": "1852926328963522560",
+        "name": "LV负1505级天才魔女（里世界发情版）绝赞发情败北中♡",
+        "pinned_tweet_id": "2081265091706867945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084643202221723648/AR0b8Cak_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1634,
+          "following_count": 67,
+          "like_count": 69,
+          "listed_count": 4,
+          "media_count": 83,
+          "tweet_count": 184
+        },
+        "url": "",
+        "username": "oricz233",
+        "verified": false
+      }
+    ]
+  }
+}

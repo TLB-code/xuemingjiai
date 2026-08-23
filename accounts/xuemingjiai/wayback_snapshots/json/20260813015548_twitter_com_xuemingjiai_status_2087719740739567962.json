@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "2087514141762474015",
+    "created_at": "2026-08-13T01:55:48.000Z",
+    "display_text_range": [
+      16,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T02:55:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087719740739567962"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1555365870649708544",
+          "start": 0,
+          "username": "chessy80978858"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087719740739567962",
+    "in_reply_to_user_id": "1555365870649708544",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087514141762474015",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chessy80978858 抱抱老婆"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "2087514141762474015",
+        "created_at": "2026-08-13T01:55:48.000Z",
+        "display_text_range": [
+          16,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T02:55:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087719740739567962"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1555365870649708544",
+              "start": 0,
+              "username": "chessy80978858"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087719740739567962",
+        "in_reply_to_user_id": "1555365870649708544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087514141762474015",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chessy80978858 抱抱老婆"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1555365870649708544",
+        "conversation_id": "2087514141762474015",
+        "created_at": "2026-08-12T12:18:50.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T13:18:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087514141762474015"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087514141762474015",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 807,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "不许取关我！等我回归就报复性更推..."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "超绝可爱文援姬，黑心偶像贡系推主\n独立网游-魔女奏奏的世界 文本策划兼运营\n欢迎体验加入奏游\n里世界发情小号@oricz233\n星辰魔女镜璃\n@jingli1840489\n好老婆@chessy80978858\n亲爱的黑心天使小亦@choeycholote\nqq2829556413←添加上就会被提款当做钱包使用喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 54,
+                "username": "oricz233"
+              },
+              {
+                "end": 85,
+                "start": 71,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 104,
+                "start": 89,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 127,
+                "start": 114,
+                "username": "choeycholote"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARosxSy"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "is_identity_verified": false,
+        "location": "小猪老婆@Reset_one_",
+        "most_recent_tweet_id": "2087719740739567962",
+        "name": "超可爱超绿茶超撩人的精灵魔女-奏奏💚",
+        "pinned_tweet_id": "2082056419176767686",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1374389254726455305/1780949984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081260158194458624/DeyvE0-y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9594,
+          "following_count": 442,
+          "like_count": 695,
+          "listed_count": 41,
+          "media_count": 852,
+          "tweet_count": 2246
+        },
+        "url": "https://t.co/le8ARosxSy",
+        "username": "xuemingjiai",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-05T01:31:46.000Z",
+        "description": "这里简妮~喜欢简妮的直接看简妮的推文就好了呢~因为是全能型s 所以都很擅长呢💖敲门前看置顶菜单哦门牌号q1430295633~碎碎念@s793874574 （慎入）友善老婆@xuemingjiai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 66,
+                "username": "s793874574"
+              },
+              {
+                "end": 98,
+                "start": 86,
+                "username": "xuemingjiai"
+              }
+            ]
+          }
+        },
+        "id": "1555365870649708544",
+        "is_identity_verified": false,
+        "location": "踩在你心里♡",
+        "most_recent_tweet_id": "2087516434515787873",
+        "name": "简妮♡",
+        "pinned_tweet_id": "2051301914835591291",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1555365870649708544/1764673488",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076286495246467072/1cHlxqvi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9852,
+          "following_count": 124,
+          "like_count": 2475,
+          "listed_count": 37,
+          "media_count": 314,
+          "tweet_count": 7054
+        },
+        "url": "",
+        "username": "chessy80978858",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "2087424522605768969",
+    "created_at": "2026-08-13T01:54:22.000Z",
+    "display_text_range": [
+      10,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T02:54:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087719379060564110"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "937875695929192450",
+          "start": 0,
+          "username": "j2000515"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087719379060564110",
+    "in_reply_to_user_id": "937875695929192450",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087582084063998185",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@j2000515 被冻结了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "2087424522605768969",
+        "created_at": "2026-08-13T01:54:22.000Z",
+        "display_text_range": [
+          10,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T02:54:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087719379060564110"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "937875695929192450",
+              "start": 0,
+              "username": "j2000515"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087719379060564110",
+        "in_reply_to_user_id": "937875695929192450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087582084063998185",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@j2000515 被冻结了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "937875695929192450",
+        "conversation_id": "2087424522605768969",
+        "created_at": "2026-08-12T16:48:48.000Z",
+        "display_text_range": [
+          13,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T17:48:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087582084063998185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1374389254726455305",
+              "start": 0,
+              "username": "xuemingjiai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087582084063998185",
+        "in_reply_to_user_id": "1374389254726455305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087424522605768969",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xuemingjiai 败北小号怎么没了？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "超绝可爱文援姬，黑心偶像贡系推主\n独立网游-魔女奏奏的世界 文本策划兼运营\n欢迎体验加入奏游\n里世界发情小号@oricz233\n星辰魔女镜璃\n@jingli1840489\n好老婆@chessy80978858\n亲爱的黑心天使小亦@choeycholote\nqq2829556413←添加上就会被提款当做钱包使用喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 54,
+                "username": "oricz233"
+              },
+              {
+                "end": 85,
+                "start": 71,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 104,
+                "start": 89,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 127,
+                "start": 114,
+                "username": "choeycholote"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARosxSy"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "is_identity_verified": false,
+        "location": "小猪老婆@Reset_one_",
+        "most_recent_tweet_id": "2087719379060564110",
+        "name": "超可爱超绿茶超撩人的精灵魔女-奏奏💚",
+        "pinned_tweet_id": "2082056419176767686",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1374389254726455305/1780949984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081260158194458624/DeyvE0-y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9594,
+          "following_count": 442,
+          "like_count": 688,
+          "listed_count": 41,
+          "media_count": 852,
+          "tweet_count": 2245
+        },
+        "url": "https://t.co/le8ARosxSy",
+        "username": "xuemingjiai",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-12-05T02:46:05.000Z",
+        "description": "",
+        "id": "937875695929192450",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087582084063998185",
+        "name": "lyqx",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1182836294956634112/04tvY9QR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 2353,
+          "like_count": 2467,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 323
+        },
+        "url": "",
+        "username": "j2000515",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

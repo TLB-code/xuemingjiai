@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "2089630861486641167",
+    "created_at": "2026-08-18T08:29:55.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T09:29:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089630861486641167"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1984115707815325698",
+          "start": 3,
+          "username": "jingli1840489"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089630861486641167",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089353318426698092",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jingli1840489: 镜璃的全新贡系问卷上新啦~❤️以下是问卷列表：\n问卷1-镜璃的温柔压榨~❤️\n2400字，52题，售价30r\n问卷2-镜璃主人的玉足压榨～❤️\n4200字，74题，售价40r\n镜璃妹妹的洗脑压榨上贡~❤️\n7600字，96题，售价45r\n任…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 640,
+        "media_key": "3_2089352890515378176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP7fYlGa0AAA3GT.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "2089630861486641167",
+        "created_at": "2026-08-18T08:29:55.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T09:29:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089630861486641167"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1984115707815325698",
+              "start": 3,
+              "username": "jingli1840489"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089630861486641167",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089353318426698092",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jingli1840489: 镜璃的全新贡系问卷上新啦~❤️以下是问卷列表：\n问卷1-镜璃的温柔压榨~❤️\n2400字，52题，售价30r\n问卷2-镜璃主人的玉足压榨～❤️\n4200字，74题，售价40r\n镜璃妹妹的洗脑压榨上贡~❤️\n7600字，96题，售价45r\n任…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089352890515378176"
+          ]
+        },
+        "author_id": "1984115707815325698",
+        "conversation_id": "2089353318426698092",
+        "created_at": "2026-08-17T14:07:04.000Z",
+        "display_text_range": [
+          0,
+          170
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T15:07:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089353318426698092"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/y3Iz56fh4e",
+              "end": 194,
+              "expanded_url": "https://x.com/jingli1840489/status/2089353318426698092/photo/1",
+              "media_key": "3_2089352890515378176",
+              "start": 171,
+              "url": "https://t.co/y3Iz56fh4e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089353318426698092",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089352890515378176"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1563,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "镜璃的全新贡系问卷上新啦~❤️以下是问卷列表：\n问卷1-镜璃的温柔压榨~❤️\n2400字，52题，售价30r\n问卷2-镜璃主人的玉足压榨～❤️\n4200字，74题，售价40r\n镜璃妹妹的洗脑压榨上贡~❤️\n7600字，96题，售价45r\n任意两份一起购买享10元折扣~三份一起购买享25元折扣哦~\n欢迎各位宝宝前来购买哦~❤️\n爱你们~❤️ https://t.co/y3Iz56fh4e"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "超绝可爱文援姬，黑心偶像贡系推主\n独立网游-魔女奏奏的世界 文本策划兼运营\n欢迎体验加入奏游\n星辰魔女镜璃\n@jingli1840489\n好老婆@chessy80978858\n亲爱的黑心天使小亦@choeycholote\nqq2829556413←添加上就会被提款当做钱包使用喵\n最爱的祖宗主人老公@Sama184396",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 54,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 87,
+                "start": 72,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 110,
+                "start": 97,
+                "username": "choeycholote"
+              },
+              {
+                "end": 160,
+                "start": 149,
+                "username": "Sama184396"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARosxSy"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "is_identity_verified": false,
+        "location": "小猪老婆@Reset_one_",
+        "most_recent_tweet_id": "2089630861486641167",
+        "name": "超可爱超绿茶超撩人的精灵魔女-奏奏💚",
+        "pinned_tweet_id": "2082056419176767686",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1374389254726455305/1780949984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081260158194458624/DeyvE0-y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9637,
+          "following_count": 457,
+          "like_count": 704,
+          "listed_count": 40,
+          "media_count": 852,
+          "tweet_count": 2248
+        },
+        "url": "https://t.co/le8ARosxSy",
+        "username": "xuemingjiai",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-31T04:31:00.000Z",
+        "description": "可以是温柔妈咪/可爱妹妹/知心姐姐~也可以是可怕残忍压榨主使用钱包哦🖤\n目前主要玩法：剧情文爱/黑心/绿茶/洗脑/榨金/寸止/催眠/模拟上贡/早泄挑战/贞操管理等💕\n门牌号：q3775591357，致力于让每位朋友都开开心心舒舒服服的喔❤️全天营业，深夜常驻，欢迎前来光顾哦~\n最可爱的奏奏：@xuemingjiai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 158,
+                "start": 146,
+                "username": "xuemingjiai"
+              }
+            ]
+          }
+        },
+        "id": "1984115707815325698",
+        "is_identity_verified": false,
+        "location": "镜璃的温暖小床~深夜也欢迎打扰哦~",
+        "most_recent_tweet_id": "2089354008209359324",
+        "name": "是镜璃喔~",
+        "pinned_tweet_id": "1993433669315486013",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1984115707815325698/1762218828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985515782550536192/bMHPg-lN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1583,
+          "following_count": 81,
+          "like_count": 285,
+          "listed_count": 2,
+          "media_count": 32,
+          "tweet_count": 163
+        },
+        "url": "",
+        "username": "jingli1840489",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

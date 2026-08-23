@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "2082499027640434981",
+    "created_at": "2026-07-29T16:10:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T17:10:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082499027640434981"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1852926328963522560",
+          "start": 3,
+          "username": "oricz233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082499027640434981",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082498850154221813",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oricz233: 还没说完!可恶的字数限制碎碎念喵呜~\n还有一个很喜欢的性癖大概就是接受大家的性癖喵？举个例子大概可以私信或者qq发奏奏你们觉得涩的推文或者推主，有那种点赞转发上门提款内容的，奏奏觉得涩就会去找喵!\n可以拜托大家成为刽子手让奏奏去给高贵的男爹女爹白给倒…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1141,
+        "media_key": "3_2082498709712244736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOaFiv2bkAAWhtW.jpg",
+        "width": 822
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "2082499027640434981",
+        "created_at": "2026-07-29T16:10:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T17:10:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082499027640434981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1852926328963522560",
+              "start": 3,
+              "username": "oricz233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082499027640434981",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082498850154221813",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @oricz233: 还没说完!可恶的字数限制碎碎念喵呜~\n还有一个很喜欢的性癖大概就是接受大家的性癖喵？举个例子大概可以私信或者qq发奏奏你们觉得涩的推文或者推主，有那种点赞转发上门提款内容的，奏奏觉得涩就会去找喵!\n可以拜托大家成为刽子手让奏奏去给高贵的男爹女爹白给倒…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082498709712244736"
+          ]
+        },
+        "author_id": "1852926328963522560",
+        "conversation_id": "2082498850154221813",
+        "created_at": "2026-07-29T16:09:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T17:09:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082498850154221813"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hZB6ZwuJWu",
+              "end": 164,
+              "expanded_url": "https://x.com/oricz233/status/2082498850154221813/photo/1",
+              "media_key": "3_2082498709712244736",
+              "start": 141,
+              "url": "https://t.co/hZB6ZwuJWu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082498850154221813",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "还没说完!可恶的字数限制碎碎念喵呜~\n还有一个很喜欢的性癖大概就是接受大家的性癖喵？举个例子大概可以私信或者qq发奏奏你们觉得涩的推文或者推主，有那种点赞转发上门提款内容的，奏奏觉得涩就会去找喵!\n可以拜托大家成为刽子手让奏奏去给高贵的男爹女爹白给倒贴嘛♡\n(不接受人设纯男性喵) https://t.co/hZB6ZwuJWu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "佛系文援，贡系推主\n独立网游-魔女奏奏的世界 文本策划兼运营\nhttps://t.co/nHUUcUuYh1\ntg频道，欢迎体验加入奏游\n里世界发情小号@oricz233\n星辰魔女镜璃\n@jingli1840489\n好老婆@chessy80978858\n亲爱的黑心天使小亦@CrossTheAutumn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 76,
+                "username": "oricz233"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 126,
+                "start": 111,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 151,
+                "start": 136,
+                "username": "CrossTheAutumn"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+LI_NqPcVcKc0M…",
+                "end": 54,
+                "expanded_url": "https://t.me/+LI_NqPcVcKc0MGVl",
+                "start": 31,
+                "url": "https://t.co/nHUUcUuYh1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "超可爱超绿茶超撩人的精灵魔女-奏奏💚",
+        "pinned_tweet_id": "2082056419176767686",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081260158194458624/DeyvE0-y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9465,
+          "following_count": 429,
+          "like_count": 665,
+          "listed_count": 40,
+          "media_count": 846,
+          "tweet_count": 2289
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-03T04:10:46.000Z",
+        "description": "嗯 如你所见这就是魔女妹妹@xuemingjiai 的小号哦\n是经过深思熟虑后向大家展示的另外一面\n有s属性有m属性并不丢人好不好!相反应该是超级可爱的属性才对吧，所以不接受诋毁喵♡\n以后会在这个号上更新自己的m性癖分享，上贡分享喵\n啊啊啊忍不了了，发情♡已上贡金额890♡\nqq2829556413喵，欢迎上门提款♡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 13,
+                "username": "xuemingjiai"
+              }
+            ]
+          }
+        },
+        "id": "1852926328963522560",
+        "name": "LV109级天才魔女（里世界发情版）绝赞发情败北中♡",
+        "pinned_tweet_id": "2081265091706867945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082109731376857089/nbTlpWNX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1587,
+          "following_count": 31,
+          "like_count": 43,
+          "listed_count": 4,
+          "media_count": 77,
+          "tweet_count": 174
+        },
+        "url": "",
+        "username": "oricz233",
+        "verified": false
+      }
+    ]
+  }
+}

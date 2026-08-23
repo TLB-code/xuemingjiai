@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "2085058106577592329",
+    "created_at": "2026-08-05T17:39:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T18:39:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085058106577592329"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1852926328963522560",
+          "start": 3,
+          "username": "oricz233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085058106577592329",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085057570017034627",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oricz233: 奏奏的性癖是美少女!各种各样的美少女!日式那种!奏奏是很严重的萌豚，所以如果头像我觉得不可爱就不会发情喵呜\n发出来的图片基本上都是自己会喜欢的类型，三次元喜欢丝足裤袜，然后可爱的cos加分(三次元请脸上长手机，不要破坏幻想)\n比起传统印象里的m，奏奏…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2085057071700160512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO-cXA8asAA5Hqo.jpg",
+        "width": 1063
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2085057071712731136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO-cXA_agAABuHA.jpg",
+        "width": 768
+      },
+      {
+        "height": 1300,
+        "media_key": "3_2085057071712796672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO-cXA_bgAAsZT_.jpg",
+        "width": 898
+      },
+      {
+        "height": 1360,
+        "media_key": "3_2085057071670816768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO-cXA1a8AA1_ZE.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "2085058106577592329",
+        "created_at": "2026-08-05T17:39:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T18:39:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085058106577592329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1852926328963522560",
+              "start": 3,
+              "username": "oricz233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085058106577592329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085057570017034627",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @oricz233: 奏奏的性癖是美少女!各种各样的美少女!日式那种!奏奏是很严重的萌豚，所以如果头像我觉得不可爱就不会发情喵呜\n发出来的图片基本上都是自己会喜欢的类型，三次元喜欢丝足裤袜，然后可爱的cos加分(三次元请脸上长手机，不要破坏幻想)\n比起传统印象里的m，奏奏…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085057071700160512",
+            "3_2085057071712731136",
+            "3_2085057071712796672",
+            "3_2085057071670816768"
+          ]
+        },
+        "author_id": "1852926328963522560",
+        "conversation_id": "2085057570017034627",
+        "created_at": "2026-08-05T17:37:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T18:37:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085057570017034627"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0lbyzlSDSH",
+              "end": 171,
+              "expanded_url": "https://x.com/oricz233/status/2085057570017034627/photo/1",
+              "media_key": "3_2085057071700160512",
+              "start": 148,
+              "url": "https://t.co/0lbyzlSDSH"
+            },
+            {
+              "display_url": "pic.x.com/0lbyzlSDSH",
+              "end": 171,
+              "expanded_url": "https://x.com/oricz233/status/2085057570017034627/photo/1",
+              "media_key": "3_2085057071712731136",
+              "start": 148,
+              "url": "https://t.co/0lbyzlSDSH"
+            },
+            {
+              "display_url": "pic.x.com/0lbyzlSDSH",
+              "end": 171,
+              "expanded_url": "https://x.com/oricz233/status/2085057570017034627/photo/1",
+              "media_key": "3_2085057071712796672",
+              "start": 148,
+              "url": "https://t.co/0lbyzlSDSH"
+            },
+            {
+              "display_url": "pic.x.com/0lbyzlSDSH",
+              "end": 171,
+              "expanded_url": "https://x.com/oricz233/status/2085057570017034627/photo/1",
+              "media_key": "3_2085057071670816768",
+              "start": 148,
+              "url": "https://t.co/0lbyzlSDSH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085057570017034627",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "奏奏的性癖是美少女!各种各样的美少女!日式那种!奏奏是很严重的萌豚，所以如果头像我觉得不可爱就不会发情喵呜\n发出来的图片基本上都是自己会喜欢的类型，三次元喜欢丝足裤袜，然后可爱的cos加分(三次元请脸上长手机，不要破坏幻想)\n比起传统印象里的m，奏奏还是更喜欢被美少女色诱，利用pua，很涩吧！ https://t.co/0lbyzlSDSH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "佛系文援，贡系推主\n独立网游-魔女奏奏的世界 文本策划兼运营\nhttps://t.co/nHUUcUuqrt\ntg频道，欢迎体验加入奏游\n里世界发情小号@oricz233\n星辰魔女镜璃\n@jingli1840489\n好老婆@chessy80978858\n亲爱的黑心天使小亦@choeycholote",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 76,
+                "username": "oricz233"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 126,
+                "start": 111,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 149,
+                "start": 136,
+                "username": "choeycholote"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+LI_NqPcVcKc0M…",
+                "end": 54,
+                "expanded_url": "https://t.me/+LI_NqPcVcKc0MGVl",
+                "start": 31,
+                "url": "https://t.co/nHUUcUuqrt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARosxSy"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "超可爱超绿茶超撩人的精灵魔女-奏奏💚",
+        "pinned_tweet_id": "2082056419176767686",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081260158194458624/DeyvE0-y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9519,
+          "following_count": 435,
+          "like_count": 671,
+          "listed_count": 39,
+          "media_count": 847,
+          "tweet_count": 2300
+        },
+        "url": "https://t.co/le8ARosxSy",
+        "username": "xuemingjiai",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-03T04:10:46.000Z",
+        "description": "嗯 如你所见这就是魔女妹妹@xuemingjiai 的小号哦\n是经过深思熟虑后向大家展示的另外一面\n有s属性有m属性并不丢人好不好!相反应该是超级可爱的属性才对吧，所以不接受诋毁喵♡\n以后会在这个号上更新自己的m性癖分享，上贡分享喵\n啊啊啊忍不了了，发情♡已上贡金额2565♡\nqq2829556413喵，欢迎上门提款♡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 13,
+                "username": "xuemingjiai"
+              }
+            ]
+          }
+        },
+        "id": "1852926328963522560",
+        "name": "LV负1565级天才魔女（里世界发情版）绝赞发情败北中♡",
+        "pinned_tweet_id": "2081265091706867945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084643202221723648/AR0b8Cak_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1651,
+          "following_count": 72,
+          "like_count": 70,
+          "listed_count": 4,
+          "media_count": 84,
+          "tweet_count": 187
+        },
+        "url": "",
+        "username": "oricz233",
+        "verified": false
+      }
+    ]
+  }
+}

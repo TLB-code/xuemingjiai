@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "2085799584887140862",
+    "created_at": "2026-08-07T20:43:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T21:43:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085829231108644993"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1493265360006664198",
+          "start": 0,
+          "username": "chui_cong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085829231108644993",
+    "in_reply_to_user_id": "1493265360006664198",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085816269140643843",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chui_cong 猪咪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "2085799584887140862",
+        "created_at": "2026-08-07T20:43:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T21:43:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085829231108644993"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1493265360006664198",
+              "start": 0,
+              "username": "chui_cong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085829231108644993",
+        "in_reply_to_user_id": "1493265360006664198",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085816269140643843",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chui_cong 猪咪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493265360006664198",
+        "conversation_id": "2085799584887140862",
+        "created_at": "2026-08-07T19:52:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T20:52:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085816269140643843"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1374389254726455305",
+              "start": 0,
+              "username": "xuemingjiai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085816269140643843",
+        "in_reply_to_user_id": "1374389254726455305",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085799584887140862",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xuemingjiai 喜欢煮米粥❤️❤️❤️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "佛系文援，贡系推主\n独立网游-魔女奏奏的世界 文本策划兼运营\nhttps://t.co/nHUUcUuqrt\ntg频道，欢迎体验加入奏游\n里世界发情小号@oricz233\n星辰魔女镜璃\n@jingli1840489\n好老婆@chessy80978858\n亲爱的黑心天使小亦@choeycholote",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 76,
+                "username": "oricz233"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 126,
+                "start": 111,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 149,
+                "start": 136,
+                "username": "choeycholote"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+LI_NqPcVcKc0M…",
+                "end": 54,
+                "expanded_url": "https://t.me/+LI_NqPcVcKc0MGVl",
+                "start": 31,
+                "url": "https://t.co/nHUUcUuqrt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARosxSy"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "超可爱超绿茶超撩人的精灵魔女-奏奏💚",
+        "pinned_tweet_id": "2082056419176767686",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081260158194458624/DeyvE0-y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9543,
+          "following_count": 435,
+          "like_count": 678,
+          "listed_count": 40,
+          "media_count": 848,
+          "tweet_count": 2307
+        },
+        "url": "https://t.co/le8ARosxSy",
+        "username": "xuemingjiai",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-14T16:46:27.000Z",
+        "description": "煮米煮米粥 @xuemingjiai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "xuemingjiai"
+              }
+            ]
+          }
+        },
+        "id": "1493265360006664198",
+        "name": "null",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004561085743955968/jeRN3Pge_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 920,
+          "like_count": 233,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 129
+        },
+        "url": "",
+        "username": "chui_cong",
+        "verified": false
+      }
+    ]
+  }
+}

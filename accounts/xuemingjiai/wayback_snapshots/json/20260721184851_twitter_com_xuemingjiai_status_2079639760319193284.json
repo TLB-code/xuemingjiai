@@ -1,0 +1,473 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079634692404600832",
+        "3_2079634692752711680",
+        "3_2079634692832481280",
+        "3_2079634692786274304"
+      ],
+      "media_source_tweet_id": [
+        "2079634749585568086",
+        "2079634749585568086",
+        "2079634749585568086",
+        "2079634749585568086"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2079639760319193284",
+    "created_at": "2026-07-21T18:48:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T19:48:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079639760319193284"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1888381775019483136",
+          "start": 3,
+          "username": "CrossTheAutumn"
+        },
+        {
+          "end": 42,
+          "id": "1374389254726455305",
+          "start": 30,
+          "username": "xuemingjiai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Zs632zYTHc",
+          "end": 127,
+          "expanded_url": "https://x.com/CrossTheAutumn/status/2079634749585568086/photo/1",
+          "media_key": "3_2079634692404600832",
+          "start": 104,
+          "url": "https://t.co/Zs632zYTHc"
+        },
+        {
+          "display_url": "pic.x.com/Zs632zYTHc",
+          "end": 127,
+          "expanded_url": "https://x.com/CrossTheAutumn/status/2079634749585568086/photo/1",
+          "media_key": "3_2079634692752711680",
+          "start": 104,
+          "url": "https://t.co/Zs632zYTHc"
+        },
+        {
+          "display_url": "pic.x.com/Zs632zYTHc",
+          "end": 127,
+          "expanded_url": "https://x.com/CrossTheAutumn/status/2079634749585568086/photo/1",
+          "media_key": "3_2079634692832481280",
+          "start": 104,
+          "url": "https://t.co/Zs632zYTHc"
+        },
+        {
+          "display_url": "pic.x.com/Zs632zYTHc",
+          "end": 127,
+          "expanded_url": "https://x.com/CrossTheAutumn/status/2079634749585568086/photo/1",
+          "media_key": "3_2079634692786274304",
+          "start": 104,
+          "url": "https://t.co/Zs632zYTHc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079639760319193284",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079634749585568086",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CrossTheAutumn: 奏游是由亲爱的奏奏(@xuemingjiai)亲自运营♡的一款多人在线互动文字游戏！从2月上线到现在已经5个多月啦，目前注册玩家已经突破1000人，每天都超级热闹～… https://t.co/Zs632zYTHc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2079634692404600832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNxYu_9a4AAHakC.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2079634692752711680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNxYvBQaoAAJYTi.jpg",
+        "width": 1438
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2079634692832481280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNxYvBjb0AAk2Z-.jpg",
+        "width": 882
+      },
+      {
+        "height": 1252,
+        "media_key": "3_2079634692786274304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNxYvBYawAAvFur.jpg",
+        "width": 1252
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079634692404600832",
+            "3_2079634692752711680",
+            "3_2079634692832481280",
+            "3_2079634692786274304"
+          ]
+        },
+        "author_id": "1888381775019483136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2079634749585568086",
+        "created_at": "2026-07-21T18:28:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T19:28:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079634749585568086"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 22,
+              "id": "1374389254726455305",
+              "start": 10,
+              "username": "xuemingjiai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Zs632zYTHc",
+              "end": 106,
+              "expanded_url": "https://x.com/CrossTheAutumn/status/2079634749585568086/photo/1",
+              "media_key": "3_2079634692404600832",
+              "start": 83,
+              "url": "https://t.co/Zs632zYTHc"
+            },
+            {
+              "display_url": "pic.x.com/Zs632zYTHc",
+              "end": 106,
+              "expanded_url": "https://x.com/CrossTheAutumn/status/2079634749585568086/photo/1",
+              "media_key": "3_2079634692752711680",
+              "start": 83,
+              "url": "https://t.co/Zs632zYTHc"
+            },
+            {
+              "display_url": "pic.x.com/Zs632zYTHc",
+              "end": 106,
+              "expanded_url": "https://x.com/CrossTheAutumn/status/2079634749585568086/photo/1",
+              "media_key": "3_2079634692832481280",
+              "start": 83,
+              "url": "https://t.co/Zs632zYTHc"
+            },
+            {
+              "display_url": "pic.x.com/Zs632zYTHc",
+              "end": 106,
+              "expanded_url": "https://x.com/CrossTheAutumn/status/2079634749585568086/photo/1",
+              "media_key": "3_2079634692786274304",
+              "start": 83,
+              "url": "https://t.co/Zs632zYTHc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079634749585568086",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 22,
+                "id": "1374389254726455305",
+                "start": 10,
+                "username": "xuemingjiai"
+              }
+            ]
+          },
+          "text": "奏游是由亲爱的奏奏(@xuemingjiai)亲自运营♡的一款多人在线互动文字游戏！从2月上线到现在已经5个多月啦，目前注册玩家已经突破1000人，每天都超级热闹～\n  \n  在这里你能玩到很多不一样的内容！我们准备了经典的TAB条战斗系统，勇者RPG挂机养成、打怪升级模式，怪物和勇者的技能都精心设计过，打起来非常有策略性和爽感。你可以正经当勇者一路推图刷怪，也可以慢慢变强后给魅魔上贡，体验心甘情愿的败北玩法。\n  \n  如果是休闲玩家也完全没问题！我们有专门的对战娱乐区，连线游戏大厅里塞满了各种经典桌游：黑白棋、五子棋、中国象棋、国际象棋、斗地主，还有刺激的轮盘赌，都能用游戏内碎片直接上贡玩～另外还有超好玩的史莱姆赛马（赌马），以及完全免费(不花任何一分钱~)的奏奏万事屋，每天都有新陪伴内容和问卷调查。最快入戏的当然是高品质涩涩飞行棋啦！\n \n  这些只是其中一部分，真正好玩的地方还是要自己进来才知道～感兴趣的朋友可以点开下方链接，找到图片里的QQ群扫码，免费领取邀请码就能注册体验啦！想玩的快来新群集合吧~(ps:图3的圣天使就是小亦大人的本人账号哦~♡)"
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "奏游是由亲爱的奏奏(@xuemingjiai)亲自运营♡的一款多人在线互动文字游戏！从2月上线到现在已经5个多月啦，目前注册玩家已经突破1000人，每天都超级热闹～ https://t.co/Zs632zYTHc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079634692404600832",
+            "3_2079634692752711680",
+            "3_2079634692832481280",
+            "3_2079634692786274304"
+          ],
+          "media_source_tweet_id": [
+            "2079634749585568086",
+            "2079634749585568086",
+            "2079634749585568086",
+            "2079634749585568086"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2079639760319193284",
+        "created_at": "2026-07-21T18:48:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T19:48:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079639760319193284"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1888381775019483136",
+              "start": 3,
+              "username": "CrossTheAutumn"
+            },
+            {
+              "end": 42,
+              "id": "1374389254726455305",
+              "start": 30,
+              "username": "xuemingjiai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Zs632zYTHc",
+              "end": 127,
+              "expanded_url": "https://x.com/CrossTheAutumn/status/2079634749585568086/photo/1",
+              "media_key": "3_2079634692404600832",
+              "start": 104,
+              "url": "https://t.co/Zs632zYTHc"
+            },
+            {
+              "display_url": "pic.x.com/Zs632zYTHc",
+              "end": 127,
+              "expanded_url": "https://x.com/CrossTheAutumn/status/2079634749585568086/photo/1",
+              "media_key": "3_2079634692752711680",
+              "start": 104,
+              "url": "https://t.co/Zs632zYTHc"
+            },
+            {
+              "display_url": "pic.x.com/Zs632zYTHc",
+              "end": 127,
+              "expanded_url": "https://x.com/CrossTheAutumn/status/2079634749585568086/photo/1",
+              "media_key": "3_2079634692832481280",
+              "start": 104,
+              "url": "https://t.co/Zs632zYTHc"
+            },
+            {
+              "display_url": "pic.x.com/Zs632zYTHc",
+              "end": 127,
+              "expanded_url": "https://x.com/CrossTheAutumn/status/2079634749585568086/photo/1",
+              "media_key": "3_2079634692786274304",
+              "start": 104,
+              "url": "https://t.co/Zs632zYTHc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079639760319193284",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079634749585568086",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CrossTheAutumn: 奏游是由亲爱的奏奏(@xuemingjiai)亲自运营♡的一款多人在线互动文字游戏！从2月上线到现在已经5个多月啦，目前注册玩家已经突破1000人，每天都超级热闹～… https://t.co/Zs632zYTHc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "前文援，前贡系推主\n现独立网游-魔女奏奏的世界 文本策划兼运营\nhttps://t.co/nHUUcUuYh1\ntg频道，欢迎体验加入奏游!\n邂逅方式→2829556413←↓\n242184780\n涩气内容@oricz233\n星辰魔女镜璃\n@jingli1840489\n好老婆@chessy80978858",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 103,
+                "username": "oricz233"
+              },
+              {
+                "end": 134,
+                "start": 120,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 153,
+                "start": 138,
+                "username": "chessy80978858"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+LI_NqPcVcKc0M…",
+                "end": 55,
+                "expanded_url": "https://t.me/+LI_NqPcVcKc0MGVl",
+                "start": 32,
+                "url": "https://t.co/nHUUcUuYh1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "超可爱超绿茶超撩人的精灵魔女-奏奏💚",
+        "pinned_tweet_id": "2065914875877228650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076770038061887488/Tc3iX89H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 2,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 844,
+          "tweet_count": 2273
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-09T00:18:03.000Z",
+        "description": "黑心天使♠️？玉足暴耍❤️?宰杀~胁迫~曝光~榨干傻屄猪猡的钱包🚪42.6主页置顶赞赏码备注qv，无脑傻逼翻倍，没钱就滚去贷🖤 【接线下调教*面贡】欢迎宝宝扩列哦~\n❤️妹妹:@xiaoyu_113996",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 88,
+                "username": "xiaoyu_113996"
+              }
+            ]
+          }
+        },
+        "id": "1888381775019483136",
+        "location": "宰猪场",
+        "name": "꒰ა♡小亦♡໒꒱",
+        "pinned_tweet_id": "2072313624178393541",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942917590248034305/_uCcpXkr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1866,
+          "following_count": 80,
+          "like_count": 408,
+          "listed_count": 11,
+          "media_count": 26,
+          "tweet_count": 405
+        },
+        "url": "",
+        "username": "CrossTheAutumn",
+        "verified": false
+      }
+    ]
+  }
+}

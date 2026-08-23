@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "2083602948995838463",
+    "created_at": "2026-08-01T17:17:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T18:17:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083602948995838463"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1739976691970412544",
+          "start": 3,
+          "username": "SakiHana_effigy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083602948995838463",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083532148263510471",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SakiHana_effigy: 正是因为男孩子们从小接受的教育，就是告诫他们不能轻易哭鼻子，我才会觉得弄哭男孩子真的特别好玩呢🖤\n逼迫他做自己不愿意做的事情，踩碎他心爱的文具，抢走他的零花钱，带着班上其他人一起孤立他。\n最后的最后，没有任何人可以依靠的小男生，只能来找…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1807,
+        "media_key": "3_2083532129384996864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOoxbsIbIAA1hps.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "2083602948995838463",
+        "created_at": "2026-08-01T17:17:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T18:17:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083602948995838463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1739976691970412544",
+              "start": 3,
+              "username": "SakiHana_effigy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083602948995838463",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083532148263510471",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SakiHana_effigy: 正是因为男孩子们从小接受的教育，就是告诫他们不能轻易哭鼻子，我才会觉得弄哭男孩子真的特别好玩呢🖤\n逼迫他做自己不愿意做的事情，踩碎他心爱的文具，抢走他的零花钱，带着班上其他人一起孤立他。\n最后的最后，没有任何人可以依靠的小男生，只能来找…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083532129384996864"
+          ]
+        },
+        "author_id": "1739976691970412544",
+        "conversation_id": "2083532148263510471",
+        "created_at": "2026-08-01T12:35:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T13:15:10.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083526953446113722",
+          "2083532148263510471"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1n0MuKNwWh",
+              "end": 155,
+              "expanded_url": "https://x.com/SakiHana_effigy/status/2083532148263510471/photo/1",
+              "media_key": "3_2083532129384996864",
+              "start": 132,
+              "url": "https://t.co/1n0MuKNwWh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083532148263510471",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 179,
+                "start": 176,
+                "tag": "黑心"
+              },
+              {
+                "end": 183,
+                "start": 180,
+                "tag": "压榨"
+              },
+              {
+                "end": 187,
+                "start": 184,
+                "tag": "胁迫"
+              },
+              {
+                "end": 191,
+                "start": 188,
+                "tag": "洗脑"
+              },
+              {
+                "end": 195,
+                "start": 192,
+                "tag": "上贡"
+              },
+              {
+                "end": 201,
+                "start": 196,
+                "tag": "atm奴"
+              },
+              {
+                "end": 205,
+                "start": 202,
+                "tag": "文援"
+              },
+              {
+                "end": 213,
+                "start": 206,
+                "tag": "findom"
+              },
+              {
+                "end": 219,
+                "start": 214,
+                "tag": "貢ぎ奴隷"
+              },
+              {
+                "end": 223,
+                "start": 220,
+                "tag": "白给"
+              },
+              {
+                "end": 227,
+                "start": 224,
+                "tag": "败北"
+              }
+            ]
+          },
+          "text": "正是因为男孩子们从小接受的教育，就是告诫他们不能轻易哭鼻子，我才会觉得弄哭男孩子真的特别好玩呢🖤\n逼迫他做自己不愿意做的事情，踩碎他心爱的文具，抢走他的零花钱，带着班上其他人一起孤立他。\n最后的最后，没有任何人可以依靠的小男生，只能来找我磕头求饶，求人家放过他~\n你因为软弱怯懦流下的眼泪真的很美味哦？\n那，以后也要继续和本小姐当“好朋友”，好不好？\n#黑心 #压榨 #胁迫 #洗脑 #上贡 #atm奴 #文援 #findom #貢ぎ奴隷\n#白给 #败北"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 421,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "正是因为男孩子们从小接受的教育，就是告诫他们不能轻易哭鼻子，我才会觉得弄哭男孩子真的特别好玩呢🖤\n逼迫他做自己不愿意做的事情，踩碎他心爱的文具，抢走他的零花钱，带着班上其他人一起孤立他。\n最后的最后，没有任何人可以依靠的小男生，只能来找我磕头求饶，求人家放过他~ https://t.co/1n0MuKNwWh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "佛系文援，贡系推主\n独立网游-魔女奏奏的世界 文本策划兼运营\nhttps://t.co/nHUUcUuqrt\ntg频道，欢迎体验加入奏游\n里世界发情小号@oricz233\n星辰魔女镜璃\n@jingli1840489\n好老婆@chessy80978858\n亲爱的黑心天使小亦@choeycholote",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 76,
+                "username": "oricz233"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 126,
+                "start": 111,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 149,
+                "start": 136,
+                "username": "choeycholote"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+LI_NqPcVcKc0M…",
+                "end": 54,
+                "expanded_url": "https://t.me/+LI_NqPcVcKc0MGVl",
+                "start": 31,
+                "url": "https://t.co/nHUUcUuqrt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARosxSy"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "超可爱超绿茶超撩人的精灵魔女-奏奏💚",
+        "pinned_tweet_id": "2082056419176767686",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081260158194458624/DeyvE0-y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9484,
+          "following_count": 428,
+          "like_count": 664,
+          "listed_count": 40,
+          "media_count": 846,
+          "tweet_count": 2292
+        },
+        "url": "https://t.co/le8ARosxSy",
+        "username": "xuemingjiai",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-27T11:49:17.000Z",
+        "description": "诞生于纯粹恶意的人偶，各位称呼我咲花即可。\n门牌1377762595，🚪20，傻逼专属🚪99，同行可免，私信看到感兴趣的会回复，锁奴贡奴招收中～\n超级超级好的夜夜姐姐:@Sama184396",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 84,
+                "username": "Sama184396"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "afdian.com/a/SakiHana_eff…",
+                "end": 23,
+                "expanded_url": "https://afdian.com/a/SakiHana_effigy",
+                "start": 0,
+                "url": "https://t.co/7btyWM6f9c"
+              }
+            ]
+          }
+        },
+        "id": "1739976691970412544",
+        "name": "咲花✨",
+        "pinned_tweet_id": "2046235460335444305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045219683532763136/muJtJPoK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 925,
+          "following_count": 67,
+          "like_count": 318,
+          "listed_count": 2,
+          "media_count": 55,
+          "tweet_count": 139
+        },
+        "url": "https://t.co/7btyWM6f9c",
+        "username": "SakiHana_effigy",
+        "verified": true
+      }
+    ]
+  }
+}

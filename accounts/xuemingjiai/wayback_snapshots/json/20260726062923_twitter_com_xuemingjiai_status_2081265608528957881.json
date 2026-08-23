@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "2081265608528957881",
+    "created_at": "2026-07-26T06:29:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T07:29:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081265608528957881"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1374389254726455305",
+          "start": 3,
+          "username": "xuemingjiai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081265608528957881",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079434784015810727",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xuemingjiai: 首先感谢来自hhxk小狗赠送的一年蓝\nv~终于可以写长推啦♡\n那么，这一期奏游新闻，就稍微详细一点给各位勇者们介绍一下奏游现状吧。\n什么是奏游?\n顾名思义，奏奏妈咪(就是我)运营的一款多人联机互动文字网游，从2月运营至今已经有5个多月了，目前注…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1252,
+        "media_key": "3_2079434579019182080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNuiu3gaMAATZ-V.jpg",
+        "width": 1252
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2079434690122199040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNui1VZbsAADxZc.jpg",
+        "width": 882
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2079434720849563648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNui3H3aEAA6Jlk.jpg",
+        "width": 1438
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2079434764935888897",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNui5sGaAAE9-PI.jpg",
+        "width": 882
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "2081265608528957881",
+        "created_at": "2026-07-26T06:29:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T07:29:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081265608528957881"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1374389254726455305",
+              "start": 3,
+              "username": "xuemingjiai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081265608528957881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079434784015810727",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xuemingjiai: 首先感谢来自hhxk小狗赠送的一年蓝\nv~终于可以写长推啦♡\n那么，这一期奏游新闻，就稍微详细一点给各位勇者们介绍一下奏游现状吧。\n什么是奏游?\n顾名思义，奏奏妈咪(就是我)运营的一款多人联机互动文字网游，从2月运营至今已经有5个多月了，目前注…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079434579019182080",
+            "3_2079434690122199040",
+            "3_2079434720849563648",
+            "3_2079434764935888897"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2079434784015810727",
+        "created_at": "2026-07-21T05:14:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T06:14:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079434784015810727"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/38BhO4byKT",
+              "end": 164,
+              "expanded_url": "https://x.com/xuemingjiai/status/2079434784015810727/photo/1",
+              "media_key": "3_2079434579019182080",
+              "start": 141,
+              "url": "https://t.co/38BhO4byKT"
+            },
+            {
+              "display_url": "pic.x.com/38BhO4byKT",
+              "end": 164,
+              "expanded_url": "https://x.com/xuemingjiai/status/2079434784015810727/photo/1",
+              "media_key": "3_2079434690122199040",
+              "start": 141,
+              "url": "https://t.co/38BhO4byKT"
+            },
+            {
+              "display_url": "pic.x.com/38BhO4byKT",
+              "end": 164,
+              "expanded_url": "https://x.com/xuemingjiai/status/2079434784015810727/photo/1",
+              "media_key": "3_2079434720849563648",
+              "start": 141,
+              "url": "https://t.co/38BhO4byKT"
+            },
+            {
+              "display_url": "pic.x.com/38BhO4byKT",
+              "end": 164,
+              "expanded_url": "https://x.com/xuemingjiai/status/2079434784015810727/photo/1",
+              "media_key": "3_2079434764935888897",
+              "start": 141,
+              "url": "https://t.co/38BhO4byKT"
+            },
+            {
+              "display_url": "x.com/xuemingjiai/st…",
+              "end": 188,
+              "expanded_url": "https://x.com/xuemingjiai/status/2079038856704487449?s=20",
+              "start": 165,
+              "url": "https://t.co/EuGKajAmEi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079434784015810727",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "x.com/xuemingjiai/st…",
+                "end": 595,
+                "expanded_url": "https://x.com/xuemingjiai/status/2079038856704487449?s=20",
+                "start": 572,
+                "url": "https://t.co/EuGKajAmEi"
+              }
+            ]
+          },
+          "text": "首先感谢来自hhxk小狗赠送的一年蓝\nv~终于可以写长推啦♡\n那么，这一期奏游新闻，就稍微详细一点给各位勇者们介绍一下奏游现状吧。\n什么是奏游?\n顾名思义，奏奏妈咪(就是我)运营的一款多人联机互动文字网游，从2月运营至今已经有5个多月了，目前注册用户突破1000人，非常的热闹哦！\n那么，在奏游里面可以做什么?怎么玩?\n有很多种玩法，每个人的玩法不同，我们设计了采用经典tab条进行战斗的勇者rpg挂机养成升级打怪模式，并且精心设计了怪物的技能，勇者技能，非常有可玩性，你可以作为一名正经勇者战斗爽，也可以提升自己然后给魅魔上贡等级享受败北的滋味。\n如果你说我是休闲党怎么办？那也没关系，我们为大家准备了很多一起对战的休闲游戏，比如连线游戏大厅，里面有各种棋牌游戏，包括但不限于黑白棋，五子棋，中国象棋，国际象棋，斗地主，紧张刺激的轮盘赌，同时内置了游戏里的资源(碎片)可以上贡~\n还有很好玩的史莱姆赛马(赌马)\n以及不花一分钱免费享受的奏奏万事屋(里面有问卷，有每天更新的陪伴模块)\n想要快速涩涩还有质量超高的涩涩飞行棋。\n这些东西只是冰山一角啦，更多的还是要大家自己前来体验，如果感兴趣可以打开下面这个链接然后找到图片里的qq群扫码或者加入简介的tg群，免费获取邀请码来注册体验。\n最后放上两张由新星魅魔制作的涩涩图片以及她们的个人简介~\nhttps://t.co/EuGKajAmEi"
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 7520,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079038856704487449",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "首先感谢来自hhxk小狗赠送的一年蓝\nv~终于可以写长推啦♡\n那么，这一期奏游新闻，就稍微详细一点给各位勇者们介绍一下奏游现状吧。\n什么是奏游?\n顾名思义，奏奏妈咪(就是我)运营的一款多人联机互动文字网游，从2月运营至今已经有5个多月了，目前注册用户突破1000人，非常的热闹哦！ https://t.co/38BhO4byKT https://t.co/EuGKajAmEi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "前文援，前贡系推主\n现独立网游-魔女奏奏的世界 文本策划兼运营\nhttps://t.co/nHUUcUuYh1\ntg频道，欢迎体验加入奏游\n里世界发情小号@oricz233\n星辰魔女镜璃\n@jingli1840489\n好老婆@chessy80978858\n亲爱的黑心天使小亦@CrossTheAutumn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 77,
+                "username": "oricz233"
+              },
+              {
+                "end": 108,
+                "start": 94,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 127,
+                "start": 112,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 152,
+                "start": 137,
+                "username": "CrossTheAutumn"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+LI_NqPcVcKc0M…",
+                "end": 55,
+                "expanded_url": "https://t.me/+LI_NqPcVcKc0MGVl",
+                "start": 32,
+                "url": "https://t.co/nHUUcUuYh1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "超可爱超绿茶超撩人的精灵魔女-奏奏💚",
+        "pinned_tweet_id": "2065914875877228650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081260158194458624/DeyvE0-y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9415,
+          "following_count": 427,
+          "like_count": 666,
+          "listed_count": 40,
+          "media_count": 844,
+          "tweet_count": 2275
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      }
+    ]
+  }
+}

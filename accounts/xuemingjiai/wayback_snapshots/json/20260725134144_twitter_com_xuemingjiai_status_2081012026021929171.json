@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "2081012026021929171",
+    "created_at": "2026-07-25T13:41:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T14:41:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081012026021929171"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2076927079036383232",
+          "start": 3,
+          "username": "hud037801"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081012026021929171",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078428329649348986",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hud037801: 抓到你啦，勇者大人❤️不是说自己没有败北癖吗，怎么看看我拿着鞭子，抬起脚，露出黑丝玉足就勃起啦？\n\n接受小魅魔的踩踏哦，在灵魂刻上不可磨灭的印记，自愿把力量，碎片，尊严，交给比自己等级低的魅魔🖤\n\n一脚踩在勇者大人的脸上！射精！射碎片ww🖤\n\n#文…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2078428312909836289",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNgPieIa8AEd38z.jpg",
+        "width": 1084
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "2081012026021929171",
+        "created_at": "2026-07-25T13:41:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T14:41:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081012026021929171"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2076927079036383232",
+              "start": 3,
+              "username": "hud037801"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081012026021929171",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078428329649348986",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hud037801: 抓到你啦，勇者大人❤️不是说自己没有败北癖吗，怎么看看我拿着鞭子，抬起脚，露出黑丝玉足就勃起啦？\n\n接受小魅魔的踩踏哦，在灵魂刻上不可磨灭的印记，自愿把力量，碎片，尊严，交给比自己等级低的魅魔🖤\n\n一脚踩在勇者大人的脸上！射精！射碎片ww🖤\n\n#文…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078428312909836289"
+          ]
+        },
+        "author_id": "2076927079036383232",
+        "conversation_id": "2078428329649348986",
+        "created_at": "2026-07-18T10:35:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T11:35:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078428329649348986"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 125,
+              "start": 122,
+              "tag": "文媛"
+            },
+            {
+              "end": 129,
+              "start": 126,
+              "tag": "奏游"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YxX8AkvlDy",
+              "end": 153,
+              "expanded_url": "https://x.com/hud037801/status/2078428329649348986/photo/1",
+              "media_key": "3_2078428312909836289",
+              "start": 130,
+              "url": "https://t.co/YxX8AkvlDy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078428329649348986",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "抓到你啦，勇者大人❤️不是说自己没有败北癖吗，怎么看看我拿着鞭子，抬起脚，露出黑丝玉足就勃起啦？\n\n接受小魅魔的踩踏哦，在灵魂刻上不可磨灭的印记，自愿把力量，碎片，尊严，交给比自己等级低的魅魔🖤\n\n一脚踩在勇者大人的脸上！射精！射碎片ww🖤\n\n#文媛 #奏游 https://t.co/YxX8AkvlDy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "前文援，前贡系推主\n现独立网游-魔女奏奏的世界 文本策划兼运营\nhttps://t.co/nHUUcUuYh1\ntg频道，欢迎体验加入奏游!\n涩气内容@oricz233\n星辰魔女镜璃\n@jingli1840489\n好老婆@chessy80978858\n亲爱的黑心天使小亦@CrossTheAutumn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "oricz233"
+              },
+              {
+                "end": 106,
+                "start": 92,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 125,
+                "start": 110,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 150,
+                "start": 135,
+                "username": "CrossTheAutumn"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+LI_NqPcVcKc0M…",
+                "end": 55,
+                "expanded_url": "https://t.me/+LI_NqPcVcKc0MGVl",
+                "start": 32,
+                "url": "https://t.co/nHUUcUuYh1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "超可爱超绿茶超撩人的精灵魔女-奏奏💚",
+        "pinned_tweet_id": "2065914875877228650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081010491011518464/VPG5sKCT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9411,
+          "following_count": 426,
+          "like_count": 666,
+          "listed_count": 40,
+          "media_count": 844,
+          "tweet_count": 2274
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-14T07:10:25.000Z",
+        "description": "女S。文媛不涉三。奏游（魅魔）。30分钟/500奏游碎片❤️❤️xp很杂，推文都会发一点：羞辱，sm剧情向，马赛克，ntr❤️❤️❤️🐧🚪2010542973。30分钟/30r。在线时间晚上8点到10点敲门附上自己喜欢的xp❤️❤️❤️❤️奏奏妈咪@xuemingjiai ❤️❤️防丢失：@lnxioy261087",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 124,
+                "username": "xuemingjiai"
+              },
+              {
+                "end": 158,
+                "start": 145,
+                "username": "lnxioy261087"
+              }
+            ]
+          }
+        },
+        "id": "2076927079036383232",
+        "name": "小夜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078423616170164224/XUt-92kP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 17,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 11
+        },
+        "url": "",
+        "username": "hud037801",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "2084262909463728628",
+    "created_at": "2026-08-03T12:59:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T13:59:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084262909463728628"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2066213610104512512",
+          "start": 3,
+          "username": "JIUJIU4mao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084262909463728628",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083847995418960296",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JIUJIU4mao: 玖玖的神人线上酒会与依依拯救计划（小枫堕落计划）\n外附神B三角洲环节（欢迎学习组织线上活动？）\n【最后预定特殊CG请务必看到最后】\n\n         男娘加我\n正                        纯\n直…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_2083844309678505984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOtNW-WbQAALkzr.jpg",
+        "width": 968
+      },
+      {
+        "height": 1183,
+        "media_key": "3_2083844325394530304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOtNX45awAANZsM.jpg",
+        "width": 1404
+      },
+      {
+        "height": 1373,
+        "media_key": "3_2083844489395961856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOtNhb2aAAAaEiM.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "2084262909463728628",
+        "created_at": "2026-08-03T12:59:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T13:59:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084262909463728628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2066213610104512512",
+              "start": 3,
+              "username": "JIUJIU4mao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084262909463728628",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083847995418960296",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JIUJIU4mao: 玖玖的神人线上酒会与依依拯救计划（小枫堕落计划）\n外附神B三角洲环节（欢迎学习组织线上活动？）\n【最后预定特殊CG请务必看到最后】\n\n         男娘加我\n正                        纯\n直…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083844309678505984",
+            "3_2083844325394530304",
+            "3_2083844489395961856"
+          ]
+        },
+        "author_id": "2066213610104512512",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2083847995418960296",
+        "created_at": "2026-08-02T09:30:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T10:17:05.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083844525831901348",
+          "2083847995418960296"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Iovc5O3RQe",
+              "end": 214,
+              "expanded_url": "https://x.com/JIUJIU4mao/status/2083847995418960296/photo/1",
+              "media_key": "3_2083844309678505984",
+              "start": 191,
+              "url": "https://t.co/Iovc5O3RQe"
+            },
+            {
+              "display_url": "pic.x.com/Iovc5O3RQe",
+              "end": 214,
+              "expanded_url": "https://x.com/JIUJIU4mao/status/2083847995418960296/photo/1",
+              "media_key": "3_2083844325394530304",
+              "start": 191,
+              "url": "https://t.co/Iovc5O3RQe"
+            },
+            {
+              "display_url": "pic.x.com/Iovc5O3RQe",
+              "end": 214,
+              "expanded_url": "https://x.com/JIUJIU4mao/status/2083847995418960296/photo/1",
+              "media_key": "3_2083844489395961856",
+              "start": 191,
+              "url": "https://t.co/Iovc5O3RQe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083847995418960296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "玖玖的神人线上酒会与依依拯救计划（小枫堕落计划）\n外附神B三角洲环节（欢迎学习组织线上活动？）\n【最后预定特殊CG请务必看到最后】\n\n         男娘加我\n正                        纯\n直                        爱\n纯                        高\n洁                        尚\n勿                        另\n入                        寻\n此                        他\n门                        处\n\n其实我们不收X上的外人，我们是别的地方认识的只会一个圈子一起玩\n\n要我说【低山臭水遇知音，穷山恶水双子星】\n本次也是来到了我和臭标志依依的激情对拳时刻（bushi）\n\n也是来到我们上周的酒会介绍环节！\n本次规则是主办方报销2瓶低度数的酒/2瓶东鹏特饮/2瓶2L大雪碧三选一参与哦\n\n活动参考了方舟ALL IN和女神酒鬼的游戏\n一共每人有4次保底机会\n共计9轮下注机会；可以【双倍押注】\n每一轮输了必须从四次机会选择惩罚\n1.喝1/4分量的饮品\n2.喝下500ml雪碧抱头蹲下扭腰拱穴跳舞三分钟\n\n分别对应喝酒醉熏熏/睡眠控制睡眠不能/憋尿拱穴体操\n获胜+1分；双倍押注+2分；失败接受惩罚或者自己和主办方下注有意思的事情\n\n----------------分割线--------------------\n\n【以下暂为无关紧要的事情】\n\n（波冷水：因为统计下注的人太忙了到后面其实没怎么下注有意思事情）\n每场活动不可能完美，就色色来说本次活动无疑是失败的，但是对于参加的二人来说，无疑是有意思的\n\n前两场因为两人设备没有调试好，临时改为了看我下场打三角洲绝密单三能不能击杀大于等于2人在周末晚上的绝航\n\n干扰项为大伙决定我玩什么干员和有一个神经病一直在麦里骚扰我；且我不能关声音\n\n然后被迫选了蝶，外加耳机里一直有一个神经病在边上叽叽咕咕的；主播主播你怎么不走啊，主播主播你怎么在当区啊，主播主播xxxxxxxx，难道说xxxxxxx\n\n一直在被放火影忍者BGM一边叽叽咕咕；为了彰显决心，我还在背包里塞了个33大红\n\n请观赏：\n在二员通道下蹲牢区出来的神人（请搭配night dance食用）\n\n【周末航天有人在欧美有人在堵桥；而我在二员下等你出牢区】\n【一身大刘涛，装的金丹，aw没有带】\n【只有1头修2甲修特里克；我想蹲死个人转点，但我是条区，想劝架\n\n【但是b航天好↑安↓静↑啊↓！！！！！！！！！！！！】\n\n【当区会被嘲笑吗？不当区打不过啊；劝架和蹲人先手才有优势啊↑↓】\n【那不是区吗？哦不对，一样是区但我战备有200万啊】\n\n我草中控打了，我草，t仔出动t仔出动↑\n哦齁齁终于，终于让我等到了吗；此刻，既是极致之时↑\n\n然后其实我是niko粉，为了庆祝niko十年饮冰热血难凉，一梭子m7背身空7枪没打死\n观战的：。。。。。。。。。。。\n解说：666，还有致敬环节\n\n然后被人aw透视大荒囚天指一脚踢死）\n\n第二局丑陋的在桥后蹲丢包蹲了20分钟，内场一枪没开\n最后十分钟撤离点桥上出现了5队满编\n桥上一队堵桥，桥下一队打最后一队，码头一队炸撤离点，还有两队一队蹲一个闸在花园拿狙互抽了20分钟也不冲，估摸着药都打完了\n。。。。。。\n还有主包这个刘涛蹲丢包打老鼠神人\n然后主播又一次一梭子没打死背身\n\n最后依靠丑陋的蹲在蓝车上打死一只丢包鼠鼠\n然后击杀一只混闸的队伍一人拿下2次击杀\n\n丑陋的胜利......\n你懂个G8，这是中华武术的胜利，能赢就行；这叫专打丢包飞升懦夫，先打懦夫后打药知不知道，可惜这把都是懦夫，此等对手根本不值得我拼上全力战斗\n\n解说：菜】\n我：雪豹闭嘴】\n\n----------------分割线-----------------\n正片开始\n有情臭标志依依和她的正直纯爱同伴小枫\n\n作为正直的代表银枫企图把代表被洗脑改造完成的依依拯救出来开始了五局游戏下注\n而胜利的一方可以得到控制对方一周生活的权利\n当然，这包括但不限于强制交配权，物化使用权，单方面侮辱权，思想哀配权，行为\n控制权，人格重塑权，肉体改造权，隐私曝光权及绝对命令权~之类的哦\n\n都是自愿愿赌服输呢\n\n开局前，请两位斗士喝下2L的雪碧且不能去厕所扭胯五分钟哦\n【姑且，中途没有憋住的话就直接输掉了哦】\n\n那么第一局：双人下五子棋然后输掉的一方要拉着比较紧致的内裤拉伸抽打回弹自己隐私部位呢~嗯哼？\n\n具体发生了什么，结果作为纯爱的小枫第一局就输掉了啊，一下下的拍打感觉已经飞溅了不明液体发出咕唔的声音了\n\n哼哼~真可爱，对于笨蛋纯爱孩子来说应该没有这种体验是第一次吧，看起来资质不错呢~很有被改造为笨蛋母畜的资质呐\n\n接下来的三局；两人在憋着扭胯的情况下完成了三局relink的决斗\n感觉要给这孩子玩高潮玩坏了呢w~最后小枫顶着尿意夹着腿在自己熟悉的游戏内连赢三局\n\n但是，感觉，快要憋不住了呢，毕竟已经三个小时了哎哎~姑且憋不住的话就要输掉了哦w\n\n接下来是后续的黑魂对决，最高难度下一起比谁先死呢w\n但是臭标志依依为了可以继续发情的下贱~在很努力的抵抗哦\n小枫在和依依颤斗了一个小时半多之后，听起来w已经偷偷在椅子上泄出来了哦\n明明是为了争夺亲爱的朋友的拯救计划什么的，却因为自己憋不住偷偷漏了呢w\n真是笨蛋啊w\n\n虽然嘴上不承认但是结束后也完全没有去厕所的意向，就是已经w偷偷，漏出来了呢，顺着大腿一凳子温热什么的\n\n总之，最后由我偷偷下令让依依送死了呢w，依依要认小枫一个月主人~\n不过啊，好像，你的小枫也已经\n回不来了咪\n\n那么，恭喜又一位母畜只是扭跨就去了憋不住被玩坏了呢w\n笨蛋呢\n\n啊啊，知道你们这些笨蛋想看什么，后面，会有训练母畜野外露出的环节的哦w，还请，多多关注转发点赞呢\n\n【百赞的话，姑且把母畜踩脸奖励高潮扣穴；百转发的话，牵出去穿cos露出大腿写字奖励各位观众哦w】"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4887,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "玖玖的神人线上酒会与依依拯救计划（小枫堕落计划）\n外附神B三角洲环节（欢迎学习组织线上活动？）\n【最后预定特殊CG请务必看到最后】\n\n         男娘加我\n正                        纯\n直                        爱\n纯                        高\n洁                        尚\n勿 https://t.co/Iovc5O3RQe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "佛系文援，贡系推主\n独立网游-魔女奏奏的世界 文本策划兼运营\nhttps://t.co/nHUUcUuqrt\ntg频道，欢迎体验加入奏游\n里世界发情小号@oricz233\n星辰魔女镜璃\n@jingli1840489\n好老婆@chessy80978858\n亲爱的黑心天使小亦@choeycholote",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 76,
+                "username": "oricz233"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 126,
+                "start": 111,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 149,
+                "start": 136,
+                "username": "choeycholote"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+LI_NqPcVcKc0M…",
+                "end": 54,
+                "expanded_url": "https://t.me/+LI_NqPcVcKc0MGVl",
+                "start": 31,
+                "url": "https://t.co/nHUUcUuqrt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARosxSy"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "超可爱超绿茶超撩人的精灵魔女-奏奏💚",
+        "pinned_tweet_id": "2082056419176767686",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081260158194458624/DeyvE0-y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9489,
+          "following_count": 428,
+          "like_count": 664,
+          "listed_count": 39,
+          "media_count": 846,
+          "tweet_count": 2294
+        },
+        "url": "https://t.co/le8ARosxSy",
+        "username": "xuemingjiai",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-14T17:39:05.000Z",
+        "description": "这里是为47位亲爹19位哥哥31位主人22位亲爱的服侍过文援姬玖玖❤️是家畜们的雌畜长\n\n⭐开放家畜礼仪教育/文媛/交友闲聊\n⭐清水coser不露点/COS原味定制/接COS许愿可多人\n⭐️是女皮文援/皮下女/可微涉三\n营业时间是下午到凌晨三点；需预约\n喜欢有礼貌懂距离感的孩子\n\n请关注妈咪@sanwwww04",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 146,
+                "username": "sanwwww04"
+              }
+            ]
+          }
+        },
+        "id": "2066213610104512512",
+        "location": "企鹅2857237121🚪10防骚扰",
+        "name": "是玖玖不是九十九",
+        "pinned_tweet_id": "2080624365486686716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074239503498461184/0SDG64Hw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1408,
+          "following_count": 63,
+          "like_count": 114,
+          "listed_count": 2,
+          "media_count": 66,
+          "tweet_count": 228
+        },
+        "url": "",
+        "username": "JIUJIU4mao",
+        "verified": true
+      }
+    ]
+  }
+}

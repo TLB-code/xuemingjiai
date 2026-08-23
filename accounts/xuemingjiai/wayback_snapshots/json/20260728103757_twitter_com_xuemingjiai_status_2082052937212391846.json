@@ -1,0 +1,424 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "2082052937212391846",
+    "created_at": "2026-07-28T10:37:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T11:37:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082052937212391846"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1852926328963522560",
+          "start": 3,
+          "username": "oricz233"
+        },
+        {
+          "end": 58,
+          "id": "2037966367459258368",
+          "start": 48,
+          "username": "Tianqiyuo"
+        },
+        {
+          "end": 123,
+          "id": "2062903073778110464",
+          "start": 108,
+          "username": "xingjiangliang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082052937212391846",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082051639280894115",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oricz233: 喵喵...等级又被吸走190级...\n但是喵!奏奏要遛一条傻逼母狗喵@Tianqiyuo  白痴死了!刚加奏奏就说什么看奏奏给自己的小钱包送钱很爽...然后在奏奏的怂恿下给自己的傻逼广告牌@xingjiangliang 去白给败北上贡了，还被奏奏彻底…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2082051418337468416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOTuu9oaYAAFRlL.jpg",
+        "width": 986
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2082051455897542656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOTuxJjboAAE4g4.jpg",
+        "width": 644
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2082051509785862144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOTu0STaIAA6tNQ.jpg",
+        "width": 948
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2082051625787813888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOTu7CcbcAA2sLp.jpg",
+        "width": 911
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "2082052937212391846",
+        "created_at": "2026-07-28T10:37:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T11:37:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082052937212391846"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1852926328963522560",
+              "start": 3,
+              "username": "oricz233"
+            },
+            {
+              "end": 58,
+              "id": "2037966367459258368",
+              "start": 48,
+              "username": "Tianqiyuo"
+            },
+            {
+              "end": 123,
+              "id": "2062903073778110464",
+              "start": 108,
+              "username": "xingjiangliang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082052937212391846",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082051639280894115",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @oricz233: 喵喵...等级又被吸走190级...\n但是喵!奏奏要遛一条傻逼母狗喵@Tianqiyuo  白痴死了!刚加奏奏就说什么看奏奏给自己的小钱包送钱很爽...然后在奏奏的怂恿下给自己的傻逼广告牌@xingjiangliang 去白给败北上贡了，还被奏奏彻底…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082051418337468416",
+            "3_2082051455897542656",
+            "3_2082051509785862144",
+            "3_2082051625787813888"
+          ]
+        },
+        "author_id": "1852926328963522560",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2082051639280894115",
+        "created_at": "2026-07-28T10:32:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T11:32:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082051639280894115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 44,
+              "id": "2037966367459258368",
+              "start": 34,
+              "username": "Tianqiyuo"
+            },
+            {
+              "end": 109,
+              "id": "2062903073778110464",
+              "start": 94,
+              "username": "xingjiangliang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/k58P7MEF3V",
+              "end": 183,
+              "expanded_url": "https://x.com/oricz233/status/2082051639280894115/photo/1",
+              "media_key": "3_2082051418337468416",
+              "start": 160,
+              "url": "https://t.co/k58P7MEF3V"
+            },
+            {
+              "display_url": "pic.x.com/k58P7MEF3V",
+              "end": 183,
+              "expanded_url": "https://x.com/oricz233/status/2082051639280894115/photo/1",
+              "media_key": "3_2082051455897542656",
+              "start": 160,
+              "url": "https://t.co/k58P7MEF3V"
+            },
+            {
+              "display_url": "pic.x.com/k58P7MEF3V",
+              "end": 183,
+              "expanded_url": "https://x.com/oricz233/status/2082051639280894115/photo/1",
+              "media_key": "3_2082051509785862144",
+              "start": 160,
+              "url": "https://t.co/k58P7MEF3V"
+            },
+            {
+              "display_url": "pic.x.com/k58P7MEF3V",
+              "end": 183,
+              "expanded_url": "https://x.com/oricz233/status/2082051639280894115/photo/1",
+              "media_key": "3_2082051625787813888",
+              "start": 160,
+              "url": "https://t.co/k58P7MEF3V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082051639280894115",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "喵喵...等级又被吸走190级...\n但是喵!奏奏要遛一条傻逼母狗喵@Tianqiyuo  白痴死了!刚加奏奏就说什么看奏奏给自己的小钱包送钱很爽...然后在奏奏的怂恿下给自己的傻逼广告牌@xingjiangliang 去白给败北上贡了，还被奏奏彻底打上伪s的标记一辈子不许翻身呜呜♡\n还有p2...四张图放不下啦喵呜 https://t.co/k58P7MEF3V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "佛系文援，贡系推主\n独立网游-魔女奏奏的世界 文本策划兼运营\nhttps://t.co/nHUUcUuYh1\ntg频道，欢迎体验加入奏游\n里世界发情小号@oricz233\n星辰魔女镜璃\n@jingli1840489\n好老婆@chessy80978858\n亲爱的黑心天使小亦@CrossTheAutumn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 76,
+                "username": "oricz233"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 126,
+                "start": 111,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 151,
+                "start": 136,
+                "username": "CrossTheAutumn"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+LI_NqPcVcKc0M…",
+                "end": 54,
+                "expanded_url": "https://t.me/+LI_NqPcVcKc0MGVl",
+                "start": 31,
+                "url": "https://t.co/nHUUcUuYh1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "超可爱超绿茶超撩人的精灵魔女-奏奏💚",
+        "pinned_tweet_id": "2065914875877228650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081260158194458624/DeyvE0-y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9428,
+          "following_count": 429,
+          "like_count": 666,
+          "listed_count": 40,
+          "media_count": 845,
+          "tweet_count": 2286
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-03T04:10:46.000Z",
+        "description": "嗯 如你所见这就是魔女妹妹@xuemingjiai 的小号哦\n是经过深思熟虑后向大家展示的另外一面\n有s属性有m属性并不丢人好不好!相反应该是超级可爱的属性才对吧，所以不接受诋毁喵♡\n以后会在这个号上更新自己的m性癖分享，上贡分享喵\n啊啊啊忍不了了，发情♡已上贡金额890♡\nqq2829556413喵，欢迎上门提款♡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 13,
+                "username": "xuemingjiai"
+              }
+            ]
+          }
+        },
+        "id": "1852926328963522560",
+        "name": "LV109级天才魔女（里世界发情版）绝赞发情败北中♡",
+        "pinned_tweet_id": "2081265091706867945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081259290061684736/e8ec46_K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1551,
+          "following_count": 28,
+          "like_count": 42,
+          "listed_count": 4,
+          "media_count": 74,
+          "tweet_count": 171
+        },
+        "url": "",
+        "username": "oricz233",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-28T18:54:59.000Z",
+        "description": "关注再私信，黑心妹妹喜欢压榨犯贱的贡猪🖤也喜欢欺负榨金可爱的宝宝❤️收无🧠贡猪门牌3152649925欢迎傻逼贡猪宝宝们来小雨脚下送死🖤哦～奏奏亲妈祖宗@xuemingjiai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 76,
+                "username": "xuemingjiai"
+              }
+            ]
+          }
+        },
+        "id": "2037966367459258368",
+        "location": "踩在贱狗头上",
+        "name": "黑心祖宗小雨🖤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077778574225055744/0MwcLW6X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 807,
+          "following_count": 8,
+          "like_count": 89,
+          "listed_count": 2,
+          "media_count": 16,
+          "tweet_count": 31
+        },
+        "url": "",
+        "username": "Tianqiyuo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-05T14:25:12.000Z",
+        "description": "小雨亲妈的傻逼贡狗除臭犬@Tianqiyuo一辈子被小雨亲妈踩在脚下被吸干钱包吸到死啊啊啊啊啊",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 12,
+                "username": "Tianqiyuo"
+              }
+            ]
+          }
+        },
+        "id": "2062903073778110464",
+        "name": "小雨亲妈的广告牌子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078859344209412096/8N_728JC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 15,
+          "like_count": 39,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 51
+        },
+        "url": "",
+        "username": "xingjiangliang",
+        "verified": false
+      }
+    ]
+  }
+}

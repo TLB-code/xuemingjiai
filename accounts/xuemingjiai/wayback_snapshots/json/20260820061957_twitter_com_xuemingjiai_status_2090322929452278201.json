@@ -1,0 +1,392 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090322910519111680",
+        "3_2090322910548525056",
+        "3_2090322910498197504",
+        "3_2090322910494044160"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2090322929452278201",
+    "created_at": "2026-08-20T06:19:57.000Z",
+    "display_text_range": [
+      0,
+      95
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T07:19:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090322929452278201"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 28,
+          "id": "2066221915224801280",
+          "start": 18,
+          "username": "jinli1dyz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JgUoqc5wiM",
+          "end": 119,
+          "expanded_url": "https://x.com/xuemingjiai/status/2090322929452278201/photo/1",
+          "media_key": "3_2090322910519111680",
+          "start": 96,
+          "url": "https://t.co/JgUoqc5wiM"
+        },
+        {
+          "display_url": "pic.x.com/JgUoqc5wiM",
+          "end": 119,
+          "expanded_url": "https://x.com/xuemingjiai/status/2090322929452278201/photo/1",
+          "media_key": "3_2090322910548525056",
+          "start": 96,
+          "url": "https://t.co/JgUoqc5wiM"
+        },
+        {
+          "display_url": "pic.x.com/JgUoqc5wiM",
+          "end": 119,
+          "expanded_url": "https://x.com/xuemingjiai/status/2090322929452278201/photo/1",
+          "media_key": "3_2090322910498197504",
+          "start": 96,
+          "url": "https://t.co/JgUoqc5wiM"
+        },
+        {
+          "display_url": "pic.x.com/JgUoqc5wiM",
+          "end": 119,
+          "expanded_url": "https://x.com/xuemingjiai/status/2090322929452278201/photo/1",
+          "media_key": "3_2090322910494044160",
+          "start": 96,
+          "url": "https://t.co/JgUoqc5wiM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090322929452278201",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2090322910519111680"
+      },
+      {
+        "media_key": "3_2090322910548525056"
+      },
+      {
+        "media_key": "3_2090322910498197504"
+      },
+      {
+        "media_key": "3_2090322910494044160"
+      }
+    ],
+    "note_tweet": {
+      "entities": {
+        "mentions": [
+          {
+            "end": 28,
+            "id": "2066221915224801280",
+            "start": 18,
+            "username": "jinli1dyz"
+          }
+        ]
+      },
+      "text": "今天带来的是槿离写的奏游宣传推文哦\n@jinli1dyz\n    噗呼呼~接下来带来的是奏奏妈咪的游戏哦ww，游戏内置了超多好玩的玩法哦:下棋~打牌ww诱人的荷官小姐发牌的时候可是很公平呢w\n      当然~怎么能少的了刷怪呢♡游戏内目前有多个怪物~每个怪物的属性跟立绘都很细节哦ww勇者们可以击败他们哦~还有一个究极大boss~魔女奏奏♡拥有魅惑，颅内回响等技能~要是失败了~会给予勇者大人一~点小小的惩罚呢ww\n      还有上贡功能哦~输给游戏内的魅魔~败北被踩在脚下无情的吸取碎片♡经验♡又或是脑浆精液🖤\n       还有赌马功能哦♡虽然说~“谁家勇者天天哭，哪个赌徒天天输?”ww不过各位勇者也要适度赌马呀ww不然人家吃什么♡\n     还有涩涩飞行棋哦ww里面全是小惊喜哦♡至于惊喜是什么~就等各位勇者前来探索了哦~\n      最近还开放了新的饰品交易哦~♡这难道不是另一种变向的上■嘛ww\n     还有很多其他好玩的功能哦~大世界人矿♡高难度副本~冰激凌保卫战……都是很棒的玩法呢\n     另外提一嘴~槿离也是因为这个游戏才开始接触这个圈子变成小魅魔的呢~♡各位杂鱼勇者\n     呐呐~现在已经在逐步开放船新版本了哦ww新装备，新技能，新怪物♡，目前已经放出三只了哦，各位杂鱼勇者不会1.0的怪物都没有毕业叭~ww  \n       嘛~没注册的也不用担心ww快来下方的二维码~跟着人家一起走向地狱叭ww🖤"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天带来的是槿离写的奏游宣传推文哦\n@jinli1dyz\n    噗呼呼~接下来带来的是奏奏妈咪的游戏哦ww，游戏内置了超多好玩的玩法哦:下棋~打牌ww诱人的荷官小姐发牌的时候可是很公平呢w https://t.co/JgUoqc5wiM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2090322910519111680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQJRnLNaMAAmKMn.jpg",
+        "width": 872
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2090322910548525056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQJRnLUbAAA3xmj.jpg",
+        "width": 1708
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2090322910498197504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQJRnLIbEAALT1S.jpg",
+        "width": 872
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2090322910494044160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQJRnLHbsAAPPgY.jpg",
+        "width": 872
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090322910519111680",
+            "3_2090322910548525056",
+            "3_2090322910498197504",
+            "3_2090322910494044160"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2090322929452278201",
+        "created_at": "2026-08-20T06:19:57.000Z",
+        "display_text_range": [
+          0,
+          95
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T07:19:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090322929452278201"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 28,
+              "id": "2066221915224801280",
+              "start": 18,
+              "username": "jinli1dyz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JgUoqc5wiM",
+              "end": 119,
+              "expanded_url": "https://x.com/xuemingjiai/status/2090322929452278201/photo/1",
+              "media_key": "3_2090322910519111680",
+              "start": 96,
+              "url": "https://t.co/JgUoqc5wiM"
+            },
+            {
+              "display_url": "pic.x.com/JgUoqc5wiM",
+              "end": 119,
+              "expanded_url": "https://x.com/xuemingjiai/status/2090322929452278201/photo/1",
+              "media_key": "3_2090322910548525056",
+              "start": 96,
+              "url": "https://t.co/JgUoqc5wiM"
+            },
+            {
+              "display_url": "pic.x.com/JgUoqc5wiM",
+              "end": 119,
+              "expanded_url": "https://x.com/xuemingjiai/status/2090322929452278201/photo/1",
+              "media_key": "3_2090322910498197504",
+              "start": 96,
+              "url": "https://t.co/JgUoqc5wiM"
+            },
+            {
+              "display_url": "pic.x.com/JgUoqc5wiM",
+              "end": 119,
+              "expanded_url": "https://x.com/xuemingjiai/status/2090322929452278201/photo/1",
+              "media_key": "3_2090322910494044160",
+              "start": 96,
+              "url": "https://t.co/JgUoqc5wiM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090322929452278201",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090322910519111680"
+          },
+          {
+            "media_key": "3_2090322910548525056"
+          },
+          {
+            "media_key": "3_2090322910498197504"
+          },
+          {
+            "media_key": "3_2090322910494044160"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 28,
+                "id": "2066221915224801280",
+                "start": 18,
+                "username": "jinli1dyz"
+              }
+            ]
+          },
+          "text": "今天带来的是槿离写的奏游宣传推文哦\n@jinli1dyz\n    噗呼呼~接下来带来的是奏奏妈咪的游戏哦ww，游戏内置了超多好玩的玩法哦:下棋~打牌ww诱人的荷官小姐发牌的时候可是很公平呢w\n      当然~怎么能少的了刷怪呢♡游戏内目前有多个怪物~每个怪物的属性跟立绘都很细节哦ww勇者们可以击败他们哦~还有一个究极大boss~魔女奏奏♡拥有魅惑，颅内回响等技能~要是失败了~会给予勇者大人一~点小小的惩罚呢ww\n      还有上贡功能哦~输给游戏内的魅魔~败北被踩在脚下无情的吸取碎片♡经验♡又或是脑浆精液🖤\n       还有赌马功能哦♡虽然说~“谁家勇者天天哭，哪个赌徒天天输?”ww不过各位勇者也要适度赌马呀ww不然人家吃什么♡\n     还有涩涩飞行棋哦ww里面全是小惊喜哦♡至于惊喜是什么~就等各位勇者前来探索了哦~\n      最近还开放了新的饰品交易哦~♡这难道不是另一种变向的上■嘛ww\n     还有很多其他好玩的功能哦~大世界人矿♡高难度副本~冰激凌保卫战……都是很棒的玩法呢\n     另外提一嘴~槿离也是因为这个游戏才开始接触这个圈子变成小魅魔的呢~♡各位杂鱼勇者\n     呐呐~现在已经在逐步开放船新版本了哦ww新装备，新技能，新怪物♡，目前已经放出三只了哦，各位杂鱼勇者不会1.0的怪物都没有毕业叭~ww  \n       嘛~没注册的也不用担心ww快来下方的二维码~跟着人家一起走向地狱叭ww🖤"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天带来的是槿离写的奏游宣传推文哦\n@jinli1dyz\n    噗呼呼~接下来带来的是奏奏妈咪的游戏哦ww，游戏内置了超多好玩的玩法哦:下棋~打牌ww诱人的荷官小姐发牌的时候可是很公平呢w https://t.co/JgUoqc5wiM"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "超绝可爱文援姬，黑心偶像贡系推主\n独立网游-魔女奏奏的世界 文本策划兼运营\n欢迎体验加入奏游\n星辰魔女镜璃\n@jingli1840489\n好老婆@chessy80978858\n亲爱的黑心天使小亦@choeycholote\nqq2829556413←添加上就会被提款当做钱包使用喵\n最爱的祖宗主人老公@Sama184396",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 54,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 87,
+                "start": 72,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 110,
+                "start": 97,
+                "username": "choeycholote"
+              },
+              {
+                "end": 160,
+                "start": 149,
+                "username": "Sama184396"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARosxSy"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "is_identity_verified": false,
+        "location": "小猪老婆@Reset_one_",
+        "most_recent_tweet_id": "2090322929452278201",
+        "name": "超可爱超绿茶超撩人的精灵魔女-奏奏💚",
+        "pinned_tweet_id": "2082056419176767686",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1374389254726455305/1780949984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081260158194458624/DeyvE0-y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9658,
+          "following_count": 457,
+          "like_count": 705,
+          "listed_count": 41,
+          "media_count": 853,
+          "tweet_count": 2250
+        },
+        "url": "https://t.co/le8ARosxSy",
+        "username": "xuemingjiai",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-14T18:11:37.000Z",
+        "description": "一只堕落的小狐狸💜，这里只有温柔但又险要的陷阱，不会有细声细语安抚，只会被人家爆■，提■，榨■🖤被人家玩弄洗脑成一只会吐金币的■智贱■🖤来吧找人家玩吧🖤傻■🖤只有无尽的地狱等着你哦💜\n最喜欢的奏奏@xuemingjiai \n秋秋3851673439 🚪10r",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 98,
+                "username": "xuemingjiai"
+              }
+            ]
+          }
+        },
+        "id": "2066221915224801280",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089854921864843518",
+        "name": "槿离离离离",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2066221915224801280/1782551966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070798916153749504/o4pZ7A_Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 483,
+          "following_count": 33,
+          "like_count": 344,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 58
+        },
+        "url": "",
+        "username": "jinli1dyz",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

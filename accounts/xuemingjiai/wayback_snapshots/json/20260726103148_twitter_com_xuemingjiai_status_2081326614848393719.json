@@ -1,0 +1,385 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "2081326614848393719",
+    "created_at": "2026-07-26T10:31:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T11:31:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081326614848393719"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1852926328963522560",
+          "start": 3,
+          "username": "oricz233"
+        },
+        {
+          "end": 36,
+          "id": "1179864401630957569",
+          "start": 25,
+          "username": "shion94755"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081326614848393719",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081326320668287361",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oricz233: 发情小号的第一次败北被@shion94755 诗音小姐拿下啦....\n作为lv999级的大魔法师奏奏怎么可能输给lv1级的魅魔同行呢！\n不过是等级吸取嘛，奏奏也会!\n不过是诱惑嘛，奏奏也很有魅力!\n稍微降一点等级让让诗音小姐也没关系的!\n哦齁齁齁齁齁…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2081325316916809729",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOJaWTDakAEhsc6.jpg",
+        "width": 722
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2081325351725326336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOJaYUuaYAAfhua.jpg",
+        "width": 682
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2081325389960638464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOJaajKa8AAz2v1.jpg",
+        "width": 1029
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2081325421325656064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOJacYAbIAAUi8e.jpg",
+        "width": 1151
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "2081326614848393719",
+        "created_at": "2026-07-26T10:31:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T11:31:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081326614848393719"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1852926328963522560",
+              "start": 3,
+              "username": "oricz233"
+            },
+            {
+              "end": 36,
+              "id": "1179864401630957569",
+              "start": 25,
+              "username": "shion94755"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081326614848393719",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081326320668287361",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @oricz233: 发情小号的第一次败北被@shion94755 诗音小姐拿下啦....\n作为lv999级的大魔法师奏奏怎么可能输给lv1级的魅魔同行呢！\n不过是等级吸取嘛，奏奏也会!\n不过是诱惑嘛，奏奏也很有魅力!\n稍微降一点等级让让诗音小姐也没关系的!\n哦齁齁齁齁齁…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081325316916809729",
+            "3_2081325351725326336",
+            "3_2081325389960638464",
+            "3_2081325421325656064"
+          ]
+        },
+        "author_id": "1852926328963522560",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2081326320668287361",
+        "created_at": "2026-07-26T10:30:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T11:30:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081326320668287361"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 161,
+              "start": 158,
+              "tag": "上贡"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 22,
+              "id": "1179864401630957569",
+              "start": 11,
+              "username": "shion94755"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CAHITUIa7z",
+              "end": 185,
+              "expanded_url": "https://x.com/oricz233/status/2081326320668287361/photo/1",
+              "media_key": "3_2081325316916809729",
+              "start": 162,
+              "url": "https://t.co/CAHITUIa7z"
+            },
+            {
+              "display_url": "pic.x.com/CAHITUIa7z",
+              "end": 185,
+              "expanded_url": "https://x.com/oricz233/status/2081326320668287361/photo/1",
+              "media_key": "3_2081325351725326336",
+              "start": 162,
+              "url": "https://t.co/CAHITUIa7z"
+            },
+            {
+              "display_url": "pic.x.com/CAHITUIa7z",
+              "end": 185,
+              "expanded_url": "https://x.com/oricz233/status/2081326320668287361/photo/1",
+              "media_key": "3_2081325389960638464",
+              "start": 162,
+              "url": "https://t.co/CAHITUIa7z"
+            },
+            {
+              "display_url": "pic.x.com/CAHITUIa7z",
+              "end": 185,
+              "expanded_url": "https://x.com/oricz233/status/2081326320668287361/photo/1",
+              "media_key": "3_2081325421325656064",
+              "start": 162,
+              "url": "https://t.co/CAHITUIa7z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081326320668287361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "发情小号的第一次败北被@shion94755 诗音小姐拿下啦....\n作为lv999级的大魔法师奏奏怎么可能输给lv1级的魅魔同行呢！\n不过是等级吸取嘛，奏奏也会!\n不过是诱惑嘛，奏奏也很有魅力!\n稍微降一点等级让让诗音小姐也没关系的!\n哦齁齁齁齁齁齁♡\n被嘲讽贫乳垫板身材了♡\n250的贡金加等级被吸走了...♡\n#上贡 https://t.co/CAHITUIa7z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "前文援，前贡系推主\n现独立网游-魔女奏奏的世界 文本策划兼运营\nhttps://t.co/nHUUcUuYh1\ntg频道，欢迎体验加入奏游\n里世界发情小号@oricz233\n星辰魔女镜璃\n@jingli1840489\n好老婆@chessy80978858\n亲爱的黑心天使小亦@CrossTheAutumn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 77,
+                "username": "oricz233"
+              },
+              {
+                "end": 108,
+                "start": 94,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 127,
+                "start": 112,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 152,
+                "start": 137,
+                "username": "CrossTheAutumn"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+LI_NqPcVcKc0M…",
+                "end": 55,
+                "expanded_url": "https://t.me/+LI_NqPcVcKc0MGVl",
+                "start": 32,
+                "url": "https://t.co/nHUUcUuYh1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "location": "小猪老婆@Reset_one_",
+        "name": "超可爱超绿茶超撩人的精灵魔女-奏奏💚",
+        "pinned_tweet_id": "2065914875877228650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081260158194458624/DeyvE0-y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9418,
+          "following_count": 427,
+          "like_count": 666,
+          "listed_count": 40,
+          "media_count": 844,
+          "tweet_count": 2276
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-03T04:10:46.000Z",
+        "description": "嗯 如你所见这就是魔女妹妹@xuemingjiai 的小号哦\n是经过深思熟虑以后决定向大家解锁展示的另外一面。\n有s属性有m属性并不丢人好不好!相反应该是超级可爱的属性才对吧，所以不接受诋毁喵♡\n以后会在这个号上更新自己的m性癖分享，上贡分享喵\n啊啊啊忍不了了，发情♡已上贡金额250♡\nqq2829556413喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 13,
+                "username": "xuemingjiai"
+              }
+            ]
+          }
+        },
+        "id": "1852926328963522560",
+        "name": "魔女妹妹（里世界发情版）绝赞发情败北中♡",
+        "pinned_tweet_id": "2081265091706867945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081259290061684736/e8ec46_K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1406,
+          "following_count": 9,
+          "like_count": 4,
+          "listed_count": 4,
+          "media_count": 65,
+          "tweet_count": 155
+        },
+        "url": "",
+        "username": "oricz233",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-03T21:02:56.000Z",
+        "description": "来自二次元的Findom系黑心虚拟偶像哦~🖤\n\n最擅长的是~仗着自己的魅力随意收钱呢\n\n欢迎大家一个个全都变成本小姐的“粉丝”，让本小姐把你们完全榨干哦~w\n\n联系方式是以下的QQ哦:3694939281",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/shion94755",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/shion94755",
+                "start": 0,
+                "url": "https://t.co/sSvdCzY9mS"
+              }
+            ]
+          }
+        },
+        "id": "1179864401630957569",
+        "name": "诗音大小姐#吸金系偶像🖤",
+        "pinned_tweet_id": "2038142564176699825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006638412443570176/8vUKoAD3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7879,
+          "following_count": 118,
+          "like_count": 135,
+          "listed_count": 16,
+          "media_count": 1202,
+          "tweet_count": 1771
+        },
+        "url": "https://t.co/sSvdCzY9mS",
+        "username": "shion94755",
+        "verified": true
+      }
+    ]
+  }
+}
