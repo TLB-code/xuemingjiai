@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092906550201638912",
+        "3_2092906572771143682"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "2092908957241418064",
+    "created_at": "2026-08-27T09:35:54.000Z",
+    "display_text_range": [
+      0,
+      68
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T10:35:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092908957241418064"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OTpvhUMWAt",
+          "end": 92,
+          "expanded_url": "https://x.com/xuemingjiai/status/2092908957241418064/photo/1",
+          "media_key": "3_2092906550201638912",
+          "start": 69,
+          "url": "https://t.co/OTpvhUMWAt"
+        },
+        {
+          "display_url": "pic.x.com/OTpvhUMWAt",
+          "end": 92,
+          "expanded_url": "https://x.com/xuemingjiai/status/2092908957241418064/photo/1",
+          "media_key": "3_2092906572771143682",
+          "start": 69,
+          "url": "https://t.co/OTpvhUMWAt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092908957241418064",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2092906550201638912"
+      },
+      {
+        "media_key": "3_2092906572771143682"
+      }
+    ],
+    "note_tweet": {
+      "entities": {},
+      "text": "大家好，这里是奏奏妈咪，今天来做群宣啦～\n\n第一个群，是奏奏正在运营的一款多人联机互动可涩涩的文字网游的新人群～就是一直在宣传的奏游啦～\n注册和体验是完全免费的，主体是玩法是那种古早的rpg打怪升级的游戏，然后内置了一些好玩的可涩涩互动的小游戏以及玩家之间可以一起下棋，打牌的连线游戏大厅，感兴趣可以加群一起玩～\n\n第二个群，是奏奏的个人粉丝群，这里除了不聊奏游，什么都聊，进群可以每天视奸奏奏的作息，吃饭～获取最新的推文更新提醒，可以来交友，认识更多可爱的同好，一起交流"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "大家好，这里是奏奏妈咪，今天来做群宣啦～\n\n第一个群，是奏奏正在运营的一款多人联机互动可涩涩的文字网游的新人群～就是一直在宣传的奏游啦～ https://t.co/OTpvhUMWAt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2321,
+        "media_key": "3_2092906550201638912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQt_azDbYAAGgJ4.jpg",
+        "width": 1305
+      },
+      {
+        "height": 2321,
+        "media_key": "3_2092906572771143682",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQt_cHIasAIqeod.jpg",
+        "width": 1305
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092906550201638912",
+            "3_2092906572771143682"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "2092908957241418064",
+        "created_at": "2026-08-27T09:35:54.000Z",
+        "display_text_range": [
+          0,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T10:35:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092908957241418064"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OTpvhUMWAt",
+              "end": 92,
+              "expanded_url": "https://x.com/xuemingjiai/status/2092908957241418064/photo/1",
+              "media_key": "3_2092906550201638912",
+              "start": 69,
+              "url": "https://t.co/OTpvhUMWAt"
+            },
+            {
+              "display_url": "pic.x.com/OTpvhUMWAt",
+              "end": 92,
+              "expanded_url": "https://x.com/xuemingjiai/status/2092908957241418064/photo/1",
+              "media_key": "3_2092906572771143682",
+              "start": 69,
+              "url": "https://t.co/OTpvhUMWAt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092908957241418064",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092906550201638912"
+          },
+          {
+            "media_key": "3_2092906572771143682"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "大家好，这里是奏奏妈咪，今天来做群宣啦～\n\n第一个群，是奏奏正在运营的一款多人联机互动可涩涩的文字网游的新人群～就是一直在宣传的奏游啦～\n注册和体验是完全免费的，主体是玩法是那种古早的rpg打怪升级的游戏，然后内置了一些好玩的可涩涩互动的小游戏以及玩家之间可以一起下棋，打牌的连线游戏大厅，感兴趣可以加群一起玩～\n\n第二个群，是奏奏的个人粉丝群，这里除了不聊奏游，什么都聊，进群可以每天视奸奏奏的作息，吃饭～获取最新的推文更新提醒，可以来交友，认识更多可爱的同好，一起交流"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家好，这里是奏奏妈咪，今天来做群宣啦～\n\n第一个群，是奏奏正在运营的一款多人联机互动可涩涩的文字网游的新人群～就是一直在宣传的奏游啦～ https://t.co/OTpvhUMWAt"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "超绝可爱文援姬，黑心偶像贡系推主\n独立网游-魔女奏奏的世界 文本策划兼运营\n欢迎体验加入奏游\n星辰魔女镜璃\n@jingli1840489\n好老婆@chessy80978858\n亲爱的黑心天使小亦@choeycholote\nqq2829556413←添加上就会被提款当做钱包使用喵\n最爱的祖宗主人老公@Sama184396",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 54,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 87,
+                "start": 72,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 110,
+                "start": 97,
+                "username": "choeycholote"
+              },
+              {
+                "end": 160,
+                "start": 149,
+                "username": "Sama184396"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARosxSy"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "is_identity_verified": false,
+        "location": "小猪老婆@Reset_one_",
+        "most_recent_tweet_id": "2092908957241418064",
+        "name": "超可爱超绿茶超撩人的精灵魔女-奏奏💚",
+        "pinned_tweet_id": "2090369913328402680",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1374389254726455305/1780949984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081260158194458624/DeyvE0-y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9702,
+          "following_count": 458,
+          "like_count": 717,
+          "listed_count": 42,
+          "media_count": 856,
+          "tweet_count": 2254
+        },
+        "url": "https://t.co/le8ARosxSy",
+        "username": "xuemingjiai",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

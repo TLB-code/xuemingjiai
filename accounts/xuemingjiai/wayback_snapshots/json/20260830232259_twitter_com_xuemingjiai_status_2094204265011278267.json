@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094204238029287424"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "2094204265011278267",
+    "created_at": "2026-08-30T23:22:59.000Z",
+    "display_text_range": [
+      0,
+      116
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T00:22:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094204265011278267"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MGuWan6GrQ",
+          "end": 140,
+          "expanded_url": "https://x.com/xuemingjiai/status/2094204265011278267/photo/1",
+          "media_key": "3_2094204238029287424",
+          "start": 117,
+          "url": "https://t.co/MGuWan6GrQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094204265011278267",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "alt_text": "布~宝宝出的石头w\n呀~宝宝又输了呢...这是第几局了呀？\n宝宝怎么一直输不了奏奏妈咪呀~\n一局是52枚金币的话~宝宝已经输给奏奏妈咪多少了呀~\n这样下去会很快的榨干丢掉哦~\n请沉浸在这种极端不公平的快感中溺死吧♡",
+        "media_key": "3_2094204238029287424"
+      }
+    ],
+    "note_tweet": {
+      "entities": {},
+      "text": "完全不对等的游戏~\n来自小鹿提供的创意和上贡的涩图(笑)\n呐~宝宝，听说你想和奏奏妈咪玩游戏是吗~那我们来玩石头剪刀布吧♡\n这是非常简单，并且“公平”的游戏，纯靠运气~所以即使是宝宝这样不太聪明的奏奏控小狗狗应该也能赢过妈咪对不对？\n嗯嗯~那~宝宝，在正式开始游戏之前，先跪下吧~跪在高贵的奏奏公主妈咪的脚下~\n然后呢~乖乖乖~四脚着地哦~做出真正像小狗狗的姿势~跪在妈咪的脚边鞋旁呢♡\n“汪♡”\n明明还没有让宝宝学狗叫呢~好自觉w\n那么~最后一步，视线剥夺~乖乖的把头埋进奏奏妈咪的白丝小脚里面♡\n好~就保持这样的姿势不许乱动了哦~\n下面~让我们正式开始游戏吧♡\n点开alt有小惊喜哦~"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "完全不对等的游戏~\n来自小鹿提供的创意和上贡的涩图(笑)\n呐~宝宝，听说你想和奏奏妈咪玩游戏是吗~那我们来玩石头剪刀布吧♡\n这是非常简单，并且“公平”的游戏，纯靠运气~所以即使是宝宝这样不太聪明的奏奏控小狗狗应该也能赢过妈咪对不对？ https://t.co/MGuWan6GrQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "布~宝宝出的石头w\n呀~宝宝又输了呢...这是第几局了呀？\n宝宝怎么一直输不了奏奏妈咪呀~\n一局是52枚金币的话~宝宝已经输给奏奏妈咪多少了呀~\n这样下去会很快的榨干丢掉哦~\n请沉浸在这种极端不公平的快感中溺死吧♡",
+        "height": 1920,
+        "media_key": "3_2094204238029287424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRAbqK7acAAK9qT.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094204238029287424"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "2094204265011278267",
+        "created_at": "2026-08-30T23:22:59.000Z",
+        "display_text_range": [
+          0,
+          116
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T00:22:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094204265011278267"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MGuWan6GrQ",
+              "end": 140,
+              "expanded_url": "https://x.com/xuemingjiai/status/2094204265011278267/photo/1",
+              "media_key": "3_2094204238029287424",
+              "start": 117,
+              "url": "https://t.co/MGuWan6GrQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094204265011278267",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "alt_text": "布~宝宝出的石头w\n呀~宝宝又输了呢...这是第几局了呀？\n宝宝怎么一直输不了奏奏妈咪呀~\n一局是52枚金币的话~宝宝已经输给奏奏妈咪多少了呀~\n这样下去会很快的榨干丢掉哦~\n请沉浸在这种极端不公平的快感中溺死吧♡",
+            "media_key": "3_2094204238029287424"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "完全不对等的游戏~\n来自小鹿提供的创意和上贡的涩图(笑)\n呐~宝宝，听说你想和奏奏妈咪玩游戏是吗~那我们来玩石头剪刀布吧♡\n这是非常简单，并且“公平”的游戏，纯靠运气~所以即使是宝宝这样不太聪明的奏奏控小狗狗应该也能赢过妈咪对不对？\n嗯嗯~那~宝宝，在正式开始游戏之前，先跪下吧~跪在高贵的奏奏公主妈咪的脚下~\n然后呢~乖乖乖~四脚着地哦~做出真正像小狗狗的姿势~跪在妈咪的脚边鞋旁呢♡\n“汪♡”\n明明还没有让宝宝学狗叫呢~好自觉w\n那么~最后一步，视线剥夺~乖乖的把头埋进奏奏妈咪的白丝小脚里面♡\n好~就保持这样的姿势不许乱动了哦~\n下面~让我们正式开始游戏吧♡\n点开alt有小惊喜哦~"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "完全不对等的游戏~\n来自小鹿提供的创意和上贡的涩图(笑)\n呐~宝宝，听说你想和奏奏妈咪玩游戏是吗~那我们来玩石头剪刀布吧♡\n这是非常简单，并且“公平”的游戏，纯靠运气~所以即使是宝宝这样不太聪明的奏奏控小狗狗应该也能赢过妈咪对不对？ https://t.co/MGuWan6GrQ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "网游-魔女奏奏的世界 文本策划兼运营\n亲友团如下，奏奏认证，绝不踩雷：@jingli1840489\n@chessy80978858\n@choeycholote\n@blakexiaonai\n@miaomiaomyoez2\n@GaoGaoLove_\n@jinli1dyz\n@Sama184396\n我的qq2826556413",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 35,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 65,
+                "start": 50,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 79,
+                "start": 66,
+                "username": "choeycholote"
+              },
+              {
+                "end": 93,
+                "start": 80,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 109,
+                "start": 94,
+                "username": "miaomiaomyoez2"
+              },
+              {
+                "end": 122,
+                "start": 110,
+                "username": "GaoGaoLove_"
+              },
+              {
+                "end": 133,
+                "start": 123,
+                "username": "jinli1dyz"
+              },
+              {
+                "end": 145,
+                "start": 134,
+                "username": "Sama184396"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "is_identity_verified": false,
+        "location": "小猪老婆@Reset_one_",
+        "most_recent_tweet_id": "2094204265011278267",
+        "name": "超涩气超绿茶的魔女公主-奏奏💚",
+        "pinned_tweet_id": "2090369913328402680",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1374389254726455305/1780949984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093830641548922880/QYpa_zhH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9729,
+          "following_count": 463,
+          "like_count": 726,
+          "listed_count": 42,
+          "media_count": 858,
+          "tweet_count": 2257
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

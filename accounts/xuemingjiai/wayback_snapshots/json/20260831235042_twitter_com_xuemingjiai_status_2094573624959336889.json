@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094572652514127872",
+        "3_2094572652518375425",
+        "3_2094572652459696128",
+        "3_2094572718591299584"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2094573624959336889",
+    "created_at": "2026-08-31T23:50:42.000Z",
+    "display_text_range": [
+      0,
+      149
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T00:50:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094573624959336889"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dpjydcq9KZ",
+          "end": 173,
+          "expanded_url": "https://x.com/xuemingjiai/status/2094573624959336889/photo/1",
+          "media_key": "3_2094572652514127872",
+          "start": 150,
+          "url": "https://t.co/dpjydcq9KZ"
+        },
+        {
+          "display_url": "pic.x.com/dpjydcq9KZ",
+          "end": 173,
+          "expanded_url": "https://x.com/xuemingjiai/status/2094573624959336889/photo/1",
+          "media_key": "3_2094572652518375425",
+          "start": 150,
+          "url": "https://t.co/dpjydcq9KZ"
+        },
+        {
+          "display_url": "pic.x.com/dpjydcq9KZ",
+          "end": 173,
+          "expanded_url": "https://x.com/xuemingjiai/status/2094573624959336889/photo/1",
+          "media_key": "3_2094572652459696128",
+          "start": 150,
+          "url": "https://t.co/dpjydcq9KZ"
+        },
+        {
+          "display_url": "pic.x.com/dpjydcq9KZ",
+          "end": 173,
+          "expanded_url": "https://x.com/xuemingjiai/status/2094573624959336889/photo/1",
+          "media_key": "3_2094572718591299584",
+          "start": 150,
+          "url": "https://t.co/dpjydcq9KZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094573624959336889",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2094572652514127872"
+      },
+      {
+        "media_key": "3_2094572652518375425"
+      },
+      {
+        "media_key": "3_2094572652459696128"
+      },
+      {
+        "media_key": "3_2094572718591299584"
+      }
+    ],
+    "note_tweet": {
+      "entities": {},
+      "text": "今天带来的是奏奏妈咪和可爱的奏奏控玩丢骰子的小游戏哦~\n为了保证“公平”，奏奏妈咪在丢骰子之前提前把规则写在了备忘录里，并且截图保存下来，等结果出来再发出来~\n然后然后...奏奏妈咪的点数好低呀...小狗的点数是3点呢，奏奏妈咪是1点呢...\n如果是比大小的话♡\n很可惜~按照规则来说，宝宝输了哦♡\n呐~输给我♡\n输给奏奏妈咪吧♡"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天带来的是奏奏妈咪和可爱的奏奏控玩丢骰子的小游戏哦~\n为了保证“公平”，奏奏妈咪在丢骰子之前提前把规则写在了备忘录里，并且截图保存下来，等结果出来再发出来~\n然后然后...奏奏妈咪的点数好低呀...小狗的点数是3点呢，奏奏妈咪是1点呢...\n如果是比大小的话♡\n很可惜~按照规则来说，宝宝输了哦♡ https://t.co/dpjydcq9KZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2729,
+        "media_key": "3_2094572652514127872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRFqut1aMAAibNY.jpg",
+        "width": 610
+      },
+      {
+        "height": 2204,
+        "media_key": "3_2094572652518375425",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRFqut2bAAE1nh6.jpg",
+        "width": 610
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2094572652459696128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRFqutoboAAntHL.jpg",
+        "width": 882
+      },
+      {
+        "height": 1752,
+        "media_key": "3_2094572718591299584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRFqyj_b0AARSGa.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094572652514127872",
+            "3_2094572652518375425",
+            "3_2094572652459696128",
+            "3_2094572718591299584"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2094573624959336889",
+        "created_at": "2026-08-31T23:50:42.000Z",
+        "display_text_range": [
+          0,
+          149
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T00:50:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094573624959336889"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dpjydcq9KZ",
+              "end": 173,
+              "expanded_url": "https://x.com/xuemingjiai/status/2094573624959336889/photo/1",
+              "media_key": "3_2094572652514127872",
+              "start": 150,
+              "url": "https://t.co/dpjydcq9KZ"
+            },
+            {
+              "display_url": "pic.x.com/dpjydcq9KZ",
+              "end": 173,
+              "expanded_url": "https://x.com/xuemingjiai/status/2094573624959336889/photo/1",
+              "media_key": "3_2094572652518375425",
+              "start": 150,
+              "url": "https://t.co/dpjydcq9KZ"
+            },
+            {
+              "display_url": "pic.x.com/dpjydcq9KZ",
+              "end": 173,
+              "expanded_url": "https://x.com/xuemingjiai/status/2094573624959336889/photo/1",
+              "media_key": "3_2094572652459696128",
+              "start": 150,
+              "url": "https://t.co/dpjydcq9KZ"
+            },
+            {
+              "display_url": "pic.x.com/dpjydcq9KZ",
+              "end": 173,
+              "expanded_url": "https://x.com/xuemingjiai/status/2094573624959336889/photo/1",
+              "media_key": "3_2094572718591299584",
+              "start": 150,
+              "url": "https://t.co/dpjydcq9KZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094573624959336889",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094572652514127872"
+          },
+          {
+            "media_key": "3_2094572652518375425"
+          },
+          {
+            "media_key": "3_2094572652459696128"
+          },
+          {
+            "media_key": "3_2094572718591299584"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "今天带来的是奏奏妈咪和可爱的奏奏控玩丢骰子的小游戏哦~\n为了保证“公平”，奏奏妈咪在丢骰子之前提前把规则写在了备忘录里，并且截图保存下来，等结果出来再发出来~\n然后然后...奏奏妈咪的点数好低呀...小狗的点数是3点呢，奏奏妈咪是1点呢...\n如果是比大小的话♡\n很可惜~按照规则来说，宝宝输了哦♡\n呐~输给我♡\n输给奏奏妈咪吧♡"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天带来的是奏奏妈咪和可爱的奏奏控玩丢骰子的小游戏哦~\n为了保证“公平”，奏奏妈咪在丢骰子之前提前把规则写在了备忘录里，并且截图保存下来，等结果出来再发出来~\n然后然后...奏奏妈咪的点数好低呀...小狗的点数是3点呢，奏奏妈咪是1点呢...\n如果是比大小的话♡\n很可惜~按照规则来说，宝宝输了哦♡ https://t.co/dpjydcq9KZ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "网游-魔女奏奏的世界 文本策划兼运营\n亲友团如下，奏奏认证，绝不踩雷：@jingli1840489\n@chessy80978858\n@choeycholote\n@blakexiaonai\n@miaomiaomyoez2\n@GaoGaoLove_\n@jinli1dyz\n@Sama184396\n我的qq2826556413",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 35,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 65,
+                "start": 50,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 79,
+                "start": 66,
+                "username": "choeycholote"
+              },
+              {
+                "end": 93,
+                "start": 80,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 109,
+                "start": 94,
+                "username": "miaomiaomyoez2"
+              },
+              {
+                "end": 122,
+                "start": 110,
+                "username": "GaoGaoLove_"
+              },
+              {
+                "end": 133,
+                "start": 123,
+                "username": "jinli1dyz"
+              },
+              {
+                "end": 145,
+                "start": 134,
+                "username": "Sama184396"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "is_identity_verified": false,
+        "location": "小猪老婆@Reset_one_",
+        "most_recent_tweet_id": "2094573624959336889",
+        "name": "超涩气超绿茶的魔女公主-奏奏💚",
+        "pinned_tweet_id": "2090369913328402680",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1374389254726455305/1780949984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093830641548922880/QYpa_zhH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9731,
+          "following_count": 463,
+          "like_count": 727,
+          "listed_count": 42,
+          "media_count": 859,
+          "tweet_count": 2258
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
