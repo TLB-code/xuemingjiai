@@ -1,0 +1,389 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097267589001216000"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "2097267461527842875",
+    "created_at": "2026-09-08T10:15:36.000Z",
+    "display_text_range": [
+      0,
+      1
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T11:15:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097267600967557422"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mYSLYWkPba",
+          "end": 25,
+          "expanded_url": "https://x.com/xuemingjiai/status/2097267600967557422/photo/1",
+          "media_key": "3_2097267589001216000",
+          "start": 2,
+          "url": "https://t.co/mYSLYWkPba"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097267600967557422",
+    "in_reply_to_user_id": "1374389254726455305",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2097267589001216000"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097267461527842875",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "♡ https://t.co/mYSLYWkPba"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2097267589001216000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRr9wqlbgAANQdf.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1961,
+        "media_key": "3_2097260875413684224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRr3p4hbgAAHL8G.jpg",
+        "width": 610
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2097260874432163840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRr3p03asAAC6He.jpg",
+        "width": 892
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2097260874427949057",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRr3p02aYAEtpmk.jpg",
+        "width": 658
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2097260874428030976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRr3p02boAAahWF.jpg",
+        "width": 761
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097267589001216000"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "2097267461527842875",
+        "created_at": "2026-09-08T10:15:36.000Z",
+        "display_text_range": [
+          0,
+          1
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T11:15:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097267600967557422"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mYSLYWkPba",
+              "end": 25,
+              "expanded_url": "https://x.com/xuemingjiai/status/2097267600967557422/photo/1",
+              "media_key": "3_2097267589001216000",
+              "start": 2,
+              "url": "https://t.co/mYSLYWkPba"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097267600967557422",
+        "in_reply_to_user_id": "1374389254726455305",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2097267589001216000"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097267461527842875",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "♡ https://t.co/mYSLYWkPba"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097260875413684224",
+            "3_2097260874432163840",
+            "3_2097260874427949057",
+            "3_2097260874428030976"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2097267461527842875",
+        "created_at": "2026-09-08T10:15:02.000Z",
+        "display_text_range": [
+          0,
+          137
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T11:15:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097267461527842875"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 39,
+              "id": "1992451272751169538",
+              "start": 29,
+              "username": "Twillaya7"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ILLKfB2T7X",
+              "end": 161,
+              "expanded_url": "https://x.com/xuemingjiai/status/2097267461527842875/photo/1",
+              "media_key": "3_2097260875413684224",
+              "start": 138,
+              "url": "https://t.co/ILLKfB2T7X"
+            },
+            {
+              "display_url": "pic.x.com/ILLKfB2T7X",
+              "end": 161,
+              "expanded_url": "https://x.com/xuemingjiai/status/2097267461527842875/photo/1",
+              "media_key": "3_2097260874432163840",
+              "start": 138,
+              "url": "https://t.co/ILLKfB2T7X"
+            },
+            {
+              "display_url": "pic.x.com/ILLKfB2T7X",
+              "end": 161,
+              "expanded_url": "https://x.com/xuemingjiai/status/2097267461527842875/photo/1",
+              "media_key": "3_2097260874427949057",
+              "start": 138,
+              "url": "https://t.co/ILLKfB2T7X"
+            },
+            {
+              "display_url": "pic.x.com/ILLKfB2T7X",
+              "end": 161,
+              "expanded_url": "https://x.com/xuemingjiai/status/2097267461527842875/photo/1",
+              "media_key": "3_2097260874428030976",
+              "start": 138,
+              "url": "https://t.co/ILLKfB2T7X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097267461527842875",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097260875413684224"
+          },
+          {
+            "media_key": "3_2097260874432163840"
+          },
+          {
+            "media_key": "3_2097260874427949057"
+          },
+          {
+            "media_key": "3_2097260874428030976"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 39,
+                "id": "1992451272751169538",
+                "start": 29,
+                "username": "Twillaya7"
+              }
+            ]
+          },
+          "text": "今天的推文是无码曝光哦~\n经过本人同意，全裸出镜的小鹿♡\n@Twillaya7 \n首先让奏奏来介绍一下这位是谁哦~\n是几年前开始就作为本公主的电子宠物被制作成电子广告牌的电子宠物♡\n然后中间断断续续的发情~肯定也有过后悔，想要戒掉的想法吧~\n但是在最近呢，又自己回来送死啦~\n先是为奏游添砖加瓦，无偿打工编写代码，努力奉献自己的价值♡\n再是因为奏奏瘾发作，被瞬间击溃心理防线~呼...凑到耳边吹气♡\n“不需要忍耐了哦...之前坚持那么久不贡，不输给奏奏，辛苦了♡现在...请你认输，去死吧♡”\n中间的详情省略很多...请各位小钱包们自行脑补哦♡\n评论区会再发一张曾经的证件照~\n会不会吸引到更多类似的笨蛋同类上钩呢....?"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天的推文是无码曝光哦~\n经过本人同意，全裸出镜的小鹿♡\n@Twillaya7 \n首先让奏奏来介绍一下这位是谁哦~\n是几年前开始就作为本公主的电子宠物被制作成电子广告牌的电子宠物♡\n然后中间断断续续的发情~肯定也有过后悔，想要戒掉的想法吧~\n但是在最近呢，又自己回来送死啦~ https://t.co/ILLKfB2T7X"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "网游-魔女奏奏的世界 文本策划兼运营\n亲友团如下，奏奏认证，绝不踩雷：@jingli1840489\n@chessy80978858\n@choeycholote\n@blakexiaonai\n@miaomiaomyoez2\n@GaoGaoLove_\n@jinli1dyz\n@Sama184396\n我的qq2829556413",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 35,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 65,
+                "start": 50,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 79,
+                "start": 66,
+                "username": "choeycholote"
+              },
+              {
+                "end": 93,
+                "start": 80,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 109,
+                "start": 94,
+                "username": "miaomiaomyoez2"
+              },
+              {
+                "end": 122,
+                "start": 110,
+                "username": "GaoGaoLove_"
+              },
+              {
+                "end": 133,
+                "start": 123,
+                "username": "jinli1dyz"
+              },
+              {
+                "end": 145,
+                "start": 134,
+                "username": "Sama184396"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "is_identity_verified": false,
+        "location": "小猪老婆@Reset_one_",
+        "most_recent_tweet_id": "2097267600967557422",
+        "name": "超涩气超绿茶的魔女公主-奏奏💚",
+        "pinned_tweet_id": "2096142932147622373",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1374389254726455305/1780949984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093830641548922880/QYpa_zhH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9865,
+          "following_count": 477,
+          "like_count": 781,
+          "listed_count": 43,
+          "media_count": 869,
+          "tweet_count": 2274
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

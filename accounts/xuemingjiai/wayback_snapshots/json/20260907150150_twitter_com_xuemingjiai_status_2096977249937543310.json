@@ -1,0 +1,457 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096935697827655681",
+        "3_2096935710414802944"
+      ],
+      "media_source_tweet_id": [
+        "2096935719700934806",
+        "2096935719700934806"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "2096977249937543310",
+    "created_at": "2026-09-07T15:01:50.000Z",
+    "display_text_range": [
+      0,
+      95
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T16:01:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096977249937543310"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 58,
+          "start": 55,
+          "tag": "文援"
+        },
+        {
+          "end": 62,
+          "start": 59,
+          "tag": "压榨"
+        },
+        {
+          "end": 67,
+          "start": 63,
+          "tag": "atm"
+        },
+        {
+          "end": 71,
+          "start": 68,
+          "tag": "贡奴"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2093960938512859136",
+          "start": 3,
+          "username": "Christ3407"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rhdzltG78j",
+          "end": 95,
+          "expanded_url": "https://x.com/Christ3407/status/2096935719700934806/photo/1",
+          "media_key": "3_2096935697827655681",
+          "start": 72,
+          "url": "https://t.co/rhdzltG78j"
+        },
+        {
+          "display_url": "pic.x.com/rhdzltG78j",
+          "end": 95,
+          "expanded_url": "https://x.com/Christ3407/status/2096935719700934806/photo/1",
+          "media_key": "3_2096935710414802944",
+          "start": 72,
+          "url": "https://t.co/rhdzltG78j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096977249937543310",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096935697827655681"
+      },
+      {
+        "media_key": "3_2096935710414802944"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096935719700934806",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Christ3407: 因为这样那样的原因 死去的女仆莉音酱复活了w\n今天也在等待您的自投罗网哦？\n\n#文援 #压榨 #atm #贡奴 https://t.co/rhdzltG78j"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1045,
+        "media_key": "3_2096935697827655681",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRnP6DnacAEsDS7.jpg",
+        "width": 1344
+      },
+      {
+        "height": 1037,
+        "media_key": "3_2096935710414802944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRnP6ygbEAAU7CR.jpg",
+        "width": 1037
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096935697827655681",
+            "3_2096935710414802944"
+          ],
+          "media_source_tweet_id": [
+            "2096935719700934806",
+            "2096935719700934806"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "2096977249937543310",
+        "created_at": "2026-09-07T15:01:50.000Z",
+        "display_text_range": [
+          0,
+          95
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T16:01:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096977249937543310"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 58,
+              "start": 55,
+              "tag": "文援"
+            },
+            {
+              "end": 62,
+              "start": 59,
+              "tag": "压榨"
+            },
+            {
+              "end": 67,
+              "start": 63,
+              "tag": "atm"
+            },
+            {
+              "end": 71,
+              "start": 68,
+              "tag": "贡奴"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2093960938512859136",
+              "start": 3,
+              "username": "Christ3407"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rhdzltG78j",
+              "end": 95,
+              "expanded_url": "https://x.com/Christ3407/status/2096935719700934806/photo/1",
+              "media_key": "3_2096935697827655681",
+              "start": 72,
+              "url": "https://t.co/rhdzltG78j"
+            },
+            {
+              "display_url": "pic.x.com/rhdzltG78j",
+              "end": 95,
+              "expanded_url": "https://x.com/Christ3407/status/2096935719700934806/photo/1",
+              "media_key": "3_2096935710414802944",
+              "start": 72,
+              "url": "https://t.co/rhdzltG78j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096977249937543310",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096935697827655681"
+          },
+          {
+            "media_key": "3_2096935710414802944"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096935719700934806",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Christ3407: 因为这样那样的原因 死去的女仆莉音酱复活了w\n今天也在等待您的自投罗网哦？\n\n#文援 #压榨 #atm #贡奴 https://t.co/rhdzltG78j"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096935697827655681",
+            "3_2096935710414802944"
+          ]
+        },
+        "author_id": "2093960938512859136",
+        "conversation_id": "2096935719700934806",
+        "created_at": "2026-09-07T12:16:49.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T13:16:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096935719700934806"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 42,
+              "start": 39,
+              "tag": "文援"
+            },
+            {
+              "end": 46,
+              "start": 43,
+              "tag": "压榨"
+            },
+            {
+              "end": 51,
+              "start": 47,
+              "tag": "atm"
+            },
+            {
+              "end": 55,
+              "start": 52,
+              "tag": "贡奴"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rhdzltG78j",
+              "end": 79,
+              "expanded_url": "https://x.com/Christ3407/status/2096935719700934806/photo/1",
+              "media_key": "3_2096935697827655681",
+              "start": 56,
+              "url": "https://t.co/rhdzltG78j"
+            },
+            {
+              "display_url": "pic.x.com/rhdzltG78j",
+              "end": 79,
+              "expanded_url": "https://x.com/Christ3407/status/2096935719700934806/photo/1",
+              "media_key": "3_2096935710414802944",
+              "start": 56,
+              "url": "https://t.co/rhdzltG78j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096935719700934806",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096935697827655681"
+          },
+          {
+            "media_key": "3_2096935710414802944"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 261,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "因为这样那样的原因 死去的女仆莉音酱复活了w\n今天也在等待您的自投罗网哦？\n\n#文援 #压榨 #atm #贡奴 https://t.co/rhdzltG78j"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "网游-魔女奏奏的世界 文本策划兼运营\n亲友团如下，奏奏认证，绝不踩雷：@jingli1840489\n@chessy80978858\n@choeycholote\n@blakexiaonai\n@miaomiaomyoez2\n@GaoGaoLove_\n@jinli1dyz\n@Sama184396\n我的qq2829556413",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 35,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 65,
+                "start": 50,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 79,
+                "start": 66,
+                "username": "choeycholote"
+              },
+              {
+                "end": 93,
+                "start": 80,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 109,
+                "start": 94,
+                "username": "miaomiaomyoez2"
+              },
+              {
+                "end": 122,
+                "start": 110,
+                "username": "GaoGaoLove_"
+              },
+              {
+                "end": 133,
+                "start": 123,
+                "username": "jinli1dyz"
+              },
+              {
+                "end": 145,
+                "start": 134,
+                "username": "Sama184396"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "is_identity_verified": false,
+        "location": "小猪老婆@Reset_one_",
+        "most_recent_tweet_id": "2096977249937543310",
+        "name": "超涩气超绿茶的魔女公主-奏奏💚",
+        "pinned_tweet_id": "2096142932147622373",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1374389254726455305/1780949984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093830641548922880/QYpa_zhH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9852,
+          "following_count": 476,
+          "like_count": 778,
+          "listed_count": 42,
+          "media_count": 867,
+          "tweet_count": 2271
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-30T07:18:16.000Z",
+        "description": "女仆（正在杀出冥界）\n是善良的女仆哦（确信）\n门槛35r🧧 敲门→1604549690\n互推请私信\n姐姐大人: @QingMian0819",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 56,
+                "username": "QingMian0819"
+              }
+            ]
+          }
+        },
+        "id": "2093960938512859136",
+        "is_identity_verified": false,
+        "location": "你的房间♡",
+        "most_recent_tweet_id": "2096943574810312743",
+        "name": "女仆莉音·重生版✟",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2093960938512859136/1788782706",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096932766265057281/sZyXEqAP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 16,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 3
+        },
+        "url": "",
+        "username": "Christ3407",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

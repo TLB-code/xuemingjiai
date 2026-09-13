@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095787015510044673"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2095787025907728884",
+    "created_at": "2026-09-04T08:12:19.000Z",
+    "display_text_range": [
+      0,
+      55
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T09:12:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095787025907728884"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9hI5sfZ2uT",
+          "end": 79,
+          "expanded_url": "https://x.com/xuemingjiai/status/2095787025907728884/photo/1",
+          "media_key": "3_2095787015510044673",
+          "start": 56,
+          "url": "https://t.co/9hI5sfZ2uT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095787025907728884",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2095787015510044673"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哇，被自己蠢哭!之前简介放的qq错了一位。。我说怎么没人加我呢！呜呜呜呜。。拜托拜托大家都来看看可爱的奏奏吧！ https://t.co/9hI5sfZ2uT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2095787015510044673",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRW7L8haMAEkJSe.jpg",
+        "width": 852
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095787015510044673"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2095787025907728884",
+        "created_at": "2026-09-04T08:12:19.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T09:12:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095787025907728884"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9hI5sfZ2uT",
+              "end": 79,
+              "expanded_url": "https://x.com/xuemingjiai/status/2095787025907728884/photo/1",
+              "media_key": "3_2095787015510044673",
+              "start": 56,
+              "url": "https://t.co/9hI5sfZ2uT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095787025907728884",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095787015510044673"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哇，被自己蠢哭!之前简介放的qq错了一位。。我说怎么没人加我呢！呜呜呜呜。。拜托拜托大家都来看看可爱的奏奏吧！ https://t.co/9hI5sfZ2uT"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "网游-魔女奏奏的世界 文本策划兼运营\n亲友团如下，奏奏认证，绝不踩雷：@jingli1840489\n@chessy80978858\n@choeycholote\n@blakexiaonai\n@miaomiaomyoez2\n@GaoGaoLove_\n@jinli1dyz\n@Sama184396\n我的qq2829556413",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 35,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 65,
+                "start": 50,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 79,
+                "start": 66,
+                "username": "choeycholote"
+              },
+              {
+                "end": 93,
+                "start": 80,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 109,
+                "start": 94,
+                "username": "miaomiaomyoez2"
+              },
+              {
+                "end": 122,
+                "start": 110,
+                "username": "GaoGaoLove_"
+              },
+              {
+                "end": 133,
+                "start": 123,
+                "username": "jinli1dyz"
+              },
+              {
+                "end": 145,
+                "start": 134,
+                "username": "Sama184396"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "is_identity_verified": false,
+        "location": "小猪老婆@Reset_one_",
+        "most_recent_tweet_id": "2095787025907728884",
+        "name": "超涩气超绿茶的魔女公主-奏奏💚",
+        "pinned_tweet_id": "2092908957241418064",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1374389254726455305/1780949984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093830641548922880/QYpa_zhH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9781,
+          "following_count": 463,
+          "like_count": 737,
+          "listed_count": 42,
+          "media_count": 863,
+          "tweet_count": 2262
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

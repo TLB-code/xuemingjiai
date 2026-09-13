@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "2098342871216857115",
+    "created_at": "2026-09-11T09:28:20.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T10:28:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098342871216857115"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2024414138097946624",
+          "start": 3,
+          "username": "161612561Z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098342871216857115",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098057690274742331",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @161612561Z: 呜...做为一只臣服作为死敌♡的天使大人脚下的低■恶魔因为已经无法供给养分被踹出来寻找更多的蠢■，好想抓到足够多的送死傻■把他们当垫脚石踩着他们一步一步回到崇拜的天使大人脚下日夜膜拜♡听取教诲，已经是没有天使大人就活不下去只能不断背叛讨取奖赏的废…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "2098342871216857115",
+        "created_at": "2026-09-11T09:28:20.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T10:28:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098342871216857115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2024414138097946624",
+              "start": 3,
+              "username": "161612561Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098342871216857115",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098057690274742331",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @161612561Z: 呜...做为一只臣服作为死敌♡的天使大人脚下的低■恶魔因为已经无法供给养分被踹出来寻找更多的蠢■，好想抓到足够多的送死傻■把他们当垫脚石踩着他们一步一步回到崇拜的天使大人脚下日夜膜拜♡听取教诲，已经是没有天使大人就活不下去只能不断背叛讨取奖赏的废…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024414138097946624",
+        "conversation_id": "2098057690274742331",
+        "created_at": "2026-09-10T14:35:08.000Z",
+        "display_text_range": [
+          0,
+          143
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T15:35:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098057690274742331"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 143,
+              "start": 140,
+              "tag": "送死"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/mugui0707/stat…",
+              "end": 167,
+              "expanded_url": "https://twitter.com/mugui0707/status/2060694423563043308",
+              "start": 144,
+              "url": "https://t.co/6ErklSihQm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098057690274742331",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 358,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060694423563043308",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "呜...做为一只臣服作为死敌♡的天使大人脚下的低■恶魔因为已经无法供给养分被踹出来寻找更多的蠢■，好想抓到足够多的送死傻■把他们当垫脚石踩着他们一步一步回到崇拜的天使大人脚下日夜膜拜♡听取教诲，已经是没有天使大人就活不下去只能不断背叛讨取奖赏的废物了♡好想要..天使大人的奖励呜♡#送死 https://t.co/6ErklSihQm"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "文援，贡主♡\n亲友团如下，奏奏认证，绝不踩雷：@jingli1840489\n@chessy80978858\n@lingyu_nn\n@choeycholote\n@blakexiaonai\n@miaomiaomyoez2\n@GaoGaoLove_\n@jinli1dyz\n@Sama184396\n我的qq2829556413",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 53,
+                "start": 38,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "lingyu_nn"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "choeycholote"
+              },
+              {
+                "end": 92,
+                "start": 79,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 108,
+                "start": 93,
+                "username": "miaomiaomyoez2"
+              },
+              {
+                "end": 121,
+                "start": 109,
+                "username": "GaoGaoLove_"
+              },
+              {
+                "end": 132,
+                "start": 122,
+                "username": "jinli1dyz"
+              },
+              {
+                "end": 144,
+                "start": 133,
+                "username": "Sama184396"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "is_identity_verified": false,
+        "location": "小猪老婆@Reset_one_",
+        "most_recent_tweet_id": "2098342871216857115",
+        "name": "超涩气超绿茶的魔女公主-奏奏💚",
+        "pinned_tweet_id": "2096142932147622373",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1374389254726455305/1780949984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093830641548922880/QYpa_zhH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9902,
+          "following_count": 482,
+          "like_count": 792,
+          "listed_count": 42,
+          "media_count": 870,
+          "tweet_count": 2276
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-19T09:22:08.000Z",
+        "description": "是来自爱可大人的工具箱中的■号工具因为爱可大人想玩奴下奴所化作的邪恶小助手♥有想送死的欢迎带上10r口令红包敲门哦白■翻倍~QQ3029971597 主人sama @mugui0707 捕获低■的奴下奴：1🖤",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 82,
+                "username": "mugui0707"
+              }
+            ]
+          }
+        },
+        "id": "2024414138097946624",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098076465611129106",
+        "name": "■号工具~爱沐",
+        "pinned_tweet_id": "2097600569473187936",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096930684023840769/xVK3hviz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 6,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 11
+        },
+        "url": "",
+        "username": "161612561Z",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

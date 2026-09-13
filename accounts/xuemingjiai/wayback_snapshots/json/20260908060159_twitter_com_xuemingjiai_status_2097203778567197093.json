@@ -1,0 +1,382 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "2097203778567197093",
+    "created_at": "2026-09-08T06:01:59.000Z",
+    "display_text_range": [
+      0,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T07:01:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097203778567197093"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lingyu_nn/stat…",
+          "end": 48,
+          "expanded_url": "https://twitter.com/lingyu_nn/status/2097152295888900460",
+          "start": 25,
+          "url": "https://t.co/fponRWcDYz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097203778567197093",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097152295888900460",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "没办法...毕竟送上门的全部哪有不榨取的道理呢？ https://t.co/fponRWcDYz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2097152273516515328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRqU4a7a0AAQZeB.jpg",
+        "width": 788
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2097152283138306048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRqU4-xbsAAb-G6.jpg",
+        "width": 829
+      },
+      {
+        "height": 804,
+        "media_key": "3_2097152290830589952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRqU5bbaoAAYEhT.jpg",
+        "width": 1272
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "2097203778567197093",
+        "created_at": "2026-09-08T06:01:59.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T07:01:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097203778567197093"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lingyu_nn/stat…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/lingyu_nn/status/2097152295888900460",
+              "start": 25,
+              "url": "https://t.co/fponRWcDYz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097203778567197093",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097152295888900460",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "没办法...毕竟送上门的全部哪有不榨取的道理呢？ https://t.co/fponRWcDYz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097152273516515328",
+            "3_2097152283138306048",
+            "3_2097152290830589952"
+          ]
+        },
+        "author_id": "1954278888068239360",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2097152295888900460",
+        "created_at": "2026-09-08T02:37:25.000Z",
+        "display_text_range": [
+          0,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T03:37:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097152295888900460"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 47,
+              "start": 44,
+              "tag": "贡奴"
+            },
+            {
+              "end": 51,
+              "start": 48,
+              "tag": "白给"
+            },
+            {
+              "end": 55,
+              "start": 52,
+              "tag": "上贡"
+            },
+            {
+              "end": 59,
+              "start": 56,
+              "tag": "喷金"
+            },
+            {
+              "end": 65,
+              "start": 60,
+              "tag": "atm奴"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 41,
+              "id": "1374389254726455305",
+              "start": 29,
+              "username": "xuemingjiai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rZCkI3bGYH",
+              "end": 89,
+              "expanded_url": "https://x.com/lingyu_nn/status/2097152295888900460/photo/1",
+              "media_key": "3_2097152273516515328",
+              "start": 66,
+              "url": "https://t.co/rZCkI3bGYH"
+            },
+            {
+              "display_url": "pic.x.com/rZCkI3bGYH",
+              "end": 89,
+              "expanded_url": "https://x.com/lingyu_nn/status/2097152295888900460/photo/1",
+              "media_key": "3_2097152283138306048",
+              "start": 66,
+              "url": "https://t.co/rZCkI3bGYH"
+            },
+            {
+              "display_url": "pic.x.com/rZCkI3bGYH",
+              "end": 89,
+              "expanded_url": "https://x.com/lingyu_nn/status/2097152295888900460/photo/1",
+              "media_key": "3_2097152290830589952",
+              "start": 66,
+              "url": "https://t.co/rZCkI3bGYH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097152295888900460",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097152273516515328"
+          },
+          {
+            "media_key": "3_2097152283138306048"
+          },
+          {
+            "media_key": "3_2097152290830589952"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 303,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "杂鱼贡奴苏苏擅自对奏奏大人的鞋底磕头流金了……非常荣幸。\n@xuemingjiai \n\n#贡奴 #白给 #上贡 #喷金 #atm奴 https://t.co/rZCkI3bGYH"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "网游-魔女奏奏的世界 文本策划兼运营\n亲友团如下，奏奏认证，绝不踩雷：@jingli1840489\n@chessy80978858\n@choeycholote\n@blakexiaonai\n@miaomiaomyoez2\n@GaoGaoLove_\n@jinli1dyz\n@Sama184396\n我的qq2829556413",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 35,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 65,
+                "start": 50,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 79,
+                "start": 66,
+                "username": "choeycholote"
+              },
+              {
+                "end": 93,
+                "start": 80,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 109,
+                "start": 94,
+                "username": "miaomiaomyoez2"
+              },
+              {
+                "end": 122,
+                "start": 110,
+                "username": "GaoGaoLove_"
+              },
+              {
+                "end": 133,
+                "start": 123,
+                "username": "jinli1dyz"
+              },
+              {
+                "end": 145,
+                "start": 134,
+                "username": "Sama184396"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "is_identity_verified": false,
+        "location": "小猪老婆@Reset_one_",
+        "most_recent_tweet_id": "2097203778567197093",
+        "name": "超涩气超绿茶的魔女公主-奏奏💚",
+        "pinned_tweet_id": "2096142932147622373",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1374389254726455305/1780949984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093830641548922880/QYpa_zhH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9858,
+          "following_count": 476,
+          "like_count": 779,
+          "listed_count": 42,
+          "media_count": 867,
+          "tweet_count": 2272
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-09T20:29:43.000Z",
+        "description": "死而复生的幽灵公主，爱好是吸干劣等生物的灵魂～ q1653824188 🚪20",
+        "id": "1954278888068239360",
+        "is_identity_verified": false,
+        "location": "♡",
+        "most_recent_tweet_id": "2097192210609631719",
+        "name": "苏伶",
+        "pinned_tweet_id": "2094382204835287086",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094819841370988544/0vMrtSts_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 58,
+          "like_count": 93,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 44
+        },
+        "url": "",
+        "username": "lingyu_nn",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

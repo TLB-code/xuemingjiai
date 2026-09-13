@@ -1,0 +1,438 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "2098342907183042811",
+    "created_at": "2026-09-11T09:28:29.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T10:28:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098342907183042811"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1842623478635323392",
+          "start": 3,
+          "username": "mugui0707"
+        }
+      ],
+      "urls": [
+        {
+          "description": "这是为了筛选傻逼写下的",
+          "display_url": "docs.google.com/forms/d/e/1FAI…",
+          "end": 135,
+          "expanded_url": "https://docs.google.com/forms/d/e/1FAIpQLSf7a8YSn3pB4WDwDpaH-kyFiBdBPOGDzQwMYposNfreyxKZwA/viewform",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2095858174343680000/U1BgiPp1?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2095858174343680000/U1BgiPp1?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 112,
+          "status": 200,
+          "title": "送死问卷",
+          "unwound_url": "https://docs.google.com/forms/d/e/1FAIpQLSf7a8YSn3pB4WDwDpaH-kyFiBdBPOGDzQwMYposNfreyxKZwA/viewform",
+          "url": "https://t.co/HxsA7dBxGD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098342907183042811",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096574166812278907",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mugui0707: 爱可祖宗睡觉日常生活的时候，就有源源不断的贡金汇入\n\n你一个月工资是多少呢？\n除以三十以后有多少呢？\n\n只能在我的脚底\n背上袜子贷\n\n怎么背上袜子呢？\n这里有一个链接哦↓点进去就可以被洗脑了🖤\nhttps://t.co/HxsA7dBxGD\n\n爱可…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1615,
+        "media_key": "3_2096574153281433600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRiHFZOa8AAJVdS.jpg",
+        "width": 863
+      },
+      {
+        "height": 1575,
+        "media_key": "3_2096574160369778689",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRiHFzoagAEa0SZ.jpg",
+        "width": 863
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "2098342907183042811",
+        "created_at": "2026-09-11T09:28:29.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T10:28:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098342907183042811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1842623478635323392",
+              "start": 3,
+              "username": "mugui0707"
+            }
+          ],
+          "urls": [
+            {
+              "description": "这是为了筛选傻逼写下的",
+              "display_url": "docs.google.com/forms/d/e/1FAI…",
+              "end": 135,
+              "expanded_url": "https://docs.google.com/forms/d/e/1FAIpQLSf7a8YSn3pB4WDwDpaH-kyFiBdBPOGDzQwMYposNfreyxKZwA/viewform",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2095858174343680000/U1BgiPp1?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2095858174343680000/U1BgiPp1?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 112,
+              "status": 200,
+              "title": "送死问卷",
+              "unwound_url": "https://docs.google.com/forms/d/e/1FAIpQLSf7a8YSn3pB4WDwDpaH-kyFiBdBPOGDzQwMYposNfreyxKZwA/viewform",
+              "url": "https://t.co/HxsA7dBxGD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098342907183042811",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096574166812278907",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mugui0707: 爱可祖宗睡觉日常生活的时候，就有源源不断的贡金汇入\n\n你一个月工资是多少呢？\n除以三十以后有多少呢？\n\n只能在我的脚底\n背上袜子贷\n\n怎么背上袜子呢？\n这里有一个链接哦↓点进去就可以被洗脑了🖤\nhttps://t.co/HxsA7dBxGD\n\n爱可…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096574153281433600",
+            "3_2096574160369778689"
+          ]
+        },
+        "author_id": "1842623478635323392",
+        "conversation_id": "2096574166812278907",
+        "created_at": "2026-09-06T12:20:08.000Z",
+        "display_text_range": [
+          0,
+          156
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T13:20:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096574166812278907"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "这是为了筛选傻逼写下的",
+              "display_url": "docs.google.com/forms/d/e/1FAI…",
+              "end": 120,
+              "expanded_url": "https://docs.google.com/forms/d/e/1FAIpQLSf7a8YSn3pB4WDwDpaH-kyFiBdBPOGDzQwMYposNfreyxKZwA/viewform",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2095858174343680000/U1BgiPp1?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2095858174343680000/U1BgiPp1?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 97,
+              "status": 200,
+              "title": "送死问卷",
+              "unwound_url": "https://docs.google.com/forms/d/e/1FAIpQLSf7a8YSn3pB4WDwDpaH-kyFiBdBPOGDzQwMYposNfreyxKZwA/viewform",
+              "url": "https://t.co/HxsA7dBxGD"
+            },
+            {
+              "display_url": "pic.x.com/pIm6jPnLsG",
+              "end": 180,
+              "expanded_url": "https://x.com/mugui0707/status/2096574166812278907/photo/1",
+              "media_key": "3_2096574153281433600",
+              "start": 157,
+              "url": "https://t.co/pIm6jPnLsG"
+            },
+            {
+              "display_url": "pic.x.com/pIm6jPnLsG",
+              "end": 180,
+              "expanded_url": "https://x.com/mugui0707/status/2096574166812278907/photo/1",
+              "media_key": "3_2096574160369778689",
+              "start": 157,
+              "url": "https://t.co/pIm6jPnLsG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096574166812278907",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096574153281433600"
+          },
+          {
+            "media_key": "3_2096574160369778689"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 164,
+                "start": 157,
+                "tag": "fimdom"
+              },
+              {
+                "end": 168,
+                "start": 165,
+                "tag": "上贡"
+              },
+              {
+                "end": 172,
+                "start": 169,
+                "tag": "贡奴"
+              },
+              {
+                "end": 176,
+                "start": 173,
+                "tag": "压榨"
+              },
+              {
+                "end": 182,
+                "start": 177,
+                "tag": "atm奴"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "docs.google.com/forms/d/e/1FAI…",
+                "end": 120,
+                "expanded_url": "https://docs.google.com/forms/d/e/1FAIpQLSf7a8YSn3pB4WDwDpaH-kyFiBdBPOGDzQwMYposNfreyxKZwA/viewform",
+                "start": 97,
+                "url": "https://t.co/l3JikSv9YE"
+              }
+            ]
+          },
+          "text": "爱可祖宗睡觉日常生活的时候，就有源源不断的贡金汇入\n\n你一个月工资是多少呢？\n除以三十以后有多少呢？\n\n只能在我的脚底\n背上袜子贷\n\n怎么背上袜子呢？\n这里有一个链接哦↓点进去就可以被洗脑了🖤\nhttps://t.co/l3JikSv9YE\n\n爱可大人踩着你们的烂命会生活的越来越好\n有点想开小荷包方便收割贡奴了\n#fimdom #上贡 #贡奴 #压榨 #atm奴"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 3944,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "爱可祖宗睡觉日常生活的时候，就有源源不断的贡金汇入\n\n你一个月工资是多少呢？\n除以三十以后有多少呢？\n\n只能在我的脚底\n背上袜子贷\n\n怎么背上袜子呢？\n这里有一个链接哦↓点进去就可以被洗脑了🖤\nhttps://t.co/HxsA7dBxGD\n\n爱可大人踩着你们的烂命会生活的越来越好\n有点想开小荷包方便收割贡奴了 https://t.co/pIm6jPnLsG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "文援，贡主♡\n亲友团如下，奏奏认证，绝不踩雷：@jingli1840489\n@chessy80978858\n@lingyu_nn\n@choeycholote\n@blakexiaonai\n@miaomiaomyoez2\n@GaoGaoLove_\n@jinli1dyz\n@Sama184396\n我的qq2829556413",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 53,
+                "start": 38,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "lingyu_nn"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "choeycholote"
+              },
+              {
+                "end": 92,
+                "start": 79,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 108,
+                "start": 93,
+                "username": "miaomiaomyoez2"
+              },
+              {
+                "end": 121,
+                "start": 109,
+                "username": "GaoGaoLove_"
+              },
+              {
+                "end": 132,
+                "start": 122,
+                "username": "jinli1dyz"
+              },
+              {
+                "end": 144,
+                "start": 133,
+                "username": "Sama184396"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "is_identity_verified": false,
+        "location": "小猪老婆@Reset_one_",
+        "most_recent_tweet_id": "2098342907183042811",
+        "name": "超涩气超绿茶的魔女公主-奏奏💚",
+        "pinned_tweet_id": "2096142932147622373",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1374389254726455305/1780949984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093830641548922880/QYpa_zhH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9902,
+          "following_count": 482,
+          "like_count": 792,
+          "listed_count": 42,
+          "media_count": 870,
+          "tweet_count": 2277
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-05T17:50:55.000Z",
+        "description": "压榨主爱可。只想看到你们前仆后继为我去死的贱样🖤\n压榨/恶劣/调教/findom\nQ：3843031377\n🚪20r，傻屄双倍🖕敲门前请把自觉把🧠丢掉🖤申请放口令\ndlc：@qixi0823",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 86,
+                "username": "qixi0823"
+              }
+            ]
+          }
+        },
+        "id": "1842623478635323392",
+        "is_identity_verified": false,
+        "location": "🖤黑心贡奴培育所",
+        "most_recent_tweet_id": "2098086975412859079",
+        "name": "爱可",
+        "pinned_tweet_id": "2070065947315208552",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1842623478635323392/1778787389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058869031613206528/cAFOd56K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1284,
+          "following_count": 78,
+          "like_count": 169,
+          "listed_count": 4,
+          "media_count": 69,
+          "tweet_count": 317
+        },
+        "url": "",
+        "username": "mugui0707",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

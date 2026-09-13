@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096136898477768705",
+        "3_2096136898456784896",
+        "3_2096136898444148737",
+        "3_2096136898444156928"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2096142932147622373",
+    "created_at": "2026-09-05T07:46:34.000Z",
+    "display_text_range": [
+      0,
+      77
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T08:46:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096142932147622373"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PwfEIPCFt9",
+          "end": 101,
+          "expanded_url": "https://x.com/xuemingjiai/status/2096142932147622373/photo/1",
+          "media_key": "3_2096136898477768705",
+          "start": 78,
+          "url": "https://t.co/PwfEIPCFt9"
+        },
+        {
+          "display_url": "pic.x.com/PwfEIPCFt9",
+          "end": 101,
+          "expanded_url": "https://x.com/xuemingjiai/status/2096142932147622373/photo/1",
+          "media_key": "3_2096136898456784896",
+          "start": 78,
+          "url": "https://t.co/PwfEIPCFt9"
+        },
+        {
+          "display_url": "pic.x.com/PwfEIPCFt9",
+          "end": 101,
+          "expanded_url": "https://x.com/xuemingjiai/status/2096142932147622373/photo/1",
+          "media_key": "3_2096136898444148737",
+          "start": 78,
+          "url": "https://t.co/PwfEIPCFt9"
+        },
+        {
+          "display_url": "pic.x.com/PwfEIPCFt9",
+          "end": 101,
+          "expanded_url": "https://x.com/xuemingjiai/status/2096142932147622373/photo/1",
+          "media_key": "3_2096136898444156928",
+          "start": 78,
+          "url": "https://t.co/PwfEIPCFt9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096142932147622373",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096136898477768705"
+      },
+      {
+        "media_key": "3_2096136898456784896"
+      },
+      {
+        "media_key": "3_2096136898444148737"
+      },
+      {
+        "media_key": "3_2096136898444156928"
+      }
+    ],
+    "note_tweet": {
+      "entities": {},
+      "text": "铛铛铛铛!\n奏奏的全新的个人简介，置顶来了！\n这一次每张图片都充斥着杂鱼舔狗小钱包们最喜欢的二维码~毕竟....贡奴这种生物是会看见码就兴奋的存在呀(笑)\n那么~再次做个自我介绍，这里是仅存在于赛博(网络)的魅魔天才美少女奏奏公主~文援姬，贡系推主，多人联机文字贡系网游-魔女奏奏的世界(简称奏游)的文本策划兼运营，不涉及任何三次元相关的话题，你可以认为皮下是百变怪(小正太，大叔，jk，甚至是史莱姆)\n很开心你能从人海茫茫中找到我，相遇就是缘分，奏奏希望能够成为你的宝藏，就像一束光照亮你的心房。\n第一张图是奏奏的qq二维码，想要和奏奏建立联系的话，扫码添加就好啦♡\n当然...加上就会默认成为本公主的舔狗钱包~会被毫不留情的使用哦~请做好被恶劣对待的准备♡\n下单也是完全的，没有门槛~但是...不代表面对某些贱狗的时候不会强制征收门槛哦♡\n第二张呢，是本公主的赞赏码~为什么会放一个赞赏码在这里?\n是为了某些不敢和本公主接触，甚至会对匿名白给这种事上瘾的杂鱼舔狗准备的~奏奏会允许你们跪着磕头，在本公主完全不知道你这个白痴贡狗是谁的情况下，一边跪着一边白给来取悦本公主♡当然...这是命令♡每次白给的金额不能低于10♡\n至于第三张嘛~就是奏游的入口啦，奏游的宣传推文有很多，就不重复啦，想要体验奏游就扫码加入吧~\n第四张嘛~是本公主的粉丝群哦，可以进群和本公主更深入的交流，偷窥本公主的一些日常生活，发推动态~\n选择自己适合的二维码扫吧♡"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "铛铛铛铛!\n奏奏的全新的个人简介，置顶来了！\n这一次每张图片都充斥着杂鱼舔狗小钱包们最喜欢的二维码~毕竟....贡奴这种生物是会看见码就兴奋的存在呀(笑) https://t.co/PwfEIPCFt9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1824,
+        "media_key": "3_2096136898477768705",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRb5Z0JbQAE_R1P.jpg",
+        "width": 1248
+      },
+      {
+        "height": 876,
+        "media_key": "3_2096136898456784896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRb5Z0EbEAAnbnr.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1856,
+        "media_key": "3_2096136898444148737",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRb5Z0BaQAE0UBF.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2096136898444156928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRb5Z0BaYAA0ofe.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096136898477768705",
+            "3_2096136898456784896",
+            "3_2096136898444148737",
+            "3_2096136898444156928"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2096142932147622373",
+        "created_at": "2026-09-05T07:46:34.000Z",
+        "display_text_range": [
+          0,
+          77
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T08:46:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096142932147622373"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PwfEIPCFt9",
+              "end": 101,
+              "expanded_url": "https://x.com/xuemingjiai/status/2096142932147622373/photo/1",
+              "media_key": "3_2096136898477768705",
+              "start": 78,
+              "url": "https://t.co/PwfEIPCFt9"
+            },
+            {
+              "display_url": "pic.x.com/PwfEIPCFt9",
+              "end": 101,
+              "expanded_url": "https://x.com/xuemingjiai/status/2096142932147622373/photo/1",
+              "media_key": "3_2096136898456784896",
+              "start": 78,
+              "url": "https://t.co/PwfEIPCFt9"
+            },
+            {
+              "display_url": "pic.x.com/PwfEIPCFt9",
+              "end": 101,
+              "expanded_url": "https://x.com/xuemingjiai/status/2096142932147622373/photo/1",
+              "media_key": "3_2096136898444148737",
+              "start": 78,
+              "url": "https://t.co/PwfEIPCFt9"
+            },
+            {
+              "display_url": "pic.x.com/PwfEIPCFt9",
+              "end": 101,
+              "expanded_url": "https://x.com/xuemingjiai/status/2096142932147622373/photo/1",
+              "media_key": "3_2096136898444156928",
+              "start": 78,
+              "url": "https://t.co/PwfEIPCFt9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096142932147622373",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096136898477768705"
+          },
+          {
+            "media_key": "3_2096136898456784896"
+          },
+          {
+            "media_key": "3_2096136898444148737"
+          },
+          {
+            "media_key": "3_2096136898444156928"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "铛铛铛铛!\n奏奏的全新的个人简介，置顶来了！\n这一次每张图片都充斥着杂鱼舔狗小钱包们最喜欢的二维码~毕竟....贡奴这种生物是会看见码就兴奋的存在呀(笑)\n那么~再次做个自我介绍，这里是仅存在于赛博(网络)的魅魔天才美少女奏奏公主~文援姬，贡系推主，多人联机文字贡系网游-魔女奏奏的世界(简称奏游)的文本策划兼运营，不涉及任何三次元相关的话题，你可以认为皮下是百变怪(小正太，大叔，jk，甚至是史莱姆)\n很开心你能从人海茫茫中找到我，相遇就是缘分，奏奏希望能够成为你的宝藏，就像一束光照亮你的心房。\n第一张图是奏奏的qq二维码，想要和奏奏建立联系的话，扫码添加就好啦♡\n当然...加上就会默认成为本公主的舔狗钱包~会被毫不留情的使用哦~请做好被恶劣对待的准备♡\n下单也是完全的，没有门槛~但是...不代表面对某些贱狗的时候不会强制征收门槛哦♡\n第二张呢，是本公主的赞赏码~为什么会放一个赞赏码在这里?\n是为了某些不敢和本公主接触，甚至会对匿名白给这种事上瘾的杂鱼舔狗准备的~奏奏会允许你们跪着磕头，在本公主完全不知道你这个白痴贡狗是谁的情况下，一边跪着一边白给来取悦本公主♡当然...这是命令♡每次白给的金额不能低于10♡\n至于第三张嘛~就是奏游的入口啦，奏游的宣传推文有很多，就不重复啦，想要体验奏游就扫码加入吧~\n第四张嘛~是本公主的粉丝群哦，可以进群和本公主更深入的交流，偷窥本公主的一些日常生活，发推动态~\n选择自己适合的二维码扫吧♡"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "铛铛铛铛!\n奏奏的全新的个人简介，置顶来了！\n这一次每张图片都充斥着杂鱼舔狗小钱包们最喜欢的二维码~毕竟....贡奴这种生物是会看见码就兴奋的存在呀(笑) https://t.co/PwfEIPCFt9"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "网游-魔女奏奏的世界 文本策划兼运营\n亲友团如下，奏奏认证，绝不踩雷：@jingli1840489\n@chessy80978858\n@choeycholote\n@blakexiaonai\n@miaomiaomyoez2\n@GaoGaoLove_\n@jinli1dyz\n@Sama184396\n我的qq2829556413",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 35,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 65,
+                "start": 50,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 79,
+                "start": 66,
+                "username": "choeycholote"
+              },
+              {
+                "end": 93,
+                "start": 80,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 109,
+                "start": 94,
+                "username": "miaomiaomyoez2"
+              },
+              {
+                "end": 122,
+                "start": 110,
+                "username": "GaoGaoLove_"
+              },
+              {
+                "end": 133,
+                "start": 123,
+                "username": "jinli1dyz"
+              },
+              {
+                "end": 145,
+                "start": 134,
+                "username": "Sama184396"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "is_identity_verified": false,
+        "location": "小猪老婆@Reset_one_",
+        "most_recent_tweet_id": "2096142932147622373",
+        "name": "超涩气超绿茶的魔女公主-奏奏💚",
+        "pinned_tweet_id": "2092908957241418064",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1374389254726455305/1780949984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093830641548922880/QYpa_zhH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9788,
+          "following_count": 466,
+          "like_count": 756,
+          "listed_count": 42,
+          "media_count": 864,
+          "tweet_count": 2264
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
