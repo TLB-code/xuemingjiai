@@ -1,7 +1,7 @@
 {
   "name": "超涩气超绿茶的魔女公主-奏奏💚",
   "username": "@xuemingjiai",
-  "bio": "网游-魔女奏奏的世界 文本策划兼运营 亲友团如下，奏奏认证，绝不踩雷：@jingli1840489 @chessy80978858 @choeycholote @blakexiaonai @miaomiaomyoez2 @GaoGaoLove_ @jinli1dyz @Sama184396 我的qq2826556413",
+  "bio": "文援，贡主♡ 亲友团如下，奏奏认证，绝不踩雷：@jingli1840489 @chessy80978858 @lingyu_nn @choeycholote @blakexiaonai @miaomiaomyoez2 @GaoGaoLove_ @jinli1dyz @Sama184396 我的qq2829556413",
   "location": "小猪老婆@Reset_one_",
   "link": "https://beacons.ai/zouzoumiao",
   "avatar": "avatar/avatar.jpg",
@@ -10,43 +10,48 @@
   "bio_entities": {
     "mentions": [
       {
-        "end": 49,
-        "start": 35,
+        "end": 37,
+        "start": 23,
         "username": "jingli1840489"
       },
       {
-        "end": 65,
-        "start": 50,
+        "end": 53,
+        "start": 38,
         "username": "chessy80978858"
       },
       {
-        "end": 79,
-        "start": 66,
+        "end": 64,
+        "start": 54,
+        "username": "lingyu_nn"
+      },
+      {
+        "end": 78,
+        "start": 65,
         "username": "choeycholote"
       },
       {
-        "end": 93,
-        "start": 80,
+        "end": 92,
+        "start": 79,
         "username": "blakexiaonai"
       },
       {
-        "end": 109,
-        "start": 94,
+        "end": 108,
+        "start": 93,
         "username": "miaomiaomyoez2"
       },
       {
-        "end": 122,
-        "start": 110,
+        "end": 121,
+        "start": 109,
         "username": "GaoGaoLove_"
       },
       {
-        "end": 133,
-        "start": 123,
+        "end": 132,
+        "start": 122,
         "username": "jinli1dyz"
       },
       {
-        "end": 145,
-        "start": 134,
+        "end": 144,
+        "start": 133,
         "username": "Sama184396"
       }
     ]
