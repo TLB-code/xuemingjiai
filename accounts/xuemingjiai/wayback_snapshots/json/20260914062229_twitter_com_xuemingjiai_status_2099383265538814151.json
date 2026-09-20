@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2099381914092339200",
+        "3_2099381914088165376",
+        "3_2099381914134282240"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2099383265538814151",
+    "created_at": "2026-09-14T06:22:29.000Z",
+    "display_text_range": [
+      0,
+      126
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T07:22:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099383265538814151"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/C5fAcgdG0i",
+          "end": 150,
+          "expanded_url": "https://x.com/xuemingjiai/status/2099383265538814151/photo/1",
+          "media_key": "3_2099381914092339200",
+          "start": 127,
+          "url": "https://t.co/C5fAcgdG0i"
+        },
+        {
+          "display_url": "pic.x.com/C5fAcgdG0i",
+          "end": 150,
+          "expanded_url": "https://x.com/xuemingjiai/status/2099383265538814151/photo/1",
+          "media_key": "3_2099381914088165376",
+          "start": 127,
+          "url": "https://t.co/C5fAcgdG0i"
+        },
+        {
+          "display_url": "pic.x.com/C5fAcgdG0i",
+          "end": 150,
+          "expanded_url": "https://x.com/xuemingjiai/status/2099383265538814151/photo/1",
+          "media_key": "3_2099381914134282240",
+          "start": 127,
+          "url": "https://t.co/C5fAcgdG0i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099383265538814151",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2099381914092339200"
+      },
+      {
+        "media_key": "3_2099381914088165376"
+      },
+      {
+        "media_key": "3_2099381914134282240"
+      }
+    ],
+    "note_tweet": {
+      "entities": {},
+      "text": "有一个传说....深夜....是赛博魅魔奏奏喵活跃的时间!\n在这期间给可爱的奏奏喵发送任何消息都会被秒回逮到!\n并且能一秒看出宝宝是不是处于发情状态!\n下面和奏奏妈咪一起来看实况吧♡\n只是发了个表情的笨笨小钱包，会不会以为凌晨4点，奏奏根本不可能在呢？\n凭借对他的了解~这个时候发表情百分之九十九就是发情啦~\n对待发情的贡奴，奏奏控小钱包，料理方式也很简单的啦.....直接按住脑子高速吸金就好了♡\n不需要华丽的词汇~不需要铺垫~只需要最简单朴素的对上电波~心有灵犀♡\n因为这位宝宝很早泄嘛~早泄了就会跑掉~所以要争分夺秒的在他早泄之前把金币吸出来呀！\n时间不等人♡\n结果好像还是稍微慢了一点~一分钟150...本来可以300的~诶嘿嘿.....\n下次会继续努力的♡\n会有更多这样可爱早泄的小钱包来和奏奏妈咪“斗智斗勇”吗？\nps：所使用的图片均来自网络，不是本人啦~侵删~"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有一个传说....深夜....是赛博魅魔奏奏喵活跃的时间!\n在这期间给可爱的奏奏喵发送任何消息都会被秒回逮到!\n并且能一秒看出宝宝是不是处于发情状态!\n下面和奏奏妈咪一起来看实况吧♡\n只是发了个表情的笨笨小钱包，会不会以为凌晨4点，奏奏根本不可能在呢？ https://t.co/C5fAcgdG0i"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2099381914092339200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSKAulVagAAqWKI.jpg",
+        "width": 577
+      },
+      {
+        "height": 1572,
+        "media_key": "3_2099381914088165376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSKAulUa0AA3PAU.jpg",
+        "width": 610
+      },
+      {
+        "height": 1725,
+        "media_key": "3_2099381914134282240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSKAulfagAAv8p9.jpg",
+        "width": 610
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099381914092339200",
+            "3_2099381914088165376",
+            "3_2099381914134282240"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2099383265538814151",
+        "created_at": "2026-09-14T06:22:29.000Z",
+        "display_text_range": [
+          0,
+          126
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T07:22:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099383265538814151"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C5fAcgdG0i",
+              "end": 150,
+              "expanded_url": "https://x.com/xuemingjiai/status/2099383265538814151/photo/1",
+              "media_key": "3_2099381914092339200",
+              "start": 127,
+              "url": "https://t.co/C5fAcgdG0i"
+            },
+            {
+              "display_url": "pic.x.com/C5fAcgdG0i",
+              "end": 150,
+              "expanded_url": "https://x.com/xuemingjiai/status/2099383265538814151/photo/1",
+              "media_key": "3_2099381914088165376",
+              "start": 127,
+              "url": "https://t.co/C5fAcgdG0i"
+            },
+            {
+              "display_url": "pic.x.com/C5fAcgdG0i",
+              "end": 150,
+              "expanded_url": "https://x.com/xuemingjiai/status/2099383265538814151/photo/1",
+              "media_key": "3_2099381914134282240",
+              "start": 127,
+              "url": "https://t.co/C5fAcgdG0i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099383265538814151",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099381914092339200"
+          },
+          {
+            "media_key": "3_2099381914088165376"
+          },
+          {
+            "media_key": "3_2099381914134282240"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "有一个传说....深夜....是赛博魅魔奏奏喵活跃的时间!\n在这期间给可爱的奏奏喵发送任何消息都会被秒回逮到!\n并且能一秒看出宝宝是不是处于发情状态!\n下面和奏奏妈咪一起来看实况吧♡\n只是发了个表情的笨笨小钱包，会不会以为凌晨4点，奏奏根本不可能在呢？\n凭借对他的了解~这个时候发表情百分之九十九就是发情啦~\n对待发情的贡奴，奏奏控小钱包，料理方式也很简单的啦.....直接按住脑子高速吸金就好了♡\n不需要华丽的词汇~不需要铺垫~只需要最简单朴素的对上电波~心有灵犀♡\n因为这位宝宝很早泄嘛~早泄了就会跑掉~所以要争分夺秒的在他早泄之前把金币吸出来呀！\n时间不等人♡\n结果好像还是稍微慢了一点~一分钟150...本来可以300的~诶嘿嘿.....\n下次会继续努力的♡\n会有更多这样可爱早泄的小钱包来和奏奏妈咪“斗智斗勇”吗？\nps：所使用的图片均来自网络，不是本人啦~侵删~"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有一个传说....深夜....是赛博魅魔奏奏喵活跃的时间!\n在这期间给可爱的奏奏喵发送任何消息都会被秒回逮到!\n并且能一秒看出宝宝是不是处于发情状态!\n下面和奏奏妈咪一起来看实况吧♡\n只是发了个表情的笨笨小钱包，会不会以为凌晨4点，奏奏根本不可能在呢？ https://t.co/C5fAcgdG0i"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "文援，贡主♡\n亲友团如下，奏奏认证，绝不踩雷：@jingli1840489\n@chessy80978858\n@lingyu_nn\n@choeycholote\n@blakexiaonai\n@miaomiaomyoez2\n@GaoGaoLove_\n@jinli1dyz\n@Sama184396\n我的qq2829556413",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 53,
+                "start": 38,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "lingyu_nn"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "choeycholote"
+              },
+              {
+                "end": 92,
+                "start": 79,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 108,
+                "start": 93,
+                "username": "miaomiaomyoez2"
+              },
+              {
+                "end": 121,
+                "start": 109,
+                "username": "GaoGaoLove_"
+              },
+              {
+                "end": 132,
+                "start": 122,
+                "username": "jinli1dyz"
+              },
+              {
+                "end": 144,
+                "start": 133,
+                "username": "Sama184396"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "is_identity_verified": false,
+        "location": "小猪老婆@Reset_one_",
+        "most_recent_tweet_id": "2099383265538814151",
+        "name": "超涩气超绿茶的魔女公主-奏奏💚",
+        "pinned_tweet_id": "2096142932147622373",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1374389254726455305/1780949984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093830641548922880/QYpa_zhH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9948,
+          "following_count": 486,
+          "like_count": 838,
+          "listed_count": 42,
+          "media_count": 874,
+          "tweet_count": 2296
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

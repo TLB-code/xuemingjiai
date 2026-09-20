@@ -1,0 +1,357 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "2099989412591661318",
+    "created_at": "2026-09-15T22:31:06.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T23:31:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099989412591661318"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1374389254726455305",
+          "start": 3,
+          "username": "xuemingjiai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/OGMFc",
+          "end": 139,
+          "start": 121,
+          "url": "https://t.co/OGMFc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099989412591661318",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099427016915419624",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xuemingjiai: 来啦!奏游开放注册啦~希望更多宝宝们能够体会到奏游的乐趣并且加入进来和大家一起玩~\n奏游是什么?再次介绍下，全程魔女奏奏公主的世界，是奏奏妈咪和程序员宝宝还有画师莱特为大家带来的一款多人联机互动贡系网游。… https://t.co/OGMFc…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2099425374551859200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSKoQUKa4AAF12P.jpg",
+        "width": 882
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2099425374556090368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSKoQULbcAAr6x7.jpg",
+        "width": 882
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2099425374598037504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSKoQUVbgAAWHg_.jpg",
+        "width": 882
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2099425374593773568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSKoQUUacAAzFtE.jpg",
+        "width": 882
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "2099989412591661318",
+        "created_at": "2026-09-15T22:31:06.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T23:31:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099989412591661318"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1374389254726455305",
+              "start": 3,
+              "username": "xuemingjiai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/OGMFc",
+              "end": 139,
+              "start": 121,
+              "url": "https://t.co/OGMFc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099989412591661318",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099427016915419624",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xuemingjiai: 来啦!奏游开放注册啦~希望更多宝宝们能够体会到奏游的乐趣并且加入进来和大家一起玩~\n奏游是什么?再次介绍下，全程魔女奏奏公主的世界，是奏奏妈咪和程序员宝宝还有画师莱特为大家带来的一款多人联机互动贡系网游。… https://t.co/OGMFc…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099425374551859200",
+            "3_2099425374556090368",
+            "3_2099425374598037504",
+            "3_2099425374593773568"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "2099427016915419624",
+        "created_at": "2026-09-14T09:16:20.000Z",
+        "display_text_range": [
+          0,
+          102
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T10:16:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099427016915419624"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OGMFcv1ohy",
+              "end": 126,
+              "expanded_url": "https://x.com/xuemingjiai/status/2099427016915419624/photo/1",
+              "media_key": "3_2099425374551859200",
+              "start": 103,
+              "url": "https://t.co/OGMFcv1ohy"
+            },
+            {
+              "display_url": "pic.x.com/OGMFcv1ohy",
+              "end": 126,
+              "expanded_url": "https://x.com/xuemingjiai/status/2099427016915419624/photo/1",
+              "media_key": "3_2099425374556090368",
+              "start": 103,
+              "url": "https://t.co/OGMFcv1ohy"
+            },
+            {
+              "display_url": "pic.x.com/OGMFcv1ohy",
+              "end": 126,
+              "expanded_url": "https://x.com/xuemingjiai/status/2099427016915419624/photo/1",
+              "media_key": "3_2099425374598037504",
+              "start": 103,
+              "url": "https://t.co/OGMFcv1ohy"
+            },
+            {
+              "display_url": "pic.x.com/OGMFcv1ohy",
+              "end": 126,
+              "expanded_url": "https://x.com/xuemingjiai/status/2099427016915419624/photo/1",
+              "media_key": "3_2099425374593773568",
+              "start": 103,
+              "url": "https://t.co/OGMFcv1ohy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099427016915419624",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099425374551859200"
+          },
+          {
+            "media_key": "3_2099425374556090368"
+          },
+          {
+            "media_key": "3_2099425374598037504"
+          },
+          {
+            "media_key": "3_2099425374593773568"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "zouzou-princess-fan-2.replit.app",
+                "end": 352,
+                "expanded_url": "https://zouzou-princess-fan-2.replit.app/",
+                "start": 329,
+                "url": "https://t.co/i1TjdLxEc7"
+              }
+            ]
+          },
+          "text": "来啦!奏游开放注册啦~希望更多宝宝们能够体会到奏游的乐趣并且加入进来和大家一起玩~\n奏游是什么?再次介绍下，全程魔女奏奏公主的世界，是奏奏妈咪和程序员宝宝还有画师莱特为大家带来的一款多人联机互动贡系网游。\n在里面有着一套完整的货币系统，世界观剧情，以及rpg日系打怪升级的挂机放置玩法，内置了很多贡系元素，还有玩家之间的互动(世界频道聊天，发红包，连线游戏大厅的打牌，下棋，轮盘赌)还有很多很多单机内容，比如精致优良的涩涩飞行棋，奏奏猜拳，奏奏万事屋(各种贡系文案以及问卷)都是可以通过游戏里的货币免费体验的(当然要肝啦~)\n更多的内容，请自行注册体验吧？\n注册时候填写的资料越详细，越打动本公主，注册成功的概率越高哦，请随时注意填写的邮箱信息~\n奏游入口：https://t.co/i1TjdLxEc7"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 5620,
+          "like_count": 95,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "来啦!奏游开放注册啦~希望更多宝宝们能够体会到奏游的乐趣并且加入进来和大家一起玩~\n奏游是什么?再次介绍下，全程魔女奏奏公主的世界，是奏奏妈咪和程序员宝宝还有画师莱特为大家带来的一款多人联机互动贡系网游。 https://t.co/OGMFcv1ohy"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "文援，贡主♡\n亲友团如下，奏奏认证，绝不踩雷：@jingli1840489\n@chessy80978858\n@lingyu_nn\n@choeycholote\n@blakexiaonai\n@miaomiaomyoez2\n@GaoGaoLove_\n@jinli1dyz\n@Sama184396\n我的qq2829556413",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 53,
+                "start": 38,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "lingyu_nn"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "choeycholote"
+              },
+              {
+                "end": 92,
+                "start": 79,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 108,
+                "start": 93,
+                "username": "miaomiaomyoez2"
+              },
+              {
+                "end": 121,
+                "start": 109,
+                "username": "GaoGaoLove_"
+              },
+              {
+                "end": 132,
+                "start": 122,
+                "username": "jinli1dyz"
+              },
+              {
+                "end": 144,
+                "start": 133,
+                "username": "Sama184396"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zouzou-princess-fan-2.replit.app",
+                "end": 23,
+                "expanded_url": "https://zouzou-princess-fan-2.replit.app/",
+                "start": 0,
+                "url": "https://t.co/i1TjdLx6mz"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "is_identity_verified": false,
+        "location": "网站是奏游入口~",
+        "most_recent_tweet_id": "2099989412591661318",
+        "name": "超涩气超绿茶的魔女公主-奏奏💚",
+        "pinned_tweet_id": "2096142932147622373",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1374389254726455305/1780949984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093830641548922880/QYpa_zhH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10013,
+          "following_count": 492,
+          "like_count": 870,
+          "listed_count": 42,
+          "media_count": 877,
+          "tweet_count": 2310
+        },
+        "url": "https://t.co/i1TjdLx6mz",
+        "username": "xuemingjiai",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

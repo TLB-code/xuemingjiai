@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "2100276016463946093",
+    "created_at": "2026-09-16T17:29:58.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T18:29:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100276016463946093"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2099893472451055616",
+          "start": 3,
+          "username": "Yuena5f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100276016463946093",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100264391631646898",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yuena5f: 每次看到你们在努力维持自己的“自尊”就觉得很好笑～\n其实内心里已经很渴望被进一步的羞辱\n甚至是改造成无脑🧠丧志sb～\n只是身为s的骄傲让你们不知道怎么放下骄傲🖤\n只要突破这一步，好像就会发现～\n放下自己的骄傲，放松自己的感觉，原来是这么美好的\n忍得住的…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "2100276016463946093",
+        "created_at": "2026-09-16T17:29:58.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T18:29:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100276016463946093"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2099893472451055616",
+              "start": 3,
+              "username": "Yuena5f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100276016463946093",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100264391631646898",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yuena5f: 每次看到你们在努力维持自己的“自尊”就觉得很好笑～\n其实内心里已经很渴望被进一步的羞辱\n甚至是改造成无脑🧠丧志sb～\n只是身为s的骄傲让你们不知道怎么放下骄傲🖤\n只要突破这一步，好像就会发现～\n放下自己的骄傲，放松自己的感觉，原来是这么美好的\n忍得住的…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2099893472451055616",
+        "conversation_id": "2100264391631646898",
+        "created_at": "2026-09-16T16:43:46.000Z",
+        "display_text_range": [
+          0,
+          147
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T17:43:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100264391631646898"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 147,
+              "start": 144,
+              "tag": "反差"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100264391631646898",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "每次看到你们在努力维持自己的“自尊”就觉得很好笑～\n其实内心里已经很渴望被进一步的羞辱\n甚至是改造成无脑🧠丧志sb～\n只是身为s的骄傲让你们不知道怎么放下骄傲🖤\n只要突破这一步，好像就会发现～\n放下自己的骄傲，放松自己的感觉，原来是这么美好的\n忍得住的话，傻逼女王们就继续加油吧～#上贡 #反差"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "文援，贡主♡\n亲友团如下，奏奏认证，绝不踩雷：@jingli1840489\n@chessy80978858\n@lingyu_nn\n@choeycholote\n@blakexiaonai\n@miaomiaomyoez2\n@GaoGaoLove_\n@jinli1dyz\n@Sama184396\n我的qq2829556413",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 53,
+                "start": 38,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "lingyu_nn"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "choeycholote"
+              },
+              {
+                "end": 92,
+                "start": 79,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 108,
+                "start": 93,
+                "username": "miaomiaomyoez2"
+              },
+              {
+                "end": 121,
+                "start": 109,
+                "username": "GaoGaoLove_"
+              },
+              {
+                "end": 132,
+                "start": 122,
+                "username": "jinli1dyz"
+              },
+              {
+                "end": 144,
+                "start": 133,
+                "username": "Sama184396"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zouzou-princess-fan-2.replit.app",
+                "end": 23,
+                "expanded_url": "https://zouzou-princess-fan-2.replit.app/",
+                "start": 0,
+                "url": "https://t.co/i1TjdLx6mz"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "is_identity_verified": false,
+        "location": "网站是奏游入口~",
+        "most_recent_tweet_id": "2100276016463946093",
+        "name": "超涩气超绿茶的魔女公主-奏奏💚",
+        "pinned_tweet_id": "2096142932147622373",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1374389254726455305/1780949984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093830641548922880/QYpa_zhH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10032,
+          "following_count": 495,
+          "like_count": 872,
+          "listed_count": 42,
+          "media_count": 878,
+          "tweet_count": 2316
+        },
+        "url": "https://t.co/i1TjdLx6mz",
+        "username": "xuemingjiai",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-15T16:11:25.000Z",
+        "description": "黑心🖤文援姬哦～findom\n擅长吸金💰|贡瘾治疗💚|戒贡服务🧠|\n欢迎膜拜|🐧：2830897884|\n欢迎各种败北白给\n别轻易尝试送死哦～🖤",
+        "id": "2099893472451055616",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100264391631646898",
+        "name": "Yue月殿下「互推」",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099894087671582720/QHiZMlU7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 9,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 7
+        },
+        "url": "",
+        "username": "Yuena5f",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

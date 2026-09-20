@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2100959113023016960",
+        "3_2100959113027223552",
+        "3_2100959112968445952"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2100961435824365941",
+    "created_at": "2026-09-18T14:53:34.000Z",
+    "display_text_range": [
+      0,
+      148
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T15:53:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100961435824365941"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/TuPFJRUuZ4",
+          "end": 172,
+          "expanded_url": "https://x.com/xuemingjiai/status/2100961435824365941/photo/1",
+          "media_key": "3_2100959113023016960",
+          "start": 149,
+          "url": "https://t.co/TuPFJRUuZ4"
+        },
+        {
+          "display_url": "pic.x.com/TuPFJRUuZ4",
+          "end": 172,
+          "expanded_url": "https://x.com/xuemingjiai/status/2100961435824365941/photo/1",
+          "media_key": "3_2100959113027223552",
+          "start": 149,
+          "url": "https://t.co/TuPFJRUuZ4"
+        },
+        {
+          "display_url": "pic.x.com/TuPFJRUuZ4",
+          "end": 172,
+          "expanded_url": "https://x.com/xuemingjiai/status/2100961435824365941/photo/1",
+          "media_key": "3_2100959112968445952",
+          "start": 149,
+          "url": "https://t.co/TuPFJRUuZ4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100961435824365941",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2100959113023016960"
+      },
+      {
+        "media_key": "3_2100959113027223552"
+      },
+      {
+        "media_key": "3_2100959112968445952"
+      }
+    ],
+    "note_tweet": {
+      "entities": {},
+      "text": "今天的推文，是虐杀记录哦♡\n因为本人不愿意出面~允许奏奏妈咪单方面截图发给宝宝们看哦♡\n呐....小钱包们~你们是否觉得自己的命很珍贵呢？毕竟这是与生俱来的财富~\n可是呢，在世界上，有着那么一群女生，可爱，霸道~毫不讲理~视小钱包们为“耗材”哦♡\n下面为宝宝们展示的就是奏奏妈咪的流水线处刑现场~\n一切都是自愿的哦~奏奏妈咪只不过是为了满足想要死掉的小钱包而已~\n提前固定好身体~屁股坐在脸上~拿着小钱包的手机~逼问出手机的各种密码~然后开始~窒息♡发情♡无法呼吸♡剥夺呼吸♡剥夺思考♡害怕♡前所未有的兴奋♡无法掌控身体♡听着自己的钱被一笔一笔转走♡\n骑在脸上的屁股没有丝毫犹豫和松动♡\n要死了要死了这一次真的要死了♡\n兴奋兴奋兴奋♡\n余额被轻而易举的清空了♡\n求生本能开始挣扎♡\n徒劳无功♡\n最后的时间好漫长但是好舒服好刺激好变态好背德♡\n意识逐渐模糊远去♡\n射...射...射金♡\n精液感觉到要喷涌出来了，最后却是被无情的掐断♡\n彻底的失去意识，失去价值♡\n“呼~得赶紧前往下一个地点了呢，浪费的时间稍微有一点点多了w”\n这就是...来找奏奏妈咪的贡奴陌路♡"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天的推文，是虐杀记录哦♡\n因为本人不愿意出面~允许奏奏妈咪单方面截图发给宝宝们看哦♡\n呐....小钱包们~你们是否觉得自己的命很珍贵呢？毕竟这是与生俱来的财富~\n可是呢，在世界上，有着那么一群女生，可爱，霸道~毫不讲理~视小钱包们为“耗材”哦♡\n下面为宝宝们展示的就是奏奏妈咪的流水线处刑现场~ https://t.co/TuPFJRUuZ4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2480,
+        "media_key": "3_2100959113023016960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSgbLpNbUAAaGep.jpg",
+        "width": 610
+      },
+      {
+        "height": 2594,
+        "media_key": "3_2100959113027223552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSgbLpObgAAMr__.jpg",
+        "width": 610
+      },
+      {
+        "height": 2252,
+        "media_key": "3_2100959112968445952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSgbLpAaoAAhcx-.jpg",
+        "width": 610
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100959113023016960",
+            "3_2100959113027223552",
+            "3_2100959112968445952"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2100961435824365941",
+        "created_at": "2026-09-18T14:53:34.000Z",
+        "display_text_range": [
+          0,
+          148
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T15:53:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100961435824365941"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TuPFJRUuZ4",
+              "end": 172,
+              "expanded_url": "https://x.com/xuemingjiai/status/2100961435824365941/photo/1",
+              "media_key": "3_2100959113023016960",
+              "start": 149,
+              "url": "https://t.co/TuPFJRUuZ4"
+            },
+            {
+              "display_url": "pic.x.com/TuPFJRUuZ4",
+              "end": 172,
+              "expanded_url": "https://x.com/xuemingjiai/status/2100961435824365941/photo/1",
+              "media_key": "3_2100959113027223552",
+              "start": 149,
+              "url": "https://t.co/TuPFJRUuZ4"
+            },
+            {
+              "display_url": "pic.x.com/TuPFJRUuZ4",
+              "end": 172,
+              "expanded_url": "https://x.com/xuemingjiai/status/2100961435824365941/photo/1",
+              "media_key": "3_2100959112968445952",
+              "start": 149,
+              "url": "https://t.co/TuPFJRUuZ4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100961435824365941",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100959113023016960"
+          },
+          {
+            "media_key": "3_2100959113027223552"
+          },
+          {
+            "media_key": "3_2100959112968445952"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "今天的推文，是虐杀记录哦♡\n因为本人不愿意出面~允许奏奏妈咪单方面截图发给宝宝们看哦♡\n呐....小钱包们~你们是否觉得自己的命很珍贵呢？毕竟这是与生俱来的财富~\n可是呢，在世界上，有着那么一群女生，可爱，霸道~毫不讲理~视小钱包们为“耗材”哦♡\n下面为宝宝们展示的就是奏奏妈咪的流水线处刑现场~\n一切都是自愿的哦~奏奏妈咪只不过是为了满足想要死掉的小钱包而已~\n提前固定好身体~屁股坐在脸上~拿着小钱包的手机~逼问出手机的各种密码~然后开始~窒息♡发情♡无法呼吸♡剥夺呼吸♡剥夺思考♡害怕♡前所未有的兴奋♡无法掌控身体♡听着自己的钱被一笔一笔转走♡\n骑在脸上的屁股没有丝毫犹豫和松动♡\n要死了要死了这一次真的要死了♡\n兴奋兴奋兴奋♡\n余额被轻而易举的清空了♡\n求生本能开始挣扎♡\n徒劳无功♡\n最后的时间好漫长但是好舒服好刺激好变态好背德♡\n意识逐渐模糊远去♡\n射...射...射金♡\n精液感觉到要喷涌出来了，最后却是被无情的掐断♡\n彻底的失去意识，失去价值♡\n“呼~得赶紧前往下一个地点了呢，浪费的时间稍微有一点点多了w”\n这就是...来找奏奏妈咪的贡奴陌路♡"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天的推文，是虐杀记录哦♡\n因为本人不愿意出面~允许奏奏妈咪单方面截图发给宝宝们看哦♡\n呐....小钱包们~你们是否觉得自己的命很珍贵呢？毕竟这是与生俱来的财富~\n可是呢，在世界上，有着那么一群女生，可爱，霸道~毫不讲理~视小钱包们为“耗材”哦♡\n下面为宝宝们展示的就是奏奏妈咪的流水线处刑现场~ https://t.co/TuPFJRUuZ4"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "文援，贡主♡\n亲友团如下，奏奏认证，绝不踩雷：@jingli1840489\n@chessy80978858\n@lingyu_nn\n@choeycholote\n@blakexiaonai\n@miaomiaomyoez2\n@GaoGaoLove_\n@jinli1dyz\n@Sama184396\n我的qq2829556413",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 53,
+                "start": 38,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "lingyu_nn"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "choeycholote"
+              },
+              {
+                "end": 92,
+                "start": 79,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 108,
+                "start": 93,
+                "username": "miaomiaomyoez2"
+              },
+              {
+                "end": 121,
+                "start": 109,
+                "username": "GaoGaoLove_"
+              },
+              {
+                "end": 132,
+                "start": 122,
+                "username": "jinli1dyz"
+              },
+              {
+                "end": 144,
+                "start": 133,
+                "username": "Sama184396"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zouzou-princess-fan-2.replit.app",
+                "end": 23,
+                "expanded_url": "https://zouzou-princess-fan-2.replit.app/",
+                "start": 0,
+                "url": "https://t.co/i1TjdLx6mz"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "is_identity_verified": false,
+        "location": "网站是奏游入口~",
+        "most_recent_tweet_id": "2100961435824365941",
+        "name": "超涩气超绿茶的魔女公主-奏奏💚",
+        "pinned_tweet_id": "2096142932147622373",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1374389254726455305/1780949984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093830641548922880/QYpa_zhH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10057,
+          "following_count": 500,
+          "like_count": 892,
+          "listed_count": 42,
+          "media_count": 880,
+          "tweet_count": 2327
+        },
+        "url": "https://t.co/i1TjdLx6mz",
+        "username": "xuemingjiai",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

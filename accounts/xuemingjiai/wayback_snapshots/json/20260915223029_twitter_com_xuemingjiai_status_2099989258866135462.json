@@ -1,0 +1,458 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2099033330385899520",
+        "3_2099033330406809600"
+      ],
+      "media_source_tweet_id": [
+        "2099033339680391488",
+        "2099033339680391488"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "2099989258866135462",
+    "created_at": "2026-09-15T22:30:29.000Z",
+    "display_text_range": [
+      0,
+      70
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T23:30:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099989258866135462"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 24,
+          "start": 21,
+          "tag": "男娘"
+        },
+        {
+          "end": 28,
+          "start": 25,
+          "tag": "伪娘"
+        },
+        {
+          "end": 32,
+          "start": 29,
+          "tag": "媚黑"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1959130451303702530",
+          "start": 3,
+          "username": "As9962309998526"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/q83ywr8pcJ",
+          "end": 70,
+          "expanded_url": "https://x.com/As9962309998526/status/2099033339680391488/photo/1",
+          "media_key": "3_2099033330385899520",
+          "start": 47,
+          "url": "https://t.co/q83ywr8pcJ"
+        },
+        {
+          "display_url": "pic.x.com/q83ywr8pcJ",
+          "end": 70,
+          "expanded_url": "https://x.com/As9962309998526/status/2099033339680391488/photo/1",
+          "media_key": "3_2099033330406809600",
+          "start": 47,
+          "url": "https://t.co/q83ywr8pcJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099989258866135462",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2099033330385899520"
+      },
+      {
+        "media_key": "3_2099033330406809600"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099033339680391488",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @As9962309998526: #男娘 #伪娘 #媚黑 给小唧唧看的VS给主人看的 https://t.co/q83ywr8pcJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2099033330385899520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSFDsV1bUAA716G.jpg",
+        "width": 862
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2099033330406809600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSFDsV6aYAAm5ea.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099033330385899520",
+            "3_2099033330406809600"
+          ],
+          "media_source_tweet_id": [
+            "2099033339680391488",
+            "2099033339680391488"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "2099989258866135462",
+        "created_at": "2026-09-15T22:30:29.000Z",
+        "display_text_range": [
+          0,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T23:30:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099989258866135462"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 21,
+              "tag": "男娘"
+            },
+            {
+              "end": 28,
+              "start": 25,
+              "tag": "伪娘"
+            },
+            {
+              "end": 32,
+              "start": 29,
+              "tag": "媚黑"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1959130451303702530",
+              "start": 3,
+              "username": "As9962309998526"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/q83ywr8pcJ",
+              "end": 70,
+              "expanded_url": "https://x.com/As9962309998526/status/2099033339680391488/photo/1",
+              "media_key": "3_2099033330385899520",
+              "start": 47,
+              "url": "https://t.co/q83ywr8pcJ"
+            },
+            {
+              "display_url": "pic.x.com/q83ywr8pcJ",
+              "end": 70,
+              "expanded_url": "https://x.com/As9962309998526/status/2099033339680391488/photo/1",
+              "media_key": "3_2099033330406809600",
+              "start": 47,
+              "url": "https://t.co/q83ywr8pcJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099989258866135462",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099033330385899520"
+          },
+          {
+            "media_key": "3_2099033330406809600"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099033339680391488",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @As9962309998526: #男娘 #伪娘 #媚黑 给小唧唧看的VS给主人看的 https://t.co/q83ywr8pcJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099033330385899520",
+            "3_2099033330406809600"
+          ]
+        },
+        "author_id": "1959130451303702530",
+        "conversation_id": "2099033339680391488",
+        "created_at": "2026-09-13T07:12:00.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T08:12:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099033339680391488"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "男娘"
+            },
+            {
+              "end": 7,
+              "start": 4,
+              "tag": "伪娘"
+            },
+            {
+              "end": 11,
+              "start": 8,
+              "tag": "媚黑"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/q83ywr8pcJ",
+              "end": 49,
+              "expanded_url": "https://x.com/As9962309998526/status/2099033339680391488/photo/1",
+              "media_key": "3_2099033330385899520",
+              "start": 26,
+              "url": "https://t.co/q83ywr8pcJ"
+            },
+            {
+              "display_url": "pic.x.com/q83ywr8pcJ",
+              "end": 49,
+              "expanded_url": "https://x.com/As9962309998526/status/2099033339680391488/photo/1",
+              "media_key": "3_2099033330406809600",
+              "start": 26,
+              "url": "https://t.co/q83ywr8pcJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099033339680391488",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099033330385899520"
+          },
+          {
+            "media_key": "3_2099033330406809600"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 613,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "#男娘 #伪娘 #媚黑 给小唧唧看的VS给主人看的 https://t.co/q83ywr8pcJ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "文援，贡主♡\n亲友团如下，奏奏认证，绝不踩雷：@jingli1840489\n@chessy80978858\n@lingyu_nn\n@choeycholote\n@blakexiaonai\n@miaomiaomyoez2\n@GaoGaoLove_\n@jinli1dyz\n@Sama184396\n我的qq2829556413",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 53,
+                "start": 38,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "lingyu_nn"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "choeycholote"
+              },
+              {
+                "end": 92,
+                "start": 79,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 108,
+                "start": 93,
+                "username": "miaomiaomyoez2"
+              },
+              {
+                "end": 121,
+                "start": 109,
+                "username": "GaoGaoLove_"
+              },
+              {
+                "end": 132,
+                "start": 122,
+                "username": "jinli1dyz"
+              },
+              {
+                "end": 144,
+                "start": 133,
+                "username": "Sama184396"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zouzou-princess-fan-2.replit.app",
+                "end": 23,
+                "expanded_url": "https://zouzou-princess-fan-2.replit.app/",
+                "start": 0,
+                "url": "https://t.co/i1TjdLx6mz"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "is_identity_verified": false,
+        "location": "网站是奏游入口~",
+        "most_recent_tweet_id": "2099989258866135462",
+        "name": "超涩气超绿茶的魔女公主-奏奏💚",
+        "pinned_tweet_id": "2096142932147622373",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1374389254726455305/1780949984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093830641548922880/QYpa_zhH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10013,
+          "following_count": 492,
+          "like_count": 869,
+          "listed_count": 42,
+          "media_count": 877,
+          "tweet_count": 2310
+        },
+        "url": "https://t.co/i1TjdLx6mz",
+        "username": "xuemingjiai",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-23T05:48:02.000Z",
+        "description": "你好，你现在看见的是奏奏公主最忠诚的舔狗钱包提款机虫虫之一，奏奏公主是世界最会使用我们的公主殿下，没有任何男性能抵抗住她的诱惑，请你握住下面，“勃起”然后点击@xuemingjiai 去关注，去白给，去送死，成为奏奏公主的众多钱包之一🤍",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 79,
+                "username": "xuemingjiai"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/xuemingjiai",
+                "end": 23,
+                "expanded_url": "http://x.com/xuemingjiai",
+                "start": 0,
+                "url": "https://t.co/2udYbDcDJP"
+              }
+            ]
+          }
+        },
+        "id": "1959130451303702530",
+        "is_identity_verified": false,
+        "location": "奏奏大人的丝足下",
+        "most_recent_tweet_id": "2099622979143659971",
+        "name": "小雪",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1959130451303702530/1756337142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991810051422715904/P1F8lI9y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 37,
+          "like_count": 149,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 122
+        },
+        "url": "https://t.co/2udYbDcDJP",
+        "username": "As9962309998526",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

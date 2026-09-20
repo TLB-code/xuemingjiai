@@ -1,0 +1,359 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "2100531239128338840",
+    "created_at": "2026-09-17T10:24:08.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T11:24:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100531239128338840"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2021521109342973952",
+          "start": 3,
+          "username": "choeycholote"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/0Qagr4",
+          "end": 139,
+          "start": 120,
+          "url": "https://t.co/0Qagr4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100531239128338840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100529728327479477",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @choeycholote: 曝光一只傻逼脚垫~♡也是很成功的完成了问卷的任务呢~♡\n\n第一位问卷钱包“物化”成功🖤\n\n毕竟天使大人只需要上学♡就可以把你赖以生存的存款给榨取干净了哦~♡\n\n劣等的猪猡和高贵的天使...♡噗嗤♡白痴~ https://t.co/0Qagr4…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2100528039625113600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSaTH3qaQAA7Jo5.jpg",
+        "width": 1843
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2100528039641935872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSaTH3ua8AArVIe.jpg",
+        "width": 1843
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "2100531239128338840",
+        "created_at": "2026-09-17T10:24:08.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T11:24:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100531239128338840"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2021521109342973952",
+              "start": 3,
+              "username": "choeycholote"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/0Qagr4",
+              "end": 139,
+              "start": 120,
+              "url": "https://t.co/0Qagr4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100531239128338840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100529728327479477",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @choeycholote: 曝光一只傻逼脚垫~♡也是很成功的完成了问卷的任务呢~♡\n\n第一位问卷钱包“物化”成功🖤\n\n毕竟天使大人只需要上学♡就可以把你赖以生存的存款给榨取干净了哦~♡\n\n劣等的猪猡和高贵的天使...♡噗嗤♡白痴~ https://t.co/0Qagr4…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100528039625113600",
+            "3_2100528039641935872"
+          ]
+        },
+        "author_id": "2021521109342973952",
+        "conversation_id": "2100529728327479477",
+        "created_at": "2026-09-17T10:18:07.000Z",
+        "display_text_range": [
+          0,
+          101
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T11:18:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100529728327479477"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0Qagr46GXD",
+              "end": 125,
+              "expanded_url": "https://x.com/choeycholote/status/2100529728327479477/photo/1",
+              "media_key": "3_2100528039625113600",
+              "start": 102,
+              "url": "https://t.co/0Qagr46GXD"
+            },
+            {
+              "display_url": "pic.x.com/0Qagr46GXD",
+              "end": 125,
+              "expanded_url": "https://x.com/choeycholote/status/2100529728327479477/photo/1",
+              "media_key": "3_2100528039641935872",
+              "start": 102,
+              "url": "https://t.co/0Qagr46GXD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100529728327479477",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100528039625113600"
+          },
+          {
+            "media_key": "3_2100528039641935872"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "曝光一只傻逼脚垫~♡也是很成功的完成了问卷的任务呢~♡\n\n第一位问卷钱包“物化”成功🖤\n\n毕竟天使大人只需要上学♡就可以把你赖以生存的存款给榨取干净了哦~♡\n\n劣等的猪猡和高贵的天使...♡噗嗤♡白痴~ https://t.co/0Qagr46GXD"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "文援，贡主♡\n亲友团如下，奏奏认证，绝不踩雷：@jingli1840489\n@chessy80978858\n@lingyu_nn\n@choeycholote\n@blakexiaonai\n@miaomiaomyoez2\n@GaoGaoLove_\n@jinli1dyz\n@Sama184396\n我的qq2829556413",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 53,
+                "start": 38,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "lingyu_nn"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "choeycholote"
+              },
+              {
+                "end": 92,
+                "start": 79,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 108,
+                "start": 93,
+                "username": "miaomiaomyoez2"
+              },
+              {
+                "end": 121,
+                "start": 109,
+                "username": "GaoGaoLove_"
+              },
+              {
+                "end": 132,
+                "start": 122,
+                "username": "jinli1dyz"
+              },
+              {
+                "end": 144,
+                "start": 133,
+                "username": "Sama184396"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zouzou-princess-fan-2.replit.app",
+                "end": 23,
+                "expanded_url": "https://zouzou-princess-fan-2.replit.app/",
+                "start": 0,
+                "url": "https://t.co/i1TjdLx6mz"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "is_identity_verified": false,
+        "location": "网站是奏游入口~",
+        "most_recent_tweet_id": "2100531239128338840",
+        "name": "超涩气超绿茶的魔女公主-奏奏💚",
+        "pinned_tweet_id": "2096142932147622373",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1374389254726455305/1780949984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093830641548922880/QYpa_zhH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10041,
+          "following_count": 496,
+          "like_count": 875,
+          "listed_count": 42,
+          "media_count": 878,
+          "tweet_count": 2318
+        },
+        "url": "https://t.co/i1TjdLx6mz",
+        "username": "xuemingjiai",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-11T09:46:48.000Z",
+        "description": "当可笑的荷尔蒙被命令倒流回脑髓💕可悲的人格被无意识碾烂，与自尊一起淌在亦子大人的脚底时💕你会选择成为，新的丧志脚垫么~♡\n玉足暴耍♡宰杀吸髓♡欢迎来到~压榨地狱🖤\n门牌号:3111252664，🚪42.6\n妹妹:@xiaoyu_113996\n亲爱的奏奏:@xuemingjiai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 106,
+                "username": "xiaoyu_113996"
+              },
+              {
+                "end": 139,
+                "start": 127,
+                "username": "xuemingjiai"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forms.cloud.microsoft/Pages/Response…",
+                "end": 23,
+                "expanded_url": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAANAArENW6hUNk9GM0ZNWkFDWEVSNE1DQzNQUjhQTUcxNS4u",
+                "start": 0,
+                "url": "https://t.co/x1dM9Z5O27"
+              }
+            ]
+          }
+        },
+        "id": "2021521109342973952",
+        "is_identity_verified": false,
+        "location": "洗脑问卷🖤",
+        "most_recent_tweet_id": "2100529728327479477",
+        "name": "乔乔亦子",
+        "pinned_tweet_id": "2100168189640589518",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021523739981287424/TOaxJqOQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 497,
+          "following_count": 0,
+          "like_count": 59,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 24
+        },
+        "url": "https://t.co/x1dM9Z5O27",
+        "username": "choeycholote",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,412 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "2100586416225100034",
+    "created_at": "2026-09-17T14:03:23.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T15:03:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100586416225100034"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1842623478635323392",
+          "start": 3,
+          "username": "mugui0707"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100586416225100034",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100574825618210972",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mugui0707: 饱腹感确实是很幸福的事情\n但是被爱可大人轻飘飘的一个字就夺走一顿饭钱，还被命令不许吃饭，\n\n为什么这么多人想要被命令者做“不舒服”的事情呢？\n爱可大人真的想不明白诶~\n\n每一次饿的难受了都会想起爱可大人，然后知道自己的难受是爱可大人赏赐的反而更开心…"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "下面是一只贡奴的给我的反馈\n\n上贡要能真的爽，就是要切实影响到一些自己的生活才行。钱是自己辛苦挣来的，知道赚钱的不容易。然后贡完自己也要接近吃不起饭，（至少不是想吃什么吃什么，买很多东西都要三思的程度）。贡到这种时候自慰，想不到世界上有什么更爽的事情。\n\n这张照片上死去一只贡奴🖤",
+        "height": 2560,
+        "media_key": "3_2100574776578473984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSa9oUYbAAAqflG.jpg",
+        "width": 1536
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2100574792680443904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSa9pQXbkAAlnjT.jpg",
+        "width": 1818
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2100574803266801664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSa9p3zakAA2pxa.jpg",
+        "width": 2116
+      },
+      {
+        "height": 4095,
+        "media_key": "3_2100574815765860352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSa9qmXbEAAv9KE.jpg",
+        "width": 1931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "2100586416225100034",
+        "created_at": "2026-09-17T14:03:23.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T15:03:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100586416225100034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1842623478635323392",
+              "start": 3,
+              "username": "mugui0707"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100586416225100034",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100574825618210972",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mugui0707: 饱腹感确实是很幸福的事情\n但是被爱可大人轻飘飘的一个字就夺走一顿饭钱，还被命令不许吃饭，\n\n为什么这么多人想要被命令者做“不舒服”的事情呢？\n爱可大人真的想不明白诶~\n\n每一次饿的难受了都会想起爱可大人，然后知道自己的难受是爱可大人赏赐的反而更开心…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100574776578473984",
+            "3_2100574792680443904",
+            "3_2100574803266801664",
+            "3_2100574815765860352"
+          ]
+        },
+        "author_id": "1842623478635323392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2100574825618210972",
+        "created_at": "2026-09-17T13:17:19.000Z",
+        "display_text_range": [
+          0,
+          126
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T14:17:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100574825618210972"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eRkde8zaCw",
+              "end": 150,
+              "expanded_url": "https://x.com/mugui0707/status/2100574825618210972/photo/1",
+              "media_key": "3_2100574776578473984",
+              "start": 127,
+              "url": "https://t.co/eRkde8zaCw"
+            },
+            {
+              "display_url": "pic.x.com/eRkde8zaCw",
+              "end": 150,
+              "expanded_url": "https://x.com/mugui0707/status/2100574825618210972/photo/1",
+              "media_key": "3_2100574792680443904",
+              "start": 127,
+              "url": "https://t.co/eRkde8zaCw"
+            },
+            {
+              "display_url": "pic.x.com/eRkde8zaCw",
+              "end": 150,
+              "expanded_url": "https://x.com/mugui0707/status/2100574825618210972/photo/1",
+              "media_key": "3_2100574803266801664",
+              "start": 127,
+              "url": "https://t.co/eRkde8zaCw"
+            },
+            {
+              "display_url": "pic.x.com/eRkde8zaCw",
+              "end": 150,
+              "expanded_url": "https://x.com/mugui0707/status/2100574825618210972/photo/1",
+              "media_key": "3_2100574815765860352",
+              "start": 127,
+              "url": "https://t.co/eRkde8zaCw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100574825618210972",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "alt_text": "下面是一只贡奴的给我的反馈\n\n上贡要能真的爽，就是要切实影响到一些自己的生活才行。钱是自己辛苦挣来的，知道赚钱的不容易。然后贡完自己也要接近吃不起饭，（至少不是想吃什么吃什么，买很多东西都要三思的程度）。贡到这种时候自慰，想不到世界上有什么更爽的事情。\n\n这张照片上死去一只贡奴🖤",
+            "media_key": "3_2100574776578473984"
+          },
+          {
+            "media_key": "3_2100574792680443904"
+          },
+          {
+            "media_key": "3_2100574803266801664"
+          },
+          {
+            "media_key": "3_2100574815765860352"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 182,
+                "start": 175,
+                "tag": "fimdom"
+              },
+              {
+                "end": 186,
+                "start": 183,
+                "tag": "上贡"
+              },
+              {
+                "end": 190,
+                "start": 187,
+                "tag": "贡奴"
+              },
+              {
+                "end": 194,
+                "start": 191,
+                "tag": "压榨"
+              },
+              {
+                "end": 200,
+                "start": 195,
+                "tag": "atm奴"
+              }
+            ]
+          },
+          "text": "饱腹感确实是很幸福的事情\n但是被爱可大人轻飘飘的一个字就夺走一顿饭钱，还被命令不许吃饭，\n\n为什么这么多人想要被命令者做“不舒服”的事情呢？\n爱可大人真的想不明白诶~\n\n每一次饿的难受了都会想起爱可大人，然后知道自己的难受是爱可大人赏赐的反而更开心了？\n\n别的贡主可能只是想要你的钱，但是~爱可大人就是喜欢折磨贡奴哦~\n榨死你🖤把你当成一个游戏~\n\n#fimdom #上贡 #贡奴 #压榨 #atm奴"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 150,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "饱腹感确实是很幸福的事情\n但是被爱可大人轻飘飘的一个字就夺走一顿饭钱，还被命令不许吃饭，\n\n为什么这么多人想要被命令者做“不舒服”的事情呢？\n爱可大人真的想不明白诶~\n\n每一次饿的难受了都会想起爱可大人，然后知道自己的难受是爱可大人赏赐的反而更开心了？ https://t.co/eRkde8zaCw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "文援，贡主♡\n亲友团如下，奏奏认证，绝不踩雷：@jingli1840489\n@chessy80978858\n@lingyu_nn\n@choeycholote\n@blakexiaonai\n@miaomiaomyoez2\n@GaoGaoLove_\n@jinli1dyz\n@Sama184396\n我的qq2829556413",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 53,
+                "start": 38,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "lingyu_nn"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "choeycholote"
+              },
+              {
+                "end": 92,
+                "start": 79,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 108,
+                "start": 93,
+                "username": "miaomiaomyoez2"
+              },
+              {
+                "end": 121,
+                "start": 109,
+                "username": "GaoGaoLove_"
+              },
+              {
+                "end": 132,
+                "start": 122,
+                "username": "jinli1dyz"
+              },
+              {
+                "end": 144,
+                "start": 133,
+                "username": "Sama184396"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zouzou-princess-fan-2.replit.app",
+                "end": 23,
+                "expanded_url": "https://zouzou-princess-fan-2.replit.app/",
+                "start": 0,
+                "url": "https://t.co/i1TjdLx6mz"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "is_identity_verified": false,
+        "location": "网站是奏游入口~",
+        "most_recent_tweet_id": "2100586416225100034",
+        "name": "超涩气超绿茶的魔女公主-奏奏💚",
+        "pinned_tweet_id": "2096142932147622373",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1374389254726455305/1780949984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093830641548922880/QYpa_zhH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10045,
+          "following_count": 497,
+          "like_count": 883,
+          "listed_count": 42,
+          "media_count": 879,
+          "tweet_count": 2321
+        },
+        "url": "https://t.co/i1TjdLx6mz",
+        "username": "xuemingjiai",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-05T17:50:55.000Z",
+        "description": "压榨主爱可。只想看到你们前仆后继为我去死的贱样🖤\n压榨/恶劣/调教/findom\nQ：3843031377\n🚪20r，傻屄双倍🖕敲门前请把自觉把🧠丢掉🖤申请放口令\ndlc：@qixi0823",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 86,
+                "username": "qixi0823"
+              }
+            ]
+          }
+        },
+        "id": "1842623478635323392",
+        "is_identity_verified": false,
+        "location": "🖤黑心贡奴培育所",
+        "most_recent_tweet_id": "2100583811130196400",
+        "name": "爱可",
+        "pinned_tweet_id": "2070065947315208552",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1842623478635323392/1778787389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058869031613206528/cAFOd56K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1438,
+          "following_count": 84,
+          "like_count": 194,
+          "listed_count": 5,
+          "media_count": 74,
+          "tweet_count": 346
+        },
+        "url": "",
+        "username": "mugui0707",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

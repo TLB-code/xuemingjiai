@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "2098799872468210113",
+    "created_at": "2026-09-12T15:44:18.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T16:44:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098799872468210113"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1912020341100339200",
+          "start": 3,
+          "username": "GaoGaoLove_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098799872468210113",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098798253198479452",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GaoGaoLove_: 在最近和朋友的闲聊时发现，对于理智提取有更不一样的思路……\n在平时可以尝试“角色扮演法”，通过机械呆滞的回复，会让自己的思维也趋向于「人偶」……趋向于服从……\n会被扭曲成被人肆意玩弄的听话玩具❤️\n这才是真正的“自我洗脑”吧，不需要别人的调教，…"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "尝试降低自己的认知，禁止过于跳脱活跃抽象的思考，对糕糕说话尝试代入「人偶」的模式🖤\n“是……”\n“好的……”\n“遵命……”\n“我会听话……”\n“服从……”\n“喜欢……”\n一点一点步入糕糕的陷阱里喔🖤",
+        "height": 267,
+        "media_key": "3_2098798228246548481",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSBt3mHa0AE5YDI.jpg",
+        "width": 300
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "2098799872468210113",
+        "created_at": "2026-09-12T15:44:18.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T16:44:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098799872468210113"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1912020341100339200",
+              "start": 3,
+              "username": "GaoGaoLove_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098799872468210113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098798253198479452",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GaoGaoLove_: 在最近和朋友的闲聊时发现，对于理智提取有更不一样的思路……\n在平时可以尝试“角色扮演法”，通过机械呆滞的回复，会让自己的思维也趋向于「人偶」……趋向于服从……\n会被扭曲成被人肆意玩弄的听话玩具❤️\n这才是真正的“自我洗脑”吧，不需要别人的调教，…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098798228246548481"
+          ]
+        },
+        "author_id": "1912020341100339200",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2098798253198479452",
+        "created_at": "2026-09-12T15:37:52.000Z",
+        "display_text_range": [
+          0,
+          135
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T16:37:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098798253198479452"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M8ivi6ri14",
+              "end": 159,
+              "expanded_url": "https://x.com/GaoGaoLove_/status/2098798253198479452/photo/1",
+              "media_key": "3_2098798228246548481",
+              "start": 136,
+              "url": "https://t.co/M8ivi6ri14"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098798253198479452",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "alt_text": "尝试降低自己的认知，禁止过于跳脱活跃抽象的思考，对糕糕说话尝试代入「人偶」的模式🖤\n“是……”\n“好的……”\n“遵命……”\n“我会听话……”\n“服从……”\n“喜欢……”\n一点一点步入糕糕的陷阱里喔🖤",
+            "media_key": "3_2098798228246548481"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "在最近和朋友的闲聊时发现，对于理智提取有更不一样的思路……\n在平时可以尝试“角色扮演法”，通过机械呆滞的回复，会让自己的思维也趋向于「人偶」……趋向于服从……\n会被扭曲成被人肆意玩弄的听话玩具❤️\n这才是真正的“自我洗脑”吧，不需要别人的调教，把自己装扮成最可口的奴仆w\n最后，被主人予取予求，精神♡人格♡钱包♡权利♡都拱手奉献了w"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "在最近和朋友的闲聊时发现，对于理智提取有更不一样的思路……\n在平时可以尝试“角色扮演法”，通过机械呆滞的回复，会让自己的思维也趋向于「人偶」……趋向于服从……\n会被扭曲成被人肆意玩弄的听话玩具❤️\n这才是真正的“自我洗脑”吧，不需要别人的调教，把自己装扮成最可口的奴仆w https://t.co/M8ivi6ri14"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "文援，贡主♡\n亲友团如下，奏奏认证，绝不踩雷：@jingli1840489\n@chessy80978858\n@lingyu_nn\n@choeycholote\n@blakexiaonai\n@miaomiaomyoez2\n@GaoGaoLove_\n@jinli1dyz\n@Sama184396\n我的qq2829556413",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 53,
+                "start": 38,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "lingyu_nn"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "choeycholote"
+              },
+              {
+                "end": 92,
+                "start": 79,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 108,
+                "start": 93,
+                "username": "miaomiaomyoez2"
+              },
+              {
+                "end": 121,
+                "start": 109,
+                "username": "GaoGaoLove_"
+              },
+              {
+                "end": 132,
+                "start": 122,
+                "username": "jinli1dyz"
+              },
+              {
+                "end": 144,
+                "start": 133,
+                "username": "Sama184396"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "is_identity_verified": false,
+        "location": "小猪老婆@Reset_one_",
+        "most_recent_tweet_id": "2098799872468210113",
+        "name": "超涩气超绿茶的魔女公主-奏奏💚",
+        "pinned_tweet_id": "2096142932147622373",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1374389254726455305/1780949984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093830641548922880/QYpa_zhH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9928,
+          "following_count": 485,
+          "like_count": 816,
+          "listed_count": 42,
+          "media_count": 872,
+          "tweet_count": 2283
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-15T05:49:27.000Z",
+        "description": "作为合格的findom，会接帮助贡奴进行“上贡教学”❤️\n擅长恶毒羞辱爆骂🖤踩踏勾引爆耍🖤宰杀送死家畜🖤\n🚪20  私信随机掉落神秘数字♡\n读心姐姐@QingMian0819 严厉S弟弟：@aiyekong",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 74,
+                "username": "QingMian0819"
+              },
+              {
+                "end": 103,
+                "start": 94,
+                "username": "aiyekong"
+              }
+            ]
+          }
+        },
+        "id": "1912020341100339200",
+        "is_identity_verified": false,
+        "location": "🖤黑心贡主培养所🖤",
+        "most_recent_tweet_id": "2098799015525810686",
+        "name": "巧克力糕🖤",
+        "pinned_tweet_id": "2082117343732506985",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091565274004914176/nE0UT-Tq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2571,
+          "following_count": 121,
+          "like_count": 5627,
+          "listed_count": 6,
+          "media_count": 144,
+          "tweet_count": 809
+        },
+        "url": "",
+        "username": "GaoGaoLove_",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

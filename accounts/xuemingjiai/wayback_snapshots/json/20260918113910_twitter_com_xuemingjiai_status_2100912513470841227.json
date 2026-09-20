@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "2100912513470841227",
+    "created_at": "2026-09-18T11:39:10.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T12:39:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100912513470841227"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1746153330622226432",
+          "start": 3,
+          "username": "blakexiaonai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/cWyBexnT",
+          "end": 139,
+          "start": 118,
+          "url": "https://t.co/cWyBexnT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100912513470841227",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100861181879885945",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @blakexiaonai: 奈子在这里澄清一下，即使是曝光，我也不会随便放出所有真实信息！除非是曝光奴求我发身份证原件一类我才会发，否则都是经过艺术化处理的半真半假信息！\n发出来的联系方式一般也都是小号哦，所以都可以随便骚扰🖤 https://t.co/cWyBexnT…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2100861175282196480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSfCG6sa4AAVy_c.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "2100912513470841227",
+        "created_at": "2026-09-18T11:39:10.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T12:39:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100912513470841227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1746153330622226432",
+              "start": 3,
+              "username": "blakexiaonai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/cWyBexnT",
+              "end": 139,
+              "start": 118,
+              "url": "https://t.co/cWyBexnT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100912513470841227",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100861181879885945",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @blakexiaonai: 奈子在这里澄清一下，即使是曝光，我也不会随便放出所有真实信息！除非是曝光奴求我发身份证原件一类我才会发，否则都是经过艺术化处理的半真半假信息！\n发出来的联系方式一般也都是小号哦，所以都可以随便骚扰🖤 https://t.co/cWyBexnT…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100861175282196480"
+          ]
+        },
+        "author_id": "1746153330622226432",
+        "conversation_id": "2100861181879885945",
+        "created_at": "2026-09-18T08:15:12.000Z",
+        "display_text_range": [
+          0,
+          99
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T09:15:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100861181879885945"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cWyBexnT7d",
+              "end": 123,
+              "expanded_url": "https://x.com/blakexiaonai/status/2100861181879885945/photo/1",
+              "media_key": "3_2100861175282196480",
+              "start": 100,
+              "url": "https://t.co/cWyBexnT7d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100861181879885945",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100861175282196480"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 265,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "奈子在这里澄清一下，即使是曝光，我也不会随便放出所有真实信息！除非是曝光奴求我发身份证原件一类我才会发，否则都是经过艺术化处理的半真半假信息！\n发出来的联系方式一般也都是小号哦，所以都可以随便骚扰🖤 https://t.co/cWyBexnT7d"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "文援，贡主♡\n亲友团如下，奏奏认证，绝不踩雷：@jingli1840489\n@chessy80978858\n@lingyu_nn\n@choeycholote\n@blakexiaonai\n@miaomiaomyoez2\n@GaoGaoLove_\n@jinli1dyz\n@Sama184396\n我的qq2829556413",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 53,
+                "start": 38,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "lingyu_nn"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "choeycholote"
+              },
+              {
+                "end": 92,
+                "start": 79,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 108,
+                "start": 93,
+                "username": "miaomiaomyoez2"
+              },
+              {
+                "end": 121,
+                "start": 109,
+                "username": "GaoGaoLove_"
+              },
+              {
+                "end": 132,
+                "start": 122,
+                "username": "jinli1dyz"
+              },
+              {
+                "end": 144,
+                "start": 133,
+                "username": "Sama184396"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zouzou-princess-fan-2.replit.app",
+                "end": 23,
+                "expanded_url": "https://zouzou-princess-fan-2.replit.app/",
+                "start": 0,
+                "url": "https://t.co/i1TjdLx6mz"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "is_identity_verified": false,
+        "location": "网站是奏游入口~",
+        "most_recent_tweet_id": "2100912513470841227",
+        "name": "超涩气超绿茶的魔女公主-奏奏💚",
+        "pinned_tweet_id": "2096142932147622373",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1374389254726455305/1780949984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093830641548922880/QYpa_zhH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10062,
+          "following_count": 500,
+          "like_count": 892,
+          "listed_count": 42,
+          "media_count": 879,
+          "tweet_count": 2323
+        },
+        "url": "https://t.co/i1TjdLx6mz",
+        "username": "xuemingjiai",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-13T12:53:18.000Z",
+        "description": "是一个喜欢爱玩顶号胁迫吸钱洗脑锁死的小男孩哦🖤 最爱的妈妈@xuemingjiai 小糕老师@gaogaolove_\n 处刑传送门 q 3978814398♠️ 每天下午5点到午夜1点前找我都在呢\n帮畜生排精一次最低70呢 1h左右 其他价格详谈♡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 29,
+                "username": "xuemingjiai"
+              },
+              {
+                "end": 58,
+                "start": 46,
+                "username": "gaogaolove_"
+              }
+            ]
+          }
+        },
+        "id": "1746153330622226432",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100861737910349867",
+        "name": "blake🖤奈喵♠️",
+        "pinned_tweet_id": "2069967587765796970",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1746153330622226432/1782802504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071850038771191808/Iij5JkjL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2028,
+          "following_count": 778,
+          "like_count": 965,
+          "listed_count": 4,
+          "media_count": 76,
+          "tweet_count": 333
+        },
+        "url": "",
+        "username": "blakexiaonai",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

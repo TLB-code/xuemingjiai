@@ -1,0 +1,418 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2099041701491044352",
+        "3_2099041704720650240",
+        "3_2099041704716468224",
+        "3_2099041704687091712"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2099043564324110486",
+    "created_at": "2026-09-13T07:52:38.000Z",
+    "display_text_range": [
+      0,
+      109
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T08:52:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099043564324110486"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 20,
+          "id": "1972693702847152128",
+          "start": 7,
+          "username": "toki_5201314"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zFXmJARW1W",
+          "end": 133,
+          "expanded_url": "https://x.com/xuemingjiai/status/2099043564324110486/photo/1",
+          "media_key": "3_2099041701491044352",
+          "start": 110,
+          "url": "https://t.co/zFXmJARW1W"
+        },
+        {
+          "display_url": "pic.x.com/zFXmJARW1W",
+          "end": 133,
+          "expanded_url": "https://x.com/xuemingjiai/status/2099043564324110486/photo/1",
+          "media_key": "3_2099041704720650240",
+          "start": 110,
+          "url": "https://t.co/zFXmJARW1W"
+        },
+        {
+          "display_url": "pic.x.com/zFXmJARW1W",
+          "end": 133,
+          "expanded_url": "https://x.com/xuemingjiai/status/2099043564324110486/photo/1",
+          "media_key": "3_2099041704716468224",
+          "start": 110,
+          "url": "https://t.co/zFXmJARW1W"
+        },
+        {
+          "display_url": "pic.x.com/zFXmJARW1W",
+          "end": 133,
+          "expanded_url": "https://x.com/xuemingjiai/status/2099043564324110486/photo/1",
+          "media_key": "3_2099041704687091712",
+          "start": 110,
+          "url": "https://t.co/zFXmJARW1W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099043564324110486",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2099041701491044352"
+      },
+      {
+        "media_key": "3_2099041704720650240"
+      },
+      {
+        "media_key": "3_2099041704716468224"
+      },
+      {
+        "media_key": "3_2099041704687091712"
+      }
+    ],
+    "note_tweet": {
+      "entities": {
+        "mentions": [
+          {
+            "end": 20,
+            "id": "1972693702847152128",
+            "start": 7,
+            "username": "toki_5201314"
+          }
+        ]
+      },
+      "text": "今天要曝光的是@toki_5201314 ~\n奏奏新的nika老婆哦~超级可爱w\n一切曝光都是遵从本人意愿的♡\n在外面是看起来超级厉害很恶劣的绿帽吸金女神~在和奏奏刚开始接触的时候也确实是这样....差一点就被榨干了♡\n但是呢！聪明的奏奏妈咪巧妙的利用了一些小“技巧”，成为拿到了一些属于和大家喜爱的mika之间的小“秘密”♡\n然后就两级反转~稍微凶了一点嘛~结果这头母猪老婆就原形毕露啦...还说奏奏好恶劣!\n奏奏真的有那么恶劣喵喵喵？\n反正就是这样啦....犟不过母猪老婆的请求，只能把她败北发情的样子挂出去给她引流啦...真是的，奏奏什么时候成了广告牌了！\n不过不过，母猪老婆最后的发言很嚣张哦~不会真的会有很多很多人会去找她，然后被反杀掉吧？\n那真的好丢人....一辈子都没救了...什么废物白痴舔狗奴下奴钱包啊♡"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天要曝光的是@toki_5201314 ~\n奏奏新的nika老婆哦~超级可爱w\n一切曝光都是遵从本人意愿的♡\n在外面是看起来超级厉害很恶劣的绿帽吸金女神~在和奏奏刚开始接触的时候也确实是这样....差一点就被榨干了♡ https://t.co/zFXmJARW1W"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2099041701491044352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSFLTmoa8AAmaYe.jpg",
+        "width": 952
+      },
+      {
+        "height": 2690,
+        "media_key": "3_2099041704720650240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSFLTyqa0AAEhF2.jpg",
+        "width": 610
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2099041704716468224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSFLTypbAAA3t5p.jpg",
+        "width": 991
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2099041704687091712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSFLTyiawAApOlS.jpg",
+        "width": 1083
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099041701491044352",
+            "3_2099041704720650240",
+            "3_2099041704716468224",
+            "3_2099041704687091712"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2099043564324110486",
+        "created_at": "2026-09-13T07:52:38.000Z",
+        "display_text_range": [
+          0,
+          109
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T08:52:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099043564324110486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 20,
+              "id": "1972693702847152128",
+              "start": 7,
+              "username": "toki_5201314"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zFXmJARW1W",
+              "end": 133,
+              "expanded_url": "https://x.com/xuemingjiai/status/2099043564324110486/photo/1",
+              "media_key": "3_2099041701491044352",
+              "start": 110,
+              "url": "https://t.co/zFXmJARW1W"
+            },
+            {
+              "display_url": "pic.x.com/zFXmJARW1W",
+              "end": 133,
+              "expanded_url": "https://x.com/xuemingjiai/status/2099043564324110486/photo/1",
+              "media_key": "3_2099041704720650240",
+              "start": 110,
+              "url": "https://t.co/zFXmJARW1W"
+            },
+            {
+              "display_url": "pic.x.com/zFXmJARW1W",
+              "end": 133,
+              "expanded_url": "https://x.com/xuemingjiai/status/2099043564324110486/photo/1",
+              "media_key": "3_2099041704716468224",
+              "start": 110,
+              "url": "https://t.co/zFXmJARW1W"
+            },
+            {
+              "display_url": "pic.x.com/zFXmJARW1W",
+              "end": 133,
+              "expanded_url": "https://x.com/xuemingjiai/status/2099043564324110486/photo/1",
+              "media_key": "3_2099041704687091712",
+              "start": 110,
+              "url": "https://t.co/zFXmJARW1W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099043564324110486",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099041701491044352"
+          },
+          {
+            "media_key": "3_2099041704720650240"
+          },
+          {
+            "media_key": "3_2099041704716468224"
+          },
+          {
+            "media_key": "3_2099041704687091712"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 20,
+                "id": "1972693702847152128",
+                "start": 7,
+                "username": "toki_5201314"
+              }
+            ]
+          },
+          "text": "今天要曝光的是@toki_5201314 ~\n奏奏新的nika老婆哦~超级可爱w\n一切曝光都是遵从本人意愿的♡\n在外面是看起来超级厉害很恶劣的绿帽吸金女神~在和奏奏刚开始接触的时候也确实是这样....差一点就被榨干了♡\n但是呢！聪明的奏奏妈咪巧妙的利用了一些小“技巧”，成为拿到了一些属于和大家喜爱的mika之间的小“秘密”♡\n然后就两级反转~稍微凶了一点嘛~结果这头母猪老婆就原形毕露啦...还说奏奏好恶劣!\n奏奏真的有那么恶劣喵喵喵？\n反正就是这样啦....犟不过母猪老婆的请求，只能把她败北发情的样子挂出去给她引流啦...真是的，奏奏什么时候成了广告牌了！\n不过不过，母猪老婆最后的发言很嚣张哦~不会真的会有很多很多人会去找她，然后被反杀掉吧？\n那真的好丢人....一辈子都没救了...什么废物白痴舔狗奴下奴钱包啊♡"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天要曝光的是@toki_5201314 ~\n奏奏新的nika老婆哦~超级可爱w\n一切曝光都是遵从本人意愿的♡\n在外面是看起来超级厉害很恶劣的绿帽吸金女神~在和奏奏刚开始接触的时候也确实是这样....差一点就被榨干了♡ https://t.co/zFXmJARW1W"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "文援，贡主♡\n亲友团如下，奏奏认证，绝不踩雷：@jingli1840489\n@chessy80978858\n@lingyu_nn\n@choeycholote\n@blakexiaonai\n@miaomiaomyoez2\n@GaoGaoLove_\n@jinli1dyz\n@Sama184396\n我的qq2829556413",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 53,
+                "start": 38,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "lingyu_nn"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "choeycholote"
+              },
+              {
+                "end": 92,
+                "start": 79,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 108,
+                "start": 93,
+                "username": "miaomiaomyoez2"
+              },
+              {
+                "end": 121,
+                "start": 109,
+                "username": "GaoGaoLove_"
+              },
+              {
+                "end": 132,
+                "start": 122,
+                "username": "jinli1dyz"
+              },
+              {
+                "end": 144,
+                "start": 133,
+                "username": "Sama184396"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zouzoumiao",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zouzoumiao",
+                "start": 0,
+                "url": "https://t.co/le8ARot5I6"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "is_identity_verified": false,
+        "location": "小猪老婆@Reset_one_",
+        "most_recent_tweet_id": "2099043564324110486",
+        "name": "超涩气超绿茶的魔女公主-奏奏💚",
+        "pinned_tweet_id": "2096142932147622373",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1374389254726455305/1780949984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093830641548922880/QYpa_zhH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9934,
+          "following_count": 485,
+          "like_count": 822,
+          "listed_count": 42,
+          "media_count": 873,
+          "tweet_count": 2284
+        },
+        "url": "https://t.co/le8ARot5I6",
+        "username": "xuemingjiai",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-29T16:03:40.000Z",
+        "description": "懒懒散散的文援nika，擅长ntr/媚黑寝取/温柔诱骗/atm榨金/贞操管理等的贡系s，欢迎傻逼送死哦，欢迎互推~，门牌3873912955~\n最喜欢的天使奏奏老公@xuemingjiai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 82,
+                "username": "xuemingjiai"
+              }
+            ]
+          }
+        },
+        "id": "1972693702847152128",
+        "is_identity_verified": false,
+        "location": "findom♡",
+        "most_recent_tweet_id": "2098965045204160849",
+        "name": "nika♡",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1972693702847152128/1786600497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087779920026177536/VNQxtBWX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1736,
+          "following_count": 94,
+          "like_count": 341,
+          "listed_count": 4,
+          "media_count": 28,
+          "tweet_count": 374
+        },
+        "url": "",
+        "username": "toki_5201314",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
