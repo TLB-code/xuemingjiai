@@ -1,0 +1,392 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "2101341716586598445",
+    "created_at": "2026-09-19T16:04:40.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T17:04:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101341716586598445"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1972693702847152128",
+          "start": 3,
+          "username": "toki_5201314"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101341716586598445",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101247188529750018",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @toki_5201314: 一点记录\n已经戒贡很久的主人哥哥，觉得nika是新人就觉得可以作为低级副本，可以轻松验证自己的成果\n可惜nika是很会“包装”自己的哦~温言软语诱惑着套上绳索....直到哥哥彻底发情为时已晚....只能被乖乖勒紧玩弄宰杀🖤\n都是主人骄傲自大的…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2001,
+        "media_key": "3_2101247158490128384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSkhKGMaYAAAQMO.jpg",
+        "width": 1022
+      },
+      {
+        "height": 2007,
+        "media_key": "3_2101247165972836352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSkhKiEbcAA_4zb.jpg",
+        "width": 1200
+      },
+      {
+        "height": 2074,
+        "media_key": "3_2101247175401639936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSkhLFMbkAAKhb0.jpg",
+        "width": 1031
+      },
+      {
+        "height": 1226,
+        "media_key": "3_2101247182947119104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSkhLhTacAAB4ch.jpg",
+        "width": 1195
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "2101341716586598445",
+        "created_at": "2026-09-19T16:04:40.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T17:04:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101341716586598445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1972693702847152128",
+              "start": 3,
+              "username": "toki_5201314"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101341716586598445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101247188529750018",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @toki_5201314: 一点记录\n已经戒贡很久的主人哥哥，觉得nika是新人就觉得可以作为低级副本，可以轻松验证自己的成果\n可惜nika是很会“包装”自己的哦~温言软语诱惑着套上绳索....直到哥哥彻底发情为时已晚....只能被乖乖勒紧玩弄宰杀🖤\n都是主人骄傲自大的…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101247158490128384",
+            "3_2101247165972836352",
+            "3_2101247175401639936",
+            "3_2101247182947119104"
+          ]
+        },
+        "author_id": "1972693702847152128",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2101247188529750018",
+        "created_at": "2026-09-19T09:49:03.000Z",
+        "display_text_range": [
+          0,
+          155
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T10:49:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101247188529750018"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 151,
+              "start": 148,
+              "tag": "上贡"
+            },
+            {
+              "end": 155,
+              "start": 152,
+              "tag": "洗脑"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/o5XckrW4AJ",
+              "end": 179,
+              "expanded_url": "https://x.com/toki_5201314/status/2101247188529750018/photo/1",
+              "media_key": "3_2101247158490128384",
+              "start": 156,
+              "url": "https://t.co/o5XckrW4AJ"
+            },
+            {
+              "display_url": "pic.x.com/o5XckrW4AJ",
+              "end": 179,
+              "expanded_url": "https://x.com/toki_5201314/status/2101247188529750018/photo/1",
+              "media_key": "3_2101247165972836352",
+              "start": 156,
+              "url": "https://t.co/o5XckrW4AJ"
+            },
+            {
+              "display_url": "pic.x.com/o5XckrW4AJ",
+              "end": 179,
+              "expanded_url": "https://x.com/toki_5201314/status/2101247188529750018/photo/1",
+              "media_key": "3_2101247175401639936",
+              "start": 156,
+              "url": "https://t.co/o5XckrW4AJ"
+            },
+            {
+              "display_url": "pic.x.com/o5XckrW4AJ",
+              "end": 179,
+              "expanded_url": "https://x.com/toki_5201314/status/2101247188529750018/photo/1",
+              "media_key": "3_2101247182947119104",
+              "start": 156,
+              "url": "https://t.co/o5XckrW4AJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101247188529750018",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101247158490128384"
+          },
+          {
+            "media_key": "3_2101247165972836352"
+          },
+          {
+            "media_key": "3_2101247175401639936"
+          },
+          {
+            "media_key": "3_2101247182947119104"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 838,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "一点记录\n已经戒贡很久的主人哥哥，觉得nika是新人就觉得可以作为低级副本，可以轻松验证自己的成果\n可惜nika是很会“包装”自己的哦~温言软语诱惑着套上绳索....直到哥哥彻底发情为时已晚....只能被乖乖勒紧玩弄宰杀🖤\n都是主人骄傲自大的错哦🖤好好吐干净，和西西弗斯一样....重新戒贡吧~\n#上贡 #洗脑 https://t.co/o5XckrW4AJ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "文援，贡主♡\n亲友团如下，奏奏认证，绝不踩雷：@jingli1840489\n@chessy80978858\n@lingyu_nn\n@choeycholote\n@blakexiaonai\n@miaomiaomyoez2\n@GaoGaoLove_\n@jinli1dyz\n@Sama184396\n我的qq2829556413",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 53,
+                "start": 38,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "lingyu_nn"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "choeycholote"
+              },
+              {
+                "end": 92,
+                "start": 79,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 108,
+                "start": 93,
+                "username": "miaomiaomyoez2"
+              },
+              {
+                "end": 121,
+                "start": 109,
+                "username": "GaoGaoLove_"
+              },
+              {
+                "end": 132,
+                "start": 122,
+                "username": "jinli1dyz"
+              },
+              {
+                "end": 144,
+                "start": 133,
+                "username": "Sama184396"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zouzou-princess-fan-2.replit.app",
+                "end": 23,
+                "expanded_url": "https://zouzou-princess-fan-2.replit.app/",
+                "start": 0,
+                "url": "https://t.co/i1TjdLx6mz"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "is_identity_verified": false,
+        "location": "网站是奏游入口~",
+        "most_recent_tweet_id": "2101341716586598445",
+        "name": "超涩气超绿茶的魔女公主-奏奏💚",
+        "pinned_tweet_id": "2096142932147622373",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1374389254726455305/1780949984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093830641548922880/QYpa_zhH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10057,
+          "following_count": 502,
+          "like_count": 894,
+          "listed_count": 42,
+          "media_count": 880,
+          "tweet_count": 2328
+        },
+        "url": "https://t.co/i1TjdLx6mz",
+        "username": "xuemingjiai",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-29T16:03:40.000Z",
+        "description": "温柔洗脑但是又会很黑心的nika，擅长媚黑ntr/温柔诱骗/atm榨金/高压压榨的贡主，文援，欢迎傻逼踩进温柔乡被控脑舒服送死哦，门牌3873912955~\n最喜欢的天使奏奏老公@xuemingjiai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 89,
+                "username": "xuemingjiai"
+              }
+            ]
+          }
+        },
+        "id": "1972693702847152128",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101277750174900442",
+        "name": "nika🖤（互推）",
+        "pinned_tweet_id": "2099473149855469768",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1972693702847152128/1786600497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087779920026177536/VNQxtBWX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1931,
+          "following_count": 125,
+          "like_count": 358,
+          "listed_count": 5,
+          "media_count": 31,
+          "tweet_count": 454
+        },
+        "url": "",
+        "username": "toki_5201314",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

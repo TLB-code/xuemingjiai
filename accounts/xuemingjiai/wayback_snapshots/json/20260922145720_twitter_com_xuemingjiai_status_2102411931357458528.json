@@ -1,0 +1,431 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "2102411931357458528",
+    "created_at": "2026-09-22T14:57:20.000Z",
+    "display_text_range": [
+      0,
+      138
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T15:57:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102411931357458528"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1842623478635323392",
+          "start": 3,
+          "username": "mugui0707"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102411931357458528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102338478650659237",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mugui0707: 贡畜的唧唧也配和别的男人的唧唧比嘛？\n人家和别的男人聊天，贱狗只能跪在旁边当脚垫~\n人家和炮友做爱的时候，坐在你的身上哦💚\n\n炮友的唧唧可以插进人家的小穴，插进人家的嘴巴，可以痛痛快快的射进人家的胃里，小穴里。\n你呢~只能跪在地上给我们磕头助兴…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 678,
+        "media_key": "3_2102338446287339520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS0BraCagAATDXk.jpg",
+        "width": 280
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2102338452213866496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS0BrwHaIAANFWn.jpg",
+        "width": 2717
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2102338461261033472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS0BsR0a8AA8l-S.jpg",
+        "width": 2203
+      },
+      {
+        "height": 2828,
+        "media_key": "3_2102338471205699584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS0Bs23agAAVpGc.jpg",
+        "width": 1036
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "2102411931357458528",
+        "created_at": "2026-09-22T14:57:20.000Z",
+        "display_text_range": [
+          0,
+          138
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T15:57:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102411931357458528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1842623478635323392",
+              "start": 3,
+              "username": "mugui0707"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102411931357458528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102338478650659237",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mugui0707: 贡畜的唧唧也配和别的男人的唧唧比嘛？\n人家和别的男人聊天，贱狗只能跪在旁边当脚垫~\n人家和炮友做爱的时候，坐在你的身上哦💚\n\n炮友的唧唧可以插进人家的小穴，插进人家的嘴巴，可以痛痛快快的射进人家的胃里，小穴里。\n你呢~只能跪在地上给我们磕头助兴…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102338446287339520",
+            "3_2102338452213866496",
+            "3_2102338461261033472",
+            "3_2102338471205699584"
+          ]
+        },
+        "author_id": "1842623478635323392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2102338478650659237",
+        "created_at": "2026-09-22T10:05:27.000Z",
+        "display_text_range": [
+          0,
+          136
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T10:52:31.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102335223879135458",
+          "2102338478650659237"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UElQpeP1TV",
+              "end": 160,
+              "expanded_url": "https://x.com/mugui0707/status/2102338478650659237/photo/1",
+              "media_key": "3_2102338446287339520",
+              "start": 137,
+              "url": "https://t.co/UElQpeP1TV"
+            },
+            {
+              "display_url": "pic.x.com/UElQpeP1TV",
+              "end": 160,
+              "expanded_url": "https://x.com/mugui0707/status/2102338478650659237/photo/1",
+              "media_key": "3_2102338452213866496",
+              "start": 137,
+              "url": "https://t.co/UElQpeP1TV"
+            },
+            {
+              "display_url": "pic.x.com/UElQpeP1TV",
+              "end": 160,
+              "expanded_url": "https://x.com/mugui0707/status/2102338478650659237/photo/1",
+              "media_key": "3_2102338461261033472",
+              "start": 137,
+              "url": "https://t.co/UElQpeP1TV"
+            },
+            {
+              "display_url": "pic.x.com/UElQpeP1TV",
+              "end": 160,
+              "expanded_url": "https://x.com/mugui0707/status/2102338478650659237/photo/1",
+              "media_key": "3_2102338471205699584",
+              "start": 137,
+              "url": "https://t.co/UElQpeP1TV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102338478650659237",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2102338446287339520"
+          },
+          {
+            "media_key": "3_2102338452213866496"
+          },
+          {
+            "media_key": "3_2102338461261033472"
+          },
+          {
+            "media_key": "3_2102338471205699584"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 235,
+                "start": 232,
+                "tag": "绿帽"
+              },
+              {
+                "end": 240,
+                "start": 236,
+                "tag": "绿帽奴"
+              },
+              {
+                "end": 245,
+                "start": 241,
+                "tag": "ntr"
+              },
+              {
+                "end": 253,
+                "start": 246,
+                "tag": "fimdom"
+              },
+              {
+                "end": 257,
+                "start": 254,
+                "tag": "上贡"
+              },
+              {
+                "end": 261,
+                "start": 258,
+                "tag": "贡奴"
+              },
+              {
+                "end": 265,
+                "start": 262,
+                "tag": "压榨"
+              },
+              {
+                "end": 271,
+                "start": 266,
+                "tag": "atm奴"
+              }
+            ]
+          },
+          "text": "贡畜的唧唧也配和别的男人的唧唧比嘛？\n人家和别的男人聊天，贱狗只能跪在旁边当脚垫~\n人家和炮友做爱的时候，坐在你的身上哦💚\n\n炮友的唧唧可以插进人家的小穴，插进人家的嘴巴，可以痛痛快快的射进人家的胃里，小穴里。\n你呢~只能跪在地上给我们磕头助兴\n\n去给我们买套套，付房费哦\n套套100，房费四百♡\n\n“什么，跑了怎么办”\n爱可大人抬起漂亮的脚说“跑了就再找被，我那么漂亮，贱狗不是要多少有多少，他们可喜欢伺候我做爱了呢。”\n\n“愣住干什么，给你的男爹磕头啊~🖤”\n#绿帽 #绿帽奴 #ntr\n#fimdom #上贡 #贡奴 #压榨 #atm奴"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 517,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "贡畜的唧唧也配和别的男人的唧唧比嘛？\n人家和别的男人聊天，贱狗只能跪在旁边当脚垫~\n人家和炮友做爱的时候，坐在你的身上哦💚\n\n炮友的唧唧可以插进人家的小穴，插进人家的嘴巴，可以痛痛快快的射进人家的胃里，小穴里。\n你呢~只能跪在地上给我们磕头助兴\n\n去给我们买套套，付房费哦 https://t.co/UElQpeP1TV"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "文援，贡主♡\n亲友团如下，奏奏认证，绝不踩雷：@jingli1840489\n@chessy80978858\n@lingyu_nn\n@choeycholote\n@blakexiaonai\n@miaomiaomyoez2\n@GaoGaoLove_\n@jinli1dyz\n@Sama184396\n我的qq2829556413",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 53,
+                "start": 38,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "lingyu_nn"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "choeycholote"
+              },
+              {
+                "end": 92,
+                "start": 79,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 108,
+                "start": 93,
+                "username": "miaomiaomyoez2"
+              },
+              {
+                "end": 121,
+                "start": 109,
+                "username": "GaoGaoLove_"
+              },
+              {
+                "end": 132,
+                "start": 122,
+                "username": "jinli1dyz"
+              },
+              {
+                "end": 144,
+                "start": 133,
+                "username": "Sama184396"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zouzou-princess-fan-2.replit.app",
+                "end": 23,
+                "expanded_url": "https://zouzou-princess-fan-2.replit.app/",
+                "start": 0,
+                "url": "https://t.co/i1TjdLx6mz"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "is_identity_verified": false,
+        "location": "网站是奏游入口~",
+        "most_recent_tweet_id": "2102411931357458528",
+        "name": "超涩气超绿茶的魔女公主-奏奏💚",
+        "pinned_tweet_id": "2096142932147622373",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1374389254726455305/1780949984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093830641548922880/QYpa_zhH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10094,
+          "following_count": 509,
+          "like_count": 918,
+          "listed_count": 42,
+          "media_count": 883,
+          "tweet_count": 2345
+        },
+        "url": "https://t.co/i1TjdLx6mz",
+        "username": "xuemingjiai",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-05T17:50:55.000Z",
+        "description": "压榨主爱可。只想看到你们前仆后继为我去死的贱样🖤\n压榨/恶劣/调教/findom\nQ：3843031377\n🚪20r，傻屄双倍🖕敲门前请把自觉把🧠丢掉🖤申请放口令\ndlc：@qixi0823\n可爱宝宝@sanwwww04",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 86,
+                "username": "qixi0823"
+              },
+              {
+                "end": 110,
+                "start": 100,
+                "username": "sanwwww04"
+              }
+            ]
+          }
+        },
+        "id": "1842623478635323392",
+        "is_identity_verified": false,
+        "location": "🖤黑心贡奴培育所",
+        "most_recent_tweet_id": "2102338568777601108",
+        "name": "爱可",
+        "pinned_tweet_id": "2070065947315208552",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1842623478635323392/1778787389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058869031613206528/cAFOd56K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1523,
+          "following_count": 89,
+          "like_count": 220,
+          "listed_count": 5,
+          "media_count": 78,
+          "tweet_count": 363
+        },
+        "url": "",
+        "username": "mugui0707",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

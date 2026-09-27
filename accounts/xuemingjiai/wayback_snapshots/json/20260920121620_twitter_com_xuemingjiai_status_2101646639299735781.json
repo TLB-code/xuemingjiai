@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "2101646639299735781",
+    "created_at": "2026-09-20T12:16:20.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T13:16:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101646639299735781"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1992451272751169538",
+          "start": 3,
+          "username": "Twillaya7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101646639299735781",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101419960237277524",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Twillaya7: 呜……第一次发推，小鹿什么都不懂，大家会对我温柔一点吗？\n​嘻嘻~ 骗你的啦小笨蛋！其实小鹿最喜欢看你们被我迷得神魂颠倒的样子了~♡\n图片里的那些话可不是随便说说哦！只要你敢坐上我的专属位置，小鹿就会用最魅惑的话语，把你的理智通通蒸干，让你只想着给…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2408,
+        "media_key": "3_2101419944529522689",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSm-TkWacAEt3zw.jpg",
+        "width": 1080
+      },
+      {
+        "alt_text": "​哼，看着图片里的这些话，你的操纵杆是不是已经开始有些不受控制了呀？\n​可惜本公主的专属位置可不是谁想坐就能坐的呢~♡ 觉得你控制力好？以为能在本公主面前保持清醒？\n​加q 1406626125\n带着你的诚意过来~ 让本公主看看你到底能坚持多久不失控射金🖤",
+        "height": 1920,
+        "media_key": "3_2101419952620421120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSm-UCfbwAA_D9t.jpg",
+        "width": 1215
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "2101646639299735781",
+        "created_at": "2026-09-20T12:16:20.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T13:16:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101646639299735781"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1992451272751169538",
+              "start": 3,
+              "username": "Twillaya7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101646639299735781",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101419960237277524",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Twillaya7: 呜……第一次发推，小鹿什么都不懂，大家会对我温柔一点吗？\n​嘻嘻~ 骗你的啦小笨蛋！其实小鹿最喜欢看你们被我迷得神魂颠倒的样子了~♡\n图片里的那些话可不是随便说说哦！只要你敢坐上我的专属位置，小鹿就会用最魅惑的话语，把你的理智通通蒸干，让你只想着给…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101419944529522689",
+            "3_2101419952620421120"
+          ]
+        },
+        "author_id": "1992451272751169538",
+        "conversation_id": "2101419960237277524",
+        "created_at": "2026-09-19T21:15:35.000Z",
+        "display_text_range": [
+          0,
+          148
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T22:15:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101419960237277524"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/S1ZhOTZjro",
+              "end": 172,
+              "expanded_url": "https://x.com/Twillaya7/status/2101419960237277524/photo/1",
+              "media_key": "3_2101419944529522689",
+              "start": 149,
+              "url": "https://t.co/S1ZhOTZjro"
+            },
+            {
+              "display_url": "pic.x.com/S1ZhOTZjro",
+              "end": 172,
+              "expanded_url": "https://x.com/Twillaya7/status/2101419960237277524/photo/1",
+              "media_key": "3_2101419952620421120",
+              "start": 149,
+              "url": "https://t.co/S1ZhOTZjro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101419960237277524",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101419944529522689"
+          },
+          {
+            "alt_text": "​哼，看着图片里的这些话，你的操纵杆是不是已经开始有些不受控制了呀？\n​可惜本公主的专属位置可不是谁想坐就能坐的呢~♡ 觉得你控制力好？以为能在本公主面前保持清醒？\n​加q 1406626125\n带着你的诚意过来~ 让本公主看看你到底能坚持多久不失控射金🖤",
+            "media_key": "3_2101419952620421120"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呜……第一次发推，小鹿什么都不懂，大家会对我温柔一点吗？\n​嘻嘻~ 骗你的啦小笨蛋！其实小鹿最喜欢看你们被我迷得神魂颠倒的样子了~♡\n图片里的那些话可不是随便说说哦！只要你敢坐上我的专属位置，小鹿就会用最魅惑的话语，把你的理智通通蒸干，让你只想着给小鹿射金🖤~\n​(嘘，图片的 ALT 别忘了w） https://t.co/S1ZhOTZjro"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "文援，贡主♡\n亲友团如下，奏奏认证，绝不踩雷：@jingli1840489\n@chessy80978858\n@lingyu_nn\n@choeycholote\n@blakexiaonai\n@miaomiaomyoez2\n@GaoGaoLove_\n@jinli1dyz\n@Sama184396\n我的qq2829556413",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 53,
+                "start": 38,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "lingyu_nn"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "choeycholote"
+              },
+              {
+                "end": 92,
+                "start": 79,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 108,
+                "start": 93,
+                "username": "miaomiaomyoez2"
+              },
+              {
+                "end": 121,
+                "start": 109,
+                "username": "GaoGaoLove_"
+              },
+              {
+                "end": 132,
+                "start": 122,
+                "username": "jinli1dyz"
+              },
+              {
+                "end": 144,
+                "start": 133,
+                "username": "Sama184396"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zouzou-princess-fan-2.replit.app",
+                "end": 23,
+                "expanded_url": "https://zouzou-princess-fan-2.replit.app/",
+                "start": 0,
+                "url": "https://t.co/i1TjdLx6mz"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "is_identity_verified": false,
+        "location": "网站是奏游入口~",
+        "most_recent_tweet_id": "2101646639299735781",
+        "name": "超涩气超绿茶的魔女公主-奏奏💚",
+        "pinned_tweet_id": "2096142932147622373",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1374389254726455305/1780949984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093830641548922880/QYpa_zhH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10068,
+          "following_count": 506,
+          "like_count": 902,
+          "listed_count": 42,
+          "media_count": 881,
+          "tweet_count": 2330
+        },
+        "url": "https://t.co/i1TjdLx6mz",
+        "username": "xuemingjiai",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-23T04:35:38.000Z",
+        "description": "小鹿一直都是小鹿 是只男娘喵",
+        "id": "1992451272751169538",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101419960237277524",
+        "name": "梦生鹿",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095584210417553409/rSXKS856_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 17,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 44
+        },
+        "url": "",
+        "username": "Twillaya7",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

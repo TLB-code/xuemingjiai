@@ -1,0 +1,450 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "2101864084111286544",
+    "created_at": "2026-09-21T02:40:23.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T03:40:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101864084111286544"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 130,
+          "start": 126,
+          "tag": "贞操锁"
+        },
+        {
+          "end": 134,
+          "start": 131,
+          "tag": "男娘"
+        },
+        {
+          "end": 139,
+          "start": 135,
+          "tag": "cb锁"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1970394727624384517",
+          "start": 3,
+          "username": "leina_yi52856"
+        },
+        {
+          "end": 46,
+          "id": "1629550872676954114",
+          "start": 31,
+          "username": "northblack0310"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101864084111286544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101674460466024676",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @leina_yi52856: 呜呜……伊蕾娜彻底败北给@northblack0310了……😭肉虫使用权被没收了！被惩罚玩贞操锁游戏\n\n点赞＋1h\n评论＋2h\n转发＋4h\n关注＋8h\n截止到9.24号凌晨~\n\n是贞操锁新手 求求大家手下留情😭！\n#贞操锁 #男娘 #cb锁…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2101673828514480128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSqlNj5XQAA-4ow.jpg",
+        "width": 1437
+      },
+      {
+        "height": 720,
+        "media_key": "3_2101673954293227520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSqlU4dWoAASdmf.jpg",
+        "width": 1263
+      },
+      {
+        "height": 2304,
+        "media_key": "3_2101674013051207680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSqlYTWWQAAKklh.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "2101864084111286544",
+        "created_at": "2026-09-21T02:40:23.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T03:40:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101864084111286544"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 130,
+              "start": 126,
+              "tag": "贞操锁"
+            },
+            {
+              "end": 134,
+              "start": 131,
+              "tag": "男娘"
+            },
+            {
+              "end": 139,
+              "start": 135,
+              "tag": "cb锁"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1970394727624384517",
+              "start": 3,
+              "username": "leina_yi52856"
+            },
+            {
+              "end": 46,
+              "id": "1629550872676954114",
+              "start": 31,
+              "username": "northblack0310"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101864084111286544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101674460466024676",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @leina_yi52856: 呜呜……伊蕾娜彻底败北给@northblack0310了……😭肉虫使用权被没收了！被惩罚玩贞操锁游戏\n\n点赞＋1h\n评论＋2h\n转发＋4h\n关注＋8h\n截止到9.24号凌晨~\n\n是贞操锁新手 求求大家手下留情😭！\n#贞操锁 #男娘 #cb锁…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101673828514480128",
+            "3_2101673954293227520",
+            "3_2101674013051207680"
+          ]
+        },
+        "author_id": "1970394727624384517",
+        "conversation_id": "2101674460466024676",
+        "created_at": "2026-09-20T14:06:53.000Z",
+        "display_text_range": [
+          0,
+          141
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T15:06:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101674460466024676"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 111,
+              "start": 107,
+              "tag": "贞操锁"
+            },
+            {
+              "end": 115,
+              "start": 112,
+              "tag": "男娘"
+            },
+            {
+              "end": 120,
+              "start": 116,
+              "tag": "cb锁"
+            },
+            {
+              "end": 124,
+              "start": 121,
+              "tag": "锁奴"
+            },
+            {
+              "end": 130,
+              "start": 125,
+              "tag": "射精管理"
+            },
+            {
+              "end": 136,
+              "start": 131,
+              "tag": "伪娘母狗"
+            },
+            {
+              "end": 141,
+              "start": 137,
+              "tag": "cdm"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 27,
+              "id": "1629550872676954114",
+              "start": 12,
+              "username": "northblack0310"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vc5n6G60FK",
+              "end": 165,
+              "expanded_url": "https://x.com/leina_yi52856/status/2101674460466024676/photo/1",
+              "media_key": "3_2101673828514480128",
+              "start": 142,
+              "url": "https://t.co/vc5n6G60FK"
+            },
+            {
+              "display_url": "pic.x.com/vc5n6G60FK",
+              "end": 165,
+              "expanded_url": "https://x.com/leina_yi52856/status/2101674460466024676/photo/1",
+              "media_key": "3_2101673954293227520",
+              "start": 142,
+              "url": "https://t.co/vc5n6G60FK"
+            },
+            {
+              "display_url": "pic.x.com/vc5n6G60FK",
+              "end": 165,
+              "expanded_url": "https://x.com/leina_yi52856/status/2101674460466024676/photo/1",
+              "media_key": "3_2101674013051207680",
+              "start": 142,
+              "url": "https://t.co/vc5n6G60FK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101674460466024676",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101673828514480128"
+          },
+          {
+            "media_key": "3_2101673954293227520"
+          },
+          {
+            "media_key": "3_2101674013051207680"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 334,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "呜呜……伊蕾娜彻底败北给@northblack0310了……😭肉虫使用权被没收了！被惩罚玩贞操锁游戏\n\n点赞＋1h\n评论＋2h\n转发＋4h\n关注＋8h\n截止到9.24号凌晨~\n\n是贞操锁新手 求求大家手下留情😭！\n#贞操锁 #男娘 #cb锁 #锁奴 #射精管理 #伪娘母狗 #cdm https://t.co/vc5n6G60FK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "文援，贡主♡\n亲友团如下，奏奏认证，绝不踩雷：@jingli1840489\n@chessy80978858\n@lingyu_nn\n@choeycholote\n@blakexiaonai\n@miaomiaomyoez2\n@GaoGaoLove_\n@jinli1dyz\n@Sama184396\n我的qq2829556413",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 53,
+                "start": 38,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "lingyu_nn"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "choeycholote"
+              },
+              {
+                "end": 92,
+                "start": 79,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 108,
+                "start": 93,
+                "username": "miaomiaomyoez2"
+              },
+              {
+                "end": 121,
+                "start": 109,
+                "username": "GaoGaoLove_"
+              },
+              {
+                "end": 132,
+                "start": 122,
+                "username": "jinli1dyz"
+              },
+              {
+                "end": 144,
+                "start": 133,
+                "username": "Sama184396"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zouzou-princess-fan-2.replit.app",
+                "end": 23,
+                "expanded_url": "https://zouzou-princess-fan-2.replit.app/",
+                "start": 0,
+                "url": "https://t.co/i1TjdLx6mz"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "is_identity_verified": false,
+        "location": "网站是奏游入口~",
+        "most_recent_tweet_id": "2101864084111286544",
+        "name": "超涩气超绿茶的魔女公主-奏奏💚",
+        "pinned_tweet_id": "2096142932147622373",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1374389254726455305/1780949984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093830641548922880/QYpa_zhH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10075,
+          "following_count": 508,
+          "like_count": 911,
+          "listed_count": 42,
+          "media_count": 882,
+          "tweet_count": 2337
+        },
+        "url": "https://t.co/i1TjdLx6mz",
+        "username": "xuemingjiai",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-23T07:48:21.000Z",
+        "description": "",
+        "id": "1970394727624384517",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101675074394669356",
+        "name": "苹果乐",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049181748223967232/vWwBv05q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 164,
+          "like_count": 209,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 12
+        },
+        "url": "",
+        "username": "leina_yi52856",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-02-25T18:36:33.000Z",
+        "description": "【心音所属】这里是，天才美少女夕绫desu，无口/温柔/反差/气味/可爱/调教类美少女文援姬，同时承接虚拟上贡后返还的业务，人设是一名在读高中生，无论是当绿茶黑心的主人还是温柔侍奉的可爱猫娘都可以好好胜任的！想跟夕绫走进美妙的温柔乡的话~w可以加qq：1770867267 价格是70/h哦",
+        "id": "1629550872676954114",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101674834036232461",
+        "name": "夕绫（互推）",
+        "pinned_tweet_id": "2089013456251031690",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079650884854992896/2U2mbw9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1245,
+          "following_count": 294,
+          "like_count": 521,
+          "listed_count": 6,
+          "media_count": 75,
+          "tweet_count": 810
+        },
+        "url": "",
+        "username": "northblack0310",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
