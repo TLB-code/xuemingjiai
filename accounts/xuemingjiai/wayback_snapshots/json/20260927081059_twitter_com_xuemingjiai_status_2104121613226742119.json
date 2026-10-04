@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "2104085891744743562",
+    "created_at": "2026-09-27T08:10:59.000Z",
+    "display_text_range": [
+      12,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T09:10:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104121613226742119"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1837501922166583296",
+          "start": 0,
+          "username": "yourming04"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104121613226742119",
+    "in_reply_to_user_id": "1837501922166583296",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104085891744743562",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yourming04 很涩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "2104085891744743562",
+        "created_at": "2026-09-27T08:10:59.000Z",
+        "display_text_range": [
+          12,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T09:10:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104121613226742119"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1837501922166583296",
+              "start": 0,
+              "username": "yourming04"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104121613226742119",
+        "in_reply_to_user_id": "1837501922166583296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104085891744743562",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yourming04 很涩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837501922166583296",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Fruits",
+              "id": "841969352828112896",
+              "name": "Fruits"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Fruits",
+              "id": "841969352828112896",
+              "name": "Fruits"
+            }
+          }
+        ],
+        "conversation_id": "2104085891744743562",
+        "created_at": "2026-09-27T05:49:03.000Z",
+        "display_text_range": [
+          0,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T06:49:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104085891744743562"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 49,
+              "start": 44,
+              "tag": "atm奴"
+            },
+            {
+              "end": 53,
+              "start": 50,
+              "tag": "足控"
+            },
+            {
+              "end": 57,
+              "start": 54,
+              "tag": "贡奴"
+            },
+            {
+              "end": 61,
+              "start": 58,
+              "tag": "抖m"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/yua_1940/statu…",
+              "end": 85,
+              "expanded_url": "https://twitter.com/yua_1940/status/2103776405041590365",
+              "start": 62,
+              "url": "https://t.co/ppFb2HXeBA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104085891744743562",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 530,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103776405041590365",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我梦想中的贡系游戏终于被一个樱花妹做出来了，神，夯中之夯，这才是黑白棋存在的意义啊……\n#atm奴 #足控 #贡奴 #抖m https://t.co/ppFb2HXeBA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "文援，贡主♡\n亲友团如下，奏奏认证，绝不踩雷：@jingli1840489\n@chessy80978858\n@lingyu_nn\n@choeycholote\n@blakexiaonai\n@miaomiaomyoez2\n@GaoGaoLove_\n@jinli1dyz\n@Sama184396\n我的qq2829556413",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 53,
+                "start": 38,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "lingyu_nn"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "choeycholote"
+              },
+              {
+                "end": 92,
+                "start": 79,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 108,
+                "start": 93,
+                "username": "miaomiaomyoez2"
+              },
+              {
+                "end": 121,
+                "start": 109,
+                "username": "GaoGaoLove_"
+              },
+              {
+                "end": 132,
+                "start": 122,
+                "username": "jinli1dyz"
+              },
+              {
+                "end": 144,
+                "start": 133,
+                "username": "Sama184396"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zouzou-princess-fan-2.replit.app",
+                "end": 23,
+                "expanded_url": "https://zouzou-princess-fan-2.replit.app/",
+                "start": 0,
+                "url": "https://t.co/i1TjdLx6mz"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "is_identity_verified": false,
+        "location": "网站是奏游入口~",
+        "most_recent_tweet_id": "2104121613226742119",
+        "name": "超涩气超绿茶的魔女公主-奏奏💚",
+        "pinned_tweet_id": "2096142932147622373",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1374389254726455305/1780949984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093830641548922880/QYpa_zhH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10174,
+          "following_count": 525,
+          "like_count": 1001,
+          "listed_count": 42,
+          "media_count": 890,
+          "tweet_count": 2376
+        },
+        "url": "https://t.co/i1TjdLx6mz",
+        "username": "xuemingjiai",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-21T14:39:45.000Z",
+        "description": "Switch｜Feet Fetish｜足控｜珊瑚宮心海ガチ恋勢｜真的不是樱花妹",
+        "id": "1837501922166583296",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104085891744743562",
+        "name": "kokomi💙",
+        "pinned_tweet_id": "2024288138261098560",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1837501922166583296/1777091922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022858008330670082/vJeQNn2h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4310,
+          "following_count": 1664,
+          "like_count": 11515,
+          "listed_count": 5,
+          "media_count": 43,
+          "tweet_count": 472
+        },
+        "url": "",
+        "username": "yourming04",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

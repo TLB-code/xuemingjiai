@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "2105884832744214766",
+    "created_at": "2026-10-02T04:57:24.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T05:57:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105884832744214766"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2019290934287196160",
+          "start": 3,
+          "username": "anisdsb166593"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105884832744214766",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105669251226808616",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @anisdsb166593: 想象一下：\n如果爱可大人在修仙世界成仙会怎么样？\n爱可大人会踩扁所有人吗？\n爱可大人会吸干所有人的灵力更进一步吗？\n爱可大人会吞掉整个世界然后飞升吗？\n爱可大人会……\n\n……\n“只要真正的傻逼才会被❤️爱可这样对待哦～”\n爱可大人突然出现在…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 639,
+        "media_key": "3_2105669242331041794",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTjXBQObkAIyvK2.jpg",
+        "width": 361
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "2105884832744214766",
+        "created_at": "2026-10-02T04:57:24.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T05:57:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105884832744214766"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2019290934287196160",
+              "start": 3,
+              "username": "anisdsb166593"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105884832744214766",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105669251226808616",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @anisdsb166593: 想象一下：\n如果爱可大人在修仙世界成仙会怎么样？\n爱可大人会踩扁所有人吗？\n爱可大人会吸干所有人的灵力更进一步吗？\n爱可大人会吞掉整个世界然后飞升吗？\n爱可大人会……\n\n……\n“只要真正的傻逼才会被❤️爱可这样对待哦～”\n爱可大人突然出现在…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105669242331041794"
+          ]
+        },
+        "author_id": "2019290934287196160",
+        "conversation_id": "2105669251226808616",
+        "created_at": "2026-10-01T14:40:45.000Z",
+        "display_text_range": [
+          0,
+          147
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T15:40:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105669251226808616"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IAJQPLWlcN",
+              "end": 171,
+              "expanded_url": "https://x.com/anisdsb166593/status/2105669251226808616/photo/1",
+              "media_key": "3_2105669242331041794",
+              "start": 148,
+              "url": "https://t.co/IAJQPLWlcN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105669251226808616",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105669242331041794"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "想象一下：\n如果爱可大人在修仙世界成仙会怎么样？\n爱可大人会踩扁所有人吗？\n爱可大人会吸干所有人的灵力更进一步吗？\n爱可大人会吞掉整个世界然后飞升吗？\n爱可大人会……\n\n……\n“只要真正的傻逼才会被❤️爱可这样对待哦～”\n爱可大人突然出现在你的身边\n“背后议论爱可大人的家伙是要被🖤惩罚🖤的～”\n一道热气伴随着爱可大人的声音侵入你的大脑，整个猴脑🧠都要被融化了吧～\n你发出“啊啊啊啊啊”的尖叫，脑子都坏掉了一部分呢～～\n\n“惩罚你上交1万灵石……毕竟你这么鶸～应该也不是很有钱吧～”\n“只要1万，已经很宽容喽～嘻嘻！”\n爱可大人伸出手，勾勾手指\n你摸了一下自己的储物袋，暗自捏了把冷汗，灵石已经不到三千了\n但是……\n\n“傻逼🖤～”\n\n只是爱可大人轻轻一句，脑子就已经要烧掉了吧，就让爱可大人没收你的一切!\n\n终于暴露了贡奴的本质啦，嘻嘻～那就乖乖上贡吐钱！灵石不够怎么办？那就贡出你的宝物，爱可大人就勉为其难低价收购你这些垃圾啦！\n\n什么？还不够，还差一点……那🖤爱可大人就勉为其难借你一万灵石，利率只有1%哦～～超良心哒\n对着爱可大人的中指下跪，签下爱可大人的爱心💗贷款契约吧！当然，傻逼禁止直视爱可大人哦🖕🏻"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想象一下：\n如果爱可大人在修仙世界成仙会怎么样？\n爱可大人会踩扁所有人吗？\n爱可大人会吸干所有人的灵力更进一步吗？\n爱可大人会吞掉整个世界然后飞升吗？\n爱可大人会……\n\n……\n“只要真正的傻逼才会被❤️爱可这样对待哦～”\n爱可大人突然出现在你的身边\n“背后议论爱可大人的家伙是要被🖤惩罚🖤的～” https://t.co/IAJQPLWlcN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "文援，贡主♡\n亲友团如下，奏奏认证，绝不踩雷：@jingli1840489\n@chessy80978858\n@lingyu_nn\n@choeycholote\n@blakexiaonai\n@miaomiaomyoez2\n@GaoGaoLove_\n@jinli1dyz\n@Sama184396\n我的qq2829556413",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 53,
+                "start": 38,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "lingyu_nn"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "choeycholote"
+              },
+              {
+                "end": 92,
+                "start": 79,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 108,
+                "start": 93,
+                "username": "miaomiaomyoez2"
+              },
+              {
+                "end": 121,
+                "start": 109,
+                "username": "GaoGaoLove_"
+              },
+              {
+                "end": 132,
+                "start": 122,
+                "username": "jinli1dyz"
+              },
+              {
+                "end": 144,
+                "start": 133,
+                "username": "Sama184396"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zouzou-princess-fan-2.replit.app",
+                "end": 23,
+                "expanded_url": "https://zouzou-princess-fan-2.replit.app/",
+                "start": 0,
+                "url": "https://t.co/i1TjdLx6mz"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "is_identity_verified": false,
+        "location": "网站是奏游入口~",
+        "most_recent_tweet_id": "2105884832744214766",
+        "name": "超涩气超绿茶的魔女公主-奏奏💚",
+        "pinned_tweet_id": "2096142932147622373",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1374389254726455305/1780949984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093830641548922880/QYpa_zhH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10619,
+          "following_count": 532,
+          "like_count": 1041,
+          "listed_count": 43,
+          "media_count": 894,
+          "tweet_count": 2420
+        },
+        "url": "https://t.co/i1TjdLx6mz",
+        "username": "xuemingjiai",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-05T06:04:58.000Z",
+        "description": "此身已为爱可大人（@mugui0707）所有，致力于为爱可大人宣传，下有神秘传送门，正常人勿点｜皮下男，爱可的贱狗，无事勿扰，但真有傻逼🖕🏻上门，也可以客串压榨主哒🖤\n主人：@mugui0707\n主人🚪：3843031377\nps：一串神秘的数字3816631604",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "mugui0707"
+              },
+              {
+                "end": 97,
+                "start": 87,
+                "username": "mugui0707"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+Xd0KNUKYfwBkY…",
+                "end": 23,
+                "expanded_url": "https://t.me/+Xd0KNUKYfwBkYTRl",
+                "start": 0,
+                "url": "https://t.co/BN6redGg1W"
+              }
+            ]
+          }
+        },
+        "id": "2019290934287196160",
+        "is_identity_verified": false,
+        "location": "黑心贡奴培育所",
+        "most_recent_tweet_id": "2105669251226808616",
+        "name": "爱可大人的广告牌",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2019290934287196160/1790851395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105629389002313728/kRX3M4_-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 136,
+          "like_count": 54,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 7
+        },
+        "url": "https://t.co/BN6redGg1W",
+        "username": "anisdsb166593",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

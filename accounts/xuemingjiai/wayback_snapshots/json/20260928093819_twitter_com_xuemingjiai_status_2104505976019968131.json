@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "2104497425033642403",
+    "created_at": "2026-09-28T09:38:19.000Z",
+    "display_text_range": [
+      16,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T10:38:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104505976019968131"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1667823436918562816",
+          "start": 0,
+          "username": "HanasiroKeishi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104505976019968131",
+    "in_reply_to_user_id": "1667823436918562816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104497425033642403",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HanasiroKeishi 坚持自我很不容易，已经很厉害了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "2104497425033642403",
+        "created_at": "2026-09-28T09:38:19.000Z",
+        "display_text_range": [
+          16,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T10:38:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104505976019968131"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1667823436918562816",
+              "start": 0,
+              "username": "HanasiroKeishi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104505976019968131",
+        "in_reply_to_user_id": "1667823436918562816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104497425033642403",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HanasiroKeishi 坚持自我很不容易，已经很厉害了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1667823436918562816",
+        "conversation_id": "2104497425033642403",
+        "created_at": "2026-09-28T09:04:20.000Z",
+        "display_text_range": [
+          0,
+          119
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T10:04:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104497425033642403"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104497425033642403",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "再轉念一想我何苦呢😅，我完全有能力把一群人忽悠成我的錢包。四年了，我做文援四年了，我要真是純純為了錢，就算他不是貢圈的也能被我搞成ATM😅。就當下這個境況我是真覺得我以前那麼費心搞這些幹啥呢？避免一些糾紛的同時也算是大幅度降低我的收入了。\n我這人就是太有自己的驕傲和原則了，這該死的世界向來需要的都只是運作的零件而已，需要個🥚的人性！"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "再轉念一想我何苦呢😅，我完全有能力把一群人忽悠成我的錢包。四年了，我做文援四年了，我要真是純純為了錢，就算他不是貢圈的也能被我搞成ATM😅。就當下這個境況我是真覺得我以前那麼費心搞這些幹啥呢？避免一些糾紛的同時也算是大幅度降低我的收入了。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "文援，贡主♡\n亲友团如下，奏奏认证，绝不踩雷：@jingli1840489\n@chessy80978858\n@lingyu_nn\n@choeycholote\n@blakexiaonai\n@miaomiaomyoez2\n@GaoGaoLove_\n@jinli1dyz\n@Sama184396\n我的qq2829556413",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 53,
+                "start": 38,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "lingyu_nn"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "choeycholote"
+              },
+              {
+                "end": 92,
+                "start": 79,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 108,
+                "start": 93,
+                "username": "miaomiaomyoez2"
+              },
+              {
+                "end": 121,
+                "start": 109,
+                "username": "GaoGaoLove_"
+              },
+              {
+                "end": 132,
+                "start": 122,
+                "username": "jinli1dyz"
+              },
+              {
+                "end": 144,
+                "start": 133,
+                "username": "Sama184396"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zouzou-princess-fan-2.replit.app",
+                "end": 23,
+                "expanded_url": "https://zouzou-princess-fan-2.replit.app/",
+                "start": 0,
+                "url": "https://t.co/i1TjdLx6mz"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "is_identity_verified": false,
+        "location": "网站是奏游入口~",
+        "most_recent_tweet_id": "2104505976019968131",
+        "name": "超涩气超绿茶的魔女公主-奏奏💚",
+        "pinned_tweet_id": "2096142932147622373",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1374389254726455305/1780949984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093830641548922880/QYpa_zhH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10210,
+          "following_count": 525,
+          "like_count": 1019,
+          "listed_count": 42,
+          "media_count": 891,
+          "tweet_count": 2396
+        },
+        "url": "https://t.co/i1TjdLx6mz",
+        "username": "xuemingjiai",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-06-11T09:18:00.000Z",
+        "description": "この苦甜、一期一会の味と思い賜え\n主營訂制文，80HKD一千字，訂制文也包括連載輕小說，隨緣上工文援，營業價格90HKD/1h或5HKD一個來回，關稅50HKD可抵扣，海關：309459865\n涉三賬戶：@KageroYumikaze",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 102,
+                "username": "KageroYumikaze"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/VudC8VMpzh",
+                "end": 23,
+                "expanded_url": "https://discord.gg/VudC8VMpzh",
+                "start": 0,
+                "url": "https://t.co/ClLa7TVsIS"
+              }
+            ]
+          }
+        },
+        "id": "1667823436918562816",
+        "is_identity_verified": false,
+        "location": "Muzuki",
+        "most_recent_tweet_id": "2104503892830564427",
+        "name": "花城 信子（お金様に完敗しちゃった…）",
+        "pinned_tweet_id": "2068836804862861360",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1667823436918562816/1779031326",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056006725137055744/cQmCuA4d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 918,
+          "following_count": 363,
+          "like_count": 8891,
+          "listed_count": 4,
+          "media_count": 529,
+          "tweet_count": 3790
+        },
+        "url": "https://t.co/ClLa7TVsIS",
+        "username": "HanasiroKeishi",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

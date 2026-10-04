@@ -1,0 +1,458 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "2105906791821517171",
+    "created_at": "2026-10-02T06:24:39.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T07:24:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105906791821517171"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1069706510916182017",
+          "start": 3,
+          "username": "doumiaojiang"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "doumiaojiang.taobao.com",
+          "end": 90,
+          "expanded_url": "https://doumiaojiang.taobao.com",
+          "start": 67,
+          "unwound_url": "http://doumiaojiang.world.taobao.com/",
+          "url": "https://t.co/8uvK3mgvJF"
+        },
+        {
+          "description": "You are invited to a group chat on Telegram. Click to",
+          "display_url": "t.me/+HFkwE9ugXcIwN…",
+          "end": 120,
+          "expanded_url": "https://t.me/+HFkwE9ugXcIwNWY1",
+          "images": [
+            {
+              "height": 256,
+              "url": "https://pbs.twimg.com/news_img/2105548210362281984/alMELsUB?format=png&name=orig",
+              "width": 256
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2105548210362281984/alMELsUB?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 97,
+          "status": 200,
+          "title": "Join group chat on Telegram",
+          "unwound_url": "https://t.me/+HFkwE9ugXcIwNWY1",
+          "url": "https://t.co/was1Bv2MWF"
+        },
+        {
+          "display_url": "t.co",
+          "end": 139,
+          "start": 126,
+          "url": "https://t.co/"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105906791821517171",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105902269346779348",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @doumiaojiang: locktober十月锁轮盘\n这个翻译的迟了一点喵！！！抱歉抱歉～这个也可以玩喵！\n抖喵家淘宝店：https://t.co/8uvK3mgvJF\nTG群连接：https://t.co/was1Bv2MWF\n博客地址：https://t.co/…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2105901947299704832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTmqqdyaMAACkZ2.jpg",
+        "width": 884
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "2105906791821517171",
+        "created_at": "2026-10-02T06:24:39.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T07:24:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105906791821517171"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1069706510916182017",
+              "start": 3,
+              "username": "doumiaojiang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "doumiaojiang.taobao.com",
+              "end": 90,
+              "expanded_url": "https://doumiaojiang.taobao.com",
+              "start": 67,
+              "unwound_url": "http://doumiaojiang.world.taobao.com/",
+              "url": "https://t.co/8uvK3mgvJF"
+            },
+            {
+              "description": "You are invited to a group chat on Telegram. Click to",
+              "display_url": "t.me/+HFkwE9ugXcIwN…",
+              "end": 120,
+              "expanded_url": "https://t.me/+HFkwE9ugXcIwNWY1",
+              "images": [
+                {
+                  "height": 256,
+                  "url": "https://pbs.twimg.com/news_img/2105548210362281984/alMELsUB?format=png&name=orig",
+                  "width": 256
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2105548210362281984/alMELsUB?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 97,
+              "status": 200,
+              "title": "Join group chat on Telegram",
+              "unwound_url": "https://t.me/+HFkwE9ugXcIwNWY1",
+              "url": "https://t.co/was1Bv2MWF"
+            },
+            {
+              "display_url": "t.co",
+              "end": 139,
+              "start": 126,
+              "url": "https://t.co/"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105906791821517171",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105902269346779348",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @doumiaojiang: locktober十月锁轮盘\n这个翻译的迟了一点喵！！！抱歉抱歉～这个也可以玩喵！\n抖喵家淘宝店：https://t.co/8uvK3mgvJF\nTG群连接：https://t.co/was1Bv2MWF\n博客地址：https://t.co/…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105901947299704832"
+          ]
+        },
+        "author_id": "1069706510916182017",
+        "conversation_id": "2105902269346779348",
+        "created_at": "2026-10-02T06:06:41.000Z",
+        "display_text_range": [
+          0,
+          131
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T07:06:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105902269346779348"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "doumiaojiang.taobao.com",
+              "end": 72,
+              "expanded_url": "https://doumiaojiang.taobao.com",
+              "start": 49,
+              "unwound_url": "http://doumiaojiang.world.taobao.com/",
+              "url": "https://t.co/8uvK3mgvJF"
+            },
+            {
+              "description": "You are invited to a group chat on Telegram. Click to",
+              "display_url": "t.me/+HFkwE9ugXcIwN…",
+              "end": 102,
+              "expanded_url": "https://t.me/+HFkwE9ugXcIwNWY1",
+              "images": [
+                {
+                  "height": 256,
+                  "url": "https://pbs.twimg.com/news_img/2105548210362281984/alMELsUB?format=png&name=orig",
+                  "width": 256
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2105548210362281984/alMELsUB?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 79,
+              "status": 200,
+              "title": "Join group chat on Telegram",
+              "unwound_url": "https://t.me/+HFkwE9ugXcIwNWY1",
+              "url": "https://t.co/was1Bv2MWF"
+            },
+            {
+              "description": "locktober十月锁轮盘",
+              "display_url": "sissy.game/1366.html",
+              "end": 131,
+              "expanded_url": "https://sissy.game/1366.html",
+              "images": [
+                {
+                  "height": 7074,
+                  "url": "https://pbs.twimg.com/news_img/2105902284043649025/-7iWgBA8?format=jpg&name=orig",
+                  "width": 1527
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2105902284043649025/-7iWgBA8?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 108,
+              "status": 200,
+              "title": "locktober十月锁轮盘 - 抖喵家",
+              "unwound_url": "https://sissy.game/1366.html",
+              "url": "https://t.co/R4lUhGMHbe"
+            },
+            {
+              "display_url": "pic.x.com/SWDXJASE40",
+              "end": 155,
+              "expanded_url": "https://x.com/doumiaojiang/status/2105902269346779348/photo/1",
+              "media_key": "3_2105901947299704832",
+              "start": 132,
+              "url": "https://t.co/SWDXJASE40"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105902269346779348",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105901947299704832"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 688,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "locktober十月锁轮盘\n这个翻译的迟了一点喵！！！抱歉抱歉～这个也可以玩喵！\n抖喵家淘宝店：https://t.co/8uvK3mgvJF\nTG群连接：https://t.co/was1Bv2MWF\n博客地址：https://t.co/R4lUhGMHbe https://t.co/SWDXJASE40"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "文援，贡主♡\n亲友团如下，奏奏认证，绝不踩雷：@jingli1840489\n@chessy80978858\n@lingyu_nn\n@choeycholote\n@blakexiaonai\n@miaomiaomyoez2\n@GaoGaoLove_\n@jinli1dyz\n@Sama184396\n我的qq2829556413",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 53,
+                "start": 38,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "lingyu_nn"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "choeycholote"
+              },
+              {
+                "end": 92,
+                "start": 79,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 108,
+                "start": 93,
+                "username": "miaomiaomyoez2"
+              },
+              {
+                "end": 121,
+                "start": 109,
+                "username": "GaoGaoLove_"
+              },
+              {
+                "end": 132,
+                "start": 122,
+                "username": "jinli1dyz"
+              },
+              {
+                "end": 144,
+                "start": 133,
+                "username": "Sama184396"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zouzou-princess-fan-2.replit.app",
+                "end": 23,
+                "expanded_url": "https://zouzou-princess-fan-2.replit.app/",
+                "start": 0,
+                "url": "https://t.co/i1TjdLx6mz"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "is_identity_verified": false,
+        "location": "网站是奏游入口~",
+        "most_recent_tweet_id": "2105906791821517171",
+        "name": "超涩气超绿茶的魔女公主-奏奏💚",
+        "pinned_tweet_id": "2096142932147622373",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1374389254726455305/1780949984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093830641548922880/QYpa_zhH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10625,
+          "following_count": 533,
+          "like_count": 1042,
+          "listed_count": 43,
+          "media_count": 895,
+          "tweet_count": 2422
+        },
+        "url": "https://t.co/i1TjdLx6mz",
+        "username": "xuemingjiai",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-12-03T21:34:41.000Z",
+        "description": "博客地址：https://t.co/7M8ViEAzt6 淘宝店铺：https://t.co/Y1GDDhKigw 推特知名清水推主，成人用品卖家！",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "sissy.game",
+                "end": 28,
+                "expanded_url": "http://sissy.game",
+                "start": 5,
+                "url": "https://t.co/7M8ViEAzt6"
+              },
+              {
+                "display_url": "doumiaojiang.taobao.com",
+                "end": 57,
+                "expanded_url": "http://doumiaojiang.taobao.com",
+                "start": 34,
+                "url": "https://t.co/Y1GDDhKigw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sissy.game",
+                "end": 23,
+                "expanded_url": "https://sissy.game/",
+                "start": 0,
+                "url": "https://t.co/ihsgHYxpKa"
+              }
+            ]
+          }
+        },
+        "id": "1069706510916182017",
+        "is_identity_verified": false,
+        "location": "台湾",
+        "most_recent_tweet_id": "2105902269346779348",
+        "name": "抖喵酱 咕咕咕～",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1069706510916182017/1543930021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1069709712751382528/2YUWSw3m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150371,
+          "following_count": 3081,
+          "like_count": 13987,
+          "listed_count": 509,
+          "media_count": 576,
+          "tweet_count": 7433
+        },
+        "url": "https://t.co/ihsgHYxpKa",
+        "username": "doumiaojiang",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

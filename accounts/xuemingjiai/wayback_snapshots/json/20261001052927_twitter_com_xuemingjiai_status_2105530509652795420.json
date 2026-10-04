@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "2105530509652795420",
+    "created_at": "2026-10-01T05:29:27.000Z",
+    "display_text_range": [
+      0,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T06:29:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2105530509652795420"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/doumiaojiang/s…",
+          "end": 76,
+          "expanded_url": "https://twitter.com/doumiaojiang/status/2105517170520424715",
+          "start": 53,
+          "url": "https://t.co/2AcgRetycs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105530509652795420",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105517170520424715",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "非常感谢抖喵老师的帮忙宣传~欢迎大家来体验奏游呀~也推荐大家去抖喵老师的店铺购买合适的道具，都非常好用喵 https://t.co/2AcgRetycs"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "2105530509652795420",
+        "created_at": "2026-10-01T05:29:27.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T06:29:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105530509652795420"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/doumiaojiang/s…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/doumiaojiang/status/2105517170520424715",
+              "start": 53,
+              "url": "https://t.co/2AcgRetycs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105530509652795420",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105517170520424715",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "非常感谢抖喵老师的帮忙宣传~欢迎大家来体验奏游呀~也推荐大家去抖喵老师的店铺购买合适的道具，都非常好用喵 https://t.co/2AcgRetycs"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1069706510916182017",
+        "conversation_id": "2105517170520424715",
+        "created_at": "2026-10-01T04:36:26.000Z",
+        "display_text_range": [
+          0,
+          123
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T05:36:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105517170520424715"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "奏奏魔女公主官方粉丝网页 - 签到、上贡、获得公主的宠爱",
+              "display_url": "zouzou-princess-fan-2.replit.app",
+              "end": 123,
+              "expanded_url": "https://zouzou-princess-fan-2.replit.app",
+              "start": 100,
+              "status": 200,
+              "title": "奏奏魔女公主 - 粉丝专属领地",
+              "unwound_url": "https://zouzou-princess-fan-2.replit.app",
+              "url": "https://t.co/N5i7Um994U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105517170520424715",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 1675,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "帮魔女奏奏小姐宣传一下她的放置挂机类型的网页小游戏，奏游。里面可以下棋，打牌，文调涩涩，可以成为勇者或者魅魔进行玩家之间的互动，是一款不错的贡系游戏，很像现在的二游模式，大家有空可以去试试。奏游入口：https://t.co/N5i7Um994U"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "文援，贡主♡\n亲友团如下，奏奏认证，绝不踩雷：@jingli1840489\n@chessy80978858\n@lingyu_nn\n@choeycholote\n@blakexiaonai\n@miaomiaomyoez2\n@GaoGaoLove_\n@jinli1dyz\n@Sama184396\n我的qq2829556413",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 53,
+                "start": 38,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "lingyu_nn"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "choeycholote"
+              },
+              {
+                "end": 92,
+                "start": 79,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 108,
+                "start": 93,
+                "username": "miaomiaomyoez2"
+              },
+              {
+                "end": 121,
+                "start": 109,
+                "username": "GaoGaoLove_"
+              },
+              {
+                "end": 132,
+                "start": 122,
+                "username": "jinli1dyz"
+              },
+              {
+                "end": 144,
+                "start": 133,
+                "username": "Sama184396"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zouzou-princess-fan-2.replit.app",
+                "end": 23,
+                "expanded_url": "https://zouzou-princess-fan-2.replit.app/",
+                "start": 0,
+                "url": "https://t.co/i1TjdLx6mz"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "is_identity_verified": false,
+        "location": "网站是奏游入口~",
+        "most_recent_tweet_id": "2105530509652795420",
+        "name": "超涩气超绿茶的魔女公主-奏奏💚",
+        "pinned_tweet_id": "2096142932147622373",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1374389254726455305/1780949984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093830641548922880/QYpa_zhH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10492,
+          "following_count": 528,
+          "like_count": 1037,
+          "listed_count": 43,
+          "media_count": 893,
+          "tweet_count": 2411
+        },
+        "url": "https://t.co/i1TjdLx6mz",
+        "username": "xuemingjiai",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-12-03T21:34:41.000Z",
+        "description": "博客地址：https://t.co/7M8ViEAzt6 淘宝店铺：https://t.co/Y1GDDhKigw 推特知名清水推主，成人用品卖家！",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "sissy.game",
+                "end": 28,
+                "expanded_url": "http://sissy.game",
+                "start": 5,
+                "url": "https://t.co/7M8ViEAzt6"
+              },
+              {
+                "display_url": "doumiaojiang.taobao.com",
+                "end": 57,
+                "expanded_url": "http://doumiaojiang.taobao.com",
+                "start": 34,
+                "url": "https://t.co/Y1GDDhKigw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sissy.game",
+                "end": 23,
+                "expanded_url": "https://sissy.game/",
+                "start": 0,
+                "url": "https://t.co/ihsgHYxpKa"
+              }
+            ]
+          }
+        },
+        "id": "1069706510916182017",
+        "is_identity_verified": false,
+        "location": "台湾",
+        "most_recent_tweet_id": "2105517170520424715",
+        "name": "抖喵酱 咕咕咕～",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1069706510916182017/1543930021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1069709712751382528/2YUWSw3m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150308,
+          "following_count": 3078,
+          "like_count": 13980,
+          "listed_count": 507,
+          "media_count": 575,
+          "tweet_count": 7426
+        },
+        "url": "https://t.co/ihsgHYxpKa",
+        "username": "doumiaojiang",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

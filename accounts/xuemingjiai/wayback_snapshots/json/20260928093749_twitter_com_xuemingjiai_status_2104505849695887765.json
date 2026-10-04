@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "2104505849695887765",
+    "created_at": "2026-09-28T09:37:49.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T10:37:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104505849695887765"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1483748053672726530",
+          "start": 3,
+          "username": "tianshangdeyue2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104505849695887765",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104443541019898155",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tianshangdeyue2: 为什么向星绮上贡是一件很丢脸的事？\n因为星绮地位低下，是文援奴，对星绮上贡的话，还要被星绮踩在脚下，岂不是意味着你更加卑贱？\n其次无论对星绮上贡多少，也改变不了星绮有主人的事实，最终的结果就是，你只能获得奴下奴的身份。… https:/…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1870,
+        "media_key": "3_2104436667952275456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTR1_-2aIAAiPWU.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "2104505849695887765",
+        "created_at": "2026-09-28T09:37:49.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T10:37:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104505849695887765"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1483748053672726530",
+              "start": 3,
+              "username": "tianshangdeyue2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104505849695887765",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104443541019898155",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tianshangdeyue2: 为什么向星绮上贡是一件很丢脸的事？\n因为星绮地位低下，是文援奴，对星绮上贡的话，还要被星绮踩在脚下，岂不是意味着你更加卑贱？\n其次无论对星绮上贡多少，也改变不了星绮有主人的事实，最终的结果就是，你只能获得奴下奴的身份。… https:/…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104436667952275456"
+          ]
+        },
+        "author_id": "1483748053672726530",
+        "conversation_id": "2104443541019898155",
+        "created_at": "2026-09-28T05:30:13.000Z",
+        "display_text_range": [
+          0,
+          109
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T06:30:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104443541019898155"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CjhZCJWqjZ",
+              "end": 133,
+              "expanded_url": "https://x.com/tianshangdeyue2/status/2104443541019898155/photo/1",
+              "media_key": "3_2104436667952275456",
+              "start": 110,
+              "url": "https://t.co/CjhZCJWqjZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104443541019898155",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104436667952275456"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "为什么向星绮上贡是一件很丢脸的事？\n因为星绮地位低下，是文援奴，对星绮上贡的话，还要被星绮踩在脚下，岂不是意味着你更加卑贱？\n其次无论对星绮上贡多少，也改变不了星绮有主人的事实，最终的结果就是，你只能获得奴下奴的身份。\n星绮会将赚来的钱都上贡给主人，明明你上贡了自己的钱，却连星绮主人的面都见不到，甚至星绮的主人都根本不知晓你的存在。\n上贡也仅仅能提高星绮的好感度而已，可星绮是不被允许恋爱的，所以最终只能做星绮的坐垫，足垫，甚至是马桶哦……\n所以真上贡的话，可能连星绮都不一定会瞧得起你，所以真的很丢脸对吧？"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 233,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "为什么向星绮上贡是一件很丢脸的事？\n因为星绮地位低下，是文援奴，对星绮上贡的话，还要被星绮踩在脚下，岂不是意味着你更加卑贱？\n其次无论对星绮上贡多少，也改变不了星绮有主人的事实，最终的结果就是，你只能获得奴下奴的身份。 https://t.co/CjhZCJWqjZ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "文援，贡主♡\n亲友团如下，奏奏认证，绝不踩雷：@jingli1840489\n@chessy80978858\n@lingyu_nn\n@choeycholote\n@blakexiaonai\n@miaomiaomyoez2\n@GaoGaoLove_\n@jinli1dyz\n@Sama184396\n我的qq2829556413",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 53,
+                "start": 38,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "lingyu_nn"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "choeycholote"
+              },
+              {
+                "end": 92,
+                "start": 79,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 108,
+                "start": 93,
+                "username": "miaomiaomyoez2"
+              },
+              {
+                "end": 121,
+                "start": 109,
+                "username": "GaoGaoLove_"
+              },
+              {
+                "end": 132,
+                "start": 122,
+                "username": "jinli1dyz"
+              },
+              {
+                "end": 144,
+                "start": 133,
+                "username": "Sama184396"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zouzou-princess-fan-2.replit.app",
+                "end": 23,
+                "expanded_url": "https://zouzou-princess-fan-2.replit.app/",
+                "start": 0,
+                "url": "https://t.co/i1TjdLx6mz"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "is_identity_verified": false,
+        "location": "网站是奏游入口~",
+        "most_recent_tweet_id": "2104505849695887765",
+        "name": "超涩气超绿茶的魔女公主-奏奏💚",
+        "pinned_tweet_id": "2096142932147622373",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1374389254726455305/1780949984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093830641548922880/QYpa_zhH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10210,
+          "following_count": 525,
+          "like_count": 1018,
+          "listed_count": 42,
+          "media_count": 891,
+          "tweet_count": 2395
+        },
+        "url": "https://t.co/i1TjdLx6mz",
+        "username": "xuemingjiai",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-01-19T10:28:03.000Z",
+        "description": "抖M/文援奴/小说作者\n是@xuemingjiai放出来的小狗，可作为最忠实的肉便器侍奉客人，也可作为……呃，应该不会有人下贱到想被奴下奴踩在脚下吧？\n接受R18G和幻想XP，同时也接H文定制哦，纯手写~\nQ：2020822371，半小时30，一小时60~",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 13,
+                "username": "xuemingjiai"
+              }
+            ]
+          }
+        },
+        "id": "1483748053672726530",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104466878446100528",
+        "name": "星绮",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1483748053672726530/1790422146",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103807863114317824/_HZ5hIrg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 12,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 9
+        },
+        "url": "",
+        "username": "tianshangdeyue2",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

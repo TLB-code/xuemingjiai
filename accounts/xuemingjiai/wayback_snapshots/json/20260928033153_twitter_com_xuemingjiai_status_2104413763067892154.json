@@ -1,0 +1,379 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "2104413763067892154",
+    "created_at": "2026-09-28T03:31:53.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T04:31:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104413763067892154"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1483748053672726530",
+          "start": 3,
+          "username": "tianshangdeyue2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104413763067892154",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104386324887421437",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tianshangdeyue2: 星绮又收获了一只新坐垫，好开心……明明刚开始地位都是平等的，甚至客人还是星绮需要侍奉的对象，但最终却心甘情愿被植入坐垫基因了……但是这样也好，当星绮被主人踩在脚下的时候，屁股下面能有个舒服的支撑~\n星绮也擅长很多其他玩法……之后会发相关…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2420,
+        "media_key": "3_2104385283127164928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTRHQ_dawAAA0jK.jpg",
+        "width": 1032
+      },
+      {
+        "height": 2900,
+        "media_key": "3_2104385415591632896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTRHYs7aIAAXtlX.jpg",
+        "width": 1052
+      },
+      {
+        "height": 2420,
+        "media_key": "3_2104385430519185408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTRHZkiagAAvSsv.jpg",
+        "width": 1036
+      },
+      {
+        "height": 3640,
+        "media_key": "3_2104385444641468416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTRHaZJbcAA5g1l.jpg",
+        "width": 1052
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "2104413763067892154",
+        "created_at": "2026-09-28T03:31:53.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T04:31:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104413763067892154"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1483748053672726530",
+              "start": 3,
+              "username": "tianshangdeyue2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104413763067892154",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104386324887421437",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tianshangdeyue2: 星绮又收获了一只新坐垫，好开心……明明刚开始地位都是平等的，甚至客人还是星绮需要侍奉的对象，但最终却心甘情愿被植入坐垫基因了……但是这样也好，当星绮被主人踩在脚下的时候，屁股下面能有个舒服的支撑~\n星绮也擅长很多其他玩法……之后会发相关…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104385283127164928",
+            "3_2104385415591632896",
+            "3_2104385430519185408",
+            "3_2104385444641468416"
+          ]
+        },
+        "author_id": "1483748053672726530",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2104386324887421437",
+        "created_at": "2026-09-28T01:42:52.000Z",
+        "display_text_range": [
+          0,
+          122
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T02:42:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104386324887421437"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eoN0Z7Rfiu",
+              "end": 146,
+              "expanded_url": "https://x.com/tianshangdeyue2/status/2104386324887421437/photo/1",
+              "media_key": "3_2104385283127164928",
+              "start": 123,
+              "url": "https://t.co/eoN0Z7Rfiu"
+            },
+            {
+              "display_url": "pic.x.com/eoN0Z7Rfiu",
+              "end": 146,
+              "expanded_url": "https://x.com/tianshangdeyue2/status/2104386324887421437/photo/1",
+              "media_key": "3_2104385415591632896",
+              "start": 123,
+              "url": "https://t.co/eoN0Z7Rfiu"
+            },
+            {
+              "display_url": "pic.x.com/eoN0Z7Rfiu",
+              "end": 146,
+              "expanded_url": "https://x.com/tianshangdeyue2/status/2104386324887421437/photo/1",
+              "media_key": "3_2104385430519185408",
+              "start": 123,
+              "url": "https://t.co/eoN0Z7Rfiu"
+            },
+            {
+              "display_url": "pic.x.com/eoN0Z7Rfiu",
+              "end": 146,
+              "expanded_url": "https://x.com/tianshangdeyue2/status/2104386324887421437/photo/1",
+              "media_key": "3_2104385444641468416",
+              "start": 123,
+              "url": "https://t.co/eoN0Z7Rfiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104386324887421437",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104385283127164928"
+          },
+          {
+            "media_key": "3_2104385415591632896"
+          },
+          {
+            "media_key": "3_2104385430519185408"
+          },
+          {
+            "media_key": "3_2104385444641468416"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 457,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "星绮又收获了一只新坐垫，好开心……明明刚开始地位都是平等的，甚至客人还是星绮需要侍奉的对象，但最终却心甘情愿被植入坐垫基因了……但是这样也好，当星绮被主人踩在脚下的时候，屁股下面能有个舒服的支撑~\n星绮也擅长很多其他玩法……之后会发相关推文的~ https://t.co/eoN0Z7Rfiu"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "文援，贡主♡\n亲友团如下，奏奏认证，绝不踩雷：@jingli1840489\n@chessy80978858\n@lingyu_nn\n@choeycholote\n@blakexiaonai\n@miaomiaomyoez2\n@GaoGaoLove_\n@jinli1dyz\n@Sama184396\n我的qq2829556413",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 53,
+                "start": 38,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "lingyu_nn"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "choeycholote"
+              },
+              {
+                "end": 92,
+                "start": 79,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 108,
+                "start": 93,
+                "username": "miaomiaomyoez2"
+              },
+              {
+                "end": 121,
+                "start": 109,
+                "username": "GaoGaoLove_"
+              },
+              {
+                "end": 132,
+                "start": 122,
+                "username": "jinli1dyz"
+              },
+              {
+                "end": 144,
+                "start": 133,
+                "username": "Sama184396"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zouzou-princess-fan-2.replit.app",
+                "end": 23,
+                "expanded_url": "https://zouzou-princess-fan-2.replit.app/",
+                "start": 0,
+                "url": "https://t.co/i1TjdLx6mz"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "is_identity_verified": false,
+        "location": "网站是奏游入口~",
+        "most_recent_tweet_id": "2104413763067892154",
+        "name": "超涩气超绿茶的魔女公主-奏奏💚",
+        "pinned_tweet_id": "2096142932147622373",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1374389254726455305/1780949984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093830641548922880/QYpa_zhH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10210,
+          "following_count": 525,
+          "like_count": 1016,
+          "listed_count": 42,
+          "media_count": 891,
+          "tweet_count": 2393
+        },
+        "url": "https://t.co/i1TjdLx6mz",
+        "username": "xuemingjiai",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-01-19T10:28:03.000Z",
+        "description": "抖M/文援奴/小说作者\n是@xuemingjiai放出来的小狗，可作为最忠实的肉便器侍奉客人，也可作为……呃，应该不会有人下贱到想被奴下奴踩在脚下吧？\n接受R18G和幻想XP，同时也接H文定制哦，纯手写~\nQ：2020822371，半小时30，一小时60~",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 13,
+                "username": "xuemingjiai"
+              }
+            ]
+          }
+        },
+        "id": "1483748053672726530",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104386324887421437",
+        "name": "星绮",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1483748053672726530/1790422146",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103807863114317824/_HZ5hIrg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 12,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 7
+        },
+        "url": "",
+        "username": "tianshangdeyue2",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

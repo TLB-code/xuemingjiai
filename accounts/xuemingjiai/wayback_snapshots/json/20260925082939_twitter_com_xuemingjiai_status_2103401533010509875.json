@@ -1,0 +1,471 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "2103401533010509875",
+    "created_at": "2026-09-25T08:29:39.000Z",
+    "display_text_range": [
+      0,
+      139
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T09:29:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103401533010509875"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 126,
+          "start": 123,
+          "tag": "绿奴"
+        },
+        {
+          "end": 130,
+          "start": 127,
+          "tag": "绿帽"
+        },
+        {
+          "end": 134,
+          "start": 131,
+          "tag": "压榨"
+        },
+        {
+          "end": 138,
+          "start": 135,
+          "tag": "提款"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1223351641384067077",
+          "start": 3,
+          "username": "makinimmen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103401533010509875",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103385445392658587",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @makinimmen: “贡”像一根尖利的针，永远扎在贡奴的大脑里…\n\n虽然你这样的公狗，明知低贱的自己不配触碰心心念念的异性，于是放弃了作为正常男人交媾的机会\n\n但可惜，除了作为一台膝盖被焊死在地上的提款机，没有人会在意你\n\n真好笑🖤\n#绿奴 #绿帽 #压榨 #提款…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1839,
+        "media_key": "3_2103382475783438336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTC3N6_agAALU5r.jpg",
+        "width": 933
+      },
+      {
+        "height": 2712,
+        "media_key": "3_2103382496578764800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTC3PIdaAAAL1xi.jpg",
+        "width": 933
+      },
+      {
+        "height": 1795,
+        "media_key": "3_2103382511888003072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTC3QBfacAAhHN-.jpg",
+        "width": 949
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2103382524097695744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTC3Qu-bkAAoWKo.jpg",
+        "width": 2474
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "2103401533010509875",
+        "created_at": "2026-09-25T08:29:39.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T09:29:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103401533010509875"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 126,
+              "start": 123,
+              "tag": "绿奴"
+            },
+            {
+              "end": 130,
+              "start": 127,
+              "tag": "绿帽"
+            },
+            {
+              "end": 134,
+              "start": 131,
+              "tag": "压榨"
+            },
+            {
+              "end": 138,
+              "start": 135,
+              "tag": "提款"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1223351641384067077",
+              "start": 3,
+              "username": "makinimmen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103401533010509875",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103385445392658587",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @makinimmen: “贡”像一根尖利的针，永远扎在贡奴的大脑里…\n\n虽然你这样的公狗，明知低贱的自己不配触碰心心念念的异性，于是放弃了作为正常男人交媾的机会\n\n但可惜，除了作为一台膝盖被焊死在地上的提款机，没有人会在意你\n\n真好笑🖤\n#绿奴 #绿帽 #压榨 #提款…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103382475783438336",
+            "3_2103382496578764800",
+            "3_2103382511888003072",
+            "3_2103382524097695744"
+          ]
+        },
+        "author_id": "1223351641384067077",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2103385445392658587",
+        "created_at": "2026-09-25T07:25:43.000Z",
+        "display_text_range": [
+          0,
+          157
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T08:25:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103385445392658587"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 110,
+              "start": 107,
+              "tag": "绿奴"
+            },
+            {
+              "end": 114,
+              "start": 111,
+              "tag": "绿帽"
+            },
+            {
+              "end": 118,
+              "start": 115,
+              "tag": "压榨"
+            },
+            {
+              "end": 122,
+              "start": 119,
+              "tag": "提款"
+            },
+            {
+              "end": 126,
+              "start": 123,
+              "tag": "戒贡"
+            },
+            {
+              "end": 134,
+              "start": 127,
+              "tag": "findom"
+            },
+            {
+              "end": 138,
+              "start": 135,
+              "tag": "羞辱"
+            },
+            {
+              "end": 142,
+              "start": 139,
+              "tag": "白给"
+            },
+            {
+              "end": 147,
+              "start": 143,
+              "tag": "atm"
+            },
+            {
+              "end": 151,
+              "start": 148,
+              "tag": "上贡"
+            },
+            {
+              "end": 157,
+              "start": 152,
+              "tag": "女尊男卑"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4b816MCQGA",
+              "end": 181,
+              "expanded_url": "https://x.com/makinimmen/status/2103385445392658587/photo/1",
+              "media_key": "3_2103382475783438336",
+              "start": 158,
+              "url": "https://t.co/4b816MCQGA"
+            },
+            {
+              "display_url": "pic.x.com/4b816MCQGA",
+              "end": 181,
+              "expanded_url": "https://x.com/makinimmen/status/2103385445392658587/photo/1",
+              "media_key": "3_2103382496578764800",
+              "start": 158,
+              "url": "https://t.co/4b816MCQGA"
+            },
+            {
+              "display_url": "pic.x.com/4b816MCQGA",
+              "end": 181,
+              "expanded_url": "https://x.com/makinimmen/status/2103385445392658587/photo/1",
+              "media_key": "3_2103382511888003072",
+              "start": 158,
+              "url": "https://t.co/4b816MCQGA"
+            },
+            {
+              "display_url": "pic.x.com/4b816MCQGA",
+              "end": 181,
+              "expanded_url": "https://x.com/makinimmen/status/2103385445392658587/photo/1",
+              "media_key": "3_2103382524097695744",
+              "start": 158,
+              "url": "https://t.co/4b816MCQGA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103385445392658587",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103382475783438336"
+          },
+          {
+            "media_key": "3_2103382496578764800"
+          },
+          {
+            "media_key": "3_2103382511888003072"
+          },
+          {
+            "media_key": "3_2103382524097695744"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 89,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "“贡”像一根尖利的针，永远扎在贡奴的大脑里…\n\n虽然你这样的公狗，明知低贱的自己不配触碰心心念念的异性，于是放弃了作为正常男人交媾的机会\n\n但可惜，除了作为一台膝盖被焊死在地上的提款机，没有人会在意你\n\n真好笑🖤\n#绿奴 #绿帽 #压榨 #提款 #戒贡 #findom #羞辱 #白给 #atm #上贡 #女尊男卑 https://t.co/4b816MCQGA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "文援，贡主♡\n亲友团如下，奏奏认证，绝不踩雷：@jingli1840489\n@chessy80978858\n@lingyu_nn\n@choeycholote\n@blakexiaonai\n@miaomiaomyoez2\n@GaoGaoLove_\n@jinli1dyz\n@Sama184396\n我的qq2829556413",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 53,
+                "start": 38,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "lingyu_nn"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "choeycholote"
+              },
+              {
+                "end": 92,
+                "start": 79,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 108,
+                "start": 93,
+                "username": "miaomiaomyoez2"
+              },
+              {
+                "end": 121,
+                "start": 109,
+                "username": "GaoGaoLove_"
+              },
+              {
+                "end": 132,
+                "start": 122,
+                "username": "jinli1dyz"
+              },
+              {
+                "end": 144,
+                "start": 133,
+                "username": "Sama184396"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zouzou-princess-fan-2.replit.app",
+                "end": 23,
+                "expanded_url": "https://zouzou-princess-fan-2.replit.app/",
+                "start": 0,
+                "url": "https://t.co/i1TjdLx6mz"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "is_identity_verified": false,
+        "location": "网站是奏游入口~",
+        "most_recent_tweet_id": "2103401533010509875",
+        "name": "超涩气超绿茶的魔女公主-奏奏💚",
+        "pinned_tweet_id": "2096142932147622373",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1374389254726455305/1780949984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093830641548922880/QYpa_zhH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10131,
+          "following_count": 520,
+          "like_count": 934,
+          "listed_count": 42,
+          "media_count": 886,
+          "tweet_count": 2359
+        },
+        "url": "https://t.co/i1TjdLx6mz",
+        "username": "xuemingjiai",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-01-31T21:05:47.000Z",
+        "description": "Q ：3961028752  🚪20  \n温柔系dom/s丨喜欢宰杀白给劣等畜丨兼营戒贡和非绿色树洞～\n脑弱送死能见识到小恶魔的一面🖤\n轻易对咱放松警惕可能会被宰掉哦",
+        "id": "1223351641384067077",
+        "is_identity_verified": false,
+        "location": "SOL III",
+        "most_recent_tweet_id": "2103385445392658587",
+        "name": "久墨.",
+        "pinned_tweet_id": "2067172182254563508",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1223351641384067077/1787220890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066436729868009472/JXmroN9d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 670,
+          "following_count": 98,
+          "like_count": 423,
+          "listed_count": 2,
+          "media_count": 52,
+          "tweet_count": 235
+        },
+        "url": "",
+        "username": "makinimmen",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "2105505359930798186",
+    "created_at": "2026-10-01T03:49:30.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T04:49:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105505359930798186"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1716073328220479489",
+          "start": 3,
+          "username": "zeiaiou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105505359930798186",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105264068269613291",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zeiaiou: 国庆假期愉快!辛勤工作的工蜂终于放假啦~可以拿着工资好好放松了呢~\n至于变态贡奴，负责赚钱就好了🖤让可爱的小浅来帮冤种消费吧🖤\n小浅需要几名专属报销奴隶，合力承担人家的开销🖤回报是人家的羞辱和变本加厉的提款哦🖤\n被小浅这样吃干抹净也太屈辱了吧，傻逼哥哥…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1400,
+        "media_key": "3_2105264061743235073",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTdmgo6aAAExdjv.jpg",
+        "width": 1044
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "2105505359930798186",
+        "created_at": "2026-10-01T03:49:30.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T04:49:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105505359930798186"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1716073328220479489",
+              "start": 3,
+              "username": "zeiaiou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105505359930798186",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105264068269613291",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zeiaiou: 国庆假期愉快!辛勤工作的工蜂终于放假啦~可以拿着工资好好放松了呢~\n至于变态贡奴，负责赚钱就好了🖤让可爱的小浅来帮冤种消费吧🖤\n小浅需要几名专属报销奴隶，合力承担人家的开销🖤回报是人家的羞辱和变本加厉的提款哦🖤\n被小浅这样吃干抹净也太屈辱了吧，傻逼哥哥…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105264061743235073"
+          ]
+        },
+        "author_id": "1716073328220479489",
+        "conversation_id": "2105264068269613291",
+        "created_at": "2026-09-30T11:50:42.000Z",
+        "display_text_range": [
+          0,
+          150
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T12:50:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105264068269613291"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 131,
+              "start": 128,
+              "tag": "贡奴"
+            },
+            {
+              "end": 137,
+              "start": 132,
+              "tag": "atm奴"
+            },
+            {
+              "end": 141,
+              "start": 138,
+              "tag": "白给"
+            },
+            {
+              "end": 145,
+              "start": 142,
+              "tag": "压榨"
+            },
+            {
+              "end": 150,
+              "start": 147,
+              "tag": "上贡"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OL7xcq13Jz",
+              "end": 174,
+              "expanded_url": "https://x.com/zeiaiou/status/2105264068269613291/photo/1",
+              "media_key": "3_2105264061743235073",
+              "start": 151,
+              "url": "https://t.co/OL7xcq13Jz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105264068269613291",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105264061743235073"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1028,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "国庆假期愉快!辛勤工作的工蜂终于放假啦~可以拿着工资好好放松了呢~\n至于变态贡奴，负责赚钱就好了🖤让可爱的小浅来帮冤种消费吧🖤\n小浅需要几名专属报销奴隶，合力承担人家的开销🖤回报是人家的羞辱和变本加厉的提款哦🖤\n被小浅这样吃干抹净也太屈辱了吧，傻逼哥哥🖤\n#贡奴 #atm奴 #白给 #压榨  #上贡 https://t.co/OL7xcq13Jz"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "文援，贡主♡\n亲友团如下，奏奏认证，绝不踩雷：@jingli1840489\n@chessy80978858\n@lingyu_nn\n@choeycholote\n@blakexiaonai\n@miaomiaomyoez2\n@GaoGaoLove_\n@jinli1dyz\n@Sama184396\n我的qq2829556413",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 53,
+                "start": 38,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "lingyu_nn"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "choeycholote"
+              },
+              {
+                "end": 92,
+                "start": 79,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 108,
+                "start": 93,
+                "username": "miaomiaomyoez2"
+              },
+              {
+                "end": 121,
+                "start": 109,
+                "username": "GaoGaoLove_"
+              },
+              {
+                "end": 132,
+                "start": 122,
+                "username": "jinli1dyz"
+              },
+              {
+                "end": 144,
+                "start": 133,
+                "username": "Sama184396"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zouzou-princess-fan-2.replit.app",
+                "end": 23,
+                "expanded_url": "https://zouzou-princess-fan-2.replit.app/",
+                "start": 0,
+                "url": "https://t.co/i1TjdLx6mz"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "is_identity_verified": false,
+        "location": "网站是奏游入口~",
+        "most_recent_tweet_id": "2105505359930798186",
+        "name": "超涩气超绿茶的魔女公主-奏奏💚",
+        "pinned_tweet_id": "2096142932147622373",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1374389254726455305/1780949984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093830641548922880/QYpa_zhH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10485,
+          "following_count": 528,
+          "like_count": 1030,
+          "listed_count": 43,
+          "media_count": 893,
+          "tweet_count": 2409
+        },
+        "url": "https://t.co/i1TjdLx6mz",
+        "username": "xuemingjiai",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-10-22T12:45:50.000Z",
+        "description": "抖m贡奴，超级鞋控，喜欢奇奇怪怪的规则化上贡\n持续招募愿意给小浅上贡回血的奴下奴血包哦，会残忍快速的吸干哥哥姐姐的身体的w\nqq3675490276\n备用号:@xiao_shen_ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 79,
+                "username": "xiao_shen_ovo"
+              }
+            ]
+          }
+        },
+        "id": "1716073328220479489",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105481860457627854",
+        "name": "小浅",
+        "pinned_tweet_id": "1993231576331882557",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1716073328220479489/1755499735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906245770661289984/L4T6_DA3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3540,
+          "following_count": 359,
+          "like_count": 3423,
+          "listed_count": 9,
+          "media_count": 71,
+          "tweet_count": 886
+        },
+        "url": "",
+        "username": "zeiaiou",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

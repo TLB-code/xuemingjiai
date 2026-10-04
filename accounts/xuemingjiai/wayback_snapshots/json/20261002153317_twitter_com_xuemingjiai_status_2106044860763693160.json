@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "2106044860763693160",
+    "created_at": "2026-10-02T15:33:17.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T16:33:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106044860763693160"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1483748053672726530",
+          "start": 3,
+          "username": "tianshangdeyue2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106044860763693160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105941659867656619",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tianshangdeyue2: 刚出道的星绮不太好意思压榨别人，没想到这样的心态却被坏小狗利用了。\n星绮认真跟小狗剧情文爱，可小狗转头就绕过星绮，去找星绮的主人上贡了好多……\n而且小狗在星绮面前还自称不会上贡……\n虽然星绮最终赚到的钱都要向主人上贡，但过程应该由星绮进…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2105940612663185409",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTnN1FfbkAElXki.jpg",
+        "width": 822
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "2106044860763693160",
+        "created_at": "2026-10-02T15:33:17.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T16:33:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106044860763693160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1483748053672726530",
+              "start": 3,
+              "username": "tianshangdeyue2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106044860763693160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105941659867656619",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tianshangdeyue2: 刚出道的星绮不太好意思压榨别人，没想到这样的心态却被坏小狗利用了。\n星绮认真跟小狗剧情文爱，可小狗转头就绕过星绮，去找星绮的主人上贡了好多……\n而且小狗在星绮面前还自称不会上贡……\n虽然星绮最终赚到的钱都要向主人上贡，但过程应该由星绮进…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105940612663185409"
+          ]
+        },
+        "author_id": "1483748053672726530",
+        "conversation_id": "2105941659867656619",
+        "created_at": "2026-10-02T08:43:12.000Z",
+        "display_text_range": [
+          0,
+          132
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T09:43:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105941659867656619"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OVe0CMP0RF",
+              "end": 156,
+              "expanded_url": "https://x.com/tianshangdeyue2/status/2105941659867656619/photo/1",
+              "media_key": "3_2105940612663185409",
+              "start": 133,
+              "url": "https://t.co/OVe0CMP0RF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105941659867656619",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105940612663185409"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "刚出道的星绮不太好意思压榨别人，没想到这样的心态却被坏小狗利用了。\n星绮认真跟小狗剧情文爱，可小狗转头就绕过星绮，去找星绮的主人上贡了好多……\n而且小狗在星绮面前还自称不会上贡……\n虽然星绮最终赚到的钱都要向主人上贡，但过程应该由星绮进行哦，奴下奴可没有那个资格！\n果然对待这样的小狗不应该有怜悯……\n最终的惩罚是把小狗寸止到无快感流精，戴上电击贞操锁，再远程剥夺小狗的贞操锁APP操作权限~\n把小狗的钱包彻底榨干净之前，是绝对不会开锁的~"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 975,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "刚出道的星绮不太好意思压榨别人，没想到这样的心态却被坏小狗利用了。\n星绮认真跟小狗剧情文爱，可小狗转头就绕过星绮，去找星绮的主人上贡了好多……\n而且小狗在星绮面前还自称不会上贡……\n虽然星绮最终赚到的钱都要向主人上贡，但过程应该由星绮进行哦，奴下奴可没有那个资格！ https://t.co/OVe0CMP0RF"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "文援，贡主♡\n亲友团如下，奏奏认证，绝不踩雷：@jingli1840489\n@chessy80978858\n@lingyu_nn\n@choeycholote\n@blakexiaonai\n@miaomiaomyoez2\n@GaoGaoLove_\n@jinli1dyz\n@Sama184396\n我的qq2829556413",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 53,
+                "start": 38,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "lingyu_nn"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "choeycholote"
+              },
+              {
+                "end": 92,
+                "start": 79,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 108,
+                "start": 93,
+                "username": "miaomiaomyoez2"
+              },
+              {
+                "end": 121,
+                "start": 109,
+                "username": "GaoGaoLove_"
+              },
+              {
+                "end": 132,
+                "start": 122,
+                "username": "jinli1dyz"
+              },
+              {
+                "end": 144,
+                "start": 133,
+                "username": "Sama184396"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zouzou-princess-fan-2.replit.app",
+                "end": 23,
+                "expanded_url": "https://zouzou-princess-fan-2.replit.app/",
+                "start": 0,
+                "url": "https://t.co/i1TjdLx6mz"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "is_identity_verified": false,
+        "location": "网站是奏游入口~",
+        "most_recent_tweet_id": "2106044860763693160",
+        "name": "超涩气超绿茶的魔女公主-奏奏💚",
+        "pinned_tweet_id": "2096142932147622373",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1374389254726455305/1780949984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093830641548922880/QYpa_zhH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10641,
+          "following_count": 533,
+          "like_count": 1042,
+          "listed_count": 43,
+          "media_count": 895,
+          "tweet_count": 2423
+        },
+        "url": "https://t.co/i1TjdLx6mz",
+        "username": "xuemingjiai",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-01-19T10:28:03.000Z",
+        "description": "抖M/文援奴/小说作者\n是@xuemingjiai放出来的小狗，可作为最忠实的肉便器侍奉客人，也可作为……呃，应该不会有人下贱到想作为奴下奴被踩在脚下吧？\n接受R18G和幻想XP，同时也接H文定制哦，纯手写~\nQ：2020822371，半小时30，一小时60~",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 13,
+                "username": "xuemingjiai"
+              }
+            ]
+          }
+        },
+        "id": "1483748053672726530",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105948172933840998",
+        "name": "星绮",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1483748053672726530/1790422146",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103807863114317824/_HZ5hIrg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 17,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 16
+        },
+        "url": "",
+        "username": "tianshangdeyue2",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

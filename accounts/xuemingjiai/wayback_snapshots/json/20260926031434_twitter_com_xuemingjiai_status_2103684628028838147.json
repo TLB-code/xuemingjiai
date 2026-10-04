@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "2103684628028838147",
+    "created_at": "2026-09-26T03:14:34.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T04:14:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103684628028838147"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1374389254726455305",
+          "start": 3,
+          "username": "xuemingjiai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103684628028838147",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 37
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103559196272963832",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xuemingjiai: 宝宝们晚上好~这里是奏奏妈咪♡\n今天想请小钱包奏奏控们帮个忙~\n在那之前呢...首先让自己兴奋起来，奏奏妈咪知道大家想要这个♡\n(凑到耳边吹气)\n“发情...勃起...兴奋♡”\n好啦~接下来请保持兴奋的状态阅读奏游妈咪的推文哦~\n最近呢，奏奏妈…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1216,
+        "media_key": "3_2103559093655101440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTFX2b1a4AABg72.jpg",
+        "width": 832
+      },
+      {
+        "height": 720,
+        "media_key": "3_2103559178841411584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTFX7ZLa0AAwlHm.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "2103684628028838147",
+        "created_at": "2026-09-26T03:14:34.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T04:14:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103684628028838147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1374389254726455305",
+              "start": 3,
+              "username": "xuemingjiai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103684628028838147",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 37
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103559196272963832",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xuemingjiai: 宝宝们晚上好~这里是奏奏妈咪♡\n今天想请小钱包奏奏控们帮个忙~\n在那之前呢...首先让自己兴奋起来，奏奏妈咪知道大家想要这个♡\n(凑到耳边吹气)\n“发情...勃起...兴奋♡”\n好啦~接下来请保持兴奋的状态阅读奏游妈咪的推文哦~\n最近呢，奏奏妈…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103559093655101440",
+            "3_2103559178841411584"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "2103559196272963832",
+        "created_at": "2026-09-25T18:56:09.000Z",
+        "display_text_range": [
+          0,
+          147
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T19:56:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103559196272963832"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NsZf4pjVzD",
+              "end": 171,
+              "expanded_url": "https://x.com/xuemingjiai/status/2103559196272963832/photo/1",
+              "media_key": "3_2103559093655101440",
+              "start": 148,
+              "url": "https://t.co/NsZf4pjVzD"
+            },
+            {
+              "display_url": "pic.x.com/NsZf4pjVzD",
+              "end": 171,
+              "expanded_url": "https://x.com/xuemingjiai/status/2103559196272963832/photo/1",
+              "media_key": "3_2103559178841411584",
+              "start": 148,
+              "url": "https://t.co/NsZf4pjVzD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103559196272963832",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103559093655101440"
+          },
+          {
+            "media_key": "3_2103559178841411584"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "宝宝们晚上好~这里是奏奏妈咪♡\n今天想请小钱包奏奏控们帮个忙~\n在那之前呢...首先让自己兴奋起来，奏奏妈咪知道大家想要这个♡\n(凑到耳边吹气)\n“发情...勃起...兴奋♡”\n好啦~接下来请保持兴奋的状态阅读奏游妈咪的推文哦~\n最近呢，奏奏妈咪收了来自一只名叫“砂糖”的舔狗钱包寄过来的钥匙~\n是什么钥匙?车钥匙~房间钥匙?\n都不是啦♡是...锁住自己下面废物小肉虫的贞操锁钥匙哦♡\n而且据她本人所说，只有这两把钥匙可以开锁...也就是说，只要钥匙一直在奏奏妈咪手里，母狗砂糖就会一直被锁着~每天发情顶锁~越来越废~对本公主言听计从~真的会被毁掉人生的♡\n现在已经锁了两周左右了~母狗砂糖每天都在求着奏奏妈咪开锁呢~于是“心软”答应了她的请求~奏奏妈咪是不是对母狗太好了呢♡\n但是呢，既然是开锁~肯定不可能让母狗那么容易就得到高潮啦~所以需要大家帮忙~也需要大家来一起做坏事~\n用这条推文最后的流量来决定母狗砂糖的锁期♡\n玩法如下：\n截止10.1日凌晨0点~\n每个评论加一天~(重复不算w)\n每个转发加半天~\n每个点赞加一个小时~\n奏奏妈咪也会根据最后的统计，说到做到的归还钥匙哦♡\n为了回馈大家的帮助~一键三连以后带着截图来找奏奏妈咪~会获得一份小礼物哦♡\n拜托大家了~请...不留余地的，兴奋的...做坏事吧♡"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 2308,
+          "like_count": 147,
+          "quote_count": 0,
+          "reply_count": 30,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "宝宝们晚上好~这里是奏奏妈咪♡\n今天想请小钱包奏奏控们帮个忙~\n在那之前呢...首先让自己兴奋起来，奏奏妈咪知道大家想要这个♡\n(凑到耳边吹气)\n“发情...勃起...兴奋♡”\n好啦~接下来请保持兴奋的状态阅读奏游妈咪的推文哦~\n最近呢，奏奏妈咪收了来自一只名叫“砂糖”的舔狗钱包寄过来的钥匙~ https://t.co/NsZf4pjVzD"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "文援，贡主♡\n亲友团如下，奏奏认证，绝不踩雷：@jingli1840489\n@chessy80978858\n@lingyu_nn\n@choeycholote\n@blakexiaonai\n@miaomiaomyoez2\n@GaoGaoLove_\n@jinli1dyz\n@Sama184396\n我的qq2829556413",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 53,
+                "start": 38,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "lingyu_nn"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "choeycholote"
+              },
+              {
+                "end": 92,
+                "start": 79,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 108,
+                "start": 93,
+                "username": "miaomiaomyoez2"
+              },
+              {
+                "end": 121,
+                "start": 109,
+                "username": "GaoGaoLove_"
+              },
+              {
+                "end": 132,
+                "start": 122,
+                "username": "jinli1dyz"
+              },
+              {
+                "end": 144,
+                "start": 133,
+                "username": "Sama184396"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zouzou-princess-fan-2.replit.app",
+                "end": 23,
+                "expanded_url": "https://zouzou-princess-fan-2.replit.app/",
+                "start": 0,
+                "url": "https://t.co/i1TjdLx6mz"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "is_identity_verified": false,
+        "location": "网站是奏游入口~",
+        "most_recent_tweet_id": "2103684628028838147",
+        "name": "超涩气超绿茶的魔女公主-奏奏💚",
+        "pinned_tweet_id": "2096142932147622373",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1374389254726455305/1780949984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093830641548922880/QYpa_zhH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10147,
+          "following_count": 519,
+          "like_count": 943,
+          "listed_count": 42,
+          "media_count": 887,
+          "tweet_count": 2361
+        },
+        "url": "https://t.co/i1TjdLx6mz",
+        "username": "xuemingjiai",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

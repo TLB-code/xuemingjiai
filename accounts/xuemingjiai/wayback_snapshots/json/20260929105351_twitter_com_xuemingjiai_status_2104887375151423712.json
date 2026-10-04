@@ -1,0 +1,351 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "2104887375151423712",
+    "created_at": "2026-09-29T10:53:51.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T11:53:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104887375151423712"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1984115707815325698",
+          "start": 3,
+          "username": "jingli1840489"
+        },
+        {
+          "end": 72,
+          "id": "2054735161464594432",
+          "start": 57,
+          "username": "miaomiaomyoez2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104887375151423712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104880898231738772",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jingli1840489: 宝宝们朋友们好久不见啦~久违的更新内容是和一位非常可爱又厉害的后辈花卷妹妹（@miaomiaomyoez2）联合推出的双人压榨哦~🖤\n已经一起用各种涩气的方式让不少发情的小脑袋舒服到理智丧失♡~为了获取更多的快感而向我们败北喷金到求饶了呢♡…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 832,
+        "media_key": "3_2104878638525206528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTYH-DiaUAAKKgc.jpg",
+        "width": 1216
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "2104887375151423712",
+        "created_at": "2026-09-29T10:53:51.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T11:53:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104887375151423712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1984115707815325698",
+              "start": 3,
+              "username": "jingli1840489"
+            },
+            {
+              "end": 72,
+              "id": "2054735161464594432",
+              "start": 57,
+              "username": "miaomiaomyoez2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104887375151423712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104880898231738772",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jingli1840489: 宝宝们朋友们好久不见啦~久违的更新内容是和一位非常可爱又厉害的后辈花卷妹妹（@miaomiaomyoez2）联合推出的双人压榨哦~🖤\n已经一起用各种涩气的方式让不少发情的小脑袋舒服到理智丧失♡~为了获取更多的快感而向我们败北喷金到求饶了呢♡…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104878638525206528"
+          ]
+        },
+        "author_id": "1984115707815325698",
+        "conversation_id": "2104880898231738772",
+        "created_at": "2026-09-29T10:28:07.000Z",
+        "display_text_range": [
+          0,
+          152
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T11:28:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104880898231738772"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 53,
+              "id": "2054735161464594432",
+              "start": 38,
+              "username": "miaomiaomyoez2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1rOrtaP8i0",
+              "end": 176,
+              "expanded_url": "https://x.com/jingli1840489/status/2104880898231738772/photo/1",
+              "media_key": "3_2104878638525206528",
+              "start": 153,
+              "url": "https://t.co/1rOrtaP8i0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104880898231738772",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104878638525206528"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "宝宝们朋友们好久不见啦~久违的更新内容是和一位非常可爱又厉害的后辈花卷妹妹（@miaomiaomyoez2）联合推出的双人压榨哦~🖤\n已经一起用各种涩气的方式让不少发情的小脑袋舒服到理智丧失♡~为了获取更多的快感而向我们败北喷金到求饶了呢♡~\n呐~你也想来试试，与我们二人度过一个美妙又难忘的夜晚吗~❤️ https://t.co/1rOrtaP8i0"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "文援，贡主♡\n亲友团如下，奏奏认证，绝不踩雷：@jingli1840489\n@chessy80978858\n@lingyu_nn\n@choeycholote\n@blakexiaonai\n@miaomiaomyoez2\n@GaoGaoLove_\n@jinli1dyz\n@Sama184396\n我的qq2829556413",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 53,
+                "start": 38,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "lingyu_nn"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "choeycholote"
+              },
+              {
+                "end": 92,
+                "start": 79,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 108,
+                "start": 93,
+                "username": "miaomiaomyoez2"
+              },
+              {
+                "end": 121,
+                "start": 109,
+                "username": "GaoGaoLove_"
+              },
+              {
+                "end": 132,
+                "start": 122,
+                "username": "jinli1dyz"
+              },
+              {
+                "end": 144,
+                "start": 133,
+                "username": "Sama184396"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zouzou-princess-fan-2.replit.app",
+                "end": 23,
+                "expanded_url": "https://zouzou-princess-fan-2.replit.app/",
+                "start": 0,
+                "url": "https://t.co/i1TjdLx6mz"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "is_identity_verified": false,
+        "location": "网站是奏游入口~",
+        "most_recent_tweet_id": "2104887375151423712",
+        "name": "超涩气超绿茶的魔女公主-奏奏💚",
+        "pinned_tweet_id": "2096142932147622373",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1374389254726455305/1780949984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093830641548922880/QYpa_zhH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10242,
+          "following_count": 528,
+          "like_count": 1028,
+          "listed_count": 42,
+          "media_count": 892,
+          "tweet_count": 2403
+        },
+        "url": "https://t.co/i1TjdLx6mz",
+        "username": "xuemingjiai",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-31T04:31:00.000Z",
+        "description": "可以是温柔妈咪/可爱妹妹/知心姐姐~也可以是可怕残忍压榨主使用钱包哦🖤\n目前主要玩法：剧情文爱/黑心/绿茶/洗脑/榨金/寸止/催眠/模拟上贡/早泄挑战/贞操管理等💕\n门牌号：q3775591357，致力于让每位朋友都开开心心舒舒服服的喔❤️全天营业，深夜常驻，欢迎前来光顾哦~\n最可爱的奏奏：@xuemingjiai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 158,
+                "start": 146,
+                "username": "xuemingjiai"
+              }
+            ]
+          }
+        },
+        "id": "1984115707815325698",
+        "is_identity_verified": false,
+        "location": "镜璃的温暖小床~深夜也欢迎打扰哦~",
+        "most_recent_tweet_id": "2104885639032529039",
+        "name": "是镜璃喔~",
+        "pinned_tweet_id": "1993433669315486013",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1984115707815325698/1762218828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985515782550536192/bMHPg-lN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1729,
+          "following_count": 85,
+          "like_count": 368,
+          "listed_count": 3,
+          "media_count": 33,
+          "tweet_count": 182
+        },
+        "url": "",
+        "username": "jingli1840489",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-14T01:27:19.000Z",
+        "description": "抖s温柔系压榨主，擅长从根本上下手洗脑，让你从认知上改变原来的观点，射精管理，剧情向，重口调教，寸止，早泄等等。门牌号773507138",
+        "id": "2054735161464594432",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104539028922228896",
+        "name": "卷卷不溪溪（互推私信）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054735161464594432/1784799736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100207558275600384/uCwzs5fK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 747,
+          "following_count": 32,
+          "like_count": 4,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 41
+        },
+        "url": "",
+        "username": "miaomiaomyoez2",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

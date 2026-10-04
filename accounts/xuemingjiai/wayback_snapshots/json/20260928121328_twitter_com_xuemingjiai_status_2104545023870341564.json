@@ -1,0 +1,339 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2104538944335659008"
+      ],
+      "media_source_tweet_id": [
+        "2104538961150705897"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "conversation_id": "2104545023870341564",
+    "created_at": "2026-09-28T12:13:28.000Z",
+    "display_text_range": [
+      0,
+      100
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T13:13:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104545023870341564"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2054735161464594432",
+          "start": 3,
+          "username": "miaomiaomyoez2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PV0kLOIJ6C",
+          "end": 100,
+          "expanded_url": "https://x.com/miaomiaomyoez2/status/2104538961150705897/photo/1",
+          "media_key": "3_2104538944335659008",
+          "start": 77,
+          "url": "https://t.co/PV0kLOIJ6C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104545023870341564",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2104538944335659008"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104538961150705897",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @miaomiaomyoez2: 这个线下特殊服务指的是花卷以施虐者的身份用各种各样的玩具调戏你们\n\n每个月在花卷这边消费前三就可以获得这个资格… https://t.co/PV0kLOIJ6C"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2104538944335659008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTTTBQEaQAAbyzb.jpg",
+        "width": 1229
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104538944335659008"
+          ],
+          "media_source_tweet_id": [
+            "2104538961150705897"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "conversation_id": "2104545023870341564",
+        "created_at": "2026-09-28T12:13:28.000Z",
+        "display_text_range": [
+          0,
+          100
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T13:13:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104545023870341564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2054735161464594432",
+              "start": 3,
+              "username": "miaomiaomyoez2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PV0kLOIJ6C",
+              "end": 100,
+              "expanded_url": "https://x.com/miaomiaomyoez2/status/2104538961150705897/photo/1",
+              "media_key": "3_2104538944335659008",
+              "start": 77,
+              "url": "https://t.co/PV0kLOIJ6C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104545023870341564",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104538944335659008"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104538961150705897",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @miaomiaomyoez2: 这个线下特殊服务指的是花卷以施虐者的身份用各种各样的玩具调戏你们\n\n每个月在花卷这边消费前三就可以获得这个资格… https://t.co/PV0kLOIJ6C"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104538944335659008"
+          ]
+        },
+        "author_id": "2054735161464594432",
+        "conversation_id": "2104538961150705897",
+        "created_at": "2026-09-28T11:49:23.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T12:49:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104538961150705897"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PV0kLOIJ6C",
+              "end": 79,
+              "expanded_url": "https://x.com/miaomiaomyoez2/status/2104538961150705897/photo/1",
+              "media_key": "3_2104538944335659008",
+              "start": 56,
+              "url": "https://t.co/PV0kLOIJ6C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104538961150705897",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104538944335659008"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "这个线下特殊服务指的是花卷以施虐者的身份用各种各样的玩具调戏你们\n\n每个月在花卷这边消费前三就可以获得这个资格\n\n【花恋通行证】当然为了防止很多人都没有机会或者说是防止被“人生成功者”钱包君们进行恶意的抢榜炸鱼，每个月的第一会被花卷列入特殊行列，以后都不会结算在每月榜单，但是有直接约见花卷的资格。\n\n【特别周】每月的15号那一周，会被花卷例如特别周，是保留给上个月结算在第四第五那些不甘心的人。这一周的满额消费会加上上个月消费最多的那一周，重新结算出一个榜单，不被算在［每月榜单］，但不影响每月榜单的积累。\n\n【回收站】因为有很多定制角色的cos，就会导致花卷家里有堆积不下的巨量cos服，会被加入回收站，所以价格不会特别高，这些衣服不会被清洗，购买之后会被直接打包装袋发走，鞋子和袜子会被单独用真空袋打包（可别被熏傻了），详细掉落哪些可以私信问花卷，另外这个记录会以1.2倍计入榜单。\n\n会平均15天总结一次前五金额，并截图发推，让大家都看到哦～作为“无法竞争”的有些人，这或许是很好撸的素材呢"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这个线下特殊服务指的是花卷以施虐者的身份用各种各样的玩具调戏你们\n\n每个月在花卷这边消费前三就可以获得这个资格 https://t.co/PV0kLOIJ6C"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "文援，贡主♡\n亲友团如下，奏奏认证，绝不踩雷：@jingli1840489\n@chessy80978858\n@lingyu_nn\n@choeycholote\n@blakexiaonai\n@miaomiaomyoez2\n@GaoGaoLove_\n@jinli1dyz\n@Sama184396\n我的qq2829556413",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 53,
+                "start": 38,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "lingyu_nn"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "choeycholote"
+              },
+              {
+                "end": 92,
+                "start": 79,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 108,
+                "start": 93,
+                "username": "miaomiaomyoez2"
+              },
+              {
+                "end": 121,
+                "start": 109,
+                "username": "GaoGaoLove_"
+              },
+              {
+                "end": 132,
+                "start": 122,
+                "username": "jinli1dyz"
+              },
+              {
+                "end": 144,
+                "start": 133,
+                "username": "Sama184396"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zouzou-princess-fan-2.replit.app",
+                "end": 23,
+                "expanded_url": "https://zouzou-princess-fan-2.replit.app/",
+                "start": 0,
+                "url": "https://t.co/i1TjdLx6mz"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "is_identity_verified": false,
+        "location": "网站是奏游入口~",
+        "most_recent_tweet_id": "2104545023870341564",
+        "name": "超涩气超绿茶的魔女公主-奏奏💚",
+        "pinned_tweet_id": "2096142932147622373",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1374389254726455305/1780949984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093830641548922880/QYpa_zhH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10215,
+          "following_count": 525,
+          "like_count": 1020,
+          "listed_count": 42,
+          "media_count": 891,
+          "tweet_count": 2398
+        },
+        "url": "https://t.co/i1TjdLx6mz",
+        "username": "xuemingjiai",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-14T01:27:19.000Z",
+        "description": "抖s温柔系压榨主，擅长从根本上下手洗脑，让你从认知上改变原来的观点，射精管理，剧情向，重口调教，寸止，早泄等等。门牌号773507138",
+        "id": "2054735161464594432",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104539028922228896",
+        "name": "卷卷不溪溪（互推私信）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2054735161464594432/1784799736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100207558275600384/uCwzs5fK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 669,
+          "following_count": 32,
+          "like_count": 4,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 41
+        },
+        "url": "",
+        "username": "miaomiaomyoez2",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

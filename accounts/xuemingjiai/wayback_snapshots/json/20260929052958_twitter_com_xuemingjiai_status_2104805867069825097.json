@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "2104805867069825097",
+    "created_at": "2026-09-29T05:29:58.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T06:29:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104805867069825097"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2048655348853293056",
+          "start": 3,
+          "username": "Nanakofindom"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104805867069825097",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104804504579555368",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nanakofindom: 作为一条白痴贡狗，不管主人什么时候给你发消息都要做到以下：\n1.看到主人消息时随时做到秒回后跪在地上磕头🖤\n2.主人能主动发消息给你是莫大的恩赐你应该支付感恩费🏧\n3.主人打字的手很累要支付主人打字的辛苦费🖤\n4.主人不回复消息的时候要用红包…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 777,
+        "media_key": "3_2104804494274101248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTXEiSragAAn5Ju.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "2104805867069825097",
+        "created_at": "2026-09-29T05:29:58.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T06:29:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104805867069825097"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2048655348853293056",
+              "start": 3,
+              "username": "Nanakofindom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104805867069825097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104804504579555368",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nanakofindom: 作为一条白痴贡狗，不管主人什么时候给你发消息都要做到以下：\n1.看到主人消息时随时做到秒回后跪在地上磕头🖤\n2.主人能主动发消息给你是莫大的恩赐你应该支付感恩费🏧\n3.主人打字的手很累要支付主人打字的辛苦费🖤\n4.主人不回复消息的时候要用红包…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104804494274101248"
+          ]
+        },
+        "author_id": "2048655348853293056",
+        "conversation_id": "2104804504579555368",
+        "created_at": "2026-09-29T05:24:33.000Z",
+        "display_text_range": [
+          0,
+          147
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T06:24:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104804504579555368"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 138,
+              "start": 136,
+              "tag": "贡"
+            },
+            {
+              "end": 143,
+              "start": 139,
+              "tag": "atm"
+            },
+            {
+              "end": 147,
+              "start": 144,
+              "tag": "女s"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lFMEDOytVg",
+              "end": 171,
+              "expanded_url": "https://x.com/Nanakofindom/status/2104804504579555368/photo/1",
+              "media_key": "3_2104804494274101248",
+              "start": 148,
+              "url": "https://t.co/lFMEDOytVg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104804504579555368",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104804494274101248"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "作为一条白痴贡狗，不管主人什么时候给你发消息都要做到以下：\n1.看到主人消息时随时做到秒回后跪在地上磕头🖤\n2.主人能主动发消息给你是莫大的恩赐你应该支付感恩费🏧\n3.主人打字的手很累要支付主人打字的辛苦费🖤\n4.主人不回复消息的时候要用红包、赞赏码来提醒主人回复消息🖤\n#贡 #atm #女s https://t.co/lFMEDOytVg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "文援，贡主♡\n亲友团如下，奏奏认证，绝不踩雷：@jingli1840489\n@chessy80978858\n@lingyu_nn\n@choeycholote\n@blakexiaonai\n@miaomiaomyoez2\n@GaoGaoLove_\n@jinli1dyz\n@Sama184396\n我的qq2829556413",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 53,
+                "start": 38,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "lingyu_nn"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "choeycholote"
+              },
+              {
+                "end": 92,
+                "start": 79,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 108,
+                "start": 93,
+                "username": "miaomiaomyoez2"
+              },
+              {
+                "end": 121,
+                "start": 109,
+                "username": "GaoGaoLove_"
+              },
+              {
+                "end": 132,
+                "start": 122,
+                "username": "jinli1dyz"
+              },
+              {
+                "end": 144,
+                "start": 133,
+                "username": "Sama184396"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zouzou-princess-fan-2.replit.app",
+                "end": 23,
+                "expanded_url": "https://zouzou-princess-fan-2.replit.app/",
+                "start": 0,
+                "url": "https://t.co/i1TjdLx6mz"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "is_identity_verified": false,
+        "location": "网站是奏游入口~",
+        "most_recent_tweet_id": "2104805867069825097",
+        "name": "超涩气超绿茶的魔女公主-奏奏💚",
+        "pinned_tweet_id": "2096142932147622373",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1374389254726455305/1780949984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093830641548922880/QYpa_zhH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10233,
+          "following_count": 527,
+          "like_count": 1025,
+          "listed_count": 42,
+          "media_count": 892,
+          "tweet_count": 2402
+        },
+        "url": "https://t.co/i1TjdLx6mz",
+        "username": "xuemingjiai",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-27T06:49:54.000Z",
+        "description": "前5k粉文媛 针对各位喜欢被洗脑男m营业的坏女人🖤欢迎各位无法控制大脑的杂鱼脚奴舔狗们叩响门牌自觉送死🖤 🚪：15r 压榨单可抵🚪：3943700844 \n最坏的学妹：@Tsuruko_04",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 84,
+                "username": "Tsuruko_04"
+              }
+            ]
+          }
+        },
+        "id": "2048655348853293056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104804504579555368",
+        "name": "Nainai",
+        "pinned_tweet_id": "2063241241656225888",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2048655348853293056/1777273783",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048656361677041664/wlwS2-2R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345,
+          "following_count": 10,
+          "like_count": 31,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 57
+        },
+        "url": "",
+        "username": "Nanakofindom",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
