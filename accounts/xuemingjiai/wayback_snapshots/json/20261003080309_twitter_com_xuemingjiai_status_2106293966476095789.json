@@ -1,0 +1,432 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "2106293966476095789",
+    "created_at": "2026-10-03T08:03:09.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T09:03:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106293966476095789"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2066221915224801280",
+          "start": 3,
+          "username": "jinli1dyz"
+        },
+        {
+          "end": 95,
+          "id": "1374389254726455305",
+          "start": 83,
+          "username": "xuemingjiai"
+        },
+        {
+          "end": 117,
+          "id": "2021521109342973952",
+          "start": 104,
+          "username": "choeycholote"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106293966476095789",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106241211875143903",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jinli1dyz: 大家好呀～这里是槿离♡好像…从入圈以来都没有一个完整的自我介绍呀♡\n目前～还在有和:\n黑心男娘小沫沫（@Mo113m000）\n奏奏妈咪（@xuemingjiai）\n天使小亦姐姐（@choeycholote）\n的双调合作哦♡欢迎各位前来送死（划掉）愉…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3527,
+        "media_key": "3_2106241171911843840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTrfL78boAAOf-j.jpg",
+        "width": 1440
+      },
+      {
+        "alt_text": "上贡♡吐金♡吸金♡吸脑♡喷金♡射金♡白痴♡贡猪♡",
+        "height": 2522,
+        "media_key": "3_2106241188923908096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTrfM7UbIAAZmx0.jpg",
+        "width": 3567
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "2106293966476095789",
+        "created_at": "2026-10-03T08:03:09.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T09:03:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106293966476095789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2066221915224801280",
+              "start": 3,
+              "username": "jinli1dyz"
+            },
+            {
+              "end": 95,
+              "id": "1374389254726455305",
+              "start": 83,
+              "username": "xuemingjiai"
+            },
+            {
+              "end": 117,
+              "id": "2021521109342973952",
+              "start": 104,
+              "username": "choeycholote"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106293966476095789",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106241211875143903",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jinli1dyz: 大家好呀～这里是槿离♡好像…从入圈以来都没有一个完整的自我介绍呀♡\n目前～还在有和:\n黑心男娘小沫沫（@Mo113m000）\n奏奏妈咪（@xuemingjiai）\n天使小亦姐姐（@choeycholote）\n的双调合作哦♡欢迎各位前来送死（划掉）愉…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106241171911843840",
+            "3_2106241188923908096"
+          ]
+        },
+        "author_id": "2066221915224801280",
+        "conversation_id": "2106241211875143903",
+        "created_at": "2026-10-03T04:33:31.000Z",
+        "display_text_range": [
+          0,
+          160
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T05:33:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106241211875143903"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 80,
+              "id": "1374389254726455305",
+              "start": 68,
+              "username": "xuemingjiai"
+            },
+            {
+              "end": 102,
+              "id": "2021521109342973952",
+              "start": 89,
+              "username": "choeycholote"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zwO1V4t9YT",
+              "end": 184,
+              "expanded_url": "https://x.com/jinli1dyz/status/2106241211875143903/photo/1",
+              "media_key": "3_2106241171911843840",
+              "start": 161,
+              "url": "https://t.co/zwO1V4t9YT"
+            },
+            {
+              "display_url": "pic.x.com/zwO1V4t9YT",
+              "end": 184,
+              "expanded_url": "https://x.com/jinli1dyz/status/2106241211875143903/photo/1",
+              "media_key": "3_2106241188923908096",
+              "start": 161,
+              "url": "https://t.co/zwO1V4t9YT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106241211875143903",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106241171911843840"
+          },
+          {
+            "alt_text": "上贡♡吐金♡吸金♡吸脑♡喷金♡射金♡白痴♡贡猪♡",
+            "media_key": "3_2106241188923908096"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 159,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "大家好呀～这里是槿离♡好像…从入圈以来都没有一个完整的自我介绍呀♡\n目前～还在有和:\n黑心男娘小沫沫（@Mo113m000）\n奏奏妈咪（@xuemingjiai）\n天使小亦姐姐（@choeycholote）\n的双调合作哦♡欢迎各位前来送死（划掉）愉快玩耍哦♡\n\n平时的营业时间是早上8点到晚上两点～周末和节假日是全天哦♡ https://t.co/zwO1V4t9YT"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "文援，贡主♡\n亲友团如下，奏奏认证，绝不踩雷：@jingli1840489\n@chessy80978858\n@lingyu_nn\n@choeycholote\n@blakexiaonai\n@miaomiaomyoez2\n@GaoGaoLove_\n@jinli1dyz\n@Sama184396\n我的qq2829556413",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 53,
+                "start": 38,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "lingyu_nn"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "choeycholote"
+              },
+              {
+                "end": 92,
+                "start": 79,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 108,
+                "start": 93,
+                "username": "miaomiaomyoez2"
+              },
+              {
+                "end": 121,
+                "start": 109,
+                "username": "GaoGaoLove_"
+              },
+              {
+                "end": 132,
+                "start": 122,
+                "username": "jinli1dyz"
+              },
+              {
+                "end": 144,
+                "start": 133,
+                "username": "Sama184396"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zouzou-princess-fan-2.replit.app",
+                "end": 23,
+                "expanded_url": "https://zouzou-princess-fan-2.replit.app/",
+                "start": 0,
+                "url": "https://t.co/i1TjdLx6mz"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "is_identity_verified": false,
+        "location": "网站是奏游入口~",
+        "most_recent_tweet_id": "2106293966476095789",
+        "name": "超涩气超绿茶的魔女公主-奏奏💚",
+        "pinned_tweet_id": "2096142932147622373",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1374389254726455305/1780949984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093830641548922880/QYpa_zhH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10686,
+          "following_count": 533,
+          "like_count": 1046,
+          "listed_count": 43,
+          "media_count": 895,
+          "tweet_count": 2426
+        },
+        "url": "https://t.co/i1TjdLx6mz",
+        "username": "xuemingjiai",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-14T18:11:37.000Z",
+        "description": "一只堕落的小狐狸💜，这里只有温柔但又险要的陷阱，不会有细声细语安抚，只会被人家爆■，提■，榨■🖤被人家玩弄洗脑成一只会吐金币的■智贱■🖤来吧找人家玩吧🖤傻■🖤只有无尽的地狱等着你哦💜\n黑心可爱沫沫@Mo113mooo\n最喜欢的奏奏@xuemingjiai \n秋秋3851673439 🚪10r",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 98,
+                "username": "Mo113mooo"
+              },
+              {
+                "end": 127,
+                "start": 115,
+                "username": "xuemingjiai"
+              }
+            ]
+          }
+        },
+        "id": "2066221915224801280",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106254735510794321",
+        "name": "槿离离离离",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2066221915224801280/1782551966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070798916153749504/o4pZ7A_Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 687,
+          "following_count": 40,
+          "like_count": 370,
+          "listed_count": 3,
+          "media_count": 38,
+          "tweet_count": 77
+        },
+        "url": "",
+        "username": "jinli1dyz",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-11T09:46:48.000Z",
+        "description": "只是一位温柔残忍的高贵天使哦🖤\n喜欢利用贱猪的xp进行宰杀♡强制提款♡洗脑物化♡等“顺手”的行为~\n门牌号:3111252664，🚪42.6\n妹妹:@xiaoyu_113996\n亲爱的奏奏:@xuemingjiai\ntg洗脑频道链接:https://t.co/hsAKBxDTWn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 74,
+                "username": "xiaoyu_113996"
+              },
+              {
+                "end": 107,
+                "start": 95,
+                "username": "xuemingjiai"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/findomfootcros",
+                "end": 140,
+                "expanded_url": "https://t.me/findomfootcros",
+                "start": 117,
+                "url": "https://t.co/hsAKBxDTWn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forms.cloud.microsoft/Pages/Response…",
+                "end": 23,
+                "expanded_url": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAANAArENW6h",
+                "start": 0,
+                "url": "https://t.co/98jWAAQ8nF"
+              }
+            ]
+          }
+        },
+        "id": "2021521109342973952",
+        "is_identity_verified": false,
+        "location": "洗脑问卷🖤",
+        "most_recent_tweet_id": "2103640005289849245",
+        "name": "༺乔乔亦子༻",
+        "pinned_tweet_id": "2100168189640589518",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021523739981287424/TOaxJqOQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 647,
+          "following_count": 6,
+          "like_count": 74,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 34
+        },
+        "url": "https://t.co/98jWAAQ8nF",
+        "username": "choeycholote",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

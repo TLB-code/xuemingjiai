@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "2107066438775373935",
+    "created_at": "2026-10-05T11:12:41.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T12:12:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107066438775373935"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1555365870649708544",
+          "start": 3,
+          "username": "chessy80978858"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107066438775373935",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106747645113073667",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chessy80978858: 万粉的礼物是初次做的温馨洗脑向问卷 虽然应该是初版 但还是下了一定心血做好的  大约做了超过100+的题目 有彩蛋和分支哦~💛希望会被喜欢  之后也应该会逐渐完善更多更多别的什么的 如果反响好也会做出更多其他的\n目前的话 这个月内半价25…"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "到达1w粉了 真的不敢相信 在吃了第一次冻结的时候那个时候是真的沮丧...第二次...在9k多时候被冻都以为要成为心结了呢 接着还有第三次....已经不知道是受了多少的鼓励和期待才能做到连续三次申诉成功解封呢，无法用言语形容了，是大家，每位小天使共同造就的奇迹。\n这一路走来，从个位数的关注到现在的1w+，每一个点赞、每一条评论、每一次分享都让我感到无比温暖。记得最开始发帖时的忐忑，担心会不会有人看，会不会有人喜欢，而现在看到大家的支持和鼓励，真的觉得自己被治愈了无数次❤️虽然现在被标记了吃了很严重的限流，但还是特别想谢谢那些一直陪到现在现在的粉丝，还有会第一时间看更新的粉丝，以及最近的，未来的，好多好多，真的很开心。不能放开手脚更新确实感觉很对不起大家x",
+        "height": 2400,
+        "media_key": "3_2106747238655635456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTyrc5easAAUloo.jpg",
+        "width": 1792
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "2107066438775373935",
+        "created_at": "2026-10-05T11:12:41.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T12:12:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107066438775373935"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1555365870649708544",
+              "start": 3,
+              "username": "chessy80978858"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107066438775373935",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106747645113073667",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chessy80978858: 万粉的礼物是初次做的温馨洗脑向问卷 虽然应该是初版 但还是下了一定心血做好的  大约做了超过100+的题目 有彩蛋和分支哦~💛希望会被喜欢  之后也应该会逐渐完善更多更多别的什么的 如果反响好也会做出更多其他的\n目前的话 这个月内半价25…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106747238655635456"
+          ]
+        },
+        "author_id": "1555365870649708544",
+        "conversation_id": "2106747645113073667",
+        "created_at": "2026-10-04T14:05:54.000Z",
+        "display_text_range": [
+          0,
+          144
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T15:05:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106747645113073667"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ByCbLCCLVK",
+              "end": 168,
+              "expanded_url": "https://x.com/chessy80978858/status/2106747645113073667/photo/1",
+              "media_key": "3_2106747238655635456",
+              "start": 145,
+              "url": "https://t.co/ByCbLCCLVK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106747645113073667",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "alt_text": "到达1w粉了 真的不敢相信 在吃了第一次冻结的时候那个时候是真的沮丧...第二次...在9k多时候被冻都以为要成为心结了呢 接着还有第三次....已经不知道是受了多少的鼓励和期待才能做到连续三次申诉成功解封呢，无法用言语形容了，是大家，每位小天使共同造就的奇迹。\n这一路走来，从个位数的关注到现在的1w+，每一个点赞、每一条评论、每一次分享都让我感到无比温暖。记得最开始发帖时的忐忑，担心会不会有人看，会不会有人喜欢，而现在看到大家的支持和鼓励，真的觉得自己被治愈了无数次❤️虽然现在被标记了吃了很严重的限流，但还是特别想谢谢那些一直陪到现在现在的粉丝，还有会第一时间看更新的粉丝，以及最近的，未来的，好多好多，真的很开心。不能放开手脚更新确实感觉很对不起大家x",
+            "media_key": "3_2106747238655635456"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "万粉的礼物是初次做的温馨洗脑向问卷 虽然应该是初版 但还是下了一定心血做好的  大约做了超过100+的题目 有彩蛋和分支哦~💛希望会被喜欢  之后也应该会逐渐完善更多更多别的什么的 如果反响好也会做出更多其他的\n目前的话 这个月内半价25r即可~\n作为万粉福利 抽十个免费领取~报名条件是 关注点赞转发评论即可w（呜呜呜限流太厉害了这个对咱真的很重要！）"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1368,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "万粉的礼物是初次做的温馨洗脑向问卷 虽然应该是初版 但还是下了一定心血做好的  大约做了超过100+的题目 有彩蛋和分支哦~💛希望会被喜欢  之后也应该会逐渐完善更多更多别的什么的 如果反响好也会做出更多其他的\n目前的话 这个月内半价25r即可~\n作为万粉福利 抽十个免费领取~报名条件是 https://t.co/ByCbLCCLVK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "文援，贡主♡\n亲友团如下，奏奏认证，绝不踩雷：@jingli1840489\n@chessy80978858\n@lingyu_nn\n@choeycholote\n@blakexiaonai\n@miaomiaomyoez2\n@GaoGaoLove_\n@jinli1dyz\n@Sama184396\n我的qq2829556413",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 53,
+                "start": 38,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "lingyu_nn"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "choeycholote"
+              },
+              {
+                "end": 92,
+                "start": 79,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 108,
+                "start": 93,
+                "username": "miaomiaomyoez2"
+              },
+              {
+                "end": 121,
+                "start": 109,
+                "username": "GaoGaoLove_"
+              },
+              {
+                "end": 132,
+                "start": 122,
+                "username": "jinli1dyz"
+              },
+              {
+                "end": 144,
+                "start": 133,
+                "username": "Sama184396"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zouzou-princess-fan-2.replit.app",
+                "end": 23,
+                "expanded_url": "https://zouzou-princess-fan-2.replit.app/",
+                "start": 0,
+                "url": "https://t.co/i1TjdLx6mz"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "is_identity_verified": false,
+        "location": "网站是奏游入口~",
+        "most_recent_tweet_id": "2107066438775373935",
+        "name": "超涩气超绿茶的魔女公主-奏奏💚",
+        "pinned_tweet_id": "2096142932147622373",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1374389254726455305/1780949984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093830641548922880/QYpa_zhH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10780,
+          "following_count": 537,
+          "like_count": 1061,
+          "listed_count": 43,
+          "media_count": 898,
+          "tweet_count": 2441
+        },
+        "url": "https://t.co/i1TjdLx6mz",
+        "username": "xuemingjiai",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-05T01:31:46.000Z",
+        "description": "这里简妮~喜欢简妮的直接看简妮的推文就好了呢~因为是全能型s 所以都很擅长呢💖敲门前看置顶菜单哦门牌号q1430295633~碎碎念@s793874574 （慎入）友善老婆@xuemingjiai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 66,
+                "username": "s793874574"
+              },
+              {
+                "end": 98,
+                "start": 86,
+                "username": "xuemingjiai"
+              }
+            ]
+          }
+        },
+        "id": "1555365870649708544",
+        "is_identity_verified": false,
+        "location": "踩在你心里♡",
+        "most_recent_tweet_id": "2107057670004072825",
+        "name": "简妮♡（互推私）",
+        "pinned_tweet_id": "2051301914835591291",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1555365870649708544/1764673488",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076286495246467072/1cHlxqvi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10066,
+          "following_count": 122,
+          "like_count": 2522,
+          "listed_count": 38,
+          "media_count": 322,
+          "tweet_count": 7149
+        },
+        "url": "",
+        "username": "chessy80978858",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

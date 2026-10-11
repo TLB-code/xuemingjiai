@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "2107077884334756206",
+    "created_at": "2026-10-05T11:58:09.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T12:58:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107077884334756206"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1487445287085830145",
+          "start": 3,
+          "username": "MoriartyRuruka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107077884334756206",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025919347034877952",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MoriartyRuruka: 唔(猫耳抖抖,嘟起粉唇)露露卡大危机!被笨蛋同学偷看到华丽变身,偶像怪盗的闪耀身份直接暴露!可恶(｀Д´#)会被勒索一辈子吧?\n欸?突然叫人家妈妈还痴汉脸想闻今天舞台后湿透透的丝袜香味?啊嘞~只要闻了就永远当妈妈的忠实小奴隶?哼哼~危机瞬…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2025919132638892032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB2Ct6Sb0AAJoz6.jpg",
+        "width": 1072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "2107077884334756206",
+        "created_at": "2026-10-05T11:58:09.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T12:58:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107077884334756206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1487445287085830145",
+              "start": 3,
+              "username": "MoriartyRuruka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107077884334756206",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025919347034877952",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MoriartyRuruka: 唔(猫耳抖抖,嘟起粉唇)露露卡大危机!被笨蛋同学偷看到华丽变身,偶像怪盗的闪耀身份直接暴露!可恶(｀Д´#)会被勒索一辈子吧?\n欸?突然叫人家妈妈还痴汉脸想闻今天舞台后湿透透的丝袜香味?啊嘞~只要闻了就永远当妈妈的忠实小奴隶?哼哼~危机瞬…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025919132638892032"
+          ]
+        },
+        "author_id": "1487445287085830145",
+        "conversation_id": "2025919347034877952",
+        "created_at": "2026-02-23T13:03:06.000Z",
+        "display_text_range": [
+          0,
+          150
+        ],
+        "edit_controls": {
+          "editable_until": "2026-02-23T14:03:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025919347034877952"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Oh5SCXU5yU",
+              "end": 174,
+              "expanded_url": "https://x.com/MoriartyRuruka/status/2025919347034877952/photo/1",
+              "media_key": "3_2025919132638892032",
+              "start": 151,
+              "url": "https://t.co/Oh5SCXU5yU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025919347034877952",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2025919132638892032"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 6655,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "唔(猫耳抖抖,嘟起粉唇)露露卡大危机!被笨蛋同学偷看到华丽变身,偶像怪盗的闪耀身份直接暴露!可恶(｀Д´#)会被勒索一辈子吧?\n欸?突然叫人家妈妈还痴汉脸想闻今天舞台后湿透透的丝袜香味?啊嘞~只要闻了就永远当妈妈的忠实小奴隶?哼哼~危机瞬间华丽逆转♡\n跪好!脸贴上来好好闻香香小脚丫~闻到上头为止哦~ https://t.co/Oh5SCXU5yU"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "文援，贡主♡\n亲友团如下，奏奏认证，绝不踩雷：@jingli1840489\n@chessy80978858\n@lingyu_nn\n@choeycholote\n@blakexiaonai\n@miaomiaomyoez2\n@GaoGaoLove_\n@jinli1dyz\n@Sama184396\n我的qq2829556413",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 53,
+                "start": 38,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "lingyu_nn"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "choeycholote"
+              },
+              {
+                "end": 92,
+                "start": 79,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 108,
+                "start": 93,
+                "username": "miaomiaomyoez2"
+              },
+              {
+                "end": 121,
+                "start": 109,
+                "username": "GaoGaoLove_"
+              },
+              {
+                "end": 132,
+                "start": 122,
+                "username": "jinli1dyz"
+              },
+              {
+                "end": 144,
+                "start": 133,
+                "username": "Sama184396"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zouzou-princess-fan-2.replit.app",
+                "end": 23,
+                "expanded_url": "https://zouzou-princess-fan-2.replit.app/",
+                "start": 0,
+                "url": "https://t.co/i1TjdLx6mz"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "is_identity_verified": false,
+        "location": "网站是奏游入口~",
+        "most_recent_tweet_id": "2107077884334756206",
+        "name": "超涩气超绿茶的魔女公主-奏奏💚",
+        "pinned_tweet_id": "2096142932147622373",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1374389254726455305/1780949984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093830641548922880/QYpa_zhH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10779,
+          "following_count": 537,
+          "like_count": 1063,
+          "listed_count": 43,
+          "media_count": 899,
+          "tweet_count": 2446
+        },
+        "url": "https://t.co/i1TjdLx6mz",
+        "username": "xuemingjiai",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-01-29T15:19:35.000Z",
+        "description": "最可爱最闪耀的偶像怪盗妈妈💜\n甜甜笑脸下藏着黑心小恶魔~🖤\n今天也要把笨蛋奴隶们彻底压榨到上头~离不开~只剩“妈妈🩷”为止~\n闻闻舞台后的湿丝袜香?每天跪好闻到脑子空白?\n嗯哼~奴隶的钱包和忠诚当然也要全部上贡给本小姐才行🖤\n来吧~香香小脚丫已经准备好啦♪\n快跪下来~深深吸~永远当露露卡的专属小狗狗吧~",
+        "id": "1487445287085830145",
+        "is_identity_verified": false,
+        "location": "你的🤍里~",
+        "most_recent_tweet_id": "2106767576349163833",
+        "name": "🤍露露卡💜(应援通道私信过门后掉落哦~)",
+        "pinned_tweet_id": "2025919347034877952",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1487445287085830145/1770836552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021661129924390914/mqVIJQDw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 48,
+          "like_count": 205,
+          "listed_count": 3,
+          "media_count": 26,
+          "tweet_count": 194
+        },
+        "url": "",
+        "username": "MoriartyRuruka",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

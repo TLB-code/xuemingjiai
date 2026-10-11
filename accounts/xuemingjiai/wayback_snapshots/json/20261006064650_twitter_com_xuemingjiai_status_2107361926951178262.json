@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "2107361926951178262",
+    "created_at": "2026-10-06T06:46:50.000Z",
+    "display_text_range": [
+      0,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T07:46:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2107361926951178262"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/geye_zm/status…",
+          "end": 61,
+          "expanded_url": "https://twitter.com/geye_zm/status/2107361670012051670",
+          "start": 38,
+          "url": "https://t.co/1u0MVoYwEC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107361926951178262",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107361670012051670",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "谢谢葛叶老师的帮忙推广宣传~葛叶老师的文游也很用心很好玩!大家都可以试试~ https://t.co/1u0MVoYwEC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2107361664664473600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT7aRMuaEAAijvN.jpg",
+        "width": 822
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "2107361926951178262",
+        "created_at": "2026-10-06T06:46:50.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T07:46:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107361926951178262"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/geye_zm/status…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/geye_zm/status/2107361670012051670",
+              "start": 38,
+              "url": "https://t.co/1u0MVoYwEC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107361926951178262",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107361670012051670",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谢谢葛叶老师的帮忙推广宣传~葛叶老师的文游也很用心很好玩!大家都可以试试~ https://t.co/1u0MVoYwEC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107361664664473600"
+          ]
+        },
+        "author_id": "1752181716028936192",
+        "conversation_id": "2107361670012051670",
+        "created_at": "2026-10-06T06:45:49.000Z",
+        "display_text_range": [
+          0,
+          136
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T07:45:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107361670012051670"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "奏奏魔女公主官方粉丝网页 - 签到、上贡、获得公主的宠爱",
+              "display_url": "zouzou-princess-fan-2.replit.app",
+              "end": 136,
+              "expanded_url": "https://zouzou-princess-fan-2.replit.app/",
+              "start": 113,
+              "status": 200,
+              "title": "奏奏魔女公主 - 粉丝专属领地",
+              "unwound_url": "https://zouzou-princess-fan-2.replit.app/",
+              "url": "https://t.co/X7ndCO9Ymt"
+            },
+            {
+              "display_url": "pic.x.com/B17vTQPU2P",
+              "end": 160,
+              "expanded_url": "https://x.com/geye_zm/status/2107361670012051670/photo/1",
+              "media_key": "3_2107361664664473600",
+              "start": 137,
+              "url": "https://t.co/B17vTQPU2P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107361670012051670",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2107361664664473600"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "huh～这里有超级好玩的多人联机互动文游？反正就是可以挂机放置升级打怪异世界种种的啦，还可以打牌下棋，玩家之间进行上贡的贡系文游，作为挺好的，帮魔女小姐宣传一下哦，大家如果感兴趣就点进下面的链接提交注册申请就行了。\n奏游入口：https://t.co/X7ndCO9Ymt https://t.co/B17vTQPU2P"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "文援，贡主♡\n亲友团如下，奏奏认证，绝不踩雷：@jingli1840489\n@chessy80978858\n@lingyu_nn\n@choeycholote\n@blakexiaonai\n@miaomiaomyoez2\n@GaoGaoLove_\n@jinli1dyz\n@Sama184396\n我的qq2829556413",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 53,
+                "start": 38,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "lingyu_nn"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "choeycholote"
+              },
+              {
+                "end": 92,
+                "start": 79,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 108,
+                "start": 93,
+                "username": "miaomiaomyoez2"
+              },
+              {
+                "end": 121,
+                "start": 109,
+                "username": "GaoGaoLove_"
+              },
+              {
+                "end": 132,
+                "start": 122,
+                "username": "jinli1dyz"
+              },
+              {
+                "end": 144,
+                "start": 133,
+                "username": "Sama184396"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zouzou-princess-fan-2.replit.app",
+                "end": 23,
+                "expanded_url": "https://zouzou-princess-fan-2.replit.app/",
+                "start": 0,
+                "url": "https://t.co/i1TjdLx6mz"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "is_identity_verified": false,
+        "location": "网站是奏游入口~",
+        "most_recent_tweet_id": "2107361926951178262",
+        "name": "超涩气超绿茶的魔女公主-奏奏💚",
+        "pinned_tweet_id": "2096142932147622373",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1374389254726455305/1780949984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093830641548922880/QYpa_zhH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10806,
+          "following_count": 535,
+          "like_count": 1064,
+          "listed_count": 43,
+          "media_count": 899,
+          "tweet_count": 2453
+        },
+        "url": "https://t.co/i1TjdLx6mz",
+        "username": "xuemingjiai",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-30T04:07:37.000Z",
+        "description": "这里是葛叶真明，文游作者，制作的文游暂时只包含微软问卷以及milovana，擅长寸止憋精，呼吸控制，倒计时，各类剧情，气味羞辱，定制任务等，暂时只制作文游，不定期开启文援服务，欢迎各位扩列互推喵～\n买游戏找客服，客服主页有咱的历史推文以及文游\n客服:@QhsfR7LysR37295\n可爱的后辈:@ru_zhimeng",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 141,
+                "start": 125,
+                "username": "QhsfR7LysR37295"
+              },
+              {
+                "end": 159,
+                "start": 148,
+                "username": "ru_zhimeng"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+Zqurf7RUye42M…",
+                "end": 23,
+                "expanded_url": "https://t.me/+Zqurf7RUye42MzM1",
+                "start": 0,
+                "url": "https://t.co/MW0XxdoPce"
+              }
+            ]
+          }
+        },
+        "id": "1752181716028936192",
+        "is_identity_verified": false,
+        "location": "欢迎进入鞋垫～♡",
+        "most_recent_tweet_id": "2107361670012051670",
+        "name": "葛叶真明",
+        "pinned_tweet_id": "2071874982981112176",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1752181716028936192/1728433325",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928352522969960450/19TGklH6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15909,
+          "following_count": 53,
+          "like_count": 146,
+          "listed_count": 31,
+          "media_count": 134,
+          "tweet_count": 1843
+        },
+        "url": "https://t.co/MW0XxdoPce",
+        "username": "geye_zm",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "2107067386029543539",
+    "created_at": "2026-10-05T11:16:26.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T12:16:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107067386029543539"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2066221915224801280",
+          "start": 3,
+          "username": "jinli1dyz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107067386029543539",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106714538850832775",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jinli1dyz: 诶～？怎么一直盯着人家的脚脚看呀♡唔？可以哦♡可以对人家的脚脚干任何你想干的事情哦♡（撩起裙子的一角 露出丰满的屁股♡）ww带你前往天国哦宝宝♡不要犹豫～不要思考～大脑是没用的东西～♡来♡小狐狸带你去天堂♡\nAlt是陷阱哦～各位宝宝千万~千万不要点…"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "ww还是忍不住点开了叭～正常人都不会随便点开一个明知道~是陷阱♡的Alt吧♡白■贡■♡脚脚可不是免费的哦白痴♡所谓的天国～其实也是无尽的地狱♡提款～52r♡你逃不掉的哦♡逃不掉的♡只会陷入无尽的对狐狸妹妹的崇拜♡追随♡臣服♡上贡♡",
+        "height": 2560,
+        "media_key": "3_2106714528352550912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTyNs6GbwAAaXYR.jpg",
+        "width": 1580
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "2107067386029543539",
+        "created_at": "2026-10-05T11:16:26.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T12:16:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107067386029543539"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2066221915224801280",
+              "start": 3,
+              "username": "jinli1dyz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107067386029543539",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106714538850832775",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jinli1dyz: 诶～？怎么一直盯着人家的脚脚看呀♡唔？可以哦♡可以对人家的脚脚干任何你想干的事情哦♡（撩起裙子的一角 露出丰满的屁股♡）ww带你前往天国哦宝宝♡不要犹豫～不要思考～大脑是没用的东西～♡来♡小狐狸带你去天堂♡\nAlt是陷阱哦～各位宝宝千万~千万不要点…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106714528352550912"
+          ]
+        },
+        "author_id": "2066221915224801280",
+        "conversation_id": "2106714538850832775",
+        "created_at": "2026-10-04T11:54:21.000Z",
+        "display_text_range": [
+          0,
+          127
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T12:54:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106714538850832775"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/elYk5L0dwH",
+              "end": 151,
+              "expanded_url": "https://x.com/jinli1dyz/status/2106714538850832775/photo/1",
+              "media_key": "3_2106714528352550912",
+              "start": 128,
+              "url": "https://t.co/elYk5L0dwH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106714538850832775",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "alt_text": "ww还是忍不住点开了叭～正常人都不会随便点开一个明知道~是陷阱♡的Alt吧♡白■贡■♡脚脚可不是免费的哦白痴♡所谓的天国～其实也是无尽的地狱♡提款～52r♡你逃不掉的哦♡逃不掉的♡只会陷入无尽的对狐狸妹妹的崇拜♡追随♡臣服♡上贡♡",
+            "media_key": "3_2106714528352550912"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 419,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "诶～？怎么一直盯着人家的脚脚看呀♡唔？可以哦♡可以对人家的脚脚干任何你想干的事情哦♡（撩起裙子的一角 露出丰满的屁股♡）ww带你前往天国哦宝宝♡不要犹豫～不要思考～大脑是没用的东西～♡来♡小狐狸带你去天堂♡\nAlt是陷阱哦～各位宝宝千万~千万不要点开哦♡ https://t.co/elYk5L0dwH"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "文援，贡主♡\n亲友团如下，奏奏认证，绝不踩雷：@jingli1840489\n@chessy80978858\n@lingyu_nn\n@choeycholote\n@blakexiaonai\n@miaomiaomyoez2\n@GaoGaoLove_\n@jinli1dyz\n@Sama184396\n我的qq2829556413",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 53,
+                "start": 38,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "lingyu_nn"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "choeycholote"
+              },
+              {
+                "end": 92,
+                "start": 79,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 108,
+                "start": 93,
+                "username": "miaomiaomyoez2"
+              },
+              {
+                "end": 121,
+                "start": 109,
+                "username": "GaoGaoLove_"
+              },
+              {
+                "end": 132,
+                "start": 122,
+                "username": "jinli1dyz"
+              },
+              {
+                "end": 144,
+                "start": 133,
+                "username": "Sama184396"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zouzou-princess-fan-2.replit.app",
+                "end": 23,
+                "expanded_url": "https://zouzou-princess-fan-2.replit.app/",
+                "start": 0,
+                "url": "https://t.co/i1TjdLx6mz"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "is_identity_verified": false,
+        "location": "网站是奏游入口~",
+        "most_recent_tweet_id": "2107067386029543539",
+        "name": "超涩气超绿茶的魔女公主-奏奏💚",
+        "pinned_tweet_id": "2096142932147622373",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1374389254726455305/1780949984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093830641548922880/QYpa_zhH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10780,
+          "following_count": 537,
+          "like_count": 1061,
+          "listed_count": 43,
+          "media_count": 898,
+          "tweet_count": 2443
+        },
+        "url": "https://t.co/i1TjdLx6mz",
+        "username": "xuemingjiai",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-14T18:11:37.000Z",
+        "description": "一只堕落的小狐狸💜，这里只有温柔但又险要的陷阱，不会有细声细语安抚，只会被人家爆■，提■，榨■🖤被人家玩弄洗脑成一只会吐金币的■智贱■🖤来吧找人家玩吧🖤傻■🖤只有无尽的地狱等着你哦💜\n黑心可爱沫沫@Mo113mooo\n最喜欢的奏奏@xuemingjiai \n秋秋3851673439 🚪10r",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 98,
+                "username": "Mo113mooo"
+              },
+              {
+                "end": 127,
+                "start": 115,
+                "username": "xuemingjiai"
+              }
+            ]
+          }
+        },
+        "id": "2066221915224801280",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106714538850832775",
+        "name": "槿离离离离",
+        "pinned_tweet_id": "2106241211875143903",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2066221915224801280/1782551966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070798916153749504/o4pZ7A_Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 704,
+          "following_count": 42,
+          "like_count": 376,
+          "listed_count": 3,
+          "media_count": 39,
+          "tweet_count": 79
+        },
+        "url": "",
+        "username": "jinli1dyz",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1374389254726455305",
+    "conversation_id": "2107065180010279076",
+    "created_at": "2026-10-05T11:07:40.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T12:07:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107065180010279076"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1998088471513337857",
+          "start": 3,
+          "username": "qinghexiao11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107065180010279076",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106683539974656371",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qinghexiao11: 关于贡奴\n\n我个人的观察是：\n\n50%的性压抑+100%的爱压抑\n\n而上贡被骗，则可以是：蠢人遇到了坏人，傻子遇到了骗子，天作之合\n\n并且，坏人自己也可能是蠢人，只是对面那个蠢人“爱”和“性”的把柄攥在她手上，所以显得她从容 https://…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1432,
+        "media_key": "3_2106683531028221952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTxxgoEaUAAr-fV.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374389254726455305",
+        "conversation_id": "2107065180010279076",
+        "created_at": "2026-10-05T11:07:40.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T12:07:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107065180010279076"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1998088471513337857",
+              "start": 3,
+              "username": "qinghexiao11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107065180010279076",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106683539974656371",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qinghexiao11: 关于贡奴\n\n我个人的观察是：\n\n50%的性压抑+100%的爱压抑\n\n而上贡被骗，则可以是：蠢人遇到了坏人，傻子遇到了骗子，天作之合\n\n并且，坏人自己也可能是蠢人，只是对面那个蠢人“爱”和“性”的把柄攥在她手上，所以显得她从容 https://…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106683531028221952"
+          ]
+        },
+        "author_id": "1998088471513337857",
+        "conversation_id": "2106683539974656371",
+        "created_at": "2026-10-04T09:51:10.000Z",
+        "display_text_range": [
+          0,
+          112
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T10:48:40.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106682910300651649",
+          "2106683320348315990",
+          "2106683539974656371"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gkeXikXUmn",
+              "end": 136,
+              "expanded_url": "https://x.com/qinghexiao11/status/2106683539974656371/photo/1",
+              "media_key": "3_2106683531028221952",
+              "start": 113,
+              "url": "https://t.co/gkeXikXUmn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106683539974656371",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106683531028221952"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 4540,
+          "like_count": 53,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "关于贡奴\n\n我个人的观察是：\n\n50%的性压抑+100%的爱压抑\n\n而上贡被骗，则可以是：蠢人遇到了坏人，傻子遇到了骗子，天作之合\n\n并且，坏人自己也可能是蠢人，只是对面那个蠢人“爱”和“性”的把柄攥在她手上，所以显得她从容 https://t.co/gkeXikXUmn"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "文援，贡主♡\n亲友团如下，奏奏认证，绝不踩雷：@jingli1840489\n@chessy80978858\n@lingyu_nn\n@choeycholote\n@blakexiaonai\n@miaomiaomyoez2\n@GaoGaoLove_\n@jinli1dyz\n@Sama184396\n我的qq2829556413",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 53,
+                "start": 38,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "lingyu_nn"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "choeycholote"
+              },
+              {
+                "end": 92,
+                "start": 79,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 108,
+                "start": 93,
+                "username": "miaomiaomyoez2"
+              },
+              {
+                "end": 121,
+                "start": 109,
+                "username": "GaoGaoLove_"
+              },
+              {
+                "end": 132,
+                "start": 122,
+                "username": "jinli1dyz"
+              },
+              {
+                "end": 144,
+                "start": 133,
+                "username": "Sama184396"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zouzou-princess-fan-2.replit.app",
+                "end": 23,
+                "expanded_url": "https://zouzou-princess-fan-2.replit.app/",
+                "start": 0,
+                "url": "https://t.co/i1TjdLx6mz"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "is_identity_verified": false,
+        "location": "网站是奏游入口~",
+        "most_recent_tweet_id": "2107065180010279076",
+        "name": "超涩气超绿茶的魔女公主-奏奏💚",
+        "pinned_tweet_id": "2096142932147622373",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1374389254726455305/1780949984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093830641548922880/QYpa_zhH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10780,
+          "following_count": 535,
+          "like_count": 1055,
+          "listed_count": 43,
+          "media_count": 898,
+          "tweet_count": 2434
+        },
+        "url": "https://t.co/i1TjdLx6mz",
+        "username": "xuemingjiai",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-08T17:53:14.000Z",
+        "description": "门牌号3698672502，🚪20r，送死52r。\n大约是帮忙戒贡的，当然，对送死的不会有同情心，所以请谨慎。\n\n之前还吐槽“那些知道个贡圈就迫不及待来圈米的劣质s，但凡她们打字加个♡🖤❤️■我都当他们努力过了”。\n\n结果现在也编不出简介。\n索性：♡🖤❤️■，好了，就姑且当我努力过了吧。",
+        "id": "1998088471513337857",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106683539974656371",
+        "name": "青禾小",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091561026185555968/OOz-YJHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 944,
+          "following_count": 256,
+          "like_count": 41,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 185
+        },
+        "url": "",
+        "username": "qinghexiao11",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

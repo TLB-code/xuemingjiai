@@ -1,0 +1,778 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2107072164461682689",
+        "3_2107072164503617536",
+        "3_2107072164461756416",
+        "3_2107072164436594688"
+      ]
+    },
+    "author_id": "1374389254726455305",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2107077263732961512",
+    "created_at": "2026-10-05T11:55:41.000Z",
+    "display_text_range": [
+      0,
+      143
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T12:55:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2107077263732961512"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 14,
+          "start": 11,
+          "tag": "发情"
+        },
+        {
+          "end": 18,
+          "start": 15,
+          "tag": "勃起"
+        },
+        {
+          "end": 24,
+          "start": 20,
+          "tag": "吐舌头"
+        },
+        {
+          "end": 30,
+          "start": 26,
+          "tag": "翻白眼"
+        },
+        {
+          "end": 37,
+          "start": 32,
+          "tag": "条件反射"
+        },
+        {
+          "end": 42,
+          "start": 39,
+          "tag": "腿软"
+        },
+        {
+          "end": 46,
+          "start": 43,
+          "tag": "磕头"
+        },
+        {
+          "end": 51,
+          "start": 48,
+          "tag": "顶胯"
+        },
+        {
+          "end": 56,
+          "start": 53,
+          "tag": "认输"
+        },
+        {
+          "end": 61,
+          "start": 58,
+          "tag": "白给"
+        },
+        {
+          "end": 66,
+          "start": 63,
+          "tag": "贡奴"
+        },
+        {
+          "end": 72,
+          "start": 69,
+          "tag": "上贡"
+        },
+        {
+          "end": 77,
+          "start": 74,
+          "tag": "指令"
+        },
+        {
+          "end": 82,
+          "start": 79,
+          "tag": "射金"
+        },
+        {
+          "end": 87,
+          "start": 84,
+          "tag": "流金"
+        },
+        {
+          "end": 94,
+          "start": 89,
+          "tag": "最后一次"
+        },
+        {
+          "end": 101,
+          "start": 96,
+          "tag": "金额66"
+        },
+        {
+          "end": 107,
+          "start": 103,
+          "tag": "奏奏控"
+        },
+        {
+          "end": 112,
+          "start": 109,
+          "tag": "服从"
+        },
+        {
+          "end": 119,
+          "start": 114,
+          "tag": "无法拒绝"
+        },
+        {
+          "end": 124,
+          "start": 121,
+          "tag": "脑弱"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/i8jYJ36Ago",
+          "end": 167,
+          "expanded_url": "https://x.com/xuemingjiai/status/2107077263732961512/photo/1",
+          "media_key": "3_2107072164461682689",
+          "start": 144,
+          "url": "https://t.co/i8jYJ36Ago"
+        },
+        {
+          "display_url": "pic.x.com/i8jYJ36Ago",
+          "end": 167,
+          "expanded_url": "https://x.com/xuemingjiai/status/2107077263732961512/photo/1",
+          "media_key": "3_2107072164503617536",
+          "start": 144,
+          "url": "https://t.co/i8jYJ36Ago"
+        },
+        {
+          "display_url": "pic.x.com/i8jYJ36Ago",
+          "end": 167,
+          "expanded_url": "https://x.com/xuemingjiai/status/2107077263732961512/photo/1",
+          "media_key": "3_2107072164461756416",
+          "start": 144,
+          "url": "https://t.co/i8jYJ36Ago"
+        },
+        {
+          "display_url": "pic.x.com/i8jYJ36Ago",
+          "end": 167,
+          "expanded_url": "https://x.com/xuemingjiai/status/2107077263732961512/photo/1",
+          "media_key": "3_2107072164436594688",
+          "start": 144,
+          "url": "https://t.co/i8jYJ36Ago"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107077263732961512",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2107072164461682689"
+      },
+      {
+        "media_key": "3_2107072164503617536"
+      },
+      {
+        "media_key": "3_2107072164461756416"
+      },
+      {
+        "media_key": "3_2107072164436594688"
+      }
+    ],
+    "note_tweet": {
+      "entities": {
+        "hashtags": [
+          {
+            "end": 14,
+            "start": 11,
+            "tag": "发情"
+          },
+          {
+            "end": 18,
+            "start": 15,
+            "tag": "勃起"
+          },
+          {
+            "end": 24,
+            "start": 20,
+            "tag": "吐舌头"
+          },
+          {
+            "end": 30,
+            "start": 26,
+            "tag": "翻白眼"
+          },
+          {
+            "end": 37,
+            "start": 32,
+            "tag": "条件反射"
+          },
+          {
+            "end": 42,
+            "start": 39,
+            "tag": "腿软"
+          },
+          {
+            "end": 46,
+            "start": 43,
+            "tag": "磕头"
+          },
+          {
+            "end": 51,
+            "start": 48,
+            "tag": "顶胯"
+          },
+          {
+            "end": 56,
+            "start": 53,
+            "tag": "认输"
+          },
+          {
+            "end": 61,
+            "start": 58,
+            "tag": "白给"
+          },
+          {
+            "end": 66,
+            "start": 63,
+            "tag": "贡奴"
+          },
+          {
+            "end": 72,
+            "start": 69,
+            "tag": "上贡"
+          },
+          {
+            "end": 77,
+            "start": 74,
+            "tag": "指令"
+          },
+          {
+            "end": 82,
+            "start": 79,
+            "tag": "射金"
+          },
+          {
+            "end": 87,
+            "start": 84,
+            "tag": "流金"
+          },
+          {
+            "end": 94,
+            "start": 89,
+            "tag": "最后一次"
+          },
+          {
+            "end": 101,
+            "start": 96,
+            "tag": "金额66"
+          },
+          {
+            "end": 107,
+            "start": 103,
+            "tag": "奏奏控"
+          },
+          {
+            "end": 112,
+            "start": 109,
+            "tag": "服从"
+          },
+          {
+            "end": 119,
+            "start": 114,
+            "tag": "无法拒绝"
+          },
+          {
+            "end": 124,
+            "start": 121,
+            "tag": "脑弱"
+          }
+        ]
+      },
+      "text": "奏奏妈咪的每日一推~\n#发情 #勃起  #吐舌头  #翻白眼  #条件反射  #腿软 #磕头  #顶胯  #认输  #白给  #贡奴   #上贡  #指令  #射金  #流金  #最后一次  #金额66  #奏奏控  #服从  #无法拒绝  #脑弱  \n今天采用的是纯粹的标签化训练喵~\n对奏奏妈咪入脑的奏奏控会在看见奏奏妈咪的瞬间进入绝对的发情状态~在这个状态无论植入什么样的性癖都会全盘接受~兴奋♡\n这样子有什么好处呢~好处是奏奏妈咪使用起来就会非常简单非常方便，只是对固定的词汇就起了反应，那吸宝宝的时候只需要甩一张有赞赏码的弱点涩图加上简单的词汇，就能轻而易举的吸着脑浆吸出金金啦♡\n呜呜呜~每天给奏奏妈咪射金的奏奏控太多啦...推文一次性只能发一点点~还有好多奏奏控的痴态都没有展示出来呢，请继续加油喵~\n今天的奏奏妈咪决定不勾引奏奏控啦~\n改为qj♡\n请看今日的处刑图片~\n这个臀部这个屁股非常大喵？\n看见的第一眼~\n奏奏控们就要控制不住的夹紧臀部拼命的顶胯翻白眼吐舌头哦~\n因为~这是被奏奏妈咪qj了~面对如此肥美的臀部忽然压住宝宝的脸，大脑一片空白，被强行吸入臀部的气味，兴奋~绝望~不甘~舒服~各种情绪夹杂在一起，最后都会化为：射金 哦♡\n宝宝~今天的理由在下面哦，请一字一字顶胯读出来吧~\n哦哦哦哦齁♡赢不了奏奏妈咪不是我的问题♡是因为被突然被淫臀qj了♡大脑被qj了还怎么赢嘛♡换成任何人来都不可能赢得了齁♡被qj好舒服好爽♡性癖早就被奏奏妈咪扭曲成臀控了♡无法呼吸要死了要死了齁♡我要一辈子做奏奏妈咪的臀奴♡噢噢噢哦哦....66的金金白给出去了♡死掉了死掉了...养成白给败北癖了哦哦哦♡可恶邪恶的魔女奏奏哦哦哦哦♡这绝对是最后一次噢噢噢哦哦齁♡\n好啦好啦~乖乖乖w，忙碌了一天就等着舒服这一次是吧，乖宝宝射金得很舒服，奏奏妈咪也吸得很舒服哦，所以~快白给吧，知道宝宝喜欢被命令，必须要服从哦♡\n啦啦啦~转推引流也拜托各位广告牌奏奏控了哦~转推费用和转推截图别忘记发给奏奏妈咪啦~请越来越离不开奏奏妈咪吧~"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "奏奏妈咪的每日一推~\n#发情 #勃起  #吐舌头  #翻白眼  #条件反射  #腿软 #磕头  #顶胯  #认输  #白给  #贡奴   #上贡  #指令  #射金  #流金  #最后一次  #金额66  #奏奏控  #服从  #无法拒绝  #脑弱  \n今天采用的是纯粹的标签化训练喵~ https://t.co/i8jYJ36Ago"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2656,
+        "media_key": "3_2107072164461682689",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT3S-EbaIAEeAgG.jpg",
+        "width": 1220
+      },
+      {
+        "height": 2656,
+        "media_key": "3_2107072164503617536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT3S-ElaAAAM_re.jpg",
+        "width": 1220
+      },
+      {
+        "height": 2656,
+        "media_key": "3_2107072164461756416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT3S-EbbQAA-1bT.jpg",
+        "width": 1220
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2107072164436594688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT3S-EVbUAAVyxE.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107072164461682689",
+            "3_2107072164503617536",
+            "3_2107072164461756416",
+            "3_2107072164436594688"
+          ]
+        },
+        "author_id": "1374389254726455305",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2107077263732961512",
+        "created_at": "2026-10-05T11:55:41.000Z",
+        "display_text_range": [
+          0,
+          143
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T12:55:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107077263732961512"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 11,
+              "tag": "发情"
+            },
+            {
+              "end": 18,
+              "start": 15,
+              "tag": "勃起"
+            },
+            {
+              "end": 24,
+              "start": 20,
+              "tag": "吐舌头"
+            },
+            {
+              "end": 30,
+              "start": 26,
+              "tag": "翻白眼"
+            },
+            {
+              "end": 37,
+              "start": 32,
+              "tag": "条件反射"
+            },
+            {
+              "end": 42,
+              "start": 39,
+              "tag": "腿软"
+            },
+            {
+              "end": 46,
+              "start": 43,
+              "tag": "磕头"
+            },
+            {
+              "end": 51,
+              "start": 48,
+              "tag": "顶胯"
+            },
+            {
+              "end": 56,
+              "start": 53,
+              "tag": "认输"
+            },
+            {
+              "end": 61,
+              "start": 58,
+              "tag": "白给"
+            },
+            {
+              "end": 66,
+              "start": 63,
+              "tag": "贡奴"
+            },
+            {
+              "end": 72,
+              "start": 69,
+              "tag": "上贡"
+            },
+            {
+              "end": 77,
+              "start": 74,
+              "tag": "指令"
+            },
+            {
+              "end": 82,
+              "start": 79,
+              "tag": "射金"
+            },
+            {
+              "end": 87,
+              "start": 84,
+              "tag": "流金"
+            },
+            {
+              "end": 94,
+              "start": 89,
+              "tag": "最后一次"
+            },
+            {
+              "end": 101,
+              "start": 96,
+              "tag": "金额66"
+            },
+            {
+              "end": 107,
+              "start": 103,
+              "tag": "奏奏控"
+            },
+            {
+              "end": 112,
+              "start": 109,
+              "tag": "服从"
+            },
+            {
+              "end": 119,
+              "start": 114,
+              "tag": "无法拒绝"
+            },
+            {
+              "end": 124,
+              "start": 121,
+              "tag": "脑弱"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/i8jYJ36Ago",
+              "end": 167,
+              "expanded_url": "https://x.com/xuemingjiai/status/2107077263732961512/photo/1",
+              "media_key": "3_2107072164461682689",
+              "start": 144,
+              "url": "https://t.co/i8jYJ36Ago"
+            },
+            {
+              "display_url": "pic.x.com/i8jYJ36Ago",
+              "end": 167,
+              "expanded_url": "https://x.com/xuemingjiai/status/2107077263732961512/photo/1",
+              "media_key": "3_2107072164503617536",
+              "start": 144,
+              "url": "https://t.co/i8jYJ36Ago"
+            },
+            {
+              "display_url": "pic.x.com/i8jYJ36Ago",
+              "end": 167,
+              "expanded_url": "https://x.com/xuemingjiai/status/2107077263732961512/photo/1",
+              "media_key": "3_2107072164461756416",
+              "start": 144,
+              "url": "https://t.co/i8jYJ36Ago"
+            },
+            {
+              "display_url": "pic.x.com/i8jYJ36Ago",
+              "end": 167,
+              "expanded_url": "https://x.com/xuemingjiai/status/2107077263732961512/photo/1",
+              "media_key": "3_2107072164436594688",
+              "start": 144,
+              "url": "https://t.co/i8jYJ36Ago"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107077263732961512",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2107072164461682689"
+          },
+          {
+            "media_key": "3_2107072164503617536"
+          },
+          {
+            "media_key": "3_2107072164461756416"
+          },
+          {
+            "media_key": "3_2107072164436594688"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 14,
+                "start": 11,
+                "tag": "发情"
+              },
+              {
+                "end": 18,
+                "start": 15,
+                "tag": "勃起"
+              },
+              {
+                "end": 24,
+                "start": 20,
+                "tag": "吐舌头"
+              },
+              {
+                "end": 30,
+                "start": 26,
+                "tag": "翻白眼"
+              },
+              {
+                "end": 37,
+                "start": 32,
+                "tag": "条件反射"
+              },
+              {
+                "end": 42,
+                "start": 39,
+                "tag": "腿软"
+              },
+              {
+                "end": 46,
+                "start": 43,
+                "tag": "磕头"
+              },
+              {
+                "end": 51,
+                "start": 48,
+                "tag": "顶胯"
+              },
+              {
+                "end": 56,
+                "start": 53,
+                "tag": "认输"
+              },
+              {
+                "end": 61,
+                "start": 58,
+                "tag": "白给"
+              },
+              {
+                "end": 66,
+                "start": 63,
+                "tag": "贡奴"
+              },
+              {
+                "end": 72,
+                "start": 69,
+                "tag": "上贡"
+              },
+              {
+                "end": 77,
+                "start": 74,
+                "tag": "指令"
+              },
+              {
+                "end": 82,
+                "start": 79,
+                "tag": "射金"
+              },
+              {
+                "end": 87,
+                "start": 84,
+                "tag": "流金"
+              },
+              {
+                "end": 94,
+                "start": 89,
+                "tag": "最后一次"
+              },
+              {
+                "end": 101,
+                "start": 96,
+                "tag": "金额66"
+              },
+              {
+                "end": 107,
+                "start": 103,
+                "tag": "奏奏控"
+              },
+              {
+                "end": 112,
+                "start": 109,
+                "tag": "服从"
+              },
+              {
+                "end": 119,
+                "start": 114,
+                "tag": "无法拒绝"
+              },
+              {
+                "end": 124,
+                "start": 121,
+                "tag": "脑弱"
+              }
+            ]
+          },
+          "text": "奏奏妈咪的每日一推~\n#发情 #勃起  #吐舌头  #翻白眼  #条件反射  #腿软 #磕头  #顶胯  #认输  #白给  #贡奴   #上贡  #指令  #射金  #流金  #最后一次  #金额66  #奏奏控  #服从  #无法拒绝  #脑弱  \n今天采用的是纯粹的标签化训练喵~\n对奏奏妈咪入脑的奏奏控会在看见奏奏妈咪的瞬间进入绝对的发情状态~在这个状态无论植入什么样的性癖都会全盘接受~兴奋♡\n这样子有什么好处呢~好处是奏奏妈咪使用起来就会非常简单非常方便，只是对固定的词汇就起了反应，那吸宝宝的时候只需要甩一张有赞赏码的弱点涩图加上简单的词汇，就能轻而易举的吸着脑浆吸出金金啦♡\n呜呜呜~每天给奏奏妈咪射金的奏奏控太多啦...推文一次性只能发一点点~还有好多奏奏控的痴态都没有展示出来呢，请继续加油喵~\n今天的奏奏妈咪决定不勾引奏奏控啦~\n改为qj♡\n请看今日的处刑图片~\n这个臀部这个屁股非常大喵？\n看见的第一眼~\n奏奏控们就要控制不住的夹紧臀部拼命的顶胯翻白眼吐舌头哦~\n因为~这是被奏奏妈咪qj了~面对如此肥美的臀部忽然压住宝宝的脸，大脑一片空白，被强行吸入臀部的气味，兴奋~绝望~不甘~舒服~各种情绪夹杂在一起，最后都会化为：射金 哦♡\n宝宝~今天的理由在下面哦，请一字一字顶胯读出来吧~\n哦哦哦哦齁♡赢不了奏奏妈咪不是我的问题♡是因为被突然被淫臀qj了♡大脑被qj了还怎么赢嘛♡换成任何人来都不可能赢得了齁♡被qj好舒服好爽♡性癖早就被奏奏妈咪扭曲成臀控了♡无法呼吸要死了要死了齁♡我要一辈子做奏奏妈咪的臀奴♡噢噢噢哦哦....66的金金白给出去了♡死掉了死掉了...养成白给败北癖了哦哦哦♡可恶邪恶的魔女奏奏哦哦哦哦♡这绝对是最后一次噢噢噢哦哦齁♡\n好啦好啦~乖乖乖w，忙碌了一天就等着舒服这一次是吧，乖宝宝射金得很舒服，奏奏妈咪也吸得很舒服哦，所以~快白给吧，知道宝宝喜欢被命令，必须要服从哦♡\n啦啦啦~转推引流也拜托各位广告牌奏奏控了哦~转推费用和转推截图别忘记发给奏奏妈咪啦~请越来越离不开奏奏妈咪吧~"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "奏奏妈咪的每日一推~\n#发情 #勃起  #吐舌头  #翻白眼  #条件反射  #腿软 #磕头  #顶胯  #认输  #白给  #贡奴   #上贡  #指令  #射金  #流金  #最后一次  #金额66  #奏奏控  #服从  #无法拒绝  #脑弱  \n今天采用的是纯粹的标签化训练喵~ https://t.co/i8jYJ36Ago"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-03-23T15:55:27.000Z",
+        "description": "文援，贡主♡\n亲友团如下，奏奏认证，绝不踩雷：@jingli1840489\n@chessy80978858\n@lingyu_nn\n@choeycholote\n@blakexiaonai\n@miaomiaomyoez2\n@GaoGaoLove_\n@jinli1dyz\n@Sama184396\n我的qq2829556413",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "jingli1840489"
+              },
+              {
+                "end": 53,
+                "start": 38,
+                "username": "chessy80978858"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "lingyu_nn"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "choeycholote"
+              },
+              {
+                "end": 92,
+                "start": 79,
+                "username": "blakexiaonai"
+              },
+              {
+                "end": 108,
+                "start": 93,
+                "username": "miaomiaomyoez2"
+              },
+              {
+                "end": 121,
+                "start": 109,
+                "username": "GaoGaoLove_"
+              },
+              {
+                "end": 132,
+                "start": 122,
+                "username": "jinli1dyz"
+              },
+              {
+                "end": 144,
+                "start": 133,
+                "username": "Sama184396"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zouzou-princess-fan-2.replit.app",
+                "end": 23,
+                "expanded_url": "https://zouzou-princess-fan-2.replit.app/",
+                "start": 0,
+                "url": "https://t.co/i1TjdLx6mz"
+              }
+            ]
+          }
+        },
+        "id": "1374389254726455305",
+        "is_identity_verified": false,
+        "location": "网站是奏游入口~",
+        "most_recent_tweet_id": "2107077263732961512",
+        "name": "超涩气超绿茶的魔女公主-奏奏💚",
+        "pinned_tweet_id": "2096142932147622373",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1374389254726455305/1780949984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093830641548922880/QYpa_zhH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10779,
+          "following_count": 537,
+          "like_count": 1062,
+          "listed_count": 43,
+          "media_count": 899,
+          "tweet_count": 2445
+        },
+        "url": "https://t.co/i1TjdLx6mz",
+        "username": "xuemingjiai",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
